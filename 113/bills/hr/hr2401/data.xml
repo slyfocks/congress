@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="2401" updated="2013-07-17T16:07:40-04:00">
+  <state datetime="2013-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-17"/>
+  </status>
+  <introduced datetime="2013-06-17"/>
+  <titles>
+    <title as="introduced" type="short">Good Neighbor Forestry Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of Agriculture and the Secretary of the Interior to enter into cooperative agreements with State foresters authorizing State foresters to provide certain forest, rangeland, and watershed restoration and protection services.</title>
+  </titles>
+  <sponsor id="412508"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-17">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-17">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-06-17">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="327"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

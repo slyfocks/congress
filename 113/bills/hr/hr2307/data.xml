@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="2307" updated="2013-07-17T16:06:53-04:00">
+  <state datetime="2013-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-10"/>
+  </status>
+  <introduced datetime="2013-06-10"/>
+  <titles>
+    <title as="introduced" type="short">Working to Address Treaty Enforcement Rapidly for Texas Act</title>
+    <title as="introduced" type="official">To require the Secretary of State to submit to Congress reports on water sharing with Mexico.</title>
+  </titles>
+  <sponsor id="412580"/>
+  <cosponsors>
+    <cosponsor id="400655" joined="2013-06-10"/>
+    <cosponsor id="400657" joined="2013-06-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-10">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1863"/>
+    <bill relation="identical" session="113" type="s" number="1125"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

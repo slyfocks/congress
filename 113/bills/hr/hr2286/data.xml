@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="2286" updated="2013-07-17T16:06:43-04:00">
+  <state datetime="2013-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-06"/>
+  </status>
+  <introduced datetime="2013-06-06"/>
+  <titles>
+    <title as="introduced" type="short">Maximizing Optimal Maternity Services for the 21st Century</title>
+    <title as="introduced" type="short">MOMS for the 21st Century Act</title>
+    <title as="introduced" type="official">To promote optimal maternity outcomes by making evidence-based maternity care a national priority, and for other purposes.</title>
+  </titles>
+  <sponsor id="400347"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2013-06-06"/>
+    <cosponsor id="400073" joined="2013-06-06"/>
+    <cosponsor id="400237" joined="2013-06-06"/>
+    <cosponsor id="400259" joined="2013-06-06"/>
+    <cosponsor id="412307" joined="2013-06-06"/>
+    <cosponsor id="400333" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-06">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-06-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

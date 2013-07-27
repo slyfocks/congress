@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="2360" updated="2013-07-17T16:07:19-04:00">
+  <state datetime="2013-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-13"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title as="introduced" type="official">To reauthorize the Rivers of Steel National Heritage Area, the Lackawanna Valley National Heritage Area, the Delaware and Lehigh National Heritage Corridor, and the Schuylkill River Valley National Heritage Area.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2013-07-09"/>
+    <cosponsor id="412571" joined="2013-06-13"/>
+    <cosponsor id="400090" joined="2013-06-27"/>
+    <cosponsor id="400648" joined="2013-06-14"/>
+    <cosponsor id="400114" joined="2013-07-09"/>
+    <cosponsor id="412468" joined="2013-06-27"/>
+    <cosponsor id="412483" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-13">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1157"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Dams and canals"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Industrial facilities"/>
+    <term name="Lakes and rivers"/>
+    <term name="Manufacturing"/>
+    <term name="Metals"/>
+    <term name="Pennsylvania"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+</bill>

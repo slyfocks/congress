@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="2485" updated="2013-07-17T16:08:21-04:00">
+  <state datetime="2013-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title as="introduced" type="short">Helping Homeless Veterans Act of 2013</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to extend programs assisting homeless veterans and other veterans with special needs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-07-16"/>
+    <cosponsor id="412575" joined="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-25">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-07-01">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="825"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

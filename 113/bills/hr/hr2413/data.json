@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-06-18", 
+      "committee": "House Committee on Science, Space, and Technology", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-07-08", 
+      "in_committee": "House Committee on Science, Space, and Technology", 
+      "references": [], 
+      "subcommittee": "Environment", 
+      "text": "Referred to the Subcommittee on Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-07-09", 
+      "in_committee": "House Committee on Science, Space, and Technology", 
+      "in_subcommittee": "Environment", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-07-09", 
+      "in_committee": "House Committee on Science, Space, and Technology", 
+      "in_subcommittee": "Environment", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2413-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Environment", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Harris, Andy", 
+      "sponsored_at": "2013-06-18", 
+      "state": "MD", 
+      "thomas_id": "02026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2013-06-18", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "sponsored_at": "2013-06-18", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-07-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-06-18", 
+  "number": "2413", 
+  "official_title": "To prioritize and redirect NOAA resources to a focused program of investment on near-term, affordable, and attainable advances in observational, computing, and modeling capabilities to deliver substantial improvement in weather forecasting and prediction of high impact weather events, such as tornadoes and hurricanes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Weather Forecasting Improvement Act of 2013", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bridenstine, Jim", 
+    "state": "OK", 
+    "thomas_id": "02155", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-06-18", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Weather Forecasting Improvement Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prioritize and redirect NOAA resources to a focused program of investment on near-term, affordable, and attainable advances in observational, computing, and modeling capabilities to deliver substantial improvement in weather forecasting and prediction of high impact weather events, such as tornadoes and hurricanes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-07-17T16:07:46-04:00"
+}

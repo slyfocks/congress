@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="2631" updated="2013-07-17T16:09:35-04:00">
+  <state datetime="2013-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-09"/>
+  </status>
+  <introduced datetime="2013-07-09"/>
+  <titles>
+    <title as="introduced" type="short">Visa Overstay Enforcement Act of 2013</title>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to criminalize unlawful presence.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4219"/>
+    </action>
+    <action state="REFERRED" datetime="2013-07-09">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

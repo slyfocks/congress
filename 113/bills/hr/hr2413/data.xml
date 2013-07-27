@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="2413" updated="2013-07-17T16:07:46-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title as="introduced" type="short">Weather Forecasting Improvement Act of 2013</title>
+    <title as="introduced" type="official">To prioritize and redirect NOAA resources to a focused program of investment on near-term, affordable, and attainable advances in observational, computing, and modeling capabilities to deliver substantial improvement in weather forecasting and prediction of high impact weather events, such as tornadoes and hurricanes, and for other purposes.</title>
+  </titles>
+  <sponsor id="412567"/>
+  <cosponsors>
+    <cosponsor id="412434" joined="2013-06-18"/>
+    <cosponsor id="400381" joined="2013-06-18"/>
+    <cosponsor id="412581" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-18">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Environment.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY18" subcommittee="Environment" name="House Science, Space, and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

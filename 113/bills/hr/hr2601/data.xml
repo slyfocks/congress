@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="2601" updated="2013-07-17T16:09:19-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title as="introduced" type="short">Beach Act of 2013</title>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act relating to beach monitoring, and for other purposes.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2013-06-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-28">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-07-01">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

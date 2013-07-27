@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="1171" updated="2013-07-17T15:56:33-04:00">
+  <state datetime="2013-07-08T19:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-07-08T19:09:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">FOR VETS Act of 2013</title>
+    <title as="introduced" type="short">Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013</title>
+    <title as="reported to house" type="short">FOR VETS Act of 2013</title>
+    <title as="reported to house" type="short">Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013</title>
+    <title as="passed house" type="short">FOR VETS Act of 2013</title>
+    <title as="passed house" type="short">Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013</title>
+    <title as="introduced" type="official">To amend title 40, United States Code, to improve veterans service organizations access to Federal surplus personal property.</title>
+  </titles>
+  <sponsor id="412436"/>
+  <cosponsors>
+    <cosponsor id="412547" joined="2013-05-03"/>
+    <cosponsor id="412516" joined="2013-03-14"/>
+    <cosponsor id="412508" joined="2013-05-06"/>
+    <cosponsor id="412535" joined="2013-04-12"/>
+    <cosponsor id="412575" joined="2013-03-14"/>
+    <cosponsor id="412310" joined="2013-03-14"/>
+    <cosponsor id="412519" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-05-22">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2013-06-25T17:18:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 113-126.</text>
+    </action>
+    <calendar datetime="2013-06-25T17:19:00-04:00" calendar="Union" number="91">
+      <text>Placed on the Union Calendar, Calendar No. 91.</text>
+    </calendar>
+    <action datetime="2013-07-08T17:58:00-04:00">
+      <text>Mr. DeSantis moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-07-08T17:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4184-4185" label="consideration"/>
+    </action>
+    <action datetime="2013-07-08T17:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1171.</text>
+    </action>
+    <action datetime="2013-07-08T18:05:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-07-08T19:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4187-4188" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2013-07-08T19:09:00-04:00" how="roll" result="pass" roll="307" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 1 (Roll no. 307).</text>
+      <reference ref="CR H4184-4185" label="text"/>
+    </vote>
+    <action datetime="2013-07-08T19:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="573"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="State and local government operations"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2013--Passed House without amendment.
+Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013 or the FOR VETS Act of 2013 - Authorizes the transfer of federal surplus property to a state agency for distribution through donation within the state for purposes of education or public health for organizations whose membership comprises substantially veterans and whose representatives are recognized by the Secretary of Veterans Affairs (VA) in the preparation, presentation, and prosecution of claims under laws administered by the Secretary.</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="2603" updated="2013-07-17T16:09:20-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title as="introduced" type="short">Relevancy Act</title>
+    <title as="introduced" type="official">To amend the Foreign Intelligence Surveillance Act of 1978 to allow access to certain business records only if an investigation relates to a specific individual or specific group of individuals.</title>
+  </titles>
+  <sponsor id="412411"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-28">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

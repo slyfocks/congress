@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="2236" updated="2013-07-17T16:06:18-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title as="introduced" type="short">Promoting Startup Innovation Act</title>
+    <title as="introduced" type="official">To amend title 35, United States Code, to modify the definition of micro entity.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2013-06-04"/>
+    <cosponsor id="412379" joined="2013-06-04"/>
+    <cosponsor id="400076" joined="2013-06-04"/>
+    <cosponsor id="400124" joined="2013-06-04"/>
+    <cosponsor id="412482" joined="2013-06-04"/>
+    <cosponsor id="400245" joined="2013-06-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Commerce"/>
+    <term name="Intellectual property"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+</bill>

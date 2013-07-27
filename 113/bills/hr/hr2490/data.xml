@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="2490" updated="2013-07-17T16:08:24-04:00">
+  <state datetime="2013-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title as="introduced" type="short">Coretta Scott King Mid-Decade Redistricting Prohibition Act of 2013</title>
+    <title as="introduced" type="official">To prohibit States from carrying out more than one Congressional redistricting after a decennial census and apportionment.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2013-06-25"/>
+    <cosponsor id="412506" joined="2013-06-25"/>
+    <cosponsor id="400402" joined="2013-06-25"/>
+    <cosponsor id="412579" joined="2013-06-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-25">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="223"/>
+    <bill relation="unknown" session="113" type="h" number="278"/>
+    <bill relation="unknown" session="113" type="h" number="337"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

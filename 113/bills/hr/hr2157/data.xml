@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="2157" updated="2013-07-17T16:05:41-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the ground burial at Arlington National Cemetery of members of the United States Army who served honorably in the Tomb of the Unknown Soldier platoon, Third Infantry Regiment (Old Guard), United States Army.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2013-07-09"/>
+    <cosponsor id="400352" joined="2013-06-04"/>
+    <cosponsor id="400417" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-05-23">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-06-11">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,341 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-04-09", 
+      "committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-04-15", 
+      "in_committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "subcommittee": "Border and Maritime Security", 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-04-24", 
+      "in_committee": "House Committee on Homeland Security", 
+      "in_subcommittee": "Border and Maritime Security", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-24", 
+      "in_committee": "House Committee on Homeland Security", 
+      "in_subcommittee": "Border and Maritime Security", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-15", 
+      "in_committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-15", 
+      "in_committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-05-20T17:37:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-87.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-20T17:38:00-04:00", 
+      "calendar": "Union", 
+      "number": "62", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 62.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1417-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Barber, Ron", 
+      "sponsored_at": "2013-04-18", 
+      "state": "AZ", 
+      "thomas_id": "02093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Bentivolio, Kerry L.", 
+      "sponsored_at": "2013-05-14", 
+      "state": "MI", 
+      "thomas_id": "02135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2013-04-26", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2013-04-11", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "sponsored_at": "2013-04-11", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2013-04-24", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2013-04-18", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2013-04-15", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2013-04-09", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2013-04-11", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2013-04-24", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2013-05-07", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2013-04-12", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2013-05-03", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2013-04-09", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2013-04-12", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2013-04-11", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "sponsored_at": "2013-04-15", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2013-04-09", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-04-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-04-09", 
+  "number": "1417", 
+  "official_title": "To require the Secretary of Homeland Security to develop a comprehensive strategy to gain and maintain operational control of the international borders of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s683-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Border Security Results Act of 2013", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McCaul, Michael T.", 
+    "state": "TX", 
+    "thomas_id": "01804", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2013-05-15", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Drug trafficking and controlled substances", 
+    "Immigration", 
+    "Intergovernmental relations", 
+    "Law enforcement officers", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-04-09", 
+    "text": "Border Security Results Act of 2013 - Directs the Secretary of Homeland Security (DHS) to: (1) report, every 180 days, on the state of operational control of the international borders of the United States; and (2) achieve situational awareness of such borders within two years. Requires the Secretary to submit: (1) a comprehensive strategy for gaining and maintaining operational control of high traffic areas of such borders within a two-year period, (2) an implementation plan for each DHS border security component to carry out such strategy, and (3) an updated strategy and implementation plan after submission of each Quadrennial Homeland Security Review. Requires such strategy to include: (1) an assessment of principal border security threats, (2) efforts to analyze and disseminate border security and threat information between DHS border security components, (3) a comprehensive border security technology plan, (4) Department of Defense (DOD) surveillance capabilities, (5) the use of manned aircraft and unmanned aerial systems, (6) agreements with foreign governments that support U.S. border security efforts, (7) staffing requirements for all border security functions, and (8) specified metrics. Requires the Government Accountability Office (GAO) to review and report on such implementation plan. Directs the Secretary to: (1) implement metrics to measure the effectiveness of security between ports of entry, at ports of entry, and in the maritime environment; (2) request the head of a national laboratory within the DHS laboratory network with prior expertise in border security to provide an independent assessment of, and ensure statistical validity of, such metrics; and (3) make such assessment and the metrics data and methodology available to GAO for a report to Congress. Directs: (1) the Secretary to submit a certification to Congress and the Comptroller General upon determining that operational control of such borders has been achieved, and (2) the Comptroller General to verify the accuracy of such certification. Directs the Comptroller General to submit a report addressing areas of overlap in responsibilities within DHS's border security functions. Directs the Secretary to report annually on: (1) a resource allocation model for current and future year staffing requirements for optimal staffing levels at all land, air, and sea ports of entry; (2) detailed information on the level of manpower available at and between such ports of entry; and (3) detailed information describing the difference between such optimal and actual levels."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Border Security Results Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Border Security Results Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to develop a comprehensive strategy to gain and maintain operational control of the international borders of the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-07-17T15:59:33-04:00"
+}

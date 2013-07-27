@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="2293" updated="2013-07-17T16:06:46-04:00">
+  <state datetime="2013-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-06"/>
+  </status>
+  <introduced datetime="2013-06-06"/>
+  <titles>
+    <title as="introduced" type="short">Flood Control Credit Act of 2013</title>
+    <title as="introduced" type="official">To amend the Flood Control Act of 1970 with respect to credit for in-kind contributions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors>
+    <cosponsor id="412382" joined="2013-06-13"/>
+    <cosponsor id="412510" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-06">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="601"/>
+    <bill relation="unknown" session="113" type="s" number="601"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

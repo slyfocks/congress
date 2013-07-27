@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="2593" updated="2013-07-17T16:09:15-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title as="introduced" type="short">Cost-Benefit and Regulatory Transparency Enhancement Act of 2013</title>
+    <title as="introduced" type="official">To require reports on the results of and methods used to calculate any cost-benefit or regulatory impact analysis, and for other purposes.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="400089" joined="2013-07-16"/>
+    <cosponsor id="400331" joined="2013-06-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-28">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

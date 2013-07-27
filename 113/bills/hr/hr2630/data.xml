@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="2630" updated="2013-07-17T16:09:35-04:00">
+  <state datetime="2013-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-09"/>
+  </status>
+  <introduced datetime="2013-07-09"/>
+  <titles>
+    <title as="introduced" type="short">1986 Amnesty Transparency Act</title>
+    <title as="introduced" type="official">To require a report from the Comptroller General of the United States regarding implementation of the Immigration Reform and Control Act of 1986, and for other purposes.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4219"/>
+    </action>
+    <action state="REFERRED" datetime="2013-07-09">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

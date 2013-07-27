@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-23", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-06-11", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "subcommittee": "Disability Assistance and Memorial Affairs", 
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-06-28", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "in_subcommittee": "Disability Assistance and Memorial Affairs", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2189-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "23", 
+      "name": "McCarthy, Kevin", 
+      "sponsored_at": "2013-05-23", 
+      "state": "CA", 
+      "thomas_id": "01833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2013-06-28", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-06-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-23", 
+  "number": "2189", 
+  "official_title": "To establish a commission or task force to evaluate the backlog of disability claims of the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Miller, Jeff", 
+    "state": "FL", 
+    "thomas_id": "01685", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-05-23", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Advisory bodies", 
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Disability assistance", 
+    "Government studies and investigations", 
+    "Judicial review and appeals", 
+    "Performance measurement", 
+    "Specialized courts", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a commission or task force to evaluate the backlog of disability claims of the Department of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-07-17T16:05:57-04:00"
+}

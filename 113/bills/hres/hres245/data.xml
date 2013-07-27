@@ -1,0 +1,33 @@
+<bill session="113" type="hr" number="245" updated="2013-07-17T15:48:08-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 24th anniversary of the Tiananmen Square massacre, calling for the release of Dr. Wang Bingzhang, and for other reasons.</title>
+  </titles>
+  <sponsor id="412547"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-06-04">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="2151" updated="2013-07-17T16:05:38-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize individuals who are pursuing programs of rehabilitation, education, or training under laws administered by the Secretary of Veterans Affairs to receive work-study allowances for certain outreach services provided through congressional offices, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400274" joined="2013-05-23"/>
+    <cosponsor id="412520" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-05-23">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="894"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+</bill>

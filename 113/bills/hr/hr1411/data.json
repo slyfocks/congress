@@ -1,0 +1,169 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-04-09", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-04-15", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "Public Lands and Environmental Regulation", 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-05-09", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "Public Lands and Environmental Regulation", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-12", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-12", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-12", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-07-08T15:07:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-139.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-07-08T15:08:00-04:00", 
+      "calendar": "Union", 
+      "number": "101", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 101.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1411-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2013-04-09", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-05-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-04-09", 
+  "number": "1411", 
+  "official_title": "To include the Point Arena-Stornetta Public Lands in the California Coastal National Monument as a part of the National Landscape Conservation System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s61-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "California Coastal National Monument Expansion Act of 2013", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "thomas_id": "02101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2013-06-12", 
+  "subjects": [
+    "California", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Marine and coastal resources, fisheries", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-04-09", 
+    "text": "California Coastal National Monument Expansion Act of 2013 - Expands the boundary of the California Coastal National Monument, established by Presidential Proclamation 7264, to include the Point Arena-Stornetta public lands in Mendocino County, California. Requires management of such lands: (1) in accordance with such Proclamation, and (2) as part of the Monument. Instructs the Secretary of the Interior to finalize an amendment to the Monument's management plan for the long-term protection and management of the lands added to the Monument under this Act. Requires management of the Monument as part of the National Landscape Conservation System."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "California Coastal National Monument Expansion Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "California Coastal National Monument Expansion Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To include the Point Arena-Stornetta Public Lands in the California Coastal National Monument as a part of the National Landscape Conservation System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-07-17T15:59:31-04:00"
+}

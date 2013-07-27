@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="2169" updated="2013-07-17T16:05:47-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Education Flexibility Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to eliminate the time limitation for use of eligibility and entitlement to educational assistance under certain programs of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400641"/>
+  <cosponsors>
+    <cosponsor id="400073" joined="2013-06-11"/>
+    <cosponsor id="400162" joined="2013-06-04"/>
+    <cosponsor id="400209" joined="2013-07-08"/>
+    <cosponsor id="412396" joined="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-05-23">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-06-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-06-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3367"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+</bill>
