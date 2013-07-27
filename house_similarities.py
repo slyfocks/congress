@@ -83,16 +83,17 @@ def votes(congress_num):
     return [vote_list[member] for member in members(congress_num)]
 
 
-def main():
-    #set congress_num variable to any integer in [106,113]
-    CONGRESS_NUM = 108
-    vote_list = votes(CONGRESS_NUM)
+def make_similarity_array(congress_num):
+    vote_list = votes(congress_num)
     arr = np.zeros((435, 435))
-    np.set_printoptions(precision=6)
     for i in range(435):
         for j in range(435):
-            arr[i][j] = round(cos_similarity(vote_list[i], vote_list[j]), 6)
-    np.savetxt('array' + str(CONGRESS_NUM) + '.txt', arr)
+            arr[i][j] = cos_similarity(vote_list[i], vote_list[j])
+    return arr
+def main():
+    #set congress_num variable to any integer in [106,113]
+    CONGRESS_NUM = 112
+    np.savetxt('array' + str(CONGRESS_NUM) + '.txt', make_similarity_array(CONGRESS_NUM))
 
 if __name__ == "__main__":
     main()
