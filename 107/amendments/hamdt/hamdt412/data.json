@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-29T14:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8613-8617", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8613-8617", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. LaFalce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-29T15:40:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 462, 
+      "text": "On agreeing to the LaFalce amendment (A002) Failed by the Yeas and Nays: 197 - 222 (Roll no. 462).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt412-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3210-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3210
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to include an insurance industry deductible of $5 billion, require terrorism coverage as part of commercial property and casualty insurance, and specify no limits on tort actions or recoveries.", 
+  "house_number": 2, 
+  "introduced_at": "2001-11-29", 
+  "number": 412, 
+  "purpose": "An amendment to insert a complete new text.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "LaFalce, John J.", 
+    "state": "NY", 
+    "thomas_id": "00657", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-11-29T15:40:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

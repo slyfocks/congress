@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-06", 
+      "references": [
+        {
+          "reference": "CR S6111", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6111", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 765 proposed by Senator Frist for Senator Snowe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-06", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 765 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt765-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres149-109", 
+    "bill_type": "sres", 
+    "congress": 109, 
+    "number": 149
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-06", 
+  "number": 765, 
+  "proposed_at": "2005-06-06", 
+  "purpose": "To amend the preamble.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-06", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

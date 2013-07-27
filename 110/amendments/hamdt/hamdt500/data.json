@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7874", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7874", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. Rothman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T13:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rothman amendment (A036) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt500-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 36, 
+  "introduced_at": "2007-07-17", 
+  "number": 500, 
+  "purpose": "An amendment to prohibit funds to be used for the Green Maintenance Building in North Bergen, New Jersey.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Rothman, Steven R.", 
+    "state": "NJ", 
+    "thomas_id": "01520", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-17T13:02:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-20T14:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6772", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6772", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Wynn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-20T14:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wynn amendment (A027) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt342-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to provide funding for hydrogen research.", 
+  "house_number": 27, 
+  "introduced_at": "2007-06-20", 
+  "number": 342, 
+  "purpose": "An amendment numberd 27 printed in the Congressional Record to provide funding for hydrogen research.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Wynn, Albert Russell", 
+    "state": "MD", 
+    "thomas_id": "01251", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-20T14:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

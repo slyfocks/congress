@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T22:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4667-4668", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4667", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A035) offered by Ms. McCollum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-06T22:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the McCollum amendment (A035) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt540-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit use of funds to implement section 9012 of the bill which authorizes the Secretary of Defense to operate a task force for business and stability operations in Afghanistan.", 
+  "house_number": 35, 
+  "introduced_at": "2011-07-06", 
+  "number": 540, 
+  "purpose": "An amendment to strike funds to be used for the Task Force for Business and Stability Operations in Afghanistan or section 9012.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCollum, Betty", 
+    "state": "MN", 
+    "thomas_id": "01653", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-06T22:48:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

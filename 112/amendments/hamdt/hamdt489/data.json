@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-22T17:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4409-4410, H4416-4417", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4409", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Ms. Hochul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-22T18:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 475, 
+      "text": "On agreeing to the Hochul amendment (A009) Failed by recorded vote: 186 - 238 (Roll no. 475).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt489-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2021-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2021
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the EPA administrator to submit a report, within 60 days after the enactment of the Act, that details how the provisions made by this Act are projected to increase oil and gas production and lower energy prices for consumers.", 
+  "house_number": 9, 
+  "introduced_at": "2011-06-22", 
+  "number": 489, 
+  "purpose": "An amendment numbered 9 printed in Part A of House Report 112-111 to require a report that details how the amendments made by this Act are projected to increase oil and gas production and lower energy prices for consumers.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hochul, Kathleen C.", 
+    "state": "NY", 
+    "thomas_id": "02088", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-22T18:50:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

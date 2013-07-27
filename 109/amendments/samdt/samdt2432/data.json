@@ -1,0 +1,84 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-04", 
+      "references": [
+        {
+          "reference": "CR S12395-12396", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12396", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2432 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-07", 
+      "references": [
+        {
+          "reference": "CR S12423", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12472, S12494-12495", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S12494", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2432 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2432-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-04", 
+  "number": 2432, 
+  "proposed_at": "2005-11-04", 
+  "purpose": "Relating to the partnership security capacity of foreign military and security forces and security and stabilization assistance.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

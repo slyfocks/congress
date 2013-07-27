@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-06T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6069-6070, H6073-6074", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6069", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Kirk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-06T17:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 435, 
+      "text": "On agreeing to the Kirk amendment Agreed to by recorded vote: 419 - 1 (Roll no. 435).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt245-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2446-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2446
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment authorizes the State Department to pay rewards to anyone in Afghanistan or Pakistan, including government employees, if information provided leads to the arrest of \"exceptionally high-profile\" targets.", 
+  "house_number": 8, 
+  "introduced_at": "2007-06-06", 
+  "number": 245, 
+  "purpose": "An amendment numbered 7 printed in House Report 110-174 to allow the Secretary of State, at her discretion, to make payments from the Rewards for Justice Program to officers or employees of the Afghan or Pakistani government who provide information leading to the capture of exceptional and high-profile terrorists committing acts in Afghanistan.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-06T17:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

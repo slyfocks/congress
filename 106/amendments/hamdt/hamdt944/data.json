@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29T16:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5574-5577", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5574", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Berry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29T16:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Berry amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt944-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment eliminates funding for the Office of the Under Secretary for Natural Resources and Environment and transfers $693,000 to Resource Conservation and Development programs.", 
+  "house_number": 11, 
+  "introduced_at": "2000-06-29", 
+  "number": 944, 
+  "purpose": "An amendment to zero out the account for salaries and expenses of the Office of the Under Secretary for Natural Resources and Environment ($693,000), and to transfer that amount to the account for Resource Conservation and Development.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Berry, Marion", 
+    "state": "AR", 
+    "thomas_id": "01462", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-29T16:47:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

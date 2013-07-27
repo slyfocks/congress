@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-29", 
+      "references": [
+        {
+          "reference": "CR S10539", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10539", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5113 proposed by Senator Hutchison for Senator Domenici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5113 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5113-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3085-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3085
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-29", 
+  "number": 5113, 
+  "proposed_at": "2006-09-29", 
+  "purpose": "To clarify that additional funds are not authorized to be appropriated to carry out the feasibility and suitability study.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Domenici, Pete V.", 
+    "state": "NM", 
+    "thomas_id": "01319", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-29", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

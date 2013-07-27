@@ -1,0 +1,50 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-08T14:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H762-763", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H762-763", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Ways and Means.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-08T14:00:00-05:00", 
+      "references": [], 
+      "text": "On agreeing to the Ways and Means amendment Agreed to pursuant to H. Res. 83.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt7-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-03-08", 
+  "number": 7, 
+  "purpose": "An amendment considered as adopted pursuant to the provisions of H. Res. 83.", 
+  "sponsor": {
+    "committee_id": "hswm00", 
+    "name": "House Ways and Means", 
+    "type": "committee"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-03-08", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

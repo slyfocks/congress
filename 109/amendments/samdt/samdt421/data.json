@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21", 
+      "references": [
+        {
+          "reference": "CR S4086-4087", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 421 proposed by Senator Stevens for Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S4086-4087", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 421 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt421-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-14", 
+  "number": 421, 
+  "proposed_at": "2005-04-21", 
+  "purpose": "To express the sense of the Senate on funding for the continuing development of the permanent magnet motor.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-21", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

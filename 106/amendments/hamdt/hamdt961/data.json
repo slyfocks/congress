@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-10T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5692-5693", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5692", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Boyd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-10T16:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boyd amendment (A022) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt961-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits funds in the bill from being used to recover payments erroneously made to oyster fishermen in the State of Connecticut.", 
+  "house_number": 22, 
+  "introduced_at": "2000-07-10", 
+  "number": 961, 
+  "purpose": "An amendment to add a new section prohibiting use of funds in the bill for recovery of part or all of any payment erroneously made to any oyster fisherman in the State of Connecticut for oyster losses under established programs.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Boyd, Allen", 
+    "state": "FL", 
+    "thomas_id": "01467", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-10T16:55:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

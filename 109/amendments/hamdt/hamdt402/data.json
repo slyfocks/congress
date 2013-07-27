@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-29T15:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5408-5412, CR 6/30/2005 H5437-5438", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5408", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Kennedy (MN).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29T19:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 337, 
+      "text": "On agreeing to the Kennedy (MN) amendment (A009) Failed by recorded vote: 59 - 362 (Roll no. 337).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt402-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for Homeless Assistance Grants.", 
+  "house_number": 9, 
+  "introduced_at": "2005-06-29", 
+  "number": 402, 
+  "purpose": "An amendment to reduce funding for quarterly grants to the National Railroad Passenger Corporation and increase funding for Homeless Assistance Grants.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kennedy, Mark R.", 
+    "state": "MN", 
+    "thomas_id": "01652", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-29T19:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

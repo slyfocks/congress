@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08T17:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2376-2377", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2376", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Gowdy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-08T17:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gowdy amendment (A016) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1049-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces funding for the Department of Justice General Administration Salaries and Expenses account by $1 million and applies the savings to the spending reduction account.", 
+  "house_number": 16, 
+  "introduced_at": "2012-05-08", 
+  "number": 1049, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to reduce funding for the Department of Justice General Administration Salaries and Expenses account by $1 million and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gowdy, Trey", 
+    "state": "SC", 
+    "thomas_id": "02058", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-08T17:08:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

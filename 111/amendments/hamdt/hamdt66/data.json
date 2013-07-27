@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-01T16:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4302-4304, H4308-4309", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4302", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Bean.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-01T17:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 180, 
+      "text": "On agreeing to the Bean amendment (A004) Agreed to by recorded vote: 228 - 198, 1 Present (Roll no. 180).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt66-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1664-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1664
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment allows institutions that enter into a payment schedule with Treasury on terms set by Treasury to no longer be subject to the bonus and compensation restrictions created by the Act.", 
+  "house_number": 4, 
+  "introduced_at": "2009-04-01", 
+  "number": 66, 
+  "purpose": "An amendment numbered 4 printed in House Report 111-71 to allow institutions that enter into a payment schedule with Treasury on terms set by Treasury to no longer be subject to the bonus and compensation restrictions created by the Act. If an institution defaults on its payment schedule, any bonuses and compensation that exceeds the regulations promulgated in accordance to the Act would be subject to clawback.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Bean, Melissa L.", 
+    "state": "IL", 
+    "thomas_id": "01782", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-01T17:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

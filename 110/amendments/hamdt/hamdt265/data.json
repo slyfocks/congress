@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-14T21:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6426-6428", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6426-6427", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T10:15:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6486-6487", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 474, 
+      "text": "On agreeing to the McHenry amendment (A015) Failed by recorded vote: 207 - 214 (Roll no. 474).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt265-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding, by offset, for the United States Citizenship and Immigration Services by $30 million.", 
+  "house_number": 15, 
+  "introduced_at": "2007-06-14", 
+  "number": 265, 
+  "purpose": "An amendment to increase funding (by transfer) for the United States Citizenship and Immigration Services by $30 million.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T10:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-19T12:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2922", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2922", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Edwards.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-19T12:05:00-04:00", 
+      "references": [], 
+      "text": "Mr. Walsh raised a point of order against the Edwards amendment (A003). Mr. Walsh stated that the amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt864-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5385-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5385
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2006-05-19", 
+  "number": 864, 
+  "purpose": "An amendment to reduce the taxcut for taxpayers earning in excess of $1 million by 1.78 percent, beginning in calendar year 2007.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Edwards, Chet", 
+    "state": "TX", 
+    "thomas_id": "00335", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-05-19", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

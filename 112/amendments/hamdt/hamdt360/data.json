@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T17:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3850-3851", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3850", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. McCaul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T17:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the McCaul amendment (A012) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt360-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funds for border security fencing, infrastructure and technology by $10 million, offset by a reduction of a similar amount in funding for the Office of the Under Secretary for Management.", 
+  "house_number": 12, 
+  "introduced_at": "2011-06-01", 
+  "number": 360, 
+  "purpose": "An amendment to reduce funds for the Office of the Under Secretary for Management and increase funds for U.S. Customs and Border Protection.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McCaul, Michael T.", 
+    "state": "TX", 
+    "thomas_id": "01804", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-01T17:59:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

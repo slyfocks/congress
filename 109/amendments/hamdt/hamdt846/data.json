@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-18T16:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2817, H2826-2829", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2826", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-18T16:45:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Obey amendment (A013) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt846-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5386-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5386
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2006-05-18", 
+  "number": 846, 
+  "purpose": "An amendment to address global climate change by modifying the amount provided for EPA Programs and Management.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-18T16:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

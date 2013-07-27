@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-29", 
+      "references": [
+        {
+          "reference": "CR S9386-9388", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1642 proposed by Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 218, 
+      "text": "Amendment SA 1642 not agreed to in Senate by Yea-Nay Vote. 33 - 63. Record Vote Number: 218.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1642-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s397-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 397
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-28", 
+  "number": 1642, 
+  "proposed_at": "2005-07-29", 
+  "purpose": "To provide a complete substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-29", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

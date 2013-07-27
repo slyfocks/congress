@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29T19:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1554-1556", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1554-1555", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Farr.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-29T20:04:00-05:00", 
+      "references": [], 
+      "text": "Mr. Young (FL) raised a point of order against the Farr amendment (A011). Mr. Young stated that the amendment sought to change existing law and as such, constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt625-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 11, 
+  "introduced_at": "2000-03-29", 
+  "number": 625, 
+  "purpose": "An amendment to provide funds for the United Nations Drug Control Program that will be directed to Bolivia, Ecuador, Peru and Colombia.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Farr, Sam", 
+    "state": "CA", 
+    "thomas_id": "00368", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-03-29", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

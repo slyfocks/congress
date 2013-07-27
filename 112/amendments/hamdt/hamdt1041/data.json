@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08T16:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2369-2370, H2384", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2369", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Scalise.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-08T18:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 206, 
+      "text": "On agreeing to the Scalise amendment (A008) Failed by recorded vote: 174 - 233 (Roll no. 206).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1041-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funds for the Economic Development Administration Salaries and Expenses account by $7,500,000 and to reduce the Department of Commerce Salaries and Expenses Account by $10,706,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 8, 
+  "introduced_at": "2012-05-08", 
+  "number": 1041, 
+  "purpose": "An amendment to reduce funds for the Economic Development Administration Salaries and Expenses account by $7,500,000 and to reduce the Department of Commerce Salaries and Expenses account by $10,706,000 and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "thomas_id": "01892", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-08T18:21:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

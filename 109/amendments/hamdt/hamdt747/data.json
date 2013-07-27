@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16T16:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1104-1105, H1111-1112", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1104", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A047) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T17:34:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 61, 
+      "text": "On agreeing to the Velazquez amendment (A047) Failed by recorded vote: 201 - 213 (Roll no. 61).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt747-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds from being used to enforce application deadlines regarding Small Business Administration disaster loans.", 
+  "house_number": 47, 
+  "introduced_at": "2006-03-16", 
+  "number": 747, 
+  "purpose": "An amendment to prohibit the use of funds from being made available to enforce deadlines regarding economic injury disaster loan applications and physical loan applications.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "thomas_id": "01184", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16T17:34:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

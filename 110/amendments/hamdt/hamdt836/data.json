@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-10-03T14:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11202-11203", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11202", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Towns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-03T14:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11201-11202", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered on the amendment (A006) without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-03T14:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Towns amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt836-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr928-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 928
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment adds the provisions specified in the Tom Davis (VA) motion to recommit with instructions.", 
+  "house_number": 6, 
+  "introduced_at": "2007-10-03", 
+  "number": 836, 
+  "purpose": "An amendment to add the provisions specified in the Tom Davis (VA) motion to recommit with instructions.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Towns, Edolphus", 
+    "state": "NY", 
+    "thomas_id": "01165", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-10-03T14:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

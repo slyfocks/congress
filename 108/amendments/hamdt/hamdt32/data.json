@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-03T14:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2747-2757, H2759-2760", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2747", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Cunningham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-03T16:20:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 105, 
+      "text": "On agreeing to the Cunningham amendment (A003) Failed by recorded vote: 110 - 315 (Roll no. 105).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt32-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1559-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1559
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete the $1 billion appropriation in the bill for assistance to Turkey.", 
+  "house_number": 3, 
+  "introduced_at": "2003-04-03", 
+  "number": 32, 
+  "purpose": "An amendment to strike the $1 billion appropriation in the bill for assistance to Turkey.", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Cunningham, Randy (Duke)", 
+    "state": "CA", 
+    "thomas_id": "00258", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-03T16:20:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

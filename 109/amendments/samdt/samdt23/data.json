@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-01", 
+      "references": [
+        {
+          "reference": "CR S1848-1850, S1853-1854", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1849", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 23 proposed by Senator Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-01", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 12, 
+      "text": "Amendment SA 23 agreed to in Senate by Yea-Nay Vote. 63 - 32. Record Vote Number: 12.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt23-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-01", 
+  "number": 23, 
+  "proposed_at": "2005-03-01", 
+  "purpose": "To clarify the safe harbor with respect to debtors who have serious medical conditions or who have been called or ordered to active duty in the Armed Forces and low income veterans.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sessions, Jeff", 
+    "state": "AL", 
+    "thomas_id": "01548", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-01", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

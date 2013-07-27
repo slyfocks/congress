@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-18T14:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4149-4151", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4149", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Herger.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-18T15:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Wolf raised a point of order against the Herger amendment (A012). The amendment constituted legislation in an appropriations bill because the amendment sought to appropriate funds for a project not previously authorized. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt178-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2001-07-18", 
+  "number": 178, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to provide $200 million (by offset) to the water users of the Klamath Project as compensation for private property taken for public use.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Herger, Wally", 
+    "state": "CA", 
+    "thomas_id": "00533", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-07-18", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

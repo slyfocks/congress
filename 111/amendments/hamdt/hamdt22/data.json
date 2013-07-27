@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-28T15:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H732-743, H743, H745", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H732-736", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) in the nature of a substitute offered by Mr. Camp.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-28T17:31:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 44, 
+      "text": "On agreeing to the Camp amendment (A011) Failed by recorded vote: 170 - 266 (Roll no. 44).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt22-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the text of the bill and to insert a complete new text entitled \"Economic Recovery Act of 2009.\".", 
+  "house_number": 11, 
+  "introduced_at": "2009-01-28", 
+  "number": 22, 
+  "purpose": "An amendment in the nature of a substitute numbered 11 printed in Part B of House Report 111-9 to strike everything after enacting clause and adds income tax rate deductions for bottom two income tax brackets, alternative minimum tax relief, small business deduction, bonus depreciation, small business expensing, expanded carryback of net operating losses, improved home buyer credit, unemployment benefit tax exemption, health insurance premium deduction, repeal of 3 percent withholdings requirement for government contractors, extension of unemployment benefits, and a Sense of Congress against tax increases to offset outlays.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Camp, Dave", 
+    "state": "MI", 
+    "thomas_id": "00166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-01-28T17:31:00-05:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

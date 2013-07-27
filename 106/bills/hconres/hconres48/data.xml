@@ -1,0 +1,88 @@
+<bill session="106" type="hc" number="48" updated="2013-07-14T18:55:20-04:00">
+  <state datetime="1999-04-12T15:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-04-12T15:07:00-04:00"/>
+  </status>
+  <introduced datetime="1999-03-09"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the opening ceremonies of Sunrayce 99.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1999-03-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E373"/>
+    </action>
+    <action state="REFERRED" datetime="1999-03-09">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-03-09">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-03-11">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1999-03-16T16:04:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-60.</text>
+    </action>
+    <calendar datetime="1999-03-16T16:05:00-05:00" calendar="House" number="26">
+      <text>Placed on the House Calendar, Calendar No. 26.</text>
+    </calendar>
+    <action datetime="1999-04-12T15:03:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1999-04-12T15:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1818-1819" label="consideration"/>
+    </action>
+    <action datetime="1999-04-12T15:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 48.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-04-12T15:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-04-12T15:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-04-13">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="sc" number="13"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Electric automobiles"/>
+    <term name="Energy"/>
+    <term name="Exhibitions"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Solar power generation"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1999--Introduced.
+Permits the organizers of Sunrayce 99 to sponsor a free public event with solar-powered cars, for the opening ceremonies for Sunrayce 99, on the Capitol grounds on June 20, 1999.</summary>
+</bill>

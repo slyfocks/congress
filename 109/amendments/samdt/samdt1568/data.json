@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12497-12513", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12505", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1568 proposed by Senator Warner for Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1568 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1568-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-25", 
+  "number": 1568, 
+  "proposed_at": "2005-11-08", 
+  "purpose": "To require quarterly reports on audits of task or delivery order contracts and other contracts related to security and reconstruction activities in Iraq and Afghanistan and to address irregularities identified in such reports.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

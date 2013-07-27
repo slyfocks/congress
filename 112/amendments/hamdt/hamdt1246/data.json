@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T20:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3545-3546", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3545", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T20:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Polis amendment (A015) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1246-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce Immigration and Customs Enforcement salaries and expenses by $501,331,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 15, 
+  "introduced_at": "2012-06-06", 
+  "number": 1246, 
+  "purpose": "An amendment to decrease Immigration and Customs Enforcement salaries and expenses by $501,331,000 and apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T20:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

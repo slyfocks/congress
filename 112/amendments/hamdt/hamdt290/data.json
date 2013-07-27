@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-12T15:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3252-3253", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3252", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Dent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-12T15:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3253", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Dent amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt290-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr754-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2011-05-12", 
+  "number": 290, 
+  "purpose": "At the end of title III, add the following new section:    SEC. 304. INFORMATION ON PURSUIT OF ANWAR AL-AWLAKI.***.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dent, Charles W.", 
+    "state": "PA", 
+    "thomas_id": "01799", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-05-12", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

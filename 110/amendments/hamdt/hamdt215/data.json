@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T21:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5447-5448", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5447", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Feeney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-22T13:24:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5561-5562", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 386, 
+      "text": "On agreeing to the Feeney amendment (A013) Failed by recorded vote: 174 - 246 (Roll no. 386).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt215-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to specify that funds collected for the affordable housing fund be used to provide housing assistance to the victims of Hurricanes Katrina or Rita and to provide housing assistance for disabled homeless veterans.", 
+  "house_number": 13, 
+  "introduced_at": "2007-05-17", 
+  "number": 215, 
+  "purpose": "An amendment numbered 16 printed in the Congressional Record to strike low-income housing grants from the affordable housing fund and to insert housing assistance provisions for the areas affected by Hurricanes Katrina and Rita; strike language outlining affordable housing grant formulas for Indian tribal members and directs funds to be allocated \"based on the formula used for the Continuum of Care competition of the Department of Housing and Urban Development\"; and insert language requiring that affordable housing grants after 2007 be reserved only for rental housing voucher assistance in accordance with the Housing act of 1937.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Feeney, Tom", 
+    "state": "FL", 
+    "thomas_id": "01716", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-22T13:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

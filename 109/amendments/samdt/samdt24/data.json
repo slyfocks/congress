@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-02", 
+      "references": [
+        {
+          "reference": "CR S1925-1927", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1925", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 24 proposed by Senator Rockefeller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "references": [
+        {
+          "reference": "CR S1979, S1994-1995", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 24, 
+      "text": "Amendment SA 24 not agreed to in Senate by Yea-Nay Vote. 40 - 54. Record Vote Number: 24.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt24-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-01", 
+  "number": 24, 
+  "proposed_at": "2005-03-02", 
+  "purpose": "To amend the wage priority provision and to amend the payment of insurance benefits to retirees.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-03", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

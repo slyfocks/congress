@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T21:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3054-3056", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3054", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Carson (IN).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18T10:05:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3113", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 275, 
+      "text": "On agreeing to the Carson (IN) amendment (A017) Failed by recorded vote: 180 - 241 (Roll no. 275).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1115-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit military promotion boards from considering any information from official documents, word of mouth, or in writing on the pursuit of treatment or counseling for mental health or addiction issues and to require this information on this prohibition to be promulgated to current service members.", 
+  "house_number": 17, 
+  "introduced_at": "2012-05-17", 
+  "number": 1115, 
+  "purpose": "An amendment numbered 20 printed in House Report 112-485 to prohibit military promotion boards from considering any information from official documents, word of mouth, or in writing on the pursuit of treatment or counseling for mental health or addiction issues and to require this information on this prohibition to be promulgated to current service members.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Carson, Andre", 
+    "state": "IN", 
+    "thomas_id": "01889", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-18T10:05:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

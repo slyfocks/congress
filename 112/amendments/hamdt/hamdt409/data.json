@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-02T19:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3976-3977", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3976", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Culberson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T20:00:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Culberson amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt409-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2055-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2055
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment fences $20 million of the funds in the bill for suicide prevention and outreach for veterans; provides a reduction in wait times for mental health services; increases research funding by $22 million offset by a similar amount reduction in general administration funding; and sets aside $100,000 for a study of VA historic properties.", 
+  "house_number": 1, 
+  "introduced_at": "2011-06-02", 
+  "number": 409, 
+  "purpose": "An amendment to redirect funds for the medical services and general administration divisions of the Veterans Health Administration.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Culberson, John Abney", 
+    "state": "TX", 
+    "thomas_id": "01670", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T20:00:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-01T16:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8047-8048, H8052", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8047", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Peters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01T17:14:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 876, 
+      "text": "On agreeing to the Peters amendment (A004) Failed by recorded vote: 179 - 243 (Roll no. 876).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt885-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr527-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 527
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt all rules that OMB determines would result in net job creation from the provisions of the bill.", 
+  "house_number": 4, 
+  "introduced_at": "2011-12-01", 
+  "number": 885, 
+  "purpose": "An amendment numbered 4 printed in Part A of House Report 112-296 to exempt from the bill all rules that OMB determines would result in net job creation.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "thomas_id": "01929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-01T17:14:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

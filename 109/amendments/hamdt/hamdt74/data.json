@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T18:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2343-2344", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2343", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mrs. Johnson (CT).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T21:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 120, 
+      "text": "On agreeing to the Johnson (CT) amendment (A005) as amended Agreed to by recorded vote: 346 - 85 (Roll no. 120).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt74-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment originally sought to require the EPA to update the tests used in determing estimated fuel economy ratings for automobiles. \\   As amended by the Rogers (MI) amendment (A006), the original language was revised to require the EPA to change the \"adjustment factors\" that the EPA currently uses to make fuel economy labels accurate.", 
+  "house_number": 5, 
+  "introduced_at": "2005-04-20", 
+  "number": 74, 
+  "purpose": "An amendment numbered 5 printed in House Report 109-49 to require that the EPA's fuel economy test procedures reflect current driving patterns and conditions and provide consumers with more accurate information about fuel economy.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Johnson, Nancy L.", 
+    "state": "CT", 
+    "thomas_id": "00602", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20T21:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

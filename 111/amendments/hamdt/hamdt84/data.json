@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-23T12:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4707-4708, H4713-4714", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4707", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Roskam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-23T13:19:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 202, 
+      "text": "On agreeing to the Roskam amendment (A009) Failed by recorded vote: 194 - 236 (Roll no. 202).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt84-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1145-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1145
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to require GAO to study whether any of the requirements of the underlying legislation are duplicative of existing programs.", 
+  "house_number": 9, 
+  "introduced_at": "2009-04-23", 
+  "number": 84, 
+  "purpose": "An amendment numbered 9 printed in House Report 111-82 to require GAO to study whether any of the requirements of the underlying legislation are duplicative of existing programs. Prior to implementation of the bill, the President will, based upon the GAO report, determine whether the programs are duplicative or not. If the President differs in his determination from the GAO conclusions, he must offer a justification for his determination. The effective date is delayed until the President has made that determination.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Roskam, Peter J.", 
+    "state": "IL", 
+    "thomas_id": "01848", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-04-23T13:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

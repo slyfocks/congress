@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21T10:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2399-2401, H2413-2414", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2399", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Udall (NM).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21T12:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 124, 
+      "text": "On agreeing to the Udall (NM) amendment (A015) Failed by recorded vote: 204 - 225 (Roll no. 124).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt84-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 631 entitled \"Cooperative Research and Development and Special Demonstration Projects for the Uranium Mining Industry\".", 
+  "house_number": 15, 
+  "introduced_at": "2005-04-21", 
+  "number": 84, 
+  "purpose": "An amendment numbered 15 printed in House Report 109-49 to strike section 631.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-21T12:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

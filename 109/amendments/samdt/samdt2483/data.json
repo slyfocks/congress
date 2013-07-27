@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12579-12583", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12579", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2483 proposed by Senator Durbin for Senator Bayh.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2483 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2483-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-09", 
+  "number": 2483, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To provide income replacement payments for certain Reserves experiencing extended and frequent mobilization for active duty service.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bayh, Evan", 
+    "state": "IN", 
+    "thomas_id": "01572", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-09", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

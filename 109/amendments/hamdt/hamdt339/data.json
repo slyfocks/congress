@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22T17:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4954-4956, H4959-4960", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4954", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. Davis, Jo Ann.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22T18:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 300, 
+      "text": "On agreeing to the Davis, Jo Ann amendment Failed by recorded vote: 185 - 226 (Roll no. 300).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt339-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2985-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2985
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 1002 of the bill which prohibits the Capitol Police from operating a mounted horse unit during fiscal year 2006 or any succeeding fiscal year.", 
+  "house_number": 2, 
+  "introduced_at": "2005-06-22", 
+  "number": 339, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-144 to strike the language in the bill prohibiting the Capitol Police from operating a mounted horse unit, and requiring the transfer of the current horses and equipment to the U.S. Park Police.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Davis, Jo Ann", 
+    "state": "VA", 
+    "thomas_id": "01672", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-22T18:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

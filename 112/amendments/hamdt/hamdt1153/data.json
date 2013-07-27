@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T15:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3305-3306", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3305", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mrs. Myrick.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T15:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Myrick amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1153-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5743-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5743
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires a report from the Director of National Intelligence to Congress that would identify and assess various risks in information technology supply chains.", 
+  "house_number": 9, 
+  "introduced_at": "2012-05-31", 
+  "number": 1153, 
+  "purpose": "An amendment numbered 9 printed in House Report 112-504 to require a report from the Director of National Intelligence that would identify and assess various risks in information technology supply chains.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Myrick, Sue Wilkins", 
+    "state": "NC", 
+    "thomas_id": "00849", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-31T15:46:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

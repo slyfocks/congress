@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T18:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2192-2194, H2197-2198", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2192", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Gingrey (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-31T19:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 212, 
+      "text": "On agreeing to the Gingrey (GA) amendment (A017) Failed by recorded vote: 195 - 227 (Roll no. 212).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt226-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit FAA employees from engaging in union activities during the official work day. It would not have sought to repeal the right of any FAA employee to collectively bargain or arbitrate.", 
+  "house_number": 17, 
+  "introduced_at": "2011-03-31", 
+  "number": 226, 
+  "purpose": "An amendment numbered 18 printed in House Report 112-46 to prohibit FAA employees from using official--taxpayer sponsored--time for union activities during the official work day. It would not repeal the right of any FAA employee to collectively bargain or arbitrate.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-31T19:10:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

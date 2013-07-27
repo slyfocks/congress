@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T15:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3908-3909", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3908", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T15:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Latham raised a point of order against the Smith (MI) amendment (A025). Mr. Latham stated that the amendment sought to change existing law and constituted legislation in an appropriation bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt157-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 25, 
+  "introduced_at": "2001-07-11", 
+  "number": 157, 
+  "purpose": "An amendment numbered 30 printed in the Congressional Record to establish a $150,000 cap for payments as a result of crop loan forfeitures.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-07-11", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

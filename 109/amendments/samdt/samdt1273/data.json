@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8453, S8472", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1273 proposed by Senator McConnell for Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8473", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1273 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1273-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-19", 
+  "number": 1273, 
+  "proposed_at": "2005-07-19", 
+  "purpose": "To prohibit the use of funds to approve or administer a loan, guarantee, or insurance policy for certain ethanol dehydration plants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-19", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

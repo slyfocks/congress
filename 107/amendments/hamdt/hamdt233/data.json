@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-25T14:20:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4586-4588, H4595-4596", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H4586", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-25T15:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 269, 
+      "text": "On agreeing to the Hinchey amendment (A004) Failed by recorded vote: 151 - 274 (Roll no. 269).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt233-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2590-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to delete section 635 that permits the donation of food and beverages for official events at the vice presidential residence.", 
+  "house_number": 4, 
+  "introduced_at": "2001-07-25", 
+  "number": 233, 
+  "purpose": "An amendment to strike section 635 from the bill.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-25T15:55:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

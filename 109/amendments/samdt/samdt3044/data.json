@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2267", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2267", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3044 proposed by Senator Akaka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 3044 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3044-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3044, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To provide $310 million over five years in mandatory funding for non-service pensions for World War II Filipino veterans, paid for closing corporate tax loopholes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Akaka, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "00007", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

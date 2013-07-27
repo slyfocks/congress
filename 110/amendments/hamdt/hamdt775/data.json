@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-04T23:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10001", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10001, H10010", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Walberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-05T00:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 841, 
+      "text": "On agreeing to the Walberg amendment (A008) Failed by recorded vote: 126 - 284 (Roll no. 841).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt775-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3222-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3222
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit the use of funds to be used to award a grant or contract based on the race, ethnicity, or sex of the grant applicant or prospective contractor.", 
+  "house_number": 8, 
+  "introduced_at": "2007-08-04", 
+  "number": 775, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to prohibit the use of funds to be used to award a grant or contract based on the race, ethnicity, or sex of the grant applicant or prospective contractor.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Timothy", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-08-05T00:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

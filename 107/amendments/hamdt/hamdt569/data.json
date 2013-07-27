@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-25T02:07:00-04:00", 
+      "references": [
+        {
+          "reference": " CR 7/24/2002 H5444-5445", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR 7/24/2002 H5444-5445", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Pelosi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-25T02:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pelosi amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt569-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4628-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4628
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment clarifies the use of funds provided for counter-drug and counterterrorism activities for Colombia.", 
+  "house_number": 4, 
+  "introduced_at": "2002-07-25", 
+  "number": 569, 
+  "purpose": "An amendment numbered 8 and printed in the Congressional Record of July 23, 2002.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-07-25T02:09:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

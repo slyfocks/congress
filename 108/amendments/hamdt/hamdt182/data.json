@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-24T17:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5776", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5776", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Hayes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-24T17:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hayes amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt182-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2555-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2555
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment prohibits any funding to be used in contravention of the applicable provisions of the Buy American Act.", 
+  "house_number": 7, 
+  "introduced_at": "2003-06-24", 
+  "number": 182, 
+  "purpose": "An amendment to insert Buy American provisions into the bill.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hayes, Robin", 
+    "state": "NC", 
+    "thomas_id": "01600", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-06-24T17:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-25T15:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5447-5448, H5468", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5447", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Cleaver.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-25T18:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 634, 
+      "text": "On agreeing to the Cleaver amendment (A004) Failed by recorded vote: 165 - 248 (Roll no. 634).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt716-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Management of Lands and Resources account by $3 million and increase the funding for urban waters in the Environmental Programs and Management account by a similar amount.", 
+  "house_number": 4, 
+  "introduced_at": "2011-07-25", 
+  "number": 716, 
+  "purpose": "An amendment to reduce the Management of Lands and Resources account by $3,000,000 and increase the Environmental Programs and Management account by $3,000,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cleaver, Emanuel", 
+    "state": "MO", 
+    "thomas_id": "01790", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-25T18:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-01T12:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H588-598", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H588-591", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-01T14:13:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 23, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A005) Failed by recorded vote: 160 - 258 (Roll no. 23).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt6-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr333-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 333
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to make various technical changes and modify the means test to allow additional expenses including health insurance premiums, other medical expenses, and the costs relating to the care of foster children; and extend the deadline for filing and confirmation of reorganization plans by small businesses.", 
+  "house_number": 5, 
+  "introduced_at": "2001-03-01", 
+  "number": 6, 
+  "purpose": "Amendment no. 6 printed in H. Rept. 107-4 to make various technical changes and modify the means test to allow additional expenses including health insurance premiums, other medical expenses, and the costs relating to the care of foster children, and extends the deadline for filing and confirmation of reorganization plans by small businesses.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-03-01T14:13:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

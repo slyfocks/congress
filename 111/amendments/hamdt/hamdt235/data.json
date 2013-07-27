@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T20:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6958-6960", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6958", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T13:41:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6993-6994", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 375, 
+      "text": "On agreeing to the Campbell amendment (A025) Failed by recorded vote: 123 - 303 (Roll no. 375).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt235-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit use of funds in the bill for the Training the Next Generation of Weather Forecasters project of San Jose State University, San Jose, California.", 
+  "house_number": 25, 
+  "introduced_at": "2009-06-17", 
+  "number": 235, 
+  "purpose": "An amendment numbered 105 printed in the Congressional Record to prohibit use of funds in the bill for the Training the Next Generation of Weather Forecasters project of San Jose State University, San Jose, California.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T13:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

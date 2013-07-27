@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3986-3987, S3995", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3986-3987", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 475 proposed by Senator Craig.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 475 that the amendment is non-germane.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [], 
+      "text": "Amendment SA 475 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt475-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 475, 
+  "proposed_at": "2005-04-20", 
+  "purpose": "To limit the use of funds to restrict the issuance of general licenses for travel to Cuba in connection with authorized sales activities, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Craig, Larry E.", 
+    "state": "ID", 
+    "thomas_id": "00246", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-04-18", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

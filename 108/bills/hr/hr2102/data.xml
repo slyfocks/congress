@@ -1,0 +1,50 @@
+<bill session="108" type="h" number="2102" updated="2013-07-14T19:01:24-04:00">
+  <state datetime="2003-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2003-05-14"/>
+  </status>
+  <introduced datetime="2003-05-14"/>
+  <titles>
+    <title as="introduced" type="official">To provide a cost-sharing requirement for the construction of the Arkansas Valley Conduit in the State of Colorado.</title>
+  </titles>
+  <sponsor id="400287"/>
+  <cosponsors>
+    <cosponsor id="400020" joined="2003-11-12"/>
+    <cosponsor id="400059" joined="2003-10-16"/>
+    <cosponsor id="400265" joined="2003-05-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-05-14">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2003-06-03">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2003-06-03">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="1058"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Colorado"/>
+    <term name="Construction costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Infrastructure"/>
+    <term name="Pipelines"/>
+    <term name="Transportation and public works"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2003--Introduced.
+Amends Federal provisions relating to the construction, operation, and maintenance of the Fryingpan-Arkansas project, Colorado, to: (1) authorize appropriations for the nonreimbursable Federal share of costs of constructing the Arkansas Valley Conduit; (2) limit the non-federal share of such costs to 25 percent; and (3) allow up to 100 percent of the non-federal share to be in the form of in-kind contributions.</summary>
+</bill>

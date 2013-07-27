@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-09T16:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8043-8047, H8057-8058", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8044", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Van Hollen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-09T19:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 487, 
+      "text": "On agreeing to the Van Hollen amendment (A026) Agreed to by recorded vote: 220 - 198 (Roll no. 487).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt379-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2989-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2989
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment prohibits funds in the bill from being used to implement certain procedures relating to the public-private competition for Federal jobs and services.", 
+  "house_number": 26, 
+  "introduced_at": "2003-09-09", 
+  "number": 379, 
+  "purpose": "An amendment to prohibit the use of funds in the bill to implement the revisions to OMB Circular A-76 issued in late May.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Van Hollen, Chris", 
+    "state": "MD", 
+    "thomas_id": "01729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-09-09T19:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

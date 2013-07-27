@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29T12:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5536-5537", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5536", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mrs. Clayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29T12:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Clayton amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt936-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for 1890 Land Grant Institutions by $6.8 million and decreases Agricultural Research Service funding accordingly.", 
+  "house_number": 3, 
+  "introduced_at": "2000-06-29", 
+  "number": 936, 
+  "purpose": "An amendment numbered 57 printed in the Congressional Record to increase by $7 million the bill's funding for the 1890 land grant educational institutions. The amendment offsets by reducing funding for the Agricultural Research Service by and equal amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clayton, Eva M.", 
+    "state": "NC", 
+    "thomas_id": "00204", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-29T12:26:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

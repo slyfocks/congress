@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-28T20:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1710-1717, H1730", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1710-1713", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Cleaver.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-28T21:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 144, 
+      "text": "On agreeing to the Cleaver amendment (A002) Failed by recorded vote: 107 - 314 (Roll no. 144).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1000-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres112-112", 
+    "bill_type": "hconres", 
+    "congress": 112, 
+    "number": 112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute sought to insert the Congressional Black Caucus budget proposal.", 
+  "house_number": 2, 
+  "introduced_at": "2012-03-28", 
+  "number": 1000, 
+  "purpose": "An amendment in the nature of a substitute numbered 2 printed in House Report 112-423 to make investments in education, job training, transportation and infrastructure, that will accelerate the economic recovery and would protect the social safety net without cutting Social Security, Medicaid or Medicare and close certain corporate tax loopholes and preferences, saving trillions of dollars on the deficit over the next decade.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cleaver, Emanuel", 
+    "state": "MO", 
+    "thomas_id": "01790", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-28T21:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

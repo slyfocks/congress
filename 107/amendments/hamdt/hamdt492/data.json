@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-23T13:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2970-2973", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2970", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Gephardt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-23T13:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. Young (FL) raised a point of order against the Gephardt amendment (A001). Mr. Young stated that the amendment offered proposes to strike an amendment previously adopted and therefore violates the rules of the House. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt492-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4775-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4775
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2002-05-23", 
+  "number": 492, 
+  "purpose": "In chapter 14 of title I, strike section 1403.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Gephardt, Richard A.", 
+    "state": "MO", 
+    "thomas_id": "00433", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2002-05-23", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

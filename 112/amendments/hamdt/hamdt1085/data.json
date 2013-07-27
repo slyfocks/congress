@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-09T20:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2529-2531, H2554-2555", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2529", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A052) offered by Mr. Lewis (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T23:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 239, 
+      "text": "On agreeing to the Lewis (GA) amendment (A052) Failed by recorded vote: 189 - 235 (Roll no. 239).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1085-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 52, 
+  "introduced_at": "2012-05-09", 
+  "number": 1085, 
+  "purpose": "An amendment to prohibit the use of funds to be obligated for the purpose of closing the regional field offices of the Antitrust Division of the Department of Justice.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lewis, John", 
+    "state": "GA", 
+    "thomas_id": "00688", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-09T23:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

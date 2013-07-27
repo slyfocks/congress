@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2908-2909, S2926", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2908", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 239 proposed by Senator Biden.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 70, 
+      "text": "Amendment SA 239 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 70.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt239-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 239, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "Relative to funding to the Office of Community Oriented Policing Services.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Biden, Joseph R., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01284", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

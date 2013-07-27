@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12483-12485, S12492-12493", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2442 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S12492-12493", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 310, 
+      "text": "Amendment SA 2442 as modified agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 310.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2442-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-08", 
+  "number": 2442, 
+  "proposed_at": "2005-11-08", 
+  "purpose": "To provide for a report on the establishment of a Deputy Secretary of Defense for Management.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

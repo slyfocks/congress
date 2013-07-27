@@ -1,0 +1,80 @@
+<bill session="108" type="h" number="1775" updated="2013-07-14T19:01:16-04:00">
+  <state datetime="2004-09-08">REPORTED</state>
+  <status>
+    <unknown datetime="2004-09-08"/>
+  </status>
+  <introduced datetime="2003-04-11"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 36, United States Code, to designate the oak tree as the national tree of the United States.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2003-06-19"/>
+    <cosponsor id="400057" joined="2003-06-19"/>
+    <cosponsor id="400085" joined="2003-06-19"/>
+    <cosponsor id="400095" joined="2004-06-02"/>
+    <cosponsor id="400121" joined="2003-06-19"/>
+    <cosponsor id="400153" joined="2004-05-13"/>
+    <cosponsor id="400156" joined="2003-04-11"/>
+    <cosponsor id="400187" joined="2004-05-12"/>
+    <cosponsor id="400192" joined="2003-06-19"/>
+    <cosponsor id="400220" joined="2003-05-07"/>
+    <cosponsor id="400283" joined="2003-06-19"/>
+    <cosponsor id="400303" joined="2003-04-11"/>
+    <cosponsor id="400316" joined="2003-05-07"/>
+    <cosponsor id="400359" joined="2003-05-19"/>
+    <cosponsor id="400381" joined="2003-04-11"/>
+    <cosponsor id="400400" joined="2003-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-04-11">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2003-05-05">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-05-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-09-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-08">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2004-09-17T10:39:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 108-689.</text>
+    </action>
+    <calendar datetime="2004-09-17T10:39:00-04:00" calendar="House" number="223">
+      <text>Placed on the House Calendar, Calendar No. 223.</text>
+    </calendar>
+    <action datetime="2004-09-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1750-1751"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="860"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Emblems"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Trees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2004--Reported to House without amendment.
+Designates the tree genus Quercus (commonly known as the oak tree) as the national tree.</summary>
+</bill>

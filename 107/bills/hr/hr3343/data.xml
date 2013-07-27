@@ -1,0 +1,108 @@
+<bill session="107" type="h" number="3343" updated="2013-07-14T18:58:11-04:00">
+  <state datetime="2002-08-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2002-08-21"/>
+  </status>
+  <introduced datetime="2001-11-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend title X of the Energy Policy Act of 1992, and for other purposes.</title>
+  </titles>
+  <sponsor id="400373"/>
+  <cosponsors>
+    <cosponsor id="400593" joined="2001-11-19"/>
+    <cosponsor id="400296" joined="2001-11-19"/>
+    <cosponsor id="400350" joined="2001-11-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-11-19">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-11-28">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-12-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-12-12">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2001-12-18T12:49:00-05:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 107-341.</text>
+    </action>
+    <calendar datetime="2001-12-18T12:49:00-05:00" calendar="Union" number="204">
+      <text>Placed on the Union Calendar, Calendar No. 204.</text>
+    </calendar>
+    <action datetime="2001-12-18T15:19:00-05:00">
+      <text>Mr. Shimkus moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2001-12-18T15:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10197-10200" label="consideration"/>
+    </action>
+    <action datetime="2001-12-18T15:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3343.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-18T15:35:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H10197-10198" label="text"/>
+    </vote>
+    <action datetime="2001-12-18T15:35:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-12-19">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2002-01-23" calendar="Senate Legislative" under="General Orders" number="304">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2002-08-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8020" label="consideration"/>
+    </vote>
+    <topresident datetime="2002-08-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2002-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2002-08-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2002-08-21">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2002-08-21" type="public" number="107-222">
+      <text>Became Public Law No: 107-222.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="h" number="2418"/>
+    <bill relation="unknown" session="107" type="s" number="1147"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Auditing"/>
+    <term name="Authorization"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous waste site remediation"/>
+    <term name="Nuclear facilities"/>
+    <term name="Ohio"/>
+    <term name="Radioactive wastes"/>
+    <term name="Uranium enrichment"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2001--Passed House amended.
+Amends the Energy Policy Act of 1992 to increase: (1) reimbursement payments made to active thorium site licensees for off-site disposal under the remedial action program, subject to specified limits each fiscal year through FY 2007; and (2) the authorization of appropriations for the remedial action program.Amends the Atomic Energy Act of 1954 to: (1) increase the amount in the Uranium Enrichment Decontamination and Decommissioning Fund (adjusted for inflation beginning on the date of enactment of the Energy Policy Act of 1992); and (2) authorize the Secretary of Energy to expend funds to maintain enrichment capability (cold standby) at the Portsmouth, Ohio, Gaseous Diffusion Plant.Directs the Comptroller General to: (1) audit the Fund and report the results to Congress, including an assessment as to whether the current Fund authorization is sufficient to implement anticipated decontamination, decommissioning, and remedial action activities; and (2) address specifically whether deposits are sufficient to pay for specified decontamination, decommissioning, and remedial action costs.</summary>
+</bill>

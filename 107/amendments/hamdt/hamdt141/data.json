@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-28T16:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3779-3781, H3786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3779", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T18:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 209, 
+      "text": "On agreeing to the Brown (OH) amendment (A009) Agreed to by recorded vote: 271 - 140 (Roll no. 209).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt141-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment allocates $5 million to carry out the Food and Drug Administration's antibiotic resistance plan.", 
+  "house_number": 9, 
+  "introduced_at": "2001-06-28", 
+  "number": 141, 
+  "purpose": "An amendment to provide that $5,000,000 is available for the purpose of carrying out the responsibilities of the FDA with respect to antibiotic drugs.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-06-28T18:00:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

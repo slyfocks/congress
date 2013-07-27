@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15T11:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1433-1435", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1433-1434", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Cole (OK).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15T11:41:00-05:00", 
+      "references": [], 
+      "text": "On ordering the previous question on the amendment (A001) and on the resolution Agreed to by the Yeas and Nays: 220 - 195 (Roll no. 69).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15T11:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cole (OK) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt43-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres151-109", 
+    "bill_type": "hres", 
+    "congress": 109, 
+    "number": 151
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment protects sections 1113 and 1114 in the bill from points of order.", 
+  "house_number": 1, 
+  "introduced_at": "2005-03-15", 
+  "number": 43, 
+  "purpose": "An amendment to protect sections 1113 and 1114 from possible points of order.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Cole, Tom", 
+    "state": "OK", 
+    "thomas_id": "01742", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-15T11:41:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

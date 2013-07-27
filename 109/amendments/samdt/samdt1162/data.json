@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-12", 
+      "references": [
+        {
+          "reference": "CR S8126-8128", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8126", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1162 proposed by Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-12", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1162 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1162-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1162, 
+  "proposed_at": "2005-07-12", 
+  "purpose": "To require the Inspector General to report to the Congress on the port security grant programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-12", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

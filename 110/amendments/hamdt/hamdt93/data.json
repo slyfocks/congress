@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-18T19:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3544-3546", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3544", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Garrett (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-20T10:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3707-3708", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 237, 
+      "text": "On agreeing to the Garrett (NJ) amendment (A006) Failed by recorded vote: 155 - 244 (Roll no. 237).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt93-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1257-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1257
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to establish a trigger that would have to be met before shareholders could vote on executive compensation packages by requiring that executive compensation exceed by 10 percent or more the average compensation for comparable industries in that particular sector.", 
+  "house_number": 6, 
+  "introduced_at": "2007-04-18", 
+  "number": 93, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to insert a new paragraph outlining conditions triggering a vote.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-04-20T10:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-12T20:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6299-6308", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6299", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T09:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6481-6482", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 467, 
+      "text": "On agreeing to the Foxx amendment (A007) Agreed to by recorded vote: 216 - 198 (Roll no. 467).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt257-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment reduces funding for the Office of the Secretary and Executive Management by $1,241,000.", 
+  "house_number": 7, 
+  "introduced_at": "2007-06-12", 
+  "number": 257, 
+  "purpose": "An amendment numbered 33 printed in the Congressional Record to reduce appropriation for the Office of the Secretary and Executive Management by $1,241.000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T09:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

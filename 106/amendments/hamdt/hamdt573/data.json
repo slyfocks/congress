@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-15T14:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H400-401", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hall (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-15T14:14:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H400", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Hall (TX) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt573-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2086-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for the National Science Foundation, Department of Energy, and Networking and Information Technology Research and Development including an increase in the number of grants authorized.", 
+  "house_number": 1, 
+  "introduced_at": "2000-02-15", 
+  "number": 573, 
+  "purpose": "An amendment numbered 10 printed in the Congressional Record to increase the bill's total authorization from $4.8 billion to $5.6 billion for FYs 2000-2004. Specifically, the amendment increases 1) the authorization for NSF long-term information technology research from $1.8 billion to $2.2 billion over the FY 2000-2004 period; 2) the number of large research grants the NSF may award from 20 to 25 in FYs 2000-2001 and from 30 to 35 in FY's 2002-2004; and 3) the authorization for NSF information technology research centers from $220 million to $300 million.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hall, Ralph M.", 
+    "state": "TX", 
+    "thomas_id": "00484", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-02-15T14:14:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

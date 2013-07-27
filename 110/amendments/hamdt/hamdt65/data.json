@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-27T16:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3134-3135, H3141", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3134", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27T17:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A006) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt65-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1401-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 203 which requires the Transportation Security Administration Puppy Program to work to increase the number of domestically bred canines to help meet the increase in demand for canine detection teams authorized in the bill while preserving the current quality of canines provided for training.", 
+  "house_number": 6, 
+  "introduced_at": "2007-03-27", 
+  "number": 65, 
+  "purpose": "An amendment numbered 6 printed in House Report 110-74 to strike section 203, `Transportation Security Administration Breeding Program Increase' which authorizes an increase in the number of domestically bred canines under the Transportation Security Administration's Puppy Program.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-27T17:03:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

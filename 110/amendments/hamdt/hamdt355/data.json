@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-21T11:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6843-6845, H6871-6872", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6843", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-21T15:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 531, 
+      "text": "On agreeing to the Foxx amendment (A005) Failed by recorded vote: 137 - 287 (Roll no. 531).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt355-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2764-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2764
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for contributions to international organizations by $203,082,000.", 
+  "house_number": 5, 
+  "introduced_at": "2007-06-21", 
+  "number": 355, 
+  "purpose": "An amendment to reduce the appropriation for contributions to international organizations by $203,082,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-21T15:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

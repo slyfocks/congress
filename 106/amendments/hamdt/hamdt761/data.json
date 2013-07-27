@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-08T20:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4104-4106", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4104", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-08T20:16:00-04:00", 
+      "references": [], 
+      "text": "Mr. Porter raised a point of order against the Traficant amendment (A005). Mr. Porter stated the the amendment constitutes legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt761-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "2000-06-08", 
+  "number": 761, 
+  "purpose": "An amendment to increase the minimum wage one dollar, from $5.15 to $6.16.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-08", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

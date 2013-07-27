@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S4004-4005", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4004", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 454 proposed by Senator Cochran for Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S4004-4005", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 454 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt454-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-15", 
+  "number": 454, 
+  "proposed_at": "2005-04-20", 
+  "purpose": "To ensure that Afghan security forces, including police, border security guards, and members of the Afghan National Army, who receive training provided with United States assistance are professionally trained and that certain minimum standards are met.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

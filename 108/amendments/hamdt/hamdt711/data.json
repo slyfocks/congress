@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-20T13:13:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6013-6014, H6019-6020", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6013", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Sherman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-20T14:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 394, 
+      "text": "On agreeing to the Sherman amendment (A002) Failed by recorded vote: 126 - 296 (Roll no. 394).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt711-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3574-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3574
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to eliminate the requirement in the bill that an assumption of zero volatility be used when calculating the value of stock option expense for top-five executives.", 
+  "house_number": 2, 
+  "introduced_at": "2004-07-20", 
+  "number": 711, 
+  "purpose": "An amendment numbered two printed in House Report 108-616 to eliminate the requirement in the bill that an assumption of zero volatility be used when calculating the value of stock option expense for the top-five executives.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "thomas_id": "01526", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-20T14:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

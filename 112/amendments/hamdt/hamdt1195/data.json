@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T16:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3426", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3426", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Lujan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T17:22:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3518-3519", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 333, 
+      "text": "On agreeing to the Lujan amendment (A026) Failed by recorded vote: 174 - 244 (Roll no. 333).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1195-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funds for NNSA Office of the Administrator by $21,899,000 and increase funds for the Defense Environmental Cleanup Act (specifically NNSA labs) by a similar amount.", 
+  "house_number": 26, 
+  "introduced_at": "2012-06-05", 
+  "number": 1195, 
+  "purpose": "An amendment to reduce funds for Defense Nuclear Nonproliferation Office of the Administrator by $21,899,000 and increase funds for Environmental and Other Defense Activities Defense Environmental Cleanup by $21,899,000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lujan, Ben Ray", 
+    "state": "NM", 
+    "thomas_id": "01939", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T17:22:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

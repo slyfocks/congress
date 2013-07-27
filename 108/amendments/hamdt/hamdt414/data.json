@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-16T21:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 10/17/2003 H9591-9592, H9602-9603", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 10/17/2003 H9591", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-16T22:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 550, 
+      "text": "On agreeing to the Markey amendment (A010) Failed by recorded vote: 146 - 279 (Roll no. 550).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt414-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete certain provisions that allow the Secretary of Defense to reprogram funds.", 
+  "house_number": 10, 
+  "introduced_at": "2003-10-16", 
+  "number": 414, 
+  "purpose": "An amendment to strike certain provisions that would allow the Secretary of Defense to transfer funds.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-16T22:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

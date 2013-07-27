@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-02", 
+      "references": [
+        {
+          "reference": "CR S1636-1638", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1636", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2899 proposed by Senator Kyl.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-03", 
+      "references": [
+        {
+          "reference": "CR S1665", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-06", 
+      "references": [
+        {
+          "reference": "CR S1778", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-07", 
+      "references": [
+        {
+          "reference": "CR S1808, S1826", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-07", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2899 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2899-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2320-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2320
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-02", 
+  "number": 2899, 
+  "proposed_at": "2006-03-02", 
+  "purpose": "To make available funds included in the Deficit Reduction Act of 2005 for allotments to States for the Low-Income Home Energy Assistance Program for fiscal year 2006.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-07", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-10T12:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7985-7986", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7985", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. Capito.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-10T12:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Capito amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt315-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3082-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases the level of funding by offset for the Veterans' Legal Services Account by $1 million.", 
+  "house_number": 4, 
+  "introduced_at": "2009-07-10", 
+  "number": 315, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-195 to increase funding for the United States Court of Appeals for Veterans Claims by $1,000,000, subsequently increasing the funding for veterans' free legal services by $1,000,000. The offset would be produced by reducing the Office of Inspector General Account.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Capito, Shelley Moore", 
+    "state": "WV", 
+    "thomas_id": "01676", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-07-10T12:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

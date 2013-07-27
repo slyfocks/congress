@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T22:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3894", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3894", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mr. Poe (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T22:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Poe (TX) amendment (A034) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt382-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds for parole for an alien into the United States, grant deferred action of a final order of removal, or any reason other than on a case-by-case basis for urgent humanitarian reasons or significant public benefit.", 
+  "house_number": 34, 
+  "introduced_at": "2011-06-01", 
+  "number": 382, 
+  "purpose": "An amendment to prohibit the use of funds be used to parole an alien into the United States, or grant deferred action of a final order of removal, for any reason other than on a case-by-case basis for urgent humanitarian reasons or significant public benefit.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-01T22:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

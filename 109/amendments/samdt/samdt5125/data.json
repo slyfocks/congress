@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-14", 
+      "references": [
+        {
+          "reference": "CR S10901", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5125 proposed by Senator Hutchison for Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5125 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-11-15", 
+      "references": [
+        {
+          "reference": "CR S10975", 
+          "type": "text as further modified"
+        }
+      ], 
+      "text": "Amendment SA 5125 previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt5125-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5385-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5385
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-13", 
+  "number": 5125, 
+  "proposed_at": "2006-11-14", 
+  "purpose": "To provide that, of the amount appropriated or otherwise made available for Military Construction, Navy and Marine Corps, $3,410,000 shall be available for the replacement of a vehicle bridge at Naval Station, Newport, Rhode Island, and to provide an offset.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-11-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

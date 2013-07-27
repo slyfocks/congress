@@ -1,0 +1,81 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3795-3796", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3795", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 499 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3866, S3881-3883", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3966, S3981", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 499 that the amendment is non-germane.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [], 
+      "text": "Amendment SA 499 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt499-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 499, 
+  "proposed_at": "2005-04-18", 
+  "purpose": "Relating to the aircraft carriers of the Navy.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-04-18", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

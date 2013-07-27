@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-27T11:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2418-2420", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2418", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Pence.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-27T11:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pence amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt18-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1104-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1104
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment makes it a criminal act to knowingly use a misleading domain name with the intent to deceive a person into viewing obscenity on the Internet or knowingly deceive a minor into viewing material on the Internet that is harmful to minors.", 
+  "house_number": 1, 
+  "introduced_at": "2003-03-27", 
+  "number": 18, 
+  "purpose": "An amendment numbered 1 printed in House Report 108-48 to make it a criminal act to knowingly use a misleading domain name with the intent to deceive a person into viewing obscenity on the Internet. The amendment also makes it a criminal act to knowingly use a misleading domain name with the intent to deceive a minor into viewing material on the Internet that is harmful to minors. A domain name that includes a word or words to indicate the sexual content of the site is not considered misleading.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pence, Mike", 
+    "state": "IN", 
+    "thomas_id": "01649", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-03-27T11:41:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

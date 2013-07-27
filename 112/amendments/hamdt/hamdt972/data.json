@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-07T17:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1252-1255, H1262-1263", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1252", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-07T18:24:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 104, 
+      "text": "On agreeing to the Ellison amendment (A005) Failed by recorded vote: 169 - 244 (Roll no. 104).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt972-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3606-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3606
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require emerging growth companies to fully comply with say-on-pay and golden parachute shareholder votes.", 
+  "house_number": 5, 
+  "introduced_at": "2012-03-07", 
+  "number": 972, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-409 to require Emerging Growth Companies to fully comply with say-on-pay and golden parachute shareholder votes.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-07T18:24:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

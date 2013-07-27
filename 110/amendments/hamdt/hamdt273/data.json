@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-14T22:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6434-6436", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6434", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Carter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T10:24:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6488", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 476, 
+      "text": "On agreeing to the Carter amendment (A024) Failed by recorded vote: 190 - 233 (Roll no. 476).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt273-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike language regarding border fencing requirements under the Border Security, Fencing, Infrastructure, and Technology heading.", 
+  "house_number": 24, 
+  "introduced_at": "2007-06-14", 
+  "number": 273, 
+  "purpose": "An amendment to strike the proviso regarding border fencing requirements under the Border Security, Fencing, Infrastructure, and Technology heading.", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Carter, John R.", 
+    "state": "TX", 
+    "thomas_id": "01752", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T10:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

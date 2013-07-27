@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2165-2168, S2178-2179", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2165", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3004 proposed by Senator Wyden for Senator Snowe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 50, 
+      "text": "Amendment SA 3004 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 50.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3004-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-13", 
+  "number": 3004, 
+  "proposed_at": "2006-03-15", 
+  "purpose": "To ensure that any savings associated with legislation that authorizes the Secretary of Health and Human Services to use the collective purchasing power of 40,000,000 Medicare beneficiaries to negotiate the best possible prices for prescription drugs provided through part D of title XVIII of the Social Security Act in fallback plans, by private drug plans (if asked) and in other circumstances, but not permitting a uniform formulary or price setting, is reserved for deficit reduction of to improve the Medicare drug benefit.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

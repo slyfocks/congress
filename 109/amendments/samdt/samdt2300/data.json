@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11909", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11909", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2300 proposed by Senator Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [
+        {
+          "reference": "CR S11953, S11987-11988, S11989", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 280, 
+      "text": "Amendment SA 2300 not agreed to in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 280.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2300-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-26", 
+  "number": 2300, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To prohibit funding for the support, development, or distribution of the Department of Education's e-Language Learning System (ELLS).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-10-27", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

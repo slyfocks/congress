@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-02T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4353-4354", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4353", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Johnson, E. B..", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-02T15:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Johnson, E. B. amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt116-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1429-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1429
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment encourages partnerships betwen Head Start and Historically Black Colleges and Universities.", 
+  "house_number": 1, 
+  "introduced_at": "2007-05-02", 
+  "number": 116, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-116 to instruct the Secretary of HHS to create partnerships between Head Start and the HBCUs. These partnerships would increase the number of associate, baccalaureate, and advanced degrees in early childhood education that are earned by Head Start staff and parents of Head Start students.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-02T15:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

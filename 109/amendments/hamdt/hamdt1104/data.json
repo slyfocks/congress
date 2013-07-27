@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-27T20:12:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4649-4650, H4663-4664", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4649", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-27T22:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 328, 
+      "text": "On agreeing to the Nadler amendment (A007) Failed by recorded vote: 176 - 243 (Roll no. 328).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1104-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the FBI by $40 million.", 
+  "house_number": 7, 
+  "introduced_at": "2006-06-27", 
+  "number": 1104, 
+  "purpose": "An amendment to increase funds (by offset) for the FBI by $40,000,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-27T22:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

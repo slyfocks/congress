@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T21:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5160-5169, H5172-5173", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5160", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T23:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 317, 
+      "text": "On agreeing to the Markey amendment (A013) Failed by recorded vote: 206 - 223 (Roll no. 317).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt298-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to strike title V, the Arctic Coastal Plain Domestic Energy Security Act of 2001, from the bill.", 
+  "house_number": 13, 
+  "introduced_at": "2001-08-01", 
+  "number": 298, 
+  "purpose": "Part B amendment numbered 12 printed in House Report 107-178 to maintain existing protection of the Arctic National Wildlife Refuge by striking language in the bill that repeals the prohibition against energy development in ANWR.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-08-01T23:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

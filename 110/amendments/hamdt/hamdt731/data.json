@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-02T18:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9621-9622, H9639, CR 8/3/2007 H9641-9642", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9621", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-02T21:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 803, 
+      "text": "On agreeing to the Sessions amendment (A003) Failed by recorded vote: 168 - 254 (Roll no. 803).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt731-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3161-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3161
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to delete language from the bill prohibiting use of funds by the USDA Chief Financial Officer for \"competitive sourcing\" activities until the Secretary of Agriculture submits a report on the Department's contracting out policies and budget.", 
+  "house_number": 3, 
+  "introduced_at": "2007-08-02", 
+  "number": 731, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 110-290 to strike language from the bill prohibiting use of funds by the USDA Chief Financial Officer for \"competitive sourcing\" activities until the Secretary of Agriculture submits a report on the Department's contracting out policies and budget.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-08-02T21:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

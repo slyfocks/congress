@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2274-2275", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2274", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3166 proposed by Senator Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 73, 
+      "text": "Amendment SA 3166 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 73.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3166-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-16", 
+  "number": 3166, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To deny funds in FY2007 for the United Nations Human Rights Council, which the United States just voted against because countries found complicit in sustained human rights abuses are eligible for Council membership.  Savings redirected to border security.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

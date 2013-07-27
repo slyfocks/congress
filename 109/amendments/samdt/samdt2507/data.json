@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-10", 
+      "references": [
+        {
+          "reference": "CR S12645-12648, S12652-12653, S12662, S12665-12666", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2507 proposed by Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-10", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 318, 
+      "text": "Amendment SA 2507 agreed to in Senate by Yea-Nay Vote. 82 - 9. Record Vote Number: 318.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2507-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-10", 
+  "number": 2507, 
+  "proposed_at": "2005-11-10", 
+  "purpose": "To require reports on clandestine facilities for the detention of individuals captured in the global war on terrorism.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-10", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

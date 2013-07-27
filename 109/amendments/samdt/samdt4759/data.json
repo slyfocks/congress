@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-02", 
+      "references": [
+        {
+          "reference": "CR S8571-8572", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8571", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4759 proposed by Senator Stevens for Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4759 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4759-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-01", 
+  "number": 4759, 
+  "proposed_at": "2006-08-02", 
+  "purpose": "To make available from Other Procurement, Army, up to $2,600,000 for the Virtual Interactive Combat Environment for the New Jersey National Guard.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-02", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

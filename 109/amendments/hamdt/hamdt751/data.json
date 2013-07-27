@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-29T13:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1259-1264", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1259-1264", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. McKeon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29T13:15:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McKeon amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt751-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr609-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 609
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Manager's amendment consists of the text of the amendment contained in House Report 109-399 and printed on pages H1259-H1264 in the Congressional Record for March 29, 2006.", 
+  "house_number": 1, 
+  "introduced_at": "2006-03-29", 
+  "number": 751, 
+  "purpose": "Amendment numbered 1 printed in House Report 109-399 to make many technical changes that will reword certain phrases or make changes to ensure that the bill conforms to language currently included in the Higher Education Act. In addition, the Manager's Amendment updates all the reauthorization years to begin in fiscal year 2007 (and authorizes for the 5 succeeding years).", 
+  "sponsor": {
+    "district": "25", 
+    "name": "McKeon, Howard P. \"Buck\"", 
+    "state": "CA", 
+    "thomas_id": "00778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-29T13:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-14T14:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6651-6655, H6678-6679", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6651", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Ackerman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-14T19:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 357, 
+      "text": "On agreeing to the Ackerman amendment (A008) Failed by recorded vote: 199 - 202 (Roll no. 357).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt230-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2673-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2673
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit funding to approve for human consumption any cattle, sheep, swine, goats, horses, mules, or other equines that are unable to stand or walk unassisted at a slaughtering, packing, meat-canning, rendering, or similar establishment subject to inspection at the point of examination and inspection.", 
+  "house_number": 8, 
+  "introduced_at": "2003-07-14", 
+  "number": 230, 
+  "purpose": "An amendment to prohibit funds in the bill to approve for human consumption, meats from downed animals.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ackerman, Gary L.", 
+    "state": "NY", 
+    "thomas_id": "00004", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-14T19:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

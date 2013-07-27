@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-25", 
+      "references": [
+        {
+          "reference": "CR S8773", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8773", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1489 proposed by Senator Collins for Senator Thune.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [
+        {
+          "reference": "CR S8897", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-04", 
+      "references": [
+        {
+          "reference": "CR S12377", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-04", 
+      "references": [], 
+      "text": "Proposed amendment SA 1489 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1489-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-25", 
+  "number": 1489, 
+  "proposed_at": "2005-07-25", 
+  "purpose": "To postpone the 2005 round of defense base closure and realignment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-11-04", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

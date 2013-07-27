@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08T15:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2363, H2382-2383", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2363", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-08T18:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 204, 
+      "text": "On agreeing to the McClintock amendment (A003) Failed by recorded vote: 121 - 287 (Roll no. 204).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1036-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the International Trade Administration accounts by $277,824,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 3, 
+  "introduced_at": "2012-05-08", 
+  "number": 1036, 
+  "purpose": "An amendment to reduce the International Trade Administration, Operations and Administration Account by $277,824,000 and apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-08T18:14:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

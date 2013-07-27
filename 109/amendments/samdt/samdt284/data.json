@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-05", 
+      "references": [
+        {
+          "reference": "CR S3191-3192", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3191", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 284 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-06", 
+      "references": [
+        {
+          "reference": "CR S3240, S3241-3243, S3243-3248", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-06", 
+      "references": [], 
+      "text": "Motion to table amendment SA 284 agreed to in Senate by Yea-Nay Vote. 65 - 35. Record Vote Number: 85.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt284-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s600-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 600
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-05", 
+  "number": 284, 
+  "proposed_at": "2005-04-05", 
+  "purpose": "To prohibit funds from being used for television broadcasting to Cuba.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-04-05", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

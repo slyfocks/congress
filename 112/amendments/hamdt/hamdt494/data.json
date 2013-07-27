@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-23T14:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4484", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4484", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Moore.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23T14:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Moore amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt494-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment allows the United States Patent Trade Office to develop methods for ways to track the diversity of patent applicants.", 
+  "house_number": 4, 
+  "introduced_at": "2011-06-23", 
+  "number": 494, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 112-111 to direct the USPTO to develop methods for studying the diversity of patent applicants, including those applicants who are minorities, women, or veterans. Any results of the study shall not be used for preferential treatment in the patent process.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "thomas_id": "01811", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-23T14:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

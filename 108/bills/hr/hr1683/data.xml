@@ -1,0 +1,131 @@
+<bill session="108" type="h" number="1683" updated="2013-07-14T19:01:14-04:00">
+  <state datetime="2003-12-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2003-12-03"/>
+  </status>
+  <introduced datetime="2003-04-09"/>
+  <titles>
+    <title as="introduced" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2003</title>
+    <title as="reported to house" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2003</title>
+    <title as="passed house" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2003</title>
+    <title as="enacted" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2003</title>
+    <title as="introduced" type="official">To increase, effective as of December 1, 2003, the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400002" joined="2003-05-13"/>
+    <cosponsor id="400049" joined="2003-04-09"/>
+    <cosponsor id="400051" joined="2003-05-14"/>
+    <cosponsor id="400095" joined="2003-05-19"/>
+    <cosponsor id="400126" joined="2003-04-09"/>
+    <cosponsor id="400239" joined="2003-05-19"/>
+    <cosponsor id="400274" joined="2003-04-09"/>
+    <cosponsor id="400433" joined="2003-05-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-04-09">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2003-04-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E723"/>
+    </action>
+    <action datetime="2003-04-24">
+      <text>Referred to the Subcommittee on Benefits.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-05-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-05-07">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-05-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2003-05-19T18:37:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 108-108.</text>
+    </action>
+    <calendar datetime="2003-05-19T18:38:00-04:00" calendar="Union" number="55">
+      <text>Placed on the Union Calendar, Calendar No. 55.</text>
+    </calendar>
+    <action datetime="2003-05-20T11:08:00-04:00">
+      <text>Mr. Boozman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-05-20T11:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4273-4275" label="consideration"/>
+    </action>
+    <action datetime="2003-05-20T11:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1683.</text>
+    </action>
+    <action datetime="2003-05-20T11:16:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-05-22T13:27:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4556-4557" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-05-22T13:34:00-04:00" how="roll" result="pass" roll="209" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 209).</text>
+      <reference ref="CR 5/20/2003 H4273-4274" label="text"/>
+    </vote>
+    <action datetime="2003-05-22T13:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-05-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2003-11-21">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S15481" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2003-11-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2003-11-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2003-11-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2003-11-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2003-12-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2003-12-03" type="public" number="108-147">
+      <text>Became Public Law No: 108-147.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR06" subcommittee="Benefits" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="1131"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Disabled"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Labor and employment"/>
+    <term name="Survivors' benefits"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/3/2003--Public Law.
+Veterans' Compensation Cost-of-Living Adjustment Act of 2003 - Directs the Secretary of Veterans Affairs to increase, as of December 1, 2003, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult children, and dependency and indemnity compensation for surviving spouses and children. Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.</summary>
+</bill>

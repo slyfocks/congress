@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-10T19:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3144-3145", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3144", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Deutch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T14:16:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3182-3183", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 306, 
+      "text": "On agreeing to the Deutch amendment (A008) Failed by recorded vote: 205 - 222 (Roll no. 306).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt277-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1229-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1229
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike section 202 of the bill which imposes an exclusive venue in the Fifth Circuit for civil actions relating to the leasing of Federal lands in the Gulf of Mexico for energy development, production and exploration.", 
+  "house_number": 8, 
+  "introduced_at": "2011-05-10", 
+  "number": 277, 
+  "purpose": "An amendment numbered 9 printed in Part A of House Report 112-73 to strike section 202 of H.R. 1229, so that states outside of the 5th Circuit can have their courts hear civil actions relating to energy projects in the Gulf of Mexico.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Deutch, Theodore E.", 
+    "state": "FL", 
+    "thomas_id": "01976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-11T14:16:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

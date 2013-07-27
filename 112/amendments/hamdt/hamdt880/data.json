@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-30T16:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7977-7979, H7983", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7977", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30T17:31:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 867, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A004) Failed by recorded vote: 188 - 236 (Roll no. 867).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt880-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3094-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3094
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike the provisions in the bill which deal with the timeframe in which an election can go on and in which the employer can unnecessarily delay that election.", 
+  "house_number": 4, 
+  "introduced_at": "2011-11-30", 
+  "number": 880, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-291 to strike a section of the bill to ensure that employers would not be able to unnecessarily delay an election.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-11-30T17:31:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

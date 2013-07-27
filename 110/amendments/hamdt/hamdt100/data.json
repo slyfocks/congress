@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-19T18:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3661-3663", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3661", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Kirk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-19T18:09:00-04:00", 
+      "references": [], 
+      "text": "Kirk amendment (A005) modified by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-19T18:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3662", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "On agreeing to the Kirk amendment as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt100-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1495-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1495
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment adds Lake County, Illinois to the list in the bill of small projects for aquatic ecosystem restoration.", 
+  "house_number": 5, 
+  "introduced_at": "2007-04-19", 
+  "number": 100, 
+  "purpose": "An amendment numbered 6 printed in House Report 110-100 to add a new section at the end of title II. As modified the amendment inserts the following new projects in Lake County, Ilinois.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2007-04-19", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

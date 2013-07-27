@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-25T22:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7430-7431", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7430", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-26T12:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7466-7467", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7466", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 470, 
+      "text": "On agreeing to the Campbell amendment (A007) Failed by recorded vote: 123 - 305 (Roll no. 470).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt281-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2996-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2996
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike $1 million in funding for the `Restore Good Fellow Lodge, Indiana Dunes National Lakeshore' and reduce the overall cost of the bill by a commensurate amount.", 
+  "house_number": 7, 
+  "introduced_at": "2009-06-25", 
+  "number": 281, 
+  "purpose": "An amendment numbered 1 printed in part C of House Report 111-184 to strike $1 million in funding for the `Restore Good Fellow Lodge, Indiana Dunes National Lakeshore' and reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-26T12:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

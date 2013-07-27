@@ -1,0 +1,94 @@
+<bill session="106" type="h" number="2541" updated="2013-07-14T18:53:58-04:00">
+  <state datetime="1999-11-16T12:39:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-11-16T12:39:00-05:00"/>
+  </status>
+  <introduced datetime="1999-07-15"/>
+  <titles>
+    <title as="introduced" type="official">To adjust the boundaries of the Gulf Islands National Seashore to include Cat Island, Mississippi.</title>
+  </titles>
+  <sponsor id="400399"/>
+  <cosponsors>
+    <cosponsor id="400319" joined="1999-10-07"/>
+    <cosponsor id="400530" joined="1999-10-07"/>
+    <cosponsor id="400402" joined="1999-10-07"/>
+    <cosponsor id="400432" joined="1999-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-07-15">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-07-20">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-09-30">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Subcommittee on National Parks and Public Lands Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-10-27">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1999-11-04T16:15:00-05:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 106-447.</text>
+    </action>
+    <calendar datetime="1999-11-04T16:16:00-05:00" calendar="Union" number="257">
+      <text>Placed on the Union Calendar, Calendar No. 257.</text>
+    </calendar>
+    <action datetime="1999-11-16T12:31:00-05:00">
+      <text>Mr. Hansen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1999-11-16T12:31:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12006-12008" label="consideration"/>
+    </action>
+    <action datetime="1999-11-16T12:31:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2541.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-16T12:39:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-11-16T12:39:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1999-11-19">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2000-07-27">
+      <text>Subcommittee on National Parks, Historic Preservation, and Recreation. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks, Historic Preservation and Recreation" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="2638"/>
+  </relatedbills>
+  <subjects>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Islands"/>
+    <term name="Land transfers"/>
+    <term name="Mississippi"/>
+    <term name="National seashores"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/1999--Passed House amended.
+Amends Federal law which established the Gulf Islands National Seashore to include within such Seashore Cat Island, Mississippi, if acquired by the Secretary of the Interior from a willing seller. Authorizes the Secretary to acquire from a willing seller: (1)an easement over the Boddie Family Tract on Cat Island in order to implement an agreement concerning the development and use of such parcel; and (2) certain lands and interests within one mile seaward of Cat Island.Authorizes the Secretary to enter into agreements: (1) with the State of Mississippi for managing resources and providing law enforcement assistance on Cat Island and one mile seaward therefrom; and (2) with the owners of the Boddie Tract for effecting the agreement concerning its development and use.Authorizes appropriations to acquire lands and submerged lands on and adjacent to Cat Island.</summary>
+</bill>

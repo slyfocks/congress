@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2832-2833", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2832-2833", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 210 proposed by Senator Conrad for Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2875, S2922-2923", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 63, 
+      "text": "Amendment SA 210 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 63.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt210-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 210, 
+  "proposed_at": "2005-03-16", 
+  "purpose": "To repeal the tax subsidy for certain domestic companies which move manufacturing operations and American jobs offshore.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-02", 
+      "references": [
+        {
+          "reference": "CR S12150-12172", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12150", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2358 proposed by Senator Cantwell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12303-12305", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 288, 
+      "text": "Amendment SA 2358 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 288.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2358-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2358, 
+  "proposed_at": "2005-11-02", 
+  "purpose": "To strike the title relating to the establishment of an oil and gas leasing program in the Coastal Plain.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

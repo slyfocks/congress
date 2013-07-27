@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-11-06T13:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10488-10489", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10488", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-06T13:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (MI) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt443-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1829-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment permits Federal Prison Industries to have a mandatory source contract for procurement by the Bureau of Prisons.", 
+  "house_number": 3, 
+  "introduced_at": "2003-11-06", 
+  "number": 443, 
+  "purpose": "An amendment to allow a contract to be made to Federal Prison Industries using other than competitive procedures.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-11-06T13:41:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

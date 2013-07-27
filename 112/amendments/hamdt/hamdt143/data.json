@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T20:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1290-1291, H1305-1306", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1290", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A133) offered by Mr. Rooney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:55:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 123, 
+      "text": "On agreeing to the Rooney amendment (A133) Agreed to by recorded vote: 237 - 189 (Roll no. 123).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt143-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 133, 
+  "introduced_at": "2011-02-18", 
+  "number": 143, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to prohibit the use of funds in H.R. 1 from being used to implement, administer, or enforce the rule entitled \"Water Quality Standards for the State of Florida's Lakes and Flowing Waters\" published in the Federal Register by the Environmental Protection Agency on December 6, 2010.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Rooney, Thomas J.", 
+    "state": "FL", 
+    "thomas_id": "01916", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-18T21:55:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

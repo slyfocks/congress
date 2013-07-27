@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-12-15T18:54:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11838-11839", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11838", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Gohmert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-15T19:01:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gohmert amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt639-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4437-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4437
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2005-12-15", 
+  "number": 639, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 109-347 to direct the Inspector General to refer any instances of misconduct or wrongdoing on a contract to the Secretary of the Department of Homeland Security or other appropriate official for the purpose of evaluating whether or not suspension or debarment of the contractor is warranted.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gohmert, Louie", 
+    "state": "TX", 
+    "thomas_id": "01801", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-12-15T19:01:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

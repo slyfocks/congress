@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T15:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4726-4729, H4743", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4726", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T18:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 339, 
+      "text": "On agreeing to the Frank (MA) amendment (A040) Failed by recorded vote: 145 - 274 (Roll no. 339).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1136-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 40, 
+  "introduced_at": "2006-06-28", 
+  "number": 1136, 
+  "purpose": "An amendment to prohibit funds from being used for a manned space mission to Mars.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-28T18:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

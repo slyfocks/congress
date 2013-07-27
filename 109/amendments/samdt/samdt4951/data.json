@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9567-9574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9569", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4951 proposed by Senator Stevens for Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4951 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4951-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-12", 
+  "number": 4951, 
+  "proposed_at": "2006-09-13", 
+  "purpose": "To require disclosures regarding homeland security grants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-13", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

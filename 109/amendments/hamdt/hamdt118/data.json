@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-11T15:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3150-3152, H3158", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3150", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Goodlatte.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-11T16:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 165, 
+      "text": "On agreeing to the Goodlatte amendment (A007) Agreed to by recorded vote: 266 - 159 (Roll no. 165).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt118-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1279-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1279
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides for enhanced penalties for certain crimes committed by illegal aliens; and provides for the listing of immigration violators in the National Crime Information Center Database.", 
+  "house_number": 7, 
+  "introduced_at": "2005-05-11", 
+  "number": 118, 
+  "purpose": "An amendment numbered 7 printed in House Report 109-76 to add 5 years to any sentence for violent crimes or drug trafficking offenses when the violator is an illegal alien. Also adds 15 years to any such sentence if the illegal alien has been previously deported on the grounds of a criminal offense and has re-entered the country. Requires the Department of Homeland Security to send all the names of individuals who are subject to deportation orders or who have signed voluntary deportation papers to the National Crime Information Center (NCIC).", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-11T16:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

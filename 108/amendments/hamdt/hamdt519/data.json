@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-22T16:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2334-2335", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2334-2335", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on House Administration.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-22T16:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the House Administration amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt519-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2844-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2844
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "2004-04-22", 
+  "number": 519, 
+  "purpose": "An amendment offered pursuant to the acceptance of the instructions contained in the Watt (NC) motion to recommit. The amendment adds a new paragraph to the bill providing for a rule of construction regarding federal election laws.", 
+  "sponsor": {
+    "committee_id": "hsha00", 
+    "name": "House House Administration", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-04-22T16:02:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

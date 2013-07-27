@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-11T13:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5775-5777", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5775", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-11T13:39:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Brown (OH) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt975-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 36, 
+  "introduced_at": "2000-07-11", 
+  "number": 975, 
+  "purpose": "An amendment numbered 37 printed in the Congressional Record to add a provision to the bill that prohibits the use of funds from being used to approve any application for a new drug submitted by an entity that does not agree to a quarterly disclosure of the average price charged by the manufacturer for the most common dosage of the drug in each country that is a member of OECD.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-07-11", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

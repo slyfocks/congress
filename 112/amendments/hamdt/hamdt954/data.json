@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-28T14:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H990", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H990", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-28T14:38:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Polis amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt954-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2117-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2117
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to link state authorization regulations to student outcomes.", 
+  "house_number": 3, 
+  "introduced_at": "2012-02-28", 
+  "number": 954, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-404 to link state authorization regulations to student outcomes.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-28T14:38:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

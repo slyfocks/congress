@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-09T17:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8048-8050, H8056-8057", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8048", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Hastings (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-09T19:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 486, 
+      "text": "On agreeing to the Hastings (FL) amendment (A028) Failed by recorded vote: 205 - 211 (Roll no. 486).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt381-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2989-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2989
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment prohibits funds in the bill from being used by OMB to require agencies to establish an inventory of inherently governmental activities performed by federal employees; establish or implement any streamlined competition procedures; require any follow-up competition for public- private competitions won by federal employees; or implement the trade-off source selection process for any activities other than information technology activities.", 
+  "house_number": 28, 
+  "introduced_at": "2003-09-09", 
+  "number": 381, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to prohibit the Office of Management and Budget from using funds in the bill to require that agencies establish an inventory of inherently governmental activities performed by federal employees, establish or implement any streamlined competition procedures, require any follow-up competition for public-private competitions won by federal employees, or implement the trade-off source selection process for any activities other than information technology activities.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "thomas_id": "00511", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-09T19:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

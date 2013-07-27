@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T21:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5563-5564", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5563", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Amash.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-27T13:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5602-5603", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 654, 
+      "text": "On agreeing to the Amash amendment (A015) Failed by recorded vote: 131 - 294, 1 Present (Roll no. 654).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt738-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the National Capital Performing Arts/Capital Concerts by $2,206,000 and apply the savings to the spending reduction account.", 
+  "house_number": 15, 
+  "introduced_at": "2011-07-26", 
+  "number": 738, 
+  "purpose": "An amendment to reduce funding for the Operation of the National Park System by $2,206,000 by striking funding for the National Capital Performing Arts/Capital Concerts and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Amash, Justin", 
+    "state": "MI", 
+    "thomas_id": "02029", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-27T13:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

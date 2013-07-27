@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-30T12:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1335-1336", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1335", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mrs. Biggert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-30T12:13:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Biggert amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt766-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr609-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 609
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment allows unaccompanied homeless youth to be considered as independent students.", 
+  "house_number": 17, 
+  "introduced_at": "2006-03-30", 
+  "number": 766, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-401 to allow unaccompanied homeless youth be considered independent students upon verification of their living situation by a McKinney-Vento Act school district liaison, a shelter director, or a financial aid administrator.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Biggert, Judy", 
+    "state": "IL", 
+    "thomas_id": "01577", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-30T12:13:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

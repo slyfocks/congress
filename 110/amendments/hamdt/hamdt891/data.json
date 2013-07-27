@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-08T17:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H13357-13358", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H13357", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Matheson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-08T17:16:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Matheson amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt891-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3355-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3355
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires annual reports to include an assessment of the costs to states and regions associated with catastrophe risk and an analysis of the costs and benefits, for states not participating in the consortium.", 
+  "house_number": 7, 
+  "introduced_at": "2007-11-08", 
+  "number": 891, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to require that annual reports shall include an assessment of the costs to states and regions associated with catastrophe risk and an analysis of the costs and benefits, for states not participating in the consortium.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Matheson, Jim", 
+    "state": "UT", 
+    "thomas_id": "01671", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-11-08T17:16:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

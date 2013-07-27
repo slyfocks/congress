@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16T16:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1884-1885, H1891-1892", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1884", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T18:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 185, 
+      "text": "On agreeing to the Waters amendment (A007) Failed by recorded vote: 178 - 249 (Roll no. 185).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt196-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr861-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to direct the Secretary of HUD to conduct a study to determine the approximate number of foreclosed and abandoned properties that will not be purchased or rehabilitated in the district of each Member of Congress as a result of the rescission and termination of funding under the bill and to submit the findings to Congress.", 
+  "house_number": 7, 
+  "introduced_at": "2011-03-16", 
+  "number": 196, 
+  "purpose": "An amendment numbered 7 printed in Part B of House Report 112-34 to require the Secretary of HUD to study the number of homes that will not be mitigated in each Congressional district as a result of the funding rescission, and report findings to Congress.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-16T18:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

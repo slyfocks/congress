@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-08T13:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5360-5362, H5375-5376", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5360", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-08T16:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 341, 
+      "text": "On agreeing to the King (IA) amendment (A024) Failed by recorded vote: 139 - 278 (Roll no. 341).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt655-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to provide funding for the Department of Justice to enforce section 642 of the Illegal Immigration Reform and Immigration Responsibility Act of 1996 which forbids localities from preventing their police officers from reporting immigration information to the Federal Government.", 
+  "house_number": 24, 
+  "introduced_at": "2004-07-08", 
+  "number": 655, 
+  "purpose": "An amendment numbered 23 printed in the Congressional Record to increase funding (by transfer) by $1 million for enforcement of section 642 of the Illegal Immigrant Reform and Immigrant Responsibility Act of 1996.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-08T16:37:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

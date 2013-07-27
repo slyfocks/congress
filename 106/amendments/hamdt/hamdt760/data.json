@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-08T18:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4094-4104, H4107", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-08T20:56:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4094", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 250, 
+      "text": "On agreeing to the Traficant amendment (A004) Failed by recorded vote: 203 - 220 (Roll no. 250).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt760-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to strike section 103 that prohibits OSHA from promulgating standards on ergonomic protection.", 
+  "house_number": 4, 
+  "introduced_at": "2000-06-08", 
+  "number": 760, 
+  "purpose": "An amendment to strike section 103 that prohibits any funding to promulgate, issue, implement, administer, or enforce any proposed, temporary, or final standard on ergonomic protection.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-08T20:56:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

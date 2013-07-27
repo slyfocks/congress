@@ -1,0 +1,66 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-29", 
+      "references": [
+        {
+          "reference": "CR S10700-10701, S10702", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10700", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1901 proposed by Senator Leahy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-29", 
+      "how": "Voice", 
+      "references": [
+        {
+          "reference": "CR S10702", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10702", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1901 as modified agreed to in Senate by Voice.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1901-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-29", 
+  "number": 1901, 
+  "proposed_at": "2005-09-29", 
+  "purpose": "To appropriate $1,300,000,000 for Additional War-Related Appropriations for National Guard and Reserve Equipment for homeland security and homeland security response equipment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-29", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

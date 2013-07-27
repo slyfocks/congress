@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-10T19:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5712-5714, H5722-5723", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5712", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A032) offered by Mr. Sanford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-10T21:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 378, 
+      "text": "On agreeing to the Sanford amendment (A032) Failed by recorded vote: 59 - 323 (Roll no. 378).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt971-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit use of funds in the bill for carrying out the non-needs based school breakfast pilot program, established as a part of the William F. Goodling Child Nutrition Reauthorization Act of 1998.", 
+  "house_number": 32, 
+  "introduced_at": "2000-07-10", 
+  "number": 971, 
+  "purpose": "An amendment numbered 33 printed in the Congressional Record to prohibit use of funds in the bill for carrying out the non-needs based school breakfast pilot program, established as a part of the William F. Goodling Child Nutrition Reauthorization Act of 1998.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Marshall (Mark)", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-10T21:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22T17:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4956-4957", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4956", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22T17:44:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Flake amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt340-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2985-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2985
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment reduces funding for the Government Printing Office by $5.4 million.", 
+  "house_number": 3, 
+  "introduced_at": "2005-06-22", 
+  "number": 340, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-144 to decrease the GPO Congressional Printing and Binding budget by $5.4 million.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-22T17:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

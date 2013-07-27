@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22T17:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4952-4954, H4959", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4952", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Baird.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22T18:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 299, 
+      "text": "On agreeing to the Baird amendment (A001) Failed by recorded vote: 143 - 268 (Roll no. 299).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt338-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2985-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2985
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike title III of the bill relating to Continuity in Representation.", 
+  "house_number": 1, 
+  "introduced_at": "2005-06-22", 
+  "number": 338, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-144 to strike Title III of the bill relating to Continuity in Representation.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Baird, Brian", 
+    "state": "WA", 
+    "thomas_id": "01557", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-22T18:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

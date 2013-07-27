@@ -1,0 +1,87 @@
+<bill session="108" type="h" number="2218" updated="2013-07-14T19:01:26-04:00">
+  <state datetime="2003-11-19T15:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-11-19T15:26:00-05:00"/>
+  </status>
+  <introduced datetime="2003-05-22"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Food, Drug, and Cosmetic Act to provide for the regulation of noncorrective contact lens as medical devices, and for other purposes.</title>
+    <title as="amended by house" type="official">To amend the Federal Food, Drug, and Cosmetic Act to provide for the regulation of all contact lenses as medical devices, and for other purposes.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="2003-05-22"/>
+    <cosponsor id="400050" joined="2003-07-08"/>
+    <cosponsor id="400052" joined="2003-05-22"/>
+    <cosponsor id="400054" joined="2003-07-09"/>
+    <cosponsor id="400103" joined="2003-07-08"/>
+    <cosponsor id="400135" joined="2003-05-22"/>
+    <cosponsor id="400155" joined="2003-09-04"/>
+    <cosponsor id="400160" joined="2003-07-08"/>
+    <cosponsor id="400162" joined="2003-07-25"/>
+    <cosponsor id="400197" joined="2003-09-30"/>
+    <cosponsor id="400284" joined="2003-07-15"/>
+    <cosponsor id="400290" joined="2003-07-08"/>
+    <cosponsor id="400296" joined="2003-05-22"/>
+    <cosponsor id="400342" joined="2003-09-30"/>
+    <cosponsor id="400360" joined="2003-10-16"/>
+    <cosponsor id="400383" joined="2003-05-22"/>
+    <cosponsor id="400387" joined="2003-09-04"/>
+    <cosponsor id="400409" joined="2003-07-08"/>
+    <cosponsor id="400425" joined="2003-05-22"/>
+    <cosponsor id="400427" joined="2003-05-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-05-22">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2003-06-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-11-19T15:12:00-05:00">
+      <text>Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-11-19T15:12:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11565-11567" label="consideration"/>
+    </action>
+    <action datetime="2003-11-19T15:13:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2218.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-19T15:26:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11565" label="text"/>
+    </vote>
+    <action datetime="2003-11-19T15:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-19T15:27:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-20">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2003-12-09">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="s" number="1747"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commerce"/>
+    <term name="Contact lenses"/>
+    <term name="Medical supplies"/>
+    <term name="Product safety"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2003--Passed House amended.
+Amends the Federal Food, Drug, and Cosmetic Act to: (1) regulate all contact lenses as medical devices; and (2) state that such regulation shall not be construed as having any legal effect on any other Food and Drug Administration (FDA)-regulated article.</summary>
+</bill>

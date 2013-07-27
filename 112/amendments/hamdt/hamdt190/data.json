@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16T15:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1875-1877, H1878", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1875", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T16:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ellison amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt190-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr861-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment lists state-by-state funding allocations under the 3rd round for the Neighborhood Stabilization Program which are subject to possible rescission.", 
+  "house_number": 1, 
+  "introduced_at": "2011-03-16", 
+  "number": 190, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 112-34 to list state-by-state funding allocations of Neighborhood Stabilization Programs Round Three potentially at risk.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-16T16:10:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-16T16:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8247-8249, H8261-8262", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8247", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16T18:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 564, 
+      "text": "On agreeing to the Flake amendment (A012) Failed by recorded vote: 102 - 326, 1 Present (Roll no. 564).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt352-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3170-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3170
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit $100,000 from being used for the Activity Based Total Accountability project of the Florida Institute of Technology, and reduce the amount of section 511 of the bill by the same amount.", 
+  "house_number": 12, 
+  "introduced_at": "2009-07-16", 
+  "number": 352, 
+  "purpose": "An amendment numbered 12 printed in House Report 111-208 to prohibit $100,000 from being used for the Activity Based Total Accountability project of the Florida Institute of Technology, and reduce the amount of section 511 of the bill by the same amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-16T18:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

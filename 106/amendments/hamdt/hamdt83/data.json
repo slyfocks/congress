@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-12T13:20:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-12T14:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 124, 
+      "text": "On agreeing to the Scott amendment (A004) Failed by recorded vote: 192 - 235 (Roll no. 124).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt83-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr775-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 775
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete section 304 which caps the amount that may be awarded for punitive damages in Y2K litigation.", 
+  "house_number": 4, 
+  "introduced_at": "1999-05-12", 
+  "number": 83, 
+  "purpose": "An amendment numbered 4 and printed in Part 2 of H. Rept. 106-134 to strike section 304 that caps the punitive damages awarded.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-05-12T14:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

@@ -1,0 +1,56 @@
+<bill session="106" type="h" number="1712" updated="2013-07-14T18:53:36-04:00">
+  <state datetime="1999-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1999-05-05"/>
+  </status>
+  <introduced datetime="1999-05-05"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act to authorize an estrogenic substances screening program.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="1999-05-05"/>
+    <cosponsor id="400246" joined="1999-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-05-05">
+      <text>Referred to the Committee on Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1999-05-05">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1999-05-05">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="1999-05-06">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-05-25">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Environmental estrogens"/>
+    <term name="Environmental health"/>
+    <term name="Environmental research"/>
+    <term name="Health"/>
+    <term name="Medical research"/>
+    <term name="Medical screening"/>
+    <term name="Science, technology, communications"/>
+    <term name="Waste disposal in rivers, lakes, etc."/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1999--Introduced.
+Amends the Federal Water Pollution Control Act to authorize the Administrator of the Environmental Protection Agency to provide for testing under the estrogenic substances screening program authorized by the Federal Food, Drug, and Cosmetic Act of any substance that may be found in discharges of pollutants into navigable waters if the Administrator determines that a substantial population may be exposed to such substance.</summary>
+</bill>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-07T14:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4704", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4704", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Ms. Norton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T15:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Norton amendment (A040) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt545-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Secretary to allocate $1 million to study the human health effects of left-over munitions in congested residential areas.", 
+  "house_number": 40, 
+  "introduced_at": "2011-07-07", 
+  "number": 545, 
+  "purpose": "An amendment to provide the amount otherwise made available by \"Operation and Maintenance-Environmental Restoration, Formerly Used Defense Sites\" is reduced and increased by 1,000,000.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T15:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

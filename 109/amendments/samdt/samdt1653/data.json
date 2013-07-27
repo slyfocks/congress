@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-13", 
+      "references": [
+        {
+          "reference": "CR S9962", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9962", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1653 proposed by Senator Shelby for Senator Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1653 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1653-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-08", 
+  "number": 1653, 
+  "proposed_at": "2005-09-13", 
+  "purpose": "To increase funding for child abuse training programs for judicial personnel and practitioners.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-13", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

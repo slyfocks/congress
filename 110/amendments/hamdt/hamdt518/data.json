@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T18:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7943", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7943", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T18:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Shays amendment (A009) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt518-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for the AmeriCorps State and National program by $6.8 million.", 
+  "house_number": 9, 
+  "introduced_at": "2007-07-17", 
+  "number": 518, 
+  "purpose": "An amendment to reduce appropriations for Departmental Management's salaries and expenses, and program administration and increase appropriations for the Corporation for National and Community Service operating expenses.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-17T18:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

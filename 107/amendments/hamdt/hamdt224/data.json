@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-24T20:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4519-4522, H4528", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-24T21:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 265, 
+      "text": "On agreeing to the Smith (NJ) amendment (A022) Agreed to by recorded vote: 427 - 0 (Roll no. 265).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt224-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2506-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2506
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment earmarks $30 million in the bill to fund activities authorized by the Victims of Trafficking and Violence Protection Act.", 
+  "house_number": 22, 
+  "introduced_at": "2001-07-24", 
+  "number": 224, 
+  "purpose": "An amendment numbered 34 printed in the Congressional Record to earmark a total of $30 million of the bill's funds from various accounts to protect and assist victims of trafficking in persons; and to help countries meet minimum standards for the elimination of such trafficking.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-24T21:50:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

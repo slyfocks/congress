@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-07T18:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4013-4014", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4013", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-07T19:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the DeFazio amendment (A005) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt755-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4576-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit contracts from being awarded to contractors who have been convicted of criminal or civil fraud.", 
+  "house_number": 5, 
+  "introduced_at": "2000-06-07", 
+  "number": 755, 
+  "purpose": "An amendment to suspend defense contractors who have been convicted of fraud.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-07T19:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

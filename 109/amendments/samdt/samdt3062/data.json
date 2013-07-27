@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2107-2109", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2107-2108", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3062 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2146, S2171", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "references": [], 
+      "text": "Proposed amendment SA 3062 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt3062-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3062, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To provide $184 million over five years for the Mine Safety and Health Administration to hire additional mine safety inspectors, paid for by closing corporate tax loopholes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

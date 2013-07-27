@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-02T10:34:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8095-8096, H8100-8101", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8095", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Connolly (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-02T11:32:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 884, 
+      "text": "On agreeing to the Connolly (VA) amendment (A004) Failed by recorded vote: 171 - 242 (Roll no. 884).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt891-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to clarify that regulations to protect public health and safety would not be blocked or repealed by H.R. 3010.", 
+  "house_number": 4, 
+  "introduced_at": "2011-12-02", 
+  "number": 891, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 112-296 to clarify that regulations to protect public health and safety would not be blocked or repealed by H.R. 3010.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-02T11:32:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,94 @@
+<bill session="107" type="h" number="691" updated="2013-07-14T18:57:12-04:00">
+  <state datetime="2001-06-27T18:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-06-27T18:38:00-04:00"/>
+  </status>
+  <introduced datetime="2001-02-14"/>
+  <titles>
+    <title as="introduced" type="official">To extend the authorization of funding for child passenger protection education grants through fiscal year 2003.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400542" joined="2001-03-21"/>
+    <cosponsor id="400318" joined="2001-03-21"/>
+    <cosponsor id="400342" joined="2001-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2001-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E190"/>
+    </action>
+    <action state="REFERRED" datetime="2001-02-14">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2001-02-15">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-05-16">
+      <text>Subcommittee on Highways and Transit Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-05-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-05-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2001-05-24T15:04:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-78.</text>
+    </action>
+    <calendar datetime="2001-05-24T15:04:00-04:00" calendar="Union" number="40">
+      <text>Placed on the Union Calendar, Calendar No. 40.</text>
+    </calendar>
+    <action datetime="2001-06-27T18:21:00-04:00">
+      <text>Mr. Simpson moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-06-27T18:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3686-3688" label="consideration"/>
+    </action>
+    <action datetime="2001-06-27T18:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 691.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-06-27T18:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3686" label="text"/>
+    </vote>
+    <action datetime="2001-06-27T18:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-06-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="980"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Authorization"/>
+    <term name="Automobile safety appliances"/>
+    <term name="Child safety"/>
+    <term name="Commerce"/>
+    <term name="Consumer education"/>
+    <term name="Department of Transportation"/>
+    <term name="Economics and public finance"/>
+    <term name="Families"/>
+    <term name="Federal aid highway program"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Seat belts"/>
+    <term name="Traffic accidents and safety"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/2001--Reported to House without amendment.
+Amends the Transportation Equity Act for the 21st Century to extend the authorization of appropriations for child passenger protection education grants through FY 2003.</summary>
+</bill>

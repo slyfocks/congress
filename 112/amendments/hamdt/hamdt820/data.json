@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-06T11:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6644-6651, H6658", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6645", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T14:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 766, 
+      "text": "On agreeing to the Waxman amendment (A001) Failed by recorded vote: 167 - 243 (Roll no. 766).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt820-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2011-10-06", 
+  "number": 820, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to insert a section for the protection of infants and children.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T14:33:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

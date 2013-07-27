@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-22T14:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2324-2326, H2331-2332", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2324", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Larson (CT).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-22T15:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 128, 
+      "text": "On agreeing to the Larson (CT) amendment (A001) Failed by recorded vote: 179 - 229 (Roll no. 128).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt515-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2844-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2844
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase from 45 days to 75 days the maximum time allowed to conduct special elections.", 
+  "house_number": 1, 
+  "introduced_at": "2004-04-22", 
+  "number": 515, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 108-466 which seeks to strike the 45-day time frame for conducting special elections under the bill and substitutes a 75-day time frame.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Larson, John B.", 
+    "state": "CT", 
+    "thomas_id": "01583", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-04-22T15:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

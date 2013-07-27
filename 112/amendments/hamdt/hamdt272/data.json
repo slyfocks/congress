@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-10T17:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3135-3137, H3142-3143", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3135-3136", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-10T19:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 301, 
+      "text": "On agreeing to the Markey amendment (A003) Failed by recorded vote: 176 - 237 (Roll no. 301).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt272-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1229-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1229
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to set minimum standards for blowout preventers; require new standards on safe well design and cementing to ensure multiple redundant barriers within the well against uncontrolled oil or gas flow leading to a blowout; require independent third party certification of blowout preventers and well designs; and to ensure that the Department of Interior can institute better alternatives for increased safety as they become available.", 
+  "house_number": 3, 
+  "introduced_at": "2011-05-10", 
+  "number": 272, 
+  "purpose": "An amendment numbered 3 printed in Part A of House Report 112-73 to implement basic offshore drilling safety reforms recommended by the independent BP spill commission. The Commission found that the root causes of the BP spill were \"systematic\" and could have been prevented. The Markey amendment would set specific new minimum standards for blow-out preventers, cementing and well design.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-10T19:11:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

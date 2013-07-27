@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-20T19:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4746-4750", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4746", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mrs. Kelly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T15:59:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4861-4862", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4861", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 299, 
+      "text": "On agreeing to the Kelly amendment (A007) Agreed to by recorded vote: 250 - 170 (Roll no. 299).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt839-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for the Public Housing Operating Fund by $1 million and decreases HUD Management and Administration, Salaries and Expenses funding by the same amount.", 
+  "house_number": 7, 
+  "introduced_at": "2000-06-20", 
+  "number": 839, 
+  "purpose": "An amendment to increase the appropriation for the public housing operating fund by $1,000,000. A corresponding offset is provided for by reducing the appropriation for salaries and expenses for management and administration by $1,000,000.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Kelly, Sue W.", 
+    "state": "NY", 
+    "thomas_id": "00624", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-21T15:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

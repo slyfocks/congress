@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-10T16:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6573-6576, H6580", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6573", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR H6574", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-10T18:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 352, 
+      "text": "On agreeing to the Toomey amendment (A008) Failed by recorded vote: 210 - 212, 1 Present (Roll no. 352).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt221-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2660-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit funding for five National Institutes of Health grants.", 
+  "house_number": 8, 
+  "introduced_at": "2003-07-10", 
+  "number": 221, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-10T18:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

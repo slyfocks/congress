@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-24T16:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/25/2007 H5775", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 5/25/2007 H5775", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Judiciary.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-24T16:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Judiciary amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt237-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2316-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2316
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2007-05-24", 
+  "number": 237, 
+  "purpose": "An amendment submitted pursuant to the instructions contained in the Chabot motion to recommit.", 
+  "sponsor": {
+    "committee_id": "hsju00", 
+    "name": "House Judiciary", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-24T16:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

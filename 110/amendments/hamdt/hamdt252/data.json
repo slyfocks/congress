@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-12T16:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6277-6280, H6296-6297", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6277", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-12T19:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 454, 
+      "text": "On agreeing to the Campbell (CA) amendment (A002) Failed by recorded vote: 201 - 221 (Roll no. 454).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt252-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for the Office of the Secretary and Executive Management by $9,961,000.", 
+  "house_number": 2, 
+  "introduced_at": "2007-06-12", 
+  "number": 252, 
+  "purpose": "An amendment numbered 43 printed in the Congressional Record to reduce the appropriation for the Office of the Secretary and Executive Management by $9,961,000.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-12T19:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

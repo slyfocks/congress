@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T20:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5278-5280", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5278", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Fitzpatrick.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T12:02:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5315-5316", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 531, 
+      "text": "On agreeing to the Fitzpatrick amendment (A018) Agreed to by recorded vote: 251 - 166 (Roll no. 531).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1464-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment directs the SEC, when reviewing regulations, to consider the burden of applying section 404(b) of Sarbanes Oxley (relating to audits of a public company's internal controls) to companies with a public float of less than $250 million.", 
+  "house_number": 18, 
+  "introduced_at": "2012-07-25", 
+  "number": 1464, 
+  "purpose": "An amendment numbered 19 printed in Part B of House Report 112-616 to direct the Securities and Exchange Commission to take into account the large burden of section 404b of Sarbanes-Oxley on companies with a public float less than $250 million, compared to the benefit.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Fitzpatrick, Michael G.", 
+    "state": "PA", 
+    "thomas_id": "01797", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-07-26T12:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

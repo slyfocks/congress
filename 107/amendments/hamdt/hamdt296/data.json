@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T20:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5152-5154, H5158-5159", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5152-5153", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Sununu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T21:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 315, 
+      "text": "On agreeing to the Sununu amendment (A011) Agreed to by recorded vote: 241 - 186 (Roll no. 315).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt296-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment provides that the Federal share of Arctic National Wildlife Refuge royalties from oil and gas leasing and operations be used for the Renewable Energy Technology Investment Fund and the Royalties Conservation Fund.", 
+  "house_number": 11, 
+  "introduced_at": "2001-08-01", 
+  "number": 296, 
+  "purpose": "Part B amendment numbered 11 printed in House Report 107-178 to provide that the federal share of new Arctic National Wildlife Refuge oil and gas production receipts goes towards 2 funds--Renewable Energy Technology Investment Fund and Royalties Conservation Fund.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sununu, John E.", 
+    "state": "NH", 
+    "thomas_id": "01532", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-08-01T21:29:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

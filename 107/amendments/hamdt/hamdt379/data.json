@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-12T14:20:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6739-6758", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6739-6758", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-12T14:20:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt379-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2975-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2975
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-10-12", 
+  "number": 379, 
+  "purpose": "Amendment in the nature of a substitute considered as adopted as original text pursuant to the rule.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-12T14:20:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T21:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4657-4658", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4657", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Cicilline.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T14:14:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4698-4699", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 508, 
+      "text": "On agreeing to the Cicilline amendment (A027) Failed by recorded vote: 145 - 283 (Roll no. 508).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt532-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Afghanistan Infrastructure Fund by $475 million and to apply the savings to the spending reduction account.", 
+  "house_number": 27, 
+  "introduced_at": "2011-07-06", 
+  "number": 532, 
+  "purpose": "An amendment to strike funding from the Afghanistan Infrastructure Fund and apply the savings to the Spending Reduction Account.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "thomas_id": "02055", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T14:14:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

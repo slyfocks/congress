@@ -1,0 +1,84 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-04", 
+      "references": [
+        {
+          "reference": "CR S10925-10927", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10925", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1943 proposed by Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11061", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "references": [
+        {
+          "reference": "CR S11174, S11182", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11182", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1943 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1943-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-03", 
+  "number": 1943, 
+  "proposed_at": "2005-10-04", 
+  "purpose": "To express the sense of the Senate on the transfer of amounts for increased personnel strengths for the Army and the Marine Corps from Additional War-Related Appropriations to the recurring appropriations for fiscal year 2006.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-06", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

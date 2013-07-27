@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-06T15:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1188-1190", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1188-1189", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-06T15:43:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Ellison amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt967-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2842-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2842
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2012-03-06", 
+  "number": 967, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to add a section to H.R. 2842 which states that section 2 of the bill and the amendments made by section 2 shall not take effect unless the Secretary finds that such section and amendments, if in effect, shall not result in a net loss of jobs.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-06T15:43:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

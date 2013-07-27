@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-25", 
+      "references": [
+        {
+          "reference": "CR S3490-3492", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3490-3491", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3604 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-26", 
+      "references": [
+        {
+          "reference": "CR S3532-3544", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-26", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 95, 
+      "text": "Amendment SA 3604 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 95.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3604-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-25", 
+  "number": 3604, 
+  "proposed_at": "2006-04-25", 
+  "purpose": "To provide, with an offset, emergency funding for border security efforts.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-04-26", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

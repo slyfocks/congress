@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-12T13:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5296-5297, H5303", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5296", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-12T14:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 268, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A003) Failed by recorded vote: 185 - 238 (Roll no. 268).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt168-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1115-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1115
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to add language to provide that a foreign corporation which acquires a domestic corporation in a corporate repatriation transaction shall be treated as being incorporated in the State under whose laws the acquired domestic corporation was organized.", 
+  "house_number": 3, 
+  "introduced_at": "2003-06-12", 
+  "number": 168, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-148 to prevent domestic corporations from not being subject to the jurisdiction of U.S. Federal Courts, and liability in class action lawsuits filed in Federal Courts, through mergers or repatriations with foreign companies.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-12T14:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

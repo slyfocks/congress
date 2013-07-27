@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-26T15:11:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H7041-7044", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR  H7041", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Norton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-26T15:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Istook raised a point of order against the Norton amendment (A003). Mr. Istook stated that the amendment sought to amend portions of the bill not yet read for amendment and as such, was out of order. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1036-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4942-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4942
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2000-07-26", 
+  "number": 1036, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to strike all of the General Provisions in the bill.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-07-26", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

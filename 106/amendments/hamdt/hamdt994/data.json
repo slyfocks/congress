@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-13T09:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5971-5972", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5971", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Payne.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T09:43:00-04:00", 
+      "references": [], 
+      "text": "Mr. Callahan raised a point of order against the Payne amendment (A015). Mr. Callahan stated that the amendment constituted authorization in an appropriations bill and as such, was out of order. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt994-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 15, 
+  "introduced_at": "2000-07-13", 
+  "number": 994, 
+  "purpose": "An amendment to prohibit assistance to any country that is not in compliance with U.N. sanctions against Angola.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Payne, Donald M.", 
+    "state": "NJ", 
+    "thomas_id": "00902", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-07-13", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

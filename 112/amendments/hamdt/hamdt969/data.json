@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-07T16:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1249-1250", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1249", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. McIntyre.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-07T16:40:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McIntyre amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt969-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3606-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3606
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment adjusts the emerging growth company definition for inflation in order to provide more flexibility for businesses.", 
+  "house_number": 2, 
+  "introduced_at": "2012-03-07", 
+  "number": 969, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-409 to adjust the Emerging Growth Company definition for inflation, resulting in providing more flexibility for businesses.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "McIntyre, Mike", 
+    "state": "NC", 
+    "thomas_id": "01505", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-07T16:40:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

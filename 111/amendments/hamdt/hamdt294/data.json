@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-08T20:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7806-7807", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7806", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Brady (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T11:20:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7844-7845", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7845", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 499, 
+      "text": "On agreeing to the Brady (TX) amendment (A002) Agreed to by recorded vote: 404 - 27 (Roll no. 499).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt294-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2997-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2997
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases funding for the Economic Research Service by $50,000 offset by a $50,000 reduction in the Chief Economist account.", 
+  "house_number": 2, 
+  "introduced_at": "2009-07-08", 
+  "number": 294, 
+  "purpose": "An amendment numbered 2 printed in part B of House Report 111-191 to transfer $50,000 from the Chief Economist to the Economic Research Service.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-07-09T11:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

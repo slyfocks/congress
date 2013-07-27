@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-01-29T17:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H531-532", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H531", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Bishop (UT).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-01-29T17:44:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Bishop (UT) amendment (A001) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt931-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1528-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1528
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to delay designation of the trail until all environmental analyses and the review required by Public Law 107-338 have been completed by the Secretary of the Interior.", 
+  "house_number": 1, 
+  "introduced_at": "2008-01-29", 
+  "number": 931, 
+  "purpose": "Amendment numbered 1 printed in House Report 110-519 to delay designation of the trail until all environmental analyses and the review required by Public Law 107-338 have been completed by the Secretary of the Interior.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Rob", 
+    "state": "UT", 
+    "thomas_id": "01753", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-01-29T17:44:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

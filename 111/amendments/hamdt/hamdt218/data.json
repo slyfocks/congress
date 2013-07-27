@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T16:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6932-6933", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6932-6933", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Johnson, E. B..", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T11:14:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6980-6981", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 358, 
+      "text": "On agreeing to the Johnson, E. B. amendment (A008) Agreed to by recorded vote: 389 - 35 (Roll no. 358).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-06-18T16:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7008-7009", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Johnson, E. B..", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T16:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 396, 
+      "text": "On agreeing to the Johnson, E. B. amendment (A008) Agreed to by recorded vote: 387 - 31 (Roll no. 396).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt218-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment inserts a provision for the Historically Black Colleges and Universities Undergraduate Program.", 
+  "house_number": 8, 
+  "introduced_at": "2009-06-18", 
+  "number": 218, 
+  "purpose": "An amendment numbered 35 printed in the Congressional Record to insert a provision for the Historically Black Colleges and Universities Undergraduate Program.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-06-18T16:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

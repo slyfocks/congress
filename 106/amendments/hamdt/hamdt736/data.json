@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-19T11:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3450-3451", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3450", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-19T11:39:00-04:00", 
+      "references": [], 
+      "text": "Mr. Wolf raised a point of order against the Inslee amendment (A008). The amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt736-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4475-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4475
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 8, 
+  "introduced_at": "2000-05-19", 
+  "number": 736, 
+  "purpose": "An amendment to prohibit use of funds for the Office of Research and Special Programs of the DOT until the operator of the 16-inch oil pipeline running from Allen, WA to Renton, WA has completed hydrostatic testing of the entire pipeline at 125% maximum operational pressure and has reported on same to the Secretary.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-05-19", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

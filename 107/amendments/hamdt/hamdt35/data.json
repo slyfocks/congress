@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-16T14:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2216-2223", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2216-2218", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Rangel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-16T15:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 117, 
+      "text": "On agreeing to the Rangel amendment (A001) Failed by the Yeas and Nays: 188 - 239 (Roll no. 117).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt35-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1836-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1836
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to include a one-time rebate, payable immediately after enactment, to all individuals who had income tax liability for taxable year 2000, up to a maximum of $300 for single taxpayers, $600 for married couples; make individual income tax rate reductions; modify the earned income tax credit; and provide marriage penalty relief.", 
+  "house_number": 1, 
+  "introduced_at": "2001-05-16", 
+  "number": 35, 
+  "purpose": "Substitute includes a one-time rebate, payable immediately after enactment, to all individuals who had income tax liability for taxable year 2000, up to a maximum of $300 for single taxpayers ($600 for married couples).", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-05-16T15:47:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

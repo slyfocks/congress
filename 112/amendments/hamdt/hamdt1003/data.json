@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-29T12:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1763-1775", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1763-1770", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) in the nature of a substitute offered by Mr. Garrett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-29T13:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 149, 
+      "text": "On agreeing to the Garrett amendment (A005) Failed by recorded vote: 136 - 285, 3 Present (Roll no. 149).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1003-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres112-112", 
+    "bill_type": "hconres", 
+    "congress": 112, 
+    "number": 112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute sought to insert the Republican Study Committee budget proposal.", 
+  "house_number": 5, 
+  "introduced_at": "2012-03-29", 
+  "number": 1003, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-423 to make reforms to several federal programs, freeze spending at $931 billion until the federal budget is balanced, and balance the budget by 2017.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-29T13:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

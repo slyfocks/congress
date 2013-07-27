@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-16T21:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 10/17/2003 H9590-9591", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 10/17/2003 H9590", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Goode.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-16T21:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Goode amendment (A009) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt413-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to eliminate funding for reimbursement to the United Nations for peacekeeping in Liberia and the United States foreign assistance to Liberia and Sudan.", 
+  "house_number": 9, 
+  "introduced_at": "2003-10-16", 
+  "number": 413, 
+  "purpose": "An amendment to reduce the aggregate amounts made available for International Disaster Assistance and for International Organizations-Contributions for International Peacekeeping Activities to $0.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Goode, Virgil H., Jr.", 
+    "state": "VA", 
+    "thomas_id": "01486", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-16T21:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

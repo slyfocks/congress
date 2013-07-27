@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T14:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6548-6549", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6548", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mrs. Capito.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T14:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Capito amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt306-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2642-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2642
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment redirects $5 million to the Office of Rural Health.", 
+  "house_number": 6, 
+  "introduced_at": "2007-06-15", 
+  "number": 306, 
+  "purpose": "An amendment to redirect $5 million in funding regarding the submission of a report on the implementation of the Office of Rural Health.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Capito, Shelley Moore", 
+    "state": "WV", 
+    "thomas_id": "01676", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T14:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

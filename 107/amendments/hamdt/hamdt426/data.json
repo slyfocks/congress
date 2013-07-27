@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T22:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H444-448", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H444", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mrs. Emerson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13T23:00:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 29, 
+      "text": "On agreeing to the Emerson amendment (A012) Failed by recorded vote: 185 - 244 (Roll no. 29).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt426-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to ban soft money expenditures by a State, district, or local committee of a political party for Federal election activity.", 
+  "house_number": 12, 
+  "introduced_at": "2002-02-13", 
+  "number": 426, 
+  "purpose": "An amendment numbered 33 printed in the Congresional Record of February 12, 2002 to completely ban soft money, thereby not allowing its use by state parties for generic voter registration activities.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Emerson, Jo Ann", 
+    "state": "MO", 
+    "thomas_id": "01481", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-02-13T23:00:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

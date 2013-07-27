@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-02", 
+      "references": [
+        {
+          "reference": "CR S12211-12212", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12211", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2366 proposed by Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12310", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [], 
+      "text": "Proposed amendment SA 2366 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2366-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2366, 
+  "proposed_at": "2005-11-02", 
+  "purpose": "To provide funds for payments to producing States and coastal political subdivisions under the coastal impact assistance program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

@@ -1,0 +1,127 @@
+<bill session="107" type="hj" number="87" updated="2013-07-14T18:58:54-04:00">
+  <state datetime="2002-07-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2002-07-23"/>
+  </status>
+  <introduced datetime="2002-04-11"/>
+  <titles>
+    <title type="popular">Yucca Mountain Development resolution</title>
+    <title as="introduced" type="official">Approving the site at Yucca Mountain, Nevada, for the development of a repository for the disposal of high-level radioactive waste and spent nuclear fuel, pursuant to the Nuclear Waste Policy Act of 1982.</title>
+  </titles>
+  <sponsor id="400018"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2002-04-11"/>
+    <cosponsor id="400054" joined="2002-04-11"/>
+    <cosponsor id="400296" joined="2002-04-11"/>
+    <cosponsor id="400319" joined="2002-04-11"/>
+    <cosponsor id="400350" joined="2002-04-11"/>
+    <cosponsor id="400373" joined="2002-04-11"/>
+    <cosponsor id="400397" joined="2002-04-11"/>
+    <cosponsor id="400409" joined="2002-04-11"/>
+    <cosponsor id="400414" joined="2002-04-11"/>
+    <cosponsor id="400431" joined="2002-04-11"/>
+    <cosponsor id="400438" joined="2002-04-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-04-11">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2002-04-23">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2002-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2002-04-23">
+      <text>Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 24 - 2.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2002-04-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-04-25">
+      <text>Ordered to be Reported by the Yeas and Nays: 41 - 6.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2002-05-01T15:03:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 107-425.</text>
+    </action>
+    <calendar datetime="2002-05-01T15:03:00-04:00" calendar="Union" number="253">
+      <text>Placed on the Union Calendar, Calendar No. 253.</text>
+    </calendar>
+    <action datetime="2002-05-08T12:04:00-04:00">
+      <text>Mr. Tauzin moved to consider the resolution pursuant to section 115(e)(4) of the Nuclear Waste Policy Act of 1982.</text>
+    </action>
+    <action datetime="2002-05-08T12:06:00-04:00">
+      <text>DEBATE - The Chair announced that, in the point of order raised by Mr. Gibbons, he had met the threshhold required pursuant to section 426(b)(2) of the Budget Act and pursuant to 426(b)(4) of the Act, the House proceeded with 20 minutes of debate on the point of order, equally divided and controlled. Following debate and pursuant to section 426(b)(3) of the Act, the Chair will put the question of consideration on the resolution.</text>
+    </action>
+    <action datetime="2002-05-08T12:48:00-04:00">
+      <text>On motion to consider the resolution Agreed to by the Yeas and Nays: 308 - 105 (Roll no. 132).</text>
+      <reference ref="CR H2180" label="text"/>
+    </action>
+    <action datetime="2002-05-08T12:50:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H2180-2205" label="consideration"/>
+    </action>
+    <action datetime="2002-05-08T12:51:00-04:00">
+      <text>DEBATE - The House proceeded with two hours of debate on H.J. Res. 87.</text>
+    </action>
+    <action datetime="2002-05-08T15:21:00-04:00">
+      <text>The previous question was ordered.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-05-08T15:46:00-04:00" how="roll" result="pass" roll="133" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 306 - 117 (Roll no. 133).</text>
+      <reference ref="CR H2180" label="text"/>
+    </vote>
+    <calendar datetime="2002-05-09" calendar="Senate Legislative" under="General Orders" number="368">
+      <text>Received in the Senate. Read twice. Pursuant to 42 U.S.C. 10135(d)(5)(A), Placed on Senate Legislative Calendar under General Orders. Calendar No. 368.</text>
+    </calendar>
+    <action datetime="2002-07-09">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6490" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2002-07-09" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Passed Senate in lieu of S.J.Res. 34 without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="2002-07-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2002-07-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2002-07-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2002-07-23">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2002-07-23" type="public" number="107-200">
+      <text>Became Public Law No: 107-200.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="sj" number="34"/>
+    <bill relation="supersedes" session="107" type="sj" number="34"/>
+    <bill relation="unknown" session="107" type="sj" number="34"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental protection"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Nevada"/>
+    <term name="Radioactive waste disposal in the ground"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2002--Reported to House without amendment.
+Approves the site at Yucca Mountain, Nevada, for the development of a repository for the disposal of high-level radioactive waste and spent nuclear fuel, pursuant to the Nuclear Waste Policy Act of 1982.</summary>
+</bill>

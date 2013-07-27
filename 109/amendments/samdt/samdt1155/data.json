@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8186", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1155 proposed by Senator Byrd for Senator Boxer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8186-8187", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1155 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1155-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1155, 
+  "proposed_at": "2005-07-13", 
+  "purpose": "To provide oversight of homeland security spending.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-13", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

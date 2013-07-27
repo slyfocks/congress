@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T16:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5330-5333, H5342-5343", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5330", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-21T18:28:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 615, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A002) Failed by recorded vote: 170 - 239 (Roll no. 615).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt687-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1315-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1315
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to restore the requirement for a 2/3 majority vote in order for the Financial Stability Oversight Council to overrule a Consumer Financial Protection Bureau regulation.", 
+  "house_number": 2, 
+  "introduced_at": "2011-07-21", 
+  "number": 687, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-172 to restore a 2/3 majority vote in order for the Financial Stability Oversight Council to overrule Consumer Financial Protection Bureau regulation.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-21T18:28:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

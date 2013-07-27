@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-22", 
+      "references": [
+        {
+          "reference": "CR S10353", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10353", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1858 proposed by Senator Hutchison for Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-22", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1858 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1858-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2528-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2528
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-22", 
+  "number": 1858, 
+  "proposed_at": "2005-09-22", 
+  "purpose": "To require that any limitation, directive, or earmarking contained in either the House of Representatives or Senate report accompanying this bill be included in the conference report or joint statement accompanying the bill in order to be considered as having been approved by both Houses of Congress.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-22", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

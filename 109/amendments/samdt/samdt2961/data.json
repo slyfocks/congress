@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-29", 
+      "references": [
+        {
+          "reference": "CR S2491-2493, S2499", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2492", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2961 proposed by Senator Lott for Senator Cornyn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2499", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2961 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2961-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2349-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2349
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-08", 
+  "number": 2961, 
+  "proposed_at": "2006-03-29", 
+  "purpose": "To require lobbyist to distinguish whether clients are public or private entities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-29", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

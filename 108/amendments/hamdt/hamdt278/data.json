@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-18T10:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7132-7136, H7144-7145", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7132", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Udall (CO).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-18T11:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 392, 
+      "text": "On agreeing to the Udall (CO) amendment (A003) Failed by recorded vote: 153 - 251 (Roll no. 392).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt278-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for renewable energy programs by $30 million with offsets from the Yucca Mountain Repository account.", 
+  "house_number": 3, 
+  "introduced_at": "2003-07-18", 
+  "number": 278, 
+  "purpose": "An amendment to increase funding for renewable energy programs by $30,000,000.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Udall, Mark", 
+    "state": "CO", 
+    "thomas_id": "01595", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-18T11:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

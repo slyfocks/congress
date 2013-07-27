@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-21T14:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4848-4853 H4863-4864", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4848", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Roemer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T16:30:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4863-4864", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 302, 
+      "text": "On agreeing to the Roemer amendment (A020) Failed by recorded vote: 98 - 325 (Roll no. 302).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt852-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to terminate funding for the international space station program.", 
+  "house_number": 20, 
+  "introduced_at": "2000-06-21", 
+  "number": 852, 
+  "purpose": "An amendment to delete the funding for the space station and to reallocate the intended funding to certain other accounts in the bill.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Roemer, Tim", 
+    "state": "IN", 
+    "thomas_id": "00976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-21T16:30:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

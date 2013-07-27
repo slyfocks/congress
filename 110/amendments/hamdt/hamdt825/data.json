@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-27T15:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10988-10989", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10988", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Berry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27T15:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Berry amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt825-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3121-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3121
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires that any note placed on flood maps to more fully and accurately inform property owners about the protection value of their levees.", 
+  "house_number": 12, 
+  "introduced_at": "2007-09-27", 
+  "number": 825, 
+  "purpose": "An amendment numbered 11 printed in Part B of House Report 110-351 to authorize the Director of FEMA to include a note on flood insurance rate maps identifying 100-year and 500-year certified levees and encouraging property owners to evaluate their risk of flooding. The amendment also clarifies that the note shall not be considered a legal requirement of participation in the national flood insurance program.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Berry, Marion", 
+    "state": "AR", 
+    "thomas_id": "01462", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-27T15:39:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

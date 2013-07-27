@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5045-5046", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 569 proposed by Senator Inhofe for Senator Chambliss to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5028", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 569 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt569-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-26", 
+  "number": 569, 
+  "proposed_at": "2005-05-12", 
+  "purpose": "To provide that certain funds shall be appropriated to the Department of Transportation to carry out studies and reports relating to projects in the State of Georgia.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chambliss, Saxby", 
+    "state": "GA", 
+    "thomas_id": "00188", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-12", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

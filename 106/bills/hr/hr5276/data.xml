@@ -1,0 +1,57 @@
+<bill session="106" type="h" number="5276" updated="2013-07-14T18:55:10-04:00">
+  <state datetime="2000-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2000-09-25"/>
+  </status>
+  <introduced datetime="2000-09-25"/>
+  <titles>
+    <title as="introduced" type="short">Comprehensive Immunosuppressive Drug Coverage for Transplant Patients Act of 2000</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to revise the coverage of immunosuppressive drugs under the Medicare Program.</title>
+  </titles>
+  <sponsor id="400058"/>
+  <cosponsors>
+    <cosponsor id="400350" joined="2000-10-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2000-09-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1581"/>
+    </action>
+    <action state="REFERRED" datetime="2000-09-25">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2000-09-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2000-09-25">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="2000-10-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2000-11-09">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="2399"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Immunosuppressive drugs"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+    <term name="Transplantation of organs, tissues, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2000--Introduced.
+Comprehensive Immunosuppressive Drug Coverage for Transplant Patients Act of 2000 - Amends title XVIII (Medicare) of the Social Security Act to remove time limitations on the coverage of immunosuppressive drugs for individuals who have received organ transplants. (Current law only provides coverage for such drugs for certain time periods after the transplant procedure.)Applies certain secondary payer requirements with respect to individuals with end stage renal disease without regard to any time limitations in the case of immunosuppressive drugs furnished after this Act's enactment.</summary>
+</bill>

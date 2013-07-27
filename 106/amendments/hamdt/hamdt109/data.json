@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-19T16:06:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A012) offered by Mr. Bateman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-19T16:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 138, 
+      "text": "On agreeing to the Bateman amendment (A012) Failed by recorded vote: 140 - 286 (Roll no. 138).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt109-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1654-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1654
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to transfer $100 million from the International Space Station account to the Aeronautical Research and Technology account.", 
+  "house_number": 12, 
+  "introduced_at": "1999-05-19", 
+  "number": 109, 
+  "purpose": "An amendment to increase funding for Aeronautical Research and Technology funding by $100 million and decrease International Space Station funding accordingly.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bateman, Herbert H.", 
+    "state": "VA", 
+    "thomas_id": "00064", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-05-19T16:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

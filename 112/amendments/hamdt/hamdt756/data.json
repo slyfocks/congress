@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T17:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5628-5629", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5628", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Mr. Fleming.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-27T17:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Fleming amendment (A033) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt756-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Environmental Programs and Management account (ENERGY STAR) by $48,206,000 and apply the savings to the spending reduction account.", 
+  "house_number": 33, 
+  "introduced_at": "2011-07-27", 
+  "number": 756, 
+  "purpose": "An amendment to reduce the Environmental Programs and Management account by $48,206,000 and applies the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Fleming, John", 
+    "state": "LA", 
+    "thomas_id": "01924", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-27T17:43:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,103 @@
+<bill session="108" type="h" number="2528" updated="2013-07-14T19:01:32-04:00">
+  <state datetime="2004-09-22T14:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-09-22T14:02:00-04:00"/>
+  </status>
+  <introduced datetime="2003-06-19"/>
+  <titles>
+    <title as="introduced" type="short">Hudson-Fulton-Champlain 400th Commemoration Commission Act of 2003</title>
+    <title as="passed house" type="short">Hudson-Fulton-Champlain 400th Commemoration Commission Act of 2004</title>
+    <title as="introduced" type="official">To establish the Hudson-Fulton-Champlain 400th Commemoration Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400178"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2003-06-19"/>
+    <cosponsor id="400246" joined="2004-07-15"/>
+    <cosponsor id="400257" joined="2003-07-10"/>
+    <cosponsor id="400264" joined="2003-06-19"/>
+    <cosponsor id="400268" joined="2003-06-19"/>
+    <cosponsor id="400289" joined="2003-06-19"/>
+    <cosponsor id="400306" joined="2003-06-19"/>
+    <cosponsor id="400357" joined="2003-06-19"/>
+    <cosponsor id="400366" joined="2003-07-10"/>
+    <cosponsor id="400393" joined="2004-07-20"/>
+    <cosponsor id="400409" joined="2003-07-10"/>
+    <cosponsor id="400420" joined="2003-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-06-19">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-07-02">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-07-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-07-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-07-21">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2004-09-22T13:51:00-04:00">
+      <text>Mr. Ose moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2004-09-22T13:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7354-7357" label="consideration"/>
+    </action>
+    <action datetime="2004-09-22T13:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2528.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-09-22T14:02:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7354-7356" label="text"/>
+    </vote>
+    <action datetime="2004-09-22T14:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-09-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Reporting" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="s" number="1311"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Commerce"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Inland water transportation"/>
+    <term name="Interstate commissions"/>
+    <term name="Lakes"/>
+    <term name="Navigation"/>
+    <term name="New Jersey"/>
+    <term name="New York State"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Rivers"/>
+    <term name="Ships"/>
+    <term name="Strategic planning"/>
+    <term name="Tourism"/>
+    <term name="Transportation and public works"/>
+    <term name="Vermont"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/2004--Passed House amended.
+Hudson-Fulton-Champlain 400th Commemoration Commission Act of 2004 - Establishes the Hudson-Fulton-Champlain 400th Commemoration Commission to plan, develop, and execute programs and activities appropriate to commemorate, in 2009, the 400th anniversary of the voyage of Henry Hudson (the first European to sail up the Hudson River), the 200th anniversary of the voyage of Robert Fulton (the first person to use steam navigation on a commercial basis), and the 400th anniversary of the voyage of Samuel de Champlain (the first European to discover and explore Lake Champlain). Sets forth reporting requirements. Provides for the termination of the Commission (and the transfer of all documents to the National Archives or other appropriate Federal entity) on December 31, 2010. Directs the Department of the Interior's Inspector General to perform an annual audit of the Commission and make the results available to the public.</summary>
+</bill>

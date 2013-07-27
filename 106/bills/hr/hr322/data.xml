@@ -1,0 +1,96 @@
+<bill session="106" type="h" number="322" updated="2013-07-14T18:52:57-04:00">
+  <state datetime="1999-12-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1999-12-03"/>
+  </status>
+  <introduced datetime="1999-01-06"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Suchada Kwong.</title>
+  </titles>
+  <sponsor id="400605"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-01-06">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-02-18">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-03-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-03-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-05-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-05-19">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1999-06-09T14:35:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 106-178.</text>
+    </action>
+    <calendar datetime="1999-06-09T14:35:00-04:00" calendar="Private" number="3">
+      <text>Placed on the Private Calendar, Calendar No. 3.</text>
+    </calendar>
+    <action datetime="1999-07-20T10:02:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+    </action>
+    <action datetime="1999-07-20T10:02:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-07-20T10:02:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1999-07-20T10:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-07-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1999-11-19">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1999-11-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="1999-11-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1999-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1999-11-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1999-12-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1999-12-03" type="private" number="106-003">
+      <text>Became Private Law No: 106-003.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="275"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments>
+    <amendment number="h309"/>
+  </amendments>
+  <summary>1/6/1999--Introduced.
+Declares a named individual to be eligible for issuance of an immigrant visa or for adjustment of status to that of an alien lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20T20:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3905-3906", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3905", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-21T11:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3934-3935", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 397, 
+      "text": "On agreeing to the Holt amendment (A011) Failed by recorded vote: 164 - 256 (Roll no. 397).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1301-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4480-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4480
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the number of onshore leases on which oil and gas production is not occurring as an incentive for oil and gas companies to begin producing on the leases that they already hold.", 
+  "house_number": 11, 
+  "introduced_at": "2012-06-20", 
+  "number": 1301, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-540 to reduce the number of onshore leases on which oil and gas production is not occurring as an incentive for oil and gas companies to begin producing on the leases that they already hold.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-21T11:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

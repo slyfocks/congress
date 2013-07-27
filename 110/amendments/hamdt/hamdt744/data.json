@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-04T13:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9840-9841", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9840", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-04T13:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Shays amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt744-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3221-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3221
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment authorizes $1.2 billion for the Weatherization Assistance Program for fiscal year 2007.", 
+  "house_number": 2, 
+  "introduced_at": "2007-08-04", 
+  "number": 744, 
+  "purpose": "An amendment numbered 2 printed in part B of House Report 110-300 to double the current level of funding for 2007 and 2008 for the weatherization assistance program in section 9034(a).", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-08-04T13:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

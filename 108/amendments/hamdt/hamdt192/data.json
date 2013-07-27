@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-25T18:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5890-5891", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5890", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Harman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-25T18:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Harman amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt192-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2417-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2417
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment requires the Director of Central Intelligence to report on watch list databases in Federal departments and agencies to determine if the further consolidation will contribute to the effectiveness of the Terrorist Identification Classification System in identifying known or suspected terrorists.", 
+  "house_number": 2, 
+  "introduced_at": "2003-06-25", 
+  "number": 192, 
+  "purpose": "An amendment numbered 3 printed in House Report 108-176 to amend section (g)(1) of Section 342 of the bill by requiring the Director of Central Intelligence to report on whether further condsolidation or elimination of watch list databases in federal departments and agencies would contribute to the efficacy and effectiveness of the Terrorist Identification Classification System in identifying known or suspected terrorist.If so, it would also require the Director of Central Intelligence to report on steps required to consolidate or eliminate such watch lists.", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Harman, Jane", 
+    "state": "CA", 
+    "thomas_id": "00502", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-06-25T18:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

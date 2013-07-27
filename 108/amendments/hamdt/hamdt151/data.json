@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-22T17:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4596-4599, H4600-4601", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4596", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Dreier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-22T18:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 219, 
+      "text": "On agreeing to the Dreier amendment (A012) Failed by recorded vote: 207 - 217 (Roll no. 219).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt151-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1588-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1588
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to repeal the Million Theoretical Operations Per Second (MTOPS) based method for controlling computer exports.", 
+  "house_number": 12, 
+  "introduced_at": "2003-05-22", 
+  "number": 151, 
+  "purpose": "An amendment numbered 6 printed in House Report 108-122 to insert a new section providing for the repeal of MTOPS for computer export controls.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Dreier, David", 
+    "state": "CA", 
+    "thomas_id": "00317", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-05-22T18:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

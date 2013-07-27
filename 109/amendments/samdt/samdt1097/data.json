@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30", 
+      "references": [
+        {
+          "reference": "CR 7/1/2005 S7789", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 7/1/2005 S7789", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1097 proposed by Senator Domenici for Senator Allard.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1097 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1097-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-30", 
+  "number": 1097, 
+  "proposed_at": "2005-06-30", 
+  "purpose": "To set aside certain amounts for the purchase of mineral rights at the Rocky Flats Environmental Technology Site.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Allard, Wayne", 
+    "state": "CO", 
+    "thomas_id": "00011", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-30", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

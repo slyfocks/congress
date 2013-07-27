@@ -1,0 +1,44 @@
+<bill session="107" type="hc" number="360" updated="2013-07-14T18:59:01-04:00">
+  <state datetime="2002-03-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2002-03-21"/>
+  </status>
+  <introduced datetime="2002-03-20"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives and conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="400156"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2002-03-20T19:57:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H1072-1073" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-03-20T19:57:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H1073" label="text"/>
+    </vote>
+    <action datetime="2002-03-20T19:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2002-03-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2219-2220" label="consideration"/>
+      <reference ref="CR S2219" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2002-03-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2002--Passed House without amendment.
+Provides for an adjournment of the House of Representatives from March 20 or 21, 2002, until April 9, 2002, and a recess or an adjournment of the Senate from March 21, 22, or 23, 2002, until April 8, 2002.</summary>
+</bill>

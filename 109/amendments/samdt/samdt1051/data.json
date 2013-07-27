@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7418", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7418", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1051 proposed by Senator Kyl for Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7478", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [], 
+      "text": "Proposed amendment SA 1051 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1051-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1051, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To encourage competition in assistance agreements awarded by the Environmental Protection Agency.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-06-28", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

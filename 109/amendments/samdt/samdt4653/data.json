@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7475-7478", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7476", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4653 proposed by Senator Gregg for Senator Lautenberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4653 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4653-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-13", 
+  "number": 4653, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To require the Secretary of Homeland Security to submit a classified report to Congress on the security vulnerabilities of the bridges and tunnels connecting New Jersey to New York City.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lautenberg, Frank R.", 
+    "state": "NJ", 
+    "thomas_id": "01381", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

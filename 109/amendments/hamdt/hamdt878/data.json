@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-23T13:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3064-3065", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3064", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Baca.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23T13:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Baca amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt878-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5384-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the USDA education grants program for Hispanic-serving institutions and for the Minority Rancher and Farmer Program.", 
+  "house_number": 8, 
+  "introduced_at": "2006-05-23", 
+  "number": 878, 
+  "purpose": "An amendment to increase funding (by offset) for minority education and farming programs under the USDA.", 
+  "sponsor": {
+    "district": "43", 
+    "name": "Baca, Joe", 
+    "state": "CA", 
+    "thomas_id": "01614", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-23T13:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

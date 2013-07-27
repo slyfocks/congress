@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-10-30T13:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H12184-12185", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12185", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mrs. Gillibrand.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-30T13:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gillibrand amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt872-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3867-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2007-10-30", 
+  "number": 872, 
+  "purpose": "An amendment numbered 9 printed in House Report 110-407 to provide that any employer found, based on a determination by the Department of Homeland Security or the Attorney General to have engaged in a pattern or practice of hiring, recruiting or referring for a fee, for employment in the United States an alien knowing the person is an unauthorized alien shall be subject to debarment from the receipt of future Federal contracts.", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Gillibrand, Kirsten E.", 
+    "state": "NY", 
+    "thomas_id": "01866", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-10-30T13:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

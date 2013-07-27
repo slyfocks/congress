@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-23T14:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4487-4489", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4487", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23T15:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Polis amendment (A008) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt498-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow any tax strategy patent that was filed as of the date of enactment of the bill to move toward issuance by the Patent Trade Office.", 
+  "house_number": 8, 
+  "introduced_at": "2011-06-23", 
+  "number": 498, 
+  "purpose": "An amendment numbered 8 printed in Part B of House Report 112-111 to clarify that the new legislation would apply only to new tax planning patents, not already filed patents which would disclose patent information leaving the applicants vulnerable.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-23T15:07:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

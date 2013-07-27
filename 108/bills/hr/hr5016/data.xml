@@ -1,0 +1,65 @@
+<bill session="108" type="h" number="5016" updated="2013-07-14T19:02:47-04:00">
+  <state datetime="2004-09-28T16:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-09-28T16:04:00-04:00"/>
+  </status>
+  <introduced datetime="2004-09-07"/>
+  <titles>
+    <title as="introduced" type="official">To extend the water service contract for the Ainsworth Unit, Sandhills Division, Pick-Sloan Missouri Basin Program, Nebraska.</title>
+  </titles>
+  <sponsor id="400303"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2004-09-07">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2004-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-22">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2004-09-28T16:03:00-04:00">
+      <text>Mr. Radanovich moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2004-09-28T16:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7681-7682" label="consideration"/>
+    </action>
+    <action datetime="2004-09-28T16:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5016.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-09-28T16:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7681-7682" label="text"/>
+    </vote>
+    <action datetime="2004-09-28T16:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-09-29">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="2509"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Government operations and politics"/>
+    <term name="Infrastructure"/>
+    <term name="Irrigation"/>
+    <term name="Missouri River development"/>
+    <term name="Nebraska"/>
+    <term name="Rivers"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2004--Passed House without amendment.
+Directs the Secretary of the Interior to extend the water service contract for the Ainsworth Unit, Sandhills Division, Pick-Sloan Missouri Basin Program, Nebraska, for four years.</summary>
+</bill>

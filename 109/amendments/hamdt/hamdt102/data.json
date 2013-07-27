@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-27T17:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2609-2612, H2613-1614", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2609", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-27T18:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 142, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A002) Failed by recorded vote: 177 - 252 (Roll no. 142).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt102-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr748-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 748
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide an exception to certain provisions of the bill to grandparents of the minor and members of the clergy.", 
+  "house_number": 2, 
+  "introduced_at": "2005-04-27", 
+  "number": 102, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-56 to add to the exceptions to the offense of transporting minors for the purpose of obtaining an illegal abortion grandparents of the minor and members of the clergy.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-27T18:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

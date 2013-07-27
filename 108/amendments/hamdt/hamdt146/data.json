@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-21T18:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4509-4510", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4509", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Saxton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-22T16:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4573-4574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4573", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 218, 
+      "text": "On agreeing to the Saxton amendment (A008) Agreed to by recorded vote: 302 - 123 (Roll no. 218).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt146-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1588-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1588
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment repeals the statutory requirement that the United States defense attache to France must hold the rank of brigadier general or rear admiral, lower half.", 
+  "house_number": 8, 
+  "introduced_at": "2003-05-21", 
+  "number": 146, 
+  "purpose": "An amendment numbered 8 printed in House Report 108-120 to insert a new section providing for repeal of required grade of defense attache' in France.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Saxton, Jim", 
+    "state": "NJ", 
+    "thomas_id": "01023", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-05-22T16:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

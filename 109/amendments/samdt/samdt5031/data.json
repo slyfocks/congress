@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-21", 
+      "references": [
+        {
+          "reference": "CR S9886", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9886", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5031 proposed by Senator Frist.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-25", 
+      "references": [
+        {
+          "reference": "CR S10097", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-25", 
+      "references": [], 
+      "text": "Proposed amendment SA 5031 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt5031-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6061-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-21", 
+  "number": 5031, 
+  "proposed_at": "2006-09-21", 
+  "purpose": "To establish the effective date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-09-25", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-26T19:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5923-5924, CR H5927-5928", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5923", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Berman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-26T20:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 409, 
+      "text": "On agreeing to the Berman amendment (A006) Failed by recorded vote: 184 - 241 (Roll no. 409).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1195-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5682-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5682
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prevent the export of nuclear reactor fuel until India has ceased production of fissile material for use in nuclear weapons.", 
+  "house_number": 6, 
+  "introduced_at": "2006-07-26", 
+  "number": 1195, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 109-599 to restrict exports of uranium and other types of nuclear reactor fuel (defined as \"source material\" and \"special nuclear material\" in the Atomic Energy Act of 1954) to India until the President determines that India has halted the production of fissile material (i.e. plutonium and highly enriched uranium) for use in nuclear weapons.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Berman, Howard L.", 
+    "state": "CA", 
+    "thomas_id": "00082", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-26T20:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

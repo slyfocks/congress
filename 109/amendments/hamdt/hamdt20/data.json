@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-09T13:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1184-1186", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1185", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Boozman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09T13:46:00-05:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Boozman amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt20-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2005-03-09", 
+  "number": 20, 
+  "purpose": "An amendment numbered one printed in Part B of House Report 109-14 to allow operators of a property carry motor vehicle to take up to 2hours of off-duty times, as defined by FMSCA, during their 14 hours on-duty, so as not to exceed 16 hours.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boozman, John", 
+    "state": "AR", 
+    "thomas_id": "01687", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-03-09", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

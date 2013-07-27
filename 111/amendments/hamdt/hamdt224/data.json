@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T18:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6944-6945", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6944-6945", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Hodes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T12:29:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6986", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 365, 
+      "text": "On agreeing to the Hodes amendment (A014) Agreed to by recorded vote: 422 - 0 (Roll no. 365).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-06-18T16:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7011", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Hodes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T16:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 400, 
+      "text": "On agreeing to the Hodes amendment (A014) Agreed to by recorded vote: 413 - 0 (Roll no. 400).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt224-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires that all executive departments and independent agencies track undisbursed balances in expired grant accounts and report the results to the Director of OMB. The amendment further requires the reports to identify which accounts could be returned to the U.S. Treasury.", 
+  "house_number": 14, 
+  "introduced_at": "2009-06-18", 
+  "number": 224, 
+  "purpose": "An amendment numbered 98 printed in the Congressional Record to direct the Director of the Office of Management and Budget to instruct any department, agency, or instrumentality of the United States Government receiving appropriations under this Act to track undisbursed balance in expired grant accounts and include a detailed annual performance plan.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hodes, Paul W.", 
+    "state": "NH", 
+    "thomas_id": "01862", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-06-18T16:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

@@ -1,0 +1,108 @@
+<bill session="106" type="h" number="2641" updated="2013-07-14T18:54:03-04:00">
+  <state datetime="2000-10-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-10-19"/>
+  </status>
+  <introduced datetime="1999-07-29"/>
+  <titles>
+    <title as="introduced" type="official">To make technical corrections to title X of the Energy Policy Act of 1992.</title>
+  </titles>
+  <sponsor id="400088"/>
+  <cosponsors>
+    <cosponsor id="400593" joined="1999-07-29"/>
+    <cosponsor id="400319" joined="2000-02-08"/>
+    <cosponsor id="400350" joined="2000-05-11"/>
+    <cosponsor id="400373" joined="2000-04-10"/>
+    <cosponsor id="400534" joined="2000-03-21"/>
+    <cosponsor id="400413" joined="2000-03-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-07-29">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1999-07-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1681"/>
+    </action>
+    <action datetime="1999-08-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-04-05">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-09-14">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="2000-09-14">
+      <text>Subcommittee on Energy and Power Discharged.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-09-25T19:04:00-04:00">
+      <text>Reported (Amended) by the Committee on Commerce. H. Rept. 106-886.</text>
+    </action>
+    <calendar datetime="2000-09-25T19:05:00-04:00" calendar="Union" number="536">
+      <text>Placed on the Union Calendar, Calendar No. 536.</text>
+    </calendar>
+    <action datetime="2000-09-27T13:24:00-04:00">
+      <text>Mrs. Cubin moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-09-27T13:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8277-8278" label="consideration"/>
+    </action>
+    <action datetime="2000-09-27T13:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2641.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-27T13:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8277" label="text"/>
+    </vote>
+    <action datetime="2000-09-27T13:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-10-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10029" label="consideration"/>
+    </vote>
+    <topresident datetime="2000-10-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-10-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-10-19">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-10-19" type="public" number="106-317">
+      <text>Became Public Law No: 106-317.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSIF03" subcommittee="Energy and Power" name="House Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Costs"/>
+    <term name="Environmental protection"/>
+    <term name="Nuclear facilities"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Radioactive decontamination"/>
+    <term name="Radioactive wastes"/>
+    <term name="Uranium"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2000--Passed House amended.
+Amends the Energy Policy Act 1992 with respect to reimbursement of licensees by the Secretary of Energy for any of the costs of decontamination, decommissioning, reclamation, and other remedial action at an active uranium or thorium processing site which are attributable to byproduct material generated as an incident of sales to the United States. Extends the mandate for such reimbursements through December 31, 2007. Repeals the alternative circumstance that costs be placed into escrow no later than December 31, 2002, and replaces it with the requirement for a plan for subsequent decontamination, decommissioning, reclamation, and other remedial action in the case of costs incurred by a licensee after December 31, 2007.Extends from 2005 to 2008 the dateline by which the Secretary must determine whether certain authorized appropriations exceed amounts reimbursable to licensees.</summary>
+</bill>

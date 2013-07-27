@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T18:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3851, H3854-3855", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3851", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Cuellar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T18:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 388, 
+      "text": "On agreeing to the Cuellar amendment (A015) Failed by recorded vote: 162 - 256 (Roll no. 388).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt363-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the CBP Air/Marine Interdiction, Operations, Maintenance, and Procurement account by $32 million offset by reducing funds for the Office of Under Secretary and Management and the Science and Technology Management Administration accounts by a similar amount.", 
+  "house_number": 15, 
+  "introduced_at": "2011-06-01", 
+  "number": 363, 
+  "purpose": "An amendment to reduce funds for the Office of the Under Secretary for Management and increase funds for U.S. Customs and Border Protection.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Cuellar, Henry", 
+    "state": "TX", 
+    "thomas_id": "01807", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-01T18:54:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

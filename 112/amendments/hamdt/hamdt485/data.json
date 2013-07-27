@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-22T16:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4404-4405, H4414", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4404-4405", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-22T18:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 471, 
+      "text": "On agreeing to the Rush amendment (A005) Failed by recorded vote: 172 - 253 (Roll no. 471).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt485-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2021-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2021
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow the EPA administrator to provide additional 30-day extensions on final agency action with regard to drilling permit decisions.", 
+  "house_number": 5, 
+  "introduced_at": "2011-06-22", 
+  "number": 485, 
+  "purpose": "An amendment numbered 5 printed in Part A of House Report 112-111 to allow the Administrator to provide additional 30-day extensions if the Administrator determines that such time is necessary to meet the requirements of this section, to provide adequate time for public participation, or to ensure sufficient involvement by one or more affected States.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-22T18:25:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

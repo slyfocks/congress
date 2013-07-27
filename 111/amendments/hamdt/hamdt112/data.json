@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-05-07T13:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5356-5357", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5356", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Moore (KS).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-07T13:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Moore (KS) amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt112-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1728-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires income to be verified by lenders utilizing IRS tax transcripts or similar methods that verify income by a third party.", 
+  "house_number": 6, 
+  "introduced_at": "2009-05-07", 
+  "number": 112, 
+  "purpose": "An amendment numbered 6 printed in House Report 111-98 to require income to be verified by lenders utilizing IRS tax transcripts or similar methods that verify income by a third party.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Moore, Dennis", 
+    "state": "KS", 
+    "thomas_id": "01561", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-05-07T13:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

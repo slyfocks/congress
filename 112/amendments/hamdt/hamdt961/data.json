@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-29T16:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1066-1067, H1074", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1066", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Garamendi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-29T17:46:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 86, 
+      "text": "On agreeing to the Garamendi amendment (A005) Failed by recorded vote: 181 - 243 (Roll no. 86).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt961-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1837-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1837
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to remove Section 103 of the bill which seeks to privatize a public resource and restore the Secretary of the Interior's discretion over water contract renewals.", 
+  "house_number": 5, 
+  "introduced_at": "2012-02-29", 
+  "number": 961, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-405 to remove provisions of the bill that seek to privatize a public resource and restore the Secretary of the Interior's discretion over water contract renewals.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Garamendi, John", 
+    "state": "CA", 
+    "thomas_id": "01973", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-29T17:46:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

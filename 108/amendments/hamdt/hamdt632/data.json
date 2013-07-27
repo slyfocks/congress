@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-07T13:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5240-5253", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5240", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Manzullo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T15:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 328, 
+      "text": "On agreeing to the Manzullo amendment (A001) Agreed to by recorded vote: 281 - 137 (Roll no. 328).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt632-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment provides $79 million for the Small Business Administration's 7(a) loan program.", 
+  "house_number": 1, 
+  "introduced_at": "2004-07-07", 
+  "number": 632, 
+  "purpose": "An amendment to restore funding for the SBA 7(a) program in order to maintain the funding level from the previous fiscal year.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Manzullo, Donald A.", 
+    "state": "IL", 
+    "thomas_id": "00733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-07-07T15:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

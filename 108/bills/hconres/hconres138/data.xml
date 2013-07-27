@@ -1,0 +1,62 @@
+<bill session="108" type="hc" number="138" updated="2013-07-14T19:03:06-04:00">
+  <state datetime="2003-05-08">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2003-05-08"/>
+  </status>
+  <introduced datetime="2003-04-07"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the printing of the Biographical Directory of the United States Congress, 1774-2005.</title>
+  </titles>
+  <sponsor id="400293"/>
+  <cosponsors>
+    <cosponsor id="400233" joined="2003-04-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-04-07">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2003-05-06T14:15:00-04:00">
+      <text>Mr. Mica moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-05-06T14:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H3650-3651" label="consideration"/>
+    </action>
+    <action datetime="2003-05-06T14:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 138.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-05-06T14:28:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref=" CR H3650" label="text"/>
+    </vote>
+    <action datetime="2003-05-06T14:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-05-07">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2003-05-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5978" label="consideration"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="sc" number="28"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Biography"/>
+    <term name="Congressional publications"/>
+    <term name="Congressional publicity"/>
+    <term name="Directories"/>
+    <term name="Government operations and politics"/>
+    <term name="Members of Congress"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2003--Passed Senate without amendment.
+(This measure has not been amended since it was introduced in the House on April 7, 2003. The summary of that version is repeated here.)Requires printing of a revised edition of the Biographical Directory of the United States Congress for the period ending with the 108th Congress.</summary>
+</bill>

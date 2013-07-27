@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-14", 
+      "references": [
+        {
+          "reference": "CR S3643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3643", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 438 proposed by Senator Cochran for Senator Specter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 438 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt438-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-14", 
+  "number": 438, 
+  "proposed_at": "2005-04-14", 
+  "purpose": "To make a technical correction to cite the proper section intended to repeal the Department of Labor's transfer authority.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Specter, Arlen", 
+    "state": "PA", 
+    "thomas_id": "01437", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-14", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

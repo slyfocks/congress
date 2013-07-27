@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-19T13:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10545-10547, H10548-10549", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10545", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Pearce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-19T14:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 882, 
+      "text": "On agreeing to the Pearce amendment (A002) Failed by recorded vote: 194 - 230 (Roll no. 882).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt802-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2761-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2761
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to provide a 1 percent increase each year in the deductable rather than the one-half percent increase each year in the deductable required by the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2007-09-19", 
+  "number": 802, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 110-333 to raise the deductible set at 5% above $1,000,000,000 by 1% each program year, rather than by .5% as the bill is written.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-09-19T14:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

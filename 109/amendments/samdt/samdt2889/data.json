@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-15", 
+      "references": [
+        {
+          "reference": "CR S1369-1370", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1370", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2889 proposed by Senator Frist for Senator Specter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2889 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2889-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr32-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 32
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-15", 
+  "number": 2889, 
+  "proposed_at": "2006-02-15", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Specter, Arlen", 
+    "state": "PA", 
+    "thomas_id": "01437", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-02-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

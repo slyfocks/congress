@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-26T16:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3577-3578", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3577", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-26T16:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Andrews amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt116-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2299-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2299
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment reduces funding for the Amtrak Reform Council by $335,000.", 
+  "house_number": 6, 
+  "introduced_at": "2001-06-26", 
+  "number": 116, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to reduce the appropriation for expenses of the Amtrak Reform Council by $335,000 from $785,000 to $450,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-06-26T16:27:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

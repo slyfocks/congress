@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-19T14:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2046-2051", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2046-2051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-19T14:56:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Toomey amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt7-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr975-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 975
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment revises Title IX, Financial Contract Provisions, to include banks and credit unions.", 
+  "house_number": 1, 
+  "introduced_at": "2003-03-19", 
+  "number": 7, 
+  "purpose": "Amendment Numbered 1 printed in House Report 108-42 will apply the financial \"netting\" provisions in the bill to both bank and credit unions.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-03-19T14:56:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

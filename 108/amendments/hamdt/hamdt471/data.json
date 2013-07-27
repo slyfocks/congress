@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-10T13:38:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H957-959, H969", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H957", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Watt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-10T15:53:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 49, 
+      "text": "On agreeing to the Watt amendment (A003) Failed by recorded vote: 158 - 261 (Roll no. 49).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt471-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr339-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 339
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to limit the provisions of the bill only to cases brought in Federal court.", 
+  "house_number": 3, 
+  "introduced_at": "2004-03-10", 
+  "number": 471, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to apply the provisions of the bill only to cases brought in federal court.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-03-10T15:53:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

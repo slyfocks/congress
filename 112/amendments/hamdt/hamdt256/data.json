@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-14T21:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2843-2851", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2843-2846", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Cleaver.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-15T09:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2861-2862", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 273, 
+      "text": "On agreeing to the Cleaver substitute amendment (A001) Failed by recorded vote: 103 - 303 (Roll no. 273).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt256-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres34-112", 
+    "bill_type": "hconres", 
+    "congress": 112, 
+    "number": 34
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute constitutes the alternative budget plan proposed by the Black Caucus and appears on page H2843 of the Congressional Record of April 14, 2011.", 
+  "house_number": 1, 
+  "introduced_at": "2011-04-14", 
+  "number": 256, 
+  "purpose": "A substitute amendment numbered 1 printed in Part B of House Report 112-62 to make significant investments in education, job training, transportation and infrastructure, and advanced research and development programs that will accelerate our economic recovery. Would also protect the social safety net without cutting Social Security, Medicaid or Medicare. Would raise new revenue by making our tax system more fair. Would also close certain corporate tax loopholes and preferences, which will save trillions of dollars on the deficit over the next decade.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cleaver, Emanuel", 
+    "state": "MO", 
+    "thomas_id": "01790", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-15T09:40:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

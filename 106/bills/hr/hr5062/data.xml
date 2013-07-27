@@ -1,0 +1,74 @@
+<bill session="106" type="h" number="5062" updated="2013-07-14T18:55:06-04:00">
+  <state datetime="2000-09-19T13:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-09-19T13:22:00-04:00"/>
+  </status>
+  <introduced datetime="2000-07-27"/>
+  <titles>
+    <title as="introduced" type="official">To establish the eligibility of certain aliens lawfully admitted for permanent residence for cancellation of removal under section 240A of the Immigration and Nationality Act.</title>
+  </titles>
+  <sponsor id="400596"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2000-09-12"/>
+    <cosponsor id="400570" joined="2000-07-27"/>
+    <cosponsor id="400107" joined="2000-07-27"/>
+    <cosponsor id="400133" joined="2000-07-27"/>
+    <cosponsor id="400140" joined="2000-07-27"/>
+    <cosponsor id="400143" joined="2000-07-27"/>
+    <cosponsor id="400215" joined="2000-09-12"/>
+    <cosponsor id="400304" joined="2000-07-27"/>
+    <cosponsor id="400605" joined="2000-07-27"/>
+    <cosponsor id="400344" joined="2000-07-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-07-27">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-08-10">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-09-19T12:52:00-04:00">
+      <text>Mr. Hyde moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-09-19T12:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7765-7770" label="consideration"/>
+    </action>
+    <action datetime="2000-09-19T12:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5062.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-19T13:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7765-7766" label="text"/>
+    </vote>
+    <action datetime="2000-09-19T13:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-20">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative remedies"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Aliens"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal aliens"/>
+    <term name="Department of Justice"/>
+    <term name="Deportation"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Residence requirements"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2000--Introduced.
+Amends the Immigration and Nationality Act to limit the disqualification from cancellation of removal for certain permanent resident aliens.</summary>
+</bill>

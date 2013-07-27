@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8253, S8268-8279", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8253", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1222 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 188, 
+      "text": "Amendment SA 1222 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 188.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1222-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-14", 
+  "number": 1222, 
+  "proposed_at": "2005-07-14", 
+  "purpose": "To prohibit Federal employees who disclose classified information to persons not authorized to receive such information from holding a security clearance.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

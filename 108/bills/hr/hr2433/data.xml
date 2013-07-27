@@ -1,0 +1,120 @@
+<bill session="108" type="h" number="2433" updated="2013-07-14T19:01:30-04:00">
+  <state datetime="2003-09-10T11:03:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-09-10T11:03:00-04:00"/>
+  </status>
+  <introduced datetime="2003-06-11"/>
+  <titles>
+    <title as="introduced" type="short">Health Care for Veterans of Project 112/Project SHAD Act of 2003</title>
+    <title as="reported to house" type="short">Health Care for Veterans of Project 112/Project SHAD Act of 2003</title>
+    <title as="passed house" type="short">Health Care for Veterans of Project 112/Project SHAD Act of 2003</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide veterans who participated in certain Department of Defense chemical and biological warfare testing to be provided health care for illness without requirement for proof of service-connection.</title>
+    <title as="amended by house" type="official">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide veterans who participated in certain Department of Defense chemical and biological warfare testing with health care for their illness without requirement for proof of service-connection.</title>
+  </titles>
+  <sponsor id="400339"/>
+  <cosponsors>
+    <cosponsor id="400074" joined="2003-07-10"/>
+    <cosponsor id="400097" joined="2003-07-15"/>
+    <cosponsor id="400126" joined="2003-06-17"/>
+    <cosponsor id="400128" joined="2003-07-10"/>
+    <cosponsor id="400133" joined="2003-06-17"/>
+    <cosponsor id="400143" joined="2003-06-23"/>
+    <cosponsor id="400163" joined="2003-06-26"/>
+    <cosponsor id="400255" joined="2003-07-10"/>
+    <cosponsor id="400263" joined="2003-06-23"/>
+    <cosponsor id="400274" joined="2003-06-26"/>
+    <cosponsor id="400275" joined="2003-07-10"/>
+    <cosponsor id="400279" joined="2003-06-25"/>
+    <cosponsor id="400282" joined="2003-07-15"/>
+    <cosponsor id="400311" joined="2003-06-23"/>
+    <cosponsor id="400353" joined="2003-06-25"/>
+    <cosponsor id="400375" joined="2003-06-11"/>
+    <cosponsor id="400383" joined="2003-06-26"/>
+    <cosponsor id="400413" joined="2003-07-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-06-11">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2003-06-20">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-06-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-06-24">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-06-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-06-26">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2003-07-16T17:49:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 108-213.</text>
+    </action>
+    <calendar datetime="2003-07-16T17:49:00-04:00" calendar="Union" number="119">
+      <text>Placed on the Union Calendar, Calendar No. 119.</text>
+    </calendar>
+    <action datetime="2003-08-18">
+      <text>Unfavorable Executive Comment Received from Veterans' Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-09-10T10:39:00-04:00">
+      <text>Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-09-10T10:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8094-8097" label="consideration"/>
+    </action>
+    <action datetime="2003-09-10T10:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2433.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-09-10T11:03:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8094-8095" label="text"/>
+    </vote>
+    <action datetime="2003-09-10T11:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-09-10T11:03:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-09-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="h" number="1951"/>
+    <bill relation="unknown" session="108" type="s" number="1156"/>
+    <bill relation="identical" session="108" type="s" number="1694"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Biological warfare"/>
+    <term name="Chemical warfare"/>
+    <term name="Evidence (Law)"/>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Law"/>
+    <term name="Long-term care"/>
+    <term name="Military research"/>
+    <term name="Nursing homes"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2003--Reported to House amended.
+Health Care for Veterans of Project 112/Project SHAD Act of 2003 - Makes a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as Project Shipboard Hazard and Defense (SHAD) and related land-based tests) eligible for hospital care, medical services, and nursing home care through the Department of Veterans Affairs for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing. Terminates such eligibility after December 31, 2005. (Sec. 3) Prohibits the lack of a baccalaureate degree in nursing from being a bar to, or resulting in the denial of, a promotion to the next higher grade for a Veterans Health Administration (VHA) registered nurse who has accomplished required performance elements. (Sec. 4) Authorizes additional pay for Saturday VHA nursing duty. (Sec. 5) Allows: (1) employees of the Veterans' Canteen Service (Service) to be considered for appointment to a Department position in the competitive service in the same manner that Department employees in the competitive service are considered for transfer to Service positions; and (2) former Service employees to count their previous period of employment toward the time-in-service requirement of a Department position in the competitive service.</summary>
+</bill>

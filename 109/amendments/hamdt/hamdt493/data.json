@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21T16:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6260-6262", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6260", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21T16:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Waters amendment (A005) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt493-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3199-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3199
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide that, under section 505 of the USA PATRIOT Act, a recipient of a national security letter may not be penalized for violating the non disclosure requirement if the recipient is mentally incompetent, under undue stress, under threat of bodily harm, or a threat of being discharged from employment.", 
+  "house_number": 5, 
+  "introduced_at": "2005-07-21", 
+  "number": 493, 
+  "purpose": "An amendment numbered 6 printed in part B of House Report 109-178 to establish that under section 505 of the USA PATRIOT Act, a recipient of a National Security Letter may not be penalized for violating the nondisclosure requirement if the recipient is mentally incompetent, under undue stress, under threat of bodily harm, or a threat of being discharged from employment. Recipient must notify the FBI immediately of these circumstances.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-21T16:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

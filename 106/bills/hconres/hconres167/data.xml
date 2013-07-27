@@ -1,0 +1,91 @@
+<bill session="106" type="hc" number="167" updated="2013-07-14T18:55:22-04:00">
+  <state datetime="1999-08-05T23:51:00-04:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="1999-08-05T23:51:00-04:00"/>
+  </status>
+  <introduced datetime="1999-07-29"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the Architect of the Capitol to permit temporary construction and other work on the Capitol Grounds that may be necessary for construction of a building on Constitution Avenue Northwest, between 2nd Street Northwest and Louisiana Avenue Northwest.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="400584" joined="1999-07-29"/>
+    <cosponsor id="400614" joined="1999-07-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-07-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-07-30">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-08-03T21:26:00-04:00">
+      <text>Mr. Franks moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1999-08-03T21:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6928-6929" label="consideration"/>
+    </action>
+    <action datetime="1999-08-03T21:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 167.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-08-03T21:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-08-03T21:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-08-04">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1999-08-05">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S10341-10342" label="consideration"/>
+    </action>
+    <action datetime="1999-08-05">
+      <text>Amendment SP 1608 proposed by Senator Gorton for Senator McConnell.</text>
+    </action>
+    <action datetime="1999-08-05">
+      <text>Amendment SP 1608 agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-08-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate with amendments by Unanimous Consent.</text>
+    </vote>
+    <action datetime="1999-08-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1999-08-05T23:51:00-04:00">
+      <text>Mr. Shuster asked unanimous consent that the House agree to the Senate amendments.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1999-08-05T23:51:00-04:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendments Agreed to without objection.</text>
+      <reference ref="CR H7460" label="consideration"/>
+    </vote>
+    <action datetime="1999-08-05T23:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Building construction"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="District of Columbia"/>
+    <term name="Labor and employment"/>
+    <term name="Labor unions"/>
+    <term name="Office buildings"/>
+    <term name="Parking facilities"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1608"/>
+  </amendments>
+  <summary>8/5/1999--Passed Senate amended.
+Authorizes the Architect of the Capitol (AOC) to permit temporary construction and other work on the Capitol Grounds that may be necessary for the demolition of the existing building of the Carpenters and Joiners of America and the construction of a new building of such organization on Constitution Avenue, N.W., between 2nd Street, N.W., and Louisiana Avenue, N.W., in a manner consistent with the terms of this resolution, beginning August 6, 1999, and ending October 31, 2001, or for a longer period if the AOC determines it necessary.</summary>
+</bill>

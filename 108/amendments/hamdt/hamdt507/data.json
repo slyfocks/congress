@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01T16:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 4/2/2004 H2027-2028", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 4/2/2004 H2027", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-01T16:31:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Crowley amendment (A016) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt507-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3550-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3550
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to create a pilot program to facilitate the use of natural gas buses at the nation's 25 busiest airports.", 
+  "house_number": 16, 
+  "introduced_at": "2004-04-01", 
+  "number": 507, 
+  "purpose": "An amendment numbered 16 printed in part B of House Report 108-456 to create a pilot program to facilitate the use of natural gas buses at the nation's 25 busiest airports to shuttle passengers to and from airports, between connecting terminals and from connecting terminals to off-site car rental sites and hotels.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-04-01T16:31:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-26T13:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7113-7121, H7188", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7113", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Peterson (PA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-26T21:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 552, 
+      "text": "On agreeing to the Peterson (PA) amendment (A011) Failed by recorded vote: 196 - 233 (Roll no. 552).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt405-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to permit offshore natural gas drilling.", 
+  "house_number": 11, 
+  "introduced_at": "2007-06-26", 
+  "number": 405, 
+  "purpose": "An amendment number 1 by Peterson(PA) to insert language on page 50, line 3, after the period stating \"The preceding sentence shall not apply with respect to natural gas offshore preleasing, leasing, and related activities beyond 25 miles from the coastline\":.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Peterson, John E.", 
+    "state": "PA", 
+    "thomas_id": "01512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-26T21:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-22T16:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7278-7284, H7284-7288, H7298-7299", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7278", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-22T19:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 407, 
+      "text": "On agreeing to the Hinchey amendment (A004) Failed by recorded vote: 174 - 254 (Roll no. 407).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt289-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2799-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2799
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit funds to the Federal Communications Commission for implementing new media ownership rules.", 
+  "house_number": 4, 
+  "introduced_at": "2003-07-22", 
+  "number": 289, 
+  "purpose": "An amendment to prohibit any funds in the bill for the Federal Communications Commission to implement part of its recent ruling which would allow ownership of a newspaper and radio or television station in the same market. The amendment would prohibit the use of funds for the granting of a radio or television broadcast station license if the owner also directly or indirectly owns, operates or controls a daily newspaper in the same region, or, with certain exceptions, the granting of the license would result in the party controlling two television stations in the same Designated Market Area.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-22T19:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

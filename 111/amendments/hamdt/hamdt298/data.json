@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-08T20:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7815-7817", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7816", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T11:27:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7846", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7846", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 501, 
+      "text": "On agreeing to the Broun (GA) amendment (A006) Failed by recorded vote: 135 - 292 (Roll no. 501).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt298-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2997-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2997
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce FDA funding by $373 million to equal the FY09 level.", 
+  "house_number": 6, 
+  "introduced_at": "2009-07-08", 
+  "number": 298, 
+  "purpose": "An amendment numbered 3 printed in part B of House Report 111-191 to reduce FDA funding by $373 million to equal the FY09 level.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-09T11:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

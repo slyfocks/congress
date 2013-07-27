@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T01:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1051-1055", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A059) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T11:03:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1086-1087", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 76, 
+      "text": "On agreeing to the Weiner amendment (A059) Agreed to by recorded vote: 268 - 163 (Roll no. 76).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt69-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes the $42,676,000 in funding for the United States Institute of Peace and applies the savings to the spending reduction account.", 
+  "house_number": 59, 
+  "introduced_at": "2011-02-17", 
+  "number": 69, 
+  "purpose": "An amendment numbered 100 printed in the Congressional Record to reduce USIP by $42,676,000, and increases Spending Reduction Account.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T11:03:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

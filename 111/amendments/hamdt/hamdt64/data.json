@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-01T16:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4298-4300", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4298-4299", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Cardoza.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-01T16:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cardoza amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt64-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1664-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1664
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment allows the Treasury Secretary to exempt financial institutions receiving TARP funds under a specified threshold.", 
+  "house_number": 2, 
+  "introduced_at": "2009-04-01", 
+  "number": 64, 
+  "purpose": "An amendent numbered 2 printed in House Report 111-71 to allow the Treasury Secretary to exempt financial institutions receiving TARP funds under a certain threshold.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Cardoza, Dennis A.", 
+    "state": "CA", 
+    "thomas_id": "01709", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-01T16:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

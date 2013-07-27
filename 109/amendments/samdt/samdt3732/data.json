@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-04", 
+      "references": [
+        {
+          "reference": "CR S4014-4016", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4015", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3732 proposed by Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3732 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3732-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-01", 
+  "number": 3732, 
+  "proposed_at": "2006-05-04", 
+  "purpose": "To transfer funds from the Disaster Relief fund to the Social Security Administration for necessary expenses and direct or indirect losses related to the consequences of Hurricane Katrina and other hurricanes of the 2005 season.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-04", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

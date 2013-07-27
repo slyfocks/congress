@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T14:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7686-7688, H7708-7709", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7687", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T17:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 451, 
+      "text": "On agreeing to the Smith (NJ) amendment (A007) Agreed to by recorded vote: 347 - 77 (Roll no. 451).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt332-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2861-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment deleted section 114 of the bill which restricted the VA from using funds to implement provisions of Public Law 107-287, the Department of Veterans Affairs Emergency Preparedness Act.", 
+  "house_number": 7, 
+  "introduced_at": "2003-07-25", 
+  "number": 332, 
+  "purpose": "An amendment to strike section 114 from the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-25T17:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2899-2900, S2924-2925", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2899", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 208 proposed by Senator Cochran.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 67, 
+      "text": "Amendment SA 208 agreed to in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 67.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt208-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 208, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To modify the designation authority for an emergency requirement.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cochran, Thad", 
+    "state": "MS", 
+    "thomas_id": "00213", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

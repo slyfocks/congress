@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-08T20:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3581-3582", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3581", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Gutknecht.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-08T20:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gutknecht amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt988-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5252-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5252
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment preserves the right of the FCC to require VoIP providers to contribute to the universal service fund and pay appropriate intercarrier compensation fees.", 
+  "house_number": 8, 
+  "introduced_at": "2006-06-08", 
+  "number": 988, 
+  "purpose": "An amendment numbered 8 printed in House Report 109-491 to preserve FCC authority to require VOIP providers to: (1) Contribute to the Federal universal service fund when they interconnect, either directly or indirectly, with incumbent local exchange carrier networks; and (2) Properly compensate network owners for the use of their network just as incumbent and competitive carriers do today.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gutknecht, Gil", 
+    "state": "MN", 
+    "thomas_id": "00479", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-08T20:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

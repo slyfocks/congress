@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2915-2916, S2932", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2915", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 243 proposed by Senator Conrad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 73, 
+      "text": "Amendment SA 243 agreed to in Senate by Yea-Nay. 94 - 6. Record Vote Number: 73.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt243-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 243, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To express the sense of the Senate that the tax cuts assumed in the budget resolution should include the repeal of the 1993 increase in the income tax on Social Security benefits.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

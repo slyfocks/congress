@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-09T15:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1192-1194", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1192", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Cox.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09T15:22:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cox amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt26-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment allows states to enact laws regulating certain activities of tow truck operators.", 
+  "house_number": 7, 
+  "introduced_at": "2005-03-09", 
+  "number": 26, 
+  "purpose": "An amendment numbered seven printed in Part B of House Report 109-14 to clarify that states are not pre-empted under federal law from requiring one or both of the following from tow-truck operators when they are removing a vehicle from private property without the consent of the vehicle owner or operator: First, a state can require that the tow-truck operator have written permission from the owner (or his lessee, or the employee or agent thereof) of the private property authorizing the non-consensual tow; and second, a state can require the owner (or his lessee, or the employee or agent thereof) of the private property be present at the time the vehicle is towed from the private property.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Cox, Christopher", 
+    "state": "CA", 
+    "thomas_id": "00242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-09T15:22:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

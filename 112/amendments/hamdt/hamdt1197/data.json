@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T16:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3430-3431", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3430", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T17:12:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3516-3517", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 330, 
+      "text": "On agreeing to the Reed amendment (A028) Agreed to by recorded vote: 223 - 195 (Roll no. 330).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1197-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases funding for the non-defense Environmental Cleanup account by $36 million and reduces funds for the Advanced Technology Vehicles Manufacturing Departmental Administration by $18 million and reduces funds for the Defense Nuclear Nonproliferation Office of the Administrator by $18 million.", 
+  "house_number": 28, 
+  "introduced_at": "2012-06-05", 
+  "number": 1197, 
+  "purpose": "An amendment to increase funding for the Non-defense Environmental Cleanup account by $36 million by decreasing funds from the Advanced Technology Vehicles Manufacturing Departmental Administration and Defense Nuclear Nonproliferation Office of the Administrator.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "thomas_id": "01982", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-06T17:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

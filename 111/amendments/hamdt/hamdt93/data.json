@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-30T12:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5021-5022", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5021", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Gutierrez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30T12:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gutierrez amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt93-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr627-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires credit card issuers to allocate payments in excess of the minimum payment to the portion of the remaining balance with the highest outstanding APR first, and then to any remaining balances in descending order, eliminating the pro rata option.", 
+  "house_number": 4, 
+  "introduced_at": "2009-04-30", 
+  "number": 93, 
+  "purpose": "An amendment numbered 4 printed in House Report 111-92 to require credit card issuers to allocate payments in excess of the minimum payment to the portion of the remaining balance with the highest outstanding APR first, and then to any remaining balances in descending order, eliminating the pro rata option.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gutierrez, Luis V.", 
+    "state": "IL", 
+    "thomas_id": "00478", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-30T12:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-29", 
+      "references": [
+        {
+          "reference": "CR S9384-9386", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1619 proposed by Senator Corzine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 1619 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1619-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s397-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 397
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-27", 
+  "number": 1619, 
+  "proposed_at": "2005-07-29", 
+  "purpose": "To protect the rights of law enforcement officers who are victimized by crime to secure compensation from those who participate in arming criminals.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Corzine, Jon S.", 
+    "state": "NJ", 
+    "thomas_id": "01630", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-29", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

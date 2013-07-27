@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-22T14:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8314-8320, H8323", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8314", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Boehner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-22T16:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 492, 
+      "text": "On agreeing to the Boehner amendment (A012) Agreed to by recorded vote: 220 - 196 (Roll no. 492).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt574-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2123-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2123
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment exempts religious corporations, associations, educational institutions, or societies from certain nondiscrimination provisions of the bill.", 
+  "house_number": 12, 
+  "introduced_at": "2005-09-22", 
+  "number": 574, 
+  "purpose": "An amendment numbered 12 printed in House Report 109-229 to provide hiring protections for faith-based Head Start providers. This language is the same as the language from H.R. 2210 as passed by the House in the 108th Congress.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Boehner, John A.", 
+    "state": "OH", 
+    "thomas_id": "00102", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-22T16:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

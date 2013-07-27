@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-03", 
+      "references": [
+        {
+          "reference": "CR S1980-1981, S1991-1994", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1980", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 42 proposed by Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 23, 
+      "text": "Amendment SA 42 not agreed to in Senate by Yea-Nay Vote. 39 - 56. Record Vote Number: 23.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt42-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-03", 
+  "number": 42, 
+  "proposed_at": "2005-03-03", 
+  "purpose": "To limit the exemption for asset protection trusts.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-03", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

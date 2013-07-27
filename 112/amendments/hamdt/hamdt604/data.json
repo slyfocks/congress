@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T20:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4840-4841", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4840", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Pompeo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:37:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4883", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 547, 
+      "text": "On agreeing to the Pompeo amendment (A025) Failed by recorded vote: 127 - 296 (Roll no. 547).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt604-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the amount for energy efficiency and renewable energy by $45,641,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 25, 
+  "introduced_at": "2011-07-11", 
+  "number": 604, 
+  "purpose": "An amendment to reduce energy efficiency and renewable energy by $45,641,000 and increase the spending reduction account by the same amount.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Pompeo, Mike", 
+    "state": "KS", 
+    "thomas_id": "02022", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:37:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-28T20:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1717-1729, H1730-1731", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1717-1725", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) in the nature of a substitute offered by Mr. Cooper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-28T21:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 145, 
+      "text": "On agreeing to the Cooper amendment (A003) Failed by recorded vote: 38 - 382, 2 Present (Roll no. 145).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1001-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres112-112", 
+    "bill_type": "hconres", 
+    "congress": 112, 
+    "number": 112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute sought to insert the budget proposal endorsed by the Simpson-Bowles Commission.", 
+  "house_number": 3, 
+  "introduced_at": "2012-03-28", 
+  "number": 1001, 
+  "purpose": "An amendment in the nature of a substitute numbered 3 printed in House Report 112-423 to utilize Simpson-Bowles recommendations for establishment of the budget for FY 2013 and to set forth the appropriate budgetary levels for FY 2014 through FY 2022.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cooper, Jim", 
+    "state": "TN", 
+    "thomas_id": "00231", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-28T21:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

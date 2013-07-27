@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-24T14:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8331-8332", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8331", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-24T14:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A018) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt614-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3074-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3074
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit funds in the bill from being available for the Walter Clore Wine and Culinary Center in Prosser, Washington.", 
+  "house_number": 18, 
+  "introduced_at": "2007-07-24", 
+  "number": 614, 
+  "purpose": "An amendment to strike the $250,000 appropriation in the bill for the Walter Clore Wine and Culinary Center in Prosser, Washington.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-24T14:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

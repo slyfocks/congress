@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-05-06T13:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3239", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3239", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Nye.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-06T13:35:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Nye amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt629-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5019-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5019
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment adds Armed Forces exchange services as qualified rebate aggregators.", 
+  "house_number": 3, 
+  "introduced_at": "2010-05-06", 
+  "number": 629, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-475 to add Armed Forces exchange services as qualified rebate aggregators.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Nye, Glenn C.", 
+    "state": "VA", 
+    "thomas_id": "01957", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-05-06T13:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

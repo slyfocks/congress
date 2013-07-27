@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-14T23:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4179-4180", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4179", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Clarke (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15T16:27:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4229", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 426, 
+      "text": "On agreeing to the Clarke (MI) amendment (A014) Failed by recorded vote: 142 - 282 (Roll no. 426).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt432-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the Buildings and Facilities account by $1 million and to increase funding for the Agricultural Marketing Service account by $1 million.", 
+  "house_number": 14, 
+  "introduced_at": "2011-06-14", 
+  "number": 432, 
+  "purpose": "An amendment to reduce funding for the Buildings and Facilities account by $1 million and to increase funding for the Agricultural Marketing Service account by $1 million.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Clarke, Hansen", 
+    "state": "MI", 
+    "thomas_id": "02030", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-15T16:27:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-02T16:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H411-412", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H411", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02T16:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H412", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Flake amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt920-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3582-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3582
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2012-02-02", 
+  "number": 920, 
+  "purpose": "An amendment numbered 7 printed in Part B of House Report 112-383 lower the threshold for requiring a dynamic score from .25% of the current GDP to $5 billion.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-02-02", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

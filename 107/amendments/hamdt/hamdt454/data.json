@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-04-24T12:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1563-1564", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1563", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Oxley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24T12:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Oxley amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt454-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3763-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3763
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment clarifies language contained in the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2002-04-24", 
+  "number": 454, 
+  "purpose": "An amendment numbered 1 printed in House Report 107-418 to make various technical and conforming changes; to strike provisions requiring companies listed on the stock exchanges to a code of ethics for senior corporate officers due to workability issues; and to retain provisions regarding disclosure of changes in issuer codes of conduct.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Oxley, Michael G.", 
+    "state": "OH", 
+    "thomas_id": "00885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-04-24T12:29:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

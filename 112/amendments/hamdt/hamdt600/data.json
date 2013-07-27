@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T19:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4836-4837", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4836", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Harris.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-11T19:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Harris amendment (A021) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt600-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces funding for the international programs of the Office of Energy Efficiency and Renewable Energy by $6 million and applies the savings to the spending reduction account.", 
+  "house_number": 21, 
+  "introduced_at": "2011-07-11", 
+  "number": 600, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to reduce nuclear energy allocation by $6,000,000 and increase the spending reduction account by the same amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Harris, Andy", 
+    "state": "MD", 
+    "thomas_id": "02026", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-11T19:47:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

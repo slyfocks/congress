@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-15T17:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4548-4549", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4548", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A037) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15T17:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A037) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt284-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 37, 
+  "introduced_at": "2005-06-15", 
+  "number": 284, 
+  "purpose": "An amendment to prohibit the use of funds from being available to deny the production of safety reports regarding the NASA Space Shuttle program and the International Space Station.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-15T17:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

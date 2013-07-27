@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24", 
+      "references": [
+        {
+          "reference": "CR S5066-5072, S5092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5067", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4114 proposed by Senator Gregg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 147, 
+      "text": "Amendment SA 4114 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 147.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4114-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-23", 
+  "number": 4114, 
+  "proposed_at": "2006-05-24", 
+  "purpose": "To amend title II of the Immigration and Nationality Act to reform the diversity visa program and create a program that awards visas to aliens with an advanced degree in science mathematics, technology, or engineering.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gregg, Judd", 
+    "state": "NH", 
+    "thomas_id": "00466", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-24", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

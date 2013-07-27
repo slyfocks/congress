@@ -1,0 +1,57 @@
+<bill session="106" type="hc" number="239" updated="2013-07-14T18:55:23-04:00">
+  <state datetime="1999-11-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-11-19"/>
+  </status>
+  <introduced datetime="1999-11-19"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Clerk of the House of Representatives to make a technical correction in the enrollment of the bill H.R. 3194.</title>
+  </titles>
+  <sponsor id="400536"/>
+  <cosponsors>
+    <cosponsor id="400585" joined="1999-11-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-11-19">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="1999-11-19T12:03:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="1999-11-19T12:25:00-05:00">
+      <text>Mr. Pease asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="1999-11-19T12:25:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H12895-12896" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-19T12:25:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1999-11-19T12:25:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-11-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15220" label="consideration"/>
+    </vote>
+    <action datetime="1999-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="h" number="3194"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Economics and public finance"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/1999--Introduced.
+Directs the Clerk of the House of Representatives to make a technical correction in the enrollment of H.R. 3194 (District of Columbia appropriations).</summary>
+</bill>

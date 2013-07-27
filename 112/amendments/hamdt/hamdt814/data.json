@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T17:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6604-6605, H6613", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6604", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 759, 
+      "text": "On agreeing to the Ellison amendment (A013) Failed by recorded vote: 170 - 252 (Roll no. 759).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt814-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to insert a requirement that the EPA Administrator shall publish a notice in the Federal Register which would estimate the public health impact resulting from delay of implementation of regulation for the Portland cement manufacturing industry.", 
+  "house_number": 13, 
+  "introduced_at": "2011-10-05", 
+  "number": 814, 
+  "purpose": "An amendment numbered 14 printed in the Congressional Record to add a new subsection entitled Notice in Federal Register.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:56:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

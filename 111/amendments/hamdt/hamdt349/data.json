@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-16T15:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8242-8243, H8259-8260", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8242", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16T18:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 561, 
+      "text": "On agreeing to the Flake amendment (A009) Failed by recorded vote: 94 - 336 (Roll no. 561).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt349-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3170-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3170
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit $285,000 from being used for the Proof of Concept Center of Idaho TechConnect, Inc., in Nampa, Idaho, and reduce the amount of Section 511 of the bill by the same amount.", 
+  "house_number": 9, 
+  "introduced_at": "2009-07-16", 
+  "number": 349, 
+  "purpose": "An amendment numbered 9 printed in House Report 111-208 to prohibit $285,000 from being used for the Proof of Concept Center of Idaho TechConnect, Inc., in Nampa, Idaho, and reduce the amount of Section 511 of the bill by the same amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-16T18:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

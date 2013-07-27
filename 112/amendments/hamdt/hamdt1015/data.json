@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-18T15:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1955-1958", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1955-1957", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-18T15:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McKinley amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1015-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4348-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4348
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment inserts the text of H.R. 2273, Coal Residuals Reuse and Management Act, as passed by the House, to leave regulation and enforcement of coal combustion residuals to the States, and utilize the existing framework and requirements of federal regulatory programs for those States to follow.", 
+  "house_number": 3, 
+  "introduced_at": "2012-04-18", 
+  "number": 1015, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-446 to insert the text of H.R. 2273, Coal Residuals Reuse and Management Act. Would leave regulation and enforcement of coal combustion residuals to the states, and utilize the existing framework and requirements of federal regulatory programs for those states to follow.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-18T15:50:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

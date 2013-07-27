@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-25T17:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4026-4035, H4042", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4027", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Bradley (NH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-25T19:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 219, 
+      "text": "On agreeing to the Bradley (NH) amendment (A008) Failed by recorded vote: 112 - 316 (Roll no. 219).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt213-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1815-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1815
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to postpone the base realignment and closure process until 1 year after a number of studies are completed and until 1 year after the troops have returned home from the Iraqi theater.", 
+  "house_number": 8, 
+  "introduced_at": "2005-05-25", 
+  "number": 213, 
+  "purpose": "An amendment numbered 29 printed in House Report 109-96 to postpone the BRAC recommendations until one year after the last of these actions occurs: the recommendations of the Review of Overseas Military Facility Structure are implemented by the Secretary of Defense, a substantial number of American troops return from Iraq, the House and Senate Armed Services Committees receive the quadrennial defense review, the National Maritime Security Strategy is implemented, and the Homeland Defense and Civil Support directive is implemented.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bradley, Jeb", 
+    "state": "NH", 
+    "thomas_id": "01736", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-25T19:43:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

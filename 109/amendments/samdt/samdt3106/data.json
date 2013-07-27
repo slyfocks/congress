@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2249, S2249-2250, S2260", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2250", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3106 proposed by Senator Lincoln.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 66, 
+      "text": "Amendment SA 3106 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 66.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3106-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3106, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To restore the discretionary budget for the Department of Agriculture with an offset achieved by closing corporate tax loopholes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lincoln, Blanche L.", 
+    "state": "AR", 
+    "thomas_id": "01570", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T23:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5573-5574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5573", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T23:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A023) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt746-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for Environmental Programs by $5 million and to reduce the funding for the Office of the Secretary by $5.5 million.", 
+  "house_number": 23, 
+  "introduced_at": "2011-07-26", 
+  "number": 746, 
+  "purpose": "An amendment to increase FS state and private forestry by $4 million, offset by the Office of the Secretary.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T23:23:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-08T19:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3573-3574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3573", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. E. B. Johnson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-08T19:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Johnson, E. B. amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt984-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5252-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5252
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases the discrimination penalty from $500,000 to $750,000 for a cable operator that denies access to cable service to residents because of the income of that group.", 
+  "house_number": 4, 
+  "introduced_at": "2006-06-08", 
+  "number": 984, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-491 to increase the discrimination penalty from $500,000 to $750,000 for a cable operator that denies access to cable service to residents because of the income of that group.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-08T19:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

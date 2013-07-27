@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-16T18:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4243-4244", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4243", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Hunter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-16T18:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hunter amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt552-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4568-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4568
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment places restrictions on the use of recreational fees for biological monitoring studies under the Endangered Species Act.", 
+  "house_number": 5, 
+  "introduced_at": "2004-06-16", 
+  "number": 552, 
+  "purpose": "An amendment to prohibit the use of funds in the bill for salaries and expenses of any employee for the expenditure of user fees for the costs, in whole or in part of the biological monitoring of a species on the endangered list.", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Hunter, Duncan", 
+    "state": "CA", 
+    "thomas_id": "00575", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-06-16T18:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

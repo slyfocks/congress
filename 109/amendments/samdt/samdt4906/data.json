@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-06", 
+      "references": [
+        {
+          "reference": "CR S9068", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9068", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4906 proposed by Senator Rockefeller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-07", 
+      "references": [
+        {
+          "reference": "CR S9075, S9091-9092", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-07", 
+      "references": [], 
+      "text": "Proposed amendment SA 4906 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt4906-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-06", 
+  "number": 4906, 
+  "proposed_at": "2006-09-06", 
+  "purpose": "To strike the section specifically authorizing intelligence and intelligence-related activities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-09-07", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-19", 
+      "references": [
+        {
+          "reference": "CR S7842-7852", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7842", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4683 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-19", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 211, 
+      "text": "Amendment SA 4683 not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 211.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4683-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s728-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-19", 
+  "number": 4683, 
+  "proposed_at": "2006-07-19", 
+  "purpose": "To modify a section relating to a fiscal transparency and prioritization report.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-19", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

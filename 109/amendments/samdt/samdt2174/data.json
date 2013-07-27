@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "references": [
+        {
+          "reference": "CR S11633-11634", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11633-11634", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2174 proposed by Senator Bond.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2174 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2174-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-20", 
+  "number": 2174, 
+  "proposed_at": "2005-10-20", 
+  "purpose": "To provide that the Administrator of General Services require all credible sustainable building rating systems that award credits for certified wood products in the rating system be included in the published building design criteria or specifications of any solicitation for offers issued by the General Services Administration for construction of a Federal building or courthouse.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bond, Christopher S.", 
+    "state": "MO", 
+    "thomas_id": "01286", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-20", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

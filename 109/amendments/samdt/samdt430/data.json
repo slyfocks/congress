@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-14", 
+      "references": [
+        {
+          "reference": "CR S3630-3635, S3635-3638, S3638-3640, S3641", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 430 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-14", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S3641", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 95, 
+      "text": "Amendment SA 430 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 95.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt430-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-14", 
+  "number": 430, 
+  "proposed_at": "2005-04-14", 
+  "purpose": "To prohibit the use of funds by any Federal agency to produce a prepackaged news story without including in such story a clear notification for the audience that the story was prepared or funded by a Federal agency.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-14", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

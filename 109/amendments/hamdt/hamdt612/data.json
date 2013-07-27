@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03T16:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9595-9597", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9595-9596", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Miller, Gary.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03T16:29:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Miller, Gary amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt612-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4128-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4128
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment adds brownfield redevelopment, as specifically defined in the Small Business Liability Relief and Brownfield Revitalization Act of 2001, to the list of exemptions contained in the bill.", 
+  "house_number": 6, 
+  "introduced_at": "2005-11-03", 
+  "number": 612, 
+  "purpose": "An amendment numbered 7 printed in House Report 109-266 to specify that the term economic development in the bill does not include the redevelopment of brownfield sites.", 
+  "sponsor": {
+    "district": "42", 
+    "name": "Miller, Gary G.", 
+    "state": "CA", 
+    "thomas_id": "01584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-03T16:29:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

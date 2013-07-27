@@ -1,0 +1,73 @@
+<bill session="107" type="hc" number="354" updated="2013-07-14T18:59:01-04:00">
+  <state datetime="2002-04-30T16:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-04-30T16:14:00-04:00"/>
+  </status>
+  <introduced datetime="2002-03-18"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400082" joined="2002-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-18">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2002-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-03-20">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-04-11T17:07:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-401.</text>
+    </action>
+    <calendar datetime="2002-04-11T17:07:00-04:00" calendar="House" number="139">
+      <text>Placed on the House Calendar, Calendar No. 139.</text>
+    </calendar>
+    <action datetime="2002-04-30T16:11:00-04:00">
+      <text>Mrs. Capito moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-04-30T16:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1712" label="consideration"/>
+    </action>
+    <action datetime="2002-04-30T16:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 354.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-04-30T16:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1712" label="text"/>
+    </vote>
+    <action datetime="2002-04-30T16:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-05-01">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Law enforcement officers"/>
+    <term name="Olympic games"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Running"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2002--Reported to House without amendment.
+Authorizes the 2002 District of Columbia Special Olympics Law Enforcement Torch Run to be run through the Capitol grounds on June 7, 2002.</summary>
+</bill>

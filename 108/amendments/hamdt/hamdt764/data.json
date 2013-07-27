@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-15T12:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7207-7208", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "text CR H7207", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-15T12:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown (OH) amendment (A014) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt764-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5025-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5025
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 14, 
+  "introduced_at": "2004-09-15", 
+  "number": 764, 
+  "purpose": "An amendment to provide that none of the funds made available in the bill may be used by the Council of Economic Advisers to produce an Economics Report of the President regarding the inclusion of employment at a retail fast food restaurant as part of the definition of manufacturing employment.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-09-15T12:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

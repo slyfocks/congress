@@ -1,0 +1,62 @@
+<bill session="106" type="h" number="5139" updated="2013-07-14T18:55:07-04:00">
+  <state datetime="2000-10-03T10:30:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-03T10:30:00-04:00"/>
+  </status>
+  <introduced datetime="2000-09-07"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the conveyance of certain real property at the Carl Vinson Department of Veterans Affairs Medical Center, Dublin, Georgia.</title>
+  </titles>
+  <sponsor id="400296"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-09-07">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2000-10-03T10:23:00-04:00">
+      <text>Mr. Stump moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-03T10:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8630-8631" label="consideration"/>
+    </action>
+    <action datetime="2000-10-03T10:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5139.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-03T10:30:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8630" label="text"/>
+    </vote>
+    <action datetime="2000-10-03T10:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-04">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2000-12-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="h" number="5075"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Georgia"/>
+    <term name="Health"/>
+    <term name="Higher education"/>
+    <term name="Land transfers"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/2000--Introduced.
+See summary of: H.R.5075</summary>
+</bill>

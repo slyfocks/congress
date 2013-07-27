@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22T17:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4957-4958", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4957", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22T17:49:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the McHenry amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt341-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2985-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2985
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the Capitol Police by $2 million.", 
+  "house_number": 4, 
+  "introduced_at": "2005-06-22", 
+  "number": 341, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-144. decrease the GPO Congressional Printing and Binding funds by $2 million and increases Capitol Police general expenses funds (for security equipment, weapons, etc.) by $2 million. Amendment is intended to address the excess and unsolicited copies of bills, resolutions, and amendments that GPO prints and distributes to each sponsor and original co-sponsor.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-22T17:49:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

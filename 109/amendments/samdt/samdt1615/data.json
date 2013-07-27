@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-29", 
+      "references": [
+        {
+          "reference": "CR S9379-9382, S9384", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9379-9380", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1615 proposed by Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 217, 
+      "text": "Amendment SA 1615 not agreed to in Senate by Yea-Nay Vote. 31 - 64. Record Vote Number: 217.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1615-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s397-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 397
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-27", 
+  "number": 1615, 
+  "proposed_at": "2005-07-29", 
+  "purpose": "To expand the definition of armor piercing ammunition and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-29", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

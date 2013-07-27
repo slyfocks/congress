@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11108-11109", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2029 proposed by Senator Stevens for Senator Alexander.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11109", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2029 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2029-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-04", 
+  "number": 2029, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To require a report on the use of ground source heat pumps at Department of Defense facilities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Alexander, Lamar", 
+    "state": "TN", 
+    "thomas_id": "01695", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

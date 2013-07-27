@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-06T12:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6651-6652, H6658-6659", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6651", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T14:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 767, 
+      "text": "On agreeing to the Rush amendment (A002) Failed by recorded vote: 156 - 242 (Roll no. 767).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt821-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add provisions which clarify that section 5 of the bill was intended to supplement and not supersede the Clean Air Act.", 
+  "house_number": 2, 
+  "introduced_at": "2011-10-06", 
+  "number": 821, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to add a section that this Act shall not be intended to supercede, or limit the provisions of the Clean Air Act.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T14:36:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

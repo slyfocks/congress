@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-15T16:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H771-772, H783-784", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H771", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Doyle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-15T18:23:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 58, 
+      "text": "On agreeing to the Doyle amendment (A004) Failed by recorded vote: 193 - 234 (Roll no. 58).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt935-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3408-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3408
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that a permit for the Keystone XL pipeline is not to be issued or deemed issued unless the permit applicant can certify and provide adequate documentation to FERC that at least 75% of the iron and steel to be used in domestic portion of the pipeline is produced in North America.", 
+  "house_number": 4, 
+  "introduced_at": "2012-02-15", 
+  "number": 935, 
+  "purpose": "An amendment numbered 4 printed in Part A of House Report 112-398 to require that a permit for the Keystone XL pipeline is not to be issued or deemed issued unless the permit applicant can certify and provide adequate documentation to FERC that at least 75% of the iron and steel to be used in domestic portion of the pipeline is produced in North America.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Doyle, Michael F.", 
+    "state": "PA", 
+    "thomas_id": "00316", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-15T18:23:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

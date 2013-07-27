@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-01T15:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8044", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8044", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Critz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01T16:02:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Critz amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt882-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr527-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 527
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires that agencies' regulatory flexibility analyses assess the cumulative impact of any rule stemming from the implementation of a free trade agreement in order to provide protection for small businesses.", 
+  "house_number": 1, 
+  "introduced_at": "2011-12-01", 
+  "number": 882, 
+  "purpose": "An amendment numbered 1 printed in Part A of House Report 112-296 to require the estimated cumulative impact on small businesses of any other rule stemming from the implementation of the Free Trade Agreements.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Critz, Mark S.", 
+    "state": "PA", 
+    "thomas_id": "01977", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-12-01T16:02:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

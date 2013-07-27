@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-20T11:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6119-6122", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6119", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20T11:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt473-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2601-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2601
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment requires the State Department to report to Congress concerning nongovernmental organizations receiving funding under the President's Emergency Plan for AIDS Relief.", 
+  "house_number": 20, 
+  "introduced_at": "2005-07-20", 
+  "number": 473, 
+  "purpose": "An amendment numbered 21A made in order pursuant to section 2 of H. Res. 365, as passed by the House, to add a new section providing funding for nongovernmental organizations under the President's emergency plan for aids relief.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-20T11:32:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

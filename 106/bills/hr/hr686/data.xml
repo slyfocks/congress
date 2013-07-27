@@ -1,0 +1,84 @@
+<bill session="106" type="h" number="686" updated="2013-07-14T18:53:07-04:00">
+  <state datetime="1999-05-04T18:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-05-04T18:57:00-04:00"/>
+  </status>
+  <introduced datetime="1999-02-10"/>
+  <titles>
+    <title as="introduced" type="official">To designate a United States courthouse in Brownsville, Texas, as the "Garza-Vela United States Courthouse".</title>
+  </titles>
+  <sponsor id="400302"/>
+  <cosponsors>
+    <cosponsor id="400160" joined="1999-03-23"/>
+    <cosponsor id="400179" joined="1999-03-23"/>
+    <cosponsor id="400337" joined="1999-03-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-02-11">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-04-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-04-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-04-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-04-22">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1999-04-27T15:20:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-109.</text>
+    </action>
+    <calendar datetime="1999-04-27T15:21:00-04:00" calendar="House" number="43">
+      <text>Placed on the House Calendar, Calendar No. 43.</text>
+    </calendar>
+    <action datetime="1999-05-04T18:52:00-04:00">
+      <text>Mr. Franks moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-05-04T18:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2600-2601" label="consideration"/>
+    </action>
+    <action datetime="1999-05-04T18:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 686.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-05-04T18:57:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-05-04T18:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-05-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Law"/>
+    <term name="Names"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/1999--Introduced.
+Designates the U.S. courthouse located at the corner of Seventh Street and East Jackson Street in Brownsville, Texas, as the Garza-Vela United States Courthouse.</summary>
+</bill>

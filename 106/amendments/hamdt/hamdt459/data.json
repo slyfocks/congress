@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-14T18:47:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A010) offered by Mr. Ewing.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-14T19:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 418, 
+      "text": "On agreeing to the Ewing amendment (A010) Failed by recorded vote: 167 - 259 (Roll no. 418).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt459-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr417-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 417
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to add nonseverability language which provides that if any provision of the bill is held invalid, then the entire Act shall be considered invalid.", 
+  "house_number": 10, 
+  "introduced_at": "1999-09-14", 
+  "number": 459, 
+  "purpose": "An amendment numbered 10 printed in House Report 106-311 to strike the existing section 1601 in the bill regarding severability and to replace it with new section 1601 providing for nonseverability of provisions.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Ewing, Thomas W.", 
+    "state": "IL", 
+    "thomas_id": "00366", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-14T19:48:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

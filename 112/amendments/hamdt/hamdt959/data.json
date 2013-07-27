@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-29T15:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1063-1065, H1072-1073", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1063", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. McNerney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-29T17:39:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 84, 
+      "text": "On agreeing to the McNerney amendment (A003) Failed by recorded vote: 178 - 242 (Roll no. 84).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt959-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1837-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1837
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prevent provisions of the bill from taking effect until it has been determined that it will not harm the quality or safety of drinking water supplies for residents of California's Delta region (Contra Costa, Sacramento, San Joaquin, Solano, and Yolo Counties).", 
+  "house_number": 3, 
+  "introduced_at": "2012-02-29", 
+  "number": 959, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-405 to prevent several provisions of the Act from taking effect until it is determined that it will not harm the quality or safety of drinking water supplies for residents of California's Delta region (Contra Costa, Sacramento, San Joaquin, Solano, and Yolo Counties).", 
+  "sponsor": {
+    "district": "11", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "thomas_id": "01832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-29T17:39:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

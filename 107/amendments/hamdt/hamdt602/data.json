@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-09-05T10:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6069", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6069", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Wu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-05T10:45:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wu amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt602-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4727-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4727
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment clarifies that the National Dam Safety Review Board may include a representative of the National Laboratories of the Department of Energy.", 
+  "house_number": 1, 
+  "introduced_at": "2002-09-05", 
+  "number": 602, 
+  "purpose": "An amendment to provide for inclusion of the facilities at the National Laboratories of the Department of Energy by inviting a representative from the Laboratories to sit on the Dam Safety Review Board.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wu, David", 
+    "state": "OR", 
+    "thomas_id": "01598", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-09-05T10:45:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

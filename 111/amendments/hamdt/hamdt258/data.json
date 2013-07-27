@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-24T19:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7213-7214, H7230-7231", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4213", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-24T21:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 447, 
+      "text": "On agreeing to the Flake amendment (A013) Failed by recorded vote: 110 - 318 (Roll no. 447).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt258-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2892-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2009-06-24", 
+  "number": 258, 
+  "purpose": "An amendment numbered 1 printed in Part C of House Report 111-183 to prohibit funds in the bill from going to Global Solar, Arizona, for portable solar charging rechargeable battery systems, and reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-24T21:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

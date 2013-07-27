@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-11T16:28:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mrs. Fowler to the Gejdenson amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-11T21:18:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 48, 
+      "text": "On agreeing to the Fowler amendment (A003) Failed by recorded vote: 178 - 237, 2 Present (Roll no. 48).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt25-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt24-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 24
+  }, 
+  "amends_bill": {
+    "bill_id": "hconres42-106", 
+    "bill_type": "hconres", 
+    "congress": 106, 
+    "number": 42
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Gejdenson amendment (A002) sought to limit the deployment of U.S. Armed Forces and not authorize the President to deploy ground forces to Kosovo as part of a NATO peacekeeping operation.", 
+  "house_number": 3, 
+  "introduced_at": "1999-03-11", 
+  "number": 25, 
+  "purpose": "An amendment to limit the deployment of U.S. Armed Forces and not authorize the President to deploy ground forces to Kosovo as part of a NATO peacekeeping operation.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Fowler, Tillie", 
+    "state": "FL", 
+    "thomas_id": "00404", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-03-11T21:18:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-08T12:12:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1362-1363, H1383-1384, H1389-1390", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1362", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Weller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T15:45:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 83, 
+      "text": "On agreeing to the Weller amendment (A004) Agreed to by recorded vote: 424 - 0 (Roll no. 83).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-02-08T16:19:00-05:00", 
+      "references": [], 
+      "text": "Mr. Westmoreland demanded a separate vote on the Weller amendment (A004).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T17:00:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 89, 
+      "text": "On agreeing to the Weller amendment (A004) Agreed to by the Yeas and Nays: 385 - 24 (Roll no. 89).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt5-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr547-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires the EPA, as part of a research and development program, to consider issues with respect to certification by a nationally recognized testing laboratory of components for fuel dispensing devices that specifically reference compatibility with blended alcohol and other biofuels that contain greater than 15 percent alcohol.", 
+  "house_number": 4, 
+  "introduced_at": "2007-02-08", 
+  "number": 5, 
+  "purpose": "An amendment to add a new paragraph to section 3 which includes issues with respect to certification by a nationally recognized testing laboratory of compenents for fuel dispensing devises that specifically reference compatibility with alcohol blended and biofuels that contain greater than 15 percent alcohol.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Weller, Jerry", 
+    "state": "IL", 
+    "thomas_id": "01216", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-08T17:00:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

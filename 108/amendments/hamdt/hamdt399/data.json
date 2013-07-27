@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-24T17:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8872-8876", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8872", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Rohrabacher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-24T17:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 518, 
+      "text": "On agreeing to the Rohrabacher amendment (A002) Failed by recorded vote: 65 - 359 (Roll no. 518).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt399-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2557-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2557
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to allow local port authorities the right to levy a fee on containers traversing through their ports in order to meet the cost of security and infrastructure.", 
+  "house_number": 2, 
+  "introduced_at": "2003-09-24", 
+  "number": 399, 
+  "purpose": "Amendment numbered 3 printed in House Report 108-282.", 
+  "sponsor": {
+    "district": "46", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-24T17:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-15T15:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4531-4532, H4549-4550", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4531", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mrs. Jones (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15T17:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 256, 
+      "text": "On agreeing to the Jones (OH) amendment (A030) Failed by recorded vote: 201 - 222 (Roll no. 256).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt277-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds from being used to close or consolidate any office of the Equal Employment Opportunity Commission.", 
+  "house_number": 30, 
+  "introduced_at": "2005-06-15", 
+  "number": 277, 
+  "purpose": "An amendment to prohibit funds from being used to close or consolidate any office of the Equal Employment Opportunity Commission or to make any reductions in the number of full-time officers or employees in any such office, or to reduce the number of full-time officers or employees serving as supervisors, management officials, mediators, examiners, investigators, or attorney in such office, as part of any workforce repositioning, restructuring, or reorganizing of the Commission that is authorized under law.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Jones, Stephanie Tubbs", 
+    "state": "OH", 
+    "thomas_id": "01581", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-15T17:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

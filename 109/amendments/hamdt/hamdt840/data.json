@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-18T14:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2809-2810", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2809", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-18T15:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sanders amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt840-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5386-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5386
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the Environmental Protection Agency's EnergyStar Program in K-12 school systems by $1.8 million.", 
+  "house_number": 7, 
+  "introduced_at": "2006-05-18", 
+  "number": 840, 
+  "purpose": "An amendment to redirect $1.8 million in funding to the EPA's Energy Star Programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-18T15:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

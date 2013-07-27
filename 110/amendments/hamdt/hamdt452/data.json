@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T15:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7249-7250, H7259", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7249", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A058) offered by Mr. Cannon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-27T17:19:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 576, 
+      "text": "On agreeing to the Cannon amendment (A058) Failed by recorded vote: 204 - 223 (Roll no. 576).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt452-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 58, 
+  "introduced_at": "2007-06-27", 
+  "number": 452, 
+  "purpose": "An amendment to prohibit use of funds in the bill relating to oil-shale leasing in the States of Utah or Wyoming.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cannon, Chris", 
+    "state": "UT", 
+    "thomas_id": "01470", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-27T17:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

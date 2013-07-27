@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11106-11108", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1986 proposed by Senator Stevens for Senator Voinovich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11106", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1986 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1986-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-03", 
+  "number": 1986, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "Of the amounts provided for the Navy for research, development, test, and evaluation up to $3,000,000 may be available for land attack technology for the Millennium Gun System.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Voinovich, George V.", 
+    "state": "OH", 
+    "thomas_id": "01575", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

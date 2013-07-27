@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-17T11:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3345", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3345", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17T11:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3345", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question on the amendment (A001) and on the resolution. Agreed to by the Yeas and Nays: 223 - 185 (Roll no. 174).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17T11:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt127-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres278-109", 
+    "bill_type": "hres", 
+    "congress": 109, 
+    "number": 278
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment deleted a provision from the resolution that had left certain language in the bill subject to a point of order.", 
+  "house_number": 1, 
+  "introduced_at": "2005-05-17", 
+  "number": 127, 
+  "purpose": "An amendment to strike \"; page 17, lines 21 through 24\" on page 2 of the bill.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-17T11:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

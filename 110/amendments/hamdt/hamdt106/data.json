@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-24T16:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4012-4013", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4012", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Science and Technology.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-24T16:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Science and Technology amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt106-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr362-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 362
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2007-04-24", 
+  "number": 106, 
+  "purpose": "An amendment submitted pursuant to the instructions contained in the motion to recommit offered by Mr. Hoekstra.", 
+  "sponsor": {
+    "committee_id": "hssy00", 
+    "name": "House Science and Technology", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-04-24T16:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

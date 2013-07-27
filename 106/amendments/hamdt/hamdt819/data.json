@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-15T19:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4550-4555, H4556", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4550", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-15T20:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 286, 
+      "text": "On agreeing to the Sanders amendment (A024) Failed by recorded vote: 193 - 195 (Roll no. 286).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt819-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4578-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4578
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide $10 million for the creation of a Northeast Home Heating Oil Reserve.", 
+  "house_number": 24, 
+  "introduced_at": "2000-06-15", 
+  "number": 819, 
+  "purpose": "An amendment numbered 29 printed in the Congressional Record to provide $10 million in funding for the creation of a Home Heating Oil Reserve.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-15T20:24:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

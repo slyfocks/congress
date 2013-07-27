@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-08T18:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4092-4094", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4092", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-08T18:30:00-04:00", 
+      "references": [], 
+      "text": "Mr. Porter raised a point of order against the Obey amendment (A003). Mr. Porter stated that the amendment violated section 302F of the Congressional Budget Act. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt759-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2000-06-08", 
+  "number": 759, 
+  "purpose": "An amendment no. 9 printed in the Congressional Record to increase funding for the international labor, including child labor, standards program funding by $97 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-08", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

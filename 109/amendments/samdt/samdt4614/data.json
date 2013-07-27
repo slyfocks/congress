@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-12", 
+      "references": [
+        {
+          "reference": "CR S7389-7390", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7389-7390", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4614 proposed by Senator Gregg for Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-12", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4614 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4614-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4614, 
+  "proposed_at": "2006-07-12", 
+  "purpose": "To establish procedures for grants for State and local programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-12", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

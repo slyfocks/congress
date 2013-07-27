@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-22T19:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3507-3508", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3507", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-23T11:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3536-3537", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3536-3537", 
+          "type": " text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 216, 
+      "text": "On agreeing to the Traficant amendment (A003) Agreed to by recorded vote: 404 - 8 (Roll no. 216).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt740-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4392-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4392
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2000-05-22", 
+  "number": 740, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to require the CIA to report to Congress on whether the goals and policies of China constitute a threat to the national security of the United States.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-23T11:08:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

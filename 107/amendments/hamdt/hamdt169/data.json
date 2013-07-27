@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-17T20:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4092", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Cannon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-17T20:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cannon amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt169-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment deletes language concerning claims covered by the Radiation Exposure Compensation Act.", 
+  "house_number": 3, 
+  "introduced_at": "2001-07-17", 
+  "number": 169, 
+  "purpose": "An amendment to strike reference limiting claims covered by the Radiation Exposure Compensation Act to those in effect on June 1, 2000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cannon, Chris", 
+    "state": "UT", 
+    "thomas_id": "01470", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-17T20:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

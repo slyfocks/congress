@@ -1,0 +1,41 @@
+<bill session="108" type="hr" number="452" updated="2013-07-14T19:00:14-04:00">
+  <state datetime="2003-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2003-11-19"/>
+  </status>
+  <introduced datetime="2003-11-19"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing and supporting the goals and ideals of National Adoption Month.</title>
+  </titles>
+  <sponsor id="400058"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2003-11-19"/>
+    <cosponsor id="400176" joined="2003-11-19"/>
+    <cosponsor id="400369" joined="2003-11-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-11-19">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-12-02">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="hr" number="864"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Adoption"/>
+    <term name="Families"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2003--Introduced.
+Expresses support for the goals and ideals of National Adoption Month.</summary>
+</bill>

@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-06T12:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1907-1908, H1938-1939", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-06T15:14:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1907", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 106, 
+      "text": "On agreeing to the Coburn amendment (A004) Failed by recorded vote: 72 - 355 (Roll no. 106).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt658-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1776-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1776
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to expand home ownership assistance to those employed by a tax exempt authority, the Federal government, a small business, those with a financial interest in a small business, those individuals who qualify for a child care tax credit, and members of an organization under the jurisdiction of the National Labor Relations Board.", 
+  "house_number": 4, 
+  "introduced_at": "2000-04-06", 
+  "number": 658, 
+  "purpose": "An amendment numbered 4 printed in House Report 106-562 to broaden eligibility for three of the bill's homeownership initiatives by making federal employees, employees and owners of small businesses, unionized employees, employees of tax exempt organizations, and anyone who qualifies for the federal child care tax credit eligible for 1% downpayment FHA loans and HOME homeownership assistance. For homeownership assistance through the CDBG program, the amendment would extend eligibility to all residents of the local jurisdiction.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Coburn, Tom A.", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-04-06T15:14:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

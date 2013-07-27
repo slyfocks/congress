@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-13T17:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3833-3834, H3885", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3833", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Bean.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-13T21:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 264, 
+      "text": "On agreeing to the Bean amendment (A004) Agreed to by recorded vote: 234 - 190 (Roll no. 264).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1010-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the National Highway Traffic Safety Administration's Operations and Research account by $6.7 million.", 
+  "house_number": 4, 
+  "introduced_at": "2006-06-13", 
+  "number": 1010, 
+  "purpose": "An amendment to increase funding (by offsets) for the National Highway Traffic Safety Administration Operations and Research by $6,700,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Bean, Melissa L.", 
+    "state": "IL", 
+    "thomas_id": "01782", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-13T21:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

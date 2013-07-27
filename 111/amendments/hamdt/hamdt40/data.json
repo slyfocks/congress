@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-18T13:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3590-3591", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3590", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Hunter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-18T13:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hunter amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt40-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1388-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1388
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment removes GI benefits from the maximum educational award calculation so that veterans have full access to national service educational benefits.", 
+  "house_number": 3, 
+  "introduced_at": "2009-03-18", 
+  "number": 40, 
+  "purpose": "Amendment numbered 3 printed in House Report 110-39 to remove veteran's educational benefits from being taken into account when calculating the maximum award an individual could receive for participating in one of the national service programs.", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Hunter, Duncan D.", 
+    "state": "CA", 
+    "thomas_id": "01909", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-03-18T13:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

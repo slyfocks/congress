@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T12:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8015-8017, H8035, H8042", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8015", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T16:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 653, 
+      "text": "On agreeing to the Price (GA) amendment (A027) Failed by recorded vote: 149 - 274 (Roll no. 653).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt536-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for the Teacher Incentive Fund by $21 million.", 
+  "house_number": 27, 
+  "introduced_at": "2007-07-18", 
+  "number": 536, 
+  "purpose": "An amendment to reduce appropriations for School Improvement Programs (by transfer), and redirect $21 million to ESEA.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T16:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-16T11:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4295-4296", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4295", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mr. Lipinski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16T13:17:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4310-4311", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 456, 
+      "text": "On agreeing to the Lipinski amendment (A061) Failed by recorded vote: 162 - 254 (Roll no. 456).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt479-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 61, 
+  "introduced_at": "2011-06-16", 
+  "number": 479, 
+  "purpose": "An amendment to prohibit the use of funds to be used to alter contract no. GS-35F-4076D with respect to the location of data storage.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lipinski, Daniel", 
+    "state": "IL", 
+    "thomas_id": "01781", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-16T13:17:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

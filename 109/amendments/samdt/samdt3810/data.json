@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-02", 
+      "references": [
+        {
+          "reference": "CR S3879-3880", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3879", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3810 proposed by Senator Obama.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-02", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 106, 
+      "text": "Amendment SA 3810 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 106.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3810-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-01", 
+  "number": 3810, 
+  "proposed_at": "2006-05-02", 
+  "purpose": "To provide that none of the funds appropriated by this Act may be made available for hurricane relief and recovery contracts exceeding $500,000 that are awarded using procedures other than competitive procedures.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Obama, Barack", 
+    "state": "IL", 
+    "thomas_id": "01763", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-02", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

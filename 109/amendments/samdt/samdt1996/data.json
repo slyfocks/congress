@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11077-11078, S11088", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11077", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1996 proposed by Senator Stevens for Senator Mikulski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11077", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1996 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1996-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-04", 
+  "number": 1996, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To provide that, of the amount made available under title III for the Navy for other procurement, up to $3,000,000 may be made available for the Joint Aviation Technical Data Integration Program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Mikulski, Barbara A.", 
+    "state": "MD", 
+    "thomas_id": "00802", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

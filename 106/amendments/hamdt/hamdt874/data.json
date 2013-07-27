@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T18:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4997-5007, H5029", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4997", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T23:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 315, 
+      "text": "On agreeing to the Campbell amendment (A008) Agreed to by recorded vote: 239 - 173 (Roll no. 315).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt874-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment reduces Federal Prison System Salaries and Expenses funding by $173,480.", 
+  "house_number": 8, 
+  "introduced_at": "2000-06-22", 
+  "number": 874, 
+  "purpose": "Amendment no. 19 printed in the Congressional Record to reduce Federal Prison System Salaries and Expenses funding by $173,480, the average cost of incarcerating the non-citizens currently detained when the INS denied bond, asylum, or other relief based on secret evidence.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Campbell, Tom", 
+    "state": "CA", 
+    "thomas_id": "00170", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-22T23:22:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

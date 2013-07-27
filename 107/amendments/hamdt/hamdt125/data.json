@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-27T16:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3669-3671", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3669", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T09:51:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3719-3720", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3719", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 201, 
+      "text": "On agreeing to the Hinchey amendment (A004) Failed by recorded vote: 163 - 258 (Roll no. 201).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt125-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2311-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2311
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to increase the funding for renewable energy programs by $50 million; and reduce funding for the Energy Department's missile program by $60 million.", 
+  "house_number": 4, 
+  "introduced_at": "2001-06-27", 
+  "number": 125, 
+  "purpose": "An amendment to increase the account for Department of Energy--Energy Programs--Energy Supply by $50,000,000 and to reduce the account for Atomic Energy Defense Activities National Nuclear Security Administration--Weapons Activities by $60,000,000.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-28T09:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

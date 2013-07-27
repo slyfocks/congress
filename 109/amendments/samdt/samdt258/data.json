@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2937", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2937", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 258 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 258 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt258-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 258, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To ensure that savings associated with legislation that reduces overpayments to medicare advantage plans is reserved for deficit reduction and to strengthen the Federal Hospital Insurance Trust Fund.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2148-2152, S2178", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2148", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3009 proposed by Senator Nelson FL.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 49, 
+      "text": "Amendment SA 3009 not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 49.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3009-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-13", 
+  "number": 3009, 
+  "proposed_at": "2006-03-15", 
+  "purpose": "To establish a deficit-neutral reserve fund to protect medicare beneficiaries who enroll in the prescription drug benefit during 2006.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

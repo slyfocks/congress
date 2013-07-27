@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-02", 
+      "references": [
+        {
+          "reference": "CR S488", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S488", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2727 proposed by Senator Frist for Senator Talent to Amendment SA 2707.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2727 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2727-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2707-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2707
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4297-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4297
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-02", 
+  "number": 2727, 
+  "proposed_at": "2006-02-02", 
+  "purpose": "To express the sense of the Senate regarding the permanent extension of the amendments to the child tax credit made by the Economic Growth and Tax Relief Reconciliation Act of 2001 and the Jobs and Growth Tax Relief Reconciliation Act of 2003.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Talent, Jim", 
+    "state": "MO", 
+    "thomas_id": "01135", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-02-02", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,59 @@
+<bill session="108" type="hc" number="144" updated="2013-07-14T19:03:06-04:00">
+  <state datetime="2004-07-12T14:12:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-07-12T14:12:00-04:00"/>
+  </status>
+  <introduced datetime="2003-04-09"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress that Dinah Washington should be recognized for her achievements as one of the most talented vocalists in American popular music history.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2003-04-09">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2003-05-02">
+      <text>Referred to the Subcommittee on Education Reform.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="2004-07-12T14:06:00-04:00">
+      <text>Mr. Petri moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-07-12T14:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5475-5476" label="consideration"/>
+    </action>
+    <action datetime="2004-07-12T14:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 144.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-07-12T14:12:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5475" label="text"/>
+    </vote>
+    <action datetime="2004-07-12T14:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-07-13">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Education Reform" name="House Education and the Workforce"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Entertainers"/>
+    <term name="Music"/>
+    <term name="Women"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/2004--Passed House without amendment.
+Expresses the sense of Congress that Dinah Washington should be recognized for her versatility, remarkable musical talent, and influence on female vocalists in jazz, blues, rhythm and blues, pop, and gospel.</summary>
+</bill>

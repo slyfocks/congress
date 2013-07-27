@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-14T12:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5869-5870", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5869", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14T13:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Menendez amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt447-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2864-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2864
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment authorizes the Army Corps to perform environmental restoration activities at Liberty State Park in Jersey City, New Jersey, provided a favorable report is issued by the Chief of Engineers.", 
+  "house_number": 2, 
+  "introduced_at": "2005-07-14", 
+  "number": 447, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-160. Amendment provides an authorization for the environmental restoration project in Liberty State Park, New Jersey, contingent on a favorable Chief's report being issued for the project prior to December 31 of this year.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-14T13:03:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

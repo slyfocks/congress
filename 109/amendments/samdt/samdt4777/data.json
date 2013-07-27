@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8674-8675", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8674", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4777 proposed by Senator Stevens for Senator Smith.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4777 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4777-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4777, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To make available from Research, Development, Test and Evaluation, Air Force, up to $4,000,000 for the Transportable Transponder Landing System.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Smith, Gordon H.", 
+    "state": "OR", 
+    "thomas_id": "01549", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-07", 
+      "references": [
+        {
+          "reference": "CR S5608", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5608", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4193 proposed by Senator Sessions for Senator Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-07", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4193 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4193-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4311-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4311
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-07", 
+  "number": 4193, 
+  "proposed_at": "2006-06-07", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-07", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

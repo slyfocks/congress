@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-14", 
+      "references": [
+        {
+          "reference": "CR S3643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3643", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 354 proposed by Senator Cochran for Senator Graham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 354 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt354-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-12", 
+  "number": 354, 
+  "proposed_at": "2005-04-14", 
+  "purpose": "To prohibit the implementation of certain orders and guidance on the functions and duties of the General Counsel and Judge Advocate General of the Air Force.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "thomas_id": "00452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-14", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

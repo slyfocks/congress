@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23", 
+      "references": [
+        {
+          "reference": "CR S7244-7247, S7249", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7244", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 873 proposed by Senator Sununu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 155, 
+      "text": "Amendment SA 873 not agreed to in Senate by Yea-Nay Vote. 21 - 76. Record Vote Number: 155.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt873-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 873, 
+  "proposed_at": "2005-06-23", 
+  "purpose": "To strike the title relating to incentives for innovative technologies.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sununu, John E.", 
+    "state": "NH", 
+    "thomas_id": "01532", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

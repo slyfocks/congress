@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-08-03T13:37:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mr. Barr to the Goodlatte amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-03T13:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Barr amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt385-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt383-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 383
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2031-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2031
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Goodlatte amendment (A001) for description.", 
+  "house_number": 3, 
+  "introduced_at": "1999-08-03", 
+  "number": 385, 
+  "purpose": "An amendment to clarify language dealing with errecting barriers to competition.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Barr, Bob", 
+    "state": "GA", 
+    "thomas_id": "00056", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-08-03T13:38:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

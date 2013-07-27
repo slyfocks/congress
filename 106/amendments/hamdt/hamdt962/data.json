@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-10T16:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5693-5694", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5693", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-10T20:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 373, 
+      "text": "On agreeing to the Coburn amendment (A023) Failed by recorded vote: 182 - 187 (Roll no. 373).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt962-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit the development or approval of any drug intended solely for the chemical inducement of abortion.", 
+  "house_number": 23, 
+  "introduced_at": "2000-07-10", 
+  "number": 962, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to prohibit the development or approval of any drug intended solely for the chemical inducement of abortion.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Coburn, Tom A.", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-10T20:45:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

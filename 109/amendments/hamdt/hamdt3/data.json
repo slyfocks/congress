@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-01-26T11:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H211-212", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H211", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-01-26T12:19:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 10, 
+      "text": "On agreeing to the Crowley amendment (A002) Failed by recorded vote: 189 - 212 (Roll no. 10).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt3-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr54-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 54
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase the maximum number of congressional gold medals that Congress could award from two per calendar year to six per Congress.", 
+  "house_number": 2, 
+  "introduced_at": "2005-01-26", 
+  "number": 3, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-1 to increase the limit of gold medals provided for under the bill from 2 per calendar year to 6 per Congress.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-01-26T12:19:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

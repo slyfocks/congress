@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-13T16:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3828", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3828", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Knollenberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-13T16:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Knollenberg amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1007-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding in the IRS operations support account by $20.7 million.", 
+  "house_number": 1, 
+  "introduced_at": "2006-06-13", 
+  "number": 1007, 
+  "purpose": "An amendment to increase funding for the IRS operations support account by $20,748,000.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Knollenberg, Joe", 
+    "state": "MI", 
+    "thomas_id": "00642", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-13T16:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-10-22T13:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11612-11613", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11612", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Marshall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-10-22T13:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Marshall amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt458-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3585-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3585
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires the Secretary, when carrying out solar technology demonstration projects, to evaluate the potential to establish large photovoltaic facilities that produce at least 100 gigawatts, including an evaluation of the electrical grid, current, voltage, and energy storage requirements associated with large photovoltaic facilities.", 
+  "house_number": 6, 
+  "introduced_at": "2009-10-22", 
+  "number": 458, 
+  "purpose": "An amendment numbered 6 printed in House Report 111-304 to require the Secretary, when carrying out solar technology demonstration projects, to evaluate the potential to establish large photovoltaic facilities that produce at least 100 gigawatts, including an evaluation of the electrical grid, current, voltage, and energy storage requirements associated with large photovoltaic facilities.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Marshall, Jim", 
+    "state": "GA", 
+    "thomas_id": "01718", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-10-22T13:37:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

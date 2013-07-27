@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T17:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1131-1137, H1144", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1131", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A081) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T19:07:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1144", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 89, 
+      "text": "On agreeing to the Holt amendment (A081) Failed by recorded vote: 163 - 265 (Roll no. 89).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt91-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the Consumer Financial Protection Bureau, established by the Dodd-Frank Wall Street Reform and Consumer Protection Act, and decrease funding for the Enforcement division of the Internal Revenue Service.", 
+  "house_number": 81, 
+  "introduced_at": "2011-02-17", 
+  "number": 91, 
+  "purpose": "An amendment numbered 506 printed in the Congressional Record to revise by reducing the amount made available for \"Department of the Treasury, Internal Revenue Service, Enforcement\", and increasing the amounts provided in section 1517(a) for transfer from the Federal Reserve to the Bureau of Consumer Financial Protection for activities authorized to carried out by such Bureau under title X of the Dodd-Frank Wall Street Reform Consumer Protection Act.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-17T19:07:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

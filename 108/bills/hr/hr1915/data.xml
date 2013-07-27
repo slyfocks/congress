@@ -1,0 +1,65 @@
+<bill session="108" type="h" number="1915" updated="2013-07-14T19:01:19-04:00">
+  <state datetime="2003-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2003-05-01"/>
+  </status>
+  <introduced datetime="2003-05-01"/>
+  <titles>
+    <title as="introduced" type="official">To waive the limitation on the use of funds appropriated for the Homeland Security Grant Program.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400022" joined="2003-05-01"/>
+    <cosponsor id="400087" joined="2003-06-11"/>
+    <cosponsor id="400179" joined="2003-09-24"/>
+    <cosponsor id="400243" joined="2003-06-17"/>
+    <cosponsor id="400311" joined="2003-06-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-05-01">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2003-05-01">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2003-05-01">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2003-05-01">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2003-06-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="838"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Administrative remedies"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Emergency management"/>
+    <term name="Equipment and supplies"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Planning"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2003--Introduced.
+Requires the Director of the Office of Domestic Preparedness of the Department of Homeland Security to allow any State to request approval to reallocate funds received pursuant to the State Homeland Security Grant Program among the four specified categories of equipment, training, exercises, and planning. Requires the Director to approve such requests in accordance with the State plan and any other relevant factors as determined by the Secretary of Homeland Security.</summary>
+</bill>

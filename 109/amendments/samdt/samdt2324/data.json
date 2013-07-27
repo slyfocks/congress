@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-27", 
+      "references": [
+        {
+          "reference": "CR S11980-11981", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11981", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2324 proposed by Senator Specter for Senator Allen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2324 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2324-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-26", 
+  "number": 2324, 
+  "proposed_at": "2005-10-27", 
+  "purpose": "To express the Sense of the Senate concerning the treatment of physician costs in the calculation of the Medicaid disproportionate share hospital uncompensated cost limit by the State of Virginia.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Allen, George", 
+    "state": "VA", 
+    "thomas_id": "00013", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-27", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

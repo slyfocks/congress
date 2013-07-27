@@ -1,0 +1,66 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2122-2125, S2132-2133", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 128 proposed by Senator Santorum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 27, 
+      "text": "Amendment SA 128 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 27.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [], 
+      "text": "Previous action on Amendment SA 128 vitiated by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [], 
+      "text": "Proposed amendment SA 128 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt128-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-07", 
+  "number": 128, 
+  "proposed_at": "2005-03-07", 
+  "purpose": "To promote job creation, family time, and small business preservation in the adjustment of the Federal minimum wage.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-03-07", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

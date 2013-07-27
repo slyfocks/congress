@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-16T15:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8241-8242, H8259", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8241", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16T18:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 560, 
+      "text": "On agreeing to the Flake amendment (A008) Failed by recorded vote: 115 - 314 (Roll no. 560).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt348-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3170-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3170
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit $200,000 from being used for the Commercial Driver Training Institute project of Arkansas State University in Newport, Arkansas, and reduce the amount of Section 511 of the bill by the same amount.", 
+  "house_number": 8, 
+  "introduced_at": "2009-07-16", 
+  "number": 348, 
+  "purpose": "An amendment numbered 8 printed in House Report 111-208 to prohibit $200,000 from being used for the Commercial Driver Training Institute project of Arkansas State University in Newport, Arkansas, and reduce the amount of Section 511 of the bill by the same amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-16T18:02:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

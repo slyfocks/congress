@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T19:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6952-6953", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6952", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Jordan (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T13:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6990", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 370, 
+      "text": "On agreeing to the Jordan (OH) amendment (A019) Failed by recorded vote: 147 - 275 (Roll no. 370).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt229-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 19, 
+  "introduced_at": "2009-06-17", 
+  "number": 229, 
+  "purpose": "An amendment numbered 100 printed in the Congressional Record to reduce the appropriation in the bill by $12,511,000,000 across-the board.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Jordan, Jim", 
+    "state": "OH", 
+    "thomas_id": "01868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T13:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

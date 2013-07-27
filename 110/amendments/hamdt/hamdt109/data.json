@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-24T17:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4022-4024", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4022", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mrs. Gillibrand.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-24T18:32:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 255, 
+      "text": "On agreeing to the Gillibrand amendment (A003) Agreed to by recorded vote: 254 - 165 (Roll no. 255).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt109-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr363-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 363
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides for the establishment within the National Science Foundation of a program, to be known as the Undergraduate Scholarships for Science, Technology, Engineering, and Mathematics, or US-STEM, program, for awarding scholarships to undergraduate scholars in science, technology, engineering, and mathematics.", 
+  "house_number": 3, 
+  "introduced_at": "2007-04-24", 
+  "number": 109, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-99 to insert a new section providing for a new undergraduate scholarships program for science, technology, engineering and mathematics and known as US-STEM.", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Gillibrand, Kirsten E.", 
+    "state": "NY", 
+    "thomas_id": "01866", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-04-24T18:32:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

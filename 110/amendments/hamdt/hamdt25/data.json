@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-07T13:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2259-2261, H2262-2263", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2259", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-07T16:34:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 123, 
+      "text": "On agreeing to the Price (GA) amendment (A002) Failed by recorded vote: 166 - 260 (Roll no. 123).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt25-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr569-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 569
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment numbered 1 printed in the Congressional Record to add a new section to the bill requiring offsets.", 
+  "house_number": 2, 
+  "introduced_at": "2007-03-07", 
+  "number": 25, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to add a new section to the bill requiring offsets.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-07T16:34:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

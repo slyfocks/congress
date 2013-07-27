@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-28", 
+      "references": [
+        {
+          "reference": "CR S4453-4463", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4453", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 592 proposed by Senator Bond to Amendment SA 567.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-28", 
+      "references": [], 
+      "text": "Motion to table amendment SA 592 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 113.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt592-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt567-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 567
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-28", 
+  "number": 592, 
+  "proposed_at": "2005-04-28", 
+  "purpose": "To strike the highway stormwater discharge mitigation program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bond, Christopher S.", 
+    "state": "MO", 
+    "thomas_id": "01286", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-04-28", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

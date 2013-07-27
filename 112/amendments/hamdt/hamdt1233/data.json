@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T18:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3529-3530, H3566-3567", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3529", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Moore.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 345, 
+      "text": "On agreeing to the Moore amendment (A002) Failed by recorded vote: 154 - 260 (Roll no. 345).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1233-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funds for the Department of Homeland Security Office of Civil Rights and Liberties by $3 million and to reduce funds for Security, Enforcement, and Investigations Automation Modernization by $4.8 million.", 
+  "house_number": 2, 
+  "introduced_at": "2012-06-06", 
+  "number": 1233, 
+  "purpose": "An amendment to increase funds for Departmental Operations Office of the Secretary and Executive Management by $3 million and reduce funds for Security, Enforcement, and Investigations Automation Modernization by $4,800,000.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "thomas_id": "01811", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T23:05:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

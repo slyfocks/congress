@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-08T13:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2326-2327", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2326", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-08T13:29:00-05:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Sessions amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt31-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr700-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 700
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2007-03-08", 
+  "number": 31, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to insert the year ending before October 1, 2008.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2007-03-08", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

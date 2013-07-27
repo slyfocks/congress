@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-22T13:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2519-2520, H2521-2522", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. Lois Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-22T13:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 128, 
+      "text": "On agreeing to the Capps amendment (A002) Agreed to by recorded vote: 421 - 2 (Roll no. 128).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt44-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment allows funds in the bill to be used for CPR training in schools.", 
+  "house_number": 2, 
+  "introduced_at": "2001-05-22", 
+  "number": 44, 
+  "purpose": "An amendment numbered 2 printed in House Report 107-69 to allow funding under Title IV to be used for CPR training in schools.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-22T13:41:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-30T11:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9085-9086, H9122-9123", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9085", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-30T13:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 664, 
+      "text": "On agreeing to the Flake amendment (A006) Failed by recorded vote: 77 - 347, 10 Present (Roll no. 664).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt397-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3326-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funding for Enhanced Navy Shore Readiness Integration.", 
+  "house_number": 6, 
+  "introduced_at": "2009-07-30", 
+  "number": 397, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 111-233 to prohibit funding for Enhanced Navy Shore Readiness Integration.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-30T13:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

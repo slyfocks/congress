@@ -1,0 +1,73 @@
+<bill session="106" type="h" number="4147" updated="2013-07-14T18:54:44-04:00">
+  <state datetime="2000-10-02T18:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-02T18:38:00-04:00"/>
+  </status>
+  <introduced datetime="2000-03-30"/>
+  <titles>
+    <title as="introduced" type="short">Stop Material Unsuitable for Teens Act</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to increase the age of persons considered to be minors for the purposes of the prohibition on transporting obscene materials to minors.</title>
+  </titles>
+  <sponsor id="400394"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-30">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-04-05">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-05-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-10-02T15:56:00-04:00">
+      <text>Mr. Canady moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-02T15:56:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8578-8580" label="consideration"/>
+    </action>
+    <action datetime="2000-10-02T15:56:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4147.</text>
+    </action>
+    <action datetime="2000-10-02T16:05:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-10-02T18:29:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8589" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-02T18:38:00-04:00" how="roll" result="pass" roll="504" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 504).</text>
+      <reference ref="CR H8579" label="text"/>
+    </vote>
+    <action datetime="2000-10-02T18:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-03">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Age (Law)"/>
+    <term name="Computer crimes"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Internet"/>
+    <term name="Minors"/>
+    <term name="Pornography"/>
+    <term name="Postal crimes"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2000--Introduced.
+Stop Material Unsuitable for Teens Act - Amends the Federal criminal code to increase from 16 to 18 the age of persons considered to be minors for purposes of the prohibition on transferring obscene materials to minors.</summary>
+</bill>

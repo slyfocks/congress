@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-21T12:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3396-3400, H3418-3419", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3396", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-21T15:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 178, 
+      "text": "On agreeing to the Sanders amendment (A003) Failed by recorded vote: 153 - 262 (Roll no. 178).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt101-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2217-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2217
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to increase funding for weatherization programs by $24 million; increase funding for the Payments In Lieu of Taxes program by $12 million; and increase funding for energy conservation programs by $12 million.", 
+  "house_number": 3, 
+  "introduced_at": "2001-06-21", 
+  "number": 101, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to increase funding for weatherization programs by $24 million; to increase the account for Payments In Lieu of Taxes by $12 million; and to increase the account for energy conservation programs by $24 million. Increases would be offset by reductions in fossil energy research.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-21T15:11:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

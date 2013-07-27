@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-20T17:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4773-4777, H4781-4782", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4773", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-20T19:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 286, 
+      "text": "On agreeing to the Velazquez amendment (A013) Failed by recorded vote: 180 - 235 (Roll no. 286).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt333-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds in the bill from being used to implement the Comp Demo program.", 
+  "house_number": 13, 
+  "introduced_at": "2005-06-20", 
+  "number": 333, 
+  "purpose": "An amendment to insert a new section at the end of the bill prohibiting the use of any funds made available by the Act from being used to carry out sections 701 through 722 of the Small Business Competitiveness Demonstration Program Act of 1988 (Public Law 100-656; 15 U.S.C. 644 note).", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "thomas_id": "01184", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-20T19:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

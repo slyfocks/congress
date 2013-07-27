@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-25T16:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8449-8450", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8449", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mrs. Biggert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-25T16:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Biggert amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt654-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3093-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment transfers $6.25 million from the Department of Justice's General Administration account to the Offices of the United States Attorney and the Federal Bureau of Investigation.", 
+  "house_number": 12, 
+  "introduced_at": "2007-07-25", 
+  "number": 654, 
+  "purpose": "An amendment to reduce appropriations for General Administration, and increase appropriations for United States Attorneys and the FBI.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Biggert, Judy", 
+    "state": "IL", 
+    "thomas_id": "01577", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-25T16:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

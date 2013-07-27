@@ -1,0 +1,111 @@
+<bill session="108" type="h" number="3209" updated="2013-07-14T19:02:00-04:00">
+  <state datetime="2004-10-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2004-10-05"/>
+  </status>
+  <introduced datetime="2003-09-30"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Reclamation Project Authorization Act of 1972 to clarify the acreage for which the North Loup division is authorized to provide irrigation water under the Missouri River Basin project.</title>
+  </titles>
+  <sponsor id="400303"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2003-09-30">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2003-10-06">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2003-10-29">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2003-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-10-29">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2003-11-07T13:07:00-05:00">
+      <text>Reported by the Committee on Resources. H. Rept. 108-356.</text>
+    </action>
+    <calendar datetime="2003-11-07T13:07:00-05:00" calendar="Union" number="208">
+      <text>Placed on the Union Calendar, Calendar No. 208.</text>
+    </calendar>
+    <action datetime="2003-11-17T15:42:00-05:00">
+      <text>Mr. Osborne moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-11-17T15:43:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11180" label="consideration"/>
+    </action>
+    <action datetime="2003-11-17T15:43:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3209.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-17T15:45:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11180" label="text"/>
+    </vote>
+    <action datetime="2003-11-17T15:45:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2004-05-19">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2004-06-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2004-06-25">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 108-289.</text>
+    </action>
+    <calendar datetime="2004-06-25" calendar="Senate Legislative" under="General Orders" number="604">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 604.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2004-09-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9332" label="consideration"/>
+    </vote>
+    <topresident datetime="2004-09-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2004-09-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2004-09-24">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2004-10-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2004-10-05" type="public" number="108-318">
+      <text>Became Public Law No: 108-318.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="2304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Irrigation"/>
+    <term name="Missouri River development"/>
+    <term name="Nebraska"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2004--Public Law.
+Amends the Reclamation Project Authorization Act of 1972 to provide that the acreage for which the North Loup Division of the Pick-Sloan Missouri Basin Program, Nebraska, is authorized to provide irrigation water may be an approximation.</summary>
+</bill>

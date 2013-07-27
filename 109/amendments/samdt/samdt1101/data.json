@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-01", 
+      "references": [
+        {
+          "reference": "CR S7936", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1101 proposed by Senator McConnell for Senator Stevens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-01", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1101 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1101-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s50-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 50
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-01", 
+  "number": 1101, 
+  "proposed_at": "2005-07-01", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stevens, Ted", 
+    "state": "AK", 
+    "thomas_id": "01440", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-01", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

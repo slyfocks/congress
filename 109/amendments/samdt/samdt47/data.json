@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-08", 
+      "references": [
+        {
+          "reference": "CR S2203-2215", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2203", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 47 proposed by Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 28, 
+      "text": "Amendment SA 47 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 28.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt47-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-03", 
+  "number": 47, 
+  "proposed_at": "2005-03-08", 
+  "purpose": "To prohibit the discharge, in bankruptcy, of a debt resulting from the debtor's unlawful interference with the provision of lawful goods or services or damage to property used to provide lawful goods or services.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-08", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

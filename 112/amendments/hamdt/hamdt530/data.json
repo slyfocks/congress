@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T21:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4655-4656", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4655", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Ms. Lee (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T14:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4697-4698", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 506, 
+      "text": "On agreeing to the Lee (CA) amendment (A025) Failed by recorded vote: 114 - 314 (Roll no. 506).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt530-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to redirect $5 billion in funds from the Overseas Contingency Operations Transfer Fund to the spending reduction account.", 
+  "house_number": 25, 
+  "introduced_at": "2011-07-06", 
+  "number": 530, 
+  "purpose": "An amendment to strike funding for Overseas Contingency Operations Transfer Fund and apply it to the Spending Reduction Account.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T14:07:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

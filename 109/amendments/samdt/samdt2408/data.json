@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12325", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12325", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2408 proposed by Senator Cornyn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 2408 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2408-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-03", 
+  "number": 2408, 
+  "proposed_at": "2005-11-03", 
+  "purpose": "To eliminate the converter box subsidy program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

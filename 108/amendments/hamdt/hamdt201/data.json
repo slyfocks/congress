@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-08T12:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6299-6300", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6299", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-08T12:36:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the DeFazio amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt201-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2658-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2003-07-08", 
+  "number": 201, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2003-07-08", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

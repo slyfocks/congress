@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-06T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2368", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2368", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. McNerney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-06T16:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McNerney amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt242-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr910-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 910
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment clarifies that voluntary programs addressing climate change classify as exceptions to the bill's prohibitions.", 
+  "house_number": 3, 
+  "introduced_at": "2011-04-06", 
+  "number": 242, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-54 to clarify that voluntary programs addressing climate change classify as exceptions to the bill's prohibitions.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "thomas_id": "01832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-04-06T16:21:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

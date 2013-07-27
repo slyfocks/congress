@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-28T16:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3232-3233", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3232", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Buchanan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28T16:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Buchanan amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt80-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1538-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1538
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires the Secretary of Defense to conduct a study on the feasibility of developing a joint soldier tracking system for recovering service members.", 
+  "house_number": 11, 
+  "introduced_at": "2007-03-28", 
+  "number": 80, 
+  "purpose": "An amendment numbered 11 printed in House Report 110-78 to direct the Secretary of Defense to submit to Congress a report on the feasibility of a Soldier Patient Tracking System so any patient can be located in the medical holdover (MHO) process.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "thomas_id": "01840", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-28T16:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

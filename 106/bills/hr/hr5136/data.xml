@@ -1,0 +1,84 @@
+<bill session="106" type="h" number="5136" updated="2013-07-14T18:55:07-04:00">
+  <state datetime="2000-10-10T16:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-10T16:17:00-04:00"/>
+  </status>
+  <introduced datetime="2000-09-07"/>
+  <titles>
+    <title as="introduced" type="official">To make permanent the authority of the Marshal of the Supreme Court and the Supreme Court Police to provide security beyond the Supreme Court building and grounds.</title>
+  </titles>
+  <sponsor id="400596"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2000-09-18"/>
+    <cosponsor id="400192" joined="2000-09-20"/>
+    <cosponsor id="400364" joined="2000-09-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-09-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-09-08">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-09-14">
+      <text>Subcommittee on Crime Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-09-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2000-10-04T12:15:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 106-931.</text>
+    </action>
+    <calendar datetime="2000-10-04T12:15:00-04:00" calendar="Union" number="561">
+      <text>Placed on the Union Calendar, Calendar No. 561.</text>
+    </calendar>
+    <action datetime="2000-10-10T16:11:00-04:00">
+      <text>Mr. Canady moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-10T16:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9540-9541" label="consideration"/>
+    </action>
+    <action datetime="2000-10-10T16:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5136.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-10T16:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9540" label="text"/>
+    </vote>
+    <action datetime="2000-10-10T16:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-11">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Government operations and politics"/>
+    <term name="Judicial officers"/>
+    <term name="Police"/>
+    <term name="Protection of officials"/>
+    <term name="Supreme Court"/>
+    <term name="Supreme Court justices"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/2000--Introduced.
+Makes permanent (currently terminates as of December 29, 2000) the authority of the Marshal of the Supreme Court and the Supreme Court Police to provide security to Supreme Court Members and Court officers and employees beyond the Court building and grounds.</summary>
+</bill>

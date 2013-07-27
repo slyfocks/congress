@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-10T16:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H971-972", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H971", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Lampson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-10T16:25:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Lampson amendment (A007) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt475-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr339-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 339
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2004-03-10", 
+  "number": 475, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to provide that the bill would not apply civil actions brought by, or on behalf of, a child or person injured at or before the age of 8, against a seller that is part of a chain with at least 20 outlets, that markets food products to minors 8 years of age or under.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lampson, Nick", 
+    "state": "TX", 
+    "thomas_id": "01500", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-03-10T16:25:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-08T12:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8283-8284, H8291-8292", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8283", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. Christensen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-08T13:54:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 907, 
+      "text": "On agreeing to the Christensen amendment (A002) Failed by recorded vote: 159 - 250 (Roll no. 907).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt902-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1633-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1633
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow the EPA the authority under the Clean Air Act to step in and take action to reduce dangerous particle pollution if state, local, or tribal laws are not sufficient to protect public health.", 
+  "house_number": 2, 
+  "introduced_at": "2011-12-08", 
+  "number": 902, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-317 to allow the EPA the authority under the Clean Air Act to step in and take action to reduce dangerous particle pollution if state, local, or tribal laws are not sufficient to protect public health.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Christensen, Donna M.", 
+    "state": "VI", 
+    "thomas_id": "01474", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-08T13:54:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

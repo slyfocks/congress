@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-01T13:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H12423-12424", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12423", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Heller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-01T13:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Heller amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt879-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2262-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2262
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment redirects 50 percent of the funds deposited into the Hardrock Reclamation Fund to states in proportion to the royalty funds generated there.", 
+  "house_number": 4, 
+  "introduced_at": "2007-11-01", 
+  "number": 879, 
+  "purpose": "An amendment numbered 4 printed in House Report 110-416 to redirect 50 percent of the funds deposited into the Hardrock Reclamation Fund to states in proportion to the royalty funds generated there.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-11-01T13:30:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

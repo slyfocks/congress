@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-18T12:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1265-1267, H1271", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1265", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-18T13:37:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 66, 
+      "text": "On agreeing to the Weiner amendment (A004) Failed by recorded vote: 167 - 255 (Roll no. 66).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt484-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1375-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1375
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit commercial banks from charging a fee to the depositor of a check that is returned for insufficient funds.", 
+  "house_number": 4, 
+  "introduced_at": "2004-03-18", 
+  "number": 484, 
+  "purpose": "An amendment numbered 4 printed in House Report 108-439 to prohibit commercial banks from charging a fee to the depositor of a check that is returned for insufficient funds.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-03-18T13:37:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

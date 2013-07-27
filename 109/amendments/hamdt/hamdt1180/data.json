@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-12T14:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5089-5090", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5089", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Oxley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-12T14:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Oxley amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1180-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2990-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2990
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Manager's amendment consists of the text of the amendment contained in House Report 109-550 and printed on page H5089 in the Congressional Record for July 12, 2006.", 
+  "house_number": 1, 
+  "introduced_at": "2006-07-12", 
+  "number": 1180, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-550 to clarify that there is no private right of action for rating agencies registered as `Nationally Recognized Statistical Rating Organizations' or `NRSROs' under the Securities Exchange Act of 1934; allot to the Securities and Exchange Commission (SEC) an additional six months for a total of one year to review and, if necessary, revise its regulations that use the term `NRSRO.'; and make a number of technical amendments clarifying definitions, findings, and disclosure requirements.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Oxley, Michael G.", 
+    "state": "OH", 
+    "thomas_id": "00885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-12T14:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

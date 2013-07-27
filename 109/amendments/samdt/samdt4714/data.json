@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-27", 
+      "references": [
+        {
+          "reference": "CR S8334", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8334", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4714 proposed by Senator Frist to Amendment SA 4713.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-31", 
+      "references": [
+        {
+          "reference": "CR S8444", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-01", 
+      "references": [
+        {
+          "reference": "CR S8482", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-01", 
+      "references": [], 
+      "text": "Proposed amendment SA 4714 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt4714-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt4713-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 4713
+  }, 
+  "amends_bill": {
+    "bill_id": "s3711-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3711
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-27", 
+  "number": 4714, 
+  "proposed_at": "2006-07-27", 
+  "purpose": "To amend the effective date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-08-01", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

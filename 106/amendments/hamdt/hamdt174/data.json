@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-15T19:18:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A007) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-15T20:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Hyde amendment (A007) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt174-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1000-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1000
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete section 201 which provided for a repeal of slot restrictions at O'Hare, LaGuardia, and Kennedy airports and allow for slot increases at Reagan National airport.", 
+  "house_number": 7, 
+  "introduced_at": "1999-06-15", 
+  "number": 174, 
+  "purpose": "An amendment no. 7 and printed in H. Rept. 106-185 to strike section 201 that repeals the slot restrictions at O'Hare, LaGuardia, and Kennedy airports and allows for slot increases at Reagan National airport.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-06-15T20:01:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

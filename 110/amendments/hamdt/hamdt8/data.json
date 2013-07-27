@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-08T12:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1365-1368", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1365", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Roskam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T12:57:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Roskam amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt8-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr547-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to make authorization of appropriations subject to pay as you go provisions.", 
+  "house_number": 7, 
+  "introduced_at": "2007-02-08", 
+  "number": 8, 
+  "purpose": "An amendment to amend section 6 of the bill to make authorization of appropriations subject to pay as you go provisions.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Roskam, Peter J.", 
+    "state": "IL", 
+    "thomas_id": "01848", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-08T12:57:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

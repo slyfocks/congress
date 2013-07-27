@@ -1,0 +1,45 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-27T19:23:00-04:00", 
+      "references": [], 
+      "text": "Amendment reported by the House Committee on Homeland Security.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27T19:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Homeland Security amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt69-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1401-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2007-03-27", 
+  "number": 69, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hshm00", 
+    "name": "House Homeland Security", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-27T19:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

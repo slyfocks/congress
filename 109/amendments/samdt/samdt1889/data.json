@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11077-11078", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11078", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1889 proposed by Senator Stevens for Senator Santorum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11078", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1889 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1889-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-29", 
+  "number": 1889, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To provide that, of the amount made available for research, development, test and evaluation for the Army, up to $2,000,000 may be made available for medical advanced technology for applied emergency hypothermia for advanced combat casualty life support.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

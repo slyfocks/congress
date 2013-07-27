@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-12T12:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3361-3365, H3374-3375", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3361", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Mack.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-12T14:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 122, 
+      "text": "On agreeing to the Mack amendment (A002) Failed by recorded vote: 140 - 284 (Roll no. 122).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt29-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1262-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1262
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to remove all Davis-Bacon prevailing wage provisions from the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2009-03-12", 
+  "number": 29, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-36 to remove all Davis-Bacon prevailing wage provisions from the bill.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Mack, Connie", 
+    "state": "FL", 
+    "thomas_id": "01776", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-03-12T14:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

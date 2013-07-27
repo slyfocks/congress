@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-15T10:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4501-4508", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Nethercutt to the Dicks amendment (A012).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-15T12:28:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "  CR H4501", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 279, 
+      "text": "On agreeing to the Nethercutt amendment (A018) Failed by recorded vote: 206 - 221 (Roll no. 279).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt813-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt807-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 807
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4578-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4578
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Dicks amendment (A012) sought to strike reference to activities related to the Interior Columbia Basin Ecosystem Management Plan.", 
+  "house_number": 18, 
+  "introduced_at": "2000-06-15", 
+  "number": 813, 
+  "purpose": "An amendment to keep in place the fund limitation proposed to be loosened by the Dicks amendment which would subsequently require the Forest Service and BLM to complete a regulatory flexibility analysis as required by law for the Interior Columbia Basin Project.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Nethercutt, George R., Jr.", 
+    "state": "WA", 
+    "thomas_id": "00860", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-15T12:28:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

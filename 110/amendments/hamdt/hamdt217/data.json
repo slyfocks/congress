@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T22:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5451-5455", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5451-5452", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-22T13:38:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5563-5564", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 388, 
+      "text": "On agreeing to the Sessions amendment (A015) Failed by recorded vote: 183 - 240 (Roll no. 388).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt217-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to require the Director of the Federal Housing Finance Agency to provide information to mortgage originators about any added mortgage costs to consumers associated with the affordable housing fund.", 
+  "house_number": 15, 
+  "introduced_at": "2007-05-17", 
+  "number": 217, 
+  "purpose": "An amendment numbered 10 printed in the Congressional Record to requrie the Director of the new GSE Regulator to provide information to mortgage originators about any added mortgage costs to consumers associated with the new Housing Fund; in turn, originators would have to furnish this written information to homebuyers at or before closing to qualify their mortgages for purchase, service, holding, lending on the security of or selling by the GSE's. The amendment provides that all of the costs associated with the new regulatory requirement created would be paid for with funds from the new Housing Fund.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-22T13:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-21", 
+      "references": [
+        {
+          "reference": "CR S10272-10273", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10272", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1741 proposed by Senator Kohl for Senator DeWine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1741 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1741-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-20", 
+  "number": 1741, 
+  "proposed_at": "2005-09-21", 
+  "purpose": "To pledge continued support for international hunger relief efforts and express the sense of the Senate that the United States Government should use resources and diplomatic leverage to secure food aid for countries that are in need of further assistance to prevent acute and chronic hunger.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeWine, Mike", 
+    "state": "OH", 
+    "thomas_id": "00293", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

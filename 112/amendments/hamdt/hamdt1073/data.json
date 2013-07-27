@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-09T15:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2502", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2502", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Mr. Quayle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T16:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Quayle amendment (A040) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1073-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds to implement, administer, or enforce the Equal Employment Opportunity Enforcement Guidance Number 915.002 concerning \"Consideration of arrest and conviction records in employment decisions.\".", 
+  "house_number": 40, 
+  "introduced_at": "2012-05-09", 
+  "number": 1073, 
+  "purpose": "An amendment to prohibit the use of funds to implement, administer, or enforce the EEOC Enforcement Guidance Number 915.002 concerning \"Consideration of arrest and conviction records in employment decisions.\".", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Quayle, Benjamin", 
+    "state": "AZ", 
+    "thomas_id": "01993", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-09T16:06:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

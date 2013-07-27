@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T12:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1226-1227, H1227-1231, H1241-1242", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1226", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A101) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T14:46:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1241-1242", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 103, 
+      "text": "On agreeing to the Blackburn amendment (A101) Failed by recorded vote: 147 - 281 (Roll no. 103).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt111-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce spending by 5.5% in 8 non-security spending subsections of the bill and reduce Legislative Branch appropriations by 11%.", 
+  "house_number": 101, 
+  "introduced_at": "2011-02-18", 
+  "number": 111, 
+  "purpose": "An amendment numbered 104 printed in the Congressional Record to reduce spending by 5.5% in 8 non-securiy spending subsections of the bill and reduce Legislative Branch appropriations by 11%.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-18T14:46:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T12:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4694-4695", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4694", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T12:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown (OH) amendment (A019) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1116-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the International Trade Administration's Office of China Compliance by $3 million.", 
+  "house_number": 19, 
+  "introduced_at": "2006-06-28", 
+  "number": 1116, 
+  "purpose": "An amendment to increase funding by an additional $3 million to monitor imports from China.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-28T12:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

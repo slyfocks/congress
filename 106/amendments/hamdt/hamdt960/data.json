@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-10T16:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5688-5689", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5689", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Boyd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-10T16:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boyd amendment (A021) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt960-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment is technical in nature.", 
+  "house_number": 21, 
+  "introduced_at": "2000-07-10", 
+  "number": 960, 
+  "purpose": "An amendment numbered 56 as printed in the Congressional Record to make a technical correction to section 736 of the bill.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Boyd, Allen", 
+    "state": "FL", 
+    "thomas_id": "01467", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-10T16:31:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

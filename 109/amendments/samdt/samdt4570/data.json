@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7470-7472", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4570 proposed by Senator Gregg for Senator Lott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7471", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4570 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-07-17", 
+      "references": [
+        {
+          "reference": "CR S7650", 
+          "type": "text as further modified"
+        }
+      ], 
+      "text": "Amendment SA 4570, previously agreed to, was further modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4570-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-11", 
+  "number": 4570, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To require the Secretary of Homeland Security Inspector General to investigate the conduct of insurers in settling certain claims resulting from Hurricane Katrina.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lott, Trent", 
+    "state": "MS", 
+    "thomas_id": "00707", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

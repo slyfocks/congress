@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-25T15:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5443-5445, H5466-5467", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5443", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Moran.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-25T18:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 632, 
+      "text": "On agreeing to the Moran amendment (A002) Failed by recorded vote: 175 - 237 (Roll no. 632).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt714-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the funds for the BLM's oil and gas and grazing management programs by $18,663,000 and increase the funding for the Indian Sanitation Facilities Program by a similar amount.", 
+  "house_number": 2, 
+  "introduced_at": "2011-07-25", 
+  "number": 714, 
+  "purpose": "An amendment to reduce the funds in the Management of Lands and Resources account by $18,663,000 and increase the Indian Health Facilities account by $18,663,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Moran, James P.", 
+    "state": "VA", 
+    "thomas_id": "00832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-25T18:36:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

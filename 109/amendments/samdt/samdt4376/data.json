@@ -1,0 +1,84 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20", 
+      "references": [
+        {
+          "reference": "CR S6140", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4376 proposed by Senator Enzi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "references": [
+        {
+          "reference": "CR S6191, S6203-6204", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 180, 
+      "text": "Amendment SA 4376 not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 180.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "references": [
+        {
+          "reference": "Order 426", 
+          "type": null
+        }, 
+        {
+          "reference": "printed in Senate Legislative Calendar of June 21, 2006 [pdf]", 
+          "type": null
+        }, 
+        {
+          "reference": "page 2", 
+          "type": null
+        }
+      ], 
+      "text": "Proposed amendment SA 4376, pursuant to the order of June 20, 2006, withdrawn in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4376-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-20", 
+  "number": 4376, 
+  "proposed_at": "2006-06-20", 
+  "purpose": "To promote job creation and small business preservation in the adjustment of the Federal minimum wage.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Enzi, Michael B.", 
+    "state": "WY", 
+    "thomas_id": "01542", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-21", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

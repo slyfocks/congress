@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-09T17:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6965-6966", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6965", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Mr. John.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-09T17:54:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the John amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt748-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5006-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5006
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 33, 
+  "introduced_at": "2004-09-09", 
+  "number": 748, 
+  "purpose": "An amendment to insert a new section on page 105, after line 16, regarding mosquito control.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "John, Christopher", 
+    "state": "LA", 
+    "thomas_id": "01495", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2004-09-09", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

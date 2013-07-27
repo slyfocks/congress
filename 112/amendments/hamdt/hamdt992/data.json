@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-27T16:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1619-1620, H1624-1625", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1619", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-27T17:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 134, 
+      "text": "On agreeing to the Crowley amendment (A001) Failed by recorded vote: 196 - 219 (Roll no. 134).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt992-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3309-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to provide for, in the event that the FCC creates or amends a rule relating to baby monitors, the FCC to require the packaging of a new baby monitor to display a warning label so that families are informed that video and sounds captured by an analog baby monitor may be easily viewed or heard by potential intruders outside a consumer's home.", 
+  "house_number": 1, 
+  "introduced_at": "2012-03-27", 
+  "number": 992, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-422 to require, in the event that the FCC creates or amends a rule relating to baby monitors, the FCC to require the packaging of a new baby monitor to display a warning label so that families are informed that video and sounds captured by an analog baby monitor may be easily viewed or heard by potential intruders outside a consumer's home.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-27T17:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

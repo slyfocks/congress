@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T20:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1288", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1288", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A131) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T20:03:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Weiner amendment (A131) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt141-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 131, 
+  "introduced_at": "2011-02-18", 
+  "number": 141, 
+  "purpose": "An amendment numbered 101 printed in the Congressional Record to prohibit the use of funds in H.R. 1 for non-recourse loans for mohair.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-18T20:03:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

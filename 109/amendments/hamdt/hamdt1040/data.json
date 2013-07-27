@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-14T12:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3929, H3940-3941", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3929", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14T14:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 279, 
+      "text": "On agreeing to the Flake amendment (A034) Failed by recorded vote: 58 - 368 (Roll no. 279).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1040-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 34, 
+  "introduced_at": "2006-06-14", 
+  "number": 1040, 
+  "purpose": "An amendment to prohibit use of funds in the bill for a multipurpose facility in Yucaipa, California.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-14T14:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

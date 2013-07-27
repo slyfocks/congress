@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T12:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1222-1223", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1222", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A098) offered by Mr. Kind.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T14:39:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1240-1241", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 101, 
+      "text": "On agreeing to the Kind amendment (A098) Failed by recorded vote: 183 - 246 (Roll no. 101).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt108-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit the use of funds in H.R. 1 to provide payments (or to pay the salaries and expenses of personnel to provide payments) to the Brazil Cotton Institute.", 
+  "house_number": 98, 
+  "introduced_at": "2011-02-18", 
+  "number": 108, 
+  "purpose": "An amendment numbered 89 printed in the Congressional Record to prohibit the use of funds in H.R. 1 to provide payments (or to pay the salaries and expenses of personnel to provide payments) to the Brazil Cotton Institute.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-18T14:39:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

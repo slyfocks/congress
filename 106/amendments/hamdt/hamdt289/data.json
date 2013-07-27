@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-07-15T19:25:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-15T19:25:00-04:00", 
+      "references": [], 
+      "text": "Mr. Kolbe raised a point of order against the Smith (NJ) amendment (A005). Mr. Kolbe stated that the amendment constitutes legislation on an appropriations bill. Point of order overruled by the Chair.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-15T20:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A005) as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt289-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2490-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2490
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment originally sought to exempt certain health plans from a requirement that Federal employee health plans include contraceptive coverage to the same extent as prescription drug coverage. It would have allowed a carrier not to provide the coverage if the carrier for the plan objects to such coverage on the basis of religious beliefs or moral convictions. \\   As amended by the Lowey amendment (A006) the words \"or moral convictions\" were stricken from the amendment.", 
+  "house_number": 5, 
+  "introduced_at": "1999-07-15", 
+  "number": 289, 
+  "purpose": "An amendment to specify that in section 635, relating to contraceptive coverage, none of the provisions will apply to any existing or future plan, if the carrier for the plan objects to such coverage on the basis of religious beliefs or moral convictions.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-07-15T20:58:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

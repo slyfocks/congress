@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-07-19T19:00:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A004) offered by Mr. Campbell to the Smith (NJ) amendment (A003).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-20T11:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 312, 
+      "text": "On agreeing to the Campbell amendment (A004) Agreed to by recorded vote: 221 - 198 (Roll no. 312).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt304-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt303-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 303
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2415-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2415
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Smith (NJ) amendment (A003) for description.", 
+  "house_number": 4, 
+  "introduced_at": "1999-07-19", 
+  "number": 304, 
+  "purpose": "Amendment no. 3 printed in Part A of H. Rept. 106-235 to prohibit any funding provided to the United Nations Population Fund to be used for abortion or for a country program in China and further reduces, dollar for dollar, the United States contribution for any U.N. funding for a Chinese government population control program.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Campbell, Tom", 
+    "state": "CA", 
+    "thomas_id": "00170", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-07-20T11:48:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

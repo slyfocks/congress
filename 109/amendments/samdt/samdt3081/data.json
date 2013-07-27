@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2232-2233, S2291", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2232", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3081 proposed by Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2291", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 3081 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt3081-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3081, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To fully fund the Payment in Lieu of Taxes (PILT) program.  Adds $152 million to Function 800 (General Government) for PILT. Paid for by closing $152 million in corporate tax loopholes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

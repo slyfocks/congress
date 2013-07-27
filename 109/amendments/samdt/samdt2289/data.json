@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11881", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11881", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2289 proposed by Senator Dayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [
+        {
+          "reference": "CR S11953, S11990", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11990", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2289 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2289-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-26", 
+  "number": 2289, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To increase funding for disabled voter access services under the Help America Vote Act of 2002.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dayton, Mark", 
+    "state": "MN", 
+    "thomas_id": "01629", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-27", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

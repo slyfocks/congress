@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S7056-7061", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 933 proposed by Senator Frist for Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7059", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 933 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt933-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 933, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To provide a manager's amendment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

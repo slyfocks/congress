@@ -1,0 +1,104 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21", 
+      "references": [
+        {
+          "reference": "CR S8602-8607", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8602-8603", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1342 proposed by Senator Frist.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-22", 
+      "references": [
+        {
+          "reference": "CR S8717, S8764-8765", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8764-8765", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-25", 
+      "references": [
+        {
+          "reference": "CR S8772, S8806-8807", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8772", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [
+        {
+          "reference": "CR S8897, S8905-8907", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S8905-8907", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 204, 
+      "text": "Amendment SA 1342 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 204.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1342-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-21", 
+  "number": 1342, 
+  "proposed_at": "2005-07-21", 
+  "purpose": "To support certain youth organizations, including the Boy Scouts of America and Girl Scouts of America, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-26", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

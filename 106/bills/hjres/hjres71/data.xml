@@ -1,0 +1,78 @@
+<bill session="106" type="hj" number="71" updated="2013-07-14T18:55:17-04:00">
+  <state datetime="1999-10-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1999-10-21"/>
+  </status>
+  <introduced datetime="1999-10-18"/>
+  <titles>
+    <title type="popular">Continuing Appropriation FY2000 (Second)</title>
+    <title as="introduced" type="official">Making further continuing appropriations for the fiscal year 2000, and for other purposes.</title>
+  </titles>
+  <sponsor id="400439"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-18">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1999-10-18T20:56:00-04:00">
+      <text>Rules Committee Resolution H. Res. 334 Reported to House. Rule provides for consideration of H.J. Res. 71 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="1999-10-19T11:52:00-04:00">
+      <text>Rule H. Res. 334 passed House.</text>
+    </action>
+    <action datetime="1999-10-19T11:52:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 334.</text>
+      <reference ref="CR H10196-10198" label="consideration"/>
+    </action>
+    <action datetime="1999-10-19T11:52:00-04:00">
+      <text>Rule provides for consideration of H.J. Res. 71 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="1999-10-19T11:52:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 71.</text>
+    </action>
+    <action datetime="1999-10-19T12:07:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-10-19T12:42:00-04:00" how="roll" result="pass" roll="510" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 421 - 2 (Roll no. 510).</text>
+      <reference ref="CR H10196" label="text"/>
+    </vote>
+    <action datetime="1999-10-19T12:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1999-10-19" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+      <reference ref="CR S12803" label="consideration"/>
+    </vote>
+    <action datetime="1999-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1999-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1999-10-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1999-10-21">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1999-10-21" type="public" number="106-75">
+      <text>Became Public Law No: 106-75.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="106" type="hr" number="334"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Congress"/>
+    <term name="Continuing resolutions"/>
+  </subjects>
+  <amendments/>
+  <summary>10/18/1999--Introduced.
+Extends the law making continuing appropriations for FY 2000 through October 29, 1999. Provides that funds shall be available and obligations for mandatory payments due on or about November 1, 1999, may continue to be made.</summary>
+</bill>

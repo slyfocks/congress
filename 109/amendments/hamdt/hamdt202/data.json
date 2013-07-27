@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-24T19:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3870-3871, H3875-3876", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3870", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Jones (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-24T20:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 208, 
+      "text": "On agreeing to the Jones (NC) amendment (A009) Failed by recorded vote: 152 - 275 (Roll no. 208).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt202-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases the amount available to the Corps of Engineers by $20,000,000.", 
+  "house_number": 9, 
+  "introduced_at": "2005-05-24", 
+  "number": 202, 
+  "purpose": "An amendment to add a new section to the bill increasing funds in the bill for CORPS OF ENGINEERS--CIVIL--OPERATION AND MAINTENANCE by $20 million. The increase would be offset by a similar reduction in funds from the DEPARTMENT OF ENERGY--DEPARTMENTAL ADMINISTRATION account.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-24T20:49:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

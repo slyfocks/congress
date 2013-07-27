@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-16T00:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 2/15/2011 H904", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 2/15/2011 H904", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Latta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-16T14:33:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H965-966", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 58, 
+      "text": "On agreeing to the Latta amendment (A026) Failed by recorded vote: 137 - 293 (Roll no. 58).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt36-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the account for the Office of Energy Efficiency and Renewable Energy by $70 million and to apply the amount to the spending reduction account.", 
+  "house_number": 26, 
+  "introduced_at": "2011-02-16", 
+  "number": 36, 
+  "purpose": "An amendment numbered 259 printed in the Congressional Record to reduce Energy Efficiency and Renewable Energy by $70 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Latta, Robert E.", 
+    "state": "OH", 
+    "thomas_id": "01885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-16T14:33:00-05:00", 
+  "updated_at": "2013-07-17T08:17:15-04:00"
+}

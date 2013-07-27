@@ -1,0 +1,84 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-06", 
+      "references": [
+        {
+          "reference": "CR S11185-11186, S11186, S11187-11188, S11189-11191", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11186", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1896 proposed by Senator Stevens for Senator Dayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 1896.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "references": [], 
+      "text": "Motion to waive the Budget Act with respect to amendment SA 1896 made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11186-11187", 
+          "type": "text as modified"
+        }, 
+        {
+          "reference": "CR S11189-11190", 
+          "type": "text as further modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1896 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "references": [], 
+      "text": "The point of order and subsequent motion to waive were rendered moot when the Amendment SA 1896 was agreed to.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1896-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-29", 
+  "number": 1896, 
+  "proposed_at": "2005-10-06", 
+  "purpose": "To make available up to $60,000,000 for Operation and Maintenance, Defense-wide, for certain childcare services and family assistance centers for members of the Armed Forces and their families, and up to $40,000,000 for the purpose of National Guard counterdrug support activities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dayton, Mark", 
+    "state": "MN", 
+    "thomas_id": "01629", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-06", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-10T18:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2861-2865", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H2880-2881", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Regula.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-10T21:27:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2861", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 160, 
+      "text": "On agreeing to the Regula amendment (A002) Failed by recorded vote: 109 - 317 (Roll no. 160).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt683-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit funding to a coastal state if there is a Federal moratorium on offshore leasing off the coast of that state.", 
+  "house_number": 2, 
+  "introduced_at": "2000-05-10", 
+  "number": 683, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-612 to allow those states which currently allow offshore drilling to receive the majority of the funding under Title I of the bill.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Regula, Ralph", 
+    "state": "OH", 
+    "thomas_id": "00951", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-10T21:27:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

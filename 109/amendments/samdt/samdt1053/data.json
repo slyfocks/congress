@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7420-7421", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7420-7421", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1053 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7478, S7478-7480, S7497", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "how": "Voice", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1053 agreed to in Senate by Voice.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1053-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1053, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To provide funds for the Memorial to Martin Luther King, Jr.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-28", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

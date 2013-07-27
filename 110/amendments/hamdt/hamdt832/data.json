@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-10-03T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11195-11196", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11195", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-03T13:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Davis, Tom amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt832-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr928-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 928
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment revises section 3 (\"direct submission of budget requests to Congress\") by striking language authorizing all IGs to independently submit their office's budget requests to Congress, separate and apart from the President's budget submission, and inserting language requiring IGs to notify Congress only if the budget request submitted by the agency would \"substantially inhibit the Inspector General from performing the duties of the office.\".", 
+  "house_number": 2, 
+  "introduced_at": "2007-10-03", 
+  "number": 832, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-358 to revise section 3 (\"direct submission of budget requests to Congress\") by striking language authorizing all IGs to independently submit their office's budget requests to Congress, separate and apart from the President's budget submission, and inserting language requiring IGs to notify Congress only if the budget request submitted by the agency would \"substantially inhibit the Inspector General from performing the duties of the office.\".", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-10-03T13:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

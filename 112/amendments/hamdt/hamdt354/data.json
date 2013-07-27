@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T17:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3846-3847, H3854", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3846", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Poe (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T18:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 387, 
+      "text": "On agreeing to the Poe (TX) amendment (A006) Agreed to by recorded vote: 327 - 93 (Roll no. 387).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt354-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases funding for border security fencing and infrastructure by $10 million offset by a reduction in funding for the Office of the Under Secretary for Management by a similar amount.", 
+  "house_number": 6, 
+  "introduced_at": "2011-06-01", 
+  "number": 354, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to increase funding for border security fencing and infrastructure by $10 million. The increase would be offset by reducing funding for the Office of the Under Secretary for Management by the same amount.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-01T18:50:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

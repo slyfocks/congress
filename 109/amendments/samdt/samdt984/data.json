@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S7056-7061", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7060", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 984 proposed by Senator Frist for Senator Cornyn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 984 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt984-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 984, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To require the Secretary to establish a program of research, development, demonstration, and commercial application to maximize the productive capacity of marginal wells and reservoirs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T23:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3904", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3904", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A046) offered by Mr. Amash.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T17:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3955-3956", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 399, 
+      "text": "On agreeing to the Amash amendment (A046) Failed by recorded vote: 127 - 295 (Roll no. 399).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt394-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit the use of funds to purchase new advanced imaging technology machines.", 
+  "house_number": 46, 
+  "introduced_at": "2011-06-01", 
+  "number": 394, 
+  "purpose": "An amendment to prohibit the use of funds to purchase new advanced imaging technology machines.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Amash, Justin", 
+    "state": "MI", 
+    "thomas_id": "02029", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-02T17:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

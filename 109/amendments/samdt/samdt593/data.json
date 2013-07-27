@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-28", 
+      "references": [
+        {
+          "reference": "CR S4465-4468, S4475", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4465", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 593 proposed by Senator Thune to Amendment SA 567.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-28", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 593 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt593-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt567-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 567
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-28", 
+  "number": 593, 
+  "proposed_at": "2005-04-28", 
+  "purpose": "To retain current levels of State authority over matters relating to preservation, historic, scenic natural environment, and community values.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-28", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

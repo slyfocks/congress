@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T17:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6601-6602, H6611-6612", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6601", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Welch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 757, 
+      "text": "On agreeing to the Welch amendment (A011) Failed by recorded vote: 174 - 249 (Roll no. 757).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt812-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 11, 
+  "introduced_at": "2011-10-05", 
+  "number": 812, 
+  "purpose": "An amendment numbered 20 printed in the Congressional Record to add a new section that finds that the American people are exposed to mercury from industrial sources addressed by the rules listed in section 2(b) of this Act through the consumption of fish containing mercury and every State in the Nation has issued at least one mercury advisory for fish consumption.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "thomas_id": "01879", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:48:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

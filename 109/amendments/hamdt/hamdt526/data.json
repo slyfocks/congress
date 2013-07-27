@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-14T13:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7900-7901", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7900-7901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Poe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14T13:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Poe amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt526-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3132-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3132
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment authorizes $3 million to expand training efforts with Federal, State, and local law enforcement officers and prosecutors to effectively respond to the threat to children and the public posed by sex offenders who use the internet and technology to solicit or otherwise exploit children; deploy, to all Internet Crimes Against Children Task Forces and their partner agencies, technology modeled after the Canadian Child Exploitation Tracking System; and conduct training in the use of that technology.", 
+  "house_number": 7, 
+  "introduced_at": "2005-09-14", 
+  "number": 526, 
+  "purpose": "An amendment numbered 19 printed in the Congressional Record to provide for expansion of training and technology efforts with Federal, State, and local law enforcement officers by the Attorney General in consultation with the Office of Juvenile Justice and Delinquency Prevention.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-14T13:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-04T12:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2140-2141", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2140", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Hooley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04T12:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hooley amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt794-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment changes the definition of Container Security Device (CSD) in the bill to require that a CSD positively identify the container, detect and record any unauthorized intrusion of the container, and have a false alarm rate that is demonstrated to be below 1 percent.", 
+  "house_number": 7, 
+  "introduced_at": "2006-05-04", 
+  "number": 794, 
+  "purpose": "An amendment numbered 7 printed in House Report 109-450 to amend the definition of a cargo container security device in Sec. 1816 from: `a mechanical or electronic device designed to, at a minimum, detect unauthorized intrusion of containers', to `a mechanical or electronic device designed to, at a minimum, positively identify containers and detect and record unauthorized intrusion of containers. Such devices shall have false alarm rates that have been demonstrated to be below one percent.\".", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hooley, Darlene", 
+    "state": "OR", 
+    "thomas_id": "01491", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-04T12:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

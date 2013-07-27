@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-17T13:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2679-2680, H2689-2690", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2679", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Udall (NM).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-17T15:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 150, 
+      "text": "On agreeing to the Udall (NM) amendment (A004) Failed by recorded vote: 197 - 228 (Roll no. 150).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt827-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4200-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4200
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to require the Secretary concerned to certify that a catastrophic event recovery project will not decrease forest regeneration or increase forest fire risk.", 
+  "house_number": 4, 
+  "introduced_at": "2006-05-17", 
+  "number": 827, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-467 to add language in Sec 102(e) directing the relevant Secretary to consider the effect of any pre-approved management practice or catastrophic event recovery or research project on fire risk and forest regeneration. It further states that the Secretary may not implement the practice or carry out the recovery or research project unless the Secretary is able to certify that the activity will not increase fire risk or decrease forest regeneration.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-17T15:37:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

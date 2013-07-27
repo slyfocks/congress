@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-15T11:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4505-4507, H4528", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4505", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Hayworth.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15T14:32:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 253, 
+      "text": "On agreeing to the Hayworth amendment (A019) Failed by recorded vote: 124 - 304 (Roll no. 253).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt266-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to reduce funding for contributions to international organizations.", 
+  "house_number": 19, 
+  "introduced_at": "2005-06-15", 
+  "number": 266, 
+  "purpose": "An amendment numbered 33 printed in the Congressional Record to reduce the United States contribution to the United Nations by 50% or $218 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hayworth, J. D.", 
+    "state": "AZ", 
+    "thomas_id": "00520", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-15T14:32:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

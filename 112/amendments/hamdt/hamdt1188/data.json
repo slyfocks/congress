@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T15:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3416-3418", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3416", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Shimkus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T13:54:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3496-3497", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 321, 
+      "text": "On agreeing to the Shimkus amendment (A019) Agreed to by recorded vote: 326 - 81 (Roll no. 321).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1188-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces the funds for the Department of Energy departmental administration account by $10,000,000, and increases the funds for Yucca Mountain licensing under the Nuclear Regulatory Commission by a similar amount.", 
+  "house_number": 19, 
+  "introduced_at": "2012-06-05", 
+  "number": 1188, 
+  "purpose": "An amendment to reduce the Department of Energy salary and expenses account by $10,000,000, and increase the Nuclear Regulatory Commission salaries and expenses account by $10,000,000.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Shimkus, John", 
+    "state": "IL", 
+    "thomas_id": "01527", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-06T13:54:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

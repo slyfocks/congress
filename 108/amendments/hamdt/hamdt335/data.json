@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T15:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7690-7691", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7690", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T15:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Capps amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt335-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2861-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases EPA funding to clean up leaking underground storage tanks by $7.3 million.", 
+  "house_number": 10, 
+  "introduced_at": "2003-07-25", 
+  "number": 335, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to increase the funding (by transfer) for the leaking underground storage tank trust fund by $7.3 million.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-25T15:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

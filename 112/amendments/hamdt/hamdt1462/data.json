@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T20:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5276-5277", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5276", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Ms. Woolsey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:55:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5314", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 529, 
+      "text": "On agreeing to the Woolsey amendment (A016) Failed by recorded vote: 178 - 236 (Roll no. 529).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1462-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt from the definition of \"significant regulatory action\" a rule that would prevent or reduce the number of workers suffering electrocutions or other fatalities associated with working on high voltage transmission and distribution lines.", 
+  "house_number": 16, 
+  "introduced_at": "2012-07-25", 
+  "number": 1462, 
+  "purpose": "An amendment numbered 16 printed in Part B of House Report 112-616 to exempt from the definition of significant regulatory action a rule that would prevent or reduce the number of workers suffering electrocutions or other fatalities associated with working on high voltage transmission and distribution lines.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Woolsey, Lynn C.", 
+    "state": "CA", 
+    "thomas_id": "01242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-26T11:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

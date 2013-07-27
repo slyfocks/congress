@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-08T13:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4066-4077", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4066", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Jackson (IL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-08T15:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Porter raised a point of order against the Jackson (IL) amendment (A001). Mr. Porter stated that the amendment violated section 302F of the Congressional Budget Act. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt757-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2000-06-08", 
+  "number": 757, 
+  "purpose": "An amendment to increase funding for skills training programs by $1 billion.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Jackson, Jesse L., Jr.", 
+    "state": "IL", 
+    "thomas_id": "00587", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-08", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

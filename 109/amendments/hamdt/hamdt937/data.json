@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25T16:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3292-3293, CR 5/26/2006 H3313-3314", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3292", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25T18:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 211, 
+      "text": "On agreeing to the Kucinich amendment (A002) Failed by recorded vote: 170 - 251 (Roll no. 211).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt937-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for FEMA by $500,000.", 
+  "house_number": 2, 
+  "introduced_at": "2006-05-25", 
+  "number": 937, 
+  "purpose": "An amendment to increase funding for FEMA by $500,000.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-25T18:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

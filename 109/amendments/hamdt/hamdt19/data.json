@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-03T12:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H964-965, H966-967", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H964", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03T13:21:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 50, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A003) Failed by recorded vote: 183 - 239 (Roll no. 50).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt19-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr841-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 841
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to expand the ability of an aggrieved party to file suit for either declaratory or injunctive relief from 2 days to 5 days; provide for an expedited appeals process to the United States District Court for matters rising out of the special election process; and provide for an expansion of the right to sue for declaratory judgment to others beyond a state Governor.", 
+  "house_number": 3, 
+  "introduced_at": "2005-03-03", 
+  "number": 19, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-10.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-03T13:21:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

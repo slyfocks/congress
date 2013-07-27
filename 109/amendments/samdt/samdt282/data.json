@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-05", 
+      "references": [
+        {
+          "reference": "CR S3186-3188", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3186", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 282 proposed by Senator Craig to Amendment SA 281.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-06", 
+      "references": [
+        {
+          "reference": "CR S3240", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt282-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt281-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 281
+  }, 
+  "amends_bill": {
+    "bill_id": "s600-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 600
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-05", 
+  "number": 282, 
+  "proposed_at": "2005-04-05", 
+  "purpose": "To clarify the payment terms under the Trade Sanctions Reform and Export Enhancement Act of 2000.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Craig, Larry E.", 
+    "state": "ID", 
+    "thomas_id": "00246", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-04-05", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

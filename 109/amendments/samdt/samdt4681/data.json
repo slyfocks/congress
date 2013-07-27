@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-19", 
+      "references": [
+        {
+          "reference": "CR S7814-7824, S7839", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4681 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-19", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S7814-7815", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 208, 
+      "text": "Amendment SA 4681 as modified agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 208.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4681-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s728-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-19", 
+  "number": 4681, 
+  "proposed_at": "2006-07-19", 
+  "purpose": "To modify a section relating to independent peer review of water resources projects.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-19", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

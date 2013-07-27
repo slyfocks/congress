@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2107", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2107", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3061 proposed by Senator McConnell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2146, S2175-2176", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 46, 
+      "text": "Amendment SA 3061 agreed to in Senate by Yea-Nay Vote. 90 - 8. Record Vote Number: 46.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3061-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3061, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To provide funding for maritime security, including the Container Security Initiative, improved data for targeted cargo searches, and full background checks and security threat assessments of personnel at our nation's seaports.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "thomas_id": "01395", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

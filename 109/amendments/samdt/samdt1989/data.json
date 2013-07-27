@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11107-11108", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1989 proposed by Senator Stevens for Senator Allen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11107", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1989 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1989-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-03", 
+  "number": 1989, 
+  "proposed_at": "2005-10-05", 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Allen, George", 
+    "state": "VA", 
+    "thomas_id": "00013", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

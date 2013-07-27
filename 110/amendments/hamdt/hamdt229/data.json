@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-23T14:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5653-5654, H5665-5666", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5653", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Heller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-23T16:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 407, 
+      "text": "On agreeing to the Heller amendment (A003) Failed by recorded vote: 183 - 243 (Roll no. 407).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt229-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1100-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1100
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to delete language in the bill which authorized the use of Federal funds to acquire acreage for the expansion of the Carl Sandburg Home National Historic Site.", 
+  "house_number": 3, 
+  "introduced_at": "2007-05-23", 
+  "number": 229, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-165 to eliminate the use of appropriated funds to acquire 110 acres of land for the Carl Sandburg Home National Historic Site, but still allows the land to be acquired by donation, purchase with donated funds, or by exchange with other lands.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-23T16:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

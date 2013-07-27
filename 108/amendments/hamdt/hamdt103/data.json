@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-01T12:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3601-3602", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3601", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mrs. Biggert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-01T12:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Biggert amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt103-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1298-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1298
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment states that the World Bank, or the IBID, the International Bank for Reconstruction and Development, is the trustee for contributions made by sovereign nations; and expresses the sense of Congress to encourage individuals and private entities to make contributions to the Global Fund.", 
+  "house_number": 3, 
+  "introduced_at": "2003-05-01", 
+  "number": 103, 
+  "purpose": "An amedment numbered 3 printed in House Report 108-80 which expresses the sense of Congress that the President should conduct an outreach campaign to inform the public of the existence of the Global Fund and encourage private contributions to the Global Fund by establishing and operating an Internet website and making public service announcements.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Biggert, Judy", 
+    "state": "IL", 
+    "thomas_id": "01577", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-05-01T12:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

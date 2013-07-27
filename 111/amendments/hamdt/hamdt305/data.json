@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-08T22:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7826-7828", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7826", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Kingston.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T11:50:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7851", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7851", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 508, 
+      "text": "On agreeing to the Kingston amendment (A013) Failed by recorded vote: 140 - 292 (Roll no. 508).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt305-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2997-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2997
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funds from being used to administer or pay the salary of personnel who administer any broadband loans or loan guarantees on or before September 15, 2010.", 
+  "house_number": 13, 
+  "introduced_at": "2009-07-08", 
+  "number": 305, 
+  "purpose": "An amendment numbered 7 printed in part B of House Report 111-191 to prohibit funds from being used to administer or pay the salary of personnel who administer any broadband loans or loan guarantees on or before September 15, 2010.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kingston, Jack", 
+    "state": "GA", 
+    "thomas_id": "00636", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-09T11:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

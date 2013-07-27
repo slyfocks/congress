@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-15", 
+      "references": [
+        {
+          "reference": "CR S10065-10066", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10065", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1719 proposed by Senator Shelby for Senator Kyl.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1719 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1719-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-15", 
+  "number": 1719, 
+  "proposed_at": "2005-09-15", 
+  "purpose": "To provide $5,000,000 in the Southwest United States for hiring officers dedicated to the investigation of manufacturers of fraudulent Federal identity documents, Federal travel documents, or documents allowing access to Federal programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-15", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

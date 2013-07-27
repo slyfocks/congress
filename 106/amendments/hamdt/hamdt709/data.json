@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-16T17:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3128-3134, H3143-3144", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3128", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Gekas.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-16T19:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 187, 
+      "text": "On agreeing to the Gekas amendment (A002) Failed by recorded vote: 173 - 236 (Roll no. 187).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt709-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr853-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 853
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide for an automatic continuing resolution to take effect in the event that the regular appropriations process is incomplete at the start of a new fiscal year.", 
+  "house_number": 2, 
+  "introduced_at": "2000-05-16", 
+  "number": 709, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-613 to provide for an automatic continuing resolution in the event that the regular appropriations process is incomplete at the start of a new fiscal year.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Gekas, George W.", 
+    "state": "PA", 
+    "thomas_id": "00432", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-16T19:33:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

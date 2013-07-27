@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21", 
+      "references": [
+        {
+          "reference": "CR S8651-8653", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8652", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1394 proposed by Senator Warner for Senator Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1394 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1394-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-21", 
+  "number": 1394, 
+  "proposed_at": "2005-07-21", 
+  "purpose": "To make available with an offset, an additional $1,000,000 for research, development, test, and evaluation, Army, for the Telemedicine and Advanced Technology Research Center.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sessions, Jeff", 
+    "state": "AL", 
+    "thomas_id": "01548", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

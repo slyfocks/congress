@@ -1,0 +1,33 @@
+<bill session="106" type="h" number="703" updated="2013-07-14T18:53:07-04:00">
+  <state datetime="1999-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="1999-02-10"/>
+  </status>
+  <introduced datetime="1999-02-10"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Khalid Khannouchi.</title>
+  </titles>
+  <sponsor id="400213"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-10">
+      <text>Referred to the House Committee on Judiciary.</text>
+    </action>
+    <action datetime="1999-03-01">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/1999--Introduced.
+Waives specified requirements under the Immigration and Nationality Act to provide for naturalization of a named individual if he is otherwise qualified.</summary>
+</bill>

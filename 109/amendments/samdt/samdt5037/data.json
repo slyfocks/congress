@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-25", 
+      "references": [
+        {
+          "reference": "CR S10097", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10097", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5037 proposed by Senator Frist to Amendment SA 5036.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-26", 
+      "references": [
+        {
+          "reference": "CR S10136", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-28", 
+      "references": [
+        {
+          "reference": "CR S10432", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-29", 
+      "references": [
+        {
+          "reference": "CR S10609", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-29", 
+      "references": [], 
+      "text": "SA 5037 fell when SA 5036 withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt5037-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt5036-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 5036
+  }, 
+  "amends_bill": {
+    "bill_id": "hr6061-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-25", 
+  "number": 5037, 
+  "proposed_at": "2006-09-25", 
+  "purpose": "To establish the effective date", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-09-25", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

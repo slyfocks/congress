@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-16T17:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4227-4228, H4239", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4227-4228", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-16T18:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 249, 
+      "text": "On agreeing to the Tancredo amendment (A002) Failed by recorded vote: 112 - 313 (Roll no. 249).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt549-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4568-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4568
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reduce funding for the National Endowment for the Arts by $60 million and increase funding for the U.S. Forest Service by $23 million for law enforcement services.", 
+  "house_number": 2, 
+  "introduced_at": "2004-06-16", 
+  "number": 549, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to decrease funds for the NEA by 50% ($60 million) and to increase the funding for wildland fire management by $60 million.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-16T18:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

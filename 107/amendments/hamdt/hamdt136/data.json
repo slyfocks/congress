@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-28T15:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3767-3768", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3767", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T15:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (MI) amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt136-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment authorizes grants for research into improving the nitrogen-fixing ability and efficiency of plants.", 
+  "house_number": 4, 
+  "introduced_at": "2001-06-28", 
+  "number": 136, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to include grants for authorized competitive research programs regarding enhancement of the nitrogen-fixing ability and efficiency of plants.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-06-28T15:41:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

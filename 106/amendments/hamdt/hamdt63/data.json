@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-05T15:37:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A010) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-05T16:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 110, 
+      "text": "On agreeing to the Hyde amendment (A010) Failed by recorded vote: 184 - 238 (Roll no. 110).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt63-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr833-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 833
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to replace provisions which apply IRS expense allowances in determining permissible living expenses of debtors and their families with language that incoporates a test based on the disposable income standard of current law.", 
+  "house_number": 10, 
+  "introduced_at": "1999-05-05", 
+  "number": 63, 
+  "purpose": "An amendment to strike the provisions that apply the Internal Revenue Service expense allowances for determining permissible living expenses of debtors and their families, adopts a standard of reasonably necessary exepnses, and directs the Executive Office of United States Trustees to issue guidelines that will assist in assessing these expenses.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-05-05T16:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

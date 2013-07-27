@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-02T00:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3906-3907", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3906", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A049) offered by Mr. Rokita.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T18:02:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3957-3958", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 402, 
+      "text": "On agreeing to the Rokita amendment (A049) Failed by recorded vote: 110 - 312 (Roll no. 402).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt397-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to make available by this Act (other than an amount required to be made available by a provision of law, amounts made available for U.S. Customs and Border Protection, and amounts made available for U.S. Immigration and Customs Enforcement) is hereby reduced by 10 percent.", 
+  "house_number": 49, 
+  "introduced_at": "2011-06-02", 
+  "number": 397, 
+  "purpose": "An amendment made available by this Act (other than an amount required to be made available by a provision of law, amounts made available for U.S. Customs and Border Protection, and amounts made available for U.S. Immigration and Customs Enforcement) is hereby reduced by 10 percent.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Rokita, Todd", 
+    "state": "IN", 
+    "thomas_id": "02017", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-02T18:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

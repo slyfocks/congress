@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-09-16T14:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9583-9584", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9583", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-16T14:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cohen amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt420-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3246-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3246
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment adds hydraulics, flywheels, and compressed air storage as technologies eligible for the proposed program.", 
+  "house_number": 9, 
+  "introduced_at": "2009-09-16", 
+  "number": 420, 
+  "purpose": "An amendment numbered 9 printed in House Report 111-255 to add hydraulics, flywheels, and compressed air storage as technologies eligible for the proposed program.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-09-16T14:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

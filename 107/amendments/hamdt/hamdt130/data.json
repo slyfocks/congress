@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-28T10:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3724-3726, H3735-3736", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3724", 
+          "type": " text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Ms. Berkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T12:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 204, 
+      "text": "On agreeing to the Berkley amendment (A009) Failed by recorded vote: 102 - 321 (Roll no. 204).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt130-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2311-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2311
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide $500,000 to the Nuclear Waste Technical Review Board in order to hold hearings, take testimony, and receive evidence relating to the transportation of radioactive waste and spent nuclear fuel.", 
+  "house_number": 9, 
+  "introduced_at": "2001-06-28", 
+  "number": 130, 
+  "purpose": "An amendment to require a review of high-level radioactive waste disposal routes.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Berkley, Shelley", 
+    "state": "NV", 
+    "thomas_id": "01576", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-28T12:12:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

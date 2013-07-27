@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-16T19:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6896-6897", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6896", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Schock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-16T20:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Schock amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-06-18T15:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Westmoreland demanded a separate vote on the Schock amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T15:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7001-7002", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Schock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T15:07:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 386, 
+      "text": "On agreeing to the Schock amendment (A002) Failed by recorded vote: 179 - 236 (Roll no. 386).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt212-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases the appropriation (by offset) to the International Trade Administration by $500,000.", 
+  "house_number": 2, 
+  "introduced_at": "2009-06-18", 
+  "number": 212, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to increase the appropriation to the International Trade Administration by $500,000 and to decrease the appropriation for the Bureau of the Census by $500,000.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Schock, Aaron", 
+    "state": "IL", 
+    "thomas_id": "01920", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T15:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

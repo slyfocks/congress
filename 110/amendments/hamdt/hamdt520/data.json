@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T19:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7946-7948", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7946", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T15:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8037-8038", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8038", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 647, 
+      "text": "On agreeing to the Stearns amendment (A011) Failed by recorded vote: 182 - 242 (Roll no. 647).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt520-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to transfer $25.5 million from AmeriCorp to TRIO educational programs and the geriatric program.", 
+  "house_number": 11, 
+  "introduced_at": "2007-07-17", 
+  "number": 520, 
+  "purpose": "An amendment to increase the appropriation (by transfer) for Health Resources and Services by $12.5 million.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T15:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

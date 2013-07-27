@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-19T17:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5061-5063", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5061", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mr. Jones.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-19T17:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Young (FL) raised a point of order against the Jones amendment (A061). Mr. Young of Florida stated that the amendment proposed to change existing law and therefore constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1438-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 61, 
+  "introduced_at": "2012-07-19", 
+  "number": 1438, 
+  "purpose": "An amendment numbered 17 printed in the Congressional Record to prohibit the use of funds to negotiate or implement any agreement with the Government of Afghanistan that includes security assurances for mutual defense.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-07-19", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

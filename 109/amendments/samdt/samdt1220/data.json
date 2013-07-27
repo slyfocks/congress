@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8190", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8190", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 1220 proposed by Senator Gregg to Amendment SA 1205.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8249, S8265-8266", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [], 
+      "text": "Amendment SA 1220 was modified to reflect a first degree status by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8249, S8265-8266", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8265", 
+          "type": "text as further modified"
+        }
+      ], 
+      "text": "Amendment SA 1220 proposed by Senator Gregg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 185, 
+      "text": "Amendment SA 1220 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 185.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1220-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-13", 
+  "number": 1220, 
+  "proposed_at": "2005-07-14", 
+  "purpose": "To allocate funds for certain terrorism prevention activities, including rail and transit security.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gregg, Judd", 
+    "state": "NH", 
+    "thomas_id": "00466", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

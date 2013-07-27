@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9567-9574", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4985 proposed by Senator Stevens for Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9570", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4985 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4985-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-13", 
+  "number": 4985, 
+  "proposed_at": "2006-09-13", 
+  "purpose": "To authorize an additional $200,000,000 to be appropriated for fiscal year 2007 for the operating expenses of the Northern Border Air Wing.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-13", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

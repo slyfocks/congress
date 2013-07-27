@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-23T15:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2981-2982, H3023-3024", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2981", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-23T22:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 200, 
+      "text": "On agreeing to the Obey amendment (A002) Failed by recorded vote: 199 - 213 (Roll no. 200).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt493-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4775-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4775
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to remove the emergency designation requirement for FBI funding.", 
+  "house_number": 2, 
+  "introduced_at": "2002-05-23", 
+  "number": 493, 
+  "purpose": "An amendment to strike the provisos which designate the amount appropriated for the salaries and expenses of the F.B.I as emergency funds, and which make the availablity of the funds subject to a specific budget request as emergency funds.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-05-23T22:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

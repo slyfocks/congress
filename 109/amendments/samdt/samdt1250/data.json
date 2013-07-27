@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-18", 
+      "references": [
+        {
+          "reference": "CR S8408-8409", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8409", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1250 proposed by Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8447", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "references": [], 
+      "text": "Proposed amendment SA 1250 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1250-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-18", 
+  "number": 1250, 
+  "proposed_at": "2005-07-18", 
+  "purpose": "To prohibit the use of funds to approve or administer a loan or guarantee for certain ethanol dehydration plants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-07-19", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

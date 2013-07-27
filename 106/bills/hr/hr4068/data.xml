@@ -1,0 +1,81 @@
+<bill session="106" type="h" number="4068" updated="2013-07-14T18:54:42-04:00">
+  <state datetime="2000-11-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-11-01"/>
+  </status>
+  <introduced datetime="2000-03-23"/>
+  <titles>
+    <title as="introduced" type="short">Religious Workers Act of 2000</title>
+    <title as="enacted" type="short">Religious Workers Act of 2000</title>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to extend for an additional 3 years the special immigrant religious worker program.</title>
+  </titles>
+  <sponsor id="400602"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-03-31">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-09-19T13:59:00-04:00">
+      <text>Mr. Pease moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-09-19T13:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7778-7780" label="consideration"/>
+    </action>
+    <action datetime="2000-09-19T14:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4068.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-19T14:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7778" label="text"/>
+    </vote>
+    <action datetime="2000-09-19T14:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-20">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-10-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10841" label="consideration"/>
+    </vote>
+    <topresident datetime="2000-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-10-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-10-24">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-11-01">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-11-01" type="public" number="106-409">
+      <text>Became Public Law No: 106-409.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="2406"/>
+    <bill relation="identical" session="106" type="s" number="3226"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Alien labor"/>
+    <term name="Clergy"/>
+    <term name="Labor and employment"/>
+    <term name="Religion"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2000--Introduced.
+Religious Workers Act of 2000 - Amends the Immigration and Nationality Act to extend the special immigrant religious worker program.</summary>
+</bill>

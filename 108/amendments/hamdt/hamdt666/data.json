@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-09T14:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5455-5458", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5455", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Gordon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-09T15:28:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 355, 
+      "text": "On agreeing to the Gordon amendment (A004) Failed by recorded vote: 170 - 192 (Roll no. 355).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt666-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3598-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3598
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for the Manufacturing Extension Partnership program by 10 percent a year, starting in fiscal year 2005, continuing through fiscal year 2008.", 
+  "house_number": 4, 
+  "introduced_at": "2004-07-09", 
+  "number": 666, 
+  "purpose": "An amendment numbered 4 printed in House Report 108-589 to authorize $117 million for the Manufacturing Extension Partnership and 10% yearly increases for FY06-08 and to allow the federal cost-share for MEP Centers in the FY05-08 to increase up to one-half on a case-by-case basis as determined by the Administration.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Gordon, Bart", 
+    "state": "TN", 
+    "thomas_id": "00448", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-09T15:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

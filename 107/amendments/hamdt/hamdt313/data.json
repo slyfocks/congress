@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-09-25T13:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6008-6009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6008", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-09-25T13:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Traficant amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt313-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2944-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2944
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2001-09-25", 
+  "number": 313, 
+  "purpose": "An amendment to prevent funds in the bill from being made available to any entity in violation of the Buy American Act.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-09-25T13:32:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2243, S2250-2251", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2243", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3078 proposed by Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3078 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3078-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3078, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To establish a reserve fund to prevent catastrophic loss.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-07T20:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4743-4744", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4743", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A070) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-08T11:19:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4768-4769", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 529, 
+      "text": "On agreeing to the Polis amendment (A070) Failed by recorded vote: 113 - 307 (Roll no. 529).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt575-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 70, 
+  "introduced_at": "2011-07-07", 
+  "number": 575, 
+  "purpose": "An amendment to prohibit use of funds in the bill to maintain an end strength level of troops in Europe to more than 30,000 and to reduce military personnel accounts accordingly.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-08T11:19:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

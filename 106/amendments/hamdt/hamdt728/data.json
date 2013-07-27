@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-18T18:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3384-3391", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3384-3385", 
+          "type": "text"
+        }
+      ], 
+      "text": "Substitute (A015) offered by Mr. Buyer to the Taylor (MS) amendment (A014).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T19:28:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 206, 
+      "text": "On agreeing to the Buyer amendment (A015) Failed by recorded vote: 95 - 323 (Roll no. 206).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt728-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt727-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 727
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment offered as a substitute to the Taylor (MS) amendment (A014) sought to expand Medicare Subvention, the TRICARE Senior Prime Program, by the end of 2002 up to 13 more hospitals, bringing the total number of hospitals offering enrollment in Medicare Subvention to 24, and making an additional 140,000 retirees eligible for enrollment.", 
+  "house_number": 15, 
+  "introduced_at": "2000-05-18", 
+  "number": 728, 
+  "purpose": "An amendment numbered 7 printed in House Report 106-624 as a substitute for the Taylor (MS) amendment to expand the current Medicare subvention demonstration program to up to seven additional sites and up to 13 additional military treatment facilities.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Buyer, Steve", 
+    "state": "IN", 
+    "thomas_id": "00160", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-18T19:28:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

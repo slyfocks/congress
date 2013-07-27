@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16T16:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1106-1107, H1112-1113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1106", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A049) offered by Ms. Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T17:43:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 63, 
+      "text": "On agreeing to the Lee amendment (A049) Failed by recorded vote: 189 - 230 (Roll no. 63).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt749-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 49, 
+  "introduced_at": "2006-03-16", 
+  "number": 749, 
+  "purpose": "An amendment to prohibit the use of funds from being available to implement, administer, or enforce the termination of the hotel and motel emergency sheltering program established by FEMA for families displaced by Hurricane Katrina and other hurricanes of the 2005 season.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16T17:43:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

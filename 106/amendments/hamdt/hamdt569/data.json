@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-02T11:53:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H181-183", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H181", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Chabot.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-02T11:54:00-05:00", 
+      "references": [], 
+      "text": "Chabot amendment (A001) modified by unanimous consent. The modification made technical changes to the amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-02T12:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H181-182", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "On agreeing to the Chabot amendment (A001) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt569-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2005-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2005
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment clarifies that the eighteen year statute of repose for durable goods applies to the date when the accident occurs and not to the date of the filing of the claim; and clarifies that the bill does not affect any relief for remediation of the environment.", 
+  "house_number": 1, 
+  "introduced_at": "2000-02-02", 
+  "number": 569, 
+  "purpose": "Amendment no. 2 printed in the Congressional Record to clarify that the eighteen year statute of repose for durable goods applies to the date when the accident occurs and that provisions do not affect any relief for remediation of the environment.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-02-02", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

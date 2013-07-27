@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-12", 
+      "references": [
+        {
+          "reference": "CR S8130-8131", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8131", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1217 proposed by Senator Durbin for Senator Stabenow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8155, S8157-8159", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "references": [], 
+      "text": "Point of order that an emergency designation within the amendment violates the CBA raised in Senate with respect to amendment SA 1217.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "references": [], 
+      "text": "Motion to waive the Budget Act with respect to amendment SA 1217 made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8248, S8253, S8254", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [], 
+      "text": "Motion to waive the Budget Act with respect to amendment SA 1217 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 35 - 63. Record Vote Number: 183.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [], 
+      "text": "The emergency designation within amendment SA 1217 was stricken.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 1217 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1217-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-12", 
+  "number": 1217, 
+  "proposed_at": "2005-07-12", 
+  "purpose": "To provide funding for interoperable communications equipment grants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

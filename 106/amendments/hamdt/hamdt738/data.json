@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-22T18:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3498-3507", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3498", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Roemer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-23T10:51:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3535-3536", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3535 ", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 214, 
+      "text": "On agreeing to the Roemer amendment (A001) Failed by recorded vote: 175 - 225 (Roll no. 214).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt738-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4392-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4392
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to require the Director of Central Intelligence to submit a report to Congress containing an unclassified statement of the aggregate funding for intelligence activities for the previous fiscal year.", 
+  "house_number": 1, 
+  "introduced_at": "2000-05-22", 
+  "number": 738, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to require the Director of the CIA to submit a report to Congress, not later than Feb. 1 of each year, containing an unclassified statement of the aggregate appropriations for U.S. intelligence activities the previous fiscal year.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Roemer, Tim", 
+    "state": "IN", 
+    "thomas_id": "00976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-23T10:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

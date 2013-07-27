@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-30", 
+      "references": [
+        {
+          "reference": "CR S2575-2576", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2575", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3191 proposed by Senator Frist to Amendment SA 3192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-30", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 83, 
+      "text": "Amendment SA 3191 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 83.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3191-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3192-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3192
+  }, 
+  "amends_bill": {
+    "bill_id": "s2454-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2454
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-30", 
+  "number": 3191, 
+  "proposed_at": "2006-03-30", 
+  "purpose": "To require the Commissioner of the Bureau of Customs and Border Protection to collect statistics, and prepare reports describing the statistics, relating to deaths occurring at the border between the United States and Mexico.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-30", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

@@ -1,0 +1,75 @@
+<bill session="108" type="hr" number="641" updated="2013-07-14T19:00:17-04:00">
+  <state datetime="2004-11-16T14:27:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2004-11-16T14:27:00-05:00"/>
+  </status>
+  <introduced datetime="2004-05-12"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of Pancreatic Cancer Awareness Month.</title>
+  </titles>
+  <sponsor id="400321"/>
+  <cosponsors>
+    <cosponsor id="400138" joined="2004-06-01"/>
+    <cosponsor id="400268" joined="2004-06-01"/>
+    <cosponsor id="400329" joined="2004-09-21"/>
+    <cosponsor id="400379" joined="2004-09-08"/>
+    <cosponsor id="400432" joined="2004-06-01"/>
+    <cosponsor id="400433" joined="2004-09-08"/>
+    <cosponsor id="400435" joined="2004-06-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-05-12">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2004-05-21">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2004-09-15">
+      <text>Subcommittee on Civil Service and Agency Organization Discharged.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-11-16T14:21:00-05:00">
+      <text>Mr. Platts moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-11-16T14:21:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9690-9691" label="consideration"/>
+    </action>
+    <action datetime="2004-11-16T14:21:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 641.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2004-11-16T14:27:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H9690" label="text"/>
+    </vote>
+    <action datetime="2004-11-16T14:27:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="hr" number="262"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Cancer"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2004--Passed House without amendment.
+Expresses support for the goals and ideals of Pancreatic Cancer Awareness Month.</summary>
+</bill>

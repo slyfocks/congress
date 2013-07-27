@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-17T15:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3265-3268", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3265", 
+          "type": " text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T11:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3316-3317", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3317", 
+          "type": " text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 194, 
+      "text": "On agreeing to the Frank (MA) amendment (A002) Failed by recorded vote: 88 - 331 (Roll no. 194).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt715-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce the total amount authorized in the bill by one percent.", 
+  "house_number": 2, 
+  "introduced_at": "2000-05-17", 
+  "number": 715, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-621 to reduce the total Defense authorization by 1% from the amount proposed in the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-18T11:06:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

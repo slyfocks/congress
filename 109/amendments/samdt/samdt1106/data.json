@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8182-8183", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8182", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1106 proposed by Senator Clinton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1106 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1106-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1106, 
+  "proposed_at": "2005-07-13", 
+  "purpose": "To require the Secretary of Homeland Security to report to Congress regarding the vulnerability of certain facilities and measures to provide greater security, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-13", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

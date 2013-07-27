@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-09-16T18:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9636-9637", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9636", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-17T13:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H9694-9695", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 9694-9695", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 712, 
+      "text": "On agreeing to the Foxx amendment (A007) Failed by recorded vote: 126 - 301 (Roll no. 712).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt430-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3221-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3221
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the entire American Graduation Initiative (but maintain the privacy provisions that apply to the whole Act) and put the savings toward deficit reduction. The privacy provisions ensure that student information is protected from individuals not authorized to view it and that students cannot be identified by any unique identifier.", 
+  "house_number": 7, 
+  "introduced_at": "2009-09-16", 
+  "number": 430, 
+  "purpose": "An amendment numbered 7 printed in House Report 111-256 to strike the entire American Graduation Initiative (but maintain the privacy provisions that apply to the whole Act) and put the savings toward deficit reduction. These privacy provisions ensure that student information is protected from individuals not authorized to view it and that students cannot be identified by any unique identifier.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-09-17T13:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

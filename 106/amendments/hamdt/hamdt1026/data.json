@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T19:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6689-6692", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6689", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T19:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sanders amendment (A015) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1026-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits the IRS from using any funds for activities that violate current pension age discrimination laws.", 
+  "house_number": 15, 
+  "introduced_at": "2000-07-20", 
+  "number": 1026, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to prohibit the IRS fro using any funding for activities that violate current pension age discrimination laws.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-20T19:38:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

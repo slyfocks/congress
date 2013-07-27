@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-02T22:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4404-4405, H4410", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4404", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-02T23:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 294, 
+      "text": "On agreeing to the Price (GA) amendment (A012) Failed by recorded vote: 183 - 235 (Roll no. 294).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt139-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1867-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to provide that no authorization of appropriations made by this Act that results in costs to the Federal Government shall be effective unless there are decreases in spending elsewhere in the Federal Government.", 
+  "house_number": 12, 
+  "introduced_at": "2007-05-02", 
+  "number": 139, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to authorize appropriations made by this Act or other provisions of this Act that results in costs to the Federal Government.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-02T23:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

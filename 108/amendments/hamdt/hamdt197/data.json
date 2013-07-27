@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-26T22:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6121-6177, H6178-6181", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6121-6170", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Rangel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-27T00:54:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A001) and on the bill pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-27T01:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 330, 
+      "text": "On agreeing to the Rangel amendment (A001) Failed by recorded vote: 175 - 255, 1 Present (Roll no. 330).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt197-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to provide prescription drug coverage for all Medicare beneficiaries, enhance Medicare+Choice plans, include payments for oncology providers and related cancer drug therapy programs; improve rural health delivery; and implement various provisions dealing with Medicare Parts A and B, Medicaid, regulatory reduction and the reimportation of prescription drugs.", 
+  "house_number": 1, 
+  "introduced_at": "2003-06-26", 
+  "number": 197, 
+  "purpose": "An amendment in the nature of a substitute printed in House Report 108-181 to insert a complete new text.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-27T01:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

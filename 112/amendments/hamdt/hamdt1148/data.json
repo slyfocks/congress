@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T15:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3299-3300", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3299", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Farr.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T15:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Farr amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1148-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5743-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5743
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2012-05-31", 
+  "number": 1148, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-504 to establish the sense of Congress that those assigned to lead the development of training, tools, and methodologies in support of cyber security, should be reminded to include foreign language and culture in the development process.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Farr, Sam", 
+    "state": "CA", 
+    "thomas_id": "00368", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-31T15:20:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

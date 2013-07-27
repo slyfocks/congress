@@ -1,0 +1,79 @@
+<bill session="108" type="hc" number="376" updated="2013-07-14T19:03:09-04:00">
+  <state datetime="2004-04-29">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2004-04-29"/>
+  </status>
+  <introduced datetime="2004-03-02"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400283" joined="2004-03-02"/>
+    <cosponsor id="400295" joined="2004-03-02"/>
+    <cosponsor id="400415" joined="2004-03-02"/>
+    <cosponsor id="400435" joined="2004-03-02"/>
+    <cosponsor id="400438" joined="2004-03-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-03-02">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2004-03-03">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2004-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-03-24">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2004-04-22T11:55:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 108-469.</text>
+    </action>
+    <calendar datetime="2004-04-22T11:56:00-04:00" calendar="House" number="169">
+      <text>Placed on the House Calendar, Calendar No. 169.</text>
+    </calendar>
+    <action datetime="2004-04-28T11:04:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-04-28T11:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2420-2422" label="consideration"/>
+    </action>
+    <action datetime="2004-04-28T11:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 376.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-04-28T11:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2420-2421" label="text"/>
+    </vote>
+    <action datetime="2004-04-28T11:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2004-04-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4722" label="consideration"/>
+    </vote>
+    <action datetime="2004-04-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2004--Passed Senate without amendment.
+Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 19, 2004.</summary>
+</bill>

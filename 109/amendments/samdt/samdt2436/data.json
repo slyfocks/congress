@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-07", 
+      "references": [
+        {
+          "reference": "CR S12427-12432", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12427", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2436 proposed by Senator Snowe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12472, S12489-12490", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12489", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 308, 
+      "text": "Amendment SA 2436 not agreed to in Senate by Yea-Nay. 36 - 62. Record Vote Number: 308.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2436-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-07", 
+  "number": 2436, 
+  "proposed_at": "2005-11-07", 
+  "purpose": "To require the Secretary of Defense, subject to a national security exception, to offer to transfer to local redevelopment authorities for no consideration real property and personal property located at military installations that are closed or realigned as part of the 2005 round of defense base closure and realignment, and to clarify that the requirement does not affect certain property interests.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

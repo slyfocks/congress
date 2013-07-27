@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T14:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6698-6701, H6718-6719", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6698", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Lamborn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-19T18:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 508, 
+      "text": "On agreeing to the Lamborn amendment (A007) Failed by recorded vote: 151 - 274 (Roll no. 508).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt322-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding of the Bureau of Reclamation Policy and Administration account by $1,236,000.", 
+  "house_number": 7, 
+  "introduced_at": "2007-06-19", 
+  "number": 322, 
+  "purpose": "An amendment to reduce funds of the Bureau of Reclamation under the Policy and Administration section by $1,236,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lamborn, Doug", 
+    "state": "CO", 
+    "thomas_id": "01834", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-19T18:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

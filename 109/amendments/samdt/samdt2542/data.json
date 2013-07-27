@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12778-12791", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12784", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2542 proposed by Senator Warner for Senator DeWine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2542 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2542-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-15", 
+  "number": 2542, 
+  "proposed_at": "2005-11-15", 
+  "purpose": "To provide an additional death gratuity to the eligible survivors of servicemembers who died between October 7, 2001, and May 11, 2005, from noncombat-related causes while on active duty.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeWine, Mike", 
+    "state": "OH", 
+    "thomas_id": "00293", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

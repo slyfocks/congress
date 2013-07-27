@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2275", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2275", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3172 proposed by Senator Gregg for Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3172 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3172-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-16", 
+  "number": 3172, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To add $308 million to Function 800 for GSA.  Fully offset by Function 920.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

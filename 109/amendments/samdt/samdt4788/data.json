@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-02", 
+      "references": [
+        {
+          "reference": "CR S8567-8569, S8574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8567", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4788 proposed by Senator Kyl to Amendment SA 4775.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4788 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4788-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt4775-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 4775
+  }, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4788, 
+  "proposed_at": "2006-08-02", 
+  "purpose": "To provide $1,829,000,000 for the Army National Guard for the construction of 370 miles of triple-layered fencing, and 500 miles of vehicle barriers along the southwest border.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-02", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

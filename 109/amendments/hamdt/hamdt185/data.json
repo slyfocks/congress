@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-19T18:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3663", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3663", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Doolittle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-19T18:16:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Doolittle amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt185-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment prohibits funds from being used to implement language in the bill which allows the Fish and Wildlife Service to sell public lands in the Lower Klamath and Tule Lake Wildlife Refuges and use the profits from such land sales to buy water rights.", 
+  "house_number": 17, 
+  "introduced_at": "2005-05-19", 
+  "number": 185, 
+  "purpose": "An amendment to provide that no funds may be used to implement the first proviso under the heading \"United States Fish and Wildlife Service-Land Acquisition.\".", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Doolittle, John T.", 
+    "state": "CA", 
+    "thomas_id": "00307", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-19T18:16:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

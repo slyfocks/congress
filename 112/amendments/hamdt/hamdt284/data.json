@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-11T17:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3200-3201", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3200", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Tsongas.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-12T13:35:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3237-3238", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 315, 
+      "text": "On agreeing to the Tsongas amendment (A005) Failed by recorded vote: 195 - 223 (Roll no. 315).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt284-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1231-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1231
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that all applicants for a drilling permit under a lease issued pursuant to the bill would have to submit a worst-case scenario oil spill containment and clean-up plan.", 
+  "house_number": 5, 
+  "introduced_at": "2011-05-11", 
+  "number": 284, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-74 to require that all applicants for a drilling permit under a lease issued under H.R. 1231 would have to submit a worst-case scenario oil spill containment and clean-up plan.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Tsongas, Niki", 
+    "state": "MA", 
+    "thomas_id": "01884", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-12T13:35:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

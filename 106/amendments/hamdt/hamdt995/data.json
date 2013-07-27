@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-13T09:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5975-5977", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5975", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T10:00:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Conyers amendment (A016) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt995-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete language that places limitations on assistance to Haiti.", 
+  "house_number": 16, 
+  "introduced_at": "2000-07-13", 
+  "number": 995, 
+  "purpose": "Amendment no. 38 printed in the Congressional Record to strike Sec. 558, Assistance for Haiti from the bill.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-13T10:00:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

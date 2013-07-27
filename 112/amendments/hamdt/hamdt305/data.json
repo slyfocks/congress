@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T15:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3605-3607, H3631-3632", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3605-3606", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Hunter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-25T18:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 344, 
+      "text": "On agreeing to the Hunter amendment (A005) Failed by recorded vote: 203 - 213 (Roll no. 344).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt305-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to create a five-year pilot program to provide opportunity scholarships to dependent children with special education needs. Opportunity scholarships would have been set at $7,500 a year and would have been available to approximately 250 children under the pilot program for the purpose of attending a private, public or charter school of choice. The Department of Defense would have administered the program, in coordination with the Secretary of Education.", 
+  "house_number": 5, 
+  "introduced_at": "2011-05-25", 
+  "number": 305, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-88 to create a five-year pilot program to provide opportunity scholarships to dependent children with special education needs. Opportunity scholarships are set at $7,500 a year and would be available to approximately 250 children under the pilot program for the purpose of attending a private, public or charter school of choice. The Department of Defense would administer the program, in coordination with the Secretary of Education.", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Hunter, Duncan D.", 
+    "state": "CA", 
+    "thomas_id": "01909", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-25T18:33:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

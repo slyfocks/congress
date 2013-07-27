@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-16T16:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9562-9565, H9582-9583", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9562", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-16T20:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 547, 
+      "text": "On agreeing to the Obey amendment (A003) Failed by recorded vote: 209 - 216 (Roll no. 547).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt407-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to add $3.6 billion to the bill to improve the quality of life for the members of the armed forces in Iraq and Afghanistan.", 
+  "house_number": 3, 
+  "introduced_at": "2003-10-16", 
+  "number": 407, 
+  "purpose": "An amendment to insert provisions which seek to improve the quality of life for the troops.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-16T20:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

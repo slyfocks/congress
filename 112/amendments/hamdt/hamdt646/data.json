@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T20:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5008-5009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5008", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A043) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-14T15:03:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5048-5049", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 580, 
+      "text": "On agreeing to the Broun (GA) amendment (A043) Failed by recorded vote: 114 - 309 (Roll no. 580).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt646-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike the $6 million in funding for the Advanced Technology Vehicles Manufacturing Loan Program and apply the savings to the spending reduction account.", 
+  "house_number": 43, 
+  "introduced_at": "2011-07-13", 
+  "number": 646, 
+  "purpose": "An amendment numbered 48 printed in the Congressional Record to strike the funds for the Advanced Technology Vehicles Manufacturing Loan Program.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-14T15:03:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

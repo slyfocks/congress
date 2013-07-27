@@ -1,0 +1,85 @@
+<bill session="106" type="hc" number="211" updated="2013-07-14T18:55:22-04:00">
+  <state datetime="1999-11-16T14:25:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-11-16T14:25:00-05:00"/>
+  </status>
+  <introduced datetime="1999-10-27"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the strong suppport of the Congress for the recently concluded elections in the Republic of India and urging the President to travel to India.</title>
+  </titles>
+  <sponsor id="400003"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="1999-11-16"/>
+    <cosponsor id="400585" joined="1999-10-27"/>
+    <cosponsor id="400170" joined="1999-11-16"/>
+    <cosponsor id="400231" joined="1999-10-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-27">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1999-11-16T13:14:00-05:00">
+      <text>Mr. Campbell moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1999-11-16T13:14:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12015-12018" label="consideration"/>
+    </action>
+    <action datetime="1999-11-16T13:14:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 211.</text>
+    </action>
+    <action datetime="1999-11-16T13:41:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1999-11-16T14:17:00-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-16T14:25:00-05:00" how="roll" result="pass" roll="589" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 4 (Roll no. 589).</text>
+    </vote>
+    <action datetime="1999-11-16T14:25:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1999-11-19">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asia and the Pacific" name="House International Relations"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Democracy"/>
+    <term name="Foreign leaders"/>
+    <term name="Government operations and politics"/>
+    <term name="Government travel"/>
+    <term name="India"/>
+    <term name="International cooperation"/>
+    <term name="President and foreign policy"/>
+    <term name="South Asia"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1999--Introduced.
+Congratulates: (1) the people of the Republic of India on the successful conclusion of their recent national elections; and (2) Prime Minister Atal Bihari Vajpayee on his re-election.Calls on the President to travel to India as part of any trip to South Asia.Urges the President to broaden our special relationship with India into a strategic partnership.</summary>
+</bill>

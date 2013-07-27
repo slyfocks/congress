@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T20:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3651-3652", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3651", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T13:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3724-3725", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 358, 
+      "text": "On agreeing to the Maloney amendment (A024) Failed by recorded vote: 91 - 329 (Roll no. 358).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt324-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to ensure that any subpar maintenance of military aircraft not be withheld from public disclosure under the guise of keeping tactical information from enemies of the United States.", 
+  "house_number": 24, 
+  "introduced_at": "2011-05-25", 
+  "number": 324, 
+  "purpose": "An amendment numbered 47 printed in House Report 112-88 to clarify that the exemption from Freedom of Information Act for Data Files of the Military Flight Operations Quality Assurance Systems of the Military Departments is for \"information contained in data files of the military flight operations quality assurance system of a military department that would reveal flight patterns or tactical techniques or tactical procedures from disclosure under section.\".", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-26T13:08:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

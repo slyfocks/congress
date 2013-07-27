@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T19:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5148-5150", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5148", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mrs. Capito.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T20:00:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Capito amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt294-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires the Secretary of Energy to fund at least one coal gasification project from research and development funds contained in the bill.", 
+  "house_number": 9, 
+  "introduced_at": "2001-08-01", 
+  "number": 294, 
+  "purpose": "Part B amendment numbered 9 printed in House Report 107-178 to ensure that there is no \"back-loading\" of clean coal project funding to the last year(s) of the 10 year authorization period.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Capito, Shelley Moore", 
+    "state": "WV", 
+    "thomas_id": "01676", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-08-01T20:00:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

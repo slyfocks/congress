@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29T17:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5588-5591", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5588", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29T18:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Stupak amendment (A015) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt948-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for USDA nutrition programs for the elderly by $20 million.", 
+  "house_number": 15, 
+  "introduced_at": "2000-06-29", 
+  "number": 948, 
+  "purpose": "An amendment numbered 21 printed in the Congressional Record to increase the bill's funding for USDA's Nutrition Program for the Elderly by $20 million. The offset for this amount comes from Foreign Assistance funds (P.L. 480, Title II.).", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-29T18:24:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

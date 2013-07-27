@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T15:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3008-3009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3008", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-17T15:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Kucinich amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1101-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit the Joint Special Operations Command from conducting signature drone strikes, drone strikes against targets whose identity is not known or based solely on patterns of behavior.", 
+  "house_number": 3, 
+  "introduced_at": "2012-05-17", 
+  "number": 1101, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-485 to prohibit the Joint Special Operations Command from conducting signature drone strikes, drone strikes against targets whose identity is not known or based solely on patterns of behavior this target.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-17T15:54:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

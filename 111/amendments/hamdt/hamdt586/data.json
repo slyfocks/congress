@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-03-03T15:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1062-1063", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1062", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-03-03T16:14:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 81, 
+      "text": "On agreeing to the Flake amendment (A002) Agreed to by the Yeas and Nays: 391 - 24 (Roll no. 81).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt586-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4247-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4247
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment adds 2 new sections to the measure relating to the presumption of Congress that grants awarded under the bill will be awarded using competitive procedures and relating to a prohibition on earmarks.", 
+  "house_number": 2, 
+  "introduced_at": "2010-03-03", 
+  "number": 586, 
+  "purpose": "An amendment printed in Part B of House Report 111-425 to presume that grants awarded under this Act will be awarded using competitive, merit-based procedures, and would require that if a non-competitive basis is used, the Secretary of Education must report to Congress the reason why competition was not used. It also requires that no funds appropriated under this Act may be used for a congressional earmark, as defined in clause 9e of rule XXI of the Rules of the House of Representatives.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-03-03T16:14:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

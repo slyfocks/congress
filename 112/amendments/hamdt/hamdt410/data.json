@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-13T14:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4046-4067", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4046", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Mica.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-13T14:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Mica amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt410-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2055-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2055
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment transfers $25 million from the NATO Security Investment Program to the Military Construction Army National Guard account.", 
+  "house_number": 2, 
+  "introduced_at": "2011-06-13", 
+  "number": 410, 
+  "purpose": "An amendment printed in the Congressional Record to increase the funding for Military Construction Authorization by $25 million through transfer.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Mica, John L.", 
+    "state": "FL", 
+    "thomas_id": "00800", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-13T14:22:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

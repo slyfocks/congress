@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T16:06:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1258-1261, H1296-1297", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1258", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A109) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:12:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 109, 
+      "text": "On agreeing to the Markey amendment (A109) Failed by recorded vote: 174 - 251 (Roll no. 109).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt119-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds to be used to issue any new lease that authorizes production of oil or natural gas under the Outer Continental Shelf Lands Act to any lessee under an existing lease issued by the Department of Interior, where such existing lease is not subject to limitations on royalty relief based on market price.", 
+  "house_number": 109, 
+  "introduced_at": "2011-02-18", 
+  "number": 119, 
+  "purpose": "An amendment numbered 27 printed in the Congressional Record to prohibit the use of funds to be used to issue any new lease that authorizes production of oil or natural gas under the Outer Continental Shelf Lands Act.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-18T21:12:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

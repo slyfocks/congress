@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-14T22:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4171-4174", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4171", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Chaffetz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15T16:21:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4227-4228", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 424, 
+      "text": "On agreeing to the Chaffetz amendment (A010) Failed by recorded vote: 83 - 338 (Roll no. 424).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt428-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the Economic Research Service by $43 million; reduce funding for the National Agriculture Statistical Service by $85 million; reduce funding for the Agriculture research service by $650 million; zero out the Food for Peace program and to apply the savings to the spending reduction account.", 
+  "house_number": 10, 
+  "introduced_at": "2011-06-14", 
+  "number": 428, 
+  "purpose": "An amendment to reduce funding for the Economic Research Service by $43 million; reduce funding for the National Agricultural Statistics Service by $85 million; reduce funding for salaries and expenses of the Agricultural Research Service by $650 million; reduce funding for Food For Peace Title II Grants by $1,040,198,000 and to apply $1,818,198,000 to the savings reduction account.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-15T16:21:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

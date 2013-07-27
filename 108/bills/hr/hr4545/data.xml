@@ -1,0 +1,76 @@
+<bill session="108" type="h" number="4545" updated="2013-07-14T19:02:37-04:00">
+  <state datetime="2004-06-16T15:36:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2004-06-16T15:36:00-04:00"/>
+  </status>
+  <introduced datetime="2004-06-14"/>
+  <titles>
+    <title as="introduced" type="short">Gasoline Price Reduction Act of 2004</title>
+    <title as="introduced" type="official">To amend the Clean Air Act to reduce the proliferation of boutique fuels, and for other purposes.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400159" joined="2004-06-14"/>
+    <cosponsor id="400260" joined="2004-06-14"/>
+    <cosponsor id="400351" joined="2004-06-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-06-14">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2004-06-14">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2004-06-15T16:32:00-04:00">
+      <text>Mr. Barton (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2004-06-15T16:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4133-4139" label="consideration"/>
+    </action>
+    <action datetime="2004-06-15T16:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4545.</text>
+    </action>
+    <action datetime="2004-06-15T17:18:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until June 16.</text>
+    </action>
+    <action datetime="2004-06-16T15:27:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4206-4207" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2004-06-16T15:36:00-04:00" how="roll" result="fail" roll="247" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 236 - 194 (Roll no. 247).</text>
+      <reference ref="CR 6/15/2004 H4134" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative procedure"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Energy prices"/>
+    <term name="Energy shortages"/>
+    <term name="Energy supplies"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Environmental research"/>
+    <term name="Gasoline"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Law"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Reformulated gasoline"/>
+    <term name="Science, technology, communications"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/2004--Introduced.
+Gasoline Price Reduction Act of 2004 - Amends the Clean Air Act to authorize the Administrator of the Environmental Protection Agency to waive fuel or fuel additive provisions of applicable State implementation plans for national primary and secondary ambient air quality standards where necessary to address a significant fuel supply disruption in any area subject to a plan. Requires waivers to remain in effect for as long as the Administrator deems necessary. Prohibits enforcement actions against States or persons solely as the result of such waivers. Authorizes the Administrator to give preference to the approval of State implementation plan provisions that require the use of either reformulated gasoline or gasoline having a specified Reid Vapor Pressure for the high ozone season. Declares that the Administrator shall have no authority, when considering State implementation plan revisions, to approve any fuel or fuel additives if such approval would increase the total number of fuels and fuel additives approved in all State plans nationwide prior to June 1, 2004. Requires the Administrator, in cooperation with the Secretary of Energy, to undertake a study of the effects on air quality, the number of fuel blends, fuel availability, and fuel costs associated with the State plan provisions regarding gasoline authorized by this Act and to submit the results of such study to Congress.</summary>
+</bill>

@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-20T11:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4692-4701", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4692-4693", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-20T12:46:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A002) and on the bill pusuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-20T13:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 294, 
+      "text": "On agreeing to the Markey amendment (A002) Failed by the Yeas and Nays: 174 - 250 (Roll no. 294).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt834-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4201-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4201
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute sought to limit the eligibility to hold a noncommercial license to those that serve an educational, instructional, cultural, or educational religious purpose.", 
+  "house_number": 2, 
+  "introduced_at": "2000-06-20", 
+  "number": 834, 
+  "purpose": "An amendment made in order by H. Res. 527 to clarify that the service obligations of noncommercial broadcast stations are required to frame certain programs in an educational format.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-20T13:08:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

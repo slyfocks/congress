@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-25", 
+      "references": [
+        {
+          "reference": "CR S8815", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8815", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1428 proposed by Senator Warner for Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [
+        {
+          "reference": "CR S8898", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-04", 
+      "references": [
+        {
+          "reference": "CR S12378", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-04", 
+      "references": [], 
+      "text": "Proposed amendment SA 1428 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12497-12513", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1428 proposed by Senator Warner for Senator Durbin by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12500", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1428 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1428-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-22", 
+  "number": 1428, 
+  "proposed_at": "2005-07-25", 
+  "purpose": "To strengthen civil-military relationships by permitting State and local governments to enter into lease purchase agreements with the United States Armed Forces.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

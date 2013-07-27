@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-14T12:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4438-4441, H4466-4467", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4438", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-14T16:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 244, 
+      "text": "On agreeing to the Obey amendment (A002) Failed by recorded vote: 196 - 230 (Roll no. 244).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt249-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for State and Local Law Enforcement Assistance and for Community Oriented Policing Services.", 
+  "house_number": 2, 
+  "introduced_at": "2005-06-14", 
+  "number": 249, 
+  "purpose": "An amendment to increase funding for State and local law enforcement. The increase is offset by a reduction in funding for NASA.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-14T16:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

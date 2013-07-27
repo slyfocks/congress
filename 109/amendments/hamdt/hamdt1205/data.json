@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-07T13:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6332-6335, H6335-6336", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6332", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-07T14:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 432, 
+      "text": "On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 149 - 256, 1 Present (Roll no. 432).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1205-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr503-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 503
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide an exemption to the bill for Native Americans or people from other cultures that have traditionally consumed equine meat.", 
+  "house_number": 2, 
+  "introduced_at": "2006-09-07", 
+  "number": 1205, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-642 to provide that equines may be shipped, transported, moved, delivered, received, possessed, purchased, sold, or donated for slaughter for human consumption by Native Americans or people from other cultures that eat equine meat.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-09-07T14:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:20-04:00"
+}

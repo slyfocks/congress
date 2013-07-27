@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T22:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3474", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3474", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A054) offered by Mr. Brooks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-05T22:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brooks amendment (A054) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1223-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds in the ARPA-E account to be used for unallowable costs related to the advertising or promoting of private company-funded technologies or for unallowable expenditures related to raising private capital.", 
+  "house_number": 54, 
+  "introduced_at": "2012-06-05", 
+  "number": 1223, 
+  "purpose": "An amendment to prohibit the use of funds in the Advanced Research Projeacts Agency-Energy Account to be used for unallowable costs related to advertising or promoting the sale of products or services in contravention of the requirements of section 31.205-1, or for unallowable expenditures related to raising capital in contravention of the requirements of 31.205-27, of title 48 of the Code of Federal Regulations.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Mo", 
+    "state": "AL", 
+    "thomas_id": "01987", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-05T22:25:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

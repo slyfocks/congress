@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8472", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1287 proposed by Senator McConnell for Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8472", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1287 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1287-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-19", 
+  "number": 1287, 
+  "proposed_at": "2005-07-19", 
+  "purpose": "To limit funds relating to attendance of Federal employees at conferences occurring outside the United States, unless the Secretary of  State determines that such attendance is in the national interest.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-19", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

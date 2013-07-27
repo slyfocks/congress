@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-22", 
+      "references": [
+        {
+          "reference": "CR S10354", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10354", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1864 proposed by Senator Hutchison for Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-22", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1864 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1864-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2528-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2528
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-22", 
+  "number": 1864, 
+  "proposed_at": "2005-09-22", 
+  "purpose": "To place conditions on the use of appropriated funds for reviewing or revoking approved disability claims for post-traumatic stress disorder and to prohibit the Secretary of Veterans Affairs from using Federal funds for certain investigations until after the submission of a detailed implementation plan to the Committee on Appropriations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-22", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-17T21:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 6/18/2004 H4483-4487, H4502-4503", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 6/18/2004 H4483", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-18T00:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 265, 
+      "text": "On agreeing to the DeFazio amendment (A004) Failed by recorded vote: 180 - 228 (Roll no. 265).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt571-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4567-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike a provision in title II of the bill relating to the maximum staffing level for full-time equivalent aviation screeners.", 
+  "house_number": 4, 
+  "introduced_at": "2004-06-17", 
+  "number": 571, 
+  "purpose": "An amendment numbered seventeen printed in the Congressional Record to strike the proviso beginning on line 5.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-18T00:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-31T17:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 8/1/2007 H9256-9266", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 8/1/2007 H9256", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. McHenry to the Gingrey amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-02T18:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McHenry amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt726-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt725-110", 
+    "amendment_type": "hamdt", 
+    "congress": 110, 
+    "number": 725
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3161-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3161
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "See Gingrey amendment (A001) for description.", 
+  "house_number": 2, 
+  "introduced_at": "2007-07-31", 
+  "number": 726, 
+  "purpose": "An amendment to reduce the appropriation for the Office of the Secretary by $100,100.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-08-02T18:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

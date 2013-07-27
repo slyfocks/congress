@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-07T15:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8228-82229, H8233-8234", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8228", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mrs. McCarthy (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-07T16:44:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 897, 
+      "text": "On agreeing to the McCarthy (NY) amendment (A005) Failed by recorded vote: 177 - 246 (Roll no. 897).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt898-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt any rule relating to food safety, workplace safety, air quality, consumer product safety, or water quality from the provisions of the bill.", 
+  "house_number": 5, 
+  "introduced_at": "2011-12-07", 
+  "number": 898, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 112-311 to exempt any rule relating to food safety, workplace safety, air quality, consumer product safety, or water quality.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCarthy, Carolyn", 
+    "state": "NY", 
+    "thomas_id": "01503", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-07T16:44:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

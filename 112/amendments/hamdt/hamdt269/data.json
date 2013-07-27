@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-05T12:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3089-3090, H3091-3092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3089", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Connolly (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-05T13:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 296, 
+      "text": "On agreeing to the Connolly (VA) amendment (A002) Failed by recorded vote: 176 - 240 (Roll no. 296).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt269-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1230-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1230
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the President, in consultation with the Secretary of Defense, to certify that moving forward with Lease Sale 220 would not impede naval or other DOD operations off the coast of Virginia.", 
+  "house_number": 2, 
+  "introduced_at": "2011-05-05", 
+  "number": 269, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 112-73 to ensure that Lease Sale 220 does not interfere with Naval or other DOD operations.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-05T13:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

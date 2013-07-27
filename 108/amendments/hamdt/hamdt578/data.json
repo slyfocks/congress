@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-18T09:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4514-4516, H4552-4553", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4514", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-18T15:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 267, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A011) Failed by recorded vote: 137 - 269 (Roll no. 267).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt578-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4567-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for science and technology research, development, test and evaluation, acquisition, and operations by $10 million.", 
+  "house_number": 11, 
+  "introduced_at": "2004-06-18", 
+  "number": 578, 
+  "purpose": "An amendment to increase research, development, acquisition and operations by $10,000,000.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-18T15:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-24T22:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 7/25/2003 H7575-7591, H7591-7592", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 7/25/2003 H7575-7580", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T00:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 442, 
+      "text": "On agreeing to the Miller, George amendment (A002) Failed by recorded vote: 200 - 229 (Roll no. 442).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt322-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2210-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2210
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to strike the block grant program from the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2003-07-24", 
+  "number": 322, 
+  "purpose": "An amendment in the nature of a substitute numbered 2 printed in Part B of House Report 108-232 to retain the base bill and keep all the changes to Title I; retain longstanding civil rights protections currently guaranteed to Head Start teachers, parents, and volunteers; and to remove the block grant from the underlying bill.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-25T00:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

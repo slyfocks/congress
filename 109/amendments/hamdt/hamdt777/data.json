@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-26T16:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1803-1804", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1803", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-26T16:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lee amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt777-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5020-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2006-04-26", 
+  "number": 777, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-438 to require a report to House and Senate Intelligence committees describing an y authorization granted during the past 10 years to engage in intelligence activities related to the overthrow of a democratically elected government.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-26T16:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

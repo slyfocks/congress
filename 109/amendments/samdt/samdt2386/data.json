@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12321-12322", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12322", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2386 proposed by Senator Gregg for Senator Sununu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2386 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2386-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2386, 
+  "proposed_at": "2005-11-03", 
+  "purpose": "To ensure that amounts are not obligated out of the Digital Transition and Public Safety Fund until the proceeds of the auction are actually deposited by the FCC.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sununu, John E.", 
+    "state": "NH", 
+    "thomas_id": "01532", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

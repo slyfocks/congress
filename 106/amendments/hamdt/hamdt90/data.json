@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-13T12:31:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Goss to the Hinchey amendment (A004).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-13T12:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Goss amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt90-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt89-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 89
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1555-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1555
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Hinchey amendment (A004) for description.", 
+  "house_number": 5, 
+  "introduced_at": "1999-05-13", 
+  "number": 90, 
+  "purpose": "An amendment to the Hinchey amendment to strike the requirement to waive any provision of law prohibiting the dissemination of classified information concerning certain events in the Republic of Chile.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Goss, Porter J.", 
+    "state": "FL", 
+    "thomas_id": "00450", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-05-13T12:38:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

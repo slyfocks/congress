@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-13T15:53:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A010) offered by Mr. Menendez to the Terry amendment (A009).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-13T17:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 498, 
+      "text": "On agreeing to the Menendez amendment (A010) Agreed to by recorded vote: 253 - 173 (Roll no. 498).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt526-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt525-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 525
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1993-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1993
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Terry amendment (A009) for description.", 
+  "house_number": 10, 
+  "introduced_at": "1999-10-13", 
+  "number": 526, 
+  "purpose": "An amendment to clarify that the interventions requiring public disclosure are limited to those that intend to impede or delay.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-10-13T17:10:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

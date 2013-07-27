@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-22T11:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6363-6365, H6366-6367", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6361-6363", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-22T11:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 415, 
+      "text": "On agreeing to the Velazquez amendment (A004) Failed by recorded vote: 192 - 206 (Roll no. 415).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt511-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3070-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3070
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to require NASA to establish and carry out a pilot program to make grants to minority institutions for the development of physical facilities and infrastructure to be provided to NASA prime contractors for use in the performance of research, development, test, and evaluation projects pursuant to NASA prime contracts.", 
+  "house_number": 4, 
+  "introduced_at": "2005-07-22", 
+  "number": 511, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-179 to establish a four-year pilot grant program allowing NASA to expand advanced research opportunities through minority-serving institutions.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "thomas_id": "01184", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-22T11:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

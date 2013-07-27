@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-14", 
+      "references": [
+        {
+          "reference": "CR S3644", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3644", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 394 proposed by Senator Cochran for Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 394 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt394-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 394, 
+  "proposed_at": "2005-04-14", 
+  "purpose": "To require a report on the re-use and redevelopment of military installations closed or realigned as part of the 2005 round of base closure and realignment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-14", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

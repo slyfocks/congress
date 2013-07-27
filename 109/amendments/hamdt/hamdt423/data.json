@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30T11:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5497-5499, H5510-5511", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5497", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-30T14:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 347, 
+      "text": "On agreeing to the Sanders amendment (A030) Agreed to by recorded vote: 238 - 177 (Roll no. 347).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt423-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 30, 
+  "introduced_at": "2005-06-30", 
+  "number": 423, 
+  "purpose": "An amendment to prohibit use of funds in the bill to provide for the competitive sourcing of flight service stations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-30T14:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

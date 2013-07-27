@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T14:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H510", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H510", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Ms. Sanchez, Loretta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-03T14:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sanchez, Loretta amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt555-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires the President's report to Congress on the cybersecurity needs of the Federal Government to examine the current security clearance and job suitability requirements that may serve as a deterrent to hiring an adequately trained cyberworkforce.", 
+  "house_number": 11, 
+  "introduced_at": "2010-02-03", 
+  "number": 555, 
+  "purpose": "An amendment numbered 11 printed in House Report 111-410 to add \"job security clearance and suitability requirements\" to the issues that are to be considered in the cybersecurity workforce assessment.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-03T14:28:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

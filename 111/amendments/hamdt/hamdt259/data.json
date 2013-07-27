@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-24T19:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7214-7215, H7231", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7214", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-24T21:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 448, 
+      "text": "On agreeing to the Flake amendment (A014) Failed by recorded vote: 112 - 320 (Roll no. 448).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt259-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2892-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 14, 
+  "introduced_at": "2009-06-24", 
+  "number": 259, 
+  "purpose": "An amendment numbered 1 printed in Part D of House Report 111-183 to strike the $1 million earmark for SEARCH of Sacramento, CA, for interoperable communications, technical assistance and outreach programs.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-24T21:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

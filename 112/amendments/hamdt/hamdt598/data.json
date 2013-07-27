@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T19:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4834-4835", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4834", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Lamborn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:18:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4879-4880", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 542, 
+      "text": "On agreeing to the Lamborn amendment (A019) Failed by recorded vote: 164 - 259 (Roll no. 542).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt598-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prevent the Secretary of Energy from reallocating funds remaining from the American Recovery and Reinvestment Act from one State to another.", 
+  "house_number": 19, 
+  "introduced_at": "2011-07-11", 
+  "number": 598, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to strike language related to the allocation of funds relating to weatherization assistance funds.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lamborn, Doug", 
+    "state": "CO", 
+    "thomas_id": "01834", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:18:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

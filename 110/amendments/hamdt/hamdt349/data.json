@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-20T15:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6778-6782, H6792-6793", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6778", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mr. Wilson (SC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-20T18:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 525, 
+      "text": "On agreeing to the Wilson (SC) amendment (A034) Failed by recorded vote: 138 - 295 (Roll no. 525).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt349-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to reduce total amounts appropriated in the bill by $1,130,000,000.", 
+  "house_number": 34, 
+  "introduced_at": "2007-06-20", 
+  "number": 349, 
+  "purpose": "An amendment numbered 15 printed in the Congressional Record to reduce total amounts appropriated in the bill by $1,130,000,000.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wilson, Joe", 
+    "state": "SC", 
+    "thomas_id": "01688", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-20T18:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

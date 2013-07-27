@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-07T16:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8230-8232, H8234-8235", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3231", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Moore.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-07T16:52:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 899, 
+      "text": "On agreeing to the Moore amendment (A007) Failed by recorded vote: 183 - 240 (Roll no. 899).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt900-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt any rule relating to veterans or veterans affairs from the provisions of the bill.", 
+  "house_number": 7, 
+  "introduced_at": "2011-12-07", 
+  "number": 900, 
+  "purpose": "An amendment numbered 7 printed in Part B of House Report 112-311 to exempt any rule relating to veterans or veterans affairs.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "thomas_id": "01811", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-07T16:52:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

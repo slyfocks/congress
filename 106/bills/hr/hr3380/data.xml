@@ -1,0 +1,133 @@
+<bill session="106" type="h" number="3380" updated="2013-07-14T18:54:22-04:00">
+  <state datetime="2000-07-25T21:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-07-25T21:10:00-04:00"/>
+  </status>
+  <introduced datetime="1999-11-16"/>
+  <titles>
+    <title as="introduced" type="short">Military Extraterritorial Jurisdiction Act of 1999</title>
+    <title as="passed house" type="short">Military Extraterritorial Jurisdiction Act of 2000</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to establish Federal jurisdiction over offenses committed outside the United States by persons employed by or accompanying the Armed Forces, or by members of the Armed Forces who are released or separated from active duty prior to being identified and prosecuted for the commission of such offenses, and for other purposes.</title>
+  </titles>
+  <sponsor id="300021"/>
+  <cosponsors>
+    <cosponsor id="400596" joined="1999-11-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-11-16">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1999-11-16">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1999-11-16">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="1999-11-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2419"/>
+    </action>
+    <action datetime="1999-12-06">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="1999-12-16">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="1999-12-16">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2000-02-28">
+      <text>Favorable Executive Comment Received from DOD.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2000-03-30">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2000-05-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2000-05-11">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2000-06-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-06-27">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Judiciary"/>
+    </calendar>
+    <action datetime="2000-07-20T13:23:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 106-778, Part I.</text>
+    </action>
+    <action datetime="2000-07-20T13:24:00-04:00">
+      <text>House Committee on Armed Services Granted an extension for further consideration ending not later than July 20, 2000.</text>
+    </action>
+    <calendar datetime="2000-07-20T13:25:00-04:00" calendar="Union" number="443">
+      <text>Placed on the Union Calendar, Calendar No. 443.</text>
+    </calendar>
+    <action datetime="2000-07-20T13:25:00-04:00">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <action datetime="2000-07-25T20:52:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-07-25T20:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6928-6932" label="consideration"/>
+    </action>
+    <action datetime="2000-07-25T20:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3380.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-25T21:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref=" CR H6928-6929" label="text"/>
+    </vote>
+    <action datetime="2000-07-25T21:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-25T21:46:00-04:00">
+      <text>Laid on the table. See S. 768 for further action.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="supersedes" session="106" type="s" number="768"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative procedure"/>
+    <term name="Aliens"/>
+    <term name="Americans employed in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arrest"/>
+    <term name="Courts-martial and courts of inquiry"/>
+    <term name="Defense contracts"/>
+    <term name="Department of Defense"/>
+    <term name="Extraterritoriality"/>
+    <term name="Federal employees"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Immigration"/>
+    <term name="Jurisdiction"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Military operations"/>
+    <term name="Prosecution"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2000--Passed House amended.
+Military Extraterritorial Jurisdiction Act of 2000 - Amends the Federal criminal code to impose penalties upon an individual who while employed by or accompanying the armed forces outside the United States, or while a member of the armed forces outside the United States, engages in conduct that would constitute an offense punishable by imprisonment for more than one year if such conduct had been engaged in within the maritime and territorial jurisdiction of the United States. Prohibits a Federal criminal action if a recognized foreign government has prosecuted or is prosecuting such person for the conduct constituting the offense, except upon the approval of the Attorney General or Deputy Attorney General.Provides that: (1) nothing herein may be construed to deprive a court-martial, military commission, provost court, or other military tribunal of concurrent jurisdiction with respect to offenders or offenses that by statute or by the law of war may be tried by such an entity; and (2) no prosecution may be commenced against a member of the armed forces unless such member ceases to be such a member, or unless an indictment or information charges the member committed the offense with one or more other defendants at least one of whom is not a member.Provides for the arrest of such individuals outside the United States and their delivery to U.S. civilian law enforcement personnel.Authorizes the release to a recognized foreign government of persons who engage in such conduct in that country.Prohibits removal to a foreign country (with exceptions) unless: (1) a Federal magistrate judge orders the person to be removed to the United States to be present at a detention hearing, orders the detention of the person before trial (in which case the person shall be promptly removed to the United States for purposes of such detention), or otherwise orders the person to be removed to the United States; (2) the person is entitled to, and does not waive, a preliminary examination under the Federal Rules of Criminal Procedure, in which case the person shall be removed to the United States in time for such examination; and (3) the Secretary of Defense determines that military necessity requires that the limitations on removal be waived, in which case the person shall be removed to the nearest U.S. military installation outside the United States adequate to detain the person and facilitate his or her initial appearance.Provides that, in the case of any person arrested for or charged with a violation of this Act who is not delivered to authorities of a foreign country, the initial appearance of that person: (1) shall be conducted by a Federal magistrate judge; and (2) may be carried out by telephony or such other means that enables voice communication among the participants, including any counsel representing the person.Directs the Federal magistrate judge: (1) in conducting the initial appearance, to also determine whether there is probable cause to believe that an offense was committed and that the person committed it; and (2) if no motion is made seeking the person's detention before trial, to also determine at the initial appearance the conditions of the person's release before trial.Specifies that any detention hearing of such person: (1) shall be conducted by a Federal magistrate judge; and (2) at that person's request, may be carried out by a means that enables voice communication among the participants, including any counsel representing the person.Provides that if any initial proceeding with respect to such person is conducted while the person is outside the United States and the person is entitled to have counsel appointed for purposes of such proceeding, the Federal magistrate judge may appoint as such counsel for purposes of such hearing a qualified military counsel.Directs the Secretary of Defense to: (1) prescribe regulations governing the apprehension, detention, delivery, and removal of persons, and the facilitation of proceedings, under this Act; and (2) issue regulations requiring that notice be provided to any person covered by this Act who is not a U.S. national that such person is potentially subject to the criminal jurisdiction of the United States. States that failure to provide such notice shall not defeat such jurisdiction.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T19:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4300-4301, H4309-4310", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4300", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T21:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 300, 
+      "text": "On agreeing to the Hinchey amendment (A017) Failed by recorded vote: 158 - 262 (Roll no. 300).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1072-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 17, 
+  "introduced_at": "2006-06-20", 
+  "number": 1072, 
+  "purpose": "An amendment to prohibit any of the funds made available by the Act from being used to initiate military operations against Iran except in accordance with Article I, Section 8 of the Constitution of the United States.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-20T21:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

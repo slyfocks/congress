@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-14", 
+      "references": [
+        {
+          "reference": "CR S10901", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5122 proposed by Senator Hutchison for Senator Stevens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5122 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5122-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5385-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5385
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-13", 
+  "number": 5122, 
+  "proposed_at": "2006-11-14", 
+  "purpose": "To provide that, of the amount appropriated or otherwise made available by this title for Family Housing Operation and Maintenance, Army, $7,500,000 may be available for the lease of not more than 300 additional housing units in the vicinity of Fairbanks, Alaska.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stevens, Ted", 
+    "state": "AK", 
+    "thomas_id": "01440", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-11-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

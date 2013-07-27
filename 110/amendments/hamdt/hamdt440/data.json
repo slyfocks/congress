@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T11:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7219-7221, H7254", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7219-7220", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A046) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-27T16:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 569, 
+      "text": "On agreeing to the Flake amendment (A046) Failed by recorded vote: 86 - 343 (Roll no. 569).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt440-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 46, 
+  "introduced_at": "2007-06-27", 
+  "number": 440, 
+  "purpose": "An amendment to prohibit the use of funds to be used for the Southwestern Pennsylvania Heritage Preservation Commission in Hollidaysburg, Pennsylvania; the Westsylvania Heritage Corporation in Hollidaysburg, Pennsylvania; and the Progress Fund in Greensburg, Pennsylvania.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-27T16:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

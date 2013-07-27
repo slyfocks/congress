@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-07T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3955-3958", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H3960-3961", 
+          "type": null
+        }
+      ], 
+      "text": "Substitute (A007) offered by Mr. Boehlert to the Holt amendment (A006).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-07T14:33:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3955", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 240, 
+      "text": "On agreeing to the Boehlert amendment (A007) Failed by recorded vote: 210 - 214 (Roll no. 240).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt748-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt747-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 747
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3605-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3605
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Holt amendment (A006) sought to replace language which prohibits motorized vehicle use in the conservation area with language that would allow the use of motorized vehicles where authorized by the Bureau of Land Management.", 
+  "house_number": 7, 
+  "introduced_at": "2000-06-07", 
+  "number": 748, 
+  "purpose": "An amendment to allow the use of motorized vehicles where authorized by the Bureau of Land Management.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-07T14:33:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-06-12T16:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5383-5386", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Lampson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-18T16:17:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5537-5538", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5537", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 418, 
+      "text": "On agreeing to the Lampson amendment (A005) Agreed to by recorded vote: 429 - 1 (Roll no. 418).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1089-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6063-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 6063
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment exempts NASA from Section 526(a) of the Energy Independence and Security Act of 2007 if the contract does not specifically require the contractor to provide an alternative or synthetic fuel or fuel from a nonconventional source; if the purpose of the contract is not to obtain an alternative or synthetic fuel or fuel from a nonconventional petroleum source; and the contract does not provide incentives for a refinery upgrade or expansion to allow a refinery to use or increase its use of fuel from a nonconventional petroleum source.", 
+  "house_number": 5, 
+  "introduced_at": "2008-06-12", 
+  "number": 1089, 
+  "purpose": "An amendment numbered 5 printed in House Report 110-707 to exempt NASA from Section 526(a) of the Energy Independence and Security Act of 2007 if the contract does not specifically require the contractor to provide an alternative or synthetic fuel or fuel from a nonconventional source, the purpose of the contract is not to obtain an alternative or synthetic fuel or fuel from a nonconventional petroleum source, and the contract does not provide incentives for a refinery upgrade or expansion to allow a refinery to use or increase its use of fuel from a nonconventional petroleum source.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Lampson, Nick", 
+    "state": "TX", 
+    "thomas_id": "01500", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-06-18T16:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

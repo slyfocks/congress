@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-26T18:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7152-7170, H7193-7194", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7152", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Pearce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-26T22:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 558, 
+      "text": "On agreeing to the Pearce amendment (A029) Failed by recorded vote: 172 - 258 (Roll no. 558).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt423-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 29, 
+  "introduced_at": "2007-06-26", 
+  "number": 423, 
+  "purpose": "An amendment to prohibit use of funds for the continued operation of the Mexican Wolf Recovery program.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-26T22:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

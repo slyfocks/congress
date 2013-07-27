@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "references": [
+        {
+          "reference": "CR S11640-11642", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11640", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2122 proposed by Senator Bond for Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2122 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2122-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-19", 
+  "number": 2122, 
+  "proposed_at": "2005-10-20", 
+  "purpose": "To allow disabled and non-disabled tenant to keep their section 8 contracts on their properties post foreclosure.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-20", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

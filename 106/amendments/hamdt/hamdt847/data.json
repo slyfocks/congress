@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-21T12:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4824", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4824", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Saxton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T12:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Saxton amendment (A015) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt847-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for the National Estuary program by $33.9 million and decrease NASA funding accordingly.", 
+  "house_number": 15, 
+  "introduced_at": "2000-06-21", 
+  "number": 847, 
+  "purpose": "An amendment to increase the appropriation for Environmental Programs and Management by $33,900,000 from $1,900,000,000 to $1,933,900,000 by reducing the appropriation for Mission Support under NASA by $33,900,000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Saxton, Jim", 
+    "state": "NJ", 
+    "thomas_id": "01023", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-21T12:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-14", 
+      "references": [
+        {
+          "reference": "CR S10032", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10032", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1715 proposed by Senator Shelby for Senator DeWine to Amendment SA 1671.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1715 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1715-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1671-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 1671
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-14", 
+  "number": 1715, 
+  "proposed_at": "2005-09-14", 
+  "purpose": "To make funds available for aeronautics research and development programs of the National Aeronautics and Space Administration.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeWine, Mike", 
+    "state": "OH", 
+    "thomas_id": "00293", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-14", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

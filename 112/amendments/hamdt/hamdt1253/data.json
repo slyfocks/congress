@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T22:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3556-3557, H3570-3571", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3556", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Ms. Hahn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 351, 
+      "text": "On agreeing to the Hahn amendment (A022) Failed by recorded vote: 144 - 273 (Roll no. 351).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1253-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase the funding for port security grants by $75 million and to reduce the funds for the National Bio and Agro-Defense Facility account by a similar amount.", 
+  "house_number": 22, 
+  "introduced_at": "2012-06-06", 
+  "number": 1253, 
+  "purpose": "An amendment to increase the State and Local Programs within the Federal Emergency Management Agency account by $75 million and reducing the Science and Technology Research, Development, Acquistion, and Operations account by $75 million.", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Hahn, Janice", 
+    "state": "CA", 
+    "thomas_id": "02089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T23:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

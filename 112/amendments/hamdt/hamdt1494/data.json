@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-21T09:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6243-6245, H6253", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6243-6244", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-21T11:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 600, 
+      "text": "On agreeing to the Flake amendment (A012) Agreed to by recorded vote: 228 - 183 (Roll no. 600).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1494-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3409-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3409
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment ensures that States continue to have control over regional haze regulations by limiting EPA's ability to override States' management of regional haze and allowing States to implement their own regional haze management plans.", 
+  "house_number": 12, 
+  "introduced_at": "2012-09-21", 
+  "number": 1494, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-680 to give power to the states to revoke any existing federal implementation plan (FIP) with regard to the regulation of visibility. In revoking the FIP, the state must propose a state implementation plan (SIP) to regulate visibility within 2 years. The Amendment also gives the states a minimum of five years to become compliant with federal standards if they choose to accept the FIP, allowing businesses time to plan for the changes.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-09-21T11:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

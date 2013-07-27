@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-05T14:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3197-3202", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3197", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Woolsey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-05T15:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 211, 
+      "text": "On agreeing to the Woolsey amendment (A002) Failed by recorded vote: 165 - 259 (Roll no. 211).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt501-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4664-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4664
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to establish the Biosafety Research Program by authorizing $35 million for support of fundamental research in areas related to assessing biosafety.", 
+  "house_number": 2, 
+  "introduced_at": "2002-06-05", 
+  "number": 501, 
+  "purpose": "An amendment to establish the Biosafety Research program by authorizing $35 million for support of fundamental research in areas related to assessing biosafety.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Woolsey, Lynn C.", 
+    "state": "CA", 
+    "thomas_id": "01242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-06-05T15:55:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

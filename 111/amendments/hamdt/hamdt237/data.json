@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T20:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6962", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6962", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T13:54:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6995", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 377, 
+      "text": "On agreeing to the Campbell amendment (A027) Failed by recorded vote: 102 - 317 (Roll no. 377).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt237-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit use of funds for the Summer Flounder and Black Sea Initiative project of the Partnership for the Mid-Atlantic Fisheries, Point Pleasant Beach, New Jersey.", 
+  "house_number": 27, 
+  "introduced_at": "2009-06-17", 
+  "number": 237, 
+  "purpose": "An amendment numbered 107 printed in the Congressional Record to prohibit use of funds for the Summer Flounder and Black Sea Initiative project of the Partnership for the Mid-Atlantic Fisheries, Point Pleasant Beach, New Jersey.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T13:54:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

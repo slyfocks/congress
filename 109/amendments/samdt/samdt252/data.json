@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 252 proposed by Senator Pryor.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2943", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2943", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 252 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt252-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 252, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To create a reserve fund for extension of the treatment of combat pay as earned income for purposes of the earned income tax credit and the child tax credit.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

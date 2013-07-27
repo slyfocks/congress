@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21", 
+      "references": [
+        {
+          "reference": "CR S8640-8648, S8654-8657", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8640", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1380 proposed by Senator Lugar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 200, 
+      "text": "Amendment SA 1380 agreed to in Senate by Yea-Nay Vote. 78 - 19. Record Vote Number: 200.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1380-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-21", 
+  "number": 1380, 
+  "proposed_at": "2005-07-21", 
+  "purpose": "To improve authorities to address urgent nonproliferation crises and United States nonproliferation operations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lugar, Richard G.", 
+    "state": "IN", 
+    "thomas_id": "01387", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

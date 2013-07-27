@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-18T09:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7126-7129, H7144", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7126", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-18T11:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 391, 
+      "text": "On agreeing to the Andrews amendment (A002) Failed by recorded vote: 194 - 213 (Roll no. 391).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt277-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reduce funding for the Delaware River Main Channel deepening project by $7.7 million.", 
+  "house_number": 2, 
+  "introduced_at": "2003-07-18", 
+  "number": 277, 
+  "purpose": "An amendment to reduce general construction funding by $7,700,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-18T11:37:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

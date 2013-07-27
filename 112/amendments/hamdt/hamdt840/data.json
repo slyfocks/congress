@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-14T12:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6948-6949, H6954-6955", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6948", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-14T13:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 796, 
+      "text": "On agreeing to the Markey amendment (A004) Failed by recorded vote: 185 - 223 (Roll no. 796).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt840-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2273-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2273
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that before a State can waive any of the criteria under the bill, the State must first notify the public and the EPA and offer the opportunity for public comment.", 
+  "house_number": 4, 
+  "introduced_at": "2011-10-14", 
+  "number": 840, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-244 to require the States to notify the public and the EPA and offer the opportunity to comment before a State establishes a program to regulate coal combustion waste.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-14T13:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

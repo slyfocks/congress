@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-05T15:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9357-9358", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Jackson-Lee (TX) to the McCollum amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-05T16:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 477, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A002) Agreed to by recorded vote: 424 - 0 (Roll no. 477).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt511-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt510-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 510
+  }, 
+  "amends_bill": {
+    "bill_id": "hr764-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 764
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See McCollum amendment (A001) for description.", 
+  "house_number": 2, 
+  "introduced_at": "1999-10-05", 
+  "number": 511, 
+  "purpose": "An amendment to clarify that child abuse includes child sexual abuse.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-10-05T16:58:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

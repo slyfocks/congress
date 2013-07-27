@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T21:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5369", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5369", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Hanna.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-21T21:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hanna amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt708-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2551-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2551
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2011-07-21", 
+  "number": 708, 
+  "purpose": "An amendment numbered 16 printed in House Report 112-173 to prohibit use of funds by the Chief Administrative Officer to make any payments from any MRA for the leasing of a vehicle in an amount that exceeds $1,000 in any month.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Hanna, Richard L.", 
+    "state": "NY", 
+    "thomas_id": "02044", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-21T21:19:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

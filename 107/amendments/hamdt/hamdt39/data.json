@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-16T16:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2242-2247", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2242", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Lantos.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-16T18:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 119, 
+      "text": "On agreeing to the Lantos amendment (A008) Agreed to by recorded vote: 216 - 210 (Roll no. 119).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt39-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment prohibits international military education and training funding to Lebanon unless the President certifies that the Lebanese armed forces have been deployed to the internationally recognized border between Lebanon and Israel and that the Lebanese government effectively secures the borders where the armed forces are deployed.", 
+  "house_number": 8, 
+  "introduced_at": "2001-05-16", 
+  "number": 39, 
+  "purpose": "An amendment numbered 23 printed in House Report 107-62 to prohibit IMET for the armed forces of Lebanon unless the President certifies that the Lebanese Army has deployed to the internationally recognized border between Lebanon and Israel and the Government of Lebanon is effectivley asserting its authority.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Lantos, Tom", 
+    "state": "CA", 
+    "thomas_id": "00663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-16T18:03:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

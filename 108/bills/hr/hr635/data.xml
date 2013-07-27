@@ -1,0 +1,60 @@
+<bill session="108" type="h" number="635" updated="2013-07-14T19:00:44-04:00">
+  <state datetime="2003-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2003-02-05"/>
+  </status>
+  <introduced datetime="2003-02-05"/>
+  <titles>
+    <title as="introduced" type="official">To assure that enrollment in any Medicare prescription drug program is voluntary.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2003-02-05">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2003-02-05">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2003-02-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2003-02-05">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2003-02-12">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2003-02-14">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2003-03-03">
+      <text>Referred to the Subcommittee on Employer-Employee Relations.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Employer-Employee Relations" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Collective bargaining"/>
+    <term name="Drugs"/>
+    <term name="Employee health benefits"/>
+    <term name="Labor and employment"/>
+    <term name="Labor contracts"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2003--Introduced.
+Makes enrollment in a prescription drug plan established under title XVIII (Medicare) of the Social Security Act totally voluntary. Declares that no individual is required to enroll in such a plan as part of any contract with any employer or under any collective bargaining agreement or otherwise.</summary>
+</bill>

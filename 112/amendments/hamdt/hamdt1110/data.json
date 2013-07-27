@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T17:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3024-3026, H3037-3038", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3024", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-17T19:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 269, 
+      "text": "On agreeing to the Polis amendment (A012) Failed by recorded vote: 165 - 252 (Roll no. 269).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1110-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the amount for the ground-based midcourse missile defense system by $403 million.", 
+  "house_number": 12, 
+  "introduced_at": "2012-05-17", 
+  "number": 1110, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-485 to reduce the amount for the ground-based midcourse missile defense system by $403 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-17T19:20:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

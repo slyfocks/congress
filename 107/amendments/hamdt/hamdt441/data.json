@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-03-13T16:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H877-879, H883-884", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H877", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Frank.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-13T16:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H877", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Frank amendment (A007) modified by unanimous consent. The modification changes page and line numbers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-13T17:27:00-05:00", 
+      "references": [], 
+      "text": "On agreeing to the Frank amendment (A007) as modified Failed by recorded vote: 191 - 234 (Roll no. 60).", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt441-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2341-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2341
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment, as modified, sought to require Federal courts which refuse to certify a class action under Rule 23 of the Federal Rules of Civil Procedure to remand all aspects of the action to the State court from which it was removed.", 
+  "house_number": 7, 
+  "introduced_at": "2002-03-13", 
+  "number": 441, 
+  "purpose": "An amendment that provides that aspects of class actions filed in state court that could not be maintained under F.R.Civ.P.23 in Federal court will still be heard by a state court rather than either dismissed or removed and remanded. Such an action refused to be heard by the Federal court could only be removed again to federal court if it met the diversity standards of 28 U.S.C. Section 1332(a).", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2002-03-13", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

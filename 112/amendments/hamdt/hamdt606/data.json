@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T20:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4843-4844", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4843", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Garrett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4884-4885", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 549, 
+      "text": "On agreeing to the Garrett amendment (A027) Failed by recorded vote: 149 - 274 (Roll no. 549).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt606-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce various accounts by $500 million and to apply the savings to the spending reduction account.", 
+  "house_number": 27, 
+  "introduced_at": "2011-07-11", 
+  "number": 606, 
+  "purpose": "An amendment to reduce various accounts by $500 million and to apply the savings to the deficit reduction account.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

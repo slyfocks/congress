@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-11", 
+      "references": [
+        {
+          "reference": "CR S7967", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7967", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1133 proposed by Senator Gregg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-11", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1133 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1133-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1133, 
+  "proposed_at": "2005-07-11", 
+  "purpose": "To increase funding for certain programs authorized by the Federal Fire Prevention and Control Act of 1974.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gregg, Judd", 
+    "state": "NH", 
+    "thomas_id": "00466", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-11", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-22T12:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2516-2519", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2516-2518", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Boehner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-22T13:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boehner amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt43-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment modifies the bill and makes technical and clarifying changes.", 
+  "house_number": 1, 
+  "introduced_at": "2001-05-22", 
+  "number": 43, 
+  "purpose": "An amendment numbered 1 printed in House Report 107-69 to make various technical and conforming changes, including several clarifications.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Boehner, John A.", 
+    "state": "OH", 
+    "thomas_id": "00102", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-22T13:02:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

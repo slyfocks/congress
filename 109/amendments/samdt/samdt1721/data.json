@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-15", 
+      "references": [
+        {
+          "reference": "CR S10065-10066", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10065-10066", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1721 proposed by Senator Shelby for Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1721 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1721-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-15", 
+  "number": 1721, 
+  "proposed_at": "2005-09-15", 
+  "purpose": "To permit certain health professionals who are displaced by Hurricane Katrina to provide health-related services under the medicare, medicaid, SCHIP, and Indian Health Service programs in States to which such professionals relocate.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-15", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

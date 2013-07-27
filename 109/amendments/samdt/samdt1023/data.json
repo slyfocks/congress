@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7404", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7404", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1023 proposed by Senator Dorgan for Senator Boxer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7477", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "references": [
+        {
+          "reference": "CR S7552, S7552-7561", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 162, 
+      "text": "Amendment SA 1023 agreed to in Senate by Yea-Nay. 60 - 37. Record Vote Number: 162.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1023-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1023, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To prohibit the use of funds by the Administrator of the Environmental Protection Agency to accept, consider, or rely on third-party intentional dosing human studies for pesticides or to conduct intentional dosing human studies for pesticides.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-29", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

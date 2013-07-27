@@ -1,0 +1,89 @@
+<bill session="106" type="h" number="433" updated="2013-07-14T18:53:01-04:00">
+  <state datetime="1999-03-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1999-03-05"/>
+  </status>
+  <introduced datetime="1999-02-02"/>
+  <titles>
+    <title as="introduced" type="short">District of Columbia Management Restoration Act of 1999</title>
+    <title as="enacted" type="short">District of Columbia Management Restoration Act of 1999</title>
+    <title as="introduced" type="official">To restore the management and personnel authority of the Mayor of the District of Columbia.</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400523" joined="1999-02-09"/>
+    <cosponsor id="400506" joined="1999-02-08"/>
+    <cosponsor id="400283" joined="1999-02-08"/>
+    <cosponsor id="400524" joined="1999-02-02"/>
+    <cosponsor id="400295" joined="1999-02-02"/>
+    <cosponsor id="400608" joined="1999-02-08"/>
+    <cosponsor id="400393" joined="1999-02-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-02">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="1999-02-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-02-03">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="1999-02-09T18:03:00-05:00">
+      <text>Committee on Government Reform discharged.</text>
+    </action>
+    <action datetime="1999-02-09T18:03:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H527-528" label="consideration"/>
+    </action>
+    <action datetime="1999-02-09T18:05:00-05:00">
+      <text>Mr. Davis (VA) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-02-09T18:06:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1999-02-09T18:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-02-11">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1999-02-23" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1844" label="consideration"/>
+    </vote>
+    <topresident datetime="1999-02-23">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1999-02-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1999-02-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1999-03-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1999-03-05" type="public" number="106-1">
+      <text>Became Public Law No: 106-1.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Federal-city relations"/>
+    <term name="Mayors"/>
+    <term name="Municipal home rule"/>
+    <term name="Municipal politics and government"/>
+    <term name="Urban affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1999--Introduced.
+District of Columbia Management Restoration Act of 1999 - Repeals subtitle B (District of Columbia Management Reform Act of 1997) of title XI (District of Columbia Revitalization) of the Balanced Budget Act of 1997, which requires the District of Columbia Financial Responsibility and Management Assistance Authority and the government of the District of Columbia to develop and implement management reform plans for specified District of Columbia governmental departments. Makes a conforming amendment to the Taxpayer Relief Act of 1997.</summary>
+</bill>

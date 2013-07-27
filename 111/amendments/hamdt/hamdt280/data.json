@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-25T22:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7429-7430", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7429", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-26T12:03:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7466", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7466", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 469, 
+      "text": "On agreeing to the Stearns amendment (A006) Failed by recorded vote: 170 - 261 (Roll no. 469).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt280-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2996-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2996
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to decrease the funding included in the Interior and Environment Appropriations Act for the Environmental Protection Agency by 38% to reduce spending to 2009 levels.", 
+  "house_number": 6, 
+  "introduced_at": "2009-06-25", 
+  "number": 280, 
+  "purpose": "An amendment numbered 6 printed in Part B of House Report 111-184 to decrease the funding included in the Interior and Environment Appropriations Act for the Environmental Protection Agency by 38% to reduce spending to 2009 levels.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-26T12:03:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

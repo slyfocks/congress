@@ -1,0 +1,158 @@
+<bill session="106" type="h" number="3046" updated="2013-07-14T18:54:14-04:00">
+  <state datetime="1999-10-19T15:19:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-10-19T15:19:00-04:00"/>
+  </status>
+  <introduced datetime="1999-10-07"/>
+  <titles>
+    <title as="introduced" type="short">Banking and Housing Agency Accountability Preservation Act</title>
+    <title as="passed house" type="short">Banking and Housing Agency Accountability Preservation Act</title>
+    <title as="introduced" type="official">To preserve limited Federal agency reporting requirements on banking and housing matters to facilitate congressional oversight and public accountability, and for other purposes.</title>
+  </titles>
+  <sponsor id="400236"/>
+  <cosponsors>
+    <cosponsor id="400537" joined="1999-10-07"/>
+    <cosponsor id="400533" joined="1999-10-07"/>
+    <cosponsor id="400612" joined="1999-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-07">
+      <text>Referred to the House Committee on Banking and Financial Services.</text>
+    </action>
+    <action datetime="1999-10-19T15:03:00-04:00">
+      <text>Mrs. Kelly moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1999-10-19T15:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10232-10235" label="consideration"/>
+    </action>
+    <action datetime="1999-10-19T15:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3046.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-10-19T15:19:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-10-19T15:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-10-20">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+    <action datetime="1999-10-25">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1999-10-25">
+      <text>Referred to the Subcommittee on Housing and Community Opportunity.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1999-10-25">
+      <text>Referred to the Subcommittee on Domestic and International Monetary Policy.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking and Financial Services" activity="Referral"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Banking and Financial Services"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Opportunity" name="House Banking and Financial Services"/>
+    <committee activity="Referral" code="HSBA08" subcommittee="Domestic and International Monetary Policy" name="House Banking and Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Alaska"/>
+    <term name="Appalachia"/>
+    <term name="Armed forces and national security"/>
+    <term name="Auditing"/>
+    <term name="Bank examination"/>
+    <term name="Bank failures"/>
+    <term name="Bank fraud"/>
+    <term name="Bank loans"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Collection of accounts"/>
+    <term name="Commerce"/>
+    <term name="Community development"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Consumer credit"/>
+    <term name="Consumer protection"/>
+    <term name="Credit cards"/>
+    <term name="Credit unions"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation"/>
+    <term name="Defense industries"/>
+    <term name="Deposit insurance"/>
+    <term name="Discrimination in consumer credit"/>
+    <term name="Economic forecasting"/>
+    <term name="Economic statistics"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Environmental protection"/>
+    <term name="Export credit"/>
+    <term name="Export finance"/>
+    <term name="Exports"/>
+    <term name="Federal reserve system"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Flood insurance"/>
+    <term name="Foreclosure"/>
+    <term name="Foreign exchange"/>
+    <term name="Foreign loans"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Government statistics"/>
+    <term name="Government trust funds"/>
+    <term name="Governmental investigations"/>
+    <term name="Health"/>
+    <term name="Housing and community development"/>
+    <term name="Housing codes"/>
+    <term name="Housing discrimination"/>
+    <term name="Housing statistics"/>
+    <term name="Housing subsidies"/>
+    <term name="Human rights"/>
+    <term name="Indian housing"/>
+    <term name="Industrialized building"/>
+    <term name="Infrastructure"/>
+    <term name="Interest rates"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="International competitiveness"/>
+    <term name="International monetary system"/>
+    <term name="Labor and employment"/>
+    <term name="Labor statistics"/>
+    <term name="Lead poisoning"/>
+    <term name="Loan defaults"/>
+    <term name="Low-income housing"/>
+    <term name="Military readiness"/>
+    <term name="Minorities"/>
+    <term name="Monetary policy"/>
+    <term name="Mortgage banks"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Mortgage loans"/>
+    <term name="Multilateral development banks"/>
+    <term name="Paints and varnishes"/>
+    <term name="Performance measurement"/>
+    <term name="Prefabricated buildings"/>
+    <term name="Prosecution"/>
+    <term name="Public housing"/>
+    <term name="Regional economic development"/>
+    <term name="Rent subsidies"/>
+    <term name="Rental housing"/>
+    <term name="Residential rehabilitation"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Rural economic development"/>
+    <term name="Savings and loan associations"/>
+    <term name="Service industries"/>
+    <term name="Single family housing"/>
+    <term name="Skilled labor"/>
+    <term name="Small business"/>
+    <term name="Social welfare"/>
+    <term name="Unemployment"/>
+    <term name="Urban affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>10/19/1999--Passed House amended.
+Banking and Housing Agency Accountability Preservation Act - Makes a provision of the Federal Reports Elimination and Sunset Act of 1995 which terminates on December 31, 1999, all reporting requirements included on a list prepared by the Clerk of the House of Representatives for the first session of the 103rd Congress inapplicable to certain monetary policy, banking, and housing reporting requirements under specified Acts. Includes among the 42 exempted provisions requirements for the President's Economic Report, the annual report of the Council of Economic Advisers, and the semiannual Humphrey-Hawkins Report of the Federal Reserve. Amends the: (1) Export-Import Bank Act of 1945 to eliminate certain activity and fiscal authority reporting requirements of the Export-Import Bank; and (2) Federal Deposit Insurance Act to eliminate the requirement for a semiannual report on activities and efforts of the Federal Deposit Insurance Corporation.</summary>
+</bill>

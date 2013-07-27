@@ -1,0 +1,84 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-12", 
+      "references": [
+        {
+          "reference": "CR S8129", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8129", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1111 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8155", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8248, S8255", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8255", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1111 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1111-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1111, 
+  "proposed_at": "2005-07-12", 
+  "purpose": "To prohibit the use of funds appropriated under this Act to promulgate the regulations to implement the plan developed pursuant to section 7209(b) of the 9/11 Commission Implementation Act of 2004, to limit United States citizens to a passport as the exclusive document to be presented upon entry into the United States from Canada by land.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

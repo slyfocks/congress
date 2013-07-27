@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8268, S8279", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8268", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1223 proposed by Senator Frist.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 187, 
+      "text": "Amendment SA 1223 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 187.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1223-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-14", 
+  "number": 1223, 
+  "proposed_at": "2005-07-14", 
+  "purpose": "To protect classified information and to protect our servicemen and women.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-10T17:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3132-3134, H3141", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3132", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-10T18:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 299, 
+      "text": "On agreeing to the Polis amendment (A001) Failed by recorded vote: 167 - 245 (Roll no. 299).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt270-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1229-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1229
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require safety review of permits to take into consideration all applicable safety, environmental and fisheries laws.", 
+  "house_number": 1, 
+  "introduced_at": "2011-05-10", 
+  "number": 270, 
+  "purpose": "An amendment numbered 1 printed in Part A of House Report 112-73 to require safety review of permits to take into consideration all applicable safety, environmental and fisheries laws.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-10T18:56:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

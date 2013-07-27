@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T19:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4837-4838", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4837-4838", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Miller (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:26:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4881", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 544, 
+      "text": "On agreeing to the Miller (NC) amendment (A022) Failed by recorded vote: 179 - 244 (Roll no. 544).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt601-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funds for energy efficiency and renewable energy by $24,018,000 by reducing funds for fossil energy research and development.", 
+  "house_number": 22, 
+  "introduced_at": "2011-07-11", 
+  "number": 601, 
+  "purpose": "An amendment to increase funds for energy efficiency and renewable energy by $24,018,000 by reducing funds for fossil energy research and development.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Brad", 
+    "state": "NC", 
+    "thomas_id": "01735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

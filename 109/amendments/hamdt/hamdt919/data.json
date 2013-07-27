@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24T17:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3184-3185, H3195", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3184", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Berkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24T19:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 200, 
+      "text": "On agreeing to the Berkley amendment (A008) Failed by recorded vote: 147 - 271 (Roll no. 200).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt919-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5427-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 8, 
+  "introduced_at": "2006-05-24", 
+  "number": 919, 
+  "purpose": "An amendment to prohibit any of the funds made available by the Act from being used by the Office of Civilian Radioactive Waste Management to administer the \"Yucca Mountain Youth Zone\" website.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Berkley, Shelley", 
+    "state": "NV", 
+    "thomas_id": "01576", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24T19:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

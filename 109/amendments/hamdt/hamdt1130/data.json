@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T14:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4721-4722, H4741", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4721", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T17:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 336, 
+      "text": "On agreeing to the Flake amendment (A034) Failed by recorded vote: 63 - 356 (Roll no. 336).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1130-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 34, 
+  "introduced_at": "2006-06-28", 
+  "number": 1130, 
+  "purpose": "An amendment to prohibit funds from being used for the Johnstown Area Regional Industries (JARI) organization.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-28T17:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-19T12:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8133-8135, H8163-8164", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8133", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A078) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-19T17:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 678, 
+      "text": "On agreeing to the Campbell (CA) amendment (A078) Failed by recorded vote: 108 - 316 (Roll no. 678).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt587-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 78, 
+  "introduced_at": "2007-07-19", 
+  "number": 587, 
+  "purpose": "An amendment numbered 62 printed in the Congressional Record to prohibit the use of funds for the Charles B. Rangel Center for Public Service, City College of New York, NY.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-19T17:16:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

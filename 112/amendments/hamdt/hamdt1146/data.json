@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T15:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3297-3298", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3297", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Thompson (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T15:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Thompson (CA) amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1146-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5743-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5743
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires the Director of National Intelligence to report to Congress on how the Intelligence Community can improve the methods by which subcontractors are granted security clearances and are notified of classified contracting opportunities within the federal government.", 
+  "house_number": 2, 
+  "introduced_at": "2012-05-31", 
+  "number": 1146, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-504 to require the Director of National Intelligence to report to Congress how the Intelligence Community can improve the methods by which subcontractors are granted security clearances and notified of classified contracting opportunities within the federal government.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "thomas_id": "01593", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-31T15:04:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

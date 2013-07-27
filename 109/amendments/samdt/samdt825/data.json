@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23", 
+      "references": [
+        {
+          "reference": "CR S7264-7266", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7264-7265", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 825 proposed by Senator Craig for Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 825 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt825-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-21", 
+  "number": 825, 
+  "proposed_at": "2005-06-23", 
+  "purpose": "To establish a 4-year pilot program to provide emergency relief to small business concerns affected by a significant increase in the price of heating oil, natural gas, propane, gasoline, or kerosene.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

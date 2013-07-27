@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-08T17:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H13358-13359", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H13358", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Klein (FL) to the Brown-Waite, Ginny amendment (A008).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-08T17:26:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Klein (FL) amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt893-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt892-110", 
+    "amendment_type": "hamdt", 
+    "congress": 110, 
+    "number": 892
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3355-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3355
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment modifies the instruction prohibiting price gouging by replacing it with language discouraging price gouging.", 
+  "house_number": 9, 
+  "introduced_at": "2007-11-08", 
+  "number": 893, 
+  "purpose": "An amendment to modify the instruction prohibiting price gouging by replacing it with language discouraging price gouging.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Klein, Ron", 
+    "state": "FL", 
+    "thomas_id": "01842", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-11-08T17:26:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

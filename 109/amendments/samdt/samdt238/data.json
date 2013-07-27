@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2943-2944, S2947-2948", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 238 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2943-2944", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 80, 
+      "text": "Amendment SA 238 as modified agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 80.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt238-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 238, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To promote innovation and U.S. competitiveness by expressing the sense of the Senate urging the Senate Committee on Appropriations to make efforts to fund the Advanced Technology Program, which supports industry-led research and development of cutting-edge technologies with broad commercial potential and societal benefits.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

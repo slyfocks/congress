@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-14", 
+      "references": [
+        {
+          "reference": "CR S10019-10021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10019", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1701 proposed by Senator Shelby for Senator Clinton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1701 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1701-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-13", 
+  "number": 1701, 
+  "proposed_at": "2005-09-14", 
+  "purpose": "To increase funding for the Technology Opportunity Program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-14", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

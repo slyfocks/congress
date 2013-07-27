@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-10T14:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H318-327", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Rangel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-10T16:04:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H318-319", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 13, 
+      "text": "On agreeing to the Rangel amendment (A001) Failed by the Yeas and Nays: 192 - 233 (Roll no. 13).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt571-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute sought to provide approximately $89 billion in marriage penalty tax relief over a period of 10 years; and make the tax reduction contingent on certification that the Social Security trust fund will remain solvent until 2050, certification that the Medicare trust fund will remain solvent until 2030, and certification that the publicly held national debt is projected to be eliminated by 2013.", 
+  "house_number": 1, 
+  "introduced_at": "2000-02-10", 
+  "number": 571, 
+  "purpose": "An amendment in the nature of a substitute to provide approximately $89 billion in marriage penalty tax relief over a period of 10 years. In addition, the substitute 1) increases the standard deduction for married couples to twice that of single taxpayers beginning in 2001 (same as the base bill); 2) makes adjustments to the alternative minimum tax to ensure that all married couples benefit from the increased standard deduction; 3) increases the amount a joint-filing couple may earn before their earned income tax credit benefits begin to phase out by $2,000 in 2001 and by $2,500 in 2002; and 4) repeals current law provisions that limit refundable child credits under the alternative minimum tax effective beginning in 2001.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-02-10T16:04:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

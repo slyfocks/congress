@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-08T21:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7820-7821", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7820", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T11:34:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7847-7848", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7847", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 503, 
+      "text": "On agreeing to the Hensarling amendment (A008) Failed by recorded vote: 122 - 307 (Roll no. 503).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt300-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2997-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2997
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funds in the bill from being used for the National Biodiversity Conservation Strategy project, Kiski Basin, PA, and sought to reduce funding under the heading \"Agricultural Research Service--Salaries and Expenses\" by the amount that was to have been spent on the National Biodiversity Conservation Strategy project, Kiski Basin, PA.", 
+  "house_number": 8, 
+  "introduced_at": "2009-07-08", 
+  "number": 300, 
+  "purpose": "An amendment numbered 6 printed in part E of House Report 111-191 to prohibit certain funds in the bill from being used for the National Biodiversity Conservation Strategy project, Kiski Basin, PA and reduces funds under the heading \"Agricultural Research Service--Salaries and Expenses\" by the amount that was to have been spent on the National Biodiversity Conservation Strategy project, Kiski Basin, PA.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-09T11:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-12", 
+      "references": [
+        {
+          "reference": "CR S7370-7373, S7374-7377, S7382", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7370", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4585 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-12", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7382", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4585 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4585-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4585, 
+  "proposed_at": "2006-07-12", 
+  "purpose": "To prohibit the use of funds available to the Coast Guard for operating expenses for the continuation of operations of Long Range Aids to Navigation stations nationwide, except in Alaska, far northwest, and far northeast Continental United States of America.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-12", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

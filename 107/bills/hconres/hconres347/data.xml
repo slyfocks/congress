@@ -1,0 +1,77 @@
+<bill session="107" type="hc" number="347" updated="2013-07-14T18:59:01-04:00">
+  <state datetime="2002-05-08">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2002-05-08"/>
+  </status>
+  <introduced datetime="2002-03-12"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400082" joined="2002-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2002-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-03-20">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-04-11T16:59:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-399.</text>
+    </action>
+    <calendar datetime="2002-04-11T16:59:00-04:00" calendar="House" number="137">
+      <text>Placed on the House Calendar, Calendar No. 137.</text>
+    </calendar>
+    <action datetime="2002-04-30T16:02:00-04:00">
+      <text>Mrs. Capito moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-04-30T16:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1710-1711" label="consideration"/>
+    </action>
+    <action datetime="2002-04-30T16:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 347.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-04-30T16:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1710" label="text"/>
+    </vote>
+    <action datetime="2002-04-30T16:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-05-01">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2002-05-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4083" label="consideration"/>
+    </vote>
+    <action datetime="2002-05-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement officers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Police"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2002--Reported to House without amendment.
+Permits the National Fraternal Order of Police and its auxiliary to sponsor a free public event, the 21st annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2002.</summary>
+</bill>

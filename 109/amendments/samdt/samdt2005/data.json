@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11082-11085", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11082", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2005 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "references": [
+        {
+          "reference": "CR S11174, S11182-11185", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "references": [
+        {
+          "reference": "CR S11185", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to table amendment SA 2005 made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "references": [], 
+      "text": "Motion to table amendment SA 2005 agreed to in Senate by Yea-Nay. 65 - 32. Record Vote Number: 253.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2005-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-04", 
+  "number": 2005, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To curtail waste under the Department of Defense web-based travel system.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-10-04", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T22:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3896-3897", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3896", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T13:49:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3935-3936", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 395, 
+      "text": "On agreeing to the Gosar amendment (A038) Failed by recorded vote: 183 - 234 (Roll no. 395).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt386-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 38, 
+  "introduced_at": "2011-06-01", 
+  "number": 386, 
+  "purpose": "An amendment to prohibit the use of funds to be used to comply with subchapter IV of chapter 31 of title 40, United States Code, popularly known as the Davis-Bacon Act.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-02T13:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

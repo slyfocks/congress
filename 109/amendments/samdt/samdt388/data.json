@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3811-3812", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3811-3812", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 388 proposed by Senator Reid for Senator Bayh.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3866", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3966, S3968-3970, S3995", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [], 
+      "text": "Proposed amendment SA 388 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt388-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 388, 
+  "proposed_at": "2005-04-18", 
+  "purpose": "To appropriate an additional $742,000,000 for Other Procurement, Army, for the procurement of up to 3,300 Up Armored High Mobility Multipurpose Wheeled Vehicles (UAHMMVs).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bayh, Evan", 
+    "state": "IN", 
+    "thomas_id": "01572", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

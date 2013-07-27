@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T20:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5647-5649", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5647", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A043) offered by Mr. Lankford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-28T14:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5691", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 668, 
+      "text": "On agreeing to the Lankford amendment (A043) Failed by recorded vote: 198 - 227 (Roll no. 668).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt766-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to eliminate the $2,661,000 in funding for reception and representation expenses for the Council on Environmental Quality and to apply the savings to the spending reduction account.", 
+  "house_number": 43, 
+  "introduced_at": "2011-07-27", 
+  "number": 766, 
+  "purpose": "An amendment to eliminate funding for reception and representation expenses for the Council on Environmental Quality. The amendment transfers the funds, $3 million, to the spending reduction account.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lankford, James", 
+    "state": "OK", 
+    "thomas_id": "02050", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-28T14:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

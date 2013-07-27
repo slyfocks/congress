@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8155, S8184-8185", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8155", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1124 proposed by Senator Gregg for Senator Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8248, S8251", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 1124 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1124-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1124, 
+  "proposed_at": "2005-07-13", 
+  "purpose": "To transfer appropriated funds from the Office of State and Local Government Coordination and Preparedness to the U.S. Customs and Border Protection for the purpose of hiring 1,000 additional border agents and related expenditures.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

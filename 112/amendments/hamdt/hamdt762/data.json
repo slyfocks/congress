@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T19:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5641-5642", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5641", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A039) offered by Mr. Lankford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-28T14:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5689-5690", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 666, 
+      "text": "On agreeing to the Lankford amendment (A039) Failed by recorded vote: 161 - 263 (Roll no. 666).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt762-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to remove the Federal mandate of \"not less than 30%\" for principal forgiveness and allow States to provide such forgiveness at a rate of \"30% or less\" when dealing with funds made available under the American Recovery and Reinvestment Act.", 
+  "house_number": 39, 
+  "introduced_at": "2011-07-27", 
+  "number": 762, 
+  "purpose": "An amendment to strike \"not less that 30 percent\" and insert \"30 percent or less\".", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lankford, James", 
+    "state": "OK", 
+    "thomas_id": "02050", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-28T14:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

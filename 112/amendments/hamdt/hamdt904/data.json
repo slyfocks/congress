@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-08T12:42:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8285-8286, H8292", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8285", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-08T13:57:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 908, 
+      "text": "On agreeing to the Markey amendment (A004) Failed by recorded vote: 165 - 249 (Roll no. 908).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt904-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1633-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1633
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to ensure that particulate matter containing arsenic and other heavy metals that are hazardous to human health is not defined as nuisance dust and remains subject to the Clean Air Act.", 
+  "house_number": 4, 
+  "introduced_at": "2011-12-08", 
+  "number": 904, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-317 to ensure that particulate matter containing arsenic and other heavy metals that are hazardous to human health is not nuisance dust and remains subject to the Clean Air Act.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-08T13:57:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

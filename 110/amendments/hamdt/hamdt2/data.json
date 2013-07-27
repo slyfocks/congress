@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-08T11:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1359-1360, H1383", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1359", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T15:30:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Burgess amendment (A001) as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt2-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr547-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment originally sought to require the EPA, as part of a research and development program, to consider issues with respect to increased volatile emissions or increased nitrogen oxide emissions. As amended by the Eshoo amendment (A002), the original text was replaced with language that requires the EPA, as part of a research and development program, to consider strategies to minimize emissions from infrastructure.", 
+  "house_number": 1, 
+  "introduced_at": "2007-02-08", 
+  "number": 2, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to add a paragraph to section 3 including provisions with respect to increased volatile emissions or increased nitrogen oxide emissions.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-08T15:30:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

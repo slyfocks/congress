@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-11-06T14:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12520-12522, H12530-12531", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12520", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Dent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-06T15:58:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 871, 
+      "text": "On agreeing to the Dent amendment (A004) Failed by recorded vote: 186 - 241 (Roll no. 871).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt502-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2868-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike Title I, affecting chemical facilities, and replace it with an extension of the Department of Homeland Security's current regulatory authority under section 550(b) of the Department of Homeland Security Appropriations Act, 2007.", 
+  "house_number": 4, 
+  "introduced_at": "2009-11-06", 
+  "number": 502, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 111-327 to strike Title I, affecting chemical facilities, and replace it with an extension of the Department of Homeland Security's current regulatory authority under section 550(b) of the Department of Homeland Security Appropriations Act, 2007.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dent, Charles W.", 
+    "state": "PA", 
+    "thomas_id": "01799", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-11-06T15:58:00-05:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

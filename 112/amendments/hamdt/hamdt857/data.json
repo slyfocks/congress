@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-04T12:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7365-7366", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7365", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Cummings.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-04T13:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 832, 
+      "text": "On agreeing to the Cummings amendment (A002) Failed by recorded vote: 174 - 227 (Roll no. 832).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt857-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2838-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2838
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike a provision that would eliminate an existing statutory requirement that the Coast Guard appoint an ombudsman in each Coast Guard District.", 
+  "house_number": 2, 
+  "introduced_at": "2011-11-04", 
+  "number": 857, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-267 to strike a provision that would eliminate an existing statutory requirement that the Coast Guard appoint an ombudsman in each Coast Guard District.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "thomas_id": "00256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-11-04T13:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

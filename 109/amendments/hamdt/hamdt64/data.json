@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16T10:47:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1517-1518", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1517", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16T10:53:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Velazquez amendment (A021) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt64-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment requires that contracts funded by this bill be included in the calculation of small business goals.", 
+  "house_number": 21, 
+  "introduced_at": "2005-03-16", 
+  "number": 64, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "12", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "thomas_id": "01184", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-16T10:53:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

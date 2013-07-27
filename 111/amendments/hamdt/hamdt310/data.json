@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-09T17:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7905-7907, H7912-7913", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7905", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Culberson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T18:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 520, 
+      "text": "On agreeing to the Culberson amendment Failed by recorded vote: 174 - 256 (Roll no. 520).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt310-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3081-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3081
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce the total amount of Multilateral Assistance funding in the bill by $505,896,000.", 
+  "house_number": 5, 
+  "introduced_at": "2009-07-09", 
+  "number": 310, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 111-193 to reduce the total amount of Title V funding in the bill, Multilateral Assistance, by $505,896,000.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Culberson, John Abney", 
+    "state": "TX", 
+    "thomas_id": "01670", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-09T18:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

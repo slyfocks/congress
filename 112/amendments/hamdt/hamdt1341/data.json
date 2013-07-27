@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-27T13:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4104-4105, H4132-4133", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4104", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Chaffetz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-27T17:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 433, 
+      "text": "On agreeing to the Chaffetz amendment (A026) Failed by recorded vote: 157 - 267 (Roll no. 433).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1341-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5972-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5972
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funds for the Community Development Block Grants by $396 million and to apply the savings to the spending reduction account.", 
+  "house_number": 26, 
+  "introduced_at": "2012-06-27", 
+  "number": 1341, 
+  "purpose": "An amendment to return the funding level for the Community Development Fund to the FY 2012 levels.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-27T17:11:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

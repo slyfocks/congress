@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-29T10:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4800-4802, H4805", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4800", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A074) offered by Mr. Poe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-29T11:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 347, 
+      "text": "On agreeing to the Poe amendment (A074) Failed by recorded vote: 90 - 318 (Roll no. 347).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1170-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 74, 
+  "introduced_at": "2006-06-29", 
+  "number": 1170, 
+  "purpose": "An amendment numbered 18 printed in the Congressional Record to prohibit funds from being used by the Secretary of State to implement a plan under section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (8 U.S.C. 1185 note) that permits travel into the United States from foreign countries using any document other than a passport to denote citizenship and identity.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-29T11:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

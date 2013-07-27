@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-11", 
+      "references": [
+        {
+          "reference": "CR S9287", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4926 proposed by Senator Stevens to Amendment SA 4922.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-11", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4926 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4926-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt4922-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 4922
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-11", 
+  "number": 4926, 
+  "proposed_at": "2006-09-11", 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Stevens, Ted", 
+    "state": "AK", 
+    "thomas_id": "01440", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-11", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

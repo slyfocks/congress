@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-14T18:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5070-5071", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5070", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A071) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-15T11:54:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5101-5102", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 595, 
+      "text": "On agreeing to the Blackburn amendment (A071) Failed by recorded vote: 150 - 272 (Roll no. 595).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt674-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 71, 
+  "introduced_at": "2011-07-14", 
+  "number": 674, 
+  "purpose": "An amendment to reduce each amount made available by this bill by 1 percent.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-15T11:54:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

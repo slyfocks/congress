@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-27", 
+      "references": [
+        {
+          "reference": "CR S3687-3688", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3687", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3688 proposed by Senator Murray for Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "references": [
+        {
+          "reference": "CR S3772, S3776-3779", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3776", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-02", 
+      "references": [
+        {
+          "reference": "CR S3859", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03", 
+      "references": [
+        {
+          "reference": "CR S3937, S3942-3943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 107, 
+      "text": "Amendment SA 3688 as modified agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 107.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3688-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-27", 
+  "number": 3688, 
+  "proposed_at": "2006-04-27", 
+  "purpose": "To provide funding to compensate individuals harmed by pandemic influenza vaccine.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-03", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

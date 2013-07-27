@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-05-20T13:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3415-3418, CR 5/21/2004 H3453", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3415", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mrs. Tauscher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-05-20T15:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 203, 
+      "text": "On agreeing to the Tauscher amendment (A009) Failed by recorded vote: 204 - 214 (Roll no. 203).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt540-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4200-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4200
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to transfer funds from the Department of Energy's Robust Nuclear Earth Penetrator and Advanced Concepts programs to programs to improve conventional capabilities and intelligence required to defeat hardened targets.", 
+  "house_number": 9, 
+  "introduced_at": "2004-05-20", 
+  "number": 540, 
+  "purpose": "An amendment numbered 9 printed in House Report 108-499 to transfer $36,557,000 from the Department of Energy's Robust Nuclear Earth Penetrator and Advanced Concepts programs to increase both intelligence capabilities to get at hard and deeply buried targets and improve conventional bunker-busting capabilities.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Tauscher, Ellen O.", 
+    "state": "CA", 
+    "thomas_id": "01533", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-05-20T15:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

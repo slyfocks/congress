@@ -1,0 +1,97 @@
+<bill session="107" type="h" number="1866" updated="2013-07-14T18:57:40-04:00">
+  <state datetime="2001-09-05T15:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-09-05T15:42:00-04:00"/>
+  </status>
+  <introduced datetime="2001-05-16"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 35, United States Code, to clarify the basis for granting requests for reexamination of patents.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2001-05-16">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2001-05-18">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-05-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-05-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-06-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2001-06-28T18:44:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 107-120.</text>
+    </action>
+    <calendar datetime="2001-06-28T18:45:00-04:00" calendar="Union" number="64">
+      <text>Placed on the Union Calendar, Calendar No. 64.</text>
+    </calendar>
+    <action datetime="2001-09-05T15:34:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2001-09-05T15:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5358-5359" label="consideration"/>
+    </action>
+    <action datetime="2001-09-05T15:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1866.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-09-05T15:42:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5358" label="text"/>
+    </vote>
+    <action datetime="2001-09-05T15:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-09-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2002-06-20">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-06-20">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2002-06-20" calendar="Senate Legislative" under="General Orders" number="427">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.</text>
+    </calendar>
+    <action datetime="2002-10-03">
+      <text>For Further Action See H.R.2215.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="h" number="2215"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Commerce"/>
+    <term name="Government operations and politics"/>
+    <term name="Intellectual property"/>
+    <term name="Law"/>
+    <term name="Patents"/>
+  </subjects>
+  <amendments/>
+  <summary>9/5/2001--Passed House amended.
+Amends Federal patent law to provide that previous citation by or to, or consideration by the Patent and Trademark Office of, a patent or printed publication does not preclude the existence of a substantial new question of patentability in patent reexamination proceedings.</summary>
+</bill>

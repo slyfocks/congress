@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-15T20:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5883-5886, H5893-5894", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5883", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-15T22:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 388, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A016) Failed by recorded vote: 164 - 243 (Roll no. 388).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt707-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4818-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4818
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to provide $5 million for agricultural developmental assistance for sub-Saharan Africa.", 
+  "house_number": 16, 
+  "introduced_at": "2004-07-15", 
+  "number": 707, 
+  "purpose": "An amendment to require that at least $5 million of the bill's funds for agricultural development in sub-Saharan Africa be made available for small-scale irrigation, water and drainage, post-harvest storage, crop intensification, crop and livestock diversification, and rural infrastructure.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-15T22:02:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

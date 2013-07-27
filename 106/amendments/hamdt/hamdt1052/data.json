@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-05T12:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8854", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8854", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Kolbe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-05T12:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kolbe amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1052-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2941-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2941
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment removes eminent domain provisions from the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2000-10-05", 
+  "number": 1052, 
+  "purpose": "An amendment to remove the provisions for \"eminent domain\" from the bill.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Kolbe, Jim", 
+    "state": "AZ", 
+    "thomas_id": "00645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-10-05T12:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

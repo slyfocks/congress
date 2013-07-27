@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-19T14:31:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A010) offered by Mr. Roemer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-19T16:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 137, 
+      "text": "On agreeing to the Roemer amendment (A010) Failed by recorded vote: 92 - 337 (Roll no. 137).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt107-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1654-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1654
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to terminate the International Space Station program.", 
+  "house_number": 10, 
+  "introduced_at": "1999-05-19", 
+  "number": 107, 
+  "purpose": "An amendment numbered 3 and printed in the congressional Record to cancel the International Space Station program.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Roemer, Tim", 
+    "state": "IN", 
+    "thomas_id": "00976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-05-19T16:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

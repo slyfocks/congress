@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2138", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2138", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 121 proposed by Senator Talent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-08", 
+      "references": [
+        {
+          "reference": "CR S2200", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09", 
+      "references": [
+        {
+          "reference": "CR S2307, S2342", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-10", 
+      "references": [
+        {
+          "reference": "CR S2416, S2428", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-10", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 42, 
+      "text": "Amendment SA 121 agreed to in Senate by Yea-Nay. 73 - 26. Record Vote Number: 42.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt121-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-07", 
+  "number": 121, 
+  "proposed_at": "2005-03-07", 
+  "purpose": "To deter corporate fraud and prevent the abuse of State self-settled trust law.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Talent, Jim", 
+    "state": "MO", 
+    "thomas_id": "01135", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-10", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

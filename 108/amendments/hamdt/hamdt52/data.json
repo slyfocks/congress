@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-03T20:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2796-2798", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2796", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Rodriguez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-03T20:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Rodriguez amendment (A023) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt52-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1559-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1559
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to transfer $90 million to to the Department of Veterans Affairs for veterans health care and for the establishment of medical emergency preparedness centers.", 
+  "house_number": 23, 
+  "introduced_at": "2003-04-03", 
+  "number": 52, 
+  "purpose": "An amendment numbered 10 printed in the Congressional Record adds $70 milion for Veterans Administration health care preparedness and adds $20 million for the first year of operations of four VA bioterrorism centers previously authorized.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Rodriguez, Ciro D.", 
+    "state": "TX", 
+    "thomas_id": "01518", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-03T20:41:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

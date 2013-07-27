@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-20", 
+      "references": [
+        {
+          "reference": "CR S8510-8511", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8510-8511", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1293 proposed by Senator McConnell for Senator Lugar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1293 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1293-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-19", 
+  "number": 1293, 
+  "proposed_at": "2005-07-20", 
+  "purpose": "To promote reform of the multilateral development banks.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lugar, Richard G.", 
+    "state": "IN", 
+    "thomas_id": "01387", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-20", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

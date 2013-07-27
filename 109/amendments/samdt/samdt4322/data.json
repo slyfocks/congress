@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-19", 
+      "references": [
+        {
+          "reference": "CR S6051", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4322 proposed by Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20", 
+      "references": [
+        {
+          "reference": "CR S6105", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "references": [
+        {
+          "reference": "CR S6191-6203", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 179, 
+      "text": "Amendment SA 4322 agreed to in Senate by Yea-Nay. 52 - 46. Record Vote Number: 179.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "references": [
+        {
+          "reference": "Order 426", 
+          "type": null
+        }, 
+        {
+          "reference": "printed in Senate Legislative Calendar of June 21, 2006 [pdf]", 
+          "type": null
+        }, 
+        {
+          "reference": "page 2", 
+          "type": null
+        }
+      ], 
+      "text": "Proposed amendment SA 4322, notwithstanding the adoption of the amendment and pursuant to the order of June 20, 2006,  withdrawn in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4322-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-19", 
+  "number": 4322, 
+  "proposed_at": "2006-06-19", 
+  "purpose": "To amend the Fair Labor Standards Act of 1938 to provide for an increase in the Federal minimum wage.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-21", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

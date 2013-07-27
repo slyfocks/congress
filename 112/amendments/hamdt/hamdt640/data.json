@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T19:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4999-5001", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4999", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A037) offered by Mr. Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-14T14:46:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5045", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 575, 
+      "text": "On agreeing to the Reed amendment (A037) Agreed to by recorded vote: 261 - 162 (Roll no. 575).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt640-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases the Non-Defense Environmental Cleanup account under the Department of Energy by $41 million; reduces the account for Departmental Administration under the Department of Energy by $21 million and reduces the account for Departmental Administration under the National Nuclear Security Administration by $20 million.", 
+  "house_number": 37, 
+  "introduced_at": "2011-07-13", 
+  "number": 640, 
+  "purpose": "An amendment to increase the Non-Defense Environmental Cleanup account under the Department of Energy by $41 million and reduce the account for Departmental Administration under the Department of Energy by $21 million and reduce the account for Departmental Administration under the National Nuclear Security Administration by $20 million.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "thomas_id": "01982", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-14T14:46:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

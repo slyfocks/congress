@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-11", 
+      "references": [
+        {
+          "reference": "CR S4915-4918", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4915", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 625 proposed by Senator Lautenberg to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-11", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 120, 
+      "text": "Amendment SA 625 not agreed to in Senate by Yea-Nay Vote. 28 - 69. Record Vote Number: 120.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt625-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 625, 
+  "proposed_at": "2005-05-11", 
+  "purpose": "To provide funding for motorcycle safety programs in States without universal helmet laws.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lautenberg, Frank R.", 
+    "state": "NJ", 
+    "thomas_id": "01381", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-11", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

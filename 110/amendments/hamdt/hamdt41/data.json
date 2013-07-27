@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-14T15:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2530-2532, H2537-2538, H2539-2540", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2530", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-14T16:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 149, 
+      "text": "On agreeing to the Stupak amendment (A001) Agreed to by recorded vote: 250 - 178 (Roll no. 149).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-03-14T17:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Price (GA) demanded a separate vote on the Stupak amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-14T17:28:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 151, 
+      "text": "On agreeing to the Stupak amendment (A001) Agreed to by the Yeas and Nays: 252 - 173 (Roll no. 151).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt41-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr985-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 985
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment enhances whistleblower protection by including in the list of reportable actions any attempt to suppress the right of government scientists to publish or announce their findings in peer reviewed journals or public meetings with their fellow scientists.", 
+  "house_number": 1, 
+  "introduced_at": "2007-03-14", 
+  "number": 41, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-48 to clarifies that instances of political interference with science are to be considered `abuses of authority' and their disclosure therefore protected. The Stupak amendment adds an example of such interference, namely preventing a federal scientist or grantee from publishing or presenting their research.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-14T17:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

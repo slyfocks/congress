@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-18", 
+      "references": [
+        {
+          "reference": "CR S7732-7733", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7732", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4679 proposed by Senator Boxer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-18", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4679 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4679-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s728-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-18", 
+  "number": 4679, 
+  "proposed_at": "2006-07-18", 
+  "purpose": "To modify the project for Folsom Dam, California.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-18", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

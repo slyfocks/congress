@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T20:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5005", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5005", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-14T14:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5047", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 578, 
+      "text": "On agreeing to the Broun (GA) amendment (A040) Failed by recorded vote: 99 - 328 (Roll no. 578).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt643-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Department of Energy's Office of Science account by $820,488,000 and apply the savings to the spending reduction account.", 
+  "house_number": 40, 
+  "introduced_at": "2011-07-13", 
+  "number": 643, 
+  "purpose": "An amendment numbered 43 printed in the Congressional Record to reduce the Science account under the Department of Energy by $820,488,000 and increase the Spending Reduction account by the same amount.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-14T14:57:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

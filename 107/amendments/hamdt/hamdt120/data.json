@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-26T17:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3586", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3586", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-26T17:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Schiff amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt120-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2299-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2299
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2001-06-26", 
+  "number": 120, 
+  "purpose": "An amendment to prohibit use of funds for planning, design, development, or construction of the California State Route 710 freeway extension project through El Sereno, South Pasadena, and Pasadena, California.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-06-26T17:39:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

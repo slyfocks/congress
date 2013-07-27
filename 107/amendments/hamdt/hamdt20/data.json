@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-28T13:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1240-1252", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1240-1245", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) in the nature of a substitute offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-28T15:00:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 68, 
+      "text": "On agreeing to the Flake amendment Failed by recorded vote: 81 - 341 (Roll no. 68).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt20-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres83-107", 
+    "bill_type": "hconres", 
+    "congress": 107, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute printed in Part B of H. Rept. 107-30 and numbered three was offered as the Republican Study Committee substitute.", 
+  "house_number": 4, 
+  "introduced_at": "2001-03-28", 
+  "number": 20, 
+  "purpose": "An amendment to provide $2.2 trillion in tax relief between 2002 and 2011 and an additional $93 billion in tax relief for the current fiscal year; to set defense spending at $350 billion in FY 2002; to spend $6.7 billion less in FY 2002 on discretionary programs than proposed by the Committee and $150 billion less over 10 years for discretionary programs. The amendment also locks away 100% of the Social Security and Medicare surpluses; requires that any prescription drug benefit be a part of an overall Medicare reform package that does not weaken the long-term solvency of the system by increased baseline spending; provides specific protection for Social Security reform legislation; ensures that the impact of a proposed tax measure on the economy and federal revenues is taken into account and ensures that \"triggers\" are not added to any tax measure.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-03-28T15:00:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

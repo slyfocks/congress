@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-11", 
+      "references": [
+        {
+          "reference": "CR S7295-7305", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7295", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4548 proposed by Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-11", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S7301", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 191, 
+      "text": "Amendment SA 4548 as modified agreed to in Senate by Yea-Nay Vote. 68 - 32. Record Vote Number: 191.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4548-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-10", 
+  "number": 4548, 
+  "proposed_at": "2006-07-11", 
+  "purpose": "To prohibit the United States Customs and Border Protection from preventing an individual not in the business of importing a prescription drug from importing an FDA-approved prescription drug.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-11", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

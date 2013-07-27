@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-07T12:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3950-3954, H3960", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-07T14:15:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3950-3951", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 239, 
+      "text": "On agreeing to the Inslee amendment (A005) Agreed to by recorded vote: 228 - 194 (Roll no. 239).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt746-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3605-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3605
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment defines the Conservation Area as the 1,288,570 acres of land depicted in the Bureau of Land Management map entitled \"San Rafael Western Legacy District and National Conservation Area\" dated March 28, 2000.", 
+  "house_number": 5, 
+  "introduced_at": "2000-06-07", 
+  "number": 746, 
+  "purpose": "An amendment to define the Conservation Area as the 1,288,570 acres of land depicted in the Bureau of Land Management map entitled \"San Rafael Western Legacy District and National Conservation Area dated March 28, 2000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-07T14:15:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

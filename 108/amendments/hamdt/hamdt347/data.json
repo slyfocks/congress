@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T16:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7704-7705", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7704", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Meeks (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T16:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Meeks (NY) amendment Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt347-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2861-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 22, 
+  "introduced_at": "2003-07-25", 
+  "number": 347, 
+  "purpose": "An amendment to prohibit use of funds in the bill to terminate the furnishing of services to veterans by the Department of Veterans Affairs medical facility located in St. Albans, Queens, New York.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Meeks, Gregory W.", 
+    "state": "NY", 
+    "thomas_id": "01506", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-25T16:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

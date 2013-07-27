@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-09T19:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4730-4731", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4730", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Bean.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-10T11:33:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4768-4769", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4768", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 321, 
+      "text": "On agreeing to the Bean amendment (A004) Agreed to by recorded vote: 371 - 55 (Roll no. 321).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt166-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1873-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1873
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases the Federal government-wide goal for participation of small business concerns in procurement contracts from 23 percent to 30 percent.", 
+  "house_number": 4, 
+  "introduced_at": "2007-05-09", 
+  "number": 166, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-137 to raise the government-wide small business procurement goal from 25 percent to 30 percent.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Bean, Melissa L.", 
+    "state": "IL", 
+    "thomas_id": "01782", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-10T11:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

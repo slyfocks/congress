@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21T15:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6252-6254, H6266-6267", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6252", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Issa.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21T17:19:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 404, 
+      "text": "On agreeing to the Issa amendment (A002) Agreed to by recorded vote: 406 - 21 (Roll no. 404).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt490-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3199-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3199
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment requires law enforcement to report back to a court within 15 days of using the roving aspect of a warrant; and requires law enforcement to report on the total number of electronic surveillances that have been conducted.", 
+  "house_number": 2, 
+  "introduced_at": "2005-07-21", 
+  "number": 490, 
+  "purpose": "An amendment numbered 3 printed in part B of House Report 109-178 to increase the oversight over the use of roving wiretaps by requiring an applicant to notify the issuing judge within a reasonable time, as determined by the court but not more than 15 days, of the change of surveillance from the initial facility or place to a new one. Also requires the applicant to specify the total number of electronic surveillances that have been or are being conducted.", 
+  "sponsor": {
+    "district": "49", 
+    "name": "Issa, Darrell E.", 
+    "state": "CA", 
+    "thomas_id": "01640", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21T17:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T16:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3607-3609", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3608", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Carson (IN).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-25T16:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Carson (IN) amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt306-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment directs the Department of Defense to provide mental health assessments to service members during deployment and, when possible, these assessments should include a review of all past health records originated by the Department of Defense and the Department of Veterans Affairs.", 
+  "house_number": 6, 
+  "introduced_at": "2011-05-25", 
+  "number": 306, 
+  "purpose": "An amendment numbered 19 printed in House Report 112-88 to direct the Department of Defense to provide mental health assessments to service members during deployment. When possible, these assessments would include review of all past health records originated by the Department of Defense and the Department of Veterans Affairs.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Carson, Andre", 
+    "state": "IN", 
+    "thomas_id": "01889", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-25T16:07:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

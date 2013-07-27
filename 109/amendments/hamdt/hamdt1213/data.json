@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-27T13:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7522-7533", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7522-7533", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-27T13:24:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1213-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6166-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6166
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2006-09-27", 
+  "number": 1213, 
+  "purpose": "An amendment printed in House Report 109-688 and considered as adopted pursuant to the provisions of H. Res. 1042.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-27T13:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:20-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-16T12:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4584-4586, H4601-4602", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4584", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A041) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-16T14:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 262, 
+      "text": "On agreeing to the Tancredo amendment (A041) Failed by recorded vote: 204 - 222 (Roll no. 262).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt288-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 41, 
+  "introduced_at": "2005-06-16", 
+  "number": 288, 
+  "purpose": "An amendment numbered 19 printed in the Congressional Record to prohibit use of funds in the bill to contravene section 642(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-16T14:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

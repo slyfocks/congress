@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-09T09:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6026-6028", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6026-6027", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Wolf.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-09T09:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6027", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Wolf amendment (A002) modified by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-09T10:00:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Wolf amendment (A002) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt784-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1892-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment, as modified, creates a \"Team B\"--a counterterrorism competitive analysis council of outside experts--to continuously advise the Director of National Intelligence and the Congress on how best to revise plans, operations, concepts, organizations, and capabilities across the intelligence community in response to the evolving threat of terrorism and domestic radicalization.", 
+  "house_number": 2, 
+  "introduced_at": "2011-09-09", 
+  "number": 784, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Wolf, Frank R.", 
+    "state": "VA", 
+    "thomas_id": "01238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-09-09", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

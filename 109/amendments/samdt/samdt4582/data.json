@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7474, S7475, S7499", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7474", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4582 proposed by Senator Clinton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7499", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4582 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4582-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4582, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To prohibit the Assistant Secretary of Homeland Security (Transportation Security Administration) from removing any item from the current list of items prohibited from being carried aboard a passenger aircraft.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

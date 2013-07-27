@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9567-9574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9573", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5000 proposed by Senator Stevens for Senator Snowe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5000 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5000-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-13", 
+  "number": 5000, 
+  "proposed_at": "2006-09-13", 
+  "purpose": "To conduct a study to identify redundancies and inefficiencies in connection with Federal background checks.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-13", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-25T11:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1499-1508", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1499-1501", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Cummings.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-25T13:07:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 88, 
+      "text": "On agreeing to the Cummings amendment (A001) Failed by recorded vote: 119 - 302 (Roll no. 88).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt487-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres393-108", 
+    "bill_type": "hconres", 
+    "congress": 108, 
+    "number": 393
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute printed in House Report 108-446 and numbered 1 was offered as the Congressional Black Caucus substitute.", 
+  "house_number": 1, 
+  "introduced_at": "2004-03-25", 
+  "number": 487, 
+  "purpose": "An amendment in the nature of a substitute numbered 1 printed in House Report 108-446 to provide $43.3 billion in additional spending and $5.0 billion for deficit reduction in FY 2005. The total is offset by rescinding the tax cuts from 2001 and 2003 for individuals making more than $200,000 in gross income, by closing tax loopholes, certain tax shelters and methods of tax avoidance, and reducing funding for the ballistic missile defense program. The spending increase includes $30.5 billion in spending over the resolution's FY 2005 levels for non-defense programs and an additional $12.8 billion for defense, homeland security and veterans programs.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "thomas_id": "00256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-03-25T13:07:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

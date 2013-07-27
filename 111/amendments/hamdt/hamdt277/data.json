@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-25T22:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7420-7421", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7420", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Smith (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-25T22:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (TX) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt277-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2996-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2996
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment allocates $25 million for the Forest Service's Law Enforcement and Investigations drug enforcement efforts, including removal of marijuana sites and clandestine methamphetamine labs from the National Forest System and interdiction of drug traffickers on NFS lands that share a common border with Canada and Mexico.", 
+  "house_number": 3, 
+  "introduced_at": "2009-06-25", 
+  "number": 277, 
+  "purpose": "An amendment numbered 5 printed in part B of House Report 111-184 to allocate $25 million for the Forest Service's Law Enforcement and Investigations drug enforcement efforts, including removal of marijuana sites and clandestine methamphetamine labs from the National Forest System and interdiction of drug traffickers on NFS lands that share a common border with Canada and Mexico.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-06-25T22:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

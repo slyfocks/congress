@@ -1,0 +1,85 @@
+<bill session="107" type="h" number="3758" updated="2013-07-14T18:58:17-04:00">
+  <state datetime="2002-12-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2002-12-02"/>
+  </status>
+  <introduced datetime="2002-02-13"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of So Hyun Jun.</title>
+  </titles>
+  <sponsor id="400261"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2002-02-13">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2002-02-26">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-09-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-09-25">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-10-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-10-02">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-10-08T18:25:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 107-729.</text>
+    </action>
+    <calendar datetime="2002-10-08T18:25:00-04:00" calendar="Private" number="9">
+      <text>Placed on the Private Calendar, Calendar No. 9.</text>
+    </calendar>
+    <action datetime="2002-11-14T13:04:00-05:00">
+      <text>Considered from the Private Calendar.</text>
+      <reference ref="CR H8736" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-11-14T13:04:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H8736" label="text"/>
+    </vote>
+    <action datetime="2002-11-14T13:04:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2002-11-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11149-11150" label="consideration"/>
+    </vote>
+    <topresident datetime="2002-11-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2002-11-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2002-11-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2002-12-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2002-12-02" type="private" number="107-6">
+      <text>Became Private Law No: 107-6.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2002--Reported to House without amendment.
+Classifies So Hyun Jun as a child for immediate relative status under the Immigration and Nationality Act.</summary>
+</bill>

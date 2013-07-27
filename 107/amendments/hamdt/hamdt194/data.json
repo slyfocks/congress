@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-18T18:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4181-4187, H4198", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4181", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR H4184", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-18T21:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 247, 
+      "text": "On agreeing to the Waters amendment (A028) Failed by recorded vote: 123 - 306 (Roll no. 247).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt194-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to prohibit use of funds to initiate a proceeding in the WTO challenging any law of a country that is not a member of the OECD.", 
+  "house_number": 28, 
+  "introduced_at": "2001-07-18", 
+  "number": 194, 
+  "purpose": "An amendment numbered 12 printed in the Congressional Record to prohibit use of funds to initiate a proceeding in the WTO challenging any law of a country that is not a member of the OECD.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-18T21:42:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

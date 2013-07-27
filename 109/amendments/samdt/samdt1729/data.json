@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-20", 
+      "references": [
+        {
+          "reference": "CR S10220, S10221-10223", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10220", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1729 proposed by Senator Akaka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1729 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1729-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-15", 
+  "number": 1729, 
+  "proposed_at": "2005-09-20", 
+  "purpose": "To prohibit Federal funding of research facilities that purchase animals from Class-B dealers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Akaka, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "00007", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-20", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

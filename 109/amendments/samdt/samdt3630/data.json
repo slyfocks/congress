@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-01", 
+      "references": [
+        {
+          "reference": "CR S3847", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3847", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3630 proposed by Senator Frist for Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3630 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3630-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3630, 
+  "proposed_at": "2006-05-01", 
+  "purpose": "To require the Administrator of the Small Business Administration to report to Congress on the status of its 2006 Atlantic hurricane season disaster response plan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-01", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

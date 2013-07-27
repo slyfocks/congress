@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-07T16:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4718-4719, H4730-4731", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4718", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A054) offered by Mr. Welch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T18:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 521, 
+      "text": "On agreeing to the Welch amendment (A054) Failed by recorded vote: 169 - 257 (Roll no. 521).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt559-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 54, 
+  "introduced_at": "2011-07-07", 
+  "number": 559, 
+  "purpose": "An amendment to limit the use of funds to not more than $200,000,000, provided by title IX under the heading \"Operation and Maintenance, Army\", may be available for the Commander's Emergency Response Program. Also, the amount otherwise provided under such heading is reduced by $200,000,000.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "thomas_id": "01879", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T18:42:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

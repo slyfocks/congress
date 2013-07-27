@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T13:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1103-1106, H1140", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1103-1104", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A073) offered by Mr. Camp.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T18:50:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1140-1141", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 84, 
+      "text": "On agreeing to the Camp amendment (A073) Failed by recorded vote: 137 - 292, 1 Present (Roll no. 84).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt83-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 73, 
+  "introduced_at": "2011-02-17", 
+  "number": 83, 
+  "purpose": "An amendment numbered 516 printed in the Congressional Record to prohibit funds to be used for the opening of the locks at the Thomas J. O'Brien Lock and Dam or the Chicago River Controlling Works.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Camp, Dave", 
+    "state": "MI", 
+    "thomas_id": "00166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-17T18:50:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

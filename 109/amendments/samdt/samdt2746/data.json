@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-09", 
+      "references": [
+        {
+          "reference": "CR S879", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2746 proposed by Senator Frist for Senator Specter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-13", 
+      "references": [
+        {
+          "reference": "CR S1121", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-13", 
+      "references": [
+        {
+          "reference": "CR S1121-1122", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1122", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on amendment SA 2746 presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-14", 
+      "references": [
+        {
+          "reference": "CR S1140", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-14", 
+      "references": [], 
+      "text": "Cloture motion on amendment SA 2746 withdrawn by unanimous consent in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2746-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s852-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 852
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-09", 
+  "number": 2746, 
+  "proposed_at": "2006-02-09", 
+  "purpose": "To provide a complete substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Specter, Arlen", 
+    "state": "PA", 
+    "thomas_id": "01437", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-02-09", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

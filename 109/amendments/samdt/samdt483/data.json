@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3779, S3780-3786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3779", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 483 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3866", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3965, S3993", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 483 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt483-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 483, 
+  "proposed_at": "2005-04-18", 
+  "purpose": "To increase the appropriation to Federal courts by $5,000,000 to cover increased immigration-related filings in the southwestern United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

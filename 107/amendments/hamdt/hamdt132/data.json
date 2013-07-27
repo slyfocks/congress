@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-28T10:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3727-3735, H3736", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3727", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Davis (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T12:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 205, 
+      "text": "On agreeing to the Davis (FL) amendment (A011) Failed by recorded vote: 210 - 213 (Roll no. 205).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt132-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2311-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2311
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to delete language in the bill which prohibits funds from being used to authorize construction of the Gulfstream Natural Gas Project.", 
+  "house_number": 11, 
+  "introduced_at": "2001-06-28", 
+  "number": 132, 
+  "purpose": "An amendment to strike the provisions in the bill prohibiting funds for authorization of construction of the Gulfstream Natural Gas Project.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Jim", 
+    "state": "FL", 
+    "thomas_id": "01478", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-28T12:24:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

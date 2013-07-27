@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-04T12:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2141-2142", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2141", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04T12:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Shays amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt796-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2006-05-04", 
+  "number": 796, 
+  "purpose": "An amendment numbered 9 printed in House Report 109-450 to require the Department of Homeland Security (DHS) to conduct a pilot project at an overseas port similar to the Integrated Container Inspection System (ICIS) in Hong Kong.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-04T12:39:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

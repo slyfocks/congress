@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-12T13:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5297-5299, H5303-5304", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5297", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Lofgren.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-12T14:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 269, 
+      "text": "On agreeing to the Lofgren amendment (A004) Failed by recorded vote: 186 - 234 (Roll no. 269).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt169-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1115-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1115
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to permit the use of private attorney actions to enforce state laws in state courts.", 
+  "house_number": 4, 
+  "introduced_at": "2003-06-12", 
+  "number": 169, 
+  "purpose": "An amendment numbered 3 printed in House Report 108-148 to preserve the ability of local prosecutors to enforce state antitrust and consumer protection laws in state courts.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Lofgren, Zoe", 
+    "state": "CA", 
+    "thomas_id": "00701", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-12T14:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

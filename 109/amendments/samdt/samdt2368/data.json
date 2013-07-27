@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-02", 
+      "references": [
+        {
+          "reference": "CR S12207-12210", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12207", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2368 proposed by Senator Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12309", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [], 
+      "text": "Proposed amendment SA 2368 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2368-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2368, 
+  "proposed_at": "2005-11-02", 
+  "purpose": "To cut $2,000,000,000 from the converter box subsidy program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

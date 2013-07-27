@@ -1,0 +1,100 @@
+<bill session="108" type="hc" number="56" updated="2013-07-14T19:03:04-04:00">
+  <state datetime="2004-06-22T11:15:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-06-22T11:15:00-04:00"/>
+  </status>
+  <introduced datetime="2003-02-26"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that States should require candidates for driver's licenses to demonstrate an ability to exercise greatly increased caution when driving in the proximity of a potentially visually impaired individual.</title>
+  </titles>
+  <sponsor id="400126"/>
+  <cosponsors>
+    <cosponsor id="400002" joined="2003-05-06"/>
+    <cosponsor id="400012" joined="2003-03-26"/>
+    <cosponsor id="400024" joined="2003-03-31"/>
+    <cosponsor id="400028" joined="2003-03-13"/>
+    <cosponsor id="400045" joined="2003-03-19"/>
+    <cosponsor id="400048" joined="2003-04-29"/>
+    <cosponsor id="400049" joined="2003-05-15"/>
+    <cosponsor id="400067" joined="2003-09-03"/>
+    <cosponsor id="400076" joined="2004-03-30"/>
+    <cosponsor id="400087" joined="2003-03-26"/>
+    <cosponsor id="400090" joined="2003-04-11"/>
+    <cosponsor id="400097" joined="2003-04-09"/>
+    <cosponsor id="400122" joined="2003-04-30"/>
+    <cosponsor id="400133" joined="2003-04-08"/>
+    <cosponsor id="400143" joined="2003-09-17"/>
+    <cosponsor id="400163" joined="2003-06-02"/>
+    <cosponsor id="400168" joined="2003-07-14"/>
+    <cosponsor id="400173" joined="2003-04-29"/>
+    <cosponsor id="400183" joined="2003-03-31"/>
+    <cosponsor id="400186" joined="2003-09-03"/>
+    <cosponsor id="400199" joined="2003-03-13"/>
+    <cosponsor id="400209" joined="2004-03-30"/>
+    <cosponsor id="400218" joined="2003-09-17"/>
+    <cosponsor id="400227" joined="2003-05-06"/>
+    <cosponsor id="400237" joined="2003-04-29"/>
+    <cosponsor id="400251" joined="2003-04-29"/>
+    <cosponsor id="400255" joined="2003-03-26"/>
+    <cosponsor id="400257" joined="2003-04-29"/>
+    <cosponsor id="400263" joined="2003-04-29"/>
+    <cosponsor id="400279" joined="2003-04-08"/>
+    <cosponsor id="400283" joined="2003-04-29"/>
+    <cosponsor id="400316" joined="2003-10-15"/>
+    <cosponsor id="400319" joined="2003-04-29"/>
+    <cosponsor id="400321" joined="2003-04-09"/>
+    <cosponsor id="400329" joined="2003-10-15"/>
+    <cosponsor id="400344" joined="2003-05-13"/>
+    <cosponsor id="400352" joined="2003-04-29"/>
+    <cosponsor id="400399" joined="2003-04-30"/>
+    <cosponsor id="400425" joined="2003-04-29"/>
+    <cosponsor id="400426" joined="2003-03-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-02-26">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2003-02-27">
+      <text>Referred to the Subcommittee on Highways, Transit and Pipelines.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2004-06-22T11:09:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-06-22T11:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4659-4660" label="consideration"/>
+    </action>
+    <action datetime="2004-06-22T11:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 56.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-06-22T11:15:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4659" label="text"/>
+    </vote>
+    <action datetime="2004-06-22T11:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-06-23">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways, Transit and Pipelines" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Animals"/>
+    <term name="Blind"/>
+    <term name="Disabled"/>
+    <term name="Dogs"/>
+    <term name="Driver licenses"/>
+    <term name="Driver tests"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/2004--Passed House without amendment.
+Expresses the sense of Congress that each State should require, as a condition of obtaining a driver's license, that a candidate demonstrate an ability to associate the use of the white cane and guide dog with a visually impaired individual and to exercise increased caution when driving in proximity to a potentially visually impaired individual.</summary>
+</bill>

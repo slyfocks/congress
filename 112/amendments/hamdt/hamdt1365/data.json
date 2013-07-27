@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-27T22:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4146-4147", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4146", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A050) offered by Mr. Chabot.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-27T22:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Chabot amendment (A050) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1365-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5972-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5972
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds to be used to construct or operate a streetcar in Cincinnati, Ohio.", 
+  "house_number": 50, 
+  "introduced_at": "2012-06-27", 
+  "number": 1365, 
+  "purpose": "An amendment to prohibit the use of funds to be used to design, construct, or operate a fixed guideway project located in Cincinnati, Ohio.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-27T22:10:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

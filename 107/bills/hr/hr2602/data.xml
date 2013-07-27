@@ -1,0 +1,70 @@
+<bill session="107" type="h" number="2602" updated="2013-07-14T18:57:53-04:00">
+  <state datetime="2001-07-30T14:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-07-30T14:17:00-04:00"/>
+  </status>
+  <introduced datetime="2001-07-24"/>
+  <titles>
+    <title as="introduced" type="official">To extend the Export Administration Act until November 20, 2001.</title>
+  </titles>
+  <sponsor id="400192"/>
+  <cosponsors>
+    <cosponsor id="400522" joined="2001-07-24"/>
+    <cosponsor id="400144" joined="2001-07-24"/>
+    <cosponsor id="400231" joined="2001-07-24"/>
+    <cosponsor id="400236" joined="2001-07-24"/>
+    <cosponsor id="400290" joined="2001-07-24"/>
+    <cosponsor id="400344" joined="2001-07-24"/>
+    <cosponsor id="400382" joined="2001-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-07-24">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2001-07-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-07-25">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="2001-07-30T14:09:00-04:00">
+      <text>Mr. Hyde moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-07-30T14:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4786-4787" label="consideration"/>
+    </action>
+    <action datetime="2001-07-30T14:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2602.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-07-30T14:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4786" label="text"/>
+    </vote>
+    <action datetime="2001-07-30T14:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-07-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2001-08-01">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2001-08-02" calendar="Senate Legislative" under="General Orders" number="116">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Export controls"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2001--Passed House without amendment.
+Amends the Export Administration Act of 1979 to extend its export control authority through November 20, 2001 (currently, such authority terminates on August 20, 2001).</summary>
+</bill>

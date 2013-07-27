@@ -1,0 +1,50 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-01T10:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H580-582", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by the Committee on Ways and Means.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-01T10:45:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ways and Means amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt587-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2000-03-01", 
+  "number": 587, 
+  "purpose": "Pursuant to the previous order of the House, the amendment recommended by the Committee on Ways and Means now printed in the bill is adopted.", 
+  "sponsor": {
+    "committee_id": "hswm00", 
+    "name": "House Ways and Means", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-01T10:45:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

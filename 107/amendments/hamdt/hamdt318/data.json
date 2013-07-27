@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-09-25T18:35:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6025-6032", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6025", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Stump.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-09-25T19:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Stump amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt318-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2586-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2586
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment increases funding for activities to combat terrorism by $400 million.", 
+  "house_number": 7, 
+  "introduced_at": "2001-09-25", 
+  "number": 318, 
+  "purpose": "An amendment numbered 5 printed in House Report 107-218 to create a new Title related to activities to combat terrorism; to provide $400 million in new funding for intelligence and anti-terrorism and counter-terrorism intitiatives through a reduction in funding for National Missile Defense programs and consulting services; to require an assessment of Defense Department ability to respond to terrorist attacks, a report on protection from airborne threats, the establishment of combating terrorism as a national security mission, and other policy matters related to combating terrorism.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Stump, Bob", 
+    "state": "AZ", 
+    "thomas_id": "01122", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-09-25T19:20:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

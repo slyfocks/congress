@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T11:03:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4231-4236", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H4231", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Ms. Pelosi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T11:42:00-04:00", 
+      "references": [], 
+      "text": "Mr. Porter raised a point of order against the Pelosi amendment (A009). Mr. Porter stated that the amendment imposed new budget authority outside the scope of the relevant allocation and as such violated the Budget Act. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt767-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2000-06-13", 
+  "number": 767, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to increase the bill's appropriation for NIH by $1.7 billion for a total of $20.5 billion.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-13", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

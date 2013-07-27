@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-09T12:38:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H2979-2982", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H2979", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Watt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-09T13:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Watt amendment (A001) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt59-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1036-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1036
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike language that specifies that if a product is used as intended, then a liability action may be taken for damages resulting from a defect in design or manufacture.", 
+  "house_number": 1, 
+  "introduced_at": "2003-04-09", 
+  "number": 59, 
+  "purpose": "An amendment numbered 1 printed in House Report 108-64 to restore an individual plaintiff's ability to pursue all currently accepted product liability causes of action.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-09T13:03:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

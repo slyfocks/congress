@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T20:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5277-5278", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5277", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5314-5315", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 530, 
+      "text": "On agreeing to the Waters amendment (A017) Failed by recorded vote: 171 - 247 (Roll no. 530).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1463-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment authorizes appropriations to enable the SEC and CFTC to carry out the additional cost/benefit analysis requirements and costs of litigation requirements incurred by the Commissions under the bill.", 
+  "house_number": 17, 
+  "introduced_at": "2012-07-25", 
+  "number": 1463, 
+  "purpose": "An amendment numbered 18 printed in Part B of House Report 112-616 to authorize appropriations (1) to enable the SEC and CFTC to carry out the additional cost/benefit analysis requirements under the bill; (2) for costs of litigation incurred by the Commissions related to the requirements under the bill.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-26T11:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

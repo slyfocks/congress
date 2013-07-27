@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-07T23:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8843-8848", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8843", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Simmons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-07T23:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Simmons amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt786-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment expresses the sense of Congress that the new National Intelligence Director should establish an intelligence center for the production of open source intelligence.", 
+  "house_number": 2, 
+  "introduced_at": "2004-10-07", 
+  "number": 786, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-751 to express the sense of Congress that the new National Intelligence Director (NID) should establish an Open Source Intelligence (OSINT) Center and to direct the NID to report to Congress whether or not an OSINT Center will be established and to justify the reasons for or against its establishment.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Simmons, Rob", 
+    "state": "CT", 
+    "thomas_id": "01642", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-10-07T23:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

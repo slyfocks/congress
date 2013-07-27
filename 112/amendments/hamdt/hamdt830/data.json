@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-11T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6706-6707, H6725-6726", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6706", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-11T19:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 777, 
+      "text": "On agreeing to the Ellison amendment (A011) Failed by recorded vote: 154 - 261 (Roll no. 777).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt830-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to insert provisions which allow for a shortening of the 5-year delay contained in the bill if the Administrator finds that more than 1,000 jobs have been created under the regulation.", 
+  "house_number": 11, 
+  "introduced_at": "2011-10-11", 
+  "number": 830, 
+  "purpose": "An amendment numbered 12 printed in the Congressional Record to set the date for compliance with standards and requirements under such regulation earlier than 5 years.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-11T19:37:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

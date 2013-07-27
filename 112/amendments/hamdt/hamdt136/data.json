@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T19:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1282-1284, H1304", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1282", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A126) offered by Mr. Goodlatte.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:46:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 120, 
+      "text": "On agreeing to the Goodlatte amendment (A126) Agreed to by recorded vote: 230 - 195 (Roll no. 120).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt136-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 126, 
+  "introduced_at": "2011-02-18", 
+  "number": 136, 
+  "purpose": "An amendment numbered 467 printed in the Congressional Record to prohibit the use of funds in H.R. 1 from being used to develop, promulgate, evaluate, implement, provide oversight to, or backstop total maximum daily loads or watershed implementation plans for the Chesapeake Bay Watershed.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-18T21:46:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

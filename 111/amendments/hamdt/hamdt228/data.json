@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T18:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6950-6952", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6950", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T13:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6989-6990", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 369, 
+      "text": "On agreeing to the Price (GA) amendment (A018) Failed by recorded vote: 188 - 236 (Roll no. 369).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt228-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 18, 
+  "introduced_at": "2009-06-17", 
+  "number": 228, 
+  "purpose": "An amendment numbered 97 printed in the Congressional Record to reduce the funds appropriated in the Act by $644,150,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T13:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

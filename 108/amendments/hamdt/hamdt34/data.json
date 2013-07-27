@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-03T16:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2764-2769, H2807-2808", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2764", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-03T22:32:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 106, 
+      "text": "On agreeing to the McGovern amendment (A005) Failed by recorded vote: 209 - 216 (Roll no. 106).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt34-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1559-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1559
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to decrease Interdiction and Counter-Drug Activities funding and Andean Counter-Drug Initiative funding for Colombia by $61 million and increase funding for the Office for Domestic Preparedness by $34 million.", 
+  "house_number": 5, 
+  "introduced_at": "2003-04-03", 
+  "number": 34, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to increase the funding for the Office for Domestic Preparedness by $34 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-03T22:32:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T20:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4306-4307, H4311-4312", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4306", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T21:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 303, 
+      "text": "On agreeing to the Flake amendment (A022) Failed by recorded vote: 50 - 373 (Roll no. 303).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1077-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 22, 
+  "introduced_at": "2006-06-20", 
+  "number": 1077, 
+  "purpose": "An amendment to prohibit the use of funds from being made available for the Lewis Center for Education Research.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-20T21:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

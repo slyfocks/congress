@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-05", 
+      "references": [
+        {
+          "reference": "CR S2890", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3420 proposed by Senator Sessions to language proposed to be stricken by amendment no. 3192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-06", 
+      "references": [
+        {
+          "reference": "CR S3167", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-07", 
+      "references": [
+        {
+          "reference": "CR S3348", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3420-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3192-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3192
+  }, 
+  "amends_bill": {
+    "bill_id": "s2454-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2454
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-05", 
+  "number": 3420, 
+  "proposed_at": "2006-04-05", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sessions, Jeff", 
+    "state": "AL", 
+    "thomas_id": "01548", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-04-05", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

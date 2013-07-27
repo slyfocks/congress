@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T14:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3409-3410, H3444-3445", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3409", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-05T19:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 315, 
+      "text": "On agreeing to the McClintock amendment (A014) Failed by recorded vote: 106 - 281 (Roll no. 315).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1183-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce nuclear energy research and development activities by $514,391,000, and to apply the savings to the spending reduction account.", 
+  "house_number": 14, 
+  "introduced_at": "2012-06-05", 
+  "number": 1183, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to reduce the construction and expansion account of nuclear energy by $514,391,000, and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-05T19:01:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-06-17T12:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4612-4613, H4615", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4612", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Miller (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-06-17T13:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 373, 
+      "text": "On agreeing to the Miller (NC) amendment (A016) Agreed to by recorded vote: 418 - 3 (Roll no. 373).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt709-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5297-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5297
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment expands the definition of \"small business lending\" used in the bill to include loans made to small business concerns for the purpose of acquiring, constructing, or improving industrial, commercial, residential, or farm buildings.", 
+  "house_number": 16, 
+  "introduced_at": "2010-06-17", 
+  "number": 709, 
+  "purpose": "An amendment printed in House Report 111-508 to expand the definition of `small business lending' used in the bill to include loans made to small business concerns for the purpose of acquiring, constructing, or improving industrial, commercial, residential, or farm buildings.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Brad", 
+    "state": "NC", 
+    "thomas_id": "01735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-06-17T13:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

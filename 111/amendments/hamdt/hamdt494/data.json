@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-11-04T13:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12311-12312, H12317-12318", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12311", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-04T14:14:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 845, 
+      "text": "On agreeing to the Hensarling amendment (A001) Agreed to by recorded vote: 427 - 0 (Roll no. 845).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt494-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3639-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3639
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment clarifies that changes to a credit card agreement which reduce a customer's interest rate or other fees can be implemented immediately, instead of being subject to the 45-day waiting period required under the CARD Act of 2009.", 
+  "house_number": 1, 
+  "introduced_at": "2009-11-04", 
+  "number": 494, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 111-326 to clarify that changes to a credit card agreement that reduce a customer's interest rate or other fees can be implemented immediately, instead of being subject to the 45-day waiting period required under the CARD Act of 2009.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-11-04T14:14:00-05:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

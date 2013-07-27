@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T16:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6592-6595, H6607", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6592", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Schakowsky.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 750, 
+      "text": "On agreeing to the Schakowsky amendment (A004) Failed by recorded vote: 175 - 248 (Roll no. 750).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt805-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2011-10-05", 
+  "number": 805, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to add a new section that finds that mercury released into the ambient air from cement kilns addressed by the rules listed in section 2(b) of this Act is a potent neurotoxin that can damage the development of an infant's brain.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Schakowsky, Janice D.", 
+    "state": "IL", 
+    "thomas_id": "01588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:20:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

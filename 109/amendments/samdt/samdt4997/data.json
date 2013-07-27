@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-14", 
+      "references": [
+        {
+          "reference": "CR S9604-9605", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4997 proposed by Senator Stevens for Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9605", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4997 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-09-18", 
+      "references": [
+        {
+          "reference": "CR S9665-9666", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9665-9666", 
+          "type": "text as further modified"
+        }
+      ], 
+      "text": "Amendment SA 4997, previously agreed to as modified, was further modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4997-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-13", 
+  "number": 4997, 
+  "proposed_at": "2006-09-14", 
+  "purpose": "To standardize the risk-based funding of port security grants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

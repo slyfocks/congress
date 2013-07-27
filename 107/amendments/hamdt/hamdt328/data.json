@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-04T10:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6267-6269", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6267", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Pickering.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-04T10:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pickering amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt328-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2001-10-04", 
+  "number": 328, 
+  "purpose": "Amendment No. 46 printed in the Congressional Record September 21, the term \"catfish\" may not be considered to be a common or usual name for the fish Pangasius borcurti or for any other fish not classified within the family Ictalariidae.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Pickering, Charles W. \"Chip\"", 
+    "state": "MS", 
+    "thomas_id": "01513", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-04T10:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29T23:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5639-5641, H5649", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5639", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-30T01:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 368, 
+      "text": "On agreeing to the Stearns amendment (A002) Failed by recorded vote: 94 - 320 (Roll no. 368).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt953-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1304-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1304
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to exempt groups of health care professionals engaged in negotiations with health plans from antitrust laws if the FTC or Department of Justice has certified that such negotiations would promote competition and enhance the quality of patient care.", 
+  "house_number": 2, 
+  "introduced_at": "2000-06-29", 
+  "number": 953, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-709 to exempt groups of health care professional engaged in negotiations with health plans from federal antitrust laws if the FTC or the Department of Justice has certified that such negotiations would promote competition and enhance the quality of professional care. The amendment clarifies that the bill does not create any legal right for such groups of health care professionals to engage in boycotts, coercive behavior or engage in a collective cessation of service to patients.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-30T01:22:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

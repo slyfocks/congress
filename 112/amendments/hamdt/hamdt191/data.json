@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16T16:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1877-1878", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1877", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Hurt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T16:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hurt amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt191-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr861-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "An amendment to ensure that all unobligated balances rescinded by the bill should be retained in the Treasury's General Fund for the purpose of deficit reduction.", 
+  "house_number": 2, 
+  "introduced_at": "2011-03-16", 
+  "number": 191, 
+  "purpose": "An amendment numbered 2 printed in part B of House Report 112-34 to ensure that all unobligated balances rescinded by the bill should be retained in the Treasury's General Fund for the purpose of deficit reduction.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hurt, Robert", 
+    "state": "VA", 
+    "thomas_id": "02069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-16T16:10:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

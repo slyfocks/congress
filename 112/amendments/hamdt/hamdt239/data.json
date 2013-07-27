@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T20:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2210-2212", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2210-2211", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Ms. Moore.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-31T20:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2212", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Moore amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt239-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 30, 
+  "introduced_at": "2011-03-31", 
+  "number": 239, 
+  "purpose": "An amendment numbered 32 printed in House Report 112-46 to give the Federal Aviation Administration (FAA) the authority to conduct demonstration projects at five airports in support of \"aerotropolis\" zones that assist in better coordinating transportation around airports and funding of projects to reduce congestion, improve, and increase the flow of freight and passengers to and through the airport through multiple transportation modes.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "thomas_id": "01811", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-03-31", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

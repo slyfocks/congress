@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-03-13T13:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H859", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H859", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-13T13:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H859", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Nadler amendment (A001) modified by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-13T13:30:00-05:00", 
+      "references": [], 
+      "text": "On agreeing to the Nadler amendment (A001) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt435-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2341-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2341
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment, as modified, prohibits any order, opinion, or record of the court from being sealed or subjected to a protective order unless the court finds that the sealing or protective order is narrowly tailored, consistent with the protection of public health and safety, and is in the public interest.", 
+  "house_number": 1, 
+  "introduced_at": "2002-03-13", 
+  "number": 435, 
+  "purpose": "An amendment which prevents records of class action cases from being sealed, if doing so harms the public health and safety.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2002-03-13", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

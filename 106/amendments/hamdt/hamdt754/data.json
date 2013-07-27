@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-07T18:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4012-4013", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4012", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-07T18:55:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lewis (CA) raised a point of order against the DeFazio amendment (A004). Mr. Lewis stated that the amendment constituted legislation on an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt754-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4576-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2000-06-07", 
+  "number": 754, 
+  "purpose": "An amendment to suspend defense contractors who have been convicted of fraud on a total of three or more occasions after the date of enactment.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-07", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

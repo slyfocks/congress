@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-20", 
+      "references": [
+        {
+          "reference": "CR S8532-8533, S8535", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8533", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1307 proposed by Senator McConnell for Senator Leahy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1307 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1307-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-20", 
+  "number": 1307, 
+  "proposed_at": "2005-07-20", 
+  "purpose": "To require that funds made available for the United Nations Population Fund be used for certain purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-20", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

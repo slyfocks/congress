@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "references": [
+        {
+          "reference": "CR S11640-11642", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2083 proposed by Senator Bond for Senator DeWine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11640", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2083 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2083-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-18", 
+  "number": 2083, 
+  "proposed_at": "2005-10-20", 
+  "purpose": "To appropriate an additional $6,000,000 for the New Car Assessment Program with a corresponding offset in Department of Transportation salaries and expenses.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeWine, Mike", 
+    "state": "OH", 
+    "thomas_id": "00293", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-20", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23", 
+      "references": [
+        {
+          "reference": "CR S7251, S7263", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 925 proposed by Senator Bond.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 156, 
+      "text": "Amendment SA 925 agreed to in Senate by Yea-Nay Vote. 64 - 31. Record Vote Number: 156.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt925-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 925, 
+  "proposed_at": "2005-06-23", 
+  "purpose": "To impose additional requirements for improving automobile fuel economy and reducing vehicle emissions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bond, Christopher S.", 
+    "state": "MO", 
+    "thomas_id": "01286", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

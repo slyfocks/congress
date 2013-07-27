@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-16T20:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4741-4744", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4742", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-16T21:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 307, 
+      "text": "On agreeing to the Flake amendment Failed by recorded vote: 85 - 337 (Roll no. 307).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt532-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5093-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to decrease funding for the Bureau of Land Management by $51.3 million.", 
+  "house_number": 2, 
+  "introduced_at": "2002-07-16", 
+  "number": 532, 
+  "purpose": "An amendment to reduce the amount appropriated for Bureau of Land Management, Management of Lands and Resources, by $51,300,000, from $826,932,000 to $775,632,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-16T21:33:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

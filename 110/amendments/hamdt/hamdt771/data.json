@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-04T22:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9999", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9999", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Issa.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-04T22:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Issa amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt771-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3222-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3222
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to prohibit funds to be used to disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program.", 
+  "house_number": 4, 
+  "introduced_at": "2007-08-04", 
+  "number": 771, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "49", 
+    "name": "Issa, Darrell E.", 
+    "state": "CA", 
+    "thomas_id": "01640", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-08-04T22:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

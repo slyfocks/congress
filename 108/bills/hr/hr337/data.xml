@@ -1,0 +1,71 @@
+<bill session="108" type="h" number="337" updated="2013-07-14T19:00:39-04:00">
+  <state datetime="2003-02-11T15:38:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-02-11T15:38:00-05:00"/>
+  </status>
+  <introduced datetime="2003-01-27"/>
+  <titles>
+    <title as="introduced" type="official">To extend certain hydro-electric licenses in the State of Alaska.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2003-01-27">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2003-01-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-01-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2003-02-04T17:03:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 108-4.</text>
+    </action>
+    <calendar datetime="2003-02-04T17:03:00-05:00" calendar="Union" number="2">
+      <text>Placed on the Union Calendar, Calendar No. 2.</text>
+    </calendar>
+    <action datetime="2003-02-11T15:32:00-05:00">
+      <text>Mr. Shimkus moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-02-11T15:33:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H345-346" label="consideration"/>
+    </action>
+    <action datetime="2003-02-11T15:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 337.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-02-11T15:38:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H345" label="text"/>
+    </vote>
+    <action datetime="2003-02-11T15:38:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-02-12">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2003-02-24">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alaska"/>
+    <term name="Electric power transmission"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2003--Passed House without amendment.
+Instructs the Federal Energy Regulatory Commission, upon licensee request, to: (1) issue an order staying a specified hydroelectric license in the State of Alaska; (2) lift such stay, but not later than six years after the date that it receives written notice that construction of the Swan-Tyee transmission line is completed; (3) make the effective date of the license the date on which the stay is lifted; and (4) extend the time during which such licensee is required to commence project construction for not more than one two-year time period.</summary>
+</bill>

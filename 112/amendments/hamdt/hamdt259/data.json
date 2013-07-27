@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-15T12:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2884-2896", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2884-2891", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Van Hollen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-15T13:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 276, 
+      "text": "On agreeing to the Van Hollen amendment (A004) Failed by recorded vote: 166 - 259 (Roll no. 276).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt259-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres34-112", 
+    "bill_type": "hconres", 
+    "congress": 112, 
+    "number": 34
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute constitutes the alternative budget plan proposed by the Democratic Caucus and appears on page H2884 of the Congressional Record of April 15, 2011.", 
+  "house_number": 4, 
+  "introduced_at": "2011-04-15", 
+  "number": 259, 
+  "purpose": "A substitute amendment numbered 5 printed in Part B of House Report 112-62 to reduce deficits gradually to avoid disrupting the recovery and reaches primary balance by 2018 while protecting guarantees to seniors and investments that are essential for the well-being of our citizens. Would also make strategic investments in education, innovation, and infrastructure, while restraining the growth in overall discretionary spending. Would extend middle-income tax relief and streamlines the tax code to remove special interest tax breaks that distort economic activity.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Van Hollen, Chris", 
+    "state": "MD", 
+    "thomas_id": "01729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-15T13:11:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

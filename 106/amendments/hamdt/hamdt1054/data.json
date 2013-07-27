@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-12T15:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9847", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9847", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mrs. Myrick.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-12T15:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Myrick amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1054-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres628-106", 
+    "bill_type": "hres", 
+    "congress": 106, 
+    "number": 628
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute provides for the consideration of the Senate amendment to the bill H.R. 4386.", 
+  "house_number": 1, 
+  "introduced_at": "2000-10-12", 
+  "number": 1054, 
+  "purpose": "An amendment to substitute new text in the resolution.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Myrick, Sue Wilkins", 
+    "state": "NC", 
+    "thomas_id": "00849", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-10-12T15:11:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

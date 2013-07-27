@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-04T13:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2146-2148", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2147", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04T13:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A014) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt801-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to eliminate the port security grant program in the bill.", 
+  "house_number": 14, 
+  "introduced_at": "2006-05-04", 
+  "number": 801, 
+  "purpose": "An amendment numbered 14 printed in House Report 109-450 to strike the $400 million authorization for a new Port Security Program which would block the creation of an additional federal Homeland Security grant program.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-04T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

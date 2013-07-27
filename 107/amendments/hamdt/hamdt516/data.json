@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-27T13:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4117-4118", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4117", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-27T13:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Collins amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt516-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5010-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2002-06-27", 
+  "number": 516, 
+  "purpose": "An amendment to prohibit use of funds to relocate the headquarters of the United States Army, South, from Fort Buchanan, Puerto Rico, to a location in the continental United States.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Collins, Mac", 
+    "state": "GA", 
+    "thomas_id": "00222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-06-27T13:08:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

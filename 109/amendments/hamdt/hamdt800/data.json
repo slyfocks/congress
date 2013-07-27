@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-04T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2145-2146", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2145-2146", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04T13:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Weiner amendment (A013) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt800-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment requires port security grant recipients to submit quarterly reports to the Secretary of Homeland Security that describe each expenditure made by the recipient using grant funds.", 
+  "house_number": 13, 
+  "introduced_at": "2006-05-04", 
+  "number": 800, 
+  "purpose": "An amendment numbered 13 printed in House Report 109-450 to require each port security grant recipient to report each expenditure to the Secretary of Homeland Security, who will then publish each expenditure on a publicly available website. The amendment creates an exception for national security.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-04T13:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

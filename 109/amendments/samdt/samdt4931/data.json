@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-12", 
+      "references": [
+        {
+          "reference": "CR S9339-9341, S9348", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9339-9340", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4931 proposed by Senator Hutchison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-12", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 242, 
+      "text": "Amendment SA 4931 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 242.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4931-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-12", 
+  "number": 4931, 
+  "proposed_at": "2006-09-12", 
+  "purpose": "To strengthen national security by adding an additional 275 Customs and Border Protection officers at United States ports.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hutchison, Kay Bailey", 
+    "state": "TX", 
+    "thomas_id": "01368", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-12", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

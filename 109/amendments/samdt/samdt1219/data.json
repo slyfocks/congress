@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8187", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8187", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1219 proposed by Senator Ensign to Amendment SA 1124.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8248, S8251", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 179, 
+      "text": "Amendment SA 1219 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 179.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1219-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1124-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 1124
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-13", 
+  "number": 1219, 
+  "proposed_at": "2005-07-13", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

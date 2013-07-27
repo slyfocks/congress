@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-14", 
+      "references": [
+        {
+          "reference": "CR S3640-3641", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3640", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 399 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-15", 
+      "references": [
+        {
+          "reference": "CR S3718", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3775", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3865, S3892", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 399 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt399-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 399, 
+  "proposed_at": "2005-04-14", 
+  "purpose": "To prohibit the continuation of the independent counsel investigation of Henry Cisneros past June 1, 2005 and request an accounting of costs from GAO.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-19", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

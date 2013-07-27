@@ -1,0 +1,78 @@
+<bill session="106" type="hc" number="396" updated="2013-07-14T18:55:26-04:00">
+  <state datetime="2000-10-25">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2000-10-25"/>
+  </status>
+  <introduced datetime="2000-09-12"/>
+  <titles>
+    <title as="introduced" type="official">Celebrating the birth of James Madison and his contributions to the Nation.</title>
+  </titles>
+  <sponsor id="400571"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2000-09-21"/>
+    <cosponsor id="400098" joined="2000-09-18"/>
+    <cosponsor id="400153" joined="2000-09-20"/>
+    <cosponsor id="400154" joined="2000-09-26"/>
+    <cosponsor id="400283" joined="2000-09-18"/>
+    <cosponsor id="400603" joined="2000-09-26"/>
+    <cosponsor id="400364" joined="2000-09-21"/>
+    <cosponsor id="400609" joined="2000-09-20"/>
+    <cosponsor id="400435" joined="2000-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-09-12">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2000-09-15">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2000-10-02T14:14:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-10-02T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8555-8557" label="consideration"/>
+    </action>
+    <action datetime="2000-10-02T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 396.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-02T14:28:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8555" label="text"/>
+    </vote>
+    <action datetime="2000-10-02T14:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-03">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-10-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11014-11015" label="consideration"/>
+    </vote>
+    <action datetime="2000-10-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authors and authorship"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Constitutional conventions"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2000--Introduced.
+Recognizes the historical significance of James Madison's birth, as well as his contributions to the Nation.Urges American patriotic and civil associations, labor organizations, schools, universities, historical societies, and communities of learning and worship, together with citizens throughout the United States, to develop appropriate programs and educational activities to recognize and celebrate the life and achievements of James Madison.Calls on the people of the United States to observe James Madison's life and legacy with appropriate ceremonies and activities.</summary>
+</bill>

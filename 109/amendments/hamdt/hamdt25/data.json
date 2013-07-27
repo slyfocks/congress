@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-09T15:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1191-1192", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1191", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Osborne.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09T16:36:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 58, 
+      "text": "On agreeing to the Osborne amendment Agreed to by recorded vote: 236 - 184 (Roll no. 58).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt25-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment to exempt the State of Nebraska from the ISTEA 1991 truck length freeze, subject to a change in state statute, to allow the operation of commercial vehicle combinations not exceeding 81 feet, six inches for custom harvesters operating in the State of Nebraska.", 
+  "house_number": 6, 
+  "introduced_at": "2005-03-09", 
+  "number": 25, 
+  "purpose": "An amendment numbered six printed in Part B of House Report 109-14 to exempt the State of Nebraska from the ISTEA 1991 truck length freeze, subject to change in states statute, to allow the operation of commercial vehicle combinations not exceeding 81 feet, 6 inches for custom harvesters operating in the State of Nebraska.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Osborne, Tom", 
+    "state": "NE", 
+    "thomas_id": "01658", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-09T16:36:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

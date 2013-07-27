@@ -1,0 +1,82 @@
+<bill session="107" type="hc" number="183" updated="2013-07-14T18:58:58-04:00">
+  <state datetime="2002-09-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2002-09-12"/>
+  </status>
+  <introduced datetime="2001-07-10"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress regarding the United States Congressional Philharmonic Society and its mission of promoting musical excellence throughout the educational system and encouraging people of all ages to commit to the love and expression of musical performance.</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400263" joined="2001-07-10"/>
+    <cosponsor id="400283" joined="2001-07-10"/>
+    <cosponsor id="400524" joined="2001-07-10"/>
+    <cosponsor id="400316" joined="2001-07-10"/>
+    <cosponsor id="400507" joined="2001-07-10"/>
+    <cosponsor id="400382" joined="2001-07-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-07-10">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2001-08-10">
+      <text>Referred to the Subcommittee on Education Reform.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="2002-09-04T14:14:00-04:00">
+      <text>Mr. Castle moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-09-04T14:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6003-6005" label="consideration"/>
+    </action>
+    <action datetime="2002-09-04T14:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 183.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-09-04T14:21:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6003" label="text"/>
+    </vote>
+    <action datetime="2002-09-04T14:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-09-05">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2002-09-12">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref=" CR S8580" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2002-09-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2002-09-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Education Reform" name="House Education and the Workforce"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Cultural relations"/>
+    <term name="Democracy"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Music"/>
+    <term name="Patriotism"/>
+    <term name="Symphony orchestras"/>
+  </subjects>
+  <amendments/>
+  <summary>9/4/2002--Passed House without amendment.
+Expresses the sense of Congress applauding the U.S. Congressional Philharmonic Society for its choral society and orchestra, and for its promotion of: (1) cultural communication and understanding in performances throughout the District of Columbia, the United States, and the world; and (2) musical excellence at all levels of the educational system.</summary>
+</bill>

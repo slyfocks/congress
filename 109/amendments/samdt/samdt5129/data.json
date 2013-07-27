@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-14", 
+      "references": [
+        {
+          "reference": "CR S10902", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10902", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5129 proposed by Senator Hutchison for Senator Craig.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5129 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5129-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5385-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5385
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-13", 
+  "number": 5129, 
+  "proposed_at": "2006-11-14", 
+  "purpose": "To increase to $10,000,000 the threshold for major medical facility projects of the Department of Veterans Affairs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Craig, Larry E.", 
+    "state": "ID", 
+    "thomas_id": "00246", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-11-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

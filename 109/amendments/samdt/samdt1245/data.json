@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-18", 
+      "references": [
+        {
+          "reference": "CR S8401-8402", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8400", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1245 proposed by Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8447", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "references": [
+        {
+          "reference": "CR S8510, S8513-8516, S8517-8518, S8529", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S8517-8518", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 195, 
+      "text": "Amendment SA 1245 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 195.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1245-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-18", 
+  "number": 1245, 
+  "proposed_at": "2005-07-18", 
+  "purpose": "To express the sense of the Senate regarding the use of funds for orphans, and displaced and abandoned children.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-20", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

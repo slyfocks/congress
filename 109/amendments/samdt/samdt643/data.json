@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5020-5025", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5020", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 643 proposed by Senator Inhofe for Senator Conrad to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 643 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt643-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 643, 
+  "proposed_at": "2005-05-12", 
+  "purpose": "To establish the Federal share of the cost of constructing a bridge in the State of North Dakota.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-12", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

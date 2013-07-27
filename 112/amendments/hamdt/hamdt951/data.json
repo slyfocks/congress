@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-16T16:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H830-834", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H830-831", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Scalise.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-16T16:54:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Scalise amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt951-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3408-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3408
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment establishes the Gulf Coast Restoration Trust Fund and requires that 80% of the Clean Water Act fines will be directed to that fund in order to restore the ecosystems and economies that were directly impacted by the gulf oil spill.", 
+  "house_number": 20, 
+  "introduced_at": "2012-02-16", 
+  "number": 951, 
+  "purpose": "An amendment numbered 20 printed in Part A of House Report 112-398 to dedicate Clean Water Act penalties associated with the Deepwater Horizon disaster to the Gulf Coast Restoration Trust Fund.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "thomas_id": "01892", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-02-16T16:54:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

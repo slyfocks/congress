@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-15", 
+      "references": [
+        {
+          "reference": "CR S5922-5927", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5922", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4265 proposed by Senator Nelson FL.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-16", 
+      "references": [
+        {
+          "reference": "CR S5990", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-19", 
+      "references": [
+        {
+          "reference": "CR S6051", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20", 
+      "references": [
+        {
+          "reference": "CR S6105, S6117", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 178, 
+      "text": "Amendment SA 4265 agreed to in Senate by Yea-Nay Vote. 79 - 19. Record Vote Number: 178.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4265-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-15", 
+  "number": 4265, 
+  "proposed_at": "2006-06-15", 
+  "purpose": "To express the sense of Congress that the Government of Iraq should not grant amnesty to persons known to have attacked, killed, or wounded members of the Armed Forces of the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-20", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

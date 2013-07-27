@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3880", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3880", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 547 proposed by Senator Cochran for Senator Bond.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 547 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt547-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-19", 
+  "number": 547, 
+  "proposed_at": "2005-04-19", 
+  "purpose": "To appropriate $5,000,000 for OFHEO to meet emergency funding needs; these funds are supported by fees collected from the regulated GSEs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bond, Christopher S.", 
+    "state": "MO", 
+    "thomas_id": "01286", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-19", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

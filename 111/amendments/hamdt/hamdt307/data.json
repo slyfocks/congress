@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-09T16:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7878-7879, H7910-7911", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7878", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Buyer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T18:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 517, 
+      "text": "On agreeing to the Buyer amendment (A002) Failed by recorded vote: 156 - 271 (Roll no. 517).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt307-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3081-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3081
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce funding for Diplomatic and Consular Programs by $1.2 billion; Operating Expenses for USAID by $330 million; and Global Health by $670 million, reflecting FY 2009 enacted funding levels.", 
+  "house_number": 2, 
+  "introduced_at": "2009-07-09", 
+  "number": 307, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 111-193 to reduce funding for: Diplomatic and Consular Programs by $1.2 billion; Operating Expenses for USAID by $330 million; and Global Health by $670 million. This would reflect FY2009 enacted funding levels.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Buyer, Steve", 
+    "state": "IN", 
+    "thomas_id": "00160", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-09T18:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

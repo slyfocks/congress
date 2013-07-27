@@ -1,0 +1,85 @@
+<bill session="108" type="h" number="3348" updated="2013-07-14T19:02:06-04:00">
+  <state datetime="2003-12-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2003-12-09"/>
+  </status>
+  <introduced datetime="2003-10-20"/>
+  <titles>
+    <title as="introduced" type="official">To reauthorize the ban on undetectable firearms.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2003-11-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-10-20">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2003-10-22">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2003-11-05T11:19:00-05:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-11-05T11:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10363-10364" label="consideration"/>
+    </action>
+    <action datetime="2003-11-05T11:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3348.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-05T11:28:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H10363" label="text"/>
+    </vote>
+    <action datetime="2003-11-05T11:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-06">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2003-11-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S16062" label="consideration"/>
+    </vote>
+    <topresident datetime="2003-11-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2003-11-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2003-12-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2003-12-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2003-12-09" type="public" number="108-174">
+      <text>Became Public Law No: 108-174.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="s" number="1835"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Air piracy"/>
+    <term name="Airports"/>
+    <term name="Aviation safety"/>
+    <term name="Congress"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Security measures"/>
+    <term name="Sunset legislation"/>
+    <term name="Transportation and public works"/>
+    <term name="X-rays"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/2003--Public Law.
+Reauthorizes the ban on undetectable firearms for another ten years under the Undetectable Firearms Act of 1988 (which makes it illegal to manufacture, import, possess, or transfer a firearm that is not detectable by walk-through metal detectors or airport x-ray machines).</summary>
+</bill>

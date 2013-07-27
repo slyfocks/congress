@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08T17:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2377-2379", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2377", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-08T17:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Waters amendment (A018) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1051-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the FBI by $9 million; increase funding for legal activities by the Department of Justice by $13.5 million; and increase funding for U.S. Attorneys by $21.5 million, offset by a reduction in funds for NASA's Space Operations and Aeronautics accounts.", 
+  "house_number": 18, 
+  "introduced_at": "2012-05-08", 
+  "number": 1051, 
+  "purpose": "An amendment to increase funding for rent of private or Government-owned space in the District of Columbia by $13,500,000; increase funding for salaries and expenses, United States Attorneys by $21,500,000; increase funding for salaries and expenses, Federal Bureau of Iinvestigation; and reduce funding for National Aeronautics and Space Administration travel expenses, purchase and hire of passenger motor vehicles, and purchase, lease, charter, maintenance, and operation of mission and administrative aircraft by $44 million.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-08T17:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

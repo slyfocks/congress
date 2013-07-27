@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T20:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5273-5274", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5273", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:49:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5312-5313", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 527, 
+      "text": "On agreeing to the McKinley amendment (A013) Agreed to by recorded vote: 240 - 178 (Roll no. 527).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1459-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces the threshold for requiring additional analysis and reporting on government regulations that affect the economy from $100 million annually to $50 million.", 
+  "house_number": 13, 
+  "introduced_at": "2012-07-25", 
+  "number": 1459, 
+  "purpose": "An amendment numbered 13 printed in Part B of House Report 112-616 to reduce the term significant regulatory action from $100,000,000 or more to $50,000,000 or more in annual cost to the economy. This amendment would allow for more oversight on Federal Agency Regulations by lowering the dollar amount threshold.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-07-26T11:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

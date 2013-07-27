@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-16T12:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H478-479", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Moran (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-16T13:00:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H478", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Moran (VA) amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt584-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2366-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2366
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment provides a definition of the term \"punitive damages\" for the purposes of the legislation.", 
+  "house_number": 2, 
+  "introduced_at": "2000-02-16", 
+  "number": 584, 
+  "purpose": "An amendment numbered 2 printed in House report 106-498 to clarify that the term \"punitive damages\" does not include civil penalties, civil fines, or treble damages assessed or enforced by a government agency under federal or state statute.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Moran, James P.", 
+    "state": "VA", 
+    "thomas_id": "00832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-02-16T13:00:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

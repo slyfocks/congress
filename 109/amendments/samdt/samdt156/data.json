@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2886-2894, S2923-2924", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2887", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 156 proposed by Senator Sarbanes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 65, 
+      "text": "Amendment SA 156 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 65.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt156-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 156, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To restore funding for the Community Development Block Grant (CDBG) program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sarbanes, Paul S.", 
+    "state": "MD", 
+    "thomas_id": "01017", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-02", 
+      "references": [
+        {
+          "reference": "CR S8599", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8599", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4766 proposed by Senator Stevens for Senator Inouye.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4766 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4766-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4766, 
+  "proposed_at": "2006-08-02", 
+  "purpose": "To make available from Operation and Maintenance, Army, up to $500,000 for the United States Army Center of Military History to support a traveling exhibit on military experience in World War II.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inouye, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "01369", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-02", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

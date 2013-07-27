@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-09T09:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3653-3662, H3698-3699", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3653", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-09T13:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 242, 
+      "text": "On agreeing to the McGovern amendment (A007) Failed by recorded vote: 174 - 229 (Roll no. 242).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt991-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5522-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5522
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the United States Emergency Refugee and Migration Assistance Fund by $30 million.", 
+  "house_number": 7, 
+  "introduced_at": "2006-06-09", 
+  "number": 991, 
+  "purpose": "An amendment to increase funding (by offset) for the United States Emergency Refugee and Migration Assistance Fund by $30 million. The offset comes from a $30 million reduction of funding for the Andean Counterdrug Initiative.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-09T13:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

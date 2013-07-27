@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3887, S3888", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3887", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 379 proposed by Senator Hutchison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S3887", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 379 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt379-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 379, 
+  "proposed_at": "2005-04-19", 
+  "purpose": "To make unused EB3 visas available to bring nurses to the United States through Department of State procedures.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hutchison, Kay Bailey", 
+    "state": "TX", 
+    "thomas_id": "01368", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-19", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

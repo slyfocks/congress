@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T17:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2325-2334, H2380", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2325-2332", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Dingell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T22:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 123, 
+      "text": "On agreeing to the Dingell amendment (A002) Failed by recorded vote: 188 - 243 (Roll no. 123).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt71-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to replace electricity provisions of the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2005-04-20", 
+  "number": 71, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-49 to authorize FERC to deter and punish fraud and manipulation in electricity and gas markets, increase penalties for Federal Power Act violations, authorizes FERC to refund all electricity overcharges, does not repeal the PUHCA, and directs the SEC to review utility holding companies' status under PUHCA to prevent them from wrongly claiming exemptions. The amendment retains a number of valuable provisions from Title XII, such as \"open access\" for public power entities, and does not modify the \"native load\" provisions adopted in the Energy and Commerce Committee. The amendment retains Title XII's electric transmission provision, including the spending caps.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dingell, John D.", 
+    "state": "MI", 
+    "thomas_id": "00299", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-20T22:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

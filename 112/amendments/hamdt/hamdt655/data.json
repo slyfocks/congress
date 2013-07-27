@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-14T16:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5055-5056", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5055", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A052) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-15T11:17:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5095-5096", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 585, 
+      "text": "On agreeing to the Gosar amendment (A052) Failed by recorded vote: 183 - 238 (Roll no. 585).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt655-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 52, 
+  "introduced_at": "2011-07-14", 
+  "number": 655, 
+  "purpose": "An amendment to prohibit the use of funds to be used to administer or enforce the requirements of the Davis-Bacon Act, except with respect to a contract that exceeds $20 million.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-15T11:17:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

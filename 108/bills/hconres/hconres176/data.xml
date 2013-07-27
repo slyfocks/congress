@@ -1,0 +1,89 @@
+<bill session="108" type="hc" number="176" updated="2013-07-14T19:03:06-04:00">
+  <state datetime="2003-11-04T18:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-11-04T18:51:00-05:00"/>
+  </status>
+  <introduced datetime="2003-05-09"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of Financial Planning Week, recognizing the significant impact of sound financial planning on achieving life's goals, and honoring American families and the financial planning profession for their adherence and dedication to the financial planning process.</title>
+  </titles>
+  <sponsor id="400321"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2003-05-13"/>
+    <cosponsor id="400069" joined="2003-07-24"/>
+    <cosponsor id="400210" joined="2003-07-18"/>
+    <cosponsor id="400245" joined="2003-09-17"/>
+    <cosponsor id="400379" joined="2003-09-11"/>
+    <cosponsor id="400400" joined="2003-09-03"/>
+    <cosponsor id="400414" joined="2003-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-05-09">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-06-02">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2003-09-18">
+      <text>Subcommittee on Civil Service and Agency Organization Discharged.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2003-09-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-09-18">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2003-11-04T14:34:00-05:00">
+      <text>Mr. Turner (OH) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-11-04T14:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10247-10248" label="consideration"/>
+    </action>
+    <action datetime="2003-11-04T14:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 176.</text>
+    </action>
+    <action datetime="2003-11-04T14:40:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-11-04T18:33:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H10312-10313" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-04T18:51:00-05:00" how="roll" result="pass" roll="602" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 602).</text>
+      <reference ref="CR H10247" label="text"/>
+    </vote>
+    <action datetime="2003-11-04T18:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-05">
+      <text>Received in the Senate and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Finance and financial sector"/>
+    <term name="Financial planning"/>
+    <term name="Financial services"/>
+    <term name="Personal budgets"/>
+    <term name="Service industries"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>11/4/2003--Passed House without amendment.
+Expresses support for, and encourages Americans to observe, Financial Planning Week.</summary>
+</bill>

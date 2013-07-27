@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T11:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7216-7217", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7216", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A044) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-27T11:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A044) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt438-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 44, 
+  "introduced_at": "2007-06-27", 
+  "number": 438, 
+  "purpose": "An amendment to prohibit funds to be used for the Philadelphia Art Museum Exterior Facade in Philadephia, PA.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-27T11:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

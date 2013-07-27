@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-08", 
+      "references": [
+        {
+          "reference": "CR S9784-9786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9784-9785", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1654 proposed by Senator Dayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-09", 
+      "references": [
+        {
+          "reference": "CR S9865", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-12", 
+      "references": [
+        {
+          "reference": "CR S9898", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-13", 
+      "references": [
+        {
+          "reference": "CR S9948", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "references": [
+        {
+          "reference": "CR S10002, S10019-10021", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1654 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1654-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-08", 
+  "number": 1654, 
+  "proposed_at": "2005-09-08", 
+  "purpose": "To increase funding for Justice Assistance Grants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dayton, Mark", 
+    "state": "MN", 
+    "thomas_id": "01629", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-14", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

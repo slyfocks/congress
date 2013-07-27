@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T18:30:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4286-4287, H4303-4304", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mrs. Wilson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T21:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H4286", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 267, 
+      "text": "On agreeing to the Wilson amendment (A030) Failed by recorded vote: 156 - 267 (Roll no. 267).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt788-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide $25 million for the 21st Century Teacher Scholarships Act with offsets from the Occupational Safety and Health Administration.", 
+  "house_number": 30, 
+  "introduced_at": "2000-06-13", 
+  "number": 788, 
+  "purpose": "An amendment printed in Part B of House Report 106-657.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wilson, Heather", 
+    "state": "NM", 
+    "thomas_id": "01539", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-13T21:06:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

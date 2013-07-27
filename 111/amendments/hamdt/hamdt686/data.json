@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-06-10T12:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4352-4353, H4360-4361", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4352", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-06-10T13:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 349, 
+      "text": "On agreeing to the Price (GA) amendment (A007) Failed by recorded vote: 106 - 316 (Roll no. 349).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt686-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5072-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5072
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to cap the number of mortgages the FHA can issue to 10% of total loans originated in the U.S. each year. Within 90 days of enactment the FHA must submit a plan to Congress to roll back FHA market share to 10% of loans originated each year by 2012.", 
+  "house_number": 7, 
+  "introduced_at": "2010-06-10", 
+  "number": 686, 
+  "purpose": "An amendment numbered 7 printed in House Report 111-503 to cap the number of mortgages the FHA can issue to 10% of total loans originated in the U.S. each year. Within 90 days of enactment, FHA must submit a plan to Congress to roll back FHA market share to 10% of loans originated each year by 2012.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-06-10T13:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

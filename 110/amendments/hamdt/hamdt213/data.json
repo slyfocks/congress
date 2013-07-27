@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T20:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5437-5442, H5446-5447", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5437-5438", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Garrett (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-17T21:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 383, 
+      "text": "On agreeing to the Garrett (NJ) amendment (A011) Failed by recorded vote: 92 - 322 (Roll no. 383).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt213-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to require government sponsored enterprises to only hold mortgages and mortgage-backed securities that exclusively support affordable housing.", 
+  "house_number": 11, 
+  "introduced_at": "2007-05-17", 
+  "number": 213, 
+  "purpose": "An amendment numbered 17 printed in the Congressional Record to insert new language requiring GSEs to limit their retained portfolios to mortgages and mortgage backed securities that exclusivley support affordable housing, and particularly mortgages extended to households having incomes below the median income for the area in which the property subject to the mortgage is located.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-17T21:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

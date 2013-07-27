@@ -1,0 +1,84 @@
+<bill session="107" type="hc" number="348" updated="2013-07-14T18:59:01-04:00">
+  <state datetime="2002-09-03">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2002-09-03"/>
+  </status>
+  <introduced datetime="2002-03-12"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the National Book Festival.</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400082" joined="2002-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2002-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-03-20">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-04-11T17:00:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-400.</text>
+    </action>
+    <calendar datetime="2002-04-11T17:00:00-04:00" calendar="House" number="138">
+      <text>Placed on the House Calendar, Calendar No. 138.</text>
+    </calendar>
+    <action datetime="2002-04-30T16:07:00-04:00">
+      <text>Mrs. Capito moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-04-30T16:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1711-1712" label="consideration"/>
+    </action>
+    <action datetime="2002-04-30T16:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 348.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-04-30T16:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1711" label="text"/>
+    </vote>
+    <action datetime="2002-04-30T16:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-05-01">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2002-09-03">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S8137-8138" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2002-09-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2002-09-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Books"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congressional agencies"/>
+    <term name="Exhibitions"/>
+    <term name="Families"/>
+    <term name="Federal libraries"/>
+    <term name="Government operations and politics"/>
+    <term name="Library of Congress"/>
+    <term name="Presidential families"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2002--Reported to House without amendment.
+Authorizes the Library of Congress, in cooperation with the First Lady, to sponsor a free public event, the National Book Festival on the Capitol grounds on September 21, 2002.</summary>
+</bill>

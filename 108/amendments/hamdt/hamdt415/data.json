@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-16T21:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 10/17/2003 H9592-9593, H9603-9604", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 10/17/2003 H9592", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-16T23:07:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 551, 
+      "text": "On agreeing to the Holt amendment (A011) Failed by recorded vote: 169 - 256 (Roll no. 551).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt415-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to eliminate $900 million provided for the importation of petroleum products to Iraq.", 
+  "house_number": 11, 
+  "introduced_at": "2003-10-16", 
+  "number": 415, 
+  "purpose": "An amendment to eliminate the funds in the bill providing petroleum products for Iraq.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-16T23:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

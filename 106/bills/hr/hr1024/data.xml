@@ -1,0 +1,33 @@
+<bill session="106" type="h" number="1024" updated="2013-07-14T18:53:19-04:00">
+  <state datetime="1999-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1999-03-04"/>
+  </status>
+  <introduced datetime="1999-03-04"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Edwardo Reyes and Dianelita Reyes.</title>
+  </titles>
+  <sponsor id="400604"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-03-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-04-07">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1999--Introduced.
+Directs the Attorney General to stay deportation of two named individuals and allow them to remain temporarily in the United States and to engage in employment pending a decision by the Board of Immigration Appeals regarding a motion to reopen deportation proceedings based on ineffective assistance of counsel.</summary>
+</bill>

@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2827-2829", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2828", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 218 proposed by Senator Hutchison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2875, S2922", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 218 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt218-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 218, 
+  "proposed_at": "2005-03-16", 
+  "purpose": "To fully fund the level of Border Patrol Agents authorized by the National Intelligence Reform Act of 2004 and as recommended by the 9/11 Commission.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hutchison, Kay Bailey", 
+    "state": "TX", 
+    "thomas_id": "01368", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6256-6260, H6267-6268", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6256-6258", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21T17:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 406, 
+      "text": "On agreeing to the Flake amendment (A004) Agreed to by recorded vote: 394 - 32 (Roll no. 406).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt492-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3199-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3199
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment specifies that the recipient of a national security letter may consult with an attorney, and may also challenge national security letters in court.", 
+  "house_number": 4, 
+  "introduced_at": "2005-07-21", 
+  "number": 492, 
+  "purpose": "An amendment numbered 5 printed in part B of House Report 109-178 to specify that the recipient of a national security letter may consult with an attorney, and may also challenge national security letters in court. Authorizes a judge to throw out the national security letter request by the government \"if compliance would be unreasonable or oppressive\" to the recipient of the national security letter. Allows the recipient to challenge the non-disclosure requirement (gag order) of the national security letter request. Permits a court to modify or remove the non- disclosure requirement of the national security letter request \"if it finds that there is no reason to believe that disclosure may endanger the national security of the United States, interfere with a criminal, counterterrorism, or counterintelligence investigation, interfere with diplomatic relations, or endanger the life or physical safety of any person.\".", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21T17:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

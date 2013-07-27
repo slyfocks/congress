@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-27T15:32:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4608", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4608", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mrs. Davis, Jo Ann.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-27T15:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Davis, Jo Ann amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1093-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4973-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4973
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment directs FEMA to utilize a statistically appropriate sampling method for claims reviews and quality assurance purposes.", 
+  "house_number": 12, 
+  "introduced_at": "2006-06-27", 
+  "number": 1093, 
+  "purpose": "An amendment numbered 12 printed in House Report 109-530 to direct FEMA to utilize `a methodologically valid approach for sampling files selected for operational reviews and quality assurance claims reinspections.' A 2005 GAO study highlighted FEMA's oversight failures, stating that, `FEMA cannot . . . determine the overall accuracy of claims settled for specific flood events or assess the overall performance of insurance companies and their adjusters in fulfilling their responsibilities for the NFIP' (GAO-06-183T National Flood Insurance Program). Improves the oversight and accountability of the National Flood Insurance Program (NFIP).", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Davis, Jo Ann", 
+    "state": "VA", 
+    "thomas_id": "01672", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-27T15:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

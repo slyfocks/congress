@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-29T14:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6345", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6345", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Boehner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-29T14:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boehner amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt743-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5850-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5850
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment terminates the HUD program for doctoral dissertation research grants on housing and urban development issues.", 
+  "house_number": 1, 
+  "introduced_at": "2010-07-29", 
+  "number": 743, 
+  "purpose": "An amendment numbered 1 printed in Part A of House Report 111-578 to terminate the HUD program for doctoral dissertation research grants on housing and urban development issues.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Boehner, John A.", 
+    "state": "OH", 
+    "thomas_id": "00102", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-07-29T14:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

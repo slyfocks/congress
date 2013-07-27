@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-08T19:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3575-3576, H3582-3583", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3575", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Smith (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-08T21:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 238, 
+      "text": "On agreeing to the Smith (TX) amendment (A006) Agreed to by recorded vote: 353 - 68 (Roll no. 238).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt986-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5252-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5252
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment clarifies that the language in the bill that gives the FCC exclusive jurisdiction of network neutrality complaints does not displace the antitrust laws or the jurisdiction of the courts to hear antitrust cases in this area.", 
+  "house_number": 6, 
+  "introduced_at": "2006-06-08", 
+  "number": 986, 
+  "purpose": "An amendment numbered 6 printed in House Report 109-491 to clarify that the language in section 201 (i.e. the new section 715(b)(3) of the Communications Act) that gives exclusive authority to the FCC to adjudicate complaints concerning network neutrality does not affect the applicability of the antitrust laws to cases involving network neutrality or the jurisdiction of the courts to hear such cases.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-08T21:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

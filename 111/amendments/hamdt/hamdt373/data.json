@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-23T15:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8647-8649, H8667-8668", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8647-8648", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Neugebauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-23T17:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 625, 
+      "text": "On agreeing to the Neugebauer amendment (A011) Failed by recorded vote: 166 - 267 (Roll no. 625).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt373-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3288-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3288
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce spending in the bill by $13,533,000,000.", 
+  "house_number": 11, 
+  "introduced_at": "2009-07-23", 
+  "number": 373, 
+  "purpose": "An amendment numbered 11 printed in Part A of House Report 111-219 to reduce spending in the bill by $13,533,000,000.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-23T17:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

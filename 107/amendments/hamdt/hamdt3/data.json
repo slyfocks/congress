@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-01T12:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H577-578", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H577", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-01T12:40:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt3-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr333-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 333
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment allows a debtor to deduct public school expenses as an allowable expense under the means test and treats public and private school expenses equally.", 
+  "house_number": 2, 
+  "introduced_at": "2001-03-01", 
+  "number": 3, 
+  "purpose": "Amendment no. 2 printed in H. Rept. 107-4 to allow a debtor to deduct public school expenses as an allowable expense under the means test and treats public and private school expenses equally.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-03-01T12:40:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

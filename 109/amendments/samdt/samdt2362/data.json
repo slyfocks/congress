@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-02", 
+      "references": [
+        {
+          "reference": "CR S12172-12175", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12173", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2362 proposed by Senator Wyden to language proposed to be stricken by amendment no. 2358.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12305-12306", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 289, 
+      "text": "Amendment SA 2362 agreed to in Senate by Yea-Nay Vote. 83 - 16. Record Vote Number: 289.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2362-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2362, 
+  "proposed_at": "2005-11-02", 
+  "purpose": "To enhance the energy security of the United States by prohibiting the exportation of oil and gas produced under leases in the Arctic National Wildlife Refuge.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

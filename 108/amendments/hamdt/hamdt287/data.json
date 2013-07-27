@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-22T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7275-7276, H7297-7298", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7275", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-22T19:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 405, 
+      "text": "On agreeing to the Paul amendment (A002) Failed by recorded vote: 145 - 279 (Roll no. 405).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt287-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2799-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2799
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike funds for the United Nations Educational, Scientific, and Cultural Organization.", 
+  "house_number": 2, 
+  "introduced_at": "2003-07-22", 
+  "number": 287, 
+  "purpose": "An amendment numbered 10 printed in the Congressional Record to strike the funds in the bill for UNESCO.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-22T19:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

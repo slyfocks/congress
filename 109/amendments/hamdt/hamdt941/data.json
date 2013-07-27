@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25T16:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3295-3296, CR 5/26/2006 H3315-3316", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3295", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Langevin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25T18:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 214, 
+      "text": "On agreeing to the Langevin amendment Failed by recorded vote: 205 - 216 (Roll no. 214).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt941-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the Domestic Nuclear Detection Office by $36 million.", 
+  "house_number": 6, 
+  "introduced_at": "2006-05-25", 
+  "number": 941, 
+  "purpose": "An amendment to increase funding (by offset) for the Domestic Nuclear Detection Office by $36,000,000.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Langevin, James R.", 
+    "state": "RI", 
+    "thomas_id": "01668", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-25T18:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

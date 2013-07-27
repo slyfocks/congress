@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12T12:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3230-3231", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3230", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Bass.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12T12:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bass amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt124-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1544-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1544
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment allows States to petition the Secretary of Homeland Security for the reimbursement of the cost of any activity relating to prevention (including detection) of, preparedness for, response to, or recovery from acts of terrorism that is a Federal duty and usually performed by a Federal agency, and that is being performed by a State or local government (or both) under agreement with a Federal agency.", 
+  "house_number": 3, 
+  "introduced_at": "2005-05-12", 
+  "number": 124, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-77 to allow states to petition the Secretary of Homeland Security to use Federal homeland security funds for the cost of any activity relating to prevention of, preparation for, response to, or recovery from acts of terrorism, that would otherwise be a Federal duty performed by Federal agencies and under agreement with the State or local government and a Federal agency.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Bass, Charles F.", 
+    "state": "NH", 
+    "thomas_id": "00063", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-12T12:56:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

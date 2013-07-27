@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-18T19:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3546-3548", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3546", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-20T11:00:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3708-3709", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 238, 
+      "text": "On agreeing to the Campbell (CA) amendment (A007) Failed by recorded vote: 161 - 241 (Roll no. 238).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt94-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1257-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1257
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to provide that a company would not be required to have an advisory vote on executive compensation if they, instead, require a majority vote of those voting, to seat a director on the board of directors.", 
+  "house_number": 7, 
+  "introduced_at": "2007-04-18", 
+  "number": 94, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to add a new paragraph providing for a majority-elected board exemption.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-04-20T11:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

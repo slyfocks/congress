@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T13:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6692-6695, H6717-6718", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6692", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-19T17:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 506, 
+      "text": "On agreeing to the Sessions amendment (A005) Failed by recorded vote: 164 - 259 (Roll no. 506).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt320-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 105 which prohibits funds from being used to conduct a public-private competition or direct conversion under the OMB Circular A-76 or any other administrative regulation, directive, or policy for any Corps of Engineers program, project or activity.", 
+  "house_number": 5, 
+  "introduced_at": "2007-06-19", 
+  "number": 320, 
+  "purpose": "An amendment numbered 23 printed in the Congressionl Record to striking the prohibition of funds under the OMB Circular A-76 or any other administrative regulation, directive, or policy for the Corps of Engineers program, project or activity.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-19T17:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

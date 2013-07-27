@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8703-8705", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8704", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4855 proposed by Senator Stevens for Senator Dodd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4855 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4855-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-03", 
+  "number": 4855, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To make available from Research, Development, Test and Evaluation, Navy, up to $1,000,000 for Energy Regeneration and Conversion Fuel Cell Systems to address Navy Unmanned Underwater Vehicle requirements.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dodd, Christopher J.", 
+    "state": "CT", 
+    "thomas_id": "00302", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T18:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2340-2343, H2378-2379", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2340", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Boehlert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T21:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 121, 
+      "text": "On agreeing to the Boehlert amendment (A004) Failed by recorded vote: 177 - 254 (Roll no. 121).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt73-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to require the Department of Transportation to raise fuel economy standards for automobiles from today's average of 25 miles per gallon to 33 miles per gallon by 2015.", 
+  "house_number": 4, 
+  "introduced_at": "2005-04-20", 
+  "number": 73, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-49 to direct the Secretary of Transportation to increase fuel economy standards from today's average of 25 mpg to 33 mpg over 10 years (by 2015), consistent with the findings of the National Academy of Sciences, in order to save 10% of the gasoline the nation would otherwise consume by 2015. The amendment also directs the Secretary to maximize job retention in the American auto manufacturing sector and to prevent taking actions that would reduce safety.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-20T21:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

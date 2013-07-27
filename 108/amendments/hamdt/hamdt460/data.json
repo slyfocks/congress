@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-02-04T15:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H344-345, H346-347", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H344", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Scott (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-04T16:15:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 16, 
+      "text": "On agreeing to the Scott (VA) amendment (A002) Failed by recorded vote: 180 - 233 (Roll no. 16).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt460-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3030-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3030
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to require that organizations offering religious services or activities, do so separately from programs that use Community Services Block Grant funds.", 
+  "house_number": 2, 
+  "introduced_at": "2004-02-04", 
+  "number": 460, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to insert provisions relating to the limitation on the use of funds and voluntariness.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-02-04T16:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-02T10:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8093-8095, H8100", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8093", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-02T11:29:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 883, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A003) Failed by recorded vote: 162 - 250 (Roll no. 883).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt890-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to clarify that the agency would retain the discretion to determine whether to provide advance notice, not later than 90 days, of a proposed rule prior to it being published in the Federal Register.", 
+  "house_number": 3, 
+  "introduced_at": "2011-12-02", 
+  "number": 890, 
+  "purpose": "An amendment numbered 3 printed in Part B of House Report 112-296 to clarify that the agency would retain the discretion to determine whether to provide advanced notice, not later than 90 days, of a proposed rule prior to it being published in the Federal Register.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-02T11:29:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

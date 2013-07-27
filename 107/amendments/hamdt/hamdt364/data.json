@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-05T11:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6403-6404", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6403", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-05T11:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Traficant amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt364-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2883-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2883
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires the commission established by the bill to study border security.", 
+  "house_number": 4, 
+  "introduced_at": "2001-10-05", 
+  "number": 364, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to require the independent commission to include a comprehensive assessment of security at the borders of the United States with respect to terrorist and narcotic interdiction efforts.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-05T11:43:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

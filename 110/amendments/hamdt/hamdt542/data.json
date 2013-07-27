@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T14:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8031-8032, H8092-8093", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8031", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Mr. Ferguson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T21:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 658, 
+      "text": "On agreeing to the Ferguson amendment Agreed to by recorded vote: 419 - 11 (Roll no. 658).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt542-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases special education funding by $50 million.", 
+  "house_number": 33, 
+  "introduced_at": "2007-07-18", 
+  "number": 542, 
+  "purpose": "An amendment to increase (by transfer) for Special Education account by $50 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Ferguson, Mike", 
+    "state": "NJ", 
+    "thomas_id": "01659", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-18T21:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

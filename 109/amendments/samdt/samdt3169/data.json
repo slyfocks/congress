@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2271-2272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2271", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3169 proposed by Senator Gregg for Senator Graham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3169 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3169-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-16", 
+  "number": 3169, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To restore funding for a pilot project in the Port of Charleston that coordinates over 50 State and local law enforcement agencies to prevent and detect acts of terrorism and criminal activity.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "thomas_id": "00452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

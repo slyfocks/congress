@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-21T09:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6242-6243, H6252-6253", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6242", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-21T11:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 599, 
+      "text": "On agreeing to the DeFazio amendment (A011) Failed by recorded vote: 168 - 243 (Roll no. 599).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1493-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3409-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3409
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require EPA and the Department of Transportation to submit a report to Congress within 6 months on the health, environmental, and public health impacts of fugitive coal dust.", 
+  "house_number": 11, 
+  "introduced_at": "2012-09-21", 
+  "number": 1493, 
+  "purpose": "An amendment numbered 11 printed in House Report 112-680 to require EPA and the Department of Transportation to submit a report to Congress within 6 months on the health, environmental, and public health impacts of fugitive coal dust.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-09-21T11:27:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

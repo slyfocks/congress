@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-09", 
+      "references": [
+        {
+          "reference": "CR S1165-1166, S1180-1183", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1165", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2 proposed by Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 6, 
+      "text": "Amendment SA 2 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 6.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s5-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-02-08", 
+  "number": 2, 
+  "proposed_at": "2005-02-09", 
+  "purpose": "To amend the definition of class action in title 28, United States Code, to exclude class actions relating to civil rights or the payment of wages.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-02-09", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

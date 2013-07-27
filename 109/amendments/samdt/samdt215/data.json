@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2831-2832", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2831", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 215 proposed by Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2875, S2922", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 215 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt215-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 215, 
+  "proposed_at": "2005-03-16", 
+  "purpose": "To provide additional funding for rural education, rural health access, and rural health outreach programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

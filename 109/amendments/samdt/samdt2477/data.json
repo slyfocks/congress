@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12586-12589", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12586", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2477 proposed by Senator Talent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-10", 
+      "references": [
+        {
+          "reference": "CR S12638, S12644", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-10", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 317, 
+      "text": "Amendment SA 2477 agreed to in Senate by Yea-Nay Vote. 89 - 8. Record Vote Number: 317.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2477-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-09", 
+  "number": 2477, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To modify the multiyear procurement authority for C-17 aircraft.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Talent, Jim", 
+    "state": "MO", 
+    "thomas_id": "01135", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-10", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

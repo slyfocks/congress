@@ -1,0 +1,133 @@
+<bill session="106" type="h" number="1982" updated="2013-07-14T18:53:42-04:00">
+  <state datetime="2000-08-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-08-18"/>
+  </status>
+  <introduced datetime="1999-05-27"/>
+  <titles>
+    <title as="introduced" type="official">To name the Department of Veterans Affairs outpatient clinic located at 125 Brookley Drive, Rome, New York, as the "Donald J. Mitchell Department of Veterans Affairs Outpatient Clinic".</title>
+  </titles>
+  <sponsor id="400035"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1999-05-27"/>
+    <cosponsor id="400087" joined="1999-05-27"/>
+    <cosponsor id="400122" joined="1999-05-27"/>
+    <cosponsor id="400126" joined="2000-07-24"/>
+    <cosponsor id="400133" joined="2000-07-24"/>
+    <cosponsor id="400582" joined="1999-05-27"/>
+    <cosponsor id="400139" joined="1999-05-27"/>
+    <cosponsor id="400536" joined="1999-05-27"/>
+    <cosponsor id="400178" joined="1999-05-27"/>
+    <cosponsor id="400188" joined="1999-05-27"/>
+    <cosponsor id="400213" joined="1999-05-27"/>
+    <cosponsor id="400219" joined="1999-05-27"/>
+    <cosponsor id="400537" joined="1999-05-27"/>
+    <cosponsor id="400594" joined="1999-05-27"/>
+    <cosponsor id="400246" joined="1999-05-27"/>
+    <cosponsor id="400251" joined="1999-05-27"/>
+    <cosponsor id="400257" joined="1999-05-27"/>
+    <cosponsor id="400264" joined="1999-05-27"/>
+    <cosponsor id="400268" joined="1999-05-27"/>
+    <cosponsor id="400271" joined="1999-05-27"/>
+    <cosponsor id="400289" joined="1999-05-27"/>
+    <cosponsor id="400306" joined="1999-05-27"/>
+    <cosponsor id="400329" joined="1999-05-27"/>
+    <cosponsor id="400333" joined="1999-05-27"/>
+    <cosponsor id="400338" joined="1999-05-27"/>
+    <cosponsor id="400366" joined="1999-05-27"/>
+    <cosponsor id="400378" joined="1999-05-27"/>
+    <cosponsor id="400393" joined="1999-05-27"/>
+    <cosponsor id="400409" joined="1999-05-27"/>
+    <cosponsor id="400413" joined="2000-07-24"/>
+    <cosponsor id="400416" joined="1999-05-27"/>
+    <cosponsor id="400420" joined="1999-05-27"/>
+    <cosponsor id="400426" joined="1999-05-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-05-27">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1999-06-15">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2000-07-20">
+      <text>Subcommittee on Health Discharged.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2000-07-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-07-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2000-07-25T10:50:00-04:00">
+      <text>Mr. Stump moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-07-25T10:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6790-6791" label="consideration"/>
+    </action>
+    <action datetime="2000-07-25T10:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1982.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-25T10:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref=" CR H6790" label="text"/>
+    </vote>
+    <action datetime="2000-07-25T10:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-25T10:59:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2000-07-27">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S7804" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-07-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2000-07-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-07-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-08-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-08-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-08-18" type="public" number="106-262">
+      <text>Became Public Law No: 106-262.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Ambulatory care"/>
+    <term name="Armed forces and national security"/>
+    <term name="Clinics"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Health"/>
+    <term name="Names"/>
+    <term name="New York State"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2000--Passed House amended.
+Designates the Department of Veterans Affairs outpatient clinic in Rome, New York, as the Donald J. Mitchell Department of Veterans Affairs Outpatient Clinic.</summary>
+</bill>

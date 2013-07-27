@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-20", 
+      "references": [
+        {
+          "reference": "CR S8540-8542", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8540", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1314 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "references": [
+        {
+          "reference": "CR S8602, S8607-8608, S8614-8617", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S8607", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 199, 
+      "text": "Amendment SA 1314 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 199.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1314-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-20", 
+  "number": 1314, 
+  "proposed_at": "2005-07-20", 
+  "purpose": "To increase, with an offset, amounts available for the procurement of wheeled vehicles for the Army and the Marine Corps and for armor for such vehicles.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-11T17:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3201-3202", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3201", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. Brown (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-12T13:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3238", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 316, 
+      "text": "On agreeing to the Brown (FL) amendment (A006) Failed by recorded vote: 134 - 279 (Roll no. 316).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt285-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1231-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1231
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to make the current ban on drilling in the eastern Gulf of Mexico permanent.", 
+  "house_number": 6, 
+  "introduced_at": "2011-05-11", 
+  "number": 285, 
+  "purpose": "An amendment numbered 6 printed in House Report 112-74 to make permanent the current moratorium on drilling in the eastern gulf of Mexico that expires in 2022.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Brown, Corrine", 
+    "state": "FL", 
+    "thomas_id": "00132", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-12T13:40:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

@@ -1,0 +1,78 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-16", 
+      "references": [
+        {
+          "reference": "CR S5199-5205", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5199-5200", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 619 proposed by Senator Reid for Senator Lautenberg to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17", 
+      "references": [
+        {
+          "reference": "CR S5256, S5265-5267", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5266-5267", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 619 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt619-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 619, 
+  "proposed_at": "2005-05-16", 
+  "purpose": "To increase penalties for individuals who operate motor vehicles while intoxicated or under the influence of alcohol under aggravated circumstances.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lautenberg, Frank R.", 
+    "state": "NJ", 
+    "thomas_id": "01381", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-17", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

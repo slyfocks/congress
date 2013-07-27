@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2261-2262", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2262", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3154 proposed by Senator Gregg for Senator Leahy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3154 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3154-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-16", 
+  "number": 3154, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To fund grants for bullet proof vests for local law enforcement agencies at the full authorized level.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-25T23:29:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5694-5696", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H5694", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Cardin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-26T10:12:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H5799", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H5799", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 354, 
+      "text": "On agreeing to the Cardin amendment (A007) Failed by recorded vote: 177 - 245 (Roll no. 354).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt580-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5005-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5005
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to preserve the Customs Service as a distinct entity within the Department of Homeland Security.", 
+  "house_number": 7, 
+  "introduced_at": "2002-07-25", 
+  "number": 580, 
+  "purpose": "An amendment numbered 8 printed in House Report 107-615 to preserve the existing Customs Service as a \"distinct entity\" within the DHS. The amendment does not affect the bill's provisions which protect certain revenue and trade act enforcement functions of the Customs Service.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-26T10:12:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

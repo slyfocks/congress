@@ -1,0 +1,112 @@
+<bill session="106" type="hc" number="277" updated="2013-07-14T18:55:23-04:00">
+  <state datetime="2000-05-15T19:02:00-04:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="2000-05-15T19:02:00-04:00"/>
+  </status>
+  <introduced datetime="2000-03-13"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="2000-03-13"/>
+    <cosponsor id="400283" joined="2000-03-13"/>
+    <cosponsor id="400524" joined="2000-03-13"/>
+    <cosponsor id="400295" joined="2000-03-16"/>
+    <cosponsor id="400438" joined="2000-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2000-03-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E283"/>
+    </action>
+    <action state="REFERRED" datetime="2000-03-13">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2000-03-14">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-03-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-03-15">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-03-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-03-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2000-03-23T18:35:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-539.</text>
+    </action>
+    <calendar datetime="2000-03-23T18:36:00-05:00" calendar="House" number="187">
+      <text>Placed on the House Calendar, Calendar No. 187.</text>
+    </calendar>
+    <action datetime="2000-04-10T14:13:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2000-04-10T14:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1963-1965" label="consideration"/>
+    </action>
+    <action datetime="2000-04-10T14:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 277.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-04-10T14:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1963" label="text"/>
+    </vote>
+    <action datetime="2000-04-10T14:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-04-11">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2000-05-09">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S3782" label="consideration"/>
+    </action>
+    <action datetime="2000-05-09">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-05-09" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2000-05-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2000-05-15T19:01:00-04:00">
+      <text>Mr. LaTourette asked unanimous consent that the House agree to the Senate amendment.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-05-15T19:02:00-04:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+    </vote>
+    <action datetime="2000-05-15T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3141"/>
+  </amendments>
+  <summary>5/9/2000--Passed Senate amended.
+Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 24, 2000.Requires the Capitol Police Board to provide for enforcement of the restrictions contained in Federal law provisions concerning sales, advertisements, displays, and solicitations on the Capitol grounds, as well as other restrictions applicable to the Capitol grounds, with respect to such event.</summary>
+</bill>

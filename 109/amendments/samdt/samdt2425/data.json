@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-04", 
+      "references": [
+        {
+          "reference": "CR S12380-12386", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12380", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2425 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-04", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2425 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2425-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-04", 
+  "number": 2425, 
+  "proposed_at": "2005-11-04", 
+  "purpose": "Relating to persons under the detention, custody, or control of the United States Government.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-04", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

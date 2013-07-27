@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5019-5025", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5023-5024", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 737 proposed by Senator Inhofe to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 737 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt737-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 737, 
+  "proposed_at": "2005-05-12", 
+  "purpose": "To make certain revisions relating to alternative methods to improve the accessibility of public transportation for persons with visual disabilities, tax-free transit benefits, authority to use government vehicles to transport federal employees, and projects in Alaska and Hawaii for new fixed guideway systems and extension projects utilizing ferry boats.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-12", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

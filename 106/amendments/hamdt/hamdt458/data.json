@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-14T18:34:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A009) offered by Mr. DeLay.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-14T19:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 417, 
+      "text": "On agreeing to the DeLay amendment (A009) Failed by recorded vote: 160 - 268 (Roll no. 417).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt458-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr417-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 417
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to exempt regulations contained in the bill from applying to activities on the Internet.", 
+  "house_number": 9, 
+  "introduced_at": "1999-09-14", 
+  "number": 458, 
+  "purpose": "An amendment no. 9 printed in H.Rept. 106-311 to exempt internet activities from regulation under the Federal Election Campaign Act.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "DeLay, Tom", 
+    "state": "TX", 
+    "thomas_id": "00282", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-14T19:40:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

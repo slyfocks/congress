@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23", 
+      "references": [
+        {
+          "reference": "CR S7264-7266", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7266", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 834 proposed by Senator Craig for Senator Snowe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 834 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt834-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-21", 
+  "number": 834, 
+  "proposed_at": "2005-06-23", 
+  "purpose": "To provide for understanding of and access to procurement opportunities for small businesses with regard to Energy Star technologies and products, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

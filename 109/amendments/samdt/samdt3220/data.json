@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-05", 
+      "references": [
+        {
+          "reference": "CR S2852-2853", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2852", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3220 proposed by Senator Nelson FL to Amendment SA 3192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-06", 
+      "references": [
+        {
+          "reference": "CR S3167", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-07", 
+      "references": [
+        {
+          "reference": "CR S3348", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3220-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3192-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3192
+  }, 
+  "amends_bill": {
+    "bill_id": "s2454-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2454
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-03", 
+  "number": 3220, 
+  "proposed_at": "2006-04-05", 
+  "purpose": "To use surveillance technology to protect the borders of the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-04-03", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

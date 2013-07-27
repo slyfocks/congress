@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-24T19:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4512-4514", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4512-4513", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-24T19:49:00-04:00", 
+      "references": [], 
+      "text": "Mr. Kolbe raised a point of order against the Smith (NJ) amendment (A020). The amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt222-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2506-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2506
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 20, 
+  "introduced_at": "2001-07-24", 
+  "number": 222, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to congratulate the Federal Republic of Yugoslavia, as wel as the governments of Croatia and Bosnia, for their cooperation with the international war crimes tribunal at the Hague. The amendment also calls for the governments in the region to fully and unreservedly cooperate with the Tribuanl in the future, in part by granting access to requested documents archive, witnesses, and mass grave sites.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-07-24", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

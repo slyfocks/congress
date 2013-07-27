@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-07", 
+      "references": [
+        {
+          "reference": "CR S9075-9082 ", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 9075", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4907 proposed by Senator Conrad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-07", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 235, 
+      "text": "Amendment SA 4907 agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 235.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4907-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-07", 
+  "number": 4907, 
+  "proposed_at": "2006-09-07", 
+  "purpose": "To enhance intelligence community efforts to bring Osama bin Laden and other key leaders of al Qaeda to the justice they deserve.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-07", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

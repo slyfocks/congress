@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-11T14:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2931-2946", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A024) in the nature of a substitute offered by Mr. Thornberry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-11T15:16:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2931-2939", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 177, 
+      "text": "On agreeing to the Thornberry amendment (A024) Failed by recorded vote: 126 - 291 (Roll no. 177).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt705-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute sought to strengthen private property rights and PILT programs; address maintenance problems in public parks; and make funding discretionary for the first 5 years after enactment.", 
+  "house_number": 24, 
+  "introduced_at": "2000-05-11", 
+  "number": 705, 
+  "purpose": "An amendment numbered 26 printed in House Report 106-612 to strengthen private property rights and PILT programs; address public maintenance problems in public parks; and to make funding discretionary for the first 5 years that the bill is enacted.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Thornberry, Mac", 
+    "state": "TX", 
+    "thomas_id": "01155", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-11T15:16:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

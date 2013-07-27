@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-24T19:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3868-3869", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3868-3869", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Boehlert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-24T19:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boehlert amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt200-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2005-05-24", 
+  "number": 200, 
+  "purpose": "An amendment to prevent use of funds before March 1, 2006, to enter into an agreement obligating the U.S. to contribute funds to ITER, the international burning plasma fusion research project.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-24T19:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

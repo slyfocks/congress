@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-23T18:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3104-3105, H3116", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3104", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A035) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23T20:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 190, 
+      "text": "On agreeing to the Flake amendment (A035) Failed by recorded vote: 92 - 325 (Roll no. 190).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt904-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5384-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 35, 
+  "introduced_at": "2006-05-23", 
+  "number": 904, 
+  "purpose": "An amendment to prohibit any of the funds made available in the Act from being used to fund dairy education in Iowa.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-23T20:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

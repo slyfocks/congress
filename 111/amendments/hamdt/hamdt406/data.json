@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-30T12:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9118-9119, H9128", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9118", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-30T14:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 672, 
+      "text": "On agreeing to the Campbell amendment (A015) Failed by recorded vote: 81 - 353 (Roll no. 672).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt406-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3326-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit the $3 million in funding for the MGPTS Type III or Rapid Deployable Shelter project and reduce the overall cost of the bill by $3 million.", 
+  "house_number": 15, 
+  "introduced_at": "2009-07-30", 
+  "number": 406, 
+  "purpose": "An amendment numbered 1 printed in Part C of House Report 111-233 to prohibit the $3 million in funding for the MGPTS Type III or Rapid Deployable Shelter project and reduce the overall cost of the bill by $3 million.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-30T14:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T17:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3918", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3918", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T17:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kaptur amendment (A030) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt162-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment transfers $2.95 million to the FDA general account for such activities as the prevention of mad cow disease and hoof and mouth disease.", 
+  "house_number": 30, 
+  "introduced_at": "2001-07-11", 
+  "number": 162, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-11T17:07:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-01", 
+      "references": [
+        {
+          "reference": "CR S3786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3786", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3644 proposed by Senator Cochran for Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3644 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3644-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3644, 
+  "proposed_at": "2006-05-01", 
+  "purpose": "To require a report on the strategy of the Department of Defense for providing training to members of the Armed Forces on countering improvised explosive devices.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-01", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

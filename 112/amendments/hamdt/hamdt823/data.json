@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-06T13:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6653-6654, H6660", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6653", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T14:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 769, 
+      "text": "On agreeing to the Capps amendment (A004) Failed by recorded vote: 153 - 254 (Roll no. 769).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt823-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add a finding to the bill which illustrates the health benefits of EPA's mercury and air toxic cleanup standards for industrial boilers and incinerators.", 
+  "house_number": 4, 
+  "introduced_at": "2011-10-06", 
+  "number": 823, 
+  "purpose": "An amendment numbered 16 printed in the Congressional Record to add a section which includes findings for health costs and benefits for the rules specified in section 3(b).", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T14:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

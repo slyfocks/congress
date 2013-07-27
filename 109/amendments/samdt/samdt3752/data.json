@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-03", 
+      "references": [
+        {
+          "reference": "CR S3944-3945", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3944", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3752 proposed by Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 3752.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03", 
+      "references": [], 
+      "text": "Amendment SA 3752 ruled out of order by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3752-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-01", 
+  "number": 3752, 
+  "proposed_at": "2006-05-03", 
+  "purpose": "To direct the Secretary of Commerce to provide a grant to the Port of New Orleans to mitigate increased costs resulting from the loss of deep draft navigation access to certain facilities at the Port in the aftermath of Hurricane Katrina.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-05-01", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

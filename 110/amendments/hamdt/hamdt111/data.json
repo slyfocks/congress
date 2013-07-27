@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-25T17:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4116", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4116", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Matheson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-25T17:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Matheson amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt111-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1332-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1332
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment includes members of the Reserve components of the Armed Forces as eligible to receive loans under the Community Express Program in section 103 of the bill and as eligible to participate in the Increased Veteran Participation Program in section 105.", 
+  "house_number": 1, 
+  "introduced_at": "2007-04-25", 
+  "number": 111, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-108 to add `members of reserve components of the armed forces' as eligible to receive loans under the Community Express Program and the Increased Veteran Participation Program.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Matheson, Jim", 
+    "state": "UT", 
+    "thomas_id": "01671", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-04-25T17:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

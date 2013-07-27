@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T16:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4735-4739", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4735", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A048) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T17:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 333, 
+      "text": "On agreeing to the Hinchey amendment (A048) Failed by recorded vote: 163 - 259 (Roll no. 333).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1144-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 48, 
+  "introduced_at": "2006-06-28", 
+  "number": 1144, 
+  "purpose": "An amendment to prohibit the use of funds from being used to prevent the States of Alaska, California, Colorado, Hawaii, Maine, Montana, Rhode Island, Nevada, Oregon, Vermont, or Washington from implementing State laws authorizing the use of medical marijuana in those States.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-28T17:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

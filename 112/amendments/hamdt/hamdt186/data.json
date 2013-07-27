@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-11T10:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1740-1742", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1740", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Canseco.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-11T10:45:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Canseco amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt186-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr836-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 836
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment ensures all money saved from terminating the emergency homeowner relief program will go back to the Treasury's general fund in order to reduce the debt.", 
+  "house_number": 1, 
+  "introduced_at": "2011-03-11", 
+  "number": 186, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to provide that all unexpended balances rescinded and permanently canceled by the Emergency Mortgage Relief Program's termination be retained in the General Fund of the Treasury for reducing the federal government debt.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Canseco, Francisco \"Quico\"", 
+    "state": "TX", 
+    "thomas_id": "02066", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-11T10:45:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

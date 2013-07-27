@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-06T13:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1911-1914, H1939", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-06T15:27:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1911", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 107, 
+      "text": "On agreeing to the Waters amendment (A007) Failed by recorded vote: 60 - 367 (Roll no. 107).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt661-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1776-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1776
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to strike language that raises the Community Development Block Grant income eligibility for median household income.", 
+  "house_number": 7, 
+  "introduced_at": "2000-04-06", 
+  "number": 661, 
+  "purpose": "An amendment numbered 7 printed in House Report 106-562 to strike language in Title IV that raises the CDBG income eligibility for a median household income and brings it back down to the existing level.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-04-06T15:27:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

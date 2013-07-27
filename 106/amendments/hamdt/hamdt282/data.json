@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-07-14T21:35:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A026) offered by Mr. Wu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-14T23:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 293, 
+      "text": "On agreeing to the Wu amendment (A026) Failed by recorded vote: 174 - 250 (Roll no. 293).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt282-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2466-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2466
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce forest timber sales management funding by $24 million.", 
+  "house_number": 26, 
+  "introduced_at": "1999-07-14", 
+  "number": 282, 
+  "purpose": "An amendment to allocate National Forest System funding of $196.8 million for timber sales management, $120.4 million for wildlife and fisheries habitat management, and $40.1 million for watershed improvements.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wu, David", 
+    "state": "OR", 
+    "thomas_id": "01598", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-07-14T23:36:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

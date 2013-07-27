@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12561, CR S12566-12568, S12576-12577", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12561", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2440 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S12568", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 312, 
+      "text": "Amendment SA 2440 as modified agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 312.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2440-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-08", 
+  "number": 2440, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To ensure by law the ability of the military service academies to include the offering of a voluntary, nondenominational prayer as an element of their activities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-09", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

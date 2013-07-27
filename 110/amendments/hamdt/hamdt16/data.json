@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-28T11:47:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1998-1999", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1998", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-28T11:51:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the King (IA) amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt16-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr556-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 556
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment adds a requirement that the President consider the potential effects of a covered transaction on the efforts of the United States to curtail human smuggling and drug smuggling.", 
+  "house_number": 2, 
+  "introduced_at": "2007-02-28", 
+  "number": 16, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to add a requirement that the President consider the potential effects of a covered transaction on the efforts of the United States to curtail human smuggling.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-28T11:51:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

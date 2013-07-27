@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-04-11T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H1248-1264", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H1248-1255", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-11T15:24:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A002) and on the bill pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-11T15:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 90, 
+      "text": "On agreeing to the Miller, George amendment (A002) Failed by the Yeas and Nays: 187 - 232 (Roll no. 90).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt453-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3762-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3762
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to include provisions for executive accountability and notice when executives sell company stock. It also sought to require timely information for employees including regular benefit statements and independent investment advice; employee participation on pension boards; prohibit executives from selling stock if the rank and file employees are prohibited from doing so; eliminate special treatment for executive pension plans; provide employee options to diversify company-matched stock after three years of plan participation; require plan fiduciaries to secure insurance to cover benefits; increase criminal penalties for fiduciaries who violate workers' pension rights; provide judicial remedies to employees for plan abuses; and add whistleblower protection.", 
+  "house_number": 2, 
+  "introduced_at": "2002-04-11", 
+  "number": 453, 
+  "purpose": "An amendment in the nature of a substitute printed in Part B of House Report 107-396.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-04-11T15:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

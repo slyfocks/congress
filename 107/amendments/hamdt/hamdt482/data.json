@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-10T00:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2374-2380", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2374-2377", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-10T00:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt482-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4546-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4546
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment added language consisting of the \"Department of Defense-Department of Veterans Affairs Health Resources Sharing and Performance Improvement Act of 2002\".", 
+  "house_number": 12, 
+  "introduced_at": "2002-05-10", 
+  "number": 482, 
+  "purpose": "An amendment numbered 21 printed in Part B of House Report 107-450 to strengthen and expand health care resources sharing between the Departments of Defense and Veterans Affairs by establishing incentives and pilot programs for health care and graduate medical education. The amendment also establishes an interagency committee to plan, facilitate and improve sharing efforts between the two Departments.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-05-10T00:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

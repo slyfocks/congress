@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-05-07T12:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5353-5354", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5353", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Perlmutter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-07T12:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Perlmutter amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt110-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1728-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment changes the grace period for renters who are renting a unit in violation of a mortgage contract put into place when that property is sold to a purchaser who intends to use the property as an owner-occupied unit, from 90 days to 30 days. Further, the amendment provides that creditors may only accelerate debt repayment in circumstances involving default in payment, a due-on-sale clause or a material violation in the contract.", 
+  "house_number": 4, 
+  "introduced_at": "2009-05-07", 
+  "number": 110, 
+  "purpose": "An amendment numbered 4 printed in House Report 111-98 to reduce the grace period for renters renting a unit in violation of a mortgage contract when that property is sold to a purchaser who intends to use such property as an owner-occupied unit from 90 days to 30 days. Additionally, creditors may only accelerate debt repayment in certain circumstances.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Perlmutter, Ed", 
+    "state": "CO", 
+    "thomas_id": "01835", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-05-07T12:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

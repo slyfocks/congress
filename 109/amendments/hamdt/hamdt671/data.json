@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-12-18T13:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12176", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12176", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-18T13:45:00-05:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A001) without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-18T13:45:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt671-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres631-109", 
+    "bill_type": "hres", 
+    "congress": 109, 
+    "number": 631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment is technical in nature.", 
+  "house_number": 1, 
+  "introduced_at": "2005-12-18", 
+  "number": 671, 
+  "purpose": "An amendment to add at the end of the bill certain bills and resolutions to be considered under suspension of the rules.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-12-18T13:45:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

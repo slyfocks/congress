@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-27T20:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4135-4136", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4135", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-29T12:18:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4630-4631", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 445, 
+      "text": "On agreeing to the Blackburn amendment (A038) Failed by recorded vote: 166 - 254 (Roll no. 445).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1353-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5972-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5972
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 38, 
+  "introduced_at": "2012-06-27", 
+  "number": 1353, 
+  "purpose": "An amendment to reduce the amount of this Act by 1 percent.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-29T12:18:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

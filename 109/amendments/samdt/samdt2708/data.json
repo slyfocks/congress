@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-02", 
+      "references": [
+        {
+          "reference": "CR S473, S487-488", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2708 proposed by Senator Frist for Senator Grassley to Amendment SA 2707.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2708 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2708-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2707-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2707
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4297-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4297
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-02", 
+  "number": 2708, 
+  "proposed_at": "2006-02-02", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-02-02", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,64 @@
+<bill session="106" type="hc" number="371" updated="2013-07-14T18:55:25-04:00">
+  <state datetime="2000-09-15">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2000-09-15"/>
+  </status>
+  <introduced datetime="2000-07-13"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideas of National Alcohol and Drug Recovery Month.</title>
+  </titles>
+  <sponsor id="400332"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-07-13">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2000-07-24T14:47:00-04:00">
+      <text>Mr. Horn moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-07-24T14:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6734-6735" label="consideration"/>
+    </action>
+    <action datetime="2000-07-24T14:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 371.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-24T15:02:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref=" CR H6734" label="text"/>
+    </vote>
+    <action datetime="2000-07-24T15:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-25">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2000-09-15">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S8639" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-09-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2000-09-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Alcoholism"/>
+    <term name="Alcoholism treatment"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse treatment"/>
+    <term name="Health"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2000--Introduced.
+Expresses support for the goals and ideas of National Alcohol and Drug Recovery Month.</summary>
+</bill>

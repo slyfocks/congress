@@ -1,0 +1,81 @@
+<bill session="108" type="hc" number="230" updated="2013-07-14T19:03:07-04:00">
+  <state datetime="2003-07-21T14:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-07-21T14:49:00-04:00"/>
+  </status>
+  <introduced datetime="2003-06-25"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the 10 communities selected to receive the 2003 All-America City Award.</title>
+  </titles>
+  <sponsor id="400172"/>
+  <cosponsors>
+    <cosponsor id="400014" joined="2003-06-25"/>
+    <cosponsor id="400023" joined="2003-06-25"/>
+    <cosponsor id="400042" joined="2003-06-25"/>
+    <cosponsor id="400103" joined="2003-06-25"/>
+    <cosponsor id="400106" joined="2003-06-25"/>
+    <cosponsor id="400173" joined="2003-06-25"/>
+    <cosponsor id="400302" joined="2003-06-25"/>
+    <cosponsor id="400344" joined="2003-06-25"/>
+    <cosponsor id="400351" joined="2003-06-25"/>
+    <cosponsor id="400391" joined="2003-06-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-06-25">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-07-10">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2003-07-21T14:44:00-04:00">
+      <text>Mr. Shays moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-07-21T14:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7181-7183" label="consideration"/>
+    </action>
+    <action datetime="2003-07-21T14:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 230.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-07-21T14:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7181" label="text"/>
+    </vote>
+    <action datetime="2003-07-21T14:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-07-22">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arizona"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Connecticut"/>
+    <term name="Florida"/>
+    <term name="Iowa"/>
+    <term name="Michigan"/>
+    <term name="Nebraska"/>
+    <term name="North Carolina"/>
+    <term name="Texas"/>
+    <term name="Urban affairs"/>
+    <term name="Urban areas"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2003--Passed House without amendment.
+Honors the following areas on receiving the National Civic League 2003 All-America City Award: Laurinburg, North Carolina; Tempe, Arizona; New Haven, Connecticut; Miami, Florida; Des Moines, Iowa; Marquette County, Michigan; Wilson, North Carolina; South Sioux City, Nebraska; Corpus Christi, Texas; and the Greater Racine Area, Wisconsin.</summary>
+</bill>

@@ -1,0 +1,108 @@
+<bill session="106" type="hc" number="189" updated="2013-07-14T18:55:22-04:00">
+  <state datetime="1999-11-01T14:45:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-11-01T14:45:00-05:00"/>
+  </status>
+  <introduced datetime="1999-09-27"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress regarding the wasteful and unsportsmanlike practice known as shark finning.</title>
+  </titles>
+  <sponsor id="400091"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1999-10-05"/>
+    <cosponsor id="400570" joined="1999-09-27"/>
+    <cosponsor id="400035" joined="1999-10-05"/>
+    <cosponsor id="400577" joined="1999-10-01"/>
+    <cosponsor id="400149" joined="1999-09-27"/>
+    <cosponsor id="400193" joined="1999-10-26"/>
+    <cosponsor id="400592" joined="1999-10-07"/>
+    <cosponsor id="400244" joined="1999-10-26"/>
+    <cosponsor id="400598" joined="1999-10-01"/>
+    <cosponsor id="400308" joined="1999-10-19"/>
+    <cosponsor id="400316" joined="1999-09-30"/>
+    <cosponsor id="400359" joined="1999-09-27"/>
+    <cosponsor id="400396" joined="1999-09-30"/>
+    <cosponsor id="400403" joined="1999-09-30"/>
+    <cosponsor id="400516" joined="1999-09-27" withdrawn="1999-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1999-09-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1967-1968"/>
+    </action>
+    <action state="REFERRED" datetime="1999-09-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-09-29">
+      <text>Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Subcommittee on Fisheries Conservation, Wildlife and Oceans Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-10-27">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1999-11-01T12:30:00-05:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 106-428.</text>
+    </action>
+    <calendar datetime="1999-11-01T12:31:00-05:00" calendar="House" number="142">
+      <text>Placed on the House Calendar, Calendar No. 142.</text>
+    </calendar>
+    <action datetime="1999-11-01T14:31:00-05:00">
+      <text>Mr. Saxton moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1999-11-01T14:31:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11154-11159" label="consideration"/>
+    </action>
+    <action datetime="1999-11-01T14:31:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 189.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-01T14:45:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-11-01T14:45:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-02">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1999-11-19">
+      <text>Referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Animals"/>
+    <term name="Fishery management"/>
+    <term name="Fishing"/>
+    <term name="International affairs"/>
+    <term name="International fishery management"/>
+    <term name="Overfishing"/>
+    <term name="Pacific Ocean"/>
+    <term name="Protection of animals"/>
+    <term name="Sharks"/>
+    <term name="Sports and recreation"/>
+    <term name="Territorial waters"/>
+  </subjects>
+  <amendments/>
+  <summary>11/1/1999--Passed House amended.
+Expresses the sense of Congress that: (1) the practice of removing the fins of a shark and dumping its carcass back into the ocean, commonly known as shark finning, is a wasteful and unsportsmanlike practice; (2) all Federal and State agencies and other management entities having jurisdiction over fisheries in U.S. waters where such practice is not prohibited should promptly and permanently end that practice in those waters; and (3) the Secretary of State should continue to advocate for the coordinated management of sharks and the elimination of shark finning in all other waters.</summary>
+</bill>

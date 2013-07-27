@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8678-8680, S8682", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8678", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4785 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S8679-8680", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 224, 
+      "text": "Amendment SA 4785 as modified agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 224.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4785-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4785, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To ensure the fiscal integrity of travel payments made by the Department of Defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

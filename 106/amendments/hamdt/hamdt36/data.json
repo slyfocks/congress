@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-24T15:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1647-1655", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H1647", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Tiahrt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24T17:05:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 69, 
+      "text": "On agreeing to the Tiahrt amendment (A004) Failed by recorded vote: 164 - 264 (Roll no. 69).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt36-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1141-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1141
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to fully offset funding in the bill by increasing the rescission in the Callable Capital Account for Multilateral Development Banks by $195 million.", 
+  "house_number": 4, 
+  "introduced_at": "1999-03-24", 
+  "number": 36, 
+  "purpose": "An amendment numbered 4 and printed in the Congressional Record to fully offset the emergency supplemental appropriations bill by increasing the rescission in the Callable Capital Account for Multilateral Development Banks by $195 million.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Tiahrt, Todd", 
+    "state": "KS", 
+    "thomas_id": "01158", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-03-24T17:05:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

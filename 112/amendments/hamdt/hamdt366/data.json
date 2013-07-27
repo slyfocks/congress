@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T19:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3858", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3858", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Barrow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T19:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Barrow amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt366-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment expresses the sense of Congress for prioritization of funding for LESC.", 
+  "house_number": 18, 
+  "introduced_at": "2011-06-01", 
+  "number": 366, 
+  "purpose": "An amendment to increase by transfer for U.S. Immigration and Customs Enforcement.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Barrow, John", 
+    "state": "GA", 
+    "thomas_id": "01780", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-01T19:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

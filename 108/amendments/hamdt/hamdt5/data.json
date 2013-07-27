@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-02-27T15:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1423-1436", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1423-1424", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Greenwood.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-27T16:57:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 37, 
+      "text": "On agreeing to the Greenwood amendment (A002) Failed by recorded vote: 174 - 231, 1 Present (Roll no. 37).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt5-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr534-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 534
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to prohibit human somatic cell nuclear transfer technology to initiate a pregnancy and allow its use for medical research.", 
+  "house_number": 2, 
+  "introduced_at": "2003-02-27", 
+  "number": 5, 
+  "purpose": "Amendment in the nature of a substitute numbered 3 and printed in House Report 108-21.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Greenwood, James C.", 
+    "state": "PA", 
+    "thomas_id": "00465", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-02-27T16:57:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

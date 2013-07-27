@@ -1,0 +1,86 @@
+<bill session="106" type="hc" number="52" updated="2013-07-14T18:55:20-04:00">
+  <state datetime="1999-04-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-04-19"/>
+  </status>
+  <introduced datetime="1999-03-10"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the East Front of the Capitol Grounds for performances sponsored by the John F. Kennedy Center for the Performing Arts.</title>
+  </titles>
+  <sponsor id="400374"/>
+  <cosponsors>
+    <cosponsor id="400299" joined="1999-03-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-03-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-03-11">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1999-03-16T16:16:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-63.</text>
+    </action>
+    <calendar datetime="1999-03-16T16:16:00-05:00" calendar="House" number="29">
+      <text>Placed on the House Calendar, Calendar No. 29.</text>
+    </calendar>
+    <action datetime="1999-03-23T12:32:00-05:00">
+      <text>Mr. Franks moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1999-03-23T12:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1496" label="consideration"/>
+    </action>
+    <action datetime="1999-03-23T12:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 52.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-03-23T12:37:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-03-23T12:37:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-03-24">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-04-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3829" label="consideration"/>
+    </vote>
+    <action datetime="1999-04-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Performing arts"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1999--Introduced.
+Authorizes the John F. Kennedy Center for the Performing Arts to sponsor free public performances on the East Front of the Capitol grounds at such dates and times as the Speaker of the House of Representatives and the Senate Committee on Rules and Administration jointly approve. Terminates this authority after FY 1999.</summary>
+</bill>

@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-10", 
+      "references": [
+        {
+          "reference": "CR S12668-12669", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12669", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2518 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-14", 
+      "references": [
+        {
+          "reference": "CR S12727", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12777, S12796-12798", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 323, 
+      "text": "Amendment SA 2518 agreed to in Senate by Yea-Nay Vote. 79 - 19. Record Vote Number: 323.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2518-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-10", 
+  "number": 2518, 
+  "proposed_at": "2005-11-10", 
+  "purpose": "To clarify and recommend changes to the policy of the United States on Iraq and to require reports on certain matters relating to Iraq.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

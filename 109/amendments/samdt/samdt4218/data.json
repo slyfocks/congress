@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-15", 
+      "references": [
+        {
+          "reference": "CR S5933-5937", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5936", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4218 proposed by Senator Levin for Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4218 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4218-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-13", 
+  "number": 4218, 
+  "proposed_at": "2006-06-15", 
+  "purpose": "To express the sense of the Senate regarding the Chemical Weapons Convention.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-15", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

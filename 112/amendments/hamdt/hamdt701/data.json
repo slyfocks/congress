@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T20:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5363-5364", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5363", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Hayworth.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-22T10:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5383", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 623, 
+      "text": "On agreeing to the Hayworth amendment (A005) Agreed to by recorded vote: 299 - 112 (Roll no. 623).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt701-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2551-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2551
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment to reduce funding for the Botanic Garden by $632,780 and to apply the savings to the spending reduction account.", 
+  "house_number": 5, 
+  "introduced_at": "2011-07-21", 
+  "number": 701, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-173 to reduce funding for the Botanic Garden by $632,780 and apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Hayworth, Nan A. S.", 
+    "state": "NY", 
+    "thomas_id": "02042", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-22T10:40:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

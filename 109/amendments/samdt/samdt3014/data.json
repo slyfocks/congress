@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2072-2074, S2093-2094", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2072", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3014 proposed by Senator Chafee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3014 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3014-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3014, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To increase funding for part B of the Individuals with Disabilities Education Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chafee, Lincoln", 
+    "state": "RI", 
+    "thomas_id": "01612", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-14", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

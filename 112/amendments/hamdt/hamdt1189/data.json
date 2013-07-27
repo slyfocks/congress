@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T15:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3418", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3418-3419", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Ms. Sanchez, Loretta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T17:15:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3517-3518", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 331, 
+      "text": "On agreeing to the Sanchez, Loretta amendment (A020) Failed by recorded vote: 182 - 237 (Roll no. 331).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1189-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Department of Energy's departmental administration account by $16,000,000, and increase funding for the National Nuclear Security Administration's defense nonproliferation program by $16,000,000.", 
+  "house_number": 20, 
+  "introduced_at": "2012-06-05", 
+  "number": 1189, 
+  "purpose": "An amendment to reduce the Department of Energy's departmental administration account by $16,000,000, and increase the Defense Nuclear Nonproliferation account by $16,000,000.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T17:15:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

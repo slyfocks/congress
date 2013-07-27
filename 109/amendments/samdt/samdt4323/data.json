@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-19", 
+      "references": [
+        {
+          "reference": "CR S6051", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4323 proposed by Senator Frist to Amendment SA 4322.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20", 
+      "references": [
+        {
+          "reference": "CR S6105", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20", 
+      "references": [], 
+      "text": "Proposed amendment SA 4323 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt4323-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt4322-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 4322
+  }, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-19", 
+  "number": 4323, 
+  "proposed_at": "2006-06-19", 
+  "purpose": "To amend title 18, United States Code, to prohibit taking minors across States lines in circumvention of laws requiring the involvement of parents in abortion decisions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-06-20", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

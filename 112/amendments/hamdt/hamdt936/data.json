@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-15T16:34:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H772-773, H784", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H772", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-15T18:27:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 59, 
+      "text": "On agreeing to the Polis amendment (A005) Failed by recorded vote: 160 - 265 (Roll no. 59).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt936-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3408-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3408
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike subtitle A of title XVII (Oil Shale Leasing provisions or \"PIONEERS Act\") from the bill and to increase the Federal share of drilling revenue from 50% to 51%.", 
+  "house_number": 5, 
+  "introduced_at": "2012-02-15", 
+  "number": 936, 
+  "purpose": "An amendment numbered 5 printed in Part A of House Report 112-398 to strike subtitle A of title XVII and provides a five year window offset through increasing the federal share of drilling revenue.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-15T18:27:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

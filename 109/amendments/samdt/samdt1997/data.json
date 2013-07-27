@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-06", 
+      "references": [
+        {
+          "reference": "CR S11182", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11182", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1997 proposed by Senator Stevens for Senator Mikulski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1997 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1997-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-04", 
+  "number": 1997, 
+  "proposed_at": "2005-10-06", 
+  "purpose": "To provide that, of the amount made available under title III for the Air Force for other procurement, up to $3,000,000 may be made available for the Laser Marksmanship Training System.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Mikulski, Barbara A.", 
+    "state": "MD", 
+    "thomas_id": "00802", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-06", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

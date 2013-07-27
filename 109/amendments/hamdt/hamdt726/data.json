@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15T21:53:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1044-1045", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1044", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15T21:59:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A026) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt726-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete language which allows the Secretary of Housing and Urban Development to waive requirements that certain activities benefit persons of low and moderate income.", 
+  "house_number": 26, 
+  "introduced_at": "2006-03-15", 
+  "number": 726, 
+  "purpose": "An amendment to strike and insert certain language regarding the disallowance of requirement waivers as it relates to low and moderate incomes.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-15T21:59:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-30T19:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4829-4832, H4855-4856", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4829", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Barcia.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-30T23:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 293, 
+      "text": "On agreeing to the Barcia amendment (A024) Failed by recorded vote: 99 - 325 (Roll no. 293).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt269-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2620-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2620
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to increase funding for the sewer overflow control grants program by $140 million with offsets from the EPA hazardous substance superfund program.", 
+  "house_number": 24, 
+  "introduced_at": "2001-07-30", 
+  "number": 269, 
+  "purpose": "An amendment to increase the funding (by transfer) for the State and Tribal Assistance Grants (STAG) by $140 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Barcia, James A.", 
+    "state": "MI", 
+    "thomas_id": "00052", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-30T23:10:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

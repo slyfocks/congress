@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-11T12:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2923-2926", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H2930", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Gibbons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-11T13:51:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2923-2924", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 175, 
+      "text": "On agreeing to the Gibbons amendment (A022) Failed by recorded vote: 170 - 250 (Roll no. 175).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt703-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to establish procedures for the Bureau of Land Management to dispose of unwanted Federally controlled lands.", 
+  "house_number": 22, 
+  "introduced_at": "2000-05-11", 
+  "number": 703, 
+  "purpose": "An amendment numbered 24 printed in House Report 106-612 to allow the BLM to auction public lands identified for disposal in their Land Management Plans.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Gibbons, Jim", 
+    "state": "NV", 
+    "thomas_id": "01485", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-11T13:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

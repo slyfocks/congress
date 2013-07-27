@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T22:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5171-5172", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5171", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T23:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Traficant amendment (A016) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt301-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment authorizes $10 million for oil shale research.", 
+  "house_number": 16, 
+  "introduced_at": "2001-08-01", 
+  "number": 301, 
+  "purpose": "Part B amendment numbered 16 printed in House Report 107-178 to authorize $10 million for oil shale research.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-08-01T23:01:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-10T12:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2125-2130, H2134", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2125", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-10T14:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 107, 
+      "text": "On agreeing to the Hyde amendment (A002) Agreed to by recorded vote: 252 - 165, 1 Present (Roll no. 107).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt32-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires that the final tranche of arrearage payments to the United Nations and other designated agencies be contingent upon a certification by the Secretary of State that the United States has regained its seat on the United Nations Commission on Human Rights.", 
+  "house_number": 2, 
+  "introduced_at": "2001-05-10", 
+  "number": 32, 
+  "purpose": "An amendment numbered 2 printed in House Report 107-62 to establish the additional preconditions of the U.S. return to the U.N. Human Rights Commission and to a determination on the voting practices in the U.N. to the release of $244 million in previously appropriated funds to pay U.S. arrearages to the U.N. and other international organzations.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-10T14:03:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

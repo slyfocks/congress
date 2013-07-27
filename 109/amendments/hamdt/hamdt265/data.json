@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-15T11:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4501-4503, H4527-4528", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4501", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15T14:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 252, 
+      "text": "On agreeing to the Inslee amendment (A018) Failed by recorded vote: 177 - 248 (Roll no. 252).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt265-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the National Oceanic and Atmospheric Administration.", 
+  "house_number": 18, 
+  "introduced_at": "2005-06-15", 
+  "number": 265, 
+  "purpose": "An amendment to increase funding (by transfer) for the Operations, Research, and Facilities account for NOAA by $5 million.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-15T14:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

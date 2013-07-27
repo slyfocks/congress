@@ -1,0 +1,61 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2938-2939", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2939", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR H2939", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 192 proposed by Senator Lincoln.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "Voice", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 192 agreed to in Senate by Voice.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt192-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 192, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "to restore funding the COPS Methamphetamine Enforcement and Clean Up Program to 2005 levels.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lincoln, Blanche L.", 
+    "state": "AR", 
+    "thomas_id": "01570", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

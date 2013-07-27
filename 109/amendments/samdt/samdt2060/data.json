@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-17", 
+      "references": [
+        {
+          "reference": "CR S11401-11403", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11401", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2060 proposed by Senator Bond.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2060 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-10-17", 
+      "references": [], 
+      "text": "The committee substitute as amended agreed to by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2060-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-17", 
+  "number": 2060, 
+  "proposed_at": "2005-10-17", 
+  "purpose": "To strike section 719, relating to Federal Election Campaign Act contribution requirements.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bond, Christopher S.", 
+    "state": "MO", 
+    "thomas_id": "01286", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-17", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

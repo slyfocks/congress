@@ -1,0 +1,83 @@
+<bill session="108" type="hc" number="273" updated="2013-07-14T19:03:08-04:00">
+  <state datetime="2004-01-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2004-01-21"/>
+  </status>
+  <introduced datetime="2003-09-04"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing and congratulating the East Boynton Beach, Florida, Little League team as the 2003 United States Little League Champions.</title>
+  </titles>
+  <sponsor id="400369"/>
+  <cosponsors>
+    <cosponsor id="400136" joined="2003-09-04"/>
+    <cosponsor id="400170" joined="2003-09-04"/>
+    <cosponsor id="400430" joined="2003-09-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-09-04">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-09-16">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2003-09-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-09-25">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2003-09-25">
+      <text>Subcommittee on Civil Service and Agency Organization Discharged.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2003-10-15T14:56:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-10-15T14:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9400-9401" label="consideration"/>
+    </action>
+    <action datetime="2003-10-15T14:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 273.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-10-15T15:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H9400" label="text"/>
+    </vote>
+    <action datetime="2003-10-15T15:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-10-16">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2004-01-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S123" label="consideration"/>
+    </vote>
+    <action datetime="2004-01-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Athletes"/>
+    <term name="Baseball"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Florida"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2004--Passed Senate without amendment.
+Recognizes the Little League team East Boynton Beach, Florida, for winning the United States Little League Championship. Invites the players, coaches, parents, and other league and city officials to the Capitol to be honored and requests that the President recognize the team.</summary>
+</bill>

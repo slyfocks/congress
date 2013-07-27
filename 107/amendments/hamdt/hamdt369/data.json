@@ -1,0 +1,50 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-10T13:52:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6469-6470", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Education and Labor.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-10T13:53:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Education and Labor amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt369-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1992-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1992
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2001-10-10", 
+  "number": 369, 
+  "purpose": "An amendment made in orde and considered as adopted pursuant to the provisions of H. Res. 256.", 
+  "sponsor": {
+    "committee_id": "hsed00", 
+    "name": "House Education and the Workforce", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-10T13:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

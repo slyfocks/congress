@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-15T13:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14011-14013", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14012", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. Maloney (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-15T13:42:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Maloney (NY) amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt901-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3915-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3915
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires a borrower to receive the option of a mortgage without a prepayment penalty, if they are offered an amendment with a prepayment penalty. Sets the maximum time for a prepayment penalty of 3 years and a maximum prepayment amount of 3% of the loan for the first year, 2% for the second year and 1% for the third year.", 
+  "house_number": 4, 
+  "introduced_at": "2007-11-15", 
+  "number": 901, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-450 to require a borrower to receive the option of a mortgage without a prepayment penalty, if they are offered an amendment with a prepayment penalty. Sets the maximum time for a prepayment penalty of 3 years and a maximum prepayment amount of 3% of the loan for the first year, 2% for the second year and 1% for the third year.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-11-15T13:42:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

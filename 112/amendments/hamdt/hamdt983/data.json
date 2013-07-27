@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08T11:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1282-1284, H1286-1287", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1282-1283", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-08T12:20:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 108, 
+      "text": "On agreeing to the Capps amendment (A016) Failed by recorded vote: 172 - 236 (Roll no. 108).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt983-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3606-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3606
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the SEC to issue a report to Congress one year after enactment on the increase in initial public offerings that resulted from the Act, including specific increases in filings by manufacturing and high-technology companies.", 
+  "house_number": 16, 
+  "introduced_at": "2012-03-08", 
+  "number": 983, 
+  "purpose": "An amendment numbered 16 printed in House Report 112-409 to require the Securities and Exchange Commission to issue a report to the Congress one year after enactment on the increase in initial public offerings that resulted from the act, including specific increases in filings by manufacturing and high-technology companies.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-08T12:20:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

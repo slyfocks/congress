@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-20T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6758-6759, H6787", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6758", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-20T17:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 517, 
+      "text": "On agreeing to the Foxx amendment (A016) Failed by recorded vote: 134 - 293 (Roll no. 517).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt331-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for the DOE Departmental Administration account by $27,950,000.", 
+  "house_number": 16, 
+  "introduced_at": "2007-06-20", 
+  "number": 331, 
+  "purpose": "An amendment numbered 18 printed in the Congressional Record to reduce funding for Departmental Administration account by $27,950,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-20T17:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

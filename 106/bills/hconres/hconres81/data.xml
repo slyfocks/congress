@@ -1,0 +1,65 @@
+<bill session="106" type="hc" number="81" updated="2013-07-14T18:55:21-04:00">
+  <state datetime="1999-04-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-04-19"/>
+  </status>
+  <introduced datetime="1999-04-12"/>
+  <titles>
+    <title as="introduced" type="official">Permitting the use of the rotunda of the Capitol for a ceremony in honor of the Fiftieth Anniversary of the North Atlantic Treaty Organization (NATO) and welcoming the three newest members of NATO, the Republic of Poland, the Republic of Hungary, and the Czech Republic, into NATO.</title>
+  </titles>
+  <sponsor id="400536"/>
+  <cosponsors>
+    <cosponsor id="400585" joined="1999-04-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-04-12">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="1999-04-15T16:04:00-04:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="1999-04-15T16:13:00-04:00">
+      <text>Mr. Thomas asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="1999-04-15T16:14:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H2101-2102" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-04-15T16:15:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1999-04-15T16:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-04-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3829-3830" label="consideration"/>
+    </vote>
+    <action datetime="1999-04-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Alliances"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Collective security agreements"/>
+    <term name="Congress"/>
+    <term name="Czech Republic"/>
+    <term name="Europe"/>
+    <term name="Hungary"/>
+    <term name="International affairs"/>
+    <term name="NATO countries"/>
+    <term name="NATO military forces"/>
+    <term name="Poland"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1999--Introduced.
+Authorizes the use of the U.S. Capitol rotunda on April 23, 1999, for a ceremony honoring the 50th Anniversary of the North Atlantic Treaty Organization (NATO) and welcoming into NATO the three newest members: the Republic of Poland; the Republic of Hungary; and the Czech Republic.</summary>
+</bill>

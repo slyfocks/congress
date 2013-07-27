@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-01T13:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3609-3612", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3609", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-01T14:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt110-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1298-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1298
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment clarifies that organizations that are qualified to prevent or treat HIV/AIDS shall not be required to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.", 
+  "house_number": 10, 
+  "introduced_at": "2003-05-01", 
+  "number": 110, 
+  "purpose": "An amendment numbered 10 printed in House Report 108-80 would clarifiy the existing conscience protection language. Ensure that a qualified grantee is not disqualified from receiving HIV/AIDS funds because the grantee has a religious or moral objection to participating in some types of HIV/AIDS prevention or treatment.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-05-01T14:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

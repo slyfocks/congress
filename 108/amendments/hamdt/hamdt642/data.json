@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-07T19:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5293-5294", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5293", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Wolf.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T19:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wolf amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt642-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment provides funding for the Small Business Administration's microloan program.", 
+  "house_number": 11, 
+  "introduced_at": "2004-07-07", 
+  "number": 642, 
+  "purpose": "An amendment to restore funding for the Small Business Administration's \"micro-loan\" technology and loan program.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Wolf, Frank R.", 
+    "state": "VA", 
+    "thomas_id": "01238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-07-07T19:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

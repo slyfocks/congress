@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-23T13:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2596-2603, H2608", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2596-2598", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Armey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T14:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 136, 
+      "text": "On agreeing to the Armey amendment (A016) Failed by recorded vote: 186 - 241 (Roll no. 136).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt58-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to authorize $50 million for grants for not more than 5 research projects that demonstrate how school choice options increase the academic achievement of students, schools, and local educational agencies.", 
+  "house_number": 16, 
+  "introduced_at": "2001-05-23", 
+  "number": 58, 
+  "purpose": "An amendment numbered 16 printed in House Report 107-69 to authorize up to 5 school choice research demonstration projects involving public and private schools to demonstrate the effectiveness of school choice in improving the academic achievement of disadvantaged students.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Armey, Richard K.", 
+    "state": "TX", 
+    "thomas_id": "00028", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-05-23T14:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

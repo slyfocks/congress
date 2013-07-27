@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T21:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3053-3054", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3053", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18T10:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3112-3113", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 274, 
+      "text": "On agreeing to the Broun (GA) amendment (A016) Failed by recorded vote: 164 - 256 (Roll no. 274).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1114-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow individuals of any age to enlist in the military as long as they were able to meet all of the necessary requirements ensuring that they were fit for duty.", 
+  "house_number": 16, 
+  "introduced_at": "2012-05-17", 
+  "number": 1114, 
+  "purpose": "An amendment numbered 19 printed in House Report 112-485 to eliminate the maximum age limitation for individuals seeking to enlist in the U.S. military, provided they meet all of the other current qualifications for enlistment.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-18T10:01:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

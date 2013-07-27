@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12569-12571", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2473 proposed by Senator Levin for Senator Durbin to amendment SA 2433.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12574", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 2473 was modified to reflect a first degree amendment by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12574, S12586", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12574", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 2473 proposed by Senator Levin for Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 315, 
+      "text": "Amendment SA 2473 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 315.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2473-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-08", 
+  "number": 2473, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To provide for eligibility for retired pay for non-regular service.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-09", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

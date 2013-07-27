@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2241-2242, S2257-2258", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2241-2242", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3100 proposed by Senator Cornyn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 62, 
+      "text": "Amendment SA 3100 not agreed to in Senate by Yea-Nay Vote. 43 - 57. Record Vote Number: 62.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3100-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3100, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To provide for reconciliation instructions to the Committee on Finance to reduce mandatory spending.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

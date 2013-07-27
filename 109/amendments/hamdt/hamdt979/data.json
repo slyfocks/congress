@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-08T14:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3535-3537", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3535", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Blumenauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-09T14:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 249, 
+      "text": "On agreeing to the Blumenauer amendment (A003) Failed by recorded vote: 182 - 224 (Roll no. 249).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt979-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5522-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5522
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the Development Assistance account by $250 million in order to fund clean water and other anti-poverty programs.", 
+  "house_number": 3, 
+  "introduced_at": "2006-06-08", 
+  "number": 979, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to increase funding for the Development Assistance account by $250 million (by offset) to provide clean water and anti-poverty assistance.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-09T14:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

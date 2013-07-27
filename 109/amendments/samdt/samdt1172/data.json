@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8202", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8202", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1172 proposed by Senator Gregg for Senator Thomas.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1172 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1172-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1172, 
+  "proposed_at": "2005-07-13", 
+  "purpose": "To authorize and direct the Secretary of Homeland Security to designate National County International Airport, Wyoming as an airport at which certain private aircraft arriving in the United States from a foreign area may land for processing by the United States Customs and Border Protection, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thomas, Craig", 
+    "state": "WY", 
+    "thomas_id": "01149", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-13", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

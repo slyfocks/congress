@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-10T15:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6563-6564", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6563", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Manzullo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-10T15:37:00-04:00", 
+      "references": [], 
+      "text": "The Manzullo amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt217-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2660-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2003-07-10", 
+  "number": 217, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Manzullo, Donald A.", 
+    "state": "IL", 
+    "thomas_id": "00733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2003-07-10", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

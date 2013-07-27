@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15", 
+      "references": [
+        {
+          "reference": "CR S2668-2676, S2680-2685, S2692", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2668", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 144 proposed by Senator Conrad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 47, 
+      "text": "Amendment SA 144 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 47.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt144-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 144, 
+  "proposed_at": "2005-03-15", 
+  "purpose": "To ensure that 75-year solvency has been restored to Social Security before Congress considers new deficit-financed legislation that would increase mandatory spending or cut taxes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-15", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

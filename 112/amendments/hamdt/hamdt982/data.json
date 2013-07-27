@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08T10:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1281-1282, H1285-1286", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1281", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Peters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-08T12:16:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 107, 
+      "text": "On agreeing to the Peters amendment (A015) Failed by recorded vote: 175 - 239 (Roll no. 107).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt982-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3606-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3606
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require publicly traded companies to disclose on an annual basis the total number of employees they have in each country and the percentage increase or decrease in employment in each country.", 
+  "house_number": 15, 
+  "introduced_at": "2012-03-08", 
+  "number": 982, 
+  "purpose": "An amendment numbered 15 printed in House Report 112-409 to require publicly traded companies to disclose on an annual basis the total number of employees they have in each country and the percentage increase or decrease in employment in each country.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "thomas_id": "01929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-08T12:16:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

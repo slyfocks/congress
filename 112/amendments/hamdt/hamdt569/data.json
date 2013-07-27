@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-07T19:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4738-4739", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4738", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A064) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-08T11:11:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4767", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 527, 
+      "text": "On agreeing to the Flake amendment (A064) Failed by recorded vote: 100 - 321 (Roll no. 527).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt569-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce each of the Research, Development, Test and Evaluation accounts by 1 percent.", 
+  "house_number": 64, 
+  "introduced_at": "2011-07-07", 
+  "number": 569, 
+  "purpose": "An amendment to reduce the amounts made available in sundry sections of title IV.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-08T11:11:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

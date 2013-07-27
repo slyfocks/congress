@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-30T11:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9084-9085, H9122", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9084", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Tierney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-30T13:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 663, 
+      "text": "On agreeing to the Tierney amendment (A005) Failed by recorded vote: 124 - 307 (Roll no. 663).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt396-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3326-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike $80 million for the Kinetic Energy Interceptor program.", 
+  "house_number": 5, 
+  "introduced_at": "2009-07-30", 
+  "number": 396, 
+  "purpose": "An amendment numbered 5 printed in Part A of House Report 111-233 to strike $80 million for the Kinetic Energy Interceptor program.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tierney, John F.", 
+    "state": "MA", 
+    "thomas_id": "01535", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-30T13:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

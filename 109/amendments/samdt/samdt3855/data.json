@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-03", 
+      "references": [
+        {
+          "reference": "CR S3949-3952", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3949", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3855 proposed by Senator Biden to Amendment SA 3717.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3855 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3855-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3717-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3717
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-02", 
+  "number": 3855, 
+  "proposed_at": "2006-05-03", 
+  "purpose": "To provide that no funds made available by title I of this Act may be made available to establish permanent United States military bases in Iraq or to exercise control by the United States over the oil infrastructure or oil resources of Iraq.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Biden, Joseph R., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01284", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-03", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-24T18:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3858, H3874-3875", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3858", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-24T20:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 207, 
+      "text": "On agreeing to the Markey amendment (A004) Failed by recorded vote: 110 - 312 (Roll no. 207).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt197-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to reduce funding for reprocessing and nuclear waste management by $15 million and reallocate those funds to energy efficiency programs.", 
+  "house_number": 4, 
+  "introduced_at": "2005-05-24", 
+  "number": 197, 
+  "purpose": "An amendment to reduce funding for interim storage and reprocessing.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-24T20:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

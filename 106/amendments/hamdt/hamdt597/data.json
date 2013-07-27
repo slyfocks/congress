@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-16T15:56:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1101-1102", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1101", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-16T16:02:00-05:00", 
+      "references": [], 
+      "text": "Traficant amendment (A002) modified by unanimous consent. The modification changes the time of notification provided in the original amendment from 14 days to 30 days.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-16T16:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1102", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "On agreeing to the Traficant amendment (A002) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt597-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2372-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2372
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires the Federal government to notify property owners within 30 days of taking action which may cause a devaluation of their property.", 
+  "house_number": 2, 
+  "introduced_at": "2000-03-16", 
+  "number": 597, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-525 to clarify that the government has 14 days to notify landowners of their rights.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-03-16", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

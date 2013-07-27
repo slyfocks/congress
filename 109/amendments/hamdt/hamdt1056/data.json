@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T14:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4258", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4258", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Murtha.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T14:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Murtha amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1056-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment restores funding for the Perpetually Available and Secure Information Systems program.", 
+  "house_number": 1, 
+  "introduced_at": "2006-06-20", 
+  "number": 1056, 
+  "purpose": "An amendment to insert \"(reduced by $5,000,000)(increased by $5,000,000)\" on page 27, line 17, after the first dollar amount.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Murtha, John P.", 
+    "state": "PA", 
+    "thomas_id": "00844", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-20T14:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,84 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-08T12:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8894-8896, H8907", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8894", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T14:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 517, 
+      "text": "On agreeing to the Smith (NJ) amendment (A014) Agreed to by recorded vote: 212 - 203 (Roll no. 517).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-10-08T14:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8915-8916", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8915", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Sensenbrenner demanded a separate vote on the Smith (NJ) amendment (A014).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T14:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 521, 
+      "text": "On agreeing to the Smith (NJ) amendment (A014) Failed by recorded vote: 203 - 210 (Roll no. 521).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt798-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike section 3006 of the bill that provides for expedited removal of aliens that have been present in the United States for less than five years without a hearing or review. \\   See Roll No. 521 for final disposition of amendment.", 
+  "house_number": 14, 
+  "introduced_at": "2004-10-08", 
+  "number": 798, 
+  "purpose": "An amendment numbered 14 printed in House Report 108-751 to strike section 3006. Section 3006 requires expedited removal of aliens that have been present for less than 5 years without a hearing or future review.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-10-08T14:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

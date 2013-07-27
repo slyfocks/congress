@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-20T18:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4735-4736", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4735", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-20T18:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Waxman amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt837-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment allows the Department of Veterans Affairs to use general operating funds for support of tobacco litigation by the Federal government.", 
+  "house_number": 5, 
+  "introduced_at": "2000-06-20", 
+  "number": 837, 
+  "purpose": "An amendment to increase the funding for general operating expenses in the Department of Veterans' Affairs by $4,000,000 by reducing the account of general administrative expenses by a corresponding amount.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-20T18:03:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

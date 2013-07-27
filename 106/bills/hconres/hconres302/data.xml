@@ -1,0 +1,90 @@
+<bill session="106" type="hc" number="302" updated="2013-07-14T18:55:24-04:00">
+  <state datetime="2000-05-25">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2000-05-25"/>
+  </status>
+  <introduced datetime="2000-04-11"/>
+  <titles>
+    <title as="introduced" type="official">Calling on the people of the United States to observe a National Moment of Remembrance to honor the men and women of the United States who died in the pursuit of freedom and peace.</title>
+  </titles>
+  <sponsor id="400343"/>
+  <cosponsors>
+    <cosponsor id="400568" joined="2000-05-19"/>
+    <cosponsor id="400024" joined="2000-05-19"/>
+    <cosponsor id="400523" joined="2000-05-19"/>
+    <cosponsor id="400126" joined="2000-05-19"/>
+    <cosponsor id="400128" joined="2000-05-19"/>
+    <cosponsor id="400143" joined="2000-05-19"/>
+    <cosponsor id="400587" joined="2000-05-19"/>
+    <cosponsor id="400199" joined="2000-05-19"/>
+    <cosponsor id="400226" joined="2000-05-22"/>
+    <cosponsor id="400245" joined="2000-05-19"/>
+    <cosponsor id="400286" joined="2000-04-11"/>
+    <cosponsor id="400331" joined="2000-05-19"/>
+    <cosponsor id="400615" joined="2000-05-22"/>
+    <cosponsor id="400357" joined="2000-05-19"/>
+    <cosponsor id="400372" joined="2000-05-19"/>
+    <cosponsor id="400410" joined="2000-05-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-04-11">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2000-04-13">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2000-05-22T14:55:00-04:00">
+      <text>Mrs. Biggert moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-05-22T14:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3491-3493" label="consideration"/>
+    </action>
+    <action datetime="2000-05-22T14:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 302.</text>
+    </action>
+    <action datetime="2000-05-22T15:06:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-05-22T18:34:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3495" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-05-22T18:42:00-04:00" how="roll" result="pass" roll="213" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 362 - 0 (Roll no. 213).</text>
+      <reference ref="CR H3491" label="text"/>
+    </vote>
+    <action datetime="2000-05-22T18:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-05-23">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-05-25">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref=" CR S4499-4500" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-05-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2000-05-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Memorial Day"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2000--Introduced.
+Calls on the people of the United States to observe a National Moment of Remembrance to honor the men and women of the United States who died in the pursuit of freedom and peace.</summary>
+</bill>

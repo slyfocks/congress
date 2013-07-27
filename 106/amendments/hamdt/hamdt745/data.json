@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-07T11:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3946-3950", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Substitute (A004) offered by Mr. Boehlert to the Udall (CO) amendment (A003).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-07T14:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3946", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 238, 
+      "text": "On agreeing to the Boehlert amendment (A004) Agreed to by recorded vote: 212 - 211 (Roll no. 238).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt745-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt744-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 744
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3605-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3605
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Udall (CO) amendment (A003) for description.", 
+  "house_number": 4, 
+  "introduced_at": "2000-06-07", 
+  "number": 745, 
+  "purpose": "An amendment to provide protective status to each section of the Conservation Area pending the completion of the management plan.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-07T14:06:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

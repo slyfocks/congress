@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8713-8714", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8713-8714", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4868 proposed by Senator Stevens for Senator Clinton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4868 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4868-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-03", 
+  "number": 4868, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To make available from Operation and Maintenance, Defense-Wide, certain funds may be used for community-based programs that provide mental health and readjustment assistance to members of the National Guard and Reserve and their families on their return from deployment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

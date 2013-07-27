@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T22:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5571-5572", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5571", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-27T14:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5603-5604", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 656, 
+      "text": "On agreeing to the Reed amendment (A021) Agreed to by recorded vote: 237 - 189 (Roll no. 656).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt744-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment to reduce funding for the Office of the Secretary by $8,291,000 and to increase funding for the Forest Health Management Account by a similar amount.", 
+  "house_number": 21, 
+  "introduced_at": "2011-07-26", 
+  "number": 744, 
+  "purpose": "An amendment numbered 44 printed in the Congressional Record to increase FS state and private forestry by $8.291 million.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "thomas_id": "01982", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-27T14:01:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

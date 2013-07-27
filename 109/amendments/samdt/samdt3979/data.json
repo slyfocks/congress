@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-17", 
+      "references": [
+        {
+          "reference": "CR S4651-4665, S4675", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4651-4652", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3979 proposed by Senator Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 126, 
+      "text": "Amendment SA 3979 agreed to in Senate by Yea-Nay Vote. 83 - 16. Record Vote Number: 126.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3979-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-15", 
+  "number": 3979, 
+  "proposed_at": "2006-05-17", 
+  "purpose": "To increase the amount of fencing and improve vehicle barriers installed along the southwest border of the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sessions, Jeff", 
+    "state": "AL", 
+    "thomas_id": "01548", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-17", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

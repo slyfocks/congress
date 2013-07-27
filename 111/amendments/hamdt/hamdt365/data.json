@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-23T14:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8641-8642, H8664-8665", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8641", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Latham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-23T17:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 621, 
+      "text": "On agreeing to the Latham amendment (A003) Failed by recorded vote: 136 - 284 (Roll no. 621).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt365-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3288-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3288
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce the \"Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service\" appropriation by $3 billion, down to the President's request of $1 billion, and sought to strike the transfer authority for the National Infrastructure Bank.", 
+  "house_number": 3, 
+  "introduced_at": "2009-07-23", 
+  "number": 365, 
+  "purpose": "An amendment numbered 3 printed in Part A of House Report 111-219 to reduce the `Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service' by $3,000,000,000 to the President's request of $1,000,000,000 and strikes the transfer authority for the National Infrastructure Bank.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Latham, Tom", 
+    "state": "IA", 
+    "thomas_id": "00666", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-23T17:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-24T15:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3369-3371, H3387-3388", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3369", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Cardoza.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-24T18:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 337, 
+      "text": "On agreeing to the Cardoza amendment (A002) Failed by recorded vote: 182 - 232 (Roll no. 337).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt297-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1216-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1216
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require a GAO study which highlights the impact that elimination of funding would have on the number of physicians that would be trained if funding were not rescinded.", 
+  "house_number": 2, 
+  "introduced_at": "2011-05-24", 
+  "number": 297, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to require the Government Accountability Office to conduct a study of the extent of physician shortages in areas with significant shortages. The study should also examine the effects of expanding and establishing new medical graduate programs as directed by the health care overhaul law on the number of physicians were the funding not rescinded by the bill.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Cardoza, Dennis A.", 
+    "state": "CA", 
+    "thomas_id": "01709", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-24T18:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

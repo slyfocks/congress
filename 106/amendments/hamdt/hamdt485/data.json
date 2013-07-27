@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-23T13:55:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A004) offered by Mr. Boucher to the Watt (NC) amendment (A003).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-23T13:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boucher amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt485-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt484-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 484
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1875-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1875
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Watt (NC) amendment (A003) for description.", 
+  "house_number": 4, 
+  "introduced_at": "1999-09-23", 
+  "number": 485, 
+  "purpose": "An amendment to to allow a class action to be removed to a district court before or after a State has certified the class. Except that a plaintiff who is not a named class member of the action may not seek removal of the action before a class containing the plaintiff has been certified.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Boucher, Rick", 
+    "state": "VA", 
+    "thomas_id": "00113", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-09-23T13:57:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

@@ -1,0 +1,83 @@
+<bill session="108" type="hc" number="320" updated="2013-07-14T19:03:08-04:00">
+  <state datetime="2003-11-20">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2003-11-20"/>
+  </status>
+  <introduced datetime="2003-11-04"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress regarding the importance of motorsports.</title>
+  </titles>
+  <sponsor id="400131"/>
+  <cosponsors>
+    <cosponsor id="400020" joined="2003-11-17"/>
+    <cosponsor id="400043" joined="2003-11-17"/>
+    <cosponsor id="400044" joined="2003-11-04"/>
+    <cosponsor id="400055" joined="2003-11-17"/>
+    <cosponsor id="400254" joined="2003-11-18"/>
+    <cosponsor id="400264" joined="2003-11-18"/>
+    <cosponsor id="400268" joined="2003-11-18"/>
+    <cosponsor id="400273" joined="2003-11-17"/>
+    <cosponsor id="400324" joined="2003-11-17"/>
+    <cosponsor id="400341" joined="2003-11-17"/>
+    <cosponsor id="400375" joined="2003-11-17"/>
+    <cosponsor id="400394" joined="2003-11-17"/>
+    <cosponsor id="400418" joined="2003-11-17"/>
+    <cosponsor id="400433" joined="2003-11-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-11-04">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-11-12">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2003-11-18T20:43:00-05:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-11-18T20:43:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR 11/19/2003 H11481-11484" label="consideration"/>
+    </action>
+    <action datetime="2003-11-18T20:43:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 320.</text>
+    </action>
+    <action datetime="2003-11-18T20:54:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-11-19T13:34:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H11551-11552" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-19T13:42:00-05:00" how="roll" result="pass" roll="635" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 635).</text>
+      <reference ref="CR H11481" label="text"/>
+    </vote>
+    <action datetime="2003-11-19T13:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2003-11-20" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S15307" label="consideration"/>
+    </vote>
+    <action datetime="2003-11-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Motor vehicles"/>
+    <term name="Sports and recreation"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/2003--Passed Senate without amendment.
+Recognizes the importance of motorsports and its evolution over the past century. Honors those who have helped create and build this great American pastime.</summary>
+</bill>

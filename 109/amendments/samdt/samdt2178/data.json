@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "references": [
+        {
+          "reference": "CR S11634-11635", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11635", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2178 proposed by Senator Bond for Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2178 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2178-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-20", 
+  "number": 2178, 
+  "proposed_at": "2005-10-20", 
+  "purpose": "To provide for the conveyance of certain public land in Clark County, Nevada, for use as a heliport.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-20", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

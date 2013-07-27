@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-26T10:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5306-5307", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5306", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5307", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question on the amendment (A002) and on the resolution Agreed to by the Yeas and Nays: 235 - 183 (Roll no. 519).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Foxx amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1471-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres741-112", 
+    "bill_type": "hres", 
+    "congress": 112, 
+    "number": 741
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment makes a corrective change in the text of the resolution.", 
+  "house_number": 2, 
+  "introduced_at": "2012-07-26", 
+  "number": 1471, 
+  "purpose": "Amendment makes a corrective change in the text of the resolution.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-07-26T11:05:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

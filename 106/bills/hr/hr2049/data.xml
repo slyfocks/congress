@@ -1,0 +1,64 @@
+<bill session="106" type="h" number="2049" updated="2013-07-14T18:53:43-04:00">
+  <state datetime="2000-12-15T19:10:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-12-15T19:10:00-05:00"/>
+  </status>
+  <introduced datetime="1999-06-08"/>
+  <titles>
+    <title as="introduced" type="official">To rename Wolf Trap Farm Park for the Performing Arts as "Wolf Trap National Park for the Performing Arts".</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400283" joined="1999-09-21"/>
+    <cosponsor id="400435" joined="1999-06-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-06-08">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-06-16">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-12-15T19:09:00-05:00">
+      <text>Committee on Resources discharged.</text>
+    </action>
+    <action datetime="2000-12-15T19:09:00-05:00">
+      <text>Mr. Radanovich asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2000-12-15T19:10:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H12514" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-12-15T19:10:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H12514" label="text"/>
+    </vote>
+    <action datetime="2000-12-15T19:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-12-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorations"/>
+    <term name="Cultural centers"/>
+    <term name="Names"/>
+    <term name="National parks"/>
+    <term name="Performing arts"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1066"/>
+  </amendments>
+  <summary>12/15/2000--Passed House amended.
+Amends the Wolf Trap Farm Park Act to rename Wolf Trap Farm Park as Wolf Trap National Park for the Performing Arts.</summary>
+</bill>

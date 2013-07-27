@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-26", 
+      "references": [
+        {
+          "reference": "CR S3544-3548", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3544", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3621 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27", 
+      "references": [
+        {
+          "reference": "CR S3639, S3680-3682", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3621 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3621-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3621, 
+  "proposed_at": "2006-04-26", 
+  "purpose": "To equalize authorities to provide allowances, benefits, and gratuities to civilian personnel of the United States Government in Iraq and Afghanistan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-27", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

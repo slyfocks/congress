@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-09", 
+      "references": [
+        {
+          "reference": "CR S1166-1171, S1183-1184", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1166", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 7, 
+      "text": "Amendment SA 4 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 7.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s5-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-02-09", 
+  "number": 4, 
+  "proposed_at": "2005-02-09", 
+  "purpose": "To clarify the application of State law in certain class actions, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-02-09", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7413", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7413", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1002 proposed by Senator Burns for Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7477, S7491, S7498", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [], 
+      "text": "Proposed amendment SA 1002 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1002-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-23", 
+  "number": 1002, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To reduce total appropriations in the bill by 1.7 percent for the purpose of fully funding the Department of Defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-06-28", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

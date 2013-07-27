@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2134", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2134", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 68 proposed by Senator Dodd for Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-08", 
+      "references": [
+        {
+          "reference": "CR S2200", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09", 
+      "references": [
+        {
+          "reference": "CR S2306, S2321-2322, S2325-2326", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 35, 
+      "text": "Amendment SA 68 not agreed to in Senate by Yea-Nay. 47 - 53. Record Vote Number: 35.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt68-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-07", 
+  "number": 68, 
+  "proposed_at": "2005-03-07", 
+  "purpose": "To provide a maximum amount for a homestead exemption under State law.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-09", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

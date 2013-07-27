@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-10T18:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1131-1132", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1131", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Castle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-10T18:21:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Castle amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt21-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr800-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment clarifies reporting and oversight requirements.", 
+  "house_number": 4, 
+  "introduced_at": "1999-03-10", 
+  "number": 21, 
+  "purpose": "Amendment numbered 2 printed in the Congressional Record to strengthen accountability by clarifying reporting responsibilities by states to include performance data demonstrating the degree to which progress has been made toward meeting objectives.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-03-10T18:21:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

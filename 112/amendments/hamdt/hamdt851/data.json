@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-03T16:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7302-7303", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7302", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Fincher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-03T16:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Fincher amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt851-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2930-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2930
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment adjusts for inflation the $1 million and $2 million caps on the aggregate annual amount raised through the issuance of securities.", 
+  "house_number": 2, 
+  "introduced_at": "2011-11-03", 
+  "number": 851, 
+  "purpose": "An amendment numbered 2 printed in Part A of House Report 112-265 to index to inflation the $1 million and $2 million aggregate annual amounts raised through the issue of the securities as authorized in the bill. The index for inflation would be measured by the annual change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Fincher, Stephen Lee", 
+    "state": "TN", 
+    "thomas_id": "02064", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-03T16:36:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

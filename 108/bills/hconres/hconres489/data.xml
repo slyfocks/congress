@@ -1,0 +1,65 @@
+<bill session="108" type="hc" number="489" updated="2013-07-14T19:03:11-04:00">
+  <state datetime="2004-09-22T14:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-09-22T14:11:00-04:00"/>
+  </status>
+  <introduced datetime="2004-09-09"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Preparedness Month.</title>
+  </titles>
+  <sponsor id="400083"/>
+  <cosponsors>
+    <cosponsor id="400166" joined="2004-09-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-09-09">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2004-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2004-09-22T14:02:00-04:00">
+      <text>Mr. Ose moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-09-22T14:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7357-7359" label="consideration"/>
+    </action>
+    <action datetime="2004-09-22T14:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 489.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-09-22T14:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7357-7358" label="text"/>
+    </vote>
+    <action datetime="2004-09-22T14:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-09-23">
+      <text>Received in the Senate and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Citizen participation"/>
+    <term name="Crime and law enforcement"/>
+    <term name="EBB Terrorism"/>
+    <term name="Emergency management"/>
+    <term name="Government operations and politics"/>
+    <term name="Special months"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/2004--Introduced.
+Expresses support for the goals and ideals, and the designation, of National Preparedness Month.</summary>
+</bill>

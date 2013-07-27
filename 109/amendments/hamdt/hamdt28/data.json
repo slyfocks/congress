@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-09T15:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1199-1202", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1199", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Graves.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09T16:54:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 60, 
+      "text": "On agreeing to the Graves amendment Agreed to by recorded vote: 218 - 201 (Roll no. 60).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt28-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment preempts state laws regarding vicarious liability for rental car and truck owners.", 
+  "house_number": 9, 
+  "introduced_at": "2005-03-09", 
+  "number": 28, 
+  "purpose": "An amendment numbered ten printed in Part B of House Report 109-14 to eliminate liability under state law for an owner of a motor vehicle or their affiliate who is engaged in the business of renting and leasing motor vehicles provided there is no negligence or criminal wrongdoing on the part of the motor vehicle owner or affiliate. The owner or affiliate must maintain the required state limits of financial responsibility for each vehicle in accordance to the states where the vehicle is registered.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Graves, Sam", 
+    "state": "MO", 
+    "thomas_id": "01656", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-09T16:54:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

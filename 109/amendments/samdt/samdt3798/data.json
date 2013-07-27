@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-03", 
+      "references": [
+        {
+          "reference": "CR S3941", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3941", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3798 proposed by Senator Cochran for Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3798 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3798-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-01", 
+  "number": 3798, 
+  "proposed_at": "2006-05-03", 
+  "purpose": "To honor Eli Segal's contribution to AmeriCorps by providing that the national service educational awards provided, from available resources, to AmeriCorps members on completion of their terms of service shall be known as \"Segal awards.\"", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-03", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

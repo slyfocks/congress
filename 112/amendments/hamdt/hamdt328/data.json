@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T21:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3664-3665", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3664", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T13:23:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3727-3728", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 362, 
+      "text": "On agreeing to the Campbell amendment (A028) Failed by recorded vote: 63 - 354 (Roll no. 362).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt328-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 28, 
+  "introduced_at": "2011-05-25", 
+  "number": 328, 
+  "purpose": "An amendment numbered 53 printed in House Report 112-88 to terminate the Human, Social, and Culture Behavior (HSCB) Modeling program at the Department of Defense.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-26T13:23:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

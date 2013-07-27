@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T19:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6956-6957", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6956", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T13:27:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6992", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 373, 
+      "text": "On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 134 - 294 (Roll no. 373).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt233-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 23, 
+  "introduced_at": "2009-06-17", 
+  "number": 233, 
+  "purpose": "An amendment numbered 79 printed in the Congressional Record to prohibit use of funds in the bill by the Art Center of the Grand Prairie, Stuttgart, AR, for the Grand Prairie Arts Initiative.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T13:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

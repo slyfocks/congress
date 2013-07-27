@@ -1,0 +1,136 @@
+<bill session="106" type="h" number="2346" updated="2013-07-14T18:53:53-04:00">
+  <state datetime="2000-11-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-11-22"/>
+  </status>
+  <introduced datetime="1999-06-24"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the enforcement by State and local governments of certain Federal Communications Commission regulations regarding use of citizens band radio equipment.</title>
+  </titles>
+  <sponsor id="400119"/>
+  <cosponsors>
+    <cosponsor id="400573" joined="1999-06-24"/>
+    <cosponsor id="400076" joined="1999-06-24"/>
+    <cosponsor id="400110" joined="1999-06-24"/>
+    <cosponsor id="400180" joined="1999-06-24"/>
+    <cosponsor id="400182" joined="1999-06-24"/>
+    <cosponsor id="400227" joined="1999-07-26"/>
+    <cosponsor id="400277" joined="2000-07-25"/>
+    <cosponsor id="400611" joined="1999-06-24"/>
+    <cosponsor id="400414" joined="1999-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-06-24">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1999-07-07">
+      <text>Referred to the Subcommittee on Telecommunications, Trade, and Consumer Protection.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-09-14">
+      <text>Subcommittee on Telecommunications, Trade, and Consumer Protection Discharged.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-09-14">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="2000-09-22T12:27:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 106-883.</text>
+    </action>
+    <calendar datetime="2000-09-22T12:27:00-04:00" calendar="Union" number="533">
+      <text>Placed on the Union Calendar, Calendar No. 533.</text>
+    </calendar>
+    <action datetime="2000-09-27T13:10:00-04:00">
+      <text>Mr. Burr moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-09-27T13:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8275-8277" label="consideration"/>
+    </action>
+    <action datetime="2000-09-27T13:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2346.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-27T13:23:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8275" label="text"/>
+    </vote>
+    <action datetime="2000-09-27T13:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-28">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="2000-10-31">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref=" CR S11427" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2000-10-31" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2000-10-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2000-11-13T14:34:00-05:00">
+      <text>Mr. Tauzin moved that the House suspend the rules and agree to the Senate amendment.</text>
+    </action>
+    <action datetime="2000-11-13T14:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2346.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-11-13T14:42:00-05:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H11848-11849" label="consideration"/>
+      <reference ref="CR H11848" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2000-11-13T14:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2000-11-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2000-11-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-11-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-11-22" type="public" number="106-521">
+      <text>Became Public Law No: 106-521.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSIF12" subcommittee="Telecommunications, Trade, and Consumer Protection" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="2767"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Citizens band radio"/>
+    <term name="Equipment and supplies"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Federal preemption"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Local laws"/>
+    <term name="State laws"/>
+    <term name="Transportation and public works"/>
+    <term name="Truck drivers"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4354"/>
+  </amendments>
+  <summary>10/31/2000--Passed Senate amended.
+Amends the Communications Act of 1934 to allow a State or local government to enact a statute or ordinance that prohibits a violation of Federal Communications Commission (FCC) regulations which prohibit: (1) a use of citizens band radio equipment not authorized by the FCC; or (2) the unauthorized operation of such equipment on a frequency between 24 and 35 megahertz.Provides that a station licensed by the FCC in any radio service for the operation at issue shall not be subject to such a statute or ordinance.Requires the FCC to provide technical guidance regarding the detection and determination of violations of FCC regulations.Permits a person affected to submit to the FCC an appeal of the decision of a State or local government enforcing such a statute or ordinance.Provides that: (1) the enforcement of such a statute or ordinance shall not preclude the FCC from enforcing the regulation in that case concurrently; and (2) nothing in this Act shall be construed to diminish or otherwise affect FCC jurisdiction over devices capable of interfering with radio communications.Mandates that enforcement of a statute or ordinance with respect to citizens band radio equipment aboard a commercial motor vehicle shall require probable cause that such vehicle or individual is in violation of such FCC regulations.</summary>
+</bill>

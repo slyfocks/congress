@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2261-2262", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2262", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3053 proposed by Senator Gregg for Senator Lincoln.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3053 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3053-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3053, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To provide for restoring funding for the portion of the COPS program devoted to countering methamphetamine, offset by a reduction to Function 920 (Allowances).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lincoln, Blanche L.", 
+    "state": "AR", 
+    "thomas_id": "01570", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

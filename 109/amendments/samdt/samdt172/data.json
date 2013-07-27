@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2825-2827", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2826", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 172 proposed by Senator Harkin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2875, S2921-2922, S2954", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 61, 
+      "text": "Amendment SA 172 not agreed to in Senate by Yea-Nay Vote. 44 - 56. Record Vote Number: 61.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt172-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 172, 
+  "proposed_at": "2005-03-16", 
+  "purpose": "To restore the Perkins Vocational Education program and provide for deficit reduction paid for through the elimination of the phase out of the personal exemption limitation and itemized deduction limitation for high-income taxpayers now scheduled to start in 2006.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T18:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5424-5427", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5424", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Neugebauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-17T18:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Neugebauer amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-05-22T14:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Westmoreland demanded a separate vote on the Neugebauer amendment (A005).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-22T14:20:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5568-5569", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 394, 
+      "text": "On agreeing to the Neugebauer amendment (A005) Agreed to by recorded vote: 383 - 36 (Roll no. 394).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt207-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment clarifies the authority of regulators over government sponsored enterprises.", 
+  "house_number": 5, 
+  "introduced_at": "2007-05-17", 
+  "number": 207, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to clarify that potential risks should be posed to the enterprises with respect to the nature of portfolio holdings.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-22T14:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

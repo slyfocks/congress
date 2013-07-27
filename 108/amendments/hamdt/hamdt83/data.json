@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-11T10:37:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3313-3316, H3323-3324", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H3313", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Kind.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-11T12:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 142, 
+      "text": "On agreeing to the Kind amendment (A019) Failed by recorded vote: 171 - 251 (Roll no. 142).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt83-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike title II of division C, relating to oil and gas development.", 
+  "house_number": 19, 
+  "introduced_at": "2003-04-11", 
+  "number": 83, 
+  "purpose": "An amendment numbered 19 printed in House Report 108-69 strikes Title II of Division C, relating to oil and gas development provisions.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-11T12:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-16T19:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1001-1002", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1001", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A042) offered by Mr. Walberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T10:36:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1081", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 68, 
+      "text": "On agreeing to the Walberg amendment (A042) Agreed to by recorded vote: 217 - 209 (Roll no. 68).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt52-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces funding for the National Endowment for the Arts by $20.594 million and applies the savings to the spending reduction account.", 
+  "house_number": 42, 
+  "introduced_at": "2011-02-16", 
+  "number": 52, 
+  "purpose": "An amendment numbered 196 in the Congressional Record to reduce funding forthe National Foundation on the Arts and the Humanities, National Endowment for the Arts, Grants and Administration and increases the spending reduction account.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T10:36:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12497-12513", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12506-12507", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2452 proposed by Senator Warner for Senator Nelson NE.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2452 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2452-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-08", 
+  "number": 2452, 
+  "proposed_at": "2005-11-08", 
+  "purpose": "To require the Secretary of Defense to establish a uniform policy for the Armed Forces on parental leave and similar leave.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, E. Benjamin", 
+    "state": "NE", 
+    "thomas_id": "01627", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

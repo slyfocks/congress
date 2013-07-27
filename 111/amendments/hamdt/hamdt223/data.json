@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T17:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6944", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6944", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T12:22:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6985-6986", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 364, 
+      "text": "On agreeing to the Price (GA) amendment (A013) Failed by recorded vote: 165 - 257 (Roll no. 364).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt223-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce the appropriation for the Department of Justice General Administration salaries and expenses by $100,000,000 across-the-board.", 
+  "house_number": 13, 
+  "introduced_at": "2009-06-17", 
+  "number": 223, 
+  "purpose": "An amendment numbered 96 printed in the Congressional Record to reduce the appropriations made to the Department of Justice General Administration salaries and expenses by $100,000,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T12:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

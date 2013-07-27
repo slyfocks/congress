@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-07T19:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3637-3638, H3648-3649", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3637", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Mr. Turner (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-07T21:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 367, 
+      "text": "On agreeing to the Turner (NY) amendment (A040) Failed by recorded vote: 101 - 314 (Roll no. 367).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1273-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to limit funds for the surface transportation inspection program to not more than $20 million.", 
+  "house_number": 40, 
+  "introduced_at": "2012-06-07", 
+  "number": 1273, 
+  "purpose": "An amendment to limit the amount of funds available for surface transportation security inspectors to $20 million. The limitation shall not apply to the National Explosives Detection Canine Training Program and Visible Intermodal Prevention and Response Teams.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Turner, Robert L.", 
+    "state": "NY", 
+    "thomas_id": "02091", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-07T21:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

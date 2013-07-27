@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-25T23:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7433-7434", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7433", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-26T12:16:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7468-7469", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7468", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 472, 
+      "text": "On agreeing to the Campbell amendment (A009) Failed by recorded vote: 122 - 301 (Roll no. 472).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt283-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2996-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2996
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $150,000 in funding for the Tarrytown Music Hall Restoration and reduce the overall cost of the bill by a commensurate amount.", 
+  "house_number": 9, 
+  "introduced_at": "2009-06-25", 
+  "number": 283, 
+  "purpose": "An amendment numbered 3 printed in part C of House Report 111-184 to strike the $150,000 in funding for the Tarrytown Music Hall Restoration and reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-26T12:16:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16T12:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1079-1082, H1095-1096", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1079", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mr. Neugebauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T15:10:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 57, 
+      "text": "On agreeing to the Neugebauer amendment (A034) Failed by recorded vote: 89 - 332 (Roll no. 57).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt734-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete all funding contained in Title II--Further Hurricane Disaster Relief and Recovery.", 
+  "house_number": 34, 
+  "introduced_at": "2006-03-16", 
+  "number": 734, 
+  "purpose": "An amendment numbered 12 printed in the Congressional Record to eliminate all funding in Title II.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16T15:10:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

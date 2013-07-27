@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-03T14:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4459", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4459", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Wu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-03T14:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wu amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt141-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1868-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment ensures that the Technology Innovation Program will focus on high-reward technologies in areas of critical national need; provides additional guidance that the program must coordinate with similar State organizations and programs; and includes a definition of high-risk, high-reward research.", 
+  "house_number": 1, 
+  "introduced_at": "2007-05-03", 
+  "number": 141, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-118 to make a number of clarifications to the Technology Innovation Program, i ncluding (1) that projects should address critical national needs and be high reward; (2) that TIP should coordinate with State innovation and technology development programs; and (3) a definition of high-risk, high-reward research.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wu, David", 
+    "state": "OR", 
+    "thomas_id": "01598", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-03T14:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

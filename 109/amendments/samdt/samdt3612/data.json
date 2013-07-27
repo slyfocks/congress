@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-03", 
+      "references": [
+        {
+          "reference": "CR S3940", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3940", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3612 proposed by Senator Cochran for Senator McConnell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S3940", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 3612 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3612-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3612, 
+  "proposed_at": "2006-05-03", 
+  "purpose": "To provide a national security interest waiver on prohibitions on assistance for the Office of the President of the Palestinian Authority.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "thomas_id": "01395", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-03", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

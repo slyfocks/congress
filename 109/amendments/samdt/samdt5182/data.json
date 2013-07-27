@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-16", 
+      "references": [
+        {
+          "reference": "CR S11005-11006, S11008, S11009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11006", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5182 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-16", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 5182 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5182-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3709-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3709
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-16", 
+  "number": 5182, 
+  "proposed_at": "2006-11-16", 
+  "purpose": "To require as a precondition to United States-India peaceful atomic energy cooperation a determination by the President that India has committed to certain basic provisions consistent with United States non-proliferation goals and the obligations and political commitments undertaken by State Parties to the Nuclear Non-Proliferation Treaty.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-11-16", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

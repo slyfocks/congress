@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-18", 
+      "references": [
+        {
+          "reference": "CR S8395", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8395", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1233 proposed by Senator McConnell for Senator Leahy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1233 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1233-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-18", 
+  "number": 1233, 
+  "proposed_at": "2005-07-18", 
+  "purpose": "Of a technical nature relating to a reporting requirements.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-18", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

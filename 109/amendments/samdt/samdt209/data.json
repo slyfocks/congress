@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2930-2932", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2930", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 209 proposed by Senator Gregg for Senator Cochran.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 209 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt209-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 209, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "to modify a provision defining advance appropriations subject to limit.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cochran, Thad", 
+    "state": "MS", 
+    "thomas_id": "00213", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-26", 
+      "references": [
+        {
+          "reference": "CR S4244", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4244", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 572 proposed by Senator Thune to Amendment SA 567.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-26", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 572 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt572-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt567-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 567
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-26", 
+  "number": 572, 
+  "proposed_at": "2005-04-26", 
+  "purpose": "To modify the section relating to National Scenic Byways to provide for the designation of Indian scenic byways.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-26", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

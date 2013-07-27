@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-12", 
+      "references": [
+        {
+          "reference": "CR S8124-8126", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8124", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1200 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8155", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8248, S8283", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [], 
+      "text": "Proposed amendment SA 1200 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1200-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1200, 
+  "proposed_at": "2005-07-12", 
+  "purpose": "To provide funds for certain programs authorized by the Federal Fire Prevention and Control Act of 1974.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

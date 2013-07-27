@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-01T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3604-3605", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3604", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. McCollum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-01T13:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McCollum amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt107-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1298-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1298
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment requires that 10 percent of the appropriated funds in this bill be expended for HIV--AIDS assistance for orphans and vulnerable children affected by HIV/AIDS.", 
+  "house_number": 7, 
+  "introduced_at": "2003-05-01", 
+  "number": 107, 
+  "purpose": "An amendment numbered 8 printed in House Report 108-80 to ensure that orphans and vulnerable children affected by HIV/AIDS receive not less than 10 percent of the amounts appropriated for HIV/AIDS assistance for fiscal years 2006 through 2008, of which not less than 50 percent of the funding shall be channeled through non-profit, non- governmental organizations, including faith-based organizations, that implement programs at the community level.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCollum, Betty", 
+    "state": "MN", 
+    "thomas_id": "01653", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-05-01T13:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

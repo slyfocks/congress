@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-15T12:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4510-4519", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4510", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Hansen to the Dicks amendment (A012).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-15T14:20:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Hansen amendment (A019) Failed by recorded vote: (Roll No. 280).", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt814-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt807-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 807
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4578-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4578
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Dicks amendment (A012) sought to strike reference to the planning and management of national monuments.", 
+  "house_number": 19, 
+  "introduced_at": "2000-06-15", 
+  "number": 814, 
+  "purpose": "An amendment to remove the reference to the planning and management of national monuments.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hansen, James V.", 
+    "state": "UT", 
+    "thomas_id": "00498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-15", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

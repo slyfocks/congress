@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2900-2903", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 177 proposed by Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2925", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2925", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 68, 
+      "text": "Amendment SA 177 as modified agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 68.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt177-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 177, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "Relative to education funding.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

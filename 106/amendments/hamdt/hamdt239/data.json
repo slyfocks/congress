@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-24T15:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4871-4876", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4871, H4876-4878", 
+          "type": "text"
+        }
+      ], 
+      "text": "Substitute (A004) offered by Mr. Paul to the Hutchinson amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-24T16:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Paul amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt239-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt237-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 237
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1658-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Hutchinson substitute amendment (A002) sought to replace the original text with language that specifies that no property may be forfeited under any civil asset forfeiture law unless the property's owner has first been convicted of the criminal offense that makes the property subject to forfeiture.", 
+  "house_number": 4, 
+  "introduced_at": "1999-06-24", 
+  "number": 239, 
+  "purpose": "An amendment to specify that no property may be forfeited under any civil asset forfeiture law unless the property's owner has first been convicted of the criminal offense that makes the property subject to forfeiture.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-06-24T16:19:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

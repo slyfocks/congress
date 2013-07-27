@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8674-8675", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8675", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4838 proposed by Senator Stevens for Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4838 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4838-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4838, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To clarify the treatment of Committee report guidance on certain projects.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

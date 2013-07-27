@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T17:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H421-425", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H421", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Pickering.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13T18:46:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 24, 
+      "text": "On agreeing to the Pickering amendment Failed by recorded vote: 209 - 219 (Roll no. 24).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt420-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide an exemption for communications pertaining to the Second Amendment of the Constitution.", 
+  "house_number": 6, 
+  "introduced_at": "2002-02-13", 
+  "number": 420, 
+  "purpose": "Amendment numbered 27 printed in the Congressional Record of February 12, 2002 to exempt from the bill any communication/advertiseme t that consists of information or commentary about a person holding or seeking federal office on any matter pertaining to the Second Amendment.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Pickering, Charles W. \"Chip\"", 
+    "state": "MS", 
+    "thomas_id": "01513", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-02-13T18:46:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

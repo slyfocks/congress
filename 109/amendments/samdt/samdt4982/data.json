@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9487-9490", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9487", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4982 proposed by Senator Coleman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 245, 
+      "text": "Amendment SA 4982 agreed to in Senate by Yea-Nay Vote. 95 - 3. Record Vote Number: 245.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4982-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-13", 
+  "number": 4982, 
+  "proposed_at": "2006-09-13", 
+  "purpose": "To require the Secretary of Homeland Security to ensure that all cargo containers are screened before arriving at a United States seaport, that all high-risk containers are scanned before leaving a United States seaport, and that integrated scanning systems are fully deployed to scan all cargo containers entering the United States before they arrive in the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coleman, Norm", 
+    "state": "MN", 
+    "thomas_id": "01697", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-13", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

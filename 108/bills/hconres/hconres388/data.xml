@@ -1,0 +1,86 @@
+<bill session="108" type="hc" number="388" updated="2013-07-14T19:03:09-04:00">
+  <state datetime="2004-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2004-05-12"/>
+  </status>
+  <introduced datetime="2004-03-17"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2004-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-03-17">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2004-03-18">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2004-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-03-24">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2004-04-22T11:53:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 108-467.</text>
+    </action>
+    <calendar datetime="2004-04-22T11:53:00-04:00" calendar="House" number="167">
+      <text>Placed on the House Calendar, Calendar No. 167.</text>
+    </calendar>
+    <action datetime="2004-04-28T11:14:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2004-04-28T11:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2422-2423" label="consideration"/>
+    </action>
+    <action datetime="2004-04-28T11:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 388.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-04-28T11:19:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2422" label="text"/>
+    </vote>
+    <action datetime="2004-04-28T11:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-04-29">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2004-05-12">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S5381" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2004-05-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2004-05-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement officers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Police"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2004--Passed Senate without amendment.
+Permits the National Fraternal Order of Police and its auxiliary to sponsor a free public event, the 23rd annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2004.</summary>
+</bill>

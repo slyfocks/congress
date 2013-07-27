@@ -1,0 +1,87 @@
+<bill session="107" type="h" number="4028" updated="2013-07-14T18:58:22-04:00">
+  <state datetime="2002-05-07T14:33:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-05-07T14:33:00-04:00"/>
+  </status>
+  <introduced datetime="2002-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 600 West Capitol Avenue in Little Rock, Arkansas, as the "Richard S. Arnold United States Courthouse".</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400026" joined="2002-03-20"/>
+    <cosponsor id="400345" joined="2002-03-20"/>
+    <cosponsor id="400383" joined="2002-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-20">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2002-03-21">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-04-24">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-04-24">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-05-02T13:27:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-431.</text>
+    </action>
+    <calendar datetime="2002-05-02T13:28:00-04:00" calendar="House" number="152">
+      <text>Placed on the House Calendar, Calendar No. 152.</text>
+    </calendar>
+    <action datetime="2002-05-07T14:26:00-04:00">
+      <text>Mr. Boozman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-05-07T14:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2116-2117" label="consideration"/>
+    </action>
+    <action datetime="2002-05-07T14:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4028.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-05-07T14:33:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2116" label="text"/>
+    </vote>
+    <action datetime="2002-05-07T14:33:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-05-08">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2002-05-09">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="s" number="2128"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arkansas"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Judges"/>
+    <term name="Law"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>5/2/2002--Reported to House without amendment.
+Designates the U.S. courthouse located at 600 West Capitol Avenue in Little Rock, Arkansas, as the Richard S. Arnold United States Courthouse.</summary>
+</bill>

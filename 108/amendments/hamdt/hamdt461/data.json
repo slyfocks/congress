@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-02-04T15:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H345-346", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H345", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Scott (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-04T16:06:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 15, 
+      "text": "On agreeing to the Scott (VA) amendment (A003) Failed by recorded vote: 182 - 231 (Roll no. 15).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt461-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3030-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3030
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit the use of federal Community Services Block Grant funds to discriminate in hiring on the basis of religion.", 
+  "house_number": 3, 
+  "introduced_at": "2004-02-04", 
+  "number": 461, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to insert provisions regarding nondiscrimination and employment practices.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-02-04T16:06:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

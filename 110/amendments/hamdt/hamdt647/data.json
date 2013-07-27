@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-25T14:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8440, H8465", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8440", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. English (PA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-25T18:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 724, 
+      "text": "On agreeing to the English (PA) amendment (A005) Failed by recorded vote: 83 - 342 (Roll no. 724).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt647-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3093-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for the United States International Trade Commission by $1 million.", 
+  "house_number": 5, 
+  "introduced_at": "2007-07-25", 
+  "number": 647, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to reduce appropriations for the National Oceanic and Atmospheric Administration (NOAA) by $2 million, and increase appropriations for the International Trade Commission by $1 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "English, Phil", 
+    "state": "PA", 
+    "thomas_id": "00347", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-25T18:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-27", 
+      "references": [
+        {
+          "reference": "CR S11982", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2276 proposed by Senator Specter for Senator Domenici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11982", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2276 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2276-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-26", 
+  "number": 2276, 
+  "proposed_at": "2005-10-27", 
+  "purpose": "To provide appropriations for the National Youth Sports Program, a private, nonprofit organization to provide recreational activities for low-income youth, primarily in the summer months, which employs college and university athletic facilities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Domenici, Pete V.", 
+    "state": "NM", 
+    "thomas_id": "01319", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-27", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

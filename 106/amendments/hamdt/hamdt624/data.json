@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29T19:37:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1552-1554, H1556-1557", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Ramstad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-29T20:45:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1552", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 86, 
+      "text": "On agreeing to the Ramstad amendment (A010) Failed by recorded vote: 158 - 262 (Roll no. 86).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt624-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete $1.7 billion provided for counternarcotics funding for Colombia.", 
+  "house_number": 10, 
+  "introduced_at": "2000-03-29", 
+  "number": 624, 
+  "purpose": "An amendment numbered 3 printed in House Report 106-549 to strike Title I from the bill. Title I deals with the Counternarcotics.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Ramstad, Jim", 
+    "state": "MN", 
+    "thomas_id": "00942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-29T20:45:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

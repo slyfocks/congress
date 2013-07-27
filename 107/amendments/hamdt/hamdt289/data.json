@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T16:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5128-5130", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5128-5129", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. Wilson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T16:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wilson amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt289-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment prohibits the commercial sale of uranium by the United States until 2009 with the exception of sales required pursuant to statute.", 
+  "house_number": 4, 
+  "introduced_at": "2001-08-01", 
+  "number": 289, 
+  "purpose": "Part B amendment numbered 4 printed in House Report 107-178 to establish a framework for the disposition by the U.S. Government of excess government uranium stockpiles, in a manner that will not disrupt the commercial uranium market nor adversely affect the U.S./Russia High Enriched Uranium Agreement.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wilson, Heather", 
+    "state": "NM", 
+    "thomas_id": "01539", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-08-01T16:58:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

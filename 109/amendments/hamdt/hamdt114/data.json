@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-11T15:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3148", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3148", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. E. B. Johnson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-11T15:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Johnson, E. B. amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt114-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1279-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1279
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides for the establishment of National and Regional Gang Activity Databases.", 
+  "house_number": 3, 
+  "introduced_at": "2005-05-11", 
+  "number": 114, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-76 to establish funding for regional databases that track gang activity in high intensity gang areas.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-11T15:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

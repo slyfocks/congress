@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T15:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4600-4601", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4600", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-06T15:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4601", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Jackson Lee (TX) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt511-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2011-07-06", 
+  "number": 511, 
+  "purpose": "An amendment numbered 67 printed in the Congressional Record to transfer funds from Operation and Maintenance to the Defense Health Program.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-07-06", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

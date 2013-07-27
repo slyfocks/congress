@@ -1,0 +1,47 @@
+<bill session="107" type="h" number="4036" updated="2013-07-14T18:58:22-04:00">
+  <state datetime="2002-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2002-03-20"/>
+  </status>
+  <introduced datetime="2002-03-20"/>
+  <titles>
+    <title as="introduced" type="short">Hospitalized Veterans Financial Assistance Act of 2002</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to allow the payment of veterans' benefits in all hospitalization and convalescent claims to begin effective the first day of the month in which hospitalization or treatment begins.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2002-03-20"/>
+    <cosponsor id="400126" joined="2002-03-20"/>
+    <cosponsor id="400133" joined="2002-09-04"/>
+    <cosponsor id="400232" joined="2002-11-12"/>
+    <cosponsor id="400311" joined="2002-09-04"/>
+    <cosponsor id="400337" joined="2002-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-20">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2002-03-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E431"/>
+    </action>
+    <action datetime="2002-05-01">
+      <text>Referred to the Subcommittee on Benefits.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR06" subcommittee="Benefits" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2002--Introduced.
+Hospitalized Veterans Financial Assistance Act of 2002 - Requires that, in the case of a temporary increase in veterans' compensation for hospitalization or treatment, such increased payment shall commence on the first day of the month in which such hospitalization or treatment begins.</summary>
+</bill>

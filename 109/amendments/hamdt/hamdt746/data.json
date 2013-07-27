@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16T15:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1101-1104, H1110-1111", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1101", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A046) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T17:30:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 60, 
+      "text": "On agreeing to the Waxman amendment (A046) Failed by recorded vote: 193 - 225 (Roll no. 60).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt746-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 46, 
+  "introduced_at": "2006-03-16", 
+  "number": 746, 
+  "purpose": "At the end of the bill (before the short title), insert the following: \\   SEC. __. None of the funds appropriated or otherwise made available by this Act shall be obligated or expended by the Secretary of the Army or his designee to award a contract to any contractor if the Defense Contract Audit Agency has determined that more than $100,000,000 of the contractor's costs for contracts involving work in Iraq under one or more Army contracts were unreasonable.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16T17:30:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

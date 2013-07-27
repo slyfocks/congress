@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-27T15:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3662-3668", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3662", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T09:43:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3718-3719", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3718", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 200, 
+      "text": "On agreeing to the Tancredo amendment (A003) Failed by recorded vote: 84 - 333 (Roll no. 200).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt124-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2311-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2311
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to delete section 105 of the bill which allows certain beach replenishment projects to proceed with a cost share ratio of 65 percent Federal share/35 percent local share.", 
+  "house_number": 3, 
+  "introduced_at": "2001-06-27", 
+  "number": 124, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to strike section 105 from the bill. Section 105 directs the Secretary of the Army to proceed with shore protection projects funded in the bill which have Project Cooperation Agreements in place in accordance with the cost sharing specified in the Project Cooperation Agreement.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-28T09:43:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

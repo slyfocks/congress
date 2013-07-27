@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-25T22:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7428-7429", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7428", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Jordan (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-26T11:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7465-7466", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7465", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 468, 
+      "text": "On agreeing to the Jordan (OH) amendment (A005) Failed by recorded vote: 169 - 259 (Roll no. 468).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt279-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2996-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2996
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce overall spending in the bill by $5.75 billion to reflect FY2008 spending levels.", 
+  "house_number": 5, 
+  "introduced_at": "2009-06-25", 
+  "number": 279, 
+  "purpose": "An amendment numbered 4 printed in part B of House Report 111-184 to reduce overall spending in the bill by $5.75 billion to reflect FY2008 spending levels.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Jordan, Jim", 
+    "state": "OH", 
+    "thomas_id": "01868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-26T11:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

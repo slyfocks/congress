@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30T17:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5531-5532", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5531", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A047) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-30T17:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A047) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt440-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit the use of funds to implement community service requirements for public housing tenants.", 
+  "house_number": 47, 
+  "introduced_at": "2005-06-30", 
+  "number": 440, 
+  "purpose": "An amendment to prohibit any of the funds made available in the Act from being used to implement section 12(c) of the United States Housing Act of 1937 (42 U.S.C. 1437j(c)).", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-30T17:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

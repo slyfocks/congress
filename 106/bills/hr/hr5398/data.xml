@@ -1,0 +1,54 @@
+<bill session="106" type="h" number="5398" updated="2013-07-14T18:55:11-04:00">
+  <state datetime="2000-10-17T14:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-17T14:56:00-04:00"/>
+  </status>
+  <introduced datetime="2000-10-05"/>
+  <titles>
+    <title as="introduced" type="official">To provide that land which is owned by the Coushatta Tribe of Louisiana but which is not held in trust by the United States for the Tribe may be leased or transferred by the Tribe without further approval by the United States.</title>
+  </titles>
+  <sponsor id="400203"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-05">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2000-10-17T14:53:00-04:00">
+      <text>Mr. Calvert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-17T14:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9983-9984" label="consideration"/>
+    </action>
+    <action datetime="2000-10-17T14:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5398.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-17T14:56:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9983" label="text"/>
+    </vote>
+    <action datetime="2000-10-17T14:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-18">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="2792"/>
+  </relatedbills>
+  <subjects>
+    <term name="Minorities"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands"/>
+    <term name="Land transfers"/>
+    <term name="Louisiana"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2000--Introduced.
+Allows the Coushatta Tribe of Louisiana to lease, sell, convey, warrant, or otherwise transfer all or any part of its interest in any real property that is not held in trust by the United States.</summary>
+</bill>

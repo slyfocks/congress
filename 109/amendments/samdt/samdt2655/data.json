@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-17", 
+      "references": [
+        {
+          "reference": "CR S13135-13136", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S13135", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2655 proposed by Senator Craig.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2655 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2655-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2020-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-17", 
+  "number": 2655, 
+  "proposed_at": "2005-11-17", 
+  "purpose": "To express the sense of the Congress regarding the conditions for the United States to become a signatory to any multilateral agreement on trade resulting from the World Trade Organization's Doha Development Agenda Round.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Craig, Larry E.", 
+    "state": "ID", 
+    "thomas_id": "00246", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-17", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

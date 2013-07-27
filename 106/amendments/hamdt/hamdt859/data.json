@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-21T17:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4881-4886, H4903", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4881-4882", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T20:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 305, 
+      "text": "On agreeing to the Collins amendment (A027) Agreed to by recorded vote: 225 - 199 (Roll no. 305).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt859-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment limits the ability of EPA to designate certain ozone nonattainment areas.", 
+  "house_number": 27, 
+  "introduced_at": "2000-06-21", 
+  "number": 859, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to prohibit EPA from using any funds in the bill to designate \"ozone nonattainment areas\" under the more stringent National Ambient Air Quality Standards issued by EPA in 1997.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Collins, Mac", 
+    "state": "GA", 
+    "thomas_id": "00222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-21T20:58:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

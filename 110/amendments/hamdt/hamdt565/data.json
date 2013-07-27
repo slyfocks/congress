@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T22:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8103-8104", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8103", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A056) offered by Mr. Davis (KY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-19T16:49:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8159", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8159", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 672, 
+      "text": "On agreeing to the Davis (KY) amendment (A056) Failed by recorded vote: 185 - 238 (Roll no. 672).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt565-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 56, 
+  "introduced_at": "2007-07-18", 
+  "number": 565, 
+  "purpose": "An amendment to prohibit funds to be used to pay a bonus or other performance-based cash award to any employee of the Social Security Administration or the Centers for Medicare & Medicaid Services who holds a position to which such employee was appointed by the President, by and with the advice and consent of the Senate, or a Senior Executive Service position.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Davis, Geoff", 
+    "state": "KY", 
+    "thomas_id": "01784", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-19T16:49:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

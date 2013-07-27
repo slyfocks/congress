@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-16T18:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4633-4634, H4642-4643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4633", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Poe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-16T20:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 271, 
+      "text": "On agreeing to the Poe amendment (A005) Agreed to by recorded vote: 402 - 14 (Roll no. 271).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt298-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2745-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment requires the Director of the Office of Management and Budget to submit to Congress a report on United States contributions to the United Nations. Such report shall examine assessed, voluntary, in-kind, and all other United States contributions.", 
+  "house_number": 5, 
+  "introduced_at": "2005-06-16", 
+  "number": 298, 
+  "purpose": "An amendment numbered 5 printed in subpart A of Part 1 of House Report 109-132 to require OMB to submit a report to the House International Relations Committee on the U.S. contributions to the U.N. The report shall include assessed, voluntary, and in-kind contributions.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-16T20:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

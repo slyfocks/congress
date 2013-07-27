@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T18:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6948-6949", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6948", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T12:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6987-6988", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 367, 
+      "text": "On agreeing to the Blackburn amendment (A016) Failed by recorded vote: 177 - 248 (Roll no. 367).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt226-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to decrease by 5% funds that are not required to be appropriated or otherwise made available by a provision of law.", 
+  "house_number": 16, 
+  "introduced_at": "2009-06-17", 
+  "number": 226, 
+  "purpose": "An amendment numbered 111 printed in the Congressional Record to decrease by 5% funds that are not required to be appropriated or otherwise made available by a provision of law.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T12:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

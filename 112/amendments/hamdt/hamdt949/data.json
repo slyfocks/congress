@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-16T16:13:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H826-828, H883", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H826-827", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-16T17:40:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 68, 
+      "text": "On agreeing to the Markey amendment (A018) Failed by recorded vote: 183 - 238 (Roll no. 68).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt949-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3408-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3408
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require companies holding leases which allow them to drill on public lands off-shore without paying a royalty, to renegotiate those leases prior to bidding on new leases issued pursuant to Title XVII of this Act.", 
+  "house_number": 18, 
+  "introduced_at": "2012-02-16", 
+  "number": 949, 
+  "purpose": "An amendment numbered 18 printed in Part A of House Report 112-398 to require companies holding defective leases which allow them to drill on public lands off-shore without paying a royalty, to renegotiate those leases prior to bidding on new leases issued pursuant to Title XVII of this Act.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-16T17:40:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

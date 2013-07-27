@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-04T12:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1701-1702, H1711-1712", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Luther.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-04T14:50:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1701", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 100, 
+      "text": "On agreeing to the Luther amendment (A002) Failed by recorded vote: 137 - 284 (Roll no. 100).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt648-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2418-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2418
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to ensure that the policies of the Network could not be preempted by State or local law.", 
+  "house_number": 2, 
+  "introduced_at": "2000-04-04", 
+  "number": 648, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-557 to ensure that the policies of the Network could not be thwarted or preempted by state or local law.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Luther, Bill", 
+    "state": "MN", 
+    "thomas_id": "00718", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-04-04T14:50:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03T16:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9600-9601, H9603-9604", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9600", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Watt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03T17:47:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 567, 
+      "text": "On agreeing to the Watt amendment (A010) Failed by recorded vote: 44 - 371 (Roll no. 567).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt616-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4128-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4128
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete all sections of the bill and retain only the language expressing the sense of Congress recognizing the importance of property rights and that in the aftermath of the Kelo decision abuses of eminent domain power may occur.", 
+  "house_number": 10, 
+  "introduced_at": "2005-11-03", 
+  "number": 616, 
+  "purpose": "An amendment numbered 11 printed in House Report 109-266 to delete all sections of the bill and retain only the language expressing the sense of Congress recognizing the importance of property rights and that in the aftermath of the Kelo decision that abuses of eminent domain power may occur.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-03T17:47:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

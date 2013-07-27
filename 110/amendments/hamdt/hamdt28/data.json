@@ -1,0 +1,50 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-08T12:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2316", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-08T12:05:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt28-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres202-110", 
+    "bill_type": "hres", 
+    "congress": 110, 
+    "number": 202
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment considered adopted pursuant to H.Res. 219.", 
+  "house_number": 1, 
+  "introduced_at": "2007-03-08", 
+  "number": 28, 
+  "purpose": "An amendment considered adopted pursuant to H.Res. 219.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-08T12:05:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-09T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6391-6393", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6391-6392", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-09T15:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt211-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr438-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 438
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment provides loan forgiveness for those teachers who specialize in teaching reading.", 
+  "house_number": 1, 
+  "introduced_at": "2003-07-09", 
+  "number": 211, 
+  "purpose": "Amendment printed in H.Rept. 108-189 to fund teacher eligibility for $17,500 loan forgiveness to reading teachers who have obtained a separate State credential in reading.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-09T15:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

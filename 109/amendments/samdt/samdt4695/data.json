@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-26", 
+      "references": [
+        {
+          "reference": "CR S8217", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8217", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4695 proposed by Senator Martinez for Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-26", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4695 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4695-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5865-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5865
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-26", 
+  "number": 4695, 
+  "proposed_at": "2006-07-26", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-26", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

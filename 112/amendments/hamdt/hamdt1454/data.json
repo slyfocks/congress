@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T19:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5267-5268", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5267", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Richardson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5309-5310", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 522, 
+      "text": "On agreeing to the Richardson amendment (A008) Failed by recorded vote: 170 - 247 (Roll no. 522).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1454-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow the government to take significant regulatory action to ensure implementation of the Patient Protection and Affordable Care Act and the health provisions of the Health Care and Education Rconciliation Act of 2010 if and when the monthly national unemployment rate is above 6 percent.", 
+  "house_number": 8, 
+  "introduced_at": "2012-07-25", 
+  "number": 1454, 
+  "purpose": "An amendment numbered 8 printed in Part B of House Report 112-616 to ensure that the provisions of the Patient Protection and Affordable Care Act and the health provisions of the Health Care and Education Reconciliation Act of 2010 can be carried out.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Richardson, Laura", 
+    "state": "CA", 
+    "thomas_id": "01883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-26T11:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-22T14:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2525-2532", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2525", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Hoekstra.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-22T15:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 130, 
+      "text": "On agreeing to the Hoekstra amendment (A006) Failed by recorded vote: 173 - 255 (Roll no. 130).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt48-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to strike the requirement for annual state reading and math tests for grades 3 through 8 and retain current law for state assessments.", 
+  "house_number": 6, 
+  "introduced_at": "2001-05-22", 
+  "number": 48, 
+  "purpose": "An amendment numbered 6 printed in House Report 107-69 to strike language requiring annual state assessments in reading and math for grades 3-8 and retains current law for state assessments which requires that states measure students in all subjects on which the state has developed standards.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hoekstra, Peter", 
+    "state": "MI", 
+    "thomas_id": "00547", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-05-22T15:17:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

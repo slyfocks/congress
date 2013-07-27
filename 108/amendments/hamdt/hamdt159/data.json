@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-10T17:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5148-5152", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5148", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Sensenbrenner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-10T18:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 254, 
+      "text": "On agreeing to the Sensenbrenner amendment (A003) Failed by recorded vote: 186 - 237 (Roll no. 254).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt159-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2143-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2143
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete language in the bill which exempts transactions with state-licensed or authorized businesses.", 
+  "house_number": 3, 
+  "introduced_at": "2003-06-10", 
+  "number": 159, 
+  "purpose": "An amendment numbered 3 printed in House Report 108-145, which strikes language in the bill which states that a bet or wager does not include \"any lawful transaction with a business licensed or authorized by a State.\".", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-10T18:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

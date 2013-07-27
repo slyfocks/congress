@@ -1,0 +1,47 @@
+<bill session="108" type="hc" number="518" updated="2013-07-14T19:03:11-04:00">
+  <state datetime="2004-10-10">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2004-10-10"/>
+  </status>
+  <introduced datetime="2004-10-09"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="400104"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2004-10-09T14:15:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H9174-9175" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-10-09T14:34:00-04:00" how="roll" result="pass" roll="527" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 204 - 169 (Roll no. 527).</text>
+      <reference ref="CR H9174" label="text"/>
+    </vote>
+    <action datetime="2004-10-09T14:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-10-09">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2004-10-10" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11068" label="consideration"/>
+      <reference ref="CR S11068" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2004-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="h" number="4818"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>10/10/2004--Passed Senate without amendment.
+Provides for an adjournment of the House of Representatives from October 9 or 10, 2004, until November 16, 2004, and a recess or an adjournment of the Senate on any day from October 9 through 15, 2004, until November 15 or 16, 2004.</summary>
+</bill>

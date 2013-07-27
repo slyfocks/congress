@@ -1,0 +1,77 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-13", 
+      "references": [
+        {
+          "reference": "CR S8202", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8202", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1221 proposed by Senator Gregg for Senator Hatch to Amendment SA 1171.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1221 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8253", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8253", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 1221, previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1221-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1171-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 1171
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-13", 
+  "number": 1221, 
+  "proposed_at": "2005-07-13", 
+  "purpose": "To clarify the source of funds allocated under Amendment No. 1171 to H.R. 2360.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hatch, Orrin G.", 
+    "state": "UT", 
+    "thomas_id": "01351", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-13", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

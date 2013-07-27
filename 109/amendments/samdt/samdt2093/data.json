@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "references": [
+        {
+          "reference": "CR S11613-11615, S11615-11616", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11613", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S11614", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 2093 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "references": [], 
+      "text": "Motion to table amendment SA 2093 agreed to in Senate by Yea-Nay Vote. 86 - 13. Record Vote Number: 260.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2093-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-18", 
+  "number": 2093, 
+  "proposed_at": "2005-10-20", 
+  "purpose": "To prohibit any funds under the Act from being used for a parking facility as part of the Joslyn Art Museum Master Plan, in Omaha, Nebraska.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-10-18", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

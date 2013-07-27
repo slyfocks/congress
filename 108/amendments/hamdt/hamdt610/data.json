@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-24T17:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 6/25/2004 H4975-4978, H4988-4989", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 6/25/2004 H4975-4977", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Chocola.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-24T18:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 306, 
+      "text": "On agreeing to the Chocola amendment (A002) Failed by recorded vote: 126 - 290 (Roll no. 306).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt610-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4663-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4663
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to replace the current 20 budget functions in the budget process with a one-page budget that divides spending into five categories.", 
+  "house_number": 2, 
+  "introduced_at": "2004-06-24", 
+  "number": 610, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-566 to replace the current 20 budget functions with a one-page budget that divides spending into five categories: mandatory spending, defense discretionary spending, non-defense descretionary spending, emergency spending, and interest on the debt. The emergency spending category would be composed of \"rainy day\" funds for specified occasions.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Chocola, Chris", 
+    "state": "IN", 
+    "thomas_id": "01726", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-24T18:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

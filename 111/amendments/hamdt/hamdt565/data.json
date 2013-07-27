@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T15:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H517-518", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H517", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Kissell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-04T11:06:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H560-561", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H560-561", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 41, 
+      "text": "On agreeing to the Kissell amendment (A021) Agreed to by recorded vote: 423 - 6 (Roll no. 41).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt565-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment instructs the National Science Foundation Director to include language in its Computer and Network Security Capacity Building Grants mission statement which highlights the importance of curriculum on the principles and techniques of designing secure software.", 
+  "house_number": 21, 
+  "introduced_at": "2010-02-03", 
+  "number": 565, 
+  "purpose": "An amendment numbered 21 printed in House Report 111-410 to instruct the National Science Foundation Director to include language in its Computer and Network Security Capacity Building Grants mission statement highlighting importance of curriculum on the principles and techniques of designing secure software.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Kissell, Larry", 
+    "state": "NC", 
+    "thomas_id": "01934", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-04T11:06:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

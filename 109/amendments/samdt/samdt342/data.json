@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-15", 
+      "references": [
+        {
+          "reference": "CR S3720-3721", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3721", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 342 proposed by Senator DeWine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3775", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3866", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3965, S4001", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S4001", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 342 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt342-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-12", 
+  "number": 342, 
+  "proposed_at": "2005-04-15", 
+  "purpose": "To provide additional assistance for Haiti.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeWine, Mike", 
+    "state": "OH", 
+    "thomas_id": "00293", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

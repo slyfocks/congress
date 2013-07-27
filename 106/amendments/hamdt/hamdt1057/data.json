@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-19T11:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10364", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10364", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Shuster.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19T11:40:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Shuster amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1057-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2796-106", 
+    "bill_type": "s", 
+    "congress": 106, 
+    "number": 2796
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment strikes sections 330 and 436 and make technical changes.", 
+  "house_number": 2, 
+  "introduced_at": "2000-10-19", 
+  "number": 1057, 
+  "purpose": "An amendment to strike sections 330 and 436 and make technical changes.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Shuster, Bud", 
+    "state": "PA", 
+    "thomas_id": "01055", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-10-19T11:40:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-12", 
+      "references": [
+        {
+          "reference": "CR S9332-9333", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9332", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4930 proposed by Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9454, S9469-9475", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9469-9475", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "references": [
+        {
+          "reference": "CR S9582, S9590-9603, S9607", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "references": [], 
+      "text": "Motion to table amendment SA 4930 made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "references": [], 
+      "text": "Motion to table amendment SA 4930 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 248.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4930-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-12", 
+  "number": 4930, 
+  "proposed_at": "2006-09-12", 
+  "purpose": "To improve maritime container security by ensuring that foreign ports participating in the Container Security Initiative scan all containers shipped to the United States for nuclear and radiological weapons before loading.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-09-12", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

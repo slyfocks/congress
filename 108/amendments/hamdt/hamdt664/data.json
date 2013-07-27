@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-09T14:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5453-5454, H5459-5460", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5453", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Larson (CT).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-09T15:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 357, 
+      "text": "On agreeing to the Larson (CT) amendment (A002) Failed by recorded vote: 170 - 189 (Roll no. 357).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt664-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3598-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3598
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to provide for the establishment of a Manufacturing and Technology Administration in the Department of Commerce.", 
+  "house_number": 2, 
+  "introduced_at": "2004-07-09", 
+  "number": 664, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-589 to re-orient the current Technology Administration (TA), the Undersecretary of Technology, and Office of Technology Policy (OTP) towards manufacturing and competitiveness issues; to rename and refocus TA by establishing a Manufacturing Administration, and Undersecretary of Manufacturing, and an Office of Industry Analysis; to require the Manufacturing Administration to conduct broad-based manufacturing and technology policy analysis; to coordinate with States, local governments, universities, on manufacturing and technology activities; finally, NIST and the National Technical Information Service would remain a part of the Manufacturing Administration.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Larson, John B.", 
+    "state": "CT", 
+    "thomas_id": "01583", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-09T15:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

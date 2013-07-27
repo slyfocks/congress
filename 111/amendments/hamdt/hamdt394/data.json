@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-30T10:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9082-9083, H9121", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9082", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-30T13:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 662, 
+      "text": "On agreeing to the Flake amendment (A003) Failed by recorded vote: 48 - 373 (Roll no. 662).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt394-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3326-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funding for the \"Drug Interdiction and Counter-Drug Activities, Defense\" account by reducing the appropriation by $160,000,000.", 
+  "house_number": 3, 
+  "introduced_at": "2009-07-30", 
+  "number": 394, 
+  "purpose": "An amendment numbered 3 printed in Part A of House Report 111-233 to prohibit funding for the `Drug Interdiction and Counter-Drug Activities, Defense' account by $160,000,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-30T13:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

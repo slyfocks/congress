@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-25T13:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5123-5125, H5129-5130", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5123", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Meehan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-25T14:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 323, 
+      "text": "On agreeing to the Meehan amendment (A007) Failed by recorded vote: 151 - 235 (Roll no. 323).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt629-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4614-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4614
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for the Department of Energy's Global Threat Reduction Initiative.", 
+  "house_number": 7, 
+  "introduced_at": "2004-06-25", 
+  "number": 629, 
+  "purpose": "An amendment to provide for a transfer of funds between NNSA and the non-proliferation account.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Meehan, Martin T.", 
+    "state": "MA", 
+    "thomas_id": "00788", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-25T14:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

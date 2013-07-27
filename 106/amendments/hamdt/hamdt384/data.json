@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-08-03T13:13:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A002) offered by Mr. Conyers to the Goodlatte amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-03T13:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Conyers amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt384-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt383-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 383
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2031-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2031
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Goodlatte amendment (A001) for description.", 
+  "house_number": 2, 
+  "introduced_at": "1999-08-03", 
+  "number": 384, 
+  "purpose": "An amendment to clarify that the injunction exemption to interactive services or electronic communications services does not apply to services that are engaged in any activity subject to the Act.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-08-03T13:32:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

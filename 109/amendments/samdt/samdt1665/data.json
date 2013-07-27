@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-08", 
+      "references": [
+        {
+          "reference": "CR S9795-9799", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9795-9796", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1665 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-09", 
+      "references": [
+        {
+          "reference": "CR S9865", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-12", 
+      "references": [
+        {
+          "reference": "CR S9899", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-13", 
+      "references": [
+        {
+          "reference": "CR S9948, S9949, S9965-9971", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "references": [
+        {
+          "reference": "CR S10003, S10012-10014", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-15", 
+      "references": [
+        {
+          "reference": "CR S10058, S10061, S10065", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 232, 
+      "text": "Amendment SA 1665 not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 232.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1665-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-08", 
+  "number": 1665, 
+  "proposed_at": "2005-09-08", 
+  "purpose": "To prohibit weakening any law that provides safeguards from unfair foreign trade practices.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-09-15", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-21", 
+      "references": [
+        {
+          "reference": "CR S10280", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10280", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1775 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 238, 
+      "text": "Amendment SA 1775 agreed to in Senate by Yea-Nay Vote. 55 - 39. Record Vote Number: 238.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1775-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-21", 
+  "number": 1775, 
+  "proposed_at": "2005-09-21", 
+  "purpose": "To require that any limitation, directive, or earmarking contained in either the House of Representatives or Senate report accompanying this bill be included in the conference report or joint statement accompanying the bill in order to be considered as having been approved by both House of Congress.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

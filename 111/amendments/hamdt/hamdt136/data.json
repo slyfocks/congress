@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-05-14T11:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5593-5594", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5593", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Kline (MN).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-14T12:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 260, 
+      "text": "On agreeing to the Kline (MN) amendment (A015) Failed by recorded vote: 149 - 257 (Roll no. 260).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt136-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2187-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to change the title of the bill.", 
+  "house_number": 15, 
+  "introduced_at": "2009-05-14", 
+  "number": 136, 
+  "purpose": "An amendment to amend the title of the bill.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Kline, John", 
+    "state": "MN", 
+    "thomas_id": "01733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-05-14T12:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

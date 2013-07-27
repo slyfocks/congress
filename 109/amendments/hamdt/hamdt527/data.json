@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-14T13:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7901-7903, H7922-7923", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Inglis (SC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14T15:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 468, 
+      "text": "On agreeing to the Inglis (SC) amendment (A008) Failed by recorded vote: 106 - 316 (Roll no. 468).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt527-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3132-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3132
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to remove the mandatory minimum incarceration provisions for sex offenders who fail to register under the provisions of the bill or make false statements.", 
+  "house_number": 8, 
+  "introduced_at": "2005-09-14", 
+  "number": 527, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to remove the mandatory minimum incarceration provisions for sex offenders who fail to register under the provisions of the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Inglis, Bob", 
+    "state": "SC", 
+    "thomas_id": "00582", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-09-14T15:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

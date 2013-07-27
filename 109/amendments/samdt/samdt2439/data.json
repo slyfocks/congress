@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-08", 
+      "references": [], 
+      "text": "Amendment SA 2439 proposed by Senator Warner for Senator Inhofe to Amendment SA 2438.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "references": [], 
+      "text": "Amendment SA 2439 was modified to reflect a first degree amendment by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12477-12478, S12479-12482", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12477", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2439 proposed by Senator Warner for Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 305, 
+      "text": "Amendment SA 2439 as modified agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 305.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2439-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-08", 
+  "number": 2439, 
+  "proposed_at": "2005-11-08", 
+  "purpose": "Relating to the American Forces Network.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

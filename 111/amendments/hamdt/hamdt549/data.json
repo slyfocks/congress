@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T13:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H506", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H506", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Roskam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-03T14:01:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Roskam amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt549-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment strengthens the involvement of community colleges in the development and implementation of a national cybersecurity strategy.", 
+  "house_number": 5, 
+  "introduced_at": "2010-02-03", 
+  "number": 549, 
+  "purpose": "An amendment numbered 5 printed in House Report 111-410 to strengthen the involvement of community colleges in the development and implementation of a national cybersecurity strategy.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Roskam, Peter J.", 
+    "state": "IL", 
+    "thomas_id": "01848", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-03T14:01:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25T16:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3294-3295, CR 5/26/2006 H3314-3315", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3294", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25T18:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 213, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A005) Failed by recorded vote: 173 - 249 (Roll no. 213).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt940-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide $3 million for the Citizen Corps program.", 
+  "house_number": 5, 
+  "introduced_at": "2006-05-25", 
+  "number": 940, 
+  "purpose": "And amendment to increase funding for the Office of Grants and Training by $3 million.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-25T18:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

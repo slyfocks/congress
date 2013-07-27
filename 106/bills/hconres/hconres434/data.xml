@@ -1,0 +1,72 @@
+<bill session="106" type="hc" number="434" updated="2013-07-14T18:55:27-04:00">
+  <state datetime="2000-10-30T14:16:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-30T14:16:00-05:00"/>
+  </status>
+  <introduced datetime="2000-10-24"/>
+  <titles>
+    <title as="introduced" type="official">Commending the men and women who fought the year 2000 wildfires for their heroic efforts in protecting human lives and safety and limiting property losses.</title>
+  </titles>
+  <sponsor id="400419"/>
+  <cosponsors>
+    <cosponsor id="400044" joined="2000-10-24"/>
+    <cosponsor id="400575" joined="2000-10-24"/>
+    <cosponsor id="400104" joined="2000-10-24"/>
+    <cosponsor id="400148" joined="2000-10-24"/>
+    <cosponsor id="400265" joined="2000-10-24"/>
+    <cosponsor id="400376" joined="2000-10-24"/>
+    <cosponsor id="400412" joined="2000-10-24"/>
+    <cosponsor id="400413" joined="2000-10-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-24">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2000-10-27">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-10-30T14:11:00-05:00">
+      <text>Mr. Hansen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-10-30T14:11:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11561-11563" label="consideration"/>
+    </action>
+    <action datetime="2000-10-30T14:11:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 434.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-30T14:16:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H11561-11562" label="text"/>
+    </vote>
+    <action datetime="2000-10-30T14:16:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-31">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Emergency management"/>
+    <term name="Fire fighters"/>
+    <term name="Fire prevention"/>
+    <term name="Forest fires"/>
+    <term name="Military civic action"/>
+    <term name="Military personnel"/>
+    <term name="Social welfare"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>10/24/2000--Introduced.
+Commends the men and women who fought wildfires on public lands during the 2000 wildfire season. Mourns the loss of life of the 16 persons who died while defending the fire lines.</summary>
+</bill>

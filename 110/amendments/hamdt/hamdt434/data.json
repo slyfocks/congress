@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-26T20:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7185-7186", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7185-7186", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-27T16:29:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7251-7252", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 566, 
+      "text": "On agreeing to the Campbell (CA) amendment (A040) Failed by recorded vote: 97 - 330 (Roll no. 566).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt434-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 40, 
+  "introduced_at": "2007-06-26", 
+  "number": 434, 
+  "purpose": "An amendment to prohibit funds to be used for the Conte Anadromous Fish Laboratory.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-27T16:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

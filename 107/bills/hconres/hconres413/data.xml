@@ -1,0 +1,84 @@
+<bill session="107" type="hc" number="413" updated="2013-07-14T18:59:02-04:00">
+  <state datetime="2002-07-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2002-07-19"/>
+  </status>
+  <introduced datetime="2002-06-05"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the invention of modern air-conditioning by Dr. Willis H. Carrier on the occasion of its 100th anniversary.</title>
+  </titles>
+  <sponsor id="400420"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="2002-06-25"/>
+    <cosponsor id="400067" joined="2002-06-20"/>
+    <cosponsor id="400084" joined="2002-06-20"/>
+    <cosponsor id="400091" joined="2002-06-11"/>
+    <cosponsor id="400160" joined="2002-06-11"/>
+    <cosponsor id="400535" joined="2002-07-08"/>
+    <cosponsor id="400165" joined="2002-06-18"/>
+    <cosponsor id="400188" joined="2002-06-27"/>
+    <cosponsor id="400212" joined="2002-06-27"/>
+    <cosponsor id="400264" joined="2002-06-25"/>
+    <cosponsor id="400310" joined="2002-06-24"/>
+    <cosponsor id="400338" joined="2002-07-08"/>
+    <cosponsor id="400367" joined="2002-06-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-06-05">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2002-07-15T14:51:00-04:00">
+      <text>Mr. Shays moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-07-15T14:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4589-4591" label="consideration"/>
+    </action>
+    <action datetime="2002-07-15T14:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 413.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-07-15T15:02:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4589" label="text"/>
+    </vote>
+    <action datetime="2002-07-15T15:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-07-16">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2002-07-19">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S7126" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2002-07-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2002-07-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="sc" number="128"/>
+    <bill relation="unknown" session="107" type="sc" number="128"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Air conditioning"/>
+    <term name="Anniversaries"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Housing and community development"/>
+    <term name="Intellectual property"/>
+    <term name="Inventions"/>
+    <term name="Inventors"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2002--Passed House without amendment.
+Honors the invention of modern air-conditioning by Dr. Willis H. Carrier on the occasion of its 100th anniversary.</summary>
+</bill>

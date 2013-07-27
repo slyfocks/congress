@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-08T21:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7822-7823", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7822", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T11:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7849", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7849", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 505, 
+      "text": "On agreeing to the Flake amendment (A010) Failed by recorded vote: 115 - 319 (Roll no. 505).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt302-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2997-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2997
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funds in the bill from being used for the Foundry Sand By-Products Utilization project in Beltsville, MD and sought to reduce funding under the heading \"Agricultural Research Service--Salaries and Expenses\" by the amount that was to have been spent on the Foundry Sand By-Products Utilization project in Beltsville, MD.", 
+  "house_number": 10, 
+  "introduced_at": "2009-07-08", 
+  "number": 302, 
+  "purpose": "An amendment numbered 9 printed in part D of House Report 111-191 to prohibit certain funds in the bill from being used for the Foundry Sand By-Products Utilization project in Beltsville, MD and reduces funds under the heading \"Agricultural Research Service--Salaries and Expenses\" by the amount that was to have been spent on the Foundry Sand By-Products Utilization project in Beltsville, MD.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-09T11:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T19:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5432-5436, H5445-5446", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5432", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Roskam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-17T21:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 382, 
+      "text": "On agreeing to the Roskam amendment (A009) Failed by recorded vote: 173 - 245 (Roll no. 382).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt211-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to limit contributions to the affordable housing fund when the government has an actual on-budget deficit and an actual off-budget surplus.", 
+  "house_number": 9, 
+  "introduced_at": "2007-05-17", 
+  "number": 211, 
+  "purpose": "An amendment numbered 27 printed in the Congressional Record to add a new paragraph limiting contributions to affordable housing fund when the government has an on-budget and an off-budget surplus.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Roskam, Peter J.", 
+    "state": "IL", 
+    "thomas_id": "01848", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-17T21:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

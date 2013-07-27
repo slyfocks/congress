@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-15T16:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8153-8155", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8153-8154", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T14:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8334-8335", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8334", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 586, 
+      "text": "On agreeing to the Flake amendment (A017) Failed by recorded vote: 81 - 341 (Roll no. 586).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt336-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3183-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $300,000 earmark for Whitworth University Stem Equipment.", 
+  "house_number": 17, 
+  "introduced_at": "2009-07-15", 
+  "number": 336, 
+  "purpose": "An amendment numbered 10 printed in Part C of House Report 111-209 to strike $300,000 in funding for `Whitworth University Stem Equipment' and reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T14:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-16T18:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5251-5252, H5265", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5251", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-16T20:28:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 365, 
+      "text": "On agreeing to the DeFazio amendment (A005) Failed by recorded vote: 136 - 288 (Roll no. 365).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt187-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1585-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1585
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to add language to clarify that no previous authorization constitutes an authorization to use force against Iran; and make certain that no funds would be used to take military action against Iran in the absence of specific congressional authority or a direct attack.", 
+  "house_number": 5, 
+  "introduced_at": "2007-05-16", 
+  "number": 187, 
+  "purpose": "An amendment numbered 14 printed in House Report 110-151 to clarify that no previously enacted law authorizes military action against Iran. It also prohibits funding authorized by the bill or in any other act from being used to take military action against Iran without specific authorization from Congress unless there is a `national emergency created by an attack by Iran upon the United States, its territories or possessions or its armed forces' (language taken directly from the War Powers Resolution, P.L. 93-148).", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-16T20:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

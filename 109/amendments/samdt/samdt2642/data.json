@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-17", 
+      "references": [
+        {
+          "reference": "CR S13120, S13129", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2642 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 2642 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2642-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2020-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-17", 
+  "number": 2642, 
+  "proposed_at": "2005-11-17", 
+  "purpose": "To provide for a tax credit for offering employer-based health insurance coverage.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-17", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

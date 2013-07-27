@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2062-2066, S2092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2062", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3011 proposed by Senator Talent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3011 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3011-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-13", 
+  "number": 3011, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To increase funding for defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Talent, Jim", 
+    "state": "MO", 
+    "thomas_id": "01135", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-14", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25T19:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/26/2006 H3320-3321", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 5/26/2005 H3320", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Poe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25T19:44:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Poe amendment (A016) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt951-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for Immigration and Customs Enforcement by $41 million to facilitate agreements under the 287(g) program for state and local law enforcement training, and agreements to enforce Federal immigration law.", 
+  "house_number": 16, 
+  "introduced_at": "2006-05-25", 
+  "number": 951, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to increase funds (by offset) for Immigration and Customs Enforcement by $41 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-25T19:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

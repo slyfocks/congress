@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-17T13:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3256-3265", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3256-3257", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Kasich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-17T15:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 193, 
+      "text": "On agreeing to the Kasich amendment (A001) Agreed to by recorded vote: 264 - 153 (Roll no. 193).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt714-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment conditions the continued deployment of United States ground combat forces in Kosovo on Presidential certification of certain burdensharing goals for the European Commission, members of the European Union, and European members of NATO.", 
+  "house_number": 1, 
+  "introduced_at": "2000-05-17", 
+  "number": 714, 
+  "purpose": "An amendment numbered 1 printed in House Report 106-621 to make the U.S. ground forces in Kosovo conditional on presidentially-certified progress by our European allies; to require the President, before April 1, 2001, to submit a report on commitment and delivery of certain types of aid to Kosovo by the European Commission, members of the European Union, and European members of NATO; and to require the President to certify by that date that these nations and organizations have met a specified percentage of their aid pledges.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Kasich, John R.", 
+    "state": "OH", 
+    "thomas_id": "00618", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-17T15:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

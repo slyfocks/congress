@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T12:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7049-7051, H7076", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7049", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Gallegly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T19:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 382, 
+      "text": "On agreeing to the Gallegly amendment (A012) Failed by recorded vote: 163 - 255 (Roll no. 382).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt263-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit any funding to administer any action related to the baiting of bears except to prevent or prohibit such activity.", 
+  "house_number": 12, 
+  "introduced_at": "2003-07-17", 
+  "number": 263, 
+  "purpose": "An amendment to restrict the use of funds by the Forest Service or the Bureau of Land Management to administer any action related to the baiting of bears except to prevent or prohibit such activity.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Gallegly, Elton", 
+    "state": "CA", 
+    "thomas_id": "00425", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T19:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

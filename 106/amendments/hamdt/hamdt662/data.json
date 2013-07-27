@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-06T13:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1914-1917", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1914", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-06T13:48:00-04:00", 
+      "references": [], 
+      "text": "Shays amendment (A008) modified by unanimous consent. The modification changes the dollar figure proposed to be inserted from $292 million to $275 million.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-06T13:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1916", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "On agreeing to the Shays amendment (A008) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt662-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1776-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1776
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment, as modified, increases funding for the Housing Opportunities for Persons with AIDS program from $260 million to $275 million for FY 2001.", 
+  "house_number": 8, 
+  "introduced_at": "2000-04-06", 
+  "number": 662, 
+  "purpose": "An amendment numbered 8 printed in House Report 106-562 to increase the funding authorization for the Housing Opportunities for Persons with AIDS (HOPWA) program from $260 million to $292 million for FY 2001.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-04-06", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

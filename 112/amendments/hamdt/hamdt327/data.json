@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T20:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3660-3663", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3660", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Amash.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T13:20:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3726-3727", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 361, 
+      "text": "On agreeing to the Amash amendment (A027) Failed by recorded vote: 187 - 234 (Roll no. 361).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt327-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike section 1034 of the bill which embodies the Authorization for Use of Military Force.", 
+  "house_number": 27, 
+  "introduced_at": "2011-05-25", 
+  "number": 327, 
+  "purpose": "An amendment numbered 50 printed in House Report 112-88 to strike section 1034 of the bill, relating to the authorization for use of military force.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Amash, Justin", 
+    "state": "MI", 
+    "thomas_id": "02029", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-26T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

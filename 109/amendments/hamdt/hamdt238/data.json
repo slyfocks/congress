@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-08T16:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4257-4258, H4262-4263", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4257", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Chabot.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T18:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 235, 
+      "text": "On agreeing to the Chabot amendment (A015) Failed by recorded vote: 66 - 356 (Roll no. 235).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt238-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds from being used to carry out activities in the Market Access Program.", 
+  "house_number": 15, 
+  "introduced_at": "2005-06-08", 
+  "number": 238, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to prohibit the use of funds from being made available to carry out section 203 of the Agriculture Trade Act of 1978 or to pay the salaries and expenses of personnel who carry out a market program under such section.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-08T18:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

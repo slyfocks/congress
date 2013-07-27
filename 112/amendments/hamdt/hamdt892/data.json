@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-02T10:42:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8096-8097, H8101-8102", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8096", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-02T11:37:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 885, 
+      "text": "On agreeing to the Nadler amendment (A005) Failed by recorded vote: 174 - 247 (Roll no. 885).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt892-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt actions by the Nuclear Regulatory Commission under the Atomic Energy Act from the provisions of the bill.", 
+  "house_number": 5, 
+  "introduced_at": "2011-12-02", 
+  "number": 892, 
+  "purpose": "An amendment numbered 6 printed in Part B of House Report 112-296 to exempt from the Act actions by the Nuclear Regulatory Commission under the Atomic Energy Act.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-12-02T11:37:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

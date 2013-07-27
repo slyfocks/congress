@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-03T19:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2785-2787", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2785", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-03T19:15:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the DeFazio amendment (A015) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt44-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1559-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1559
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 15, 
+  "introduced_at": "2003-04-03", 
+  "number": 44, 
+  "purpose": "An amendment which states that none of the funds in this Act may be used to initiate or launch military actions except as authorized by Article I, Section 8 of the U.S. Consttution.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-03T19:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

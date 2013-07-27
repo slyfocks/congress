@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T13:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7650-7654, H7714", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7650-7651", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T18:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 458, 
+      "text": "On agreeing to the Toomey amendment (A001) Failed by the Yeas and Nays: 111 - 300 (Roll no. 458).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt325-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2859-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2859
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to offset $984 million in funding with an across-the-board reduction in all discretionary spending programs except defense, homeland security, and veterans programs.", 
+  "house_number": 1, 
+  "introduced_at": "2003-07-25", 
+  "number": 325, 
+  "purpose": "An amendment made in order pursuant to the provisions of H. Res. 339 to provide for a $983.6 million rescission from all discretionary accounts.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-25T18:30:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

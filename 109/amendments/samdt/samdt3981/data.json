@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-16", 
+      "references": [
+        {
+          "reference": "CR S4600-4603", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4600", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3981 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-16", 
+      "references": [], 
+      "text": "Motion to table amendment SA 3981 rejected in Senate by Yea-Nay Vote. 18 - 79. Record Vote Number: 124.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-16", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3981 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3981-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-15", 
+  "number": 3981, 
+  "proposed_at": "2006-05-16", 
+  "purpose": "To reduce the number of H-2C nonimmigrants to 200,000 during any fiscal year.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-16", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T12:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4699-4701", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4699", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Thompson (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T12:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Thompson (CA) amendment (A022) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1119-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides $2 million to the National Oceanic and Atmospheric Administration Fisheries Operational Account.", 
+  "house_number": 22, 
+  "introduced_at": "2006-06-28", 
+  "number": 1119, 
+  "purpose": "An amendment to provide an additional $2 million (by transfer) for the West Coast commercial salmon industry.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "thomas_id": "01593", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-28T12:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

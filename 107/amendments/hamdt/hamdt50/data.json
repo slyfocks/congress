@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-22T15:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2535-2536, H2542", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2535", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-22T16:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 133, 
+      "text": "On agreeing to the Vitter amendment (A008) Agreed to by recorded vote: 366 - 57 (Roll no. 133).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt50-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 8, 
+  "introduced_at": "2001-05-22", 
+  "number": 50, 
+  "purpose": "An amendment numbered 8 printed in House Report 107-69 to require those secondary education institutions that accept federal funds to allow military recruiters to visit the school.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-22T16:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

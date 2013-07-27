@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-17T14:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8341-8342", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8341-8342", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Berman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T14:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Berman amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt360-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres156-111", 
+    "bill_type": "hconres", 
+    "congress": 111, 
+    "number": 156
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment inserted a new preamble.", 
+  "house_number": 1, 
+  "introduced_at": "2009-07-17", 
+  "number": 360, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "28", 
+    "name": "Berman, Howard L.", 
+    "state": "CA", 
+    "thomas_id": "00082", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-07-17T14:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

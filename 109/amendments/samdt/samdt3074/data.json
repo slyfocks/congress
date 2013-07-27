@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2229-2230, S2254", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2229-2230", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3074 proposed by Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 57, 
+      "text": "Amendment SA 3074 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 57.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3074-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3074, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To increase funding for the Low-Income Home Energy Assistance Program by $3,318,000,000 for fiscal year 2007, increasing the funds available to carry out that program to the fully authorized level of $5,100,000,000, to be paid for by closing corporate tax loopholes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-09T17:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8047-8048", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8047", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Peterson (PA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-09T17:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Peterson (PA) amendment (A027) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt380-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2989-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2989
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 27, 
+  "introduced_at": "2003-09-09", 
+  "number": 380, 
+  "purpose": "An amendment to appropriate $63,000,000 to be derived from the airport and airway trust fund to carry out the essential air service program.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Peterson, John E.", 
+    "state": "PA", 
+    "thomas_id": "01512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-09-09T17:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

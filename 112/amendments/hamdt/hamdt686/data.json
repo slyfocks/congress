@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T16:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5329-5330", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5329", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-21T16:45:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Maloney amendment (A001) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt686-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1315-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1315
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike Section 1023 of the Dodd-Frank Act giving the Financial Stability Oversight Council the ability to override Consumer Financial Protection Bureau rules.", 
+  "house_number": 1, 
+  "introduced_at": "2011-07-21", 
+  "number": 686, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-172 to strike Section 1023 of the Dodd-Frank Act giving the Financial Stability Oversight Council the ability to override Consumer Financial Protection Bureau rules.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-21T16:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

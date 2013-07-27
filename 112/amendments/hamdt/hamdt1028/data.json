@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-26T16:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2174-2175, H2182-2183", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2174", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Goodlatte.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-26T17:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 189, 
+      "text": "On agreeing to the Goodlatte amendment (A010) Agreed to by recorded vote: 414 - 1 (Roll no. 189).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1028-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3523-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3523
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment narrows definitions in the bill regarding what information may be identified, obtained, and shared.", 
+  "house_number": 10, 
+  "introduced_at": "2012-04-26", 
+  "number": 1028, 
+  "purpose": "An amendment numbered 13 printed in House Report 112-454 to narrow definitions in the bill regarding what information may be identified, obtained, and shared.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-26T17:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

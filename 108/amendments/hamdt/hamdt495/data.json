@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01T14:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1986-1988", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1986", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-01T17:23:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 4/2/2004 H2032", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 107, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A004) Failed by recorded vote: 50 - 376 (Roll no. 107).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt495-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3550-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3550
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to change the calculation of toll credits by basing them on the proportion of non-Federal investment in toll projects.", 
+  "house_number": 4, 
+  "introduced_at": "2004-04-01", 
+  "number": 495, 
+  "purpose": "An amendment numbered 4 printed in part B of House Report 108-456 to allow states to receive toll credits for any local, state or private funds contributed to a toll project that exceeds the minimum non-federal 20% threshold required for federal match.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-04-01T17:23:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

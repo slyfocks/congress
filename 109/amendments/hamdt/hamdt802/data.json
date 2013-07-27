@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-04T13:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2148-2150", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2148", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Ms. Sanchez, Loretta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04T13:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 125, 
+      "text": "On agreeing to the Sanchez, Loretta amendment (A015) Failed by recorded vote: 195 - 230 (Roll no. 125).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt802-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to stop the practice of granting risk score reductions for nonvalidated Customs-Trade Partnership Against Terrorism or C-TPAT companies.", 
+  "house_number": 15, 
+  "introduced_at": "2006-05-04", 
+  "number": 802, 
+  "purpose": "An amendment numbered 15 printed in House Report 109-450 to prohibit the current Customs and Border Protection (CBP) practice of granting automated targeting risk score reductions to Customs Trade Partnership Against Terrorism (C-TPAT) members that have not received CBP validation of the implementation and effectiveness of their security measures.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-04T13:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

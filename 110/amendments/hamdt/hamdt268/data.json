@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-14T22:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6429-6431", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6429", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Pearce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T10:19:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6487", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 475, 
+      "text": "On agreeing to the Pearce amendment (A018) Failed by recorded vote: 96 - 327 (Roll no. 475).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt268-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding, by offset, for the United States Customs and Border Protection Salaries and Expenses account by $125 million.", 
+  "house_number": 18, 
+  "introduced_at": "2007-06-14", 
+  "number": 268, 
+  "purpose": "An amendment numbered 128 printed in the Congressional Record to increase funds (by transfer) to the United States Customs and Border Protection Salaries and Expenses by $125 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T10:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

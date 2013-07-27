@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-05-22T14:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4745-4746, 5/23/2008 H4787", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4745", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Akin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-22T17:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 355, 
+      "text": "On agreeing to the Akin amendment Failed by recorded vote: 128 - 287 (Roll no. 355).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1048-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5658-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 5658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding (by offset) for Future Combat Systems by $193 million.", 
+  "house_number": 3, 
+  "introduced_at": "2008-05-22", 
+  "number": 1048, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-666 to increase funding (by offset) for Future Combat Systems by $193 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Akin, W. Todd", 
+    "state": "MO", 
+    "thomas_id": "01655", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-05-22T17:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-25T22:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7427-7428", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7427", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Heller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-26T11:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7464", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7464", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 467, 
+      "text": "On agreeing to the Heller amendment (A004) Failed by recorded vote: 202 - 225 (Roll no. 467).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt278-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2996-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2996
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funds made available by this Act from being spent to build an interagency facility in one specific location in Carson City, Nevada.", 
+  "house_number": 4, 
+  "introduced_at": "2009-06-25", 
+  "number": 278, 
+  "purpose": "An amendment numbered 3 printed in part B of House Report 111-184 to prohibit funds made available by this Act from being spent to build an interagency facility in one specific location in Carson City, Nevada.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-26T11:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

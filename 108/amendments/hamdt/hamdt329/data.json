@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T14:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7683-7684", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7683", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Dingell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T14:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Dingell amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt329-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2861-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases funding for the EPA Office of Enforcement by $1 million for enforcement of bilateral agreements.", 
+  "house_number": 4, 
+  "introduced_at": "2003-07-25", 
+  "number": 329, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record regarding environmental programs and management.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dingell, John D.", 
+    "state": "MI", 
+    "thomas_id": "00299", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-25T14:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

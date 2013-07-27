@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-07T19:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4735-4736", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4735", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-08T11:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4765-4766", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 525, 
+      "text": "On agreeing to the Flake amendment (A061) Failed by recorded vote: 39 - 380 (Roll no. 525).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt566-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 61, 
+  "introduced_at": "2011-07-07", 
+  "number": 566, 
+  "purpose": "An amendment to reduce funds made available by this Act for \"Operation and Maintenance, Defense-Wide\" by $250,000,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-08T11:01:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

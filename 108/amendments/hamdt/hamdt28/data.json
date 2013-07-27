@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-02T12:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2634-2642", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2634-2642", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment in the nature of a substitute reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-02T12:42:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt28-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr743-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 743
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2003-04-02", 
+  "number": 28, 
+  "purpose": "An amendment in the nature of a substitute printed in the bill and considered as adopted pursuant to the provisions of H. Res. 168, for use as original text.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-04-02T12:42:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

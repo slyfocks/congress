@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-12T15:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4900-4902, H4917-4918", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T17:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 555, 
+      "text": "On agreeing to the Flake amendment (A004) Failed by recorded vote: 118 - 305 (Roll no. 555).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt616-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1309-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike additional flood-related coverage provided in H.R. 1309 for interruption of cost-of-living expenses and business expenses ($5,000 and $20,000, respectively).", 
+  "house_number": 4, 
+  "introduced_at": "2011-07-12", 
+  "number": 616, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-138 to strike additional coverage provided in H.R. 1309 for business interruption and cost of living expenses.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T17:35:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

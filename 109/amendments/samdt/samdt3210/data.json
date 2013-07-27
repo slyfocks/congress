@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-30", 
+      "references": [
+        {
+          "reference": "CR S2589-2590", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2589", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3210 proposed by Senator Bingaman to Amendment SA 3192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-31", 
+      "references": [
+        {
+          "reference": "CR S2681", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-03", 
+      "references": [
+        {
+          "reference": "CR S2699, S2719-2722", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-03", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2719-2720", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 84, 
+      "text": "Amendment SA 3210 as modified agreed to in Senate by Yea-Nay Vote. 84 - 6. Record Vote Number: 84.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3210-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3192-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3192
+  }, 
+  "amends_bill": {
+    "bill_id": "s2454-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2454
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-30", 
+  "number": 3210, 
+  "proposed_at": "2006-03-30", 
+  "purpose": "To provide financial aid to local law enforcement officials along the Nation's borders, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-03", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

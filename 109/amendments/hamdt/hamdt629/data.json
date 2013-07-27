@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-17T22:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10544", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10544", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Putnam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17T22:24:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Putnam amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt629-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres560-109", 
+    "bill_type": "hres", 
+    "congress": 109, 
+    "number": 560
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment ensures that recipients of noncash TANF benefits will continue to be categorically eligible for food stamps and addresses high growth States with regard to Medicaid transformation.", 
+  "house_number": 1, 
+  "introduced_at": "2005-11-17", 
+  "number": 629, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "12", 
+    "name": "Putnam, Adam H.", 
+    "state": "FL", 
+    "thomas_id": "01645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-17T22:24:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

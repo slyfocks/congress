@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-30T13:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3517-3519, H3524", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3517", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mrs. Musgrave.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-30T15:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 152, 
+      "text": "On agreeing to the Musgrave amendment (A006) Failed by recorded vote: 176 - 247 (Roll no. 152).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt92-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1350-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1350
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to give school districts the option of offering parents of disabled children in private schools a certificate to be used for their child's specific special education needs.", 
+  "house_number": 6, 
+  "introduced_at": "2003-04-30", 
+  "number": 92, 
+  "purpose": "An amendment numbered 6 printed in House Report 108-79 allows school districts the option of offering parents of disabled children in private schools a certificate to be used for their child's specific special education needs. The amount of the certificate would be equivalent to the per-pupil proportionate IDEA dollars generated to the school district by private school children. Certificates could be redeemed at eligible providers that meet health, safety and civil rights laws and are fiscally sound.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Musgrave, Marilyn N.", 
+    "state": "CO", 
+    "thomas_id": "01711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-30T15:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

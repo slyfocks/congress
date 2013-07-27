@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-11-05T16:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10417-10420, H10423-10424", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10417", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-05T17:42:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 604, 
+      "text": "On agreeing to the DeFazio amendment (A002) Failed by recorded vote: 199 - 221 (Roll no. 604).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt437-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2443-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2443
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to place a restriction on the location for the National Coast Guard Museum authorized in the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2003-11-05", 
+  "number": 437, 
+  "purpose": "An amendment to add a restriction on location regarding a museum established under the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-11-05T17:42:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

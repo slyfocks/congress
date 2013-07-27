@@ -1,0 +1,77 @@
+<bill session="108" type="h" number="2526" updated="2013-07-14T19:01:32-04:00">
+  <state datetime="2003-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2003-06-19"/>
+  </status>
+  <introduced datetime="2003-06-19"/>
+  <titles>
+    <title as="introduced" type="short">Restoration of Freedom of Information Act of 2003</title>
+    <title as="introduced" type="official">To amend the Homeland Security Act of 2002 (Public Law 107-296) to provide for the protection of voluntarily furnished confidential information, and for other purposes.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors>
+    <cosponsor id="400262" joined="2003-07-14"/>
+    <cosponsor id="400413" joined="2003-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-06-19">
+      <text>Referred to the Committee on Government Reform, and in addition to the Committee on Homeland Security (Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2003-06-19">
+      <text>Referred to House Government Reform</text>
+    </action>
+    <action datetime="2003-06-19">
+      <text>Referred to House Homeland Security</text>
+      <reference ref="Select"/>
+    </action>
+    <action datetime="2003-06-27">
+      <text>Referred to the Subcommittee on Infrastructure and Border Security.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+    <action datetime="2003-06-27">
+      <text>Referred to the Subcommittee on Intelligence and Counterterrorism.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+    <action datetime="2003-06-27">
+      <text>Referred to the Subcommittee on Cybersecurity, Science, and Research and Development.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+    <action datetime="2003-07-02">
+      <text>Referred to the Subcommittee on Technology, Information Policy, Intergovernmental Relations and the Census.</text>
+      <committee name="House Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO20" subcommittee="Technology, Information Policy, Intergovernmental Relations and the Census" name="House Government Reform"/>
+    <committee code="HSHM" name="House Homeland Security (Select)" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM01" subcommittee="Infrastructure and Border Security" name="House Homeland Security (Select)"/>
+    <committee activity="Referral" code="HSHM05" subcommittee="Intelligence and Counterterrorism" name="House Homeland Security (Select)"/>
+    <committee activity="Referral" code="HSHM04" subcommittee="Cybersecurity, Science, and Research and Development" name="House Homeland Security (Select)"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="609"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business records"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Confidential communications"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Crime and law enforcement"/>
+    <term name="EBB Terrorism"/>
+    <term name="Freedom of information"/>
+    <term name="Infrastructure"/>
+    <term name="Infrastructure (Economics)"/>
+    <term name="International affairs"/>
+    <term name="Law"/>
+    <term name="Public records"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2003--Introduced.
+Restoration of Freedom of Information Act of 2003 - Amends the Homeland Security Act of 2002 to prohibit a record pertaining to the vulnerability of and threats to critical infrastructure that is furnished voluntarily to the Department of Homeland Security from being made available to the public under the Freedom of Information Act if: (1) the provider would not customarily make the record available to the public; and (2) the record is designated and certified by the provider as confidential and not customarily made available to the public. Prohibits other Federal agencies in receipt of such a record furnished to the Department from making the record publicly available. Allows a provider to withdraw the confidential designation of a record at any time.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="107" type="hc" number="340" updated="2013-07-14T18:59:01-04:00">
+  <state datetime="2002-06-17T19:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-06-17T19:09:00-04:00"/>
+  </status>
+  <introduced datetime="2002-03-06"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of Meningitis Awareness Month.</title>
+  </titles>
+  <sponsor id="400113"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2002-04-09"/>
+    <cosponsor id="400143" joined="2002-04-16"/>
+    <cosponsor id="400194" joined="2002-04-09"/>
+    <cosponsor id="400208" joined="2002-04-09"/>
+    <cosponsor id="400513" joined="2002-06-04"/>
+    <cosponsor id="400306" joined="2002-04-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-06">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2002-06-17T14:54:00-04:00">
+      <text>Mr. Mica moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-06-17T14:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H3576-3578" label="consideration"/>
+    </action>
+    <action datetime="2002-06-17T14:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 340.</text>
+    </action>
+    <action datetime="2002-06-17T15:07:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-06-17T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref=" CR H3579-3580" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-06-17T19:09:00-04:00" how="roll" result="pass" roll="232" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 360 - 0 (Roll no. 232).</text>
+      <reference ref=" CR H3576-3577" label="text"/>
+    </vote>
+    <action datetime="2002-06-17T19:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-06-18">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Bacterial diseases"/>
+    <term name="Brain diseases"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Special months"/>
+    <term name="Virus diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2002--Passed House without amendment.
+Expresses the support of Congress for the goals and ideals of Meningitis Awareness Month.</summary>
+</bill>

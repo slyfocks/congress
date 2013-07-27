@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T00:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 2/16/2011 H1031-1032", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 2/16/2011 H1031", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A054) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T10:59:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1086", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 75, 
+      "text": "On agreeing to the Price (GA) amendment (A054) Failed by recorded vote: 176 - 250 (Roll no. 75).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt64-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to eliminate funding for the National Labor Relations Board and apply the savings to the spending reduction account.", 
+  "house_number": 54, 
+  "introduced_at": "2011-02-17", 
+  "number": 64, 
+  "purpose": "An amendment numbered 410 printed in the Congressional Record to eliminate funding for the National Labor Relations Board.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-17T10:59:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

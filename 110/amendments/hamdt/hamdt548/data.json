@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T17:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8050-8052, H8094-8095", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8050", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A039) offered by Mr. Shadegg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T21:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 661, 
+      "text": "On agreeing to the Shadegg amendment (A039) Failed by recorded vote: 96 - 334 (Roll no. 661).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt548-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to eliminate funding for the AmeriCorps program.", 
+  "house_number": 39, 
+  "introduced_at": "2007-07-18", 
+  "number": 548, 
+  "purpose": "An amendment numbered 17 printed in the Congressional Record reduce appropriations for the Corporation for National and Community Service.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Shadegg, John B.", 
+    "state": "AZ", 
+    "thomas_id": "01043", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T21:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

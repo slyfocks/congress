@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T22:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3557-3558, H3573-3574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3557", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Higgins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:42:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3573-3574", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 356, 
+      "text": "On agreeing to the Higgins amendment (A023) Failed by recorded vote: 150 - 266 (Roll no. 356).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1254-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funds for FEMA State and local grant programs (to increase eligibility for the Urban Areas Security Initiatives) by $58 million and to reduce the Science and Technology Research, Development, Acquistion, and Operations account by a similar amount.", 
+  "house_number": 23, 
+  "introduced_at": "2012-06-06", 
+  "number": 1254, 
+  "purpose": "An amendment to to increase the State and Local Programs within the Federal Emergency Management Agency account by $58 million and reducing the Science and Technology Research, Development, Acquistion, and Operations account by $58 million.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Higgins, Brian", 
+    "state": "NY", 
+    "thomas_id": "01794", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T23:42:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

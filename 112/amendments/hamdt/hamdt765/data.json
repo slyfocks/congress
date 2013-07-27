@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T20:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5644-5645", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5644", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A042) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-28T14:38:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5690-5691", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 667, 
+      "text": "On agreeing to the Gosar amendment (A042) Failed by recorded vote: 130 - 295 (Roll no. 667).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt765-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the Collaborative Forest Landscape Restoration Program by $10 million and to decrease funding for the Wildland Fire Management-Hazardous Fuel Account by $16.6 million.", 
+  "house_number": 42, 
+  "introduced_at": "2011-07-27", 
+  "number": 765, 
+  "purpose": "An amendment to increase the National Forest System/Collaborative Forest Landscape Restoration program by $10 million.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-28T14:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

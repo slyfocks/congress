@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-30T13:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5029", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5029", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Minnick.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30T13:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Minnick amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt100-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr627-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment provides that the amount of a balance following a notice of a rate increase would be protected from the rate of increase as of the 7-day mark instead of the 14-day mark.", 
+  "house_number": 11, 
+  "introduced_at": "2009-04-30", 
+  "number": 100, 
+  "purpose": "An amendment numbered 11 printed in House Report 111-92 to provide that the amount of a balance as of the 7-day mark, instead of the 14-day mark, following a notice of a rate increase would be protected from the rate increase.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Minnick, Walter", 
+    "state": "ID", 
+    "thomas_id": "01918", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-30T13:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

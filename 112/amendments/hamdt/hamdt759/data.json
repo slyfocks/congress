@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T18:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5636-5637", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5636", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-28T14:19:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5688-5689", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 664, 
+      "text": "On agreeing to the Blackburn amendment (A036) Failed by recorded vote: 114 - 314 (Roll no. 664).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt759-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the Diesel Emissions Reduction (DERA) program by $30 million and to apply the savings to the spending reduction account.", 
+  "house_number": 36, 
+  "introduced_at": "2011-07-27", 
+  "number": 759, 
+  "purpose": "An amendment to reduce the State and Tribal Assistance Grants account by $30 million an applies the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-28T14:19:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

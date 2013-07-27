@@ -1,0 +1,84 @@
+<bill session="106" type="hc" number="205" updated="2013-07-14T18:55:22-04:00">
+  <state datetime="1999-11-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-11-19"/>
+  </status>
+  <introduced datetime="1999-10-25"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing and honoring the heroic efforts of the Air National Guard's 109th Airlift Wing and its rescue of Dr. Jerri Nielsen from the South Pole.</title>
+  </titles>
+  <sponsor id="400268"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="1999-11-09"/>
+    <cosponsor id="400027" joined="1999-11-03"/>
+    <cosponsor id="400143" joined="1999-11-03"/>
+    <cosponsor id="400148" joined="1999-11-09"/>
+    <cosponsor id="400163" joined="1999-11-03"/>
+    <cosponsor id="400240" joined="1999-11-03"/>
+    <cosponsor id="400508" joined="1999-11-03"/>
+    <cosponsor id="400264" joined="1999-11-03"/>
+    <cosponsor id="400425" joined="1999-11-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-25">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1999-11-09T10:36:00-05:00">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <action datetime="1999-11-09T10:36:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H11717-11718" label="consideration"/>
+    </action>
+    <action datetime="1999-11-09T10:36:00-05:00">
+      <text>Mr. Reynolds asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-09T10:40:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1999-11-09T10:40:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-11-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S14929" label="consideration"/>
+    </vote>
+    <action datetime="1999-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="sc" number="62"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Air force personnel"/>
+    <term name="Antarctic regions"/>
+    <term name="Armed forces and national security"/>
+    <term name="Breast cancer"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Emergency management"/>
+    <term name="Evacuation of civilians"/>
+    <term name="Flight crews"/>
+    <term name="Health"/>
+    <term name="Military aircraft"/>
+    <term name="Military airlift"/>
+    <term name="National Guard"/>
+    <term name="New York State"/>
+    <term name="Physicians"/>
+    <term name="Rescue work"/>
+    <term name="Transport aircraft"/>
+    <term name="Transportation and public works"/>
+    <term name="Women"/>
+  </subjects>
+  <amendments/>
+  <summary>10/25/1999--Introduced.
+Recognizes and honors the crew of the Air National's Guard's 109th Airlift Wing for its heroic efforts in rescuing Dr. Jerri Nielsen from the South Pole.</summary>
+</bill>

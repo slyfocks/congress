@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-21T16:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7277, H7292-7293", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7277", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Ms. Norton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-21T19:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 459, 
+      "text": "On agreeing to the Norton amendment (A017) Failed by recorded vote: 175 - 224 (Roll no. 459).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt767-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5025-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5025
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 17, 
+  "introduced_at": "2004-09-21", 
+  "number": 767, 
+  "purpose": "An amendment to insert a new section on page 166 after line 3: Sec. 647. None of the funds made available in this Act may be used to enter into or renew any contract under chapter 89 of title 5, United States Code, for a high deductible health plan that does not require enrollees to remain enrolled in such plan for at least 3 consecutive years from teh date of initial enrollment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-21T19:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

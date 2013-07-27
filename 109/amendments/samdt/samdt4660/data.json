@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7478, S7483, S7484, S7485, S7487-7488", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7478", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S7485", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 4660 proposed by Senator Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 201, 
+      "text": "Amendment SA 4660 not agreed to in Senate by Yea-Nay Vote. 34 - 66. Record Vote Number: 201.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4660-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-13", 
+  "number": 4660, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To appropriate an additional $85,670,000 to enable the Secretary of Homeland Security to hire 800 additional full time active duty investigators to investigate immigration laws violations and to offset such increase on a pro rata basis.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sessions, Jeff", 
+    "state": "AL", 
+    "thomas_id": "01548", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

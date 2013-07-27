@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-22T14:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2524-2525, H2532-2533", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2524", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Dunn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-22T15:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 131, 
+      "text": "On agreeing to the Dunn amendment (A005) Agreed to by recorded vote: 420 - 3 (Roll no. 131).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt47-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment allows local educational agencies to spend any portion of their Federal funds on hiring school resource officers.", 
+  "house_number": 5, 
+  "introduced_at": "2001-05-22", 
+  "number": 47, 
+  "purpose": "An amendment numbered 3 printed in House Report 107-69 to allow local educational agencies to spend more of their federal funds to hire School Resource Officers.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Dunn, Jennifer", 
+    "state": "WA", 
+    "thomas_id": "00324", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-22T15:26:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

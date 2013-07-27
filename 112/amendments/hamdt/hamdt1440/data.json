@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-24T17:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5175", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5175", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-25T13:48:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5218", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 504, 
+      "text": "On agreeing to the Holt amendment (A002) Failed by recorded vote: 163 - 253 (Roll no. 504).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1440-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6082-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 6082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike section 6 which requires the Secretary of the Interior to conduct a single multi-sale environmental impact statement for all of the new areas opened for drilling by the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2012-07-24", 
+  "number": 1440, 
+  "purpose": "An amendment numbered 2 printed in Part C of House Report 112-616 to strike the provision that requires the Secretary of the Interior to conduct a single multi-sale environmental impact statement for all of the new areas opened for drilling by the underlying bill.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-25T13:48:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

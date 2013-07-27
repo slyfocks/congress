@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-14", 
+      "references": [
+        {
+          "reference": "CR S5859-5861, S5862, S5864-5865", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5859", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4242 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 170, 
+      "text": "Amendment SA 4242 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 170.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4242-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-14", 
+  "number": 4242, 
+  "proposed_at": "2006-06-14", 
+  "purpose": "To require regular budgeting for ongoing military operations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-14", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

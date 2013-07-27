@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-07-13T18:01:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-13T19:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 283, 
+      "text": "On agreeing to the Coburn amendment (A004) Failed by recorded vote: 131 - 287 (Roll no. 283).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt260-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2466-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2466
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce funding for the Fish and Wildlife Service by $2 million.", 
+  "house_number": 4, 
+  "introduced_at": "1999-07-13", 
+  "number": 260, 
+  "purpose": "An amendment to reduce funding for the Fish and Wildlife Service funding by $2 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Coburn, Tom A.", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-07-13T19:34:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

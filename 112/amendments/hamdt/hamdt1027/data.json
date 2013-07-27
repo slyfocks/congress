@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-26T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2173-2174", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2173", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Woodall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-26T16:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Woodall amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1027-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3523-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3523
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2012-04-26", 
+  "number": 1027, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-454 to ensure that those who choose not to participate in the voluntary program authorized by this bill are not subject to new liabilities.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Woodall, Rob", 
+    "state": "GA", 
+    "thomas_id": "02008", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-26T16:22:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

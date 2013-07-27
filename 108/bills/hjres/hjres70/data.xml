@@ -1,0 +1,75 @@
+<bill session="108" type="hj" number="70" updated="2013-07-14T19:03:03-04:00">
+  <state datetime="2003-10-15T15:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-10-15T15:06:00-04:00"/>
+  </status>
+  <introduced datetime="2003-09-29"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing Inspectors General over the last 25 years in their efforts to prevent and detect waste, fraud, abuse, and mismanagement, and to promote economy, efficiency, and effectiveness in the Federal Government.</title>
+    <title as="amended by house" type="official">Commending the Inspectors General for their efforts to prevent and detect waste, fraud, abuse, and mismanagement, and to promote economy, efficiency, and effectiveness in the Federal Government during the past 25 years.</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400081" joined="2003-10-01"/>
+    <cosponsor id="400321" joined="2003-09-29"/>
+    <cosponsor id="400409" joined="2003-09-29"/>
+    <cosponsor id="400425" joined="2003-09-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-09-29">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-10-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-10-02">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2003-10-15T15:06:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2003-10-15T15:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9401-9403" label="consideration"/>
+    </action>
+    <action datetime="2003-10-15T15:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 70.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-10-15T15:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2003-10-15T15:12:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-10-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="sj" number="18"/>
+    <bill relation="unknown" session="108" type="sj" number="18"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal employees"/>
+    <term name="Fraud"/>
+    <term name="Government operations and politics"/>
+    <term name="Inspectors general"/>
+    <term name="Law"/>
+    <term name="Misconduct in office"/>
+    <term name="Productivity in government"/>
+    <term name="Waste in government spending"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/2003--Passed House without amendment.
+Recognizes Inspectors General for, and commends their role in, preventing and detecting waste, fraud, abuse, and mismanagement and promoting economy, efficiency, and effectiveness in Federal programs and operations.</summary>
+</bill>

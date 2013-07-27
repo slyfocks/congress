@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T15:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4273-4274, H4290-4291", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4273", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Chocola.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T18:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 297, 
+      "text": "On agreeing to the Chocola amendment (A007) Failed by recorded vote: 141 - 285 (Roll no. 297).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1062-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2006-06-20", 
+  "number": 1062, 
+  "purpose": "An amendment to prohibit the use of funds from being available for the development, deployment, or operation of the web-based, end-to-end travel management system of the Department of Defense known as the Defense Travel System.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Chocola, Chris", 
+    "state": "IN", 
+    "thomas_id": "01726", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-20T18:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

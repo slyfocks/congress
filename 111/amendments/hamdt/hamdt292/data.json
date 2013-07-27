@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-08T13:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7776-7777", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7776", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Paulsen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-08T14:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Paulsen amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt292-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2965-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2965
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment adds medical technology to the list of topics that deserve special consideration as SBIR research topics.", 
+  "house_number": 5, 
+  "introduced_at": "2009-07-08", 
+  "number": 292, 
+  "purpose": "An amendment numbered 5 printed in House Report 111-192 to add medical technology to the list of topics that deserve special consideration as SBIR research topics.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Paulsen, Erik", 
+    "state": "MN", 
+    "thomas_id": "01930", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-07-08T14:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

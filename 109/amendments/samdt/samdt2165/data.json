@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "references": [
+        {
+          "reference": "CR S11624-11627, S11636-11637", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11625", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2165 proposed by Senator Coburn to amendment SA 2065.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "references": [], 
+      "text": "Amendment SA 2165 was modified to reflect a first degree amendment by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "references": [], 
+      "text": "Amendment SA 2165 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 262, 
+      "text": "Amendment SA 2165 not agreed to in Senate by Yea-Nay. 15 - 82. Record Vote Number: 262.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2165-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-20", 
+  "number": 2165, 
+  "proposed_at": "2005-10-20", 
+  "purpose": "To make a perfecting amendment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-10-20", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

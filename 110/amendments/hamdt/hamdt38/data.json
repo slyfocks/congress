@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-09T12:34:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2371-2372", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2371", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Hirono.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-09T12:38:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hirono amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt38-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr720-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 720
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment allows funds under section 103 of the bill to be used to assist communities in developing integrated water resource plans for the coordinated management and protection of surface water, ground water and storm water resources on a watershed or subwatershed basis.", 
+  "house_number": 5, 
+  "introduced_at": "2007-03-09", 
+  "number": 38, 
+  "purpose": "An amendment numbered 5 printed in part B of House Report 110-36 to authorize technical assistance and grants for the development of integrated water resource plans.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hirono, Mazie K.", 
+    "state": "HI", 
+    "thomas_id": "01844", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-09T12:38:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

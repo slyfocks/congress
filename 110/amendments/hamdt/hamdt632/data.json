@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-24T19:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8364-8368, H8383", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8364", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-24T22:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 709, 
+      "text": "On agreeing to the Price (GA) amendment (A036) Failed by recorded vote: 177 - 250 (Roll no. 709).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt632-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3074-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3074
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce appropriations in this Act by $507,767,000.", 
+  "house_number": 36, 
+  "introduced_at": "2007-07-24", 
+  "number": 632, 
+  "purpose": "An amendment numbered 20 printed in the Congressional Record to reduce appropriations in this Act by $507,767,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-24T22:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

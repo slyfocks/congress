@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-10T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2447-2448", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2447", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-10T15:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Andrews amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt804-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5122-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5122
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2006-05-10", 
+  "number": 804, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-459 to require the Secretary of Defense to perform an epidemiological study to determine whether any human populations have been affected by military munitions ocean disposal sites.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-10T15:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

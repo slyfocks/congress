@@ -1,0 +1,69 @@
+<bill session="106" type="hc" number="122" updated="2013-07-14T18:55:21-04:00">
+  <state datetime="1999-11-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-11-19"/>
+  </status>
+  <introduced datetime="1999-05-27"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the United States Border Patrol's 75 years of service since its founding.</title>
+  </titles>
+  <sponsor id="400337"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-05-27">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-06-02">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-11-10T18:17:00-05:00">
+      <text>Mr. Gallegly moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1999-11-10T18:18:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11922-11929" label="consideration"/>
+    </action>
+    <action datetime="1999-11-10T18:18:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 122.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-10T18:30:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-11-10T18:30:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-16">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-11-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S14925" label="consideration"/>
+    </vote>
+    <action datetime="1999-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="sc" number="74"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Border patrols"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of Justice"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Government operations and politics"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1999--Introduced.
+Recognizes the historical significance of the U.S. Border Patrol's founding and its 75 years of service to the Nation.</summary>
+</bill>

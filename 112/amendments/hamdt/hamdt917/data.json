@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-02T15:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H407-408, H415", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H407", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Fudge.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02T16:51:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 26, 
+      "text": "On agreeing to the Fudge amendment (A004) Failed by recorded vote: 171 - 243 (Roll no. 26).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt917-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3582-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3582
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add income equality to the list of variables used to determine the economic impact of the bill.", 
+  "house_number": 4, 
+  "introduced_at": "2012-02-02", 
+  "number": 917, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 112-383 to add income equality among the variables used to determine the economic impact of the bill.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Fudge, Marcia L.", 
+    "state": "OH", 
+    "thomas_id": "01895", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-02T16:51:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

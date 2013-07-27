@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T19:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3534-3535", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3534", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Poe (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 352, 
+      "text": "On agreeing to the Poe (TX) amendment (A007) Agreed to by recorded vote: 302 - 113 (Roll no. 352).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1238-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces funds for the Under Secretary for Management of the Department of Homeland Security by $10 million and increases funds for U.S. Customs and Border Protection Border Security Fencing, Infrastructure, and Technology by a similar amount.", 
+  "house_number": 7, 
+  "introduced_at": "2012-06-06", 
+  "number": 1238, 
+  "purpose": "An amendment to reduce funds for the Under Secretary for Management by $10 million and increase funds for U.S. Customs and Border Protection Border Secruity Fencing, Infrastructure, and Technology by $10 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-06T23:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

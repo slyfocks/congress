@@ -1,0 +1,131 @@
+<bill session="106" type="h" number="3323" updated="2013-07-14T18:54:21-04:00">
+  <state datetime="2000-06-27T13:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-06-27T13:14:00-04:00"/>
+  </status>
+  <introduced datetime="1999-11-10"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building located at 158-15 Liberty Avenue in Jamaica, Queens, New York, as the "Floyd H. Flake Federal Building".</title>
+  </titles>
+  <sponsor id="400271"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1999-11-10"/>
+    <cosponsor id="400063" joined="1999-11-10"/>
+    <cosponsor id="400073" joined="1999-11-10"/>
+    <cosponsor id="402626" joined="1999-11-10"/>
+    <cosponsor id="400543" joined="1999-11-10"/>
+    <cosponsor id="400087" joined="1999-11-10"/>
+    <cosponsor id="400580" joined="1999-11-10"/>
+    <cosponsor id="400122" joined="1999-11-10"/>
+    <cosponsor id="400582" joined="1999-11-10"/>
+    <cosponsor id="400139" joined="1999-11-10"/>
+    <cosponsor id="400140" joined="1999-11-10"/>
+    <cosponsor id="400143" joined="1999-11-10"/>
+    <cosponsor id="400536" joined="1999-11-10"/>
+    <cosponsor id="400178" joined="1999-11-10"/>
+    <cosponsor id="400198" joined="1999-11-10"/>
+    <cosponsor id="400208" joined="1999-11-10"/>
+    <cosponsor id="400213" joined="1999-11-10"/>
+    <cosponsor id="400219" joined="1999-11-10"/>
+    <cosponsor id="400243" joined="1999-11-10"/>
+    <cosponsor id="400246" joined="1999-11-10"/>
+    <cosponsor id="400251" joined="1999-11-10"/>
+    <cosponsor id="400257" joined="1999-11-10"/>
+    <cosponsor id="400262" joined="1999-11-10"/>
+    <cosponsor id="400264" joined="1999-11-10"/>
+    <cosponsor id="400268" joined="1999-11-10"/>
+    <cosponsor id="400511" joined="1999-11-10"/>
+    <cosponsor id="400289" joined="1999-11-10"/>
+    <cosponsor id="400306" joined="1999-11-10"/>
+    <cosponsor id="400329" joined="1999-11-10"/>
+    <cosponsor id="400333" joined="1999-11-10"/>
+    <cosponsor id="400338" joined="1999-11-10"/>
+    <cosponsor id="400366" joined="1999-11-10"/>
+    <cosponsor id="400385" joined="1999-11-10"/>
+    <cosponsor id="400393" joined="1999-11-10"/>
+    <cosponsor id="300096" joined="1999-11-10"/>
+    <cosponsor id="400402" joined="1999-11-10"/>
+    <cosponsor id="400409" joined="1999-11-10"/>
+    <cosponsor id="400611" joined="1999-11-10"/>
+    <cosponsor id="400416" joined="1999-11-10"/>
+    <cosponsor id="400420" joined="1999-11-10"/>
+    <cosponsor id="400424" joined="1999-11-10"/>
+    <cosponsor id="400541" joined="1999-11-10"/>
+    <cosponsor id="400426" joined="1999-11-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-11-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-11-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-06-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-06-20">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-06-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-06-21">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2000-06-22T19:56:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-690.</text>
+    </action>
+    <calendar datetime="2000-06-22T19:56:00-04:00" calendar="House" number="245">
+      <text>Placed on the House Calendar, Calendar No. 245.</text>
+    </calendar>
+    <action datetime="2000-06-27T12:59:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-06-27T12:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5202-5205" label="consideration"/>
+    </action>
+    <action datetime="2000-06-27T12:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3323.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-06-27T13:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5202" label="text"/>
+    </vote>
+    <action datetime="2000-06-27T13:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-06-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2000-07-17">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="2892"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Federal office buildings"/>
+    <term name="Members of Congress (House)"/>
+    <term name="Names"/>
+    <term name="New York City"/>
+  </subjects>
+  <amendments/>
+  <summary>11/10/1999--Introduced.
+Designates the Federal building located at 158-15 Liberty Avenue in Jamaica, Queens, New York, as the Floyd H. Flake Federal Building.</summary>
+</bill>

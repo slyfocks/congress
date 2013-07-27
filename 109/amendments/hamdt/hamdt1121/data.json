@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T13:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4707-4708", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4707", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Murphy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T13:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Murphy amendment (A024) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1121-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides $50,000 to the Federal Communications Commission for action in the area of caller ID fraud.", 
+  "house_number": 24, 
+  "introduced_at": "2006-06-28", 
+  "number": 1121, 
+  "purpose": "An amendment to increase and immediately decrease funding for the FCC in order to encourage the FCC to promulgate a rule on caller ID services.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Murphy, Tim", 
+    "state": "PA", 
+    "thomas_id": "01744", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-28T13:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

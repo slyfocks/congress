@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-27T14:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9320-9327", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9321-9322", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27T15:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 551, 
+      "text": "On agreeing to the Schiff amendment (A002) Failed by recorded vote: 184 - 226 (Roll no. 551).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt606-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr420-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 420
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute sought to provide \"three-strikes-and-you're-out\" provisions for attorneys who file frivolous lawsuits or engage in frivolous conduct during discovery; enhance sanctions for document destruction; and require that court records not be sealed unless the court finds that a sealing is justified.", 
+  "house_number": 2, 
+  "introduced_at": "2005-10-27", 
+  "number": 606, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-253 to provide strong \"three strikes and you're out\" mandatory sanctions for attorneys who file frivolous lawsuits or engage in frivolous conduct during discovery. Enhances sanctions for document destruction, ensures that corporations can be sued in the U.S., cracks down on parties attempting to relitigate the same issue on consecutive occasions, bans the concealment of unlawful conduct, and protects civil rights claims.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-10-27T15:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

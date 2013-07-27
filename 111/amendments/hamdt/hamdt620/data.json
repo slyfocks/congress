@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-04-29T15:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3043-3044, H3053", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3043", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Gutierrez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-29T17:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 235, 
+      "text": "On agreeing to the Gutierrez amendment (A002) Failed by recorded vote: 164 - 236 (Roll no. 235).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt620-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2499-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2499
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to provide that the Puerto Rican people would have the option to choose \"none of the above\" with regard to the status of Puerto Rico.", 
+  "house_number": 2, 
+  "introduced_at": "2010-04-29", 
+  "number": 620, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-468 to provide the Puerto Rican people have the option to choose \"none of the above\" with regard to the status of Puerto Rico.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gutierrez, Luis V.", 
+    "state": "IL", 
+    "thomas_id": "00478", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-04-29T17:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

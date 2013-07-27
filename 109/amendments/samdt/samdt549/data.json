@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3987-3988", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3987", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 549 proposed by Senator Baucus to Amendment SA 475.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S3987", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 549 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt549-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt475-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 475
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-19", 
+  "number": 549, 
+  "proposed_at": "2005-04-20", 
+  "purpose": "To clarify the terms of payment under the Trade Sanctions Reform and Export Enhancement Act of 2000.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

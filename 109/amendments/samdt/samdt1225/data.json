@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-14", 
+      "references": [
+        {
+          "reference": "CR S8282-8283", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8283", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1225 proposed by Senator Gregg for Senator Kennedy to Amendment SA 1139.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1225 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1225-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1139-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 1139
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-14", 
+  "number": 1225, 
+  "proposed_at": "2005-07-14", 
+  "purpose": "To provide funds for the Legal Orientation Program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-14", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

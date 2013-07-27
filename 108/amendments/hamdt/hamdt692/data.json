@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-15T13:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5823-5825, H5858-5859", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5823", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sherman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-15T16:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 380, 
+      "text": "On agreeing to the Sherman amendment (A001) Failed by recorded vote: 111 - 312 (Roll no. 380).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt692-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4818-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4818
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for the U.S. Agency for International Development-Child Survival and Health Programs Fund.", 
+  "house_number": 1, 
+  "introduced_at": "2004-07-15", 
+  "number": 692, 
+  "purpose": "An amendment numbered 20 printed in the Congressional Record to cut $359 million from the bill's funding for the World Bank. The amount represents the cost of World Bank loans provided to Iran in May. The amendment also adds $290 million for the bill's Child Survival account.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "thomas_id": "01526", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-15T16:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

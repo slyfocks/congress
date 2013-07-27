@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-09", 
+      "references": [
+        {
+          "reference": "CR S1184", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1184", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 12 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-10", 
+      "references": [
+        {
+          "reference": "CR S1225, S1231-1232", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-10", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 8, 
+      "text": "Amendment SA 12 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 8.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt12-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s5-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-02-09", 
+  "number": 12, 
+  "proposed_at": "2005-02-09", 
+  "purpose": "To establish time limits for action by Federal district courts on motions to remand cases that have been removed to Federal court.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-02-10", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

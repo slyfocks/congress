@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-28", 
+      "references": [
+        {
+          "reference": "CR S10385-10390, S10397-10398", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10385", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5104 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 257, 
+      "text": "Amendment SA 5104 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 257.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5104-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3930-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3930
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-28", 
+  "number": 5104, 
+  "proposed_at": "2006-09-28", 
+  "purpose": "To prohibit the establishment of new military commissions after December 31, 2011.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-09-28", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

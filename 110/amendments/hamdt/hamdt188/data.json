@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-16T18:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5252-5253, H5266", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5252", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. Woolsey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-16T20:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 366, 
+      "text": "On agreeing to the Woolsey amendment (A006) Failed by recorded vote: 119 - 303 (Roll no. 366).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt188-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1585-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1585
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to require the Secretary of Defense to carry out a study on the weapons systems being produced for the Department of Defense that were originally designed to fight the Cold War and the former Soviet Union.", 
+  "house_number": 6, 
+  "introduced_at": "2007-05-16", 
+  "number": 188, 
+  "purpose": "An amendment numbered 21 printed in House Report 110-151 to require the Secretary of Defense to issue a report on the continued use, need, relevance, and cost of weapons systems designed to fight the Cold War and the former Soviet Union.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Woolsey, Lynn C.", 
+    "state": "CA", 
+    "thomas_id": "01242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-16T20:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

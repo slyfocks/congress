@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12317-12318", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12317-12318", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2383 proposed by Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2383 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2383-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2383, 
+  "proposed_at": "2005-11-03", 
+  "purpose": "To exclude discounts provided to mail order and nursing facility pharmacies from the determination of average manufacturer price and to extend the discounts offered under fee-for-service Medicaid for prescription drugs to managed care organizations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

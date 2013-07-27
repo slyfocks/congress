@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-01T13:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2080-2082, H2087-2088", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2080", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-01T15:07:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 115, 
+      "text": "On agreeing to the Foxx amendment (A002) Failed by recorded vote: 173 - 256 (Roll no. 115).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt22-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr800-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to require the National Labor Relations Board to promulgate standards and a model notice for an employee to put him or herself on a list to avoid union solicitation.", 
+  "house_number": 2, 
+  "introduced_at": "2007-03-01", 
+  "number": 22, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-26 requir es the National Labor Relations Board to promulgate standards and a model notice for an employee to put him- or herself on a `do not call or contact' list to avoid union solicitation.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-01T15:07:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

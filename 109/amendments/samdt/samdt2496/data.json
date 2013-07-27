@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12589-12595", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12593", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2496 proposed by Senator Warner for Senator Santorum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2496 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2496-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-09", 
+  "number": 2496, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To provide for the policy of the Department of Defense on the recruitment and enlistment of home schooled individuals in the Armed Forces.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-09", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

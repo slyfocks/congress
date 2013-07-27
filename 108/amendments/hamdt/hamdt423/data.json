@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-17T09:24:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H9622-9623, H9639-9640", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H9622", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-17T11:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 554, 
+      "text": "On agreeing to the Stupak amendment (A019) Failed by recorded vote: 213 - 213 (Roll no. 554).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt423-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to provide a $1,500 bonus to members of the armed forces who have served in Iraq or Afghanistan in fiscal year 2004.", 
+  "house_number": 19, 
+  "introduced_at": "2003-10-17", 
+  "number": 423, 
+  "purpose": "An amendment to increase the basic rate of pay to all military services by $265 million - the amount needed to provide a $1,500 bonus to each person serving in operations in Iraq or Afghanistan for FY 2004.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-17T11:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T23:56:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H452-455", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H452", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Reynolds.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-14T00:43:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 31, 
+      "text": "On agreeing to the Reynolds amendment (A014) Failed by recorded vote: 190 - 238 (Roll no. 31).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt428-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to change the effective date of the soft money ban to February 14, 2002 and require that any soft money funds unexpended as of this date be returned on a pro rata basis to the contributors.", 
+  "house_number": 14, 
+  "introduced_at": "2002-02-13", 
+  "number": 428, 
+  "purpose": "An amendment numbered 29 printed in the Congressional Record of February 12, 2002 to make the bill effective immediately (February 14). Any soft money funds remaining in party accounts would need to be returned to the donors.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Reynolds, Thomas M.", 
+    "state": "NY", 
+    "thomas_id": "01587", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-02-14T00:43:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

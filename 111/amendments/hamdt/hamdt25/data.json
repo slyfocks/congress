@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-05T12:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H3014-3015, H3019-3020", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3014", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-05T17:31:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 101, 
+      "text": "On agreeing to the Price (GA) amendment (A002) Failed by recorded vote: 211 - 218 (Roll no. 101).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt25-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1106-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1106
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to provide that if a homeowner who has had a mortgage modified in a bankruptcy proceeding sells the home at a profit, the lender can recapture the amount of principal lost in the modification.", 
+  "house_number": 2, 
+  "introduced_at": "2009-03-05", 
+  "number": 25, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-21 to provide that if a homeowner who has had a mortgage modified in a bankruptcy proceeding sells the home at a profit, the lender can recapture the amount of principal lost in the modification.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-03-05T17:31:00-05:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

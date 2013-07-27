@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T15:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5114-5122, H5127-5128, H5133", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5114-5115", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Boehlert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T17:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 311, 
+      "text": "On agreeing to the Boehlert amendment (A003) Failed by recorded vote: 160 - 269 (Roll no. 311).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt288-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to increase the Corporate Average Fuel Efficiency (CAFE) standard for automobiles and light trucks to 27.5 mpg beginning in 2007, and provide incentives for alternative fuel vehicles.", 
+  "house_number": 3, 
+  "introduced_at": "2001-08-01", 
+  "number": 288, 
+  "purpose": "Part B amendment numbered 3 printed in House Report 107-178 to provide for a combined corporate average fuel efficiency (CAFE) standard for passenger automobiles and light trucks of 27.5 mpg beginning in 2007, with an intermediate step to 26 mpg in 2005; provide incentives for alternative fuel vehicles; and to direct the Secretary of Transportation to use such authority under federal law as the Secretary may have to ensure the safety of automobiles and light trucks.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-08-01T17:43:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

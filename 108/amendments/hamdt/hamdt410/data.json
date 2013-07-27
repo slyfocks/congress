@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-16T20:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 10/17/2003 H9586-9588, H9601-9602", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 10/17/2003 H9586", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-16T22:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 548, 
+      "text": "On agreeing to the Waxman amendment (A006) Failed by recorded vote: 197 - 224 (Roll no. 548).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt410-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reduce funding for the importation into Iraq of petroleum products by $250 million.", 
+  "house_number": 6, 
+  "introduced_at": "2003-10-16", 
+  "number": 410, 
+  "purpose": "An amendment to reduce the amount available for the Iraq Relief and Reconstruction Fund by $250 million.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-16T22:43:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

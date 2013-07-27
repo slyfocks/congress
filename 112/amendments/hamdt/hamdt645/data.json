@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T20:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5006-5008", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5006", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A042) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-14T15:00:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5047-5048", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 579, 
+      "text": "On agreeing to the Schiff amendment (A042) Agreed to by recorded vote: 214 - 213 (Roll no. 579).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt645-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases the amount appropriated for carrying out the research activities authorized by the America COMPETES Act by $79,640,000 and reduces the Departmental Administration account for the Department of Energy by a similar amount.", 
+  "house_number": 42, 
+  "introduced_at": "2011-07-13", 
+  "number": 645, 
+  "purpose": "An amendment to increase the amount appropriated for carrying out the research activities authorized by the America COMPETES Act by $79,640,000 and reduce the Departmental Administration account for the Department of Energy by the same amount.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-14T15:00:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

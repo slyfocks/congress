@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-24T18:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7211-7213, H7229-7230", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7211", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-24T21:39:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 446, 
+      "text": "On agreeing to the Flake amendment (A012) Failed by recorded vote: 114 - 317 (Roll no. 446).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt257-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2892-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2009-06-24", 
+  "number": 257, 
+  "purpose": "An amendment numbered 2 printed in Part C of House Report 111-183 to prohibit funds in the bill from going to the National Institute for Hometown Security, Kentucky, and would reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-24T21:39:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

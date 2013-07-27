@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-08", 
+      "references": [
+        {
+          "reference": "CR S1101, S1110", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1101", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S1110", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 3 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09", 
+      "references": [
+        {
+          "reference": "CR S1157", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-10", 
+      "references": [
+        {
+          "reference": "CR S1225", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-10", 
+      "references": [], 
+      "text": "Proposed amendment SA 3 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt3-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s5-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-02-08", 
+  "number": 3, 
+  "proposed_at": "2005-02-08", 
+  "purpose": "To preserve State court procedures for handling mass actions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-02-10", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

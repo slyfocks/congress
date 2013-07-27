@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-29T17:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4872-4875, H4890-4891", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4873", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Bilirakis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-29T19:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 355, 
+      "text": "On agreeing to the Bilirakis amendment (A005) Failed by recorded vote: 65 - 353 (Roll no. 355).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1177-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4761-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4761
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit oil and gas drilling within 125 miles of a State's coastline unless the State agrees to such drilling.", 
+  "house_number": 5, 
+  "introduced_at": "2006-06-29", 
+  "number": 1177, 
+  "purpose": "An amendment numbered 5 printed in House Report 109-540 to prohibit leasing (either oil and gas or natural gas) within 125 miles of a states coastline unless the state requests leasing.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Bilirakis, Michael", 
+    "state": "FL", 
+    "thomas_id": "00089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-29T19:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

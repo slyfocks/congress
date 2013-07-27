@@ -1,0 +1,101 @@
+<bill session="107" type="h" number="1886" updated="2013-07-14T18:57:41-04:00">
+  <state datetime="2001-09-05T16:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-09-05T16:04:00-04:00"/>
+  </status>
+  <introduced datetime="2001-05-17"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 35, United States Code, to provide for appeals by third parties in certain patent reexamination proceedings.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2001-05-17">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2001-05-18">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-05-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-05-22">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-06-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2001-06-28T18:53:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 107-121.</text>
+    </action>
+    <calendar datetime="2001-06-28T18:54:00-04:00" calendar="Union" number="65">
+      <text>Placed on the Union Calendar, Calendar No. 65.</text>
+    </calendar>
+    <action datetime="2001-09-05T15:42:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-09-05T15:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5359-5362" label="consideration"/>
+    </action>
+    <action datetime="2001-09-05T15:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1886.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-09-05T16:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5359-5360" label="text"/>
+    </vote>
+    <action datetime="2001-09-05T16:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-09-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2002-06-20">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-06-20">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2002-06-20" calendar="Senate Legislative" under="General Orders" number="428">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 428.</text>
+    </calendar>
+    <action datetime="2002-10-03">
+      <text>For Further Action See H.R.2215.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="h" number="2215"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative remedies"/>
+    <term name="Appellate courts"/>
+    <term name="Appellate procedure"/>
+    <term name="Department of Commerce"/>
+    <term name="Government operations and politics"/>
+    <term name="Intellectual property"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Law"/>
+    <term name="Parties to actions"/>
+    <term name="Patents"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2001--Reported to House without amendment.
+Amends Federal patent law with respect to appeals in inter partes reexamination proceedings to allow a third-party requester to: (1) appeal to the U.S. Court of Appeals for the Federal Circuit, with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; and (2) be a party to any appeal taken by the patent owner, subject to the estoppel to assert at a later time in any civil action the invalidity of any claim finally determined to be valid and patentable on any ground which he or she raised or could have raised during such proceeding.Allows a third-party requester to appeal a decision of the Board of Patent Appeals and Interferences.Provides that a third-party requester in an inter partes reexamination proceeding dissatisfied with the final decision in an appeal to the Board may appeal the decision only to the U.S. Court of Appeals for the Federal Circuit.</summary>
+</bill>

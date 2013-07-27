@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-22T12:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6993-6994, H6996", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6993", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-22T12:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 545, 
+      "text": "On agreeing to the Flake amendment (A002) Agreed to by recorded vote: 218 - 191 (Roll no. 545).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt393-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2771-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2771
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment reduces funding for the Government Printing Office by $3.2 million.", 
+  "house_number": 2, 
+  "introduced_at": "2007-06-22", 
+  "number": 393, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-201 to reduce funding for the Government Printing Office--Congressional Printing and Binding by $3,200,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-22T12:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

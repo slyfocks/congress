@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-09T14:34:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A023) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-09T16:19:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 400, 
+      "text": "On agreeing to the Hinchey amendment (A023) Failed by recorded vote: 158 - 266 (Roll no. 400).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt443-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2684-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2684
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 23, 
+  "introduced_at": "1999-09-09", 
+  "number": 443, 
+  "purpose": "An amendment to prohibit any funding to be used to implement or administer the Veterans Equitable Resource Allocation system.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-09T16:19:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-17T13:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8326-8345", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8326-8338", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Cardin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-17T14:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 506, 
+      "text": "On agreeing to the Cardin amendment (A002) Failed by the Yeas and Nays: 203 - 220 (Roll no. 506).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt397-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr7-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 7
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to include all the provisions of the underlying bill, as reported by the Committee on Ways and Means; add a provision increasing funding for the Social Services Block Grant by $1.1 billion; and add to the bill the text of the \"Abusive Tax Shelter Shutdown and Taxpayer Accountability Act of 2003\".", 
+  "house_number": 2, 
+  "introduced_at": "2003-09-17", 
+  "number": 397, 
+  "purpose": "An amendment in the nature of a substitute printed in Part B of House Report 108-273 to include all the provisions of the underlying bill as reported by the Committee on Ways and Means, but adds provisions increasing the funding for the Social Security Block Grant (SSBG) by $1.1 billion next year and revenue offset provisions to prevent abusive tax shelter transactions and also tightens penalties for egregious tax shelter behavior.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-17T14:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-27", 
+      "references": [
+        {
+          "reference": "CR S3673-3674, S3675", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3674", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3709 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 101, 
+      "text": "Amendment SA 3709 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 101.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3709-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-27", 
+  "number": 3709, 
+  "proposed_at": "2006-04-27", 
+  "purpose": "To express the sense of the Senate on requests for funds for military operations in Iraq and Afghanistan for fiscal years after fiscal year 2007.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-27", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

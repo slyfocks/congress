@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-10T15:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6495-6496", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6495", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Ms. Brown-Waite, Ginny.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-10T15:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Brown-Waite, Ginny amendment (A012) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt192-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2410-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2410
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike section 303 which established the Lessons Learned Center.", 
+  "house_number": 12, 
+  "introduced_at": "2009-06-10", 
+  "number": 192, 
+  "purpose": "An amendment numbered 12 printed in part C of House Report 111-143 to strike section 303, establishment of the Lessons Learned Center.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brown-Waite, Ginny", 
+    "state": "FL", 
+    "thomas_id": "01713", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-10T15:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

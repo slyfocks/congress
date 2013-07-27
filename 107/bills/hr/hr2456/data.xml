@@ -1,0 +1,85 @@
+<bill session="107" type="h" number="2456" updated="2013-07-14T18:57:51-04:00">
+  <state datetime="2001-07-30T15:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-07-30T15:57:00-04:00"/>
+  </status>
+  <introduced datetime="2001-07-11"/>
+  <titles>
+    <title as="introduced" type="official">To provide that Federal employees may retain for personal use promotional items received as a result of travel taken in the course of employment.</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="2001-07-24"/>
+    <cosponsor id="400524" joined="2001-07-11"/>
+    <cosponsor id="400370" joined="2001-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2001-07-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1310"/>
+    </action>
+    <action state="REFERRED" datetime="2001-07-11">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2001-07-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-07-25">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2001-07-30T15:50:00-04:00">
+      <text>Mrs. Morella moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-07-30T15:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4807-4808" label="consideration"/>
+    </action>
+    <action datetime="2001-07-30T15:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2456.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-07-30T15:57:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4807" label="text"/>
+    </vote>
+    <action datetime="2001-07-30T15:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-07-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="2001-09-10">
+      <text>Committee on Governmental Affairs referred to Subcommittee on International Security, Proliferation and Federal Services.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </action>
+    <calendar datetime="2001-11-14">
+      <text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral" code="SSGA07" subcommittee="International Security, Proliferation and Federal Services" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="1498"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Commerce"/>
+    <term name="Consumer discounts"/>
+    <term name="Federal employees"/>
+    <term name="Fringe benefits"/>
+    <term name="Government travel"/>
+    <term name="Labor and employment"/>
+    <term name="Transportation and public works"/>
+    <term name="Transportation rates"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2001--Passed House without amendment.
+Allows Federal employees to retain promotional items (including frequent flyer miles, upgrades, and access to carrier clubs or facilities) received as a result of using travel or transportation services procured by the United States or accepted from non-Federal sources for travel and related expenses in the course of employment, if such items are obtained under the same terms as those offered to the public and at no additional cost to the Government.Repeals provisions under the Federal Acquisition Streamlining Act of 1994 regarding the issuance of guidelines for the use of frequent traveler programs by employees who engage in official air travel for the purpose of realizing cost savings for official travel.</summary>
+</bill>

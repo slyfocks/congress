@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23", 
+      "references": [
+        {
+          "reference": "CR S7264-7266", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 899 proposed by Senator Craig for Senator Enzi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7264", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 899 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt899-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 899, 
+  "proposed_at": "2005-06-23", 
+  "purpose": "To establish procedures for the reinstatement of leases terminated due to unforeseeable circumstances.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Enzi, Michael B.", 
+    "state": "WY", 
+    "thomas_id": "01542", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

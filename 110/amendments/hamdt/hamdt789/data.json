@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-07T13:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10292-10297, H10306", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10292-10294", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-07T15:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 862, 
+      "text": "On agreeing to the Conyers amendment (A001) Agreed to by recorded vote: 263 - 136 (Roll no. 862).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt789-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1908-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Manager's amendment consist of the text of the amendment contained in House Report 110-319 and printed on pages H10292-10294 in the Congressional Record for Sept. 7, 2007.", 
+  "house_number": 1, 
+  "introduced_at": "2007-09-07", 
+  "number": 789, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-319 to incorporate a number of revisions including revisions to the sections on damages, willful infringement, prior user rights, post-grant review, venue, inequitable conduct, applicant disclosure information and inventor's oath requirements, among others.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-07T15:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-06T20:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H502-503", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H502", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Carnahan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-06T20:11:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Carnahan amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt926-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1734-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1734
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires the use of life-cycle cost analysis in the design or lease of federal buildings receiving at least 50% Federal funding and for which construction cost is over $1 million or the space to be leased is over 25,000 square feet.", 
+  "house_number": 4, 
+  "introduced_at": "2012-02-06", 
+  "number": 926, 
+  "purpose": "An amendment numbered 6 printed in House Report 112-385 to require the use of life-cycle cost analysis in the design or lease of federal buildings receiving at least 50% Federal funding and which construction cost is over $1,000,000 or the space to be leased is over 25,000 square feet.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Carnahan, Russ", 
+    "state": "MO", 
+    "thomas_id": "01789", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-02-06T20:11:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

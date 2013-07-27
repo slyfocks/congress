@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-24T11:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5123-5125", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5123", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-24T11:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Tancredo amendment (A015) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt357-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds from being used to pay the salaries and expenses of personnel who reimburse hospitals for providing health care to illegal aliens.", 
+  "house_number": 15, 
+  "introduced_at": "2005-06-24", 
+  "number": 357, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to prohibit funds appropriated or otherwise made available by the Act from being used to pay the salaries and expenses of personnel to carry out the provisions of section 1011 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108-173).", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-24T11:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

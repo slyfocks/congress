@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-06T11:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10184-10185", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10184", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Boren to the Watt amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-06T11:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boren amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt784-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt783-110", 
+    "amendment_type": "hamdt", 
+    "congress": 110, 
+    "number": 783
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2786-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2786
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment to the Watt amendment (A001) incorporates Congressional findings with respect to the status of the Cherokee Freedmen.", 
+  "house_number": 2, 
+  "introduced_at": "2007-09-06", 
+  "number": 784, 
+  "purpose": "An amendment to the Watt amendment which incorporates Congressional findings with respect to the status of the Cherokee Freedmen.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Boren, Dan", 
+    "state": "OK", 
+    "thomas_id": "01796", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-06T11:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

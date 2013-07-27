@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-07", 
+      "references": [
+        {
+          "reference": "CR S9086-9087, S9094", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9086", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4911 proposed by Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-07", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 238, 
+      "text": "Amendment SA 4911 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 238.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4911-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-07", 
+  "number": 4911, 
+  "proposed_at": "2006-09-07", 
+  "purpose": "To make available an additional $65,400,000 for additional appropriations for Aircraft Procurement, Air Force, for the procurement of Predators for Special Operations forces, and to designate the amount as an emergency requirement.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-07", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

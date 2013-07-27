@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T17:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5252-5253, H5262", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5252", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Johnson (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-25T18:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 515, 
+      "text": "On agreeing to the Johnson (GA) amendment (A002) Failed by recorded vote: 159 - 259 (Roll no. 515).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1448-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to change the bill's definition of \"significant regulatory action\" to exclude any regulation or guidance that is intended to protect the privacy of American citizens.", 
+  "house_number": 2, 
+  "introduced_at": "2012-07-25", 
+  "number": 1448, 
+  "purpose": "An amendment numbered 2 printed Part B of House Report 112-616 to exempt regulatory actions pertaining to privacy from Title I of the bill and exempts midnight rules pertaining to privacy from Title II of the bill. The amendment would also exempt consent decrees and settlement agreements in an action to compel agency action pertaining to privacy from Title III of the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-25T18:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

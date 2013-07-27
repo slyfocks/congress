@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-12T21:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5926", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5926", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T12:18:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5994-5995", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5995", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 397, 
+      "text": "On agreeing to the Waters amendment (A003) Agreed to by recorded vote: 216 - 211 (Roll no. 397).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt982-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increased funding for the Heavily-Indebted Poor Country Trust Fund.", 
+  "house_number": 3, 
+  "introduced_at": "2000-07-12", 
+  "number": 982, 
+  "purpose": "An amendment numbered 27 printed in the Congressional Record to fully fund the Administration's request of $225 million for debt relief for the world's poorest countries in FY 2001.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-13T12:18:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

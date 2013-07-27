@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-30T14:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3520-3522, H3524-3525", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3521", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-30T15:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 153, 
+      "text": "On agreeing to the Tancredo amendment (A008) Failed by recorded vote: 54 - 367 (Roll no. 153).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt94-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1350-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1350
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to define specific learning disability to mean a disorder due to a medically detectable and diagnosable physiological condition relying on physical and scientific evidence and not based on subjective evidence.", 
+  "house_number": 8, 
+  "introduced_at": "2003-04-30", 
+  "number": 94, 
+  "purpose": "An amendment numbered 8 printed in House Report 108-79 redefines 'specific learning disability' as a disorder due to a medically detectable and diagnosable psychological condition relying on physical and scientific evidence.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-30T15:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

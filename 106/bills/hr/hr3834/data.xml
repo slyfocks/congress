@@ -1,0 +1,66 @@
+<bill session="106" type="h" number="3834" updated="2013-07-14T18:54:37-04:00">
+  <state datetime="2000-09-19T10:47:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-09-19T10:47:00-04:00"/>
+  </status>
+  <introduced datetime="2000-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Homeowners Financing Protection Act</title>
+    <title as="passed house" type="short">Homeowners Financing Protection Act</title>
+    <title as="introduced" type="official">To amend the rural housing loan guarantee program under section 502(h) of the Housing Act of 1949 to provide loan guarantees for loans made to refinance existing mortgage loans guaranteed under such section.</title>
+  </titles>
+  <sponsor id="400008"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-06">
+      <text>Referred to the House Committee on Banking and Financial Services.</text>
+    </action>
+    <action datetime="2000-03-31">
+      <text>Referred to the Subcommittee on Housing and Community Opportunity.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="2000-09-19T10:35:00-04:00">
+      <text>Mr. Leach moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-09-19T10:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7745-7747" label="consideration"/>
+    </action>
+    <action datetime="2000-09-19T10:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3834.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-19T10:47:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7745" label="text"/>
+    </vote>
+    <action datetime="2000-09-19T10:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking and Financial Services" activity="Referral"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Opportunity" name="House Banking and Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to housing"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Low-income housing"/>
+    <term name="Moderate income housing"/>
+    <term name="Mortgage interest rates"/>
+    <term name="Mortgage loans"/>
+    <term name="Rural housing"/>
+    <term name="Single family housing"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2000--Passed House amended.
+Homeowners Financing Protection Act - Amends the Housing Act of 1949 to permit sec. 502 refinancing loan guarantees for single family low-and moderate-income mortgages guaranteed under the sec. 502 rural housing loan program. Sets forth refinancing loan requirements.</summary>
+</bill>

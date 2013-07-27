@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12589-12595", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12590", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1471 proposed by Senator Warner for Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1471 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1471-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-25", 
+  "number": 1471, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To require a study on the deployment of members of the National Guard and Reserves in the global war on terrorism.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-09", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

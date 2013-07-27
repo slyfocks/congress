@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-05-12T16:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3393, H3405-3406", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3393", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Hall (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-12T18:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 263, 
+      "text": "On agreeing to the Hall (TX) amendment (A003) Failed by recorded vote: 163 - 258 (Roll no. 263).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt638-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5116-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5116
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike Title V which contains the Innovation provisions of the bill.", 
+  "house_number": 3, 
+  "introduced_at": "2010-05-12", 
+  "number": 638, 
+  "purpose": "An amendment numbered 6 printed in Part B of House Report 111-479 to strike title V of the bill (Innovation).", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hall, Ralph M.", 
+    "state": "TX", 
+    "thomas_id": "00484", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-05-12T18:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

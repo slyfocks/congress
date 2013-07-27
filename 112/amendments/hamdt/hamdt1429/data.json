@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-19T16:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5052", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5052", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A052) offered by Mr. Runyan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-19T16:16:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Runyan amendment (A052) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1429-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires that the Department of Defense use American-owned and operated aircraft whenever possible to move cargo and passengers.", 
+  "house_number": 52, 
+  "introduced_at": "2012-07-19", 
+  "number": 1429, 
+  "purpose": "An amendment to prohibit the use of funds to be used in contravention of section 41106 of title 49, United States Code.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Runyan, Jon", 
+    "state": "NJ", 
+    "thomas_id": "02039", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-07-19T16:16:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11095-11099", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11095-11096", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1942 proposed by Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11118", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1942 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1942-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-03", 
+  "number": 1942, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To make available $10,000,000 for Operation and Maintenance, Air Force, and $20,000,000 for Other Procurement, Air Force, for the implementation of IMT-2000 3G Standards Based Communications Information Extension capability for the Gulf States and key entities within the Northern Command Area of Responsibility.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

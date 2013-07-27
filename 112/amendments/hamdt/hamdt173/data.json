@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-02T15:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1490-1491", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1490", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Mica.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-02T16:08:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 158, 
+      "text": "On agreeing to the Mica amendment (A001) Agreed to by the Yeas and Nays: 422 - 0 (Roll no. 158).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt173-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr662-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 662
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Manager's amendment makes technical and conforming changes to the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2011-03-02", 
+  "number": 173, 
+  "purpose": "Pursuant to the provisions of H.Res. 128 the text of the amendment is printed in House Report 112-20.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Mica, John L.", 
+    "state": "FL", 
+    "thomas_id": "00800", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-02T16:08:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

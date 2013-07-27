@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-11T12:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1034", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1034", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-11T12:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt480-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3717-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3717
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment requires the General Accounting Office to conduct a study and report to Congress on indecent broadcasting complaints made to the Federal Communications Commission.", 
+  "house_number": 2, 
+  "introduced_at": "2004-03-11", 
+  "number": 480, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-436 to require the Government Accounting Office (GAO) to study the number of indecency complaints received by the FCC, the mechanisms established to receive and respond to complaints, and actions taken by the commission, and the time needed to issue a final decision.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-03-11T12:34:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

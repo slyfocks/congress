@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-22", 
+      "references": [
+        {
+          "reference": "CR S6346-6366", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6354-6355", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4512 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4512 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4512-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-22", 
+  "number": 4512, 
+  "proposed_at": "2006-06-22", 
+  "purpose": "To modify certain additional authorities for purposes of the targeted shaping of the Armed Forces.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-22", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

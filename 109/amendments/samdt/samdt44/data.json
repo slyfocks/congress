@@ -1,0 +1,92 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-03", 
+      "references": [
+        {
+          "reference": "CR S1979-1980, S1981", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1980", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 44 proposed by Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-04", 
+      "references": [
+        {
+          "reference": "CR S2053", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2111, S2113-2122, S2125-2132", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 26, 
+      "text": "Amendment SA 44 not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 26.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [], 
+      "text": "Senate vitiated previous action on Amendment SA 44 by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [], 
+      "text": "Proposed amendment SA 44 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt44-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-03", 
+  "number": 44, 
+  "proposed_at": "2005-03-03", 
+  "purpose": "To amend the Fair Labor Standards Act of 1938 to provide for an increase in the Federal minimum wage.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-03-07", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

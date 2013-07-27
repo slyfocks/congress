@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-18T00:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/17/2012 H3081", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 5/17/2012 H3081", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Duncan (SC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18T10:35:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3118-3119", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 283, 
+      "text": "On agreeing to the Duncan (SC) amendment (A030) Agreed to by recorded vote: 229 - 193 (Roll no. 283).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1128-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 30, 
+  "introduced_at": "2012-05-18", 
+  "number": 1128, 
+  "purpose": "An amendment numbered 47 printed in House Report 112-485 to limit funds authorized to be appropriated by this Act to any institution or organization established by the Convention on the Law of the Sea, including the International Seabed Authority, the International Tribunal for the Law of the Sea, and the Commission on the Limits of the Continental Shelf.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Duncan, Jeff", 
+    "state": "SC", 
+    "thomas_id": "02057", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-18T10:35:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

@@ -1,0 +1,54 @@
+<bill session="108" type="h" number="2550" updated="2013-07-14T19:01:32-04:00">
+  <state datetime="2003-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2003-06-19"/>
+  </status>
+  <introduced datetime="2003-06-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend the American Servicemembers' Protection Act of 2002 to provide clarification with respect to the eligibility of certain countries for United States military assistance.</title>
+  </titles>
+  <sponsor id="400373"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="2003-06-24"/>
+    <cosponsor id="400191" joined="2003-06-19"/>
+    <cosponsor id="400273" joined="2003-06-24"/>
+    <cosponsor id="400299" joined="2003-06-19"/>
+    <cosponsor id="400377" joined="2003-06-19"/>
+    <cosponsor id="400433" joined="2003-07-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-06-19">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2003-06-25">
+      <text>Referred to the Subcommittee on Europe.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2003-06-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2003-06-26">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA14" subcommittee="Europe" name="House International Relations"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="s" number="1317"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Collective security"/>
+    <term name="Military agreements"/>
+    <term name="Military assistance"/>
+    <term name="NATO countries"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2003--Introduced.
+Amends the American Servicemembers' Protection Act of 2002 to exempt a country that has concluded a protocol for its accession to NATO from the prohibition against the provision of U.S. military assistance to a country that is a party to the International Criminal Court.</summary>
+</bill>

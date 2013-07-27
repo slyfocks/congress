@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-19T10:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3442", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3442", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Cox.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-19T10:35:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cox amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt730-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4475-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4475
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits funds from being used for the planning, development, or construction of California State Route 710 freeway extension project through South Pasadena, California.", 
+  "house_number": 2, 
+  "introduced_at": "2000-05-19", 
+  "number": 730, 
+  "purpose": "An amendment to prohibit funds from being used for the planning, development, or construction of California State Route 710 freeway extension project through South Pasadena, California.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Cox, Christopher", 
+    "state": "CA", 
+    "thomas_id": "00242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-19T10:35:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

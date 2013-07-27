@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-23T14:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8642-8643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8642", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-23T14:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8643", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the McHenry amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt366-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3288-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3288
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2009-07-23", 
+  "number": 366, 
+  "purpose": "An amendment numbered 4 printed in Part A of House Report 111-219 to increase funding for Amtrak's Office of Inspector General by $1 million, offset by a reduction for Amtrak Operating Grants.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2009-07-23", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

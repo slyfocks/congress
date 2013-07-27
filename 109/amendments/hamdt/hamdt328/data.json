@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-20T15:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4761-4767, H4779-4780", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4761", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Obey to the Hunter amendment (A007).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-20T18:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 283, 
+      "text": "On agreeing to the Obey amendment (A008) Failed by recorded vote: 198 - 210 (Roll no. 283).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt328-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt327-109", 
+    "amendment_type": "hamdt", 
+    "congress": 109, 
+    "number": 327
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment to the Hunter amendment (A007) sought to insert into the bill, the section entitled, \"Sec. 9012. Sense of Congress and Report Concerning Inappropriate Proselytizing of United States Air Force Academy Cadets\".", 
+  "house_number": 8, 
+  "introduced_at": "2005-06-20", 
+  "number": 328, 
+  "purpose": "An amendment to make adjustments to the existing committee language in section 9012 as printed in the bill. The amendment makes clear that coercive and abusive religious proselytizing at the Air Force Academy is inconsistent with the professionalism and standards required by those who serve at the Academy. The amendment also requires development of a plan of implementation and a subsequent requirement for a report by the Secretary to the Congress not later than 60 days after enactment of the bill.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-20T18:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-15T14:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1038-1039", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-15T14:05:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1038", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Traficant amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt595-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3843-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3843
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires the SBA to conduct a study to determine the average time that the SBA requires to process an application for each type of loan or loan guarantee made under the Small Business Act.", 
+  "house_number": 1, 
+  "introduced_at": "2000-03-15", 
+  "number": 595, 
+  "purpose": "An amendment to add a new section 4 which provides for a study to determine the average time that the Administration requires to process an application for each type of loan or loan guarantee and to report to Congress within one year on the results.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-15T14:05:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

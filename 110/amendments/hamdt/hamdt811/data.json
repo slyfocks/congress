@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-26T12:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10919", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10919", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-26T12:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Obey amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt811-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hjres52-110", 
+    "bill_type": "hjres", 
+    "congress": 110, 
+    "number": 52
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment adds sense of Congress language as contained in the Lewis (CA) motion to recommit with instructions.", 
+  "house_number": 1, 
+  "introduced_at": "2007-09-26", 
+  "number": 811, 
+  "purpose": "An amendment adding sense of Congress language as contained in the Lewis (CA) motion to recommit with instructions.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-26T12:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-21", 
+      "references": [
+        {
+          "reference": "CR S6898-6900", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6899", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 788 proposed by Senator DeWine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-21", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 788 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt788-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-15", 
+  "number": 788, 
+  "proposed_at": "2005-06-21", 
+  "purpose": "To amend the Sherman Act to make oil-producing and exporting cartels illegal.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeWine, Mike", 
+    "state": "OH", 
+    "thomas_id": "00293", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-21", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

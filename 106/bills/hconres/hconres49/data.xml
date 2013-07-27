@@ -1,0 +1,106 @@
+<bill session="106" type="hc" number="49" updated="2013-07-14T18:55:20-04:00">
+  <state datetime="1999-04-30">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-04-30"/>
+  </status>
+  <introduced datetime="1999-03-10"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for a bike rodeo to be conducted by the Earth Force Youth Bike Summit.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="1999-03-10"/>
+    <cosponsor id="400035" joined="1999-03-10"/>
+    <cosponsor id="400572" joined="1999-03-10"/>
+    <cosponsor id="400062" joined="1999-03-10"/>
+    <cosponsor id="400522" joined="1999-03-10"/>
+    <cosponsor id="400100" joined="1999-03-10"/>
+    <cosponsor id="400582" joined="1999-03-10"/>
+    <cosponsor id="400188" joined="1999-03-10"/>
+    <cosponsor id="400240" joined="1999-03-10"/>
+    <cosponsor id="400262" joined="1999-03-10"/>
+    <cosponsor id="400289" joined="1999-03-10"/>
+    <cosponsor id="400299" joined="1999-03-10"/>
+    <cosponsor id="400354" joined="1999-03-10"/>
+    <cosponsor id="400370" joined="1999-03-10"/>
+    <cosponsor id="400403" joined="1999-03-10"/>
+    <cosponsor id="400611" joined="1999-03-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-03-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-03-11">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1999-03-16T16:06:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-61.</text>
+    </action>
+    <calendar datetime="1999-03-16T16:06:00-05:00" calendar="House" number="27">
+      <text>Placed on the House Calendar, Calendar No. 27.</text>
+    </calendar>
+    <action datetime="1999-04-12T15:08:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1999-04-12T15:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1819-1821" label="consideration"/>
+    </action>
+    <action datetime="1999-04-12T15:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 49.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-04-12T15:15:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-04-12T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-04-13">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="1999-04-30">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S4508" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-04-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="1999-05-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bicycles"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Sports and recreation"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1999--Introduced.
+Permits the Earth Force Youth Bike Summit, subject to specified conditions, to sponsor a bike rodeo on the Capitol grounds on May 5, 1999.</summary>
+</bill>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-20T20:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3344", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3344", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-20T20:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Traficant amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt98-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2216-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2216
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment adds \"Buy-American\" provisions to the bill.", 
+  "house_number": 20, 
+  "introduced_at": "2001-06-20", 
+  "number": 98, 
+  "purpose": "An amendment to add \"Buy-American\" provisions to the bill.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-06-20T20:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

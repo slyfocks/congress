@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2153, S2154-2158, S2173-2174", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2153", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3050 proposed by Senator Santorum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 44, 
+      "text": "Amendment SA 3050 agreed to in Senate by Yea-Nay Vote. 60 - 38. Record Vote Number: 44.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3050-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3050, 
+  "proposed_at": "2006-03-15", 
+  "purpose": "To increase funding for the Community Develeopment Block Grant Program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

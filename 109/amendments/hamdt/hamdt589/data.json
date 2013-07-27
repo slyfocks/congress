@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-07T12:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8778-8788", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8778-8780", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-07T13:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 517, 
+      "text": "On agreeing to the Stupak amendment (A001) Failed by recorded vote: 199 - 222 (Roll no. 517).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt589-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3893-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3893
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute sought to replace the language of the bill with the text of the \"Federal Response to Energy Emergencies Act of 2005\".", 
+  "house_number": 1, 
+  "introduced_at": "2005-10-07", 
+  "number": 589, 
+  "purpose": "An amendment in the nature of a substitute printed in House Report 109-245 to give explicit authority to the FTC to define price gouging; to preserve the FTC's existing civil penalty authority and authorize new civil penalties of up to three times the amount of unjust profits gained by companies who engage in price gouging; and to increase our nation's refinery capacity by establishing a federal Strategic Refinery Reserve which would build upon the success of the Strategic Petroleum Reserve (SPR) by creating a natural extension of the SPR--a refinery reserve.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-10-07T13:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-09T14:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4691-4692, H4705", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4691", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-09T16:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 315, 
+      "text": "On agreeing to the Davis, Tom amendment (A002) Failed by recorded vote: 36 - 390 (Roll no. 315).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt147-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1684-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1684
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to delete section 407 of the bill which requires that identification cards, uniforms, protective gear, and badges of Homeland Security personnel be manufactured in the United States.", 
+  "house_number": 2, 
+  "introduced_at": "2007-05-09", 
+  "number": 147, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-136 to remove section 407 of the bill, which requires that identification cards, uniforms, protective gear, and badges of Homeland Security personnel be manufactured in the United States.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-09T16:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

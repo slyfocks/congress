@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-21T10:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2752-2759, H2763-2764", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2752", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Neugebauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-21T13:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 168, 
+      "text": "On agreeing to the Neugebauer amendment (A006) Failed by recorded vote: 185 - 247 (Roll no. 168).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt55-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1227-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1227
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 306 of the bill which authorizes funds for eligible families to continue receiving voucher assistance after the termination of the Disaster Voucher Program.", 
+  "house_number": 6, 
+  "introduced_at": "2007-03-21", 
+  "number": 55, 
+  "purpose": "An amendment numbered 6 printed in Part B of House Report 110-53 to strike section 306 of the bill. Section 306 authorizes funds for eligible families to continue receiving voucher assistance after the termination of the Disaster Voucher Program.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-21T13:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

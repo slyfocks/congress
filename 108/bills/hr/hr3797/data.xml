@@ -1,0 +1,169 @@
+<bill session="108" type="h" number="3797" updated="2013-07-14T19:02:23-04:00">
+  <state datetime="2004-10-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2004-10-30"/>
+  </status>
+  <introduced datetime="2004-02-11"/>
+  <titles>
+    <title as="introduced" type="short">2004 District of Columbia Omnibus Authorization Act</title>
+    <title as="reported to house" type="short">2004 District of Columbia Omnibus Authorization Act</title>
+    <title as="passed house" type="short">2004 District of Columbia Omnibus Authorization Act</title>
+    <title as="passed senate" type="short">2004 District of Columbia Omnibus Authorization Act</title>
+    <title as="enacted" type="short">2004 District of Columbia Omnibus Authorization Act</title>
+    <title as="introduced" type="official">To authorize improvements in the operations of the government of the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2004-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-02-11">
+      <text>Referred to the Committee on Government Reform, and in addition to the Committees on Education and the Workforce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2004-02-11">
+      <text>Referred to House Government Reform</text>
+    </action>
+    <action datetime="2004-02-11">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2004-02-11">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2004-02-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-02-26">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Government Reform"/>
+    </calendar>
+    <action datetime="2004-06-17T20:08:00-04:00">
+      <text>Reported by the Committee on Government Reform. H. Rept. 108-551, Part I.</text>
+    </action>
+    <action datetime="2004-06-17T20:09:00-04:00">
+      <text>House Committee on Education and the Workforce Granted an extension for further consideration ending not later than June 17, 2004.</text>
+    </action>
+    <action datetime="2004-06-17T20:09:00-04:00">
+      <text>House Committee on Financial Services Granted an extension for further consideration ending not later than June 17, 2004.</text>
+    </action>
+    <action datetime="2004-06-17T20:20:00-04:00">
+      <text>Committee on Education and the Workforce discharged.</text>
+    </action>
+    <action datetime="2004-06-17T20:20:00-04:00">
+      <text>Committee on Financial Services discharged.</text>
+    </action>
+    <calendar datetime="2004-06-17T20:21:00-04:00" calendar="Union" number="319">
+      <text>Placed on the Union Calendar, Calendar No. 319.</text>
+    </calendar>
+    <action datetime="2004-06-21T14:46:00-04:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2004-06-21T14:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4600-4602" label="consideration"/>
+    </action>
+    <action datetime="2004-06-21T14:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3797.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-06-21T14:52:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4600-4601" label="text"/>
+    </vote>
+    <action datetime="2004-06-21T14:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-06-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="2004-07-14">
+      <text>Committee on Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce,  and the District of Columbia.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </action>
+    <calendar datetime="2004-07-21">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </calendar>
+    <action datetime="2004-10-11">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S11267-11271" label="consideration"/>
+      <reference ref="CR S11267-11271" label="text"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2004-10-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2004-10-11">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2004-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2004-10-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2004-10-30">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2004-10-30" type="public" number="108-386">
+      <text>Became Public Law No: 108-386.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, Discharged"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Discharged"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, the Federal Workforce, and the District of Columbia" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Bank deposits"/>
+    <term name="Bank failures"/>
+    <term name="Bank holding companies"/>
+    <term name="Bank management"/>
+    <term name="Branch banking"/>
+    <term name="Charter schools"/>
+    <term name="City councils"/>
+    <term name="Colleges"/>
+    <term name="Courthouses"/>
+    <term name="Department of the Treasury"/>
+    <term name="Deposit insurance"/>
+    <term name="Disciplining of employees"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational planning"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Federal Deposit Insurance Corporation"/>
+    <term name="Federal reserve system"/>
+    <term name="Federal-city relations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Fiscal year"/>
+    <term name="Government attorneys"/>
+    <term name="Government procurement"/>
+    <term name="Government service contracts"/>
+    <term name="Higher education"/>
+    <term name="Hours of labor"/>
+    <term name="Housing and community development"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Leases"/>
+    <term name="Leave of absence"/>
+    <term name="Legal ethics"/>
+    <term name="Local budgets"/>
+    <term name="Local employees"/>
+    <term name="Misconduct in office"/>
+    <term name="Mortgage banks"/>
+    <term name="Municipal home rule"/>
+    <term name="Rating of employees"/>
+    <term name="School boards"/>
+    <term name="Secondary education"/>
+    <term name="Securities regulation"/>
+    <term name="Urban affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2004--Public Law.
+2004 District of Columbia Omnibus Authorization Act - (Sec. 2) Amends the District of Columbia Home Rule Act to require the Board of Education, by March 1 of each year or the date on which the Mayor of the District of Columbia makes the proposed annual budget for a year available (whichever occurs later), to submit to the District Council a plan for the allocation of the Mayor's proposed budget among various object classes and responsibility centers. Specifies the content of such plan. (Sec. 3) Amends the District of Columbia Code to authorize the District's Executive Officer, under certain conditions, to enter into: (1) a contract for procurement of severable services in the same manner and to the same extent as the head of an executive agency may enter into such a contract under the Federal Property and Administrative Services Act of 1949; (2) a lease agreement for the accommodation of the District of Columbia courts in a building which is in existence or being erected by the lessor to accommodate them; and (3) a multiyear contract for the acquisition of property or services in the same manner and to the same extent as an executive agency may enter into such a contract under the Act. Provides for cancellation or termination of a multiyear contract for services in the event that funds are not made available for its continuation into a subsequent fiscal year. (Sec. 4) Requires: (1) the fiscal year for the Armory Board to begin on January 1 and end on December 31 of each calendar year; and (2) the fiscal year for the DC Public Schools (including public charter schools) and the University of the District of Columbia, starting FY 2007, to begin on July 1 and to end on June 30 of each calendar year. (Sec. 5) Extends from 50 to 56 calendar days the deadline by which the Council, after receipt of the budget proposal from the Mayor, and after public hearing, shall by act adopt the annual budget for the District government. (Sec. 6) Makes overtime requirements under the Fair Labor Standards Act inapplicable to the hours of a District government employee which constitute a compressed schedule. (Sec. 7) Amends the District of Columbia Government Comprehensive Merit Personnel Act of 1978 to subject a Legal Service Attorney, other than a Senior Executive Attorney, to additional disciplinary action such as placing of the attorney on enforced annual leave or enforced leave without pay for unacceptable performance or for any reason that is not arbitrary or capricious. (Sec. 8) Amends the Federal Deposit Insurance Act, National Housing Act, Bank Holding Company Act, Bank Protection Act of 1968, Depository Institution Management Interlocks Act, Securities Exchange Act of 1934, the Federal Reserve Act, and the National Bank Receivership Act to provide for regulation of District of Columbia-chartered banks by the Federal Deposit Insurance Corporation in lieu of the Office of the Comptroller.</summary>
+</bill>

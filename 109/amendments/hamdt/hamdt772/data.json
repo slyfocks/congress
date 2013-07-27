@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-30T12:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1342-1354, H1362", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1342-1350", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) in the nature of a substitute offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-30T14:25:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 80, 
+      "text": "On agreeing to the Miller, George amendment (A023) Failed by recorded vote: 200 - 220 (Roll no. 80).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt772-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr609-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 609
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute sought to replace the language in the bill wih the text of the \"Reverse the Raid on Student Aid Act of 2006\".", 
+  "house_number": 23, 
+  "introduced_at": "2006-03-30", 
+  "number": 772, 
+  "purpose": "An amendment in the nature of a substitute numbered 7 printed in House Report 109-401 to lower student loan interest rates; establish a new Predominantly Black Serving Institution program to boost college participation rates of low-income, black students; establish a new graduate Hispanic Serving Institution program; provide for year- round Pell grants; and repeal the Single Lender rule.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-30T14:25:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

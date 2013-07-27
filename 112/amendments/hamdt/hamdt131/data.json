@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T18:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1279-1280, H1303-1304", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1279", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A121) offered by Mr. Johnson (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:43:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 119, 
+      "text": "On agreeing to the Johnson (OH) amendment (A121) Agreed to by recorded vote: 239 - 186 (Roll no. 119).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt131-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "An amendment to prevent the Office of Surface Mining and Reclamation and Enforcement from going forward with a proposed revision to the stream buffer rule.", 
+  "house_number": 121, 
+  "introduced_at": "2011-02-18", 
+  "number": 131, 
+  "purpose": "An amendment numbered 498 printed in the Congressional Record to prohibit the use of funds to be used to develop, carry out, implement, or otherwise enforce proposed regulations published June 18, 2010 (75 Fed. Reg. 34,667) by the Office of Surface Mining Reclamation and Enforcement of the Department of the Interior.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Johnson, Bill", 
+    "state": "OH", 
+    "thomas_id": "02046", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-18T21:43:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

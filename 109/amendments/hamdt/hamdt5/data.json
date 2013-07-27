@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-10T11:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H540-544", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-10T12:08:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H540-541", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt5-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr418-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 418
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment adds language to clarify the use of delivery bonds by the Department of Homeland Security.", 
+  "house_number": 1, 
+  "introduced_at": "2005-02-10", 
+  "number": 5, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-4 to promote the goal of 100% repatriation of all aliens ordered deported by clarifying obligations under the Department of Homeland Security's existing delivery bond authority.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-02-10T12:08:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

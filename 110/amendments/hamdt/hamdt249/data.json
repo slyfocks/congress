@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-06T18:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6076-6077", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6076-6077", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Foreign Affairs.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-06T18:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Foreign Affairs amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt249-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2446-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2446
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2007-06-06", 
+  "number": 249, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsfa00", 
+    "name": "House Foreign Affairs", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-06T18:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

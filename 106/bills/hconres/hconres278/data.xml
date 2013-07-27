@@ -1,0 +1,92 @@
+<bill session="106" type="hc" number="278" updated="2013-07-14T18:55:23-04:00">
+  <state datetime="2000-04-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2000-04-12"/>
+  </status>
+  <introduced datetime="2000-03-13"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the 19th annual National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-13">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2000-03-14">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-03-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-03-15">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-03-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-03-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2000-03-23T19:54:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-541.</text>
+    </action>
+    <calendar datetime="2000-03-23T19:54:00-05:00" calendar="House" number="189">
+      <text>Placed on the House Calendar, Calendar No. 189.</text>
+    </calendar>
+    <action datetime="2000-04-03T14:24:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-04-03T14:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1638-1639" label="consideration"/>
+    </action>
+    <action datetime="2000-04-03T14:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 278.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-04-03T14:32:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1638" label="text"/>
+    </vote>
+    <action datetime="2000-04-03T14:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-04-04">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2000-04-12">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S2645" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-04-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2000-04-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement officers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Police"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2000--Introduced.
+Permits the National Fraternal Order of Police and its auxiliary to sponsor the 19th annual National Peace Officers' Memorial Service as a free public event on the Capitol grounds on May 15, 2000.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T10:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7033-7036, H7055", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7033", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T14:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 377, 
+      "text": "On agreeing to the DeFazio amendment (A005) Failed by recorded vote: 184 - 241 (Roll no. 377).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt256-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to limit authorization for the Recreation Fee Demonstration Program to activities under the jurisdiction of the National Park Service only.", 
+  "house_number": 5, 
+  "introduced_at": "2003-07-17", 
+  "number": 256, 
+  "purpose": "An amendment numbered 18 printed in the Congressional Record of July 16, 2003.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T14:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

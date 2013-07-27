@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-02T17:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H904-905, H913-914", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H904", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02T18:50:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 45, 
+      "text": "On agreeing to the Velazquez amendment (A002) Failed by recorded vote: 202 - 221 (Roll no. 45).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt13-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr27-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 27
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to allow unemployed workers to use their Personal Reemployment Account funds to cover the borrower guarantee costs of Small Business Administration's 7(a) loans.", 
+  "house_number": 2, 
+  "introduced_at": "2005-03-02", 
+  "number": 13, 
+  "purpose": "An amendment numbered two printed in House Report 109-11 to allow unemployed workers to use their Personal Reemployment Account funds to cover the borrower guarantee costs of 7(a) loans.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "thomas_id": "01184", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-02T18:50:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

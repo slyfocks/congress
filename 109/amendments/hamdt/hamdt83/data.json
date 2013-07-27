@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T20:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2373-2374, H2374-2375", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2373", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Ms. Solis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T21:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 115, 
+      "text": "On agreeing to the Solis amendment (A014) Failed by recorded vote: 182 - 248 (Roll no. 115).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt83-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete refinery revitalization provisions in the bill.", 
+  "house_number": 14, 
+  "introduced_at": "2005-04-20", 
+  "number": 83, 
+  "purpose": "An amendment numbered 14 printed in House Report 109-49 to strike all of Title III, Subtitle D, the Refinery Revitalization Act.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Solis, Hilda L.", 
+    "state": "CA", 
+    "thomas_id": "01636", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-20T21:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

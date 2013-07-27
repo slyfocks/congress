@@ -1,0 +1,85 @@
+<bill session="107" type="hc" number="309" updated="2013-07-14T18:59:00-04:00">
+  <state datetime="2002-05-20T19:13:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-05-20T19:13:00-04:00"/>
+  </status>
+  <introduced datetime="2002-01-29"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the importance of good cervical health and of detecting cervical cancer during its earliest stages.</title>
+  </titles>
+  <sponsor id="400275"/>
+  <cosponsors>
+    <cosponsor id="400067" joined="2002-04-24"/>
+    <cosponsor id="400110" joined="2002-04-24"/>
+    <cosponsor id="400272" joined="2002-04-24"/>
+    <cosponsor id="400554" joined="2002-04-24"/>
+    <cosponsor id="400290" joined="2002-04-24"/>
+    <cosponsor id="400314" joined="2002-04-24"/>
+    <cosponsor id="400387" joined="2002-04-24"/>
+    <cosponsor id="400425" joined="2002-04-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-01-29">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2002-02-04">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2002-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-04-24">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2002-05-20T15:37:00-04:00">
+      <text>Mr. Bilirakis moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-05-20T15:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2633-2634" label="consideration"/>
+    </action>
+    <action datetime="2002-05-20T15:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 309.</text>
+    </action>
+    <action datetime="2002-05-20T15:42:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-05-20T19:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2634, H2636" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-05-20T19:13:00-04:00" how="roll" result="pass" roll="173" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 361 - 0 (Roll no. 173).</text>
+      <reference ref="CR H2633" label="text"/>
+    </vote>
+    <action datetime="2002-05-20T19:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-05-21">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cervical cancer"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Health education"/>
+    <term name="Medical tests"/>
+    <term name="Women"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2002--Passed House without amendment.
+Recognizes the importance of good cervical health and early cervical cancer detection and the courage of cervical cancer survivors. Urges medical institutions to continue to raise public awareness about cervical cancer and early detection.</summary>
+</bill>

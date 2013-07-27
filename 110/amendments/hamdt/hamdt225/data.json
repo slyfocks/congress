@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T23:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5463-5465", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5463", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-22T13:56:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5566-5567", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 392, 
+      "text": "On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 155 - 263 (Roll no. 392).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt225-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike the Affordable Housing Trust Fund budgetary placeholder language in the bill.", 
+  "house_number": 23, 
+  "introduced_at": "2007-05-17", 
+  "number": 225, 
+  "purpose": "An amendment numbered 30 printed in the Congressional Record to strike the Affordable Housing Trust Fund budgetary placeholder language in the bill.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-22T13:56:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

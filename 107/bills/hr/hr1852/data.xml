@@ -1,0 +1,42 @@
+<bill session="107" type="h" number="1852" updated="2013-07-14T18:57:40-04:00">
+  <state datetime="2001-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2001-05-15"/>
+  </status>
+  <introduced datetime="2001-05-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Natural Gas Act to limit the extent to which natural gas prices charged to end users may be increased.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors>
+    <cosponsor id="400133" joined="2001-05-21"/>
+    <cosponsor id="400211" joined="2001-05-21"/>
+    <cosponsor id="400513" joined="2001-05-21"/>
+    <cosponsor id="400295" joined="2001-05-21"/>
+    <cosponsor id="400357" joined="2001-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-05-15">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-05-22">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy prices"/>
+    <term name="Natural gas"/>
+    <term name="Price regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2001--Introduced.
+Amends the Natural Gas Act to declare that an increase in natural gas prices to an end user that are in excess of 15 percent per month shall be deemed to be unjust and unreasonable.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21", 
+      "references": [
+        {
+          "reference": "CR S4086-4087", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 484 proposed by Senator Stevens for Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S4087", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 484 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt484-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 484, 
+  "proposed_at": "2005-04-21", 
+  "purpose": "To express the sense of the Senate on funding for the procurement of man-portable air defense (MANPAD) systems.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-21", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

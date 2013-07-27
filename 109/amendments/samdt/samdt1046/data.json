@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7414", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7414", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1046 proposed by Senator Dorgan for Senator Sarbanes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7478", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "references": [
+        {
+          "reference": "CR S7585-7586", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1046 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1046-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1046, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To provide for a study of the feasibility of designating the Captain John Smith Chesapeake National Historic Watertrail as a national historic trail.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sarbanes, Paul S.", 
+    "state": "MD", 
+    "thomas_id": "01017", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-29", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

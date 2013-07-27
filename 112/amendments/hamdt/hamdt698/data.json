@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T20:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5360-5362", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5360", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Watt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-22T10:36:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5382-5383", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 622, 
+      "text": "On agreeing to the Watt amendment (A002) Failed by recorded vote: 102 - 302, 7 Present (Roll no. 622).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt698-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2551-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2551
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the Office of Congressional Ethics (OCE) by $619,200 and to apply the savings to the spending reduction account.", 
+  "house_number": 2, 
+  "introduced_at": "2011-07-21", 
+  "number": 698, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-173 to reduce funding for the Office of Congressional Ethics (OCE) by 40% ($619,200) and transfer the funds to the Spending Reduction Account.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-22T10:36:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

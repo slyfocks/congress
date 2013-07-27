@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-10T13:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1100-1113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1100", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Ehlers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-10T15:31:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 38, 
+      "text": "On agreeing to the Ehlers amendment (A001) Agreed to by recorded vote: 406 - 13 (Roll no. 38).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt18-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr800-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires that the State educational agency which provides waivers for local school districts be satisfied that the underlying purposes of the statutory requirements of each program for which a waiver is granted continue to be met.", 
+  "house_number": 1, 
+  "introduced_at": "1999-03-10", 
+  "number": 18, 
+  "purpose": "Amendment numbered 6 printed in the Congressional Record to require that the State educational agency insures that the purposes of the statutory requirements of each program for which a waiver is granted continue to be met.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Ehlers, Vernon J.", 
+    "state": "MI", 
+    "thomas_id": "00339", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-03-10T15:31:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

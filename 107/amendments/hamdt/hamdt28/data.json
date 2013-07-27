@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-02T11:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1764-1780", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1764-1780", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment in the nature of a substitute reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-02T11:51:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt28-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-05-02", 
+  "number": 28, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record made in order pursuant to H. Res. 127 and considered as adopted. The amendment inserts a complete new text.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-02T11:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-10T12:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1302-1303, H1305", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1302", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-10T12:18:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Burgess amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt31-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment changes the calculation of section 120(j) credits, which are based on toll revenues, to reflect the proportionate State and local investments in revenue-generating transportation facilities.", 
+  "house_number": 12, 
+  "introduced_at": "2005-03-10", 
+  "number": 31, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-15 to change the current calculation to a pro rata calculation, reflecting a state's level of investment in a toll facility. Currently it is a zero sum situation.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-10T12:18:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-12T10:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4840-4841, H4848-4849", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4840", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Tonko.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-12T11:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 462, 
+      "text": "On agreeing to the Tonko amendment (A001) Failed by recorded vote: 162 - 251 (Roll no. 462).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1371-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4402-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4402
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to narrow the scope of the underlying bill to include strategic and critical minerals only.", 
+  "house_number": 1, 
+  "introduced_at": "2012-07-12", 
+  "number": 1371, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-590 to narrow the scope of the underlying bill to include strategic and critical minerals only.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Tonko, Paul", 
+    "state": "NY", 
+    "thomas_id": "01942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-12T11:59:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T16:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4986-4987, H4991", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4986", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Carnahan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-13T18:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 570, 
+      "text": "On agreeing to the Carnahan amendment (A009) Failed by recorded vote: 173 - 247 (Roll no. 570).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt636-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2018-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2018
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to restrict the application of the bill if a major disaster had been declared in the area due to flooding within the last five years, or the waters in question had contributed to such a declaration.", 
+  "house_number": 9, 
+  "introduced_at": "2011-07-13", 
+  "number": 636, 
+  "purpose": "An amendment numbered 10 printed in House Report 112-144 to restrict the application of the bill if a major disaster had been declared in the area due to flooding within the last five years, or the waters in question had contributed to such a declaration.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Carnahan, Russ", 
+    "state": "MO", 
+    "thomas_id": "01789", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-13T18:17:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

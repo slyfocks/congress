@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7496-7497", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7496", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4669 proposed by Senator Gregg for Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4669 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4669-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-13", 
+  "number": 4669, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To express the sense of the Senate that Customs and Border Protection should continue to focus on reporting and analysis of trade flows to prevent the spread of methamphetamine.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

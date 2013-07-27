@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2272", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3128 proposed by Senator Domenici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 72, 
+      "text": "Amendment SA 3128 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 72.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3128-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3128, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To provide funding for implementing the Energy Policy Act of 2005 from ANWR.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Domenici, Pete V.", 
+    "state": "NM", 
+    "thomas_id": "01319", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

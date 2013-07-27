@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3880", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3880", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 441 proposed by Senator Cochran for Senator Santorum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 441 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt441-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-14", 
+  "number": 441, 
+  "proposed_at": "2005-04-19", 
+  "purpose": "To allow certain appropriated funds to be used to provide loan guarantees.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-19", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

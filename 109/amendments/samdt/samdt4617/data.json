@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7470-7472", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7470-7471", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4617 proposed by Senator Gregg for Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4617 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4617-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4617, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To ensure that methodologies and technologies used by the Bureau of Customs and Border Protection to screen for and detect the presence of chemical, nuclear, biological, and radiological weapons in municipal solid waste are as effective as the methodologies and technologies used by the Bureau to screen for those materials in other items of commerce entering the United States through commercial motor vehicle transport.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

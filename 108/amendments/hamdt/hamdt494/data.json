@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01T14:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1984-1986", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1984", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-01T17:15:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 4/2/2004 H2031-2032", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 106, 
+      "text": "On agreeing to the Flake amendment (A003) Failed by recorded vote: 60 - 367 (Roll no. 106).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt494-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3550-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3550
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to subtract the amount that states receive in High Priority Program earmarks from their formula totals for the Surface Transportation Program.", 
+  "house_number": 3, 
+  "introduced_at": "2004-04-01", 
+  "number": 494, 
+  "purpose": "An amendment numbered 3 printed in Part B of House Report 108-456 to subtract the amount that states receive in \"high priority\" program earmarks from their formula totals for the Surface Transportation Program. The amendment also would prevent the \"Minimum Guaranty Program\" from backfilling for what comes out of states' Surface Transportation Program funding, and would apportion to states any funding remaining in the \"high priority\" program.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-04-01T17:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

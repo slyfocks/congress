@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8500", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8500", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1302 proposed by Senator Frist for Senator Coleman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1302 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1302-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres31-109", 
+    "bill_type": "sres", 
+    "congress": 109, 
+    "number": 31
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-19", 
+  "number": 1302, 
+  "proposed_at": "2005-07-19", 
+  "purpose": "To provide for the observance of the week with appropriate ceremonies and activities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coleman, Norm", 
+    "state": "MN", 
+    "thomas_id": "01697", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-19", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

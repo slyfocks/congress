@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-02T20:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5276-5285", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5276-5278", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Thomas.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-02T21:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 330, 
+      "text": "On agreeing to the Thomas amendment (A003) Failed by recorded vote: 207 - 221 (Roll no. 330).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt304-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2563-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2563
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to reform medical malpractice laws.", 
+  "house_number": 3, 
+  "introduced_at": "2001-08-02", 
+  "number": 304, 
+  "purpose": "An amendment numbered 3 printed in House Report 107-184 to reform the medical malpractice laws for health care providers to place time limits on lawsuits, cap damages, establish the collateral source rule, provide for several liability, and protect against lawsuits for products that meet FDA standards; and to grandfather existing laws and allow future state laws to supercede federal standards.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-08-02T21:45:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,128 @@
+<bill session="108" type="h" number="1911" updated="2013-07-14T19:01:19-04:00">
+  <state datetime="2003-05-21T13:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-05-21T13:41:00-04:00"/>
+  </status>
+  <introduced datetime="2003-05-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to enhance cooperation and the sharing of resources between the Department of Veterans Affairs and the Department of Defense.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400002" joined="2003-05-14"/>
+    <cosponsor id="400126" joined="2003-05-01"/>
+    <cosponsor id="400279" joined="2003-05-01"/>
+    <cosponsor id="400339" joined="2003-05-01"/>
+    <cosponsor id="400375" joined="2003-05-01"/>
+    <cosponsor id="400380" joined="2003-05-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-05-01">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2003-05-01">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2003-05-01">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2003-05-05">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-05-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-05-06">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2003-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-05-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2003-05-19T20:32:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 108-115, Part I.</text>
+    </action>
+    <action datetime="2003-05-19T20:33:00-04:00">
+      <text>House Committee on Armed Services Granted an extension for further consideration ending not later than May 19, 2003.</text>
+    </action>
+    <action datetime="2003-05-19T20:34:00-04:00">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <calendar datetime="2003-05-19T20:35:00-04:00" calendar="Union" number="59">
+      <text>Placed on the Union Calendar, Calendar No. 59.</text>
+    </calendar>
+    <action datetime="2003-05-20T11:00:00-04:00">
+      <text>Mr. Boozman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-05-20T11:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4272-4273" label="consideration"/>
+    </action>
+    <action datetime="2003-05-20T11:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1911.</text>
+    </action>
+    <action datetime="2003-05-20T11:07:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-05-21T13:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4398-4399" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-05-21T13:41:00-04:00" how="roll" result="pass" roll="204" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 204).</text>
+      <reference ref="CR 5/20/2003 H4272" label="text"/>
+    </vote>
+    <action datetime="2003-05-21T13:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-05-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2003-07-18">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2003-07-18">
+      <text>Referred to the Subcommittee on Total Force.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAS27" subcommittee="Total Force" name="House Armed Services"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive reorganization"/>
+    <term name="Families"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Military dependents"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel"/>
+    <term name="Productivity in government"/>
+    <term name="Quality of care"/>
+    <term name="Retired military personnel"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2003--Passed House without amendment.
+Establishes an interagency committee to be known as the Department of Veterans Affairs-Department of Defense Joint Executive Committee to: (1) recommend to the Secretary of each department strategic direction for joint health-care resources coordination and sharing efforts between and within such departments; and (2) oversee implementation of those efforts.</summary>
+</bill>

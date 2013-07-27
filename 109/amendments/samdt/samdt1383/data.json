@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-25", 
+      "references": [
+        {
+          "reference": "CR S8786-8788", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8785-8786", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1383 proposed by Senator Allard.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [
+        {
+          "reference": "CR S8897-8898", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-04", 
+      "references": [
+        {
+          "reference": "CR S12378", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-04", 
+      "references": [], 
+      "text": "Proposed amendment SA 1383 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1383-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-21", 
+  "number": 1383, 
+  "proposed_at": "2005-07-25", 
+  "purpose": "To establish a program for the management of post-project completion retirement benefits for employees at Department of Energy project completion sites.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Allard, Wayne", 
+    "state": "CO", 
+    "thomas_id": "00011", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-11-04", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

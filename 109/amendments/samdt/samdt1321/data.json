@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-20", 
+      "references": [
+        {
+          "reference": "CR S8543-8544", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8544", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1321 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1321 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1321-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-20", 
+  "number": 1321, 
+  "proposed_at": "2005-07-20", 
+  "purpose": "To establish certain qualifications for individuals who serve as Regional Directors of the TRICARE program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-20", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

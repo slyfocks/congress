@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-26T13:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4109", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4109", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mrs. Jones (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-26T13:39:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Jones (OH) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt221-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2528-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2528
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "2005-05-26", 
+  "number": 221, 
+  "purpose": "An amendment to prohibit use of funds to implement the results of the 2005 round of BRAC until the completion of all environmental remediation associated with the closure of military installations approved for closure in the 1995 round of BRAC.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Jones, Stephanie Tubbs", 
+    "state": "OH", 
+    "thomas_id": "01581", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-05-26", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

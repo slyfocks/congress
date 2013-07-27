@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T14:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H508-509, H522", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H508", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mrs. Dahlkemper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-03T16:30:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 36, 
+      "text": "On agreeing to the Dahlkemper amendment (A008) Agreed to by recorded vote: 419 - 3 (Roll no. 36).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt552-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment allows collaboration between and among community colleges, universities, and Manufacturing Extension Partnership Centers as an additional use for the Computer and Network Security Capacity Building Grants under the Cyber Security Research and Development Act.", 
+  "house_number": 8, 
+  "introduced_at": "2010-02-03", 
+  "number": 552, 
+  "purpose": "An amendment numbered 8 printed in House Report 111-410 to allow collaboration between and among community colleges, universities, and Manufacturing Extension Partnership Centers as an additional use for the Computer and Network Security Capacity Building Grants under the Cyber Security Research and Development Act.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Dahlkemper, Kathleen A.", 
+    "state": "PA", 
+    "thomas_id": "01951", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-03T16:30:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

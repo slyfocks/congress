@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-01T12:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H578-579", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H578", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Green (WI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-01T12:44:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Green (WI) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt4-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr333-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 333
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment prevents the names of children from being disclosed in bankruptcy filings.", 
+  "house_number": 3, 
+  "introduced_at": "2001-03-01", 
+  "number": 4, 
+  "purpose": "Amendment no. 3 printed in H. Rept. 107-4 to prevent the names of children from being disclosed in bankruptcy filings.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Green, Mark", 
+    "state": "WI", 
+    "thomas_id": "01559", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-03-01T12:44:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

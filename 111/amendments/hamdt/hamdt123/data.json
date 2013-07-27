@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-05-13T13:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5510-5511", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5510", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. McKeon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-13T13:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McKeon amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt123-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2187-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires states to be in compliance with the public school choice, supplemental education services, private school participation, and military recruiters provisions of the Elementary and Secondary Education Act to be eligible to receive funding under the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2009-05-13", 
+  "number": 123, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-106 to require states to be in compliance with the public school choice, supplemental education services, private school participation, and military recruiters provisions of the Elementary and Secondary Education Act to be eligible to receive funding under the bill.", 
+  "sponsor": {
+    "district": "25", 
+    "name": "McKeon, Howard P. \"Buck\"", 
+    "state": "CA", 
+    "thomas_id": "00778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-05-13T13:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

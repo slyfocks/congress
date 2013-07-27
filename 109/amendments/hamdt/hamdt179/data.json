@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-19T16:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3644", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3644", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Gillmor.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-19T16:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gillmor amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt179-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment clarifies language in the bill regarding State and Tribal Assistance Grants.", 
+  "house_number": 11, 
+  "introduced_at": "2005-05-19", 
+  "number": 179, 
+  "purpose": "An amendment to strike \"provided\" and all that follows on page 71, line 21 through page 72, line 6 and insert a new section making technical changes.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Gillmor, Paul E.", 
+    "state": "OH", 
+    "thomas_id": "00439", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-19T16:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

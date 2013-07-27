@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-08", 
+      "references": [
+        {
+          "reference": "CR S9234-9236, S9236-9240", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9236-9239", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 4922 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-11", 
+      "references": [
+        {
+          "reference": "CR S9287", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-11", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4922 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4922-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-08", 
+  "number": 4922, 
+  "proposed_at": "2006-09-08", 
+  "purpose": "To provide increased rail transportation security.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-11", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

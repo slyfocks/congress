@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-23T13:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2605, H2610", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2605", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T15:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 139, 
+      "text": "On agreeing to the Stearns amendment (A018) Agreed to by recorded vote: 361 - 67 (Roll no. 139).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt60-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires state educational agencies to provide an annual report to the Department of Education with the name of each school identified for improvement.", 
+  "house_number": 18, 
+  "introduced_at": "2001-05-23", 
+  "number": 60, 
+  "purpose": "An amendment numbered 18 printed in House Report 107-69 to require that state educational agencies make known, in the form of a report to the Department of Education, those schools that are in the process of school improvement and indicate the specific category of status: school improvement, corrective action or reconstruction.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-23T15:27:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

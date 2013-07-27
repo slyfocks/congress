@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15T19:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1019-1021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1019", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Capuano.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T11:05:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1068", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1068", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 46, 
+      "text": "On agreeing to the Capuano amendment (A009) Agreed to by recorded vote: 213 - 208 (Roll no. 46).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt709-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for Peacekeeping Operations by $50 million.", 
+  "house_number": 9, 
+  "introduced_at": "2006-03-15", 
+  "number": 709, 
+  "purpose": "An amendment to increase funding for Peacekeeping Operations by $50,000,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Capuano, Michael E.", 
+    "state": "MA", 
+    "thomas_id": "01564", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16T11:05:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

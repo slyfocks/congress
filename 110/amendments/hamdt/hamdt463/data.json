@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T23:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7323-7327", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7323", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Garrett (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-28T17:41:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7397", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 588, 
+      "text": "On agreeing to the Garrett (NJ) amendment (A010) Agreed to by recorded vote: 267 - 154 (Roll no. 588).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt463-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment extends the exemption for small businesses to comply with section 404 of the Sarbanes-Oxley Act.", 
+  "house_number": 10, 
+  "introduced_at": "2007-06-27", 
+  "number": 463, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to prohibit funds to be used by the SEC to enforce the requirements of section 404 of the Sarbanes-Oxley Act.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-28T17:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

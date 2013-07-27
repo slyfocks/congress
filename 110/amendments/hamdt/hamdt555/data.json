@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T18:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8079-8081, H8098", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8079", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A046) offered by Mr. Barton (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T21:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 666, 
+      "text": "On agreeing to the Barton (TX) amendment (A046) Failed by recorded vote: 181 - 249 (Roll no. 666).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt555-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit funds provided in the bill for the National Institutes of Health from being transferred to the Global Fund and Evaluation Tap.", 
+  "house_number": 46, 
+  "introduced_at": "2007-07-18", 
+  "number": 555, 
+  "purpose": "An amendment to prohibit the use of funds for activities under section 241(a) of the Public Health Service Act.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T21:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

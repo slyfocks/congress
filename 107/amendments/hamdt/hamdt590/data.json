@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-26T10:24:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5800-5804", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H5800-5801", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-26T11:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 356, 
+      "text": "On agreeing to the Shays amendment (A017) Agreed to by recorded vote: 229 - 201 (Roll no. 356).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt590-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5005-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5005
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment adds language specifying the circumstances under which the President may be allowed to exclude Federal employees in the Department of Homeland Security from coverage under certain labor laws.", 
+  "house_number": 17, 
+  "introduced_at": "2002-07-26", 
+  "number": 590, 
+  "purpose": "An amendment numbered 17 printed in House Report 107-615.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-07-26T11:16:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

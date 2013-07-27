@@ -1,0 +1,72 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-20", 
+      "references": [
+        {
+          "reference": "CR S10217-10218", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10218", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1752 proposed by Senator Bennett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1752 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "references": [
+        {
+          "reference": "CR S10270", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10270", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 1752, previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1752-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-20", 
+  "number": 1752, 
+  "proposed_at": "2005-09-20", 
+  "purpose": "To establish a demonstration intermediate relending program for the construction and rehabilitation of housing for the Choctaw Nation.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bennett, Robert F.", 
+    "state": "UT", 
+    "thomas_id": "01280", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-20", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

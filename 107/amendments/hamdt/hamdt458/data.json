@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-04-24T13:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1574-1589", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1574-1583", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. LaFalce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24T14:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 108, 
+      "text": "On agreeing to the LaFalce amendment (A005) Failed by recorded vote: 202 - 219 (Roll no. 108).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt458-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3763-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3763
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to provide for the creation of a Public Regulatory Organization, define the nature and composition of the organization, and delineate its specific roles and responsibilities.", 
+  "house_number": 5, 
+  "introduced_at": "2002-04-24", 
+  "number": 458, 
+  "purpose": "An amendment in the nature of a substitute numbered 5 printed in House Report 107-418 to replace the regulatory structure in the bill with one that requires establishment of a public regulator with specified duties and authority; to modify definitions of non-audit services to make the two bans on non-audit services included in the bill effective; to provide for approval of non-audit services by the audit committee; to replace the executive responsibility provisions in the bill to require executive certification of financial statements; to improve the ability of the SEC to bar officers and directors from future service in public companies; to enable the SEC to obtain disgorgement of stock bonuses from executives who have falsified financial statements; to place limits on analyst conflicts of interest and improve corporate governance by giving audit committees oversight of auditors; and to establish an independent nominating committee for independent directors.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "LaFalce, John J.", 
+    "state": "NY", 
+    "thomas_id": "00657", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-04-24T14:41:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

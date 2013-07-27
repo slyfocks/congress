@@ -1,0 +1,85 @@
+<bill session="107" type="hc" number="100" updated="2013-07-14T18:58:57-04:00">
+  <state datetime="2001-06-05T18:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-06-05T18:25:00-04:00"/>
+  </status>
+  <introduced datetime="2001-04-04"/>
+  <titles>
+    <title as="introduced" type="official">Commending Clear Channel Communications and the American Football Coaches Association for their dedication and efforts for protecting children by providing a vital means for locating the Nation's missing, kidnapped, and runaway children.</title>
+  </titles>
+  <sponsor id="400116"/>
+  <cosponsors>
+    <cosponsor id="400547" joined="2001-06-05"/>
+    <cosponsor id="400303" joined="2001-06-05"/>
+    <cosponsor id="400421" joined="2001-06-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-04-04">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2001-04-30">
+      <text>Referred to the Subcommittee on Select Education.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="2001-06-05T14:15:00-04:00">
+      <text>Mr. Osborne moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2001-06-05T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2853-2856" label="consideration"/>
+    </action>
+    <action datetime="2001-06-05T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 100.</text>
+    </action>
+    <action datetime="2001-06-05T14:36:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-06-05T18:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2859" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-06-05T18:25:00-04:00" how="roll" result="pass" roll="150" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 150).</text>
+      <reference ref="CR H2853" label="text"/>
+    </vote>
+    <action datetime="2001-06-05T18:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-06-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2001-06-07">
+      <text>Referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and the Workforce"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="sc" number="31"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Business and social problems"/>
+    <term name="Child safety"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Families"/>
+    <term name="Football"/>
+    <term name="Identification devices"/>
+    <term name="Kidnapping"/>
+    <term name="Missing children"/>
+    <term name="Runaway children"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sports and recreation"/>
+    <term name="Telecommunication industry"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2001--Passed House amended.
+Commends the American Football Coaches Association for its dedication and efforts to protect children and locate the Nation's missing, kidnapped, and runaway children by providing parents with Inkless Child Identification Kits.</summary>
+</bill>

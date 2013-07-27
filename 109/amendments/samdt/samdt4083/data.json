@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25", 
+      "references": [
+        {
+          "reference": "CR S5146-5153, S5188", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5146", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4083 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 153, 
+      "text": "Amendment SA 4083 agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 153.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4083-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-19", 
+  "number": 4083, 
+  "proposed_at": "2006-05-25", 
+  "purpose": "To strike the provision prohibiting a court from staying the removal of an alien in certain circumstances.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-25", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

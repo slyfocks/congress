@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2103-2107, S2113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2103", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3054 proposed by Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2146, S2176-2177", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 47, 
+      "text": "Amendment SA 3054 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 47.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3054-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3054, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To provide an additional $965 million to make our ports more secure by increasing port security grants, increasing inspections, improving existing programs, and increasing research and development, and to fully offset this additional funding by closing tax loopholes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

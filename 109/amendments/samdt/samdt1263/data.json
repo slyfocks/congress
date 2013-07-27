@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-20", 
+      "references": [
+        {
+          "reference": "CR S8535-8536", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1263 proposed by Senator Warner for Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8535-8536", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1263 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1263-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-18", 
+  "number": 1263, 
+  "proposed_at": "2005-07-20", 
+  "purpose": "To increase the accountability and effectiveness of international police training.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-20", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

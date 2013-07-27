@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-22", 
+      "references": [
+        {
+          "reference": "CR S6377-6392", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4311 proposed by Senator Levin for Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4311 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4311-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-19", 
+  "number": 4311, 
+  "proposed_at": "2006-06-22", 
+  "purpose": "To provide that acceptance by a military officer of appointment to the position of Director of National Intelligence or Director of the Central Intelligence Agency shall be conditional upon retirement of the officer after the assignment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-22", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

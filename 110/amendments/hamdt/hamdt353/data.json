@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-21T11:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6841, H6870", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6841", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-21T15:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 529, 
+      "text": "On agreeing to the Shays amendment (A003) Agreed to by recorded vote: 355 - 69 (Roll no. 529).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt353-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2764-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2764
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides $1 milllion to the U.S. Institute of Peace for the purpose of reestablishing the Iraq Study Group.", 
+  "house_number": 3, 
+  "introduced_at": "2007-06-21", 
+  "number": 353, 
+  "purpose": "An amendment to provide additional funding (by transfer) for the Iraq Study Group in the amount of $1 million.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-21T15:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

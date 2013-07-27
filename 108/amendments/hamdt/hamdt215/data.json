@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-10T15:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6560-6561", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6560", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Bereuter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-10T15:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bereuter amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt215-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2660-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment earmarks $12 million for research on the comparative effectiveness, cost effectiveness, and safety of drugs, biological products, and devices.", 
+  "house_number": 2, 
+  "introduced_at": "2003-07-10", 
+  "number": 215, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to provide that $12 million shall be available for the conduct of research on the comparative effectiveness, cost-effectiveness, and safety of drugs, biological products and devices.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bereuter, Doug", 
+    "state": "NE", 
+    "thomas_id": "00080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-10T15:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

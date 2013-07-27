@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-15T15:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14022-14023", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14022", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Watt to the Hensarling amendment (A010).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-15T15:56:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Watt amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt908-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt907-110", 
+    "amendment_type": "hamdt", 
+    "congress": 110, 
+    "number": 907
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3915-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3915
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment adds that the obligor must have had actual knowledge of the false material information for the exemption from liability to take effect.", 
+  "house_number": 11, 
+  "introduced_at": "2007-11-15", 
+  "number": 908, 
+  "purpose": "An amendment numbered 8 printed in House Report 110-450 to add that the obligor must have had actual knowledge of the false material information for the exemption from liability to take effect.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-11-15T15:56:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

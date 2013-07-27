@@ -1,0 +1,72 @@
+<bill session="107" type="h" number="3370" updated="2013-07-14T18:58:12-04:00">
+  <state datetime="2001-12-11T16:42:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-12-11T16:42:00-05:00"/>
+  </status>
+  <introduced datetime="2001-11-28"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Coast Guard Authorization Act of 1996 to modify the reversionary interest of the United States in a parcel of property conveyed to the Traverse City Area School District in Traverse City, Michigan.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors>
+    <cosponsor id="400526" joined="2001-11-29"/>
+    <cosponsor id="400058" joined="2001-11-28"/>
+    <cosponsor id="400119" joined="2001-11-29"/>
+    <cosponsor id="400342" joined="2001-12-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-11-28">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2001-11-29">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-12-11T16:34:00-05:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-12-11T16:34:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9127-9128" label="consideration"/>
+    </action>
+    <action datetime="2001-12-11T16:34:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3370.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-11T16:42:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9127" label="text"/>
+    </vote>
+    <action datetime="2001-12-11T16:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-12-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Coast guard"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Land transfers"/>
+    <term name="Michigan"/>
+    <term name="Military base conversion"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Recreation"/>
+    <term name="School districts"/>
+    <term name="Social welfare"/>
+    <term name="Sports and recreation"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/2001--Passed House without amendment.
+Amends the Coast Guard Authorization Act of 1996 with respect to a conveyance by the Secretary of Transportation of specified Federal property to the Traverse City Area Public School District. Replaces the school district as recipient with any public or private nonprofit entity for an educational or recreational purpose.</summary>
+</bill>

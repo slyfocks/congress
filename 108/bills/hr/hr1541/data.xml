@@ -1,0 +1,47 @@
+<bill session="108" type="h" number="1541" updated="2013-07-14T19:01:11-04:00">
+  <state datetime="2003-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2003-04-01"/>
+  </status>
+  <introduced datetime="2003-04-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 13, United States Code, to provide for a just apportionment of Representatives in Congress for all States.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2003-04-01"/>
+    <cosponsor id="400047" joined="2003-04-01"/>
+    <cosponsor id="400048" joined="2003-04-01"/>
+    <cosponsor id="400198" joined="2003-04-01"/>
+    <cosponsor id="400366" joined="2003-04-01"/>
+    <cosponsor id="400436" joined="2003-04-01"/>
+    <cosponsor id="400438" joined="2003-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2003-04-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E637"/>
+    </action>
+    <action state="REFERRED" datetime="2003-04-01">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-04-16">
+      <text>Referred to the Subcommittee on Technology, Information Policy, Intergovernmental Relations and the Census.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO20" subcommittee="Technology, Information Policy, Intergovernmental Relations and the Census" name="House Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census"/>
+    <term name="Congress"/>
+    <term name="Congressional districts"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2003--Introduced.
+Amends provisions relating to the census to eliminate the exception that prevents the use of sampling in determining the population for purposes of the apportionment of Representatives in the Congress among the several States.</summary>
+</bill>

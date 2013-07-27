@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-26", 
+      "references": [
+        {
+          "reference": "CR S3567", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3567", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3627 proposed by Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27", 
+      "references": [
+        {
+          "reference": "CR S3639", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "references": [
+        {
+          "reference": "CR S3771", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-02", 
+      "references": [
+        {
+          "reference": "CR S3858, S3873", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-02", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S3873", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 3627 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3627-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3627, 
+  "proposed_at": "2006-04-26", 
+  "purpose": "To designate the areas affected by Hurricane Katrina or Hurricane Rita as HUBZones and to waive the Small Business Competitive Demonstration Program Act of 1988 for the areas affected by Hurricane Katrina or Hurricane Rita.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-02", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

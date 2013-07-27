@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11881", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11881", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2245 proposed by Senator Dayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [
+        {
+          "reference": "CR S11953", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [], 
+      "text": "Proposed amendment SA 2245 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2245-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-25", 
+  "number": 2245, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To fully fund the Federal Government's share of the costs under part B of the Individuals with Disabilities Education Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dayton, Mark", 
+    "state": "MN", 
+    "thomas_id": "01629", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-10-27", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

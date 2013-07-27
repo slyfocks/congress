@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-03T12:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H961-964, H965-966", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H961", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Millender-McDonald.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03T13:10:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 49, 
+      "text": "On agreeing to the Millender-McDonald amendment (A002) Failed by recorded vote: 192 - 229 (Roll no. 49).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt18-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr841-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 841
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to change the overall deadline for holding expedited special elections from 49 days to 60 days.", 
+  "house_number": 2, 
+  "introduced_at": "2005-03-03", 
+  "number": 18, 
+  "purpose": "An amendment made in order by H. Res. 125 and in lieu of the amendment numbered 1 printed in House Report 109-10. The amendment inserts text providing that expedited special elections shall take place not later than 60 days after the Speaker of the House of Representatives announces that such vacancies exist.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Millender-McDonald, Juanita", 
+    "state": "CA", 
+    "thomas_id": "00805", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-03T13:10:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-17T19:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4091-4092, H4097-4098", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4091", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Lucas (OK).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-17T21:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 233, 
+      "text": "On agreeing to the Lucas (OK) amendment (A002) Failed by recorded vote: 187 - 227 (Roll no. 233).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt168-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to increase Community Oriented Policing Services (COPS) funding by $11.7 million to combat methamphetamine production and trafficking, and decrease International Broadcasting Operations funding accordingly.", 
+  "house_number": 2, 
+  "introduced_at": "2001-07-17", 
+  "number": 168, 
+  "purpose": "An amendment to increase the funding by $11.7 million (by transfer) for the methamphetamine lab seizures program by the DEA.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Lucas, Frank D.", 
+    "state": "OK", 
+    "thomas_id": "00711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-17T21:02:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

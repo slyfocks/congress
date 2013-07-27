@@ -1,0 +1,60 @@
+<bill session="106" type="h" number="5356" updated="2013-07-14T18:55:11-04:00">
+  <state datetime="2000-10-02">REFERRED</state>
+  <status>
+    <introduced datetime="2000-10-02"/>
+  </status>
+  <introduced datetime="2000-10-02"/>
+  <titles>
+    <title as="introduced" type="short">Dairy Farmer Viability Act</title>
+    <title as="introduced" type="official">To establish the Dairy Farmer Viability Commission.</title>
+  </titles>
+  <sponsor id="400591"/>
+  <cosponsors>
+    <cosponsor id="400183" joined="2000-10-02"/>
+    <cosponsor id="400210" joined="2000-10-06"/>
+    <cosponsor id="400264" joined="2000-10-02"/>
+    <cosponsor id="400299" joined="2000-10-02"/>
+    <cosponsor id="400372" joined="2000-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-02">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2000-10-10">
+      <text>Referred to the Subcommittee on Livestock and Horticulture.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2000-10-10">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock and Horticulture" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="3128"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative procedure"/>
+    <term name="Agricultural prices"/>
+    <term name="Commerce"/>
+    <term name="Competition"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Dairy industry"/>
+    <term name="Economic concentration"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Law"/>
+    <term name="Legislation"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>10/2/2000--Introduced.
+Dairy Farmer Viability Act - Establishes the Dairy Farmer Viability Commission which shall make legislative and administrative recommendations respecting dairy farming prices, stability, and marketplace competition and concentration. Terminates the Commission upon filing of a required report.</summary>
+</bill>

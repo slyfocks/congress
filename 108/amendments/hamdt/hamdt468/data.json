@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-04T12:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H839-840", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H839", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-04T12:12:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Flake amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt468-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3752-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3752
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment provides for an $11.7 million authorization for each of fiscal years 2005 through 2007 for commercial space activities within the Federal Aviation Administration.", 
+  "house_number": 2, 
+  "introduced_at": "2004-03-04", 
+  "number": 468, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to authorize $11.8 million--equal to the amount currently appropriated--for each of fiscal years 2005 through 2007 for the Federal Aviation Administration's Office of Associate Administrator for Commercial Space Transportation, the office responsible for implementing the measure.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-03-04T12:12:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

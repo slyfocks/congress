@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-29T16:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2013-2014", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2013", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Matsui.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-29T16:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Matsui amendment (A007) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt205-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr839-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 839
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require mortgage lenders and services participating in the HAMP program to continue to publicly report basic loan modification information.", 
+  "house_number": 7, 
+  "introduced_at": "2011-03-29", 
+  "number": 205, 
+  "purpose": "An amendment numbered 7 printed in Part A of House Report 112-34 to require mortgage lenders and services participating in the HAMP program to continue to publicly report basic loan modification information.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Matsui, Doris O.", 
+    "state": "CA", 
+    "thomas_id": "01814", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-29T16:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

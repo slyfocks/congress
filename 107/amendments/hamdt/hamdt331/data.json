@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-04T11:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6270-6271", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6270", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-04T11:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6271", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Andrews amendment (A013) modified by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-04T11:02:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Andrews amendment (A013) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt331-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2001-10-04", 
+  "number": 331, 
+  "purpose": "Amendment No. 3 printed in the Congressional Record.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-10-04", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

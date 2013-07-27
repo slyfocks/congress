@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-12", 
+      "references": [
+        {
+          "reference": "CR S7373-7374", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7374", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4590 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-12", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4590 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4590-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4590, 
+  "proposed_at": "2006-07-12", 
+  "purpose": "To make appropriations available for the Chief Financial Officer of the Department of Homeland Security to ensure compliance with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-12", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

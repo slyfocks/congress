@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-19T15:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2053-2055, H2095-2096", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2053", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Sherman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-19T16:15:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 71, 
+      "text": "On agreeing to the Sherman amendment (A003) Failed by recorded vote: 155 - 269, 1 Present (Roll no. 71).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt9-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr975-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 975
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to require corporations to file a bankruptcy case in the district court of the district where their principal place of business in the United States is located.", 
+  "house_number": 3, 
+  "introduced_at": "2003-03-19", 
+  "number": 9, 
+  "purpose": "Amendment Numbered 4 printed in House Report 108-42 requires corporations that file for bankruptcy to do so in the district court that has jurisdiction over the corporation's principal place of business in the United States.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "thomas_id": "01526", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-03-19T16:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

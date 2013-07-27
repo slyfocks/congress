@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-05-06T13:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3239-3240, H3243-3244", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3239", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-06T14:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 253, 
+      "text": "On agreeing to the Burgess amendment (A004) Failed by recorded vote: 190 - 228 (Roll no. 253).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt630-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5019-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5019
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the public information campaign (section 109) from the bill and strike the campaign's $12 million authorization.", 
+  "house_number": 4, 
+  "introduced_at": "2010-05-06", 
+  "number": 630, 
+  "purpose": "An amendment numbered 4 printed in House Report 111-475 to strike the public information campaign (section 109) from the bill and strike the campaign's $12 million authorization.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-05-06T14:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

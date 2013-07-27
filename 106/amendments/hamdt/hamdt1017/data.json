@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T17:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6658-6663, H6706", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6658", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. DeLauro.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T21:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 422, 
+      "text": "On agreeing to the DeLauro amendment (A006) Failed by recorded vote: 184 - 230 (Roll no. 422).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1017-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to strike section 509 which prohibits funds in the bill from being expended to pay for an abortion, or any administrative expenses connected to any Federal employee health plan which provides benefits or coverage for abortions.", 
+  "house_number": 6, 
+  "introduced_at": "2000-07-20", 
+  "number": 1017, 
+  "purpose": "An amendment to strike section 509 from the bill. Section 509 prohibits funds in the bill from being used to pay for an abortion, or the administrative expenses in connection with any health plan under the Federal employees health benefit program which provides any benefits or coverage for abortions.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "thomas_id": "00281", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-20T21:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

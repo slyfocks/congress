@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-16", 
+      "references": [
+        {
+          "reference": "CR S5990-5995", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4292 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-19", 
+      "references": [
+        {
+          "reference": "CR S6051", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20", 
+      "references": [
+        {
+          "reference": "CR S6105, S6108-6110", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 176, 
+      "text": "Amendment SA 4292 not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 176.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4292-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-16", 
+  "number": 4292, 
+  "proposed_at": "2006-06-16", 
+  "purpose": "To establish a special committee of the Senate to investigate the awarding and carrying out of contracts to conduct activities in Afghanistan and Iraq and to fight the war on terrorism.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-20", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

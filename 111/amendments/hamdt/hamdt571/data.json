@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-23T19:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H725-726, H728-729", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H725", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Hastings (WA) to the Abercrombie amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-23T20:17:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 56, 
+      "text": "On agreeing to the Hastings (WA) amendment (A002) Failed by the Yeas and Nays: 163 - 241 (Roll no. 56).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt571-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt570-111", 
+    "amendment_type": "hamdt", 
+    "congress": 111, 
+    "number": 570
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2314-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2314
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to require that the voters of Hawaii approve the governing documents for the Native Hawaiian governing entity before federal recognition becomes operative.", 
+  "house_number": 2, 
+  "introduced_at": "2010-02-23", 
+  "number": 571, 
+  "purpose": "An amendment numbered 1 printed in part B of House Report 111-413, to the amendment in the nature of a substitute offered by Mr. Abercrombie to require that the voters of Hawaii approve the governing documents for the Native Hawaiian governing entity before federal recognition becomes operative.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hastings, Doc", 
+    "state": "WA", 
+    "thomas_id": "00512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-02-23T20:17:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

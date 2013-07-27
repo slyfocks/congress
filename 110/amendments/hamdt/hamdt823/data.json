@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-27T15:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10986-10987", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10986", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Costello.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27T15:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Costello amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt823-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3121-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3121
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides that FEMA will not be able to adjust premium rates or require the purchase of flood insurance until all remapping has been completed for an entire district of the Corps of Engineers affected by the remapping.", 
+  "house_number": 10, 
+  "introduced_at": "2007-09-27", 
+  "number": 823, 
+  "purpose": "An amendment numbered 9 printed in Part B of House Report 110-351 to provide that no changes in flood insurance status can go into effect until the remapping process is completed for the entire district of the Corps of Engineers affected by that map.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Costello, Jerry F.", 
+    "state": "IL", 
+    "thomas_id": "00238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-27T15:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

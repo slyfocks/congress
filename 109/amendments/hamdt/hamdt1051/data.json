@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-14T15:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3952-3954, H3959", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3952", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A045) offered by Ms. Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14T17:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 285, 
+      "text": "On agreeing to the Lee amendment (A045) Failed by recorded vote: 187 - 236 (Roll no. 285).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1051-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds in the bill from being used to implement regulations which place restrictions on travel to Cuba for educational purposes.", 
+  "house_number": 45, 
+  "introduced_at": "2006-06-14", 
+  "number": 1051, 
+  "purpose": "An amendment to prohbit funds made available in the Act from being used to implement, administer, or enforce the amendments made to paragraphs (a) and (b) of section 515.565 of title 31, Code of Federal Regulations (relating to specific licenses for United States academic institutions and other specific licenses), as published in the Federal Register on June 16, 2004 (69 Fed. Reg. 33772). The limitation in the preceding sentence shall not apply to the implementation, administration, or enforcement of section 515.560(c)(3) of title 31, Code of Federal Regulations.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-14T17:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

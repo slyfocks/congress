@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-27T20:37:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4653-4654, H4664", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4653", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-27T22:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 329, 
+      "text": "On agreeing to the Stearns amendment (A009) Failed by recorded vote: 163 - 257 (Roll no. 329).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1106-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for expenses of the Federal Prison System by $500,000.", 
+  "house_number": 9, 
+  "introduced_at": "2006-06-27", 
+  "number": 1106, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to increase funding (by offset) for expenses necessary of the Federal Prison System by $500,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-27T22:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

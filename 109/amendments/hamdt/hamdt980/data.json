@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-08T15:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3537-3546", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3537", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-08T17:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 236, 
+      "text": "On agreeing to the Obey amendment (A004) Failed by recorded vote: 198 - 225 (Roll no. 236).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt980-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5522-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5522
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for International Disaster and Famine Assistance for Sudan by $50 million; increase funding for the Department of State Global HIV/AIDS Initiative by $50 million; and reduce funding for Egypt by $100 million.", 
+  "house_number": 4, 
+  "introduced_at": "2006-06-08", 
+  "number": 980, 
+  "purpose": "An amendment to increase funding for International Disaster and Famine Assistance for Sundan by $50 million and for the Department of State Global HIV/AIDS Initiative by $50 million by offseting funding for Egypt by $100 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-08T17:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

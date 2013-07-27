@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-24T17:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1657-1658", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H1657", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Bentsen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24T17:16:00-05:00", 
+      "references": [], 
+      "text": "Mr. Young (FL) raised a point of order against the Bentsen amendment (A005). Mr. Young stated that the amendment sought to change existing law by constituting legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt37-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1141-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1141
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "1999-03-24", 
+  "number": 37, 
+  "purpose": "An amendment numbered 1 as printed in the Congressional Record to prohibit the use of funds in the bill to release from detention any criminal alien subject to mandatory detention pending removal from the United States.", 
+  "sponsor": {
+    "district": "25", 
+    "name": "Bentsen, Ken", 
+    "state": "TX", 
+    "thomas_id": "00079", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "1999-03-24", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

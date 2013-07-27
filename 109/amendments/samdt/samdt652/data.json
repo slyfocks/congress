@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-11", 
+      "references": [
+        {
+          "reference": "CR S4918-4920", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4918", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 652 proposed by Senator Dorgan to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5014", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-13", 
+      "references": [
+        {
+          "reference": "CR S5189", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-16", 
+      "references": [
+        {
+          "reference": "CR S5197", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-16", 
+      "references": [
+        {
+          "reference": "CR S5214", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Point of order raised in Senate with respect to amendment SA 652.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-16", 
+      "references": [], 
+      "text": "Amendment SA 652 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt652-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 652, 
+  "proposed_at": "2005-05-11", 
+  "purpose": "To provide for the conduct of an investigation to determine whether market manipulation is contributing to higher gasoline prices.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-05-11", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

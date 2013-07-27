@@ -1,0 +1,144 @@
+<bill session="107" type="h" number="2887" updated="2013-07-14T18:57:58-04:00">
+  <state datetime="2001-11-15T15:35:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-11-15T15:35:00-05:00"/>
+  </status>
+  <introduced datetime="2001-09-13"/>
+  <titles>
+    <title as="introduced" type="short">Best Pharmaceuticals for Children Act</title>
+    <title as="reported to house" type="short">Best Pharmaceuticals for Children Act</title>
+    <title as="passed house" type="short">Best Pharmaceuticals for Children Act</title>
+    <title as="introduced" type="official">To amend the Federal Food, Drug, and Cosmetic Act to improve the safety and efficacy of pharmaceuticals for children.</title>
+  </titles>
+  <sponsor id="400161"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2001-09-13"/>
+    <cosponsor id="400056" joined="2001-09-13"/>
+    <cosponsor id="400063" joined="2001-11-07"/>
+    <cosponsor id="400112" joined="2001-10-17"/>
+    <cosponsor id="400124" joined="2001-09-13"/>
+    <cosponsor id="400130" joined="2001-10-04"/>
+    <cosponsor id="400140" joined="2001-09-25"/>
+    <cosponsor id="400218" joined="2001-11-08"/>
+    <cosponsor id="400231" joined="2001-11-01"/>
+    <cosponsor id="400245" joined="2001-09-13"/>
+    <cosponsor id="400263" joined="2001-10-17"/>
+    <cosponsor id="400524" joined="2001-10-10"/>
+    <cosponsor id="400306" joined="2001-10-10"/>
+    <cosponsor id="400333" joined="2001-09-24"/>
+    <cosponsor id="400533" joined="2001-09-20"/>
+    <cosponsor id="400347" joined="2001-09-13"/>
+    <cosponsor id="400350" joined="2001-09-13"/>
+    <cosponsor id="400380" joined="2001-09-24"/>
+    <cosponsor id="400414" joined="2001-09-13"/>
+    <cosponsor id="400431" joined="2001-10-04"/>
+    <cosponsor id="400436" joined="2001-10-04"/>
+    <cosponsor id="400438" joined="2001-09-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-09-13">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-09-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-10-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-10-05">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 24 - 5.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-10-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-10-11">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 41 - 6.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2001-11-09T12:10:00-05:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 107-277.</text>
+    </action>
+    <calendar datetime="2001-11-09T12:11:00-05:00" calendar="Union" number="167">
+      <text>Placed on the Union Calendar, Calendar No. 167.</text>
+    </calendar>
+    <action datetime="2001-11-13T19:28:00-05:00">
+      <text>Mr. Tauzin moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2001-11-13T19:28:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8094-8107" label="consideration"/>
+    </action>
+    <action datetime="2001-11-13T19:28:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2887.</text>
+    </action>
+    <action datetime="2001-11-13T20:15:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-11-15T15:26:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8216" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-11-15T15:35:00-05:00" how="roll" result="pass" roll="444" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 338 - 86 (Roll no. 444).</text>
+      <reference ref="CR 11/13/2001 H8094-8098" label="text"/>
+    </vote>
+    <action datetime="2001-11-15T15:35:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2001-11-16" calendar="Senate Legislative" under="General Orders" number="228">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="828"/>
+    <bill relation="unknown" session="107" type="s" number="838"/>
+    <bill relation="unknown" session="107" type="s" number="838"/>
+    <bill relation="unknown" session="107" type="s" number="1789"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Bioethics"/>
+    <term name="Child health"/>
+    <term name="Clinical trials"/>
+    <term name="Commerce"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug adulteration"/>
+    <term name="Drug approvals"/>
+    <term name="Drug industry"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Families"/>
+    <term name="Foundations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Governmental investigations"/>
+    <term name="Human experimentation in medicine"/>
+    <term name="Infants"/>
+    <term name="Informed consent (Medical law)"/>
+    <term name="Intellectual property"/>
+    <term name="Labeling"/>
+    <term name="Law"/>
+    <term name="Medical ethics"/>
+    <term name="Medical research"/>
+    <term name="Parent and child"/>
+    <term name="Patents"/>
+    <term name="Pharmaceutical research"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2001--Passed House amended.
+Best Pharmaceuticals for Children Act - Amends the Public Health Service Act to direct the Secretary of Health and Human Services, through the National Institutes of Health (NIH), to develop an annual list of approved drugs for which: (1) there is a referral, an approved or pending new drug application, or no patent or market exclusivity protection; and (2) additional pediatric safety and effectiveness studies are needed. Directs the Secretary to award contracts to entities with appropriate experience for pediatric clinical trials of such drugs. Requires the results of such trials to be reported to the Commissioner of Food and Drugs who shall then determine and request any necessary labeling changes. Authorizes the Commissioner to deem a drug misbranded if the holder of an approved application refuses to make the requested change. Requires the Secretary to send a nonbinding letter of recommendation to an approved application holder if such studies indicate a reformulation is necessary. Sets forth reporting, label change, and dispute resolution requirements. Maintains the confidentiality of commercial information or trade secrets. Authorizes appropriations.(Sec. 4) Amends the Federal Food, Drug, and Cosmetic Act to set forth procedures for written requests for pediatric studies to holders of approved applications for drugs that have market exclusivity. Requires the Secretary to refer such drugs to the Foundation for Pediatric Research for pediatric studies if the need for more information continues and the holder refuses. Directs the Secretary to refer such drug onward to the Public Health Service list if the Foundation has insufficient funds to conduct the study.(Sec. 6) Directs the Secretary to establish an Office of Pediatric Therapeutics within the Office of the Commissioner of Food and Drugs, which shall coordinate all FDA pediatric activities.(Sec. 7) Amends the Federal Food, Drug, and Cosmetic Act to: (1) eliminate the user fee waiver for pediatric supplements to a human drug application; (2) provide priority status for pediatric supplements; (3) include neonates within age groups for pediatric studies; (4) provide for dissemination of pediatric supplement information; and (5) set forth requirements for the additional six-month exclusivity period for new or already-marketed pediatric drugs.(Sec. 11) Requires only an abbreviated application for new drug approval for generic drugs with added pediatric information.(Sec. 12) Establishes an adverse reaction toll-free number which must appear on the labels of drugs approved under new drug application procedures. Requires that adverse effects from drugs with pediatric market exclusivity be reported to and reviewed by the Office of Pediatric Therapeutics.(Sec. 13) Amends Title IV of the Public Health Service Act to direct the Secretary to establish the Foundation for Pediatric Research to collect funds and award grants for research on drugs lacking exclusivity for which pediatric studies are needed. Requires that the result of such studies be submitted to the Director of NIH and the Commissioner.(Sec. 14) Directs the Secretary to contract with the Institute of Medicine to review Federal regulations, reports, and support for research involving children, with particular attention to issues of compensation, informed consent, and risk/ benefits assessments in terms of research versus therapeutic treatment.(Sec. 15) Requires the Comptroller General to report to Congress and the Secretary on the effectiveness of this Act in ensuring that all drugs used by children are tested and properly labeled. Requires such report to also include an assessment of: (1) this Act's economic impact; (2) the complexity of the pediatric drug studies; and (3) increased pediatric research ability.(Sec. 16) Directs the Comptroller General to study and report on the representation of ethnic and racial minority children in such studies.</summary>
+</bill>

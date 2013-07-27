@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16T16:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1883-1884, H1891", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1883", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T17:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 184, 
+      "text": "On agreeing to the Waters amendment (A006) Failed by recorded vote: 174 - 248 (Roll no. 184).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt195-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr861-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Secretary of HUD to send a notice to NSP grantees that would have received funding under NSP, that the program had been terminated as well as the name and contact information for each recipient's Member of Congress for the purpose of requesting assistance in mitigating foreclosed properties.", 
+  "house_number": 6, 
+  "introduced_at": "2011-03-16", 
+  "number": 195, 
+  "purpose": "An amendment numbered 6 printed in Part B of House Report 112-34 to require the Secretary of HUD to send a notice to NSP grantees that would have received funding under NSP that the program has been terminated.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-16T17:56:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

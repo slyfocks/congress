@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-06T12:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1905-1907", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1905", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-06T12:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1905", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "fail", 
+      "text": "On agreeing to the Rush amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt657-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1776-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1776
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to add nurses who work in hospitals or nursing homes to the list of workers who would be eligible to receive special homeownership assistance under the bill.", 
+  "house_number": 3, 
+  "introduced_at": "2000-04-06", 
+  "number": 657, 
+  "purpose": "An amendment numbered 3 printed in House Report 106-562 to add nurses who work in hospitals or nursing homes to the list of workers who would be eligible under the bill to receive special homeownership assistance through the CDBG and HOME programs, or obtain 1% downpayment FHA home loans.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-04-06T12:41:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

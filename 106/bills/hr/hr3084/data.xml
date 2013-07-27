@@ -1,0 +1,134 @@
+<bill session="106" type="h" number="3084" updated="2013-07-14T18:54:16-04:00">
+  <state datetime="2000-10-03">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2000-10-03"/>
+  </status>
+  <introduced datetime="1999-10-14"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to contribute funds for the establishment of an interpretative center on the life and contributions of President Abraham Lincoln.</title>
+  </titles>
+  <sponsor id="400373"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="1999-10-14"/>
+    <cosponsor id="400518" joined="1999-10-14"/>
+    <cosponsor id="400082" joined="1999-10-14"/>
+    <cosponsor id="400085" joined="1999-10-14"/>
+    <cosponsor id="400093" joined="1999-10-14"/>
+    <cosponsor id="400126" joined="1999-10-14"/>
+    <cosponsor id="400581" joined="1999-10-14"/>
+    <cosponsor id="400163" joined="1999-10-14"/>
+    <cosponsor id="400169" joined="1999-10-14"/>
+    <cosponsor id="400192" joined="1999-10-14"/>
+    <cosponsor id="400198" joined="1999-10-14"/>
+    <cosponsor id="400228" joined="1999-10-14"/>
+    <cosponsor id="400243" joined="1999-10-14"/>
+    <cosponsor id="400252" joined="1999-10-14"/>
+    <cosponsor id="400519" joined="1999-10-14"/>
+    <cosponsor id="400604" joined="1999-10-14"/>
+    <cosponsor id="400350" joined="1999-10-14"/>
+    <cosponsor id="400360" joined="1999-10-14"/>
+    <cosponsor id="400385" joined="2000-03-28"/>
+    <cosponsor id="400429" joined="1999-10-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-14">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-10-20">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-20">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-04-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-04-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-06-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-06-07">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2000-06-19T12:06:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 106-679.</text>
+    </action>
+    <calendar datetime="2000-06-19T12:07:00-04:00" calendar="Union" number="382">
+      <text>Placed on the Union Calendar, Calendar No. 382.</text>
+    </calendar>
+    <action datetime="2000-06-19T14:15:00-04:00">
+      <text>Mr. Souder moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-06-19T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4597-4600" label="consideration"/>
+    </action>
+    <action datetime="2000-06-19T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3084.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-06-19T14:30:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4597-4598" label="text"/>
+    </vote>
+    <action datetime="2000-06-19T14:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-06-20">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2000-07-18">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2000-07-27">
+      <text>Subcommittee on National Parks, Historic Preservation, and Recreation. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2000-09-20">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2000-09-25">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 106-419.</text>
+    </action>
+    <calendar datetime="2000-09-25" calendar="Senate Legislative" under="General Orders" number="828">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 828.</text>
+    </calendar>
+    <vote state="PASS_BACK:SENATE" datetime="2000-10-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S9773" label="consideration"/>
+    </vote>
+    <action datetime="2000-10-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks, Historic Preservation and Recreation" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="1734"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Competitive bidding"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to museums"/>
+    <term name="History"/>
+    <term name="Illinois"/>
+    <term name="Lincoln Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/2000--Passed Senate amended.
+Requires the Secretary of the Interior to make grants to contribute funds for the establishment in Springfield, Illinois, of an interpretive center to preserve and make available to the public materials related to the life of President Abraham Lincoln and to provide interpretive and educational services which communicate the meaning of Lincoln's life.Requires the entity selected by the Secretary to receive such grants to submit a plan and design for the center within 18 months after enactment of this Act. Prohibits: (1) such a grant until such entity certifies that funds equal to at least double the grant amount have been contributed by non-Federal sources; (2) the use of grant amounts for the maintenance or operation of the center; and (3) the Secretary from being involved in actual operation of the center, except at the request of the operating entity.Requires the Secretary to condition any grant on the recipient's agreement to operate the center in cooperation with other Lincoln-related sites and museums.Requires grant recipients to comply with Federal competitive bidding requirements in center planning, design, and construction.Authorizes appropriations.</summary>
+</bill>

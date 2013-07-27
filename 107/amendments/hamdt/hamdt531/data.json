@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-16T18:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4727-4738", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4727", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-16T20:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 305, 
+      "text": "On agreeing to the Toomey amendment (A001) Failed by recorded vote: 84 - 332 (Roll no. 305).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt531-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5093-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to decrease funding for the Bureau of Land Management by $162.2 million.", 
+  "house_number": 1, 
+  "introduced_at": "2002-07-16", 
+  "number": 531, 
+  "purpose": "An amendment to reduce the amount appropriated for Bureau of Land Management, Management of Lands and Resources, by $162,254,000, from $826,932,000 to$664,678,000.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-16T20:13:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

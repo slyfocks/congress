@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T18:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1275-1277, H1302", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1275", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A119) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:37:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 117, 
+      "text": "On agreeing to the Kaptur amendment (A119) Failed by recorded vote: 32 - 394 (Roll no. 117).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt129-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 119, 
+  "introduced_at": "2011-02-18", 
+  "number": 129, 
+  "purpose": "An amendment numbered 333 printed in the Congressional Record to reduce by 75 percent the amount made available for the Payment in Lieu of Taxes program.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-18T21:37:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

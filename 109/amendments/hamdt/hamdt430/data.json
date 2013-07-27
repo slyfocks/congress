@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30T14:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5514-5515, H5536-5537", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5514", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A037) offered by Mr. Hefley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-30T18:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 352, 
+      "text": "On agreeing to the Hefley amendment (A037) Failed by recorded vote: 88 - 338 (Roll no. 352).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt430-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 37, 
+  "introduced_at": "2005-06-30", 
+  "number": 430, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to reduce total appropriations by $669,350,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-30T18:03:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

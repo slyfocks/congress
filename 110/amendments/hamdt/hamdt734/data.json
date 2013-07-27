@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-02T19:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9625-9628, H9639, CR 8/3/2007 H9643-9644", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9625", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Kingston.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-02T21:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 806, 
+      "text": "On agreeing to the Kingston amendment (A006) Failed by recorded vote: 146 - 283 (Roll no. 806).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt734-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3161-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3161
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 726 from the bill relating to importation of prescription drugs.", 
+  "house_number": 6, 
+  "introduced_at": "2007-08-02", 
+  "number": 734, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 110-290 to strike section 726 from the bill relating to importation of prescription drugs.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kingston, Jack", 
+    "state": "GA", 
+    "thomas_id": "00636", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-08-02T21:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

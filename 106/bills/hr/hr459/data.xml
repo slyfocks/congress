@@ -1,0 +1,120 @@
+<bill session="106" type="h" number="459" updated="2013-07-14T18:53:02-04:00">
+  <state datetime="1999-12-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1999-12-06"/>
+  </status>
+  <introduced datetime="1999-02-02"/>
+  <titles>
+    <title as="introduced" type="official">To extend the deadline under the Federal Power Act for FERC Project No. 9401, the Mt. Hope Waterpower Project.</title>
+  </titles>
+  <sponsor id="400142"/>
+  <cosponsors>
+    <cosponsor id="400308" joined="1999-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-02">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1999-04-12">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1999-04-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1999-04-14">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1999-04-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-04-21">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="1999-04-28T15:55:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 106-119.</text>
+    </action>
+    <calendar datetime="1999-04-28T15:57:00-04:00" calendar="Union" number="63">
+      <text>Placed on the Union Calendar, Calendar No. 63.</text>
+    </calendar>
+    <action datetime="1999-05-04T17:34:00-04:00">
+      <text>Mr. Barton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-05-04T17:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2587-2588" label="consideration"/>
+    </action>
+    <action datetime="1999-05-04T17:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 459.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-05-04T17:41:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2587" label="text"/>
+    </vote>
+    <action datetime="1999-05-04T17:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-05-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1999-05-06">
+      <text>Referred to Subcommittee on Water and Power.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="1999-05-27">
+      <text>Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="1999-06-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="1999-06-24">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Murkowski without amendment. With written report No. 106-97.</text>
+    </action>
+    <calendar datetime="1999-06-24" calendar="Senate Legislative" under="General Orders" number="179">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="1999-11-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15157-15158" label="consideration"/>
+    </vote>
+    <topresident datetime="1999-11-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1999-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1999-11-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1999-12-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1999-12-06" type="public" number="106-121">
+      <text>Became Public Law No: 106-121.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="New Jersey"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1999--Introduced.
+Authorizes the Federal Energy Regulatory Commission, upon request of a specified licensee, to extend commencement of construction of the Mt. Hope Waterpower Project until August 3, 2002.</summary>
+</bill>

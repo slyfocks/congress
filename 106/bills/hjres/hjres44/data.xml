@@ -1,0 +1,79 @@
+<bill session="106" type="hj" number="44" updated="2013-07-14T18:55:16-04:00">
+  <state datetime="1999-04-28T18:37:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="1999-04-28T18:37:00-04:00"/>
+  </status>
+  <introduced datetime="1999-04-12"/>
+  <titles>
+    <title type="popular">War With Yugoslavia resolution</title>
+    <title as="introduced" type="official">Declaring a state of war between the United States and the Government of the Federal Republic of Yugoslavia.</title>
+  </titles>
+  <sponsor id="400573"/>
+  <cosponsors>
+    <cosponsor id="400514" joined="1999-04-22"/>
+    <cosponsor id="400586" joined="1999-04-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-04-12">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1999-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-04-27">
+      <text>Ordered to be Reported Adversely by the Yeas and Nays: 49 - 0.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1999-04-27T20:21:00-04:00">
+      <text>Reported adversely by the Committee on International Relations. H. Rept. 106-115.</text>
+    </action>
+    <calendar datetime="1999-04-27T20:22:00-04:00" calendar="Union" number="61">
+      <text>Placed on the Union Calendar, Calendar No. 61.</text>
+    </calendar>
+    <action datetime="1999-04-27T23:56:00-04:00">
+      <text>Rules Committee Resolution H. Res. 151 Reported to House. Rule provides for consideration of H.R. 1569, H. Con. Res. 82, H.J. Res. 44 and S. Con. Res. 21 Rule provides for one hour of general debate on the deployment of United States Armed Forces in and around the territory of the Federal Republic of Yugoslavia. Following general debate, the rule provides for consideration of H.R. 1569 in the House with one hour of debate and one motion to recommit. After disposition of H.R. 1569, it shall be in order to consider in the House H. Con. Res. 82 with one hour of debate and the previous question ordered to final adoption without intervening motion. After disposition of H. Con. Res. 82, it shall be in order to consider in the House H.J. Res. 44 which shall be debatable for one hour followed by one motion to recommit. After disposition of H.J. Res. 44 it shall be in order to consider S. Con. Res. 21 if called up by Rep. Gejdenson or his designee and shall be debatable for ...</text>
+    </action>
+    <action datetime="1999-04-28T17:05:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 151.</text>
+      <reference ref="CR H2427-2441" label="consideration"/>
+    </action>
+    <action datetime="1999-04-28T17:05:00-04:00">
+      <text>Rule provides for consideration of H.R. 1569, H. Con. Res. 82, H.J. Res. 44 and S. Con. Res. 21 Rule provides for one hour of general debate on the deployment of United States Armed Forces in and around the territory of the Federal Republic of Yugoslavia. Following general debate, the rule provides for consideration of H.R. 1569 in the House with one hour of debate and one motion to recommit. After disposition of H.R. 1569, it shall be in order to consider in the House H. Con. Res. 82 with one hour of debate and the previous question ordered to final adoption without intervening motion. After disposition of H. Con. Res. 82, it shall be in order to consider in the House H.J. Res. 44 which shall be debatable for one hour followed by one motion to recommit. After disposition of H.J. Res. 44 it shall be in order to consider S. Con. Res. 21 if called up by Rep. Gejdenson or his designee and shall be debatable for ...</text>
+    </action>
+    <action datetime="1999-04-28T17:05:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 44.</text>
+    </action>
+    <action datetime="1999-04-28T18:17:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="1999-04-28T18:37:00-04:00" how="roll" result="fail" roll="102" type="vote" where="h">
+      <text>On passage Failed by the Yeas and Nays: 2 - 427 (Roll no. 102).</text>
+    </vote>
+    <action datetime="1999-04-28T18:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="hr" number="151"/>
+    <bill relation="rule" session="106" type="hr" number="151"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congress and foreign policy"/>
+    <term name="Congress and military policy"/>
+    <term name="Declaration of war"/>
+    <term name="Europe"/>
+    <term name="Military intervention"/>
+    <term name="Serbia"/>
+    <term name="Yugoslavia"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1999--Introduced.
+Declares a state of war to exist between the United States and the Government of the Federal Republic of Yugoslavia.</summary>
+</bill>

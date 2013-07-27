@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11901-11902", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2315 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2315 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2315-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-26", 
+  "number": 2315, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To designate a port of entry.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-26", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

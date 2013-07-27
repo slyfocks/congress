@@ -1,0 +1,47 @@
+<bill session="106" type="h" number="2485" updated="2013-07-14T18:53:57-04:00">
+  <state datetime="1999-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="1999-07-12"/>
+  </status>
+  <introduced datetime="1999-07-12"/>
+  <titles>
+    <title as="introduced" type="short">Federal Adoption Services Act of 1999</title>
+    <title as="introduced" type="official">To amend title X of the Public Health Service Act to permit family planning projects to offer adoption services.</title>
+  </titles>
+  <sponsor id="400388"/>
+  <cosponsors>
+    <cosponsor id="400088" joined="1999-07-12"/>
+    <cosponsor id="400277" joined="2000-05-03"/>
+    <cosponsor id="400288" joined="1999-07-12"/>
+    <cosponsor id="400507" joined="2000-06-06"/>
+    <cosponsor id="400530" joined="1999-07-12"/>
+    <cosponsor id="400421" joined="2000-04-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-07-12">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1999-07-21">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="42"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Adoption"/>
+    <term name="Birth control"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Health"/>
+    <term name="Nondiscrimination provisions"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/1999--Introduced.
+Federal Adoption Services Act of 1999 - Amends the Public Health Service Act to permit family planning projects to offer adoption services. Requires such services to be nondiscriminatory as to race, color, religion, or national origin.</summary>
+</bill>

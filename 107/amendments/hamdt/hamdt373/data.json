@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-11T16:02:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6654-6658", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6654", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Schaffer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-11T17:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 377, 
+      "text": "On agreeing to the Schaffer amendment (A004) Failed by recorded vote: 76 - 349 (Roll no. 377).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt373-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3061-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to transfer $1.1 billion to the Individuals With Disabilities Act (IDEA) program.", 
+  "house_number": 4, 
+  "introduced_at": "2001-10-11", 
+  "number": 373, 
+  "purpose": "An amendment to increase funding (by transfer) for the IDEA program by $1.1 billion.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Schaffer, Bob", 
+    "state": "CO", 
+    "thomas_id": "01524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-11T17:01:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

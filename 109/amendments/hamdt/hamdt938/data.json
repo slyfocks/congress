@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25T16:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3293-3294, CR 5/26/2006 H3314", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3293", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25T18:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 212, 
+      "text": "On agreeing to the Brown (OH) amendment (A003) Failed by recorded vote: 167 - 255 (Roll no. 212).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt938-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to redirect funding for the Department of Homeland Security Management and Operations account.", 
+  "house_number": 3, 
+  "introduced_at": "2006-05-25", 
+  "number": 938, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to redirect funding of the Office of the Secretary and Executive Management.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-25T18:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

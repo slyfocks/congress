@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-29T16:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5422-5427, CR 6/30/2005 H5438-5439", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5422", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29T20:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 339, 
+      "text": "On agreeing to the Nadler amendment (A012) Agreed to by recorded vote: 225 - 194 (Roll no. 339).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt405-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the section 8 housing voucher program.", 
+  "house_number": 12, 
+  "introduced_at": "2005-06-29", 
+  "number": 405, 
+  "purpose": "An amendment to increase funding for tenant-based rental assistance by $100,000,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-29T20:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

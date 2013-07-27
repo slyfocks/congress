@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-20T18:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3331-3335, H3345", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3331", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-20T21:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 173, 
+      "text": "On agreeing to the Obey amendment (A015) Failed by recorded vote: 212 - 216 (Roll no. 173).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt93-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2216-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2216
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to transfer $30.5 million from the IRS to the High Intensity Drug Trafficking Areas Program.", 
+  "house_number": 15, 
+  "introduced_at": "2001-06-20", 
+  "number": 93, 
+  "purpose": "An amendment to increase (by transfer) the amount for \"High Intensity Drug Trafficking Areas Program\" by $30,500,000.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-20T21:11:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-10T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3235-3242, H3249-3250", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H3235-3237", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Dingell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-10T18:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 133, 
+      "text": "On agreeing to the Dingell amendment (A002) Failed by recorded vote: 193 - 237 (Roll no. 133).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt66-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to replace the electricity provisions of the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2003-04-10", 
+  "number": 66, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-69 to delete the bill's electricity deregulation provisions and to insert in lieu thereof provisions to increase consumer and investor protections.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dingell, John D.", 
+    "state": "MI", 
+    "thomas_id": "00299", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-10T18:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

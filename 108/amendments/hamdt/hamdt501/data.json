@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01T15:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1995-1996", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1995", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Baird.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-01T15:39:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Baird amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt501-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3550-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3550
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment adds language to express the sense of Congress clarifying that the Buy America Act applies to an entire bridge project and not only to component parts of such project.", 
+  "house_number": 10, 
+  "introduced_at": "2004-04-01", 
+  "number": 501, 
+  "purpose": "An amendment numbered 10 printed in part B of House Report 108-456 to express the sense of Congress clarifying that the Buy America Act applies to overall projects, and not their component parts.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Baird, Brian", 
+    "state": "WA", 
+    "thomas_id": "01557", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-04-01T15:39:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

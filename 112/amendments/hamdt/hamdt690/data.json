@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T17:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5335-5336, H5343", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5335", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Miller (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-21T18:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 616, 
+      "text": "On agreeing to the Miller (NC) amendment (A005) Failed by recorded vote: 175 - 238 (Roll no. 616).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt690-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1315-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1315
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require specific disclosure of information related to filing agency petitions to the Financial Stability Oversight Council to overturn Consumer Financial Protection Bureau rulemaking.", 
+  "house_number": 5, 
+  "introduced_at": "2011-07-21", 
+  "number": 690, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-172 to require specific disclosure of information related to filing agency petitions to the Financial Stability Oversight Council to overturn Consumer Financial Protection Bureau rulemaking.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Brad", 
+    "state": "NC", 
+    "thomas_id": "01735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-21T18:33:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

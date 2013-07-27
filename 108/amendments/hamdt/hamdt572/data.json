@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-17T21:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 6/18/2004 H4487-4488", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 6/18/2004 H4487", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Simmons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-17T21:52:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Simmons amendment Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt572-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4567-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to provide $18.5 million for research and development activities of the United States Coast Guard.", 
+  "house_number": 5, 
+  "introduced_at": "2004-06-17", 
+  "number": 572, 
+  "purpose": "An amendment numbered eleven printed in the Congressional Record to increase U.S. Coast Guard acquisition, construction and improvements funding by $18,500,000.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Simmons, Rob", 
+    "state": "CT", 
+    "thomas_id": "01642", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-17T21:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

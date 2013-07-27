@@ -1,0 +1,72 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-08", 
+      "references": [
+        {
+          "reference": "CR S9780", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9780", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1659 proposed by Senator Harkin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-09", 
+      "references": [
+        {
+          "reference": "CR S9865, S9872-9874", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9873", 
+          "type": "text"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1659 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1659-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-08", 
+  "number": 1659, 
+  "proposed_at": "2005-09-08", 
+  "purpose": "To increase the appropriation for nationwide legal services field programs and to provide additional funds to programs providing legal services to the victims of Hurricane Katrina.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-09", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-01T09:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3370", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3370", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Cleaver.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-01T09:45:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cleaver amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1173-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases the Army Corps of Engineers, Flood Control and Coastal Emergencies Account by $3 million and reduces the Army Corps of Engineers Administrative Account for civil works programs by the same amount in order to enhance Army Corps of Engineers abilities to fight floods and to quickly begin repair efforts.", 
+  "house_number": 4, 
+  "introduced_at": "2012-06-01", 
+  "number": 1173, 
+  "purpose": "An amendment to increase the Army Corps of Engineers, Flood Control and Coastal Emergencies Account by $3 million and reduce the Army Corps of Engineers Administrative Account for civil works programs by the same amount.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cleaver, Emanuel", 
+    "state": "MO", 
+    "thomas_id": "01790", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-01T09:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

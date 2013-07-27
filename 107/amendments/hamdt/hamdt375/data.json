@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-11T17:14:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6665-6666, H6678-6679", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6665", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-11T19:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 378, 
+      "text": "On agreeing to the Stearns amendment (A006) Failed by recorded vote: 107 - 312 (Roll no. 378).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt375-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3061-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2001-10-11", 
+  "number": 375, 
+  "purpose": "An amendment to make available (by transfer) $12 million for the Center for Disease Control and Prevention account. Funds would be taken from the Corporation for Public Broadcasting account.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-11T19:40:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

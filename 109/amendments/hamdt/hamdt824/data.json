@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-17T12:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2673-2675, H2687-2688", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2673", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Rahall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-17T15:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 147, 
+      "text": "On agreeing to the Rahall amendment (A001) Failed by recorded vote: 189 - 236 (Roll no. 147).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt824-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4200-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4200
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike all waivers of existing conservation laws in the bill; and require compliance with the National Environmental Policy Act.", 
+  "house_number": 1, 
+  "introduced_at": "2006-05-17", 
+  "number": 824, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-467 to strike all waivers of existing conservation laws by removing the bill's exemptions from requirements of the National Historic Preservation Act, the Clean Water Act, the Endangered Species Act, and the National Environmental Policy Act (NEPA). The amendment also specifically requires that the Secretary concerned comply with the NEPA in utilizing the authorities under H.R. 4200.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Rahall, Nick J., II", 
+    "state": "WV", 
+    "thomas_id": "00940", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-17T15:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

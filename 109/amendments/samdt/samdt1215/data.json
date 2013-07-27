@@ -1,0 +1,82 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-11", 
+      "references": [
+        {
+          "reference": "CR S7976", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1215 proposed by Senator Feinstein to Amendment SA 1142.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-12", 
+      "references": [
+        {
+          "reference": "CR S8093-8106, S8130", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-12", 
+      "references": [], 
+      "text": "Amendment SA 1215 was modified to reflect a first degree status.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-12", 
+      "references": [
+        {
+          "reference": "CR S8130", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1215 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-12", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 176, 
+      "text": "Amendment SA 1215 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 176.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1215-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1215, 
+  "proposed_at": "2005-07-12", 
+  "purpose": "To improve the allocation of grants through the Department of Homeland Security, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-12", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

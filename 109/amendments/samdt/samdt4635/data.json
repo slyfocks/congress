@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7494-7496", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4635 proposed by Senator Gregg for Senator Carper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7495", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4635 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4635-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4635, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To provide airlines with technical assistance for coordinating reservations and ticketing with the Transportation Security Administration Watch List.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carper, Thomas R.", 
+    "state": "DE", 
+    "thomas_id": "00179", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

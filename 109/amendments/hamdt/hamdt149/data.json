@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-18T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3480-3481", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3480", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Cox.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-18T14:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cox amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt149-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1817-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1817
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment requires the Department of Homeland Security to coordinate its activities regarding protection of critical infrastructure with other relevant Federal agencies.", 
+  "house_number": 4, 
+  "introduced_at": "2005-05-18", 
+  "number": 149, 
+  "purpose": "An amendment numbered 4 printed in part B of House Report 109-84 to require the DHS to coordinate its activities regarding protection of critical infrastructure with \"other relevant Federal agencies\".", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Cox, Christopher", 
+    "state": "CA", 
+    "thomas_id": "00242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-18T14:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

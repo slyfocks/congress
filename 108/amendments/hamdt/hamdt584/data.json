@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-18T13:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4539-4541, H4555-4556", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4539", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-18T15:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 271, 
+      "text": "On agreeing to the Maloney amendment (A017) Failed by recorded vote: 113 - 292 (Roll no. 271).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt584-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4567-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 17, 
+  "introduced_at": "2004-06-18", 
+  "number": 584, 
+  "purpose": "An amendment numbered nine printed in the Congressional Record to limit to 80 the total number of grants available under the Urban Area Security Initiative, which provides discretionary grants to high-threat, high -density urban areas.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-18T15:56:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

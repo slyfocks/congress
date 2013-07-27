@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-14T16:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5063-5064", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5063", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-15T11:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5097-5098", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 588, 
+      "text": "On agreeing to the Capps amendment (A061) Failed by recorded vote: 152 - 269 (Roll no. 588).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt664-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 61, 
+  "introduced_at": "2011-07-14", 
+  "number": 664, 
+  "purpose": "An amendment to prohibit the use of funds to be used by the Nuclear Regulatory Commission to issue a draft supplemental environmental impact statement (SEIS) for Diablo Canyon Nuclear Power Plant.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-15T11:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

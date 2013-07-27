@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-27T12:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2426-2427", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2426", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Carter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-27T12:07:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Carter amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt22-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1104-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1104
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment requires the Department of Justice to conduct a feasibility study and submit to Congress a report, including recommendations, which may include a proposal for grants to the States to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.", 
+  "house_number": 5, 
+  "introduced_at": "2003-03-27", 
+  "number": 22, 
+  "purpose": "An amendment numbered 5 printed in House Report 108-48 to provide a feasibility study of issues relating to background checks for volunteers of groups that work with children, the disabled, and the elderly.", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Carter, John R.", 
+    "state": "TX", 
+    "thomas_id": "01752", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-03-27T12:07:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

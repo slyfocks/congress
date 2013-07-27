@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T17:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3021-3022", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3021", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Quigley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-17T17:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Quigley amendment (A010) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1108-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to eliminate funds available for procurement of the V-22 Osprey aircraft and to put the savings toward deficit reduction.", 
+  "house_number": 10, 
+  "introduced_at": "2012-05-17", 
+  "number": 1108, 
+  "purpose": "An amendment numbered 10 printed in House Report 112-485 to eliminate funds available for procurement of the V-22 Osprey aircraft, and puts the savings toward deficit reduction.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Quigley, Mike", 
+    "state": "IL", 
+    "thomas_id": "01967", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-17T17:33:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

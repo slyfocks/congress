@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2139", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2139", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 112 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-08", 
+      "references": [
+        {
+          "reference": "CR S2200", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09", 
+      "references": [
+        {
+          "reference": "CR S2307, S2342", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-10", 
+      "references": [
+        {
+          "reference": "CR S2416, S2426-2427", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-10", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 40, 
+      "text": "Amendment SA 112 agreed to in Senate by Yea-Nay. 99 - 0. Record Vote Number: 40.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt112-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-07", 
+  "number": 112, 
+  "proposed_at": "2005-03-07", 
+  "purpose": "To protect disabled veterans from means testing in bankruptcy under certain circumstances.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-10", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

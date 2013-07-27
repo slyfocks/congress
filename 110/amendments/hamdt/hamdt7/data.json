@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-08T12:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1365, H1385, H1388-1389", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1365", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Rogers (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T16:01:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 85, 
+      "text": "On agreeing to the Rogers (MI) amendment Agreed to by recorded vote: 419 - 6 (Roll no. 85).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-02-08T16:20:00-05:00", 
+      "references": [], 
+      "text": "Mr. Westmoreland demanded a separate vote on the Rogers (MI) amendment (A006).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T16:54:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 88, 
+      "text": "On agreeing to the Rogers (MI) amendment (A006) Agreed to by the Yeas and Nays: 354 - 58 (Roll no. 88).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt7-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr547-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires the EPA, as part of a research and development program, to consider issues with respect to where in the fuel supply chain additives should optimally be added to fuels.", 
+  "house_number": 6, 
+  "introduced_at": "2007-02-08", 
+  "number": 7, 
+  "purpose": "An amendment to add a new paragraph to section 3, Biofuel Infrastructure and Additives Research and Development, to include issues with respect to where in the fuel supply chain additives optimally should be added to fuels.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Rogers, Mike J.", 
+    "state": "MI", 
+    "thomas_id": "01651", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-08T16:54:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

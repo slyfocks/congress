@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T18:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7942-7943, H7957-7958", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7942", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Jindal.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T21:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 645, 
+      "text": "On agreeing to the Jindal amendment (A008) Failed by recorded vote: 183 - 243 (Roll no. 645).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt517-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for the Center for Disease Control's Division of Tuberculosis Elimination by $50 million.", 
+  "house_number": 8, 
+  "introduced_at": "2007-07-17", 
+  "number": 517, 
+  "purpose": "An amendment to reduce the appropriation (by transfer) for the Salaries and Expenses by $50 million.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Jindal, Bobby", 
+    "state": "LA", 
+    "thomas_id": "01785", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-17T21:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

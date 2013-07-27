@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25T20:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/26/2006 H3332-3333, H3341-3342", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 5/26/2005 H3332", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25T22:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 221, 
+      "text": "On agreeing to the Nadler amendment (A024) Failed by recorded vote: 172 - 248 (Roll no. 221).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt959-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete language which placed limits on funding for the creation of a Sodium-Iodide Manufacturing Program.", 
+  "house_number": 24, 
+  "introduced_at": "2006-05-25", 
+  "number": 959, 
+  "purpose": "An amendment to strike language regarding the Sodium Iodide Manufacturing Program.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-25T22:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

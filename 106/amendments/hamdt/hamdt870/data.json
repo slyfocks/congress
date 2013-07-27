@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T17:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4985-4989", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4985", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Serrano.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T17:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Serrano amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt870-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for the Justice Department Civil Rights Division by $11.7 million with offsets from the Federal Prison System.", 
+  "house_number": 4, 
+  "introduced_at": "2000-06-22", 
+  "number": 870, 
+  "purpose": "An amendment to increase funding for the Justice Department Civil Rights Division by $11.7 million with offsets from the Federal Prison System.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Serrano, Jose E.", 
+    "state": "NY", 
+    "thomas_id": "01042", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-22T17:48:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

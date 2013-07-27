@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-04T23:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10001-10002, H10010-10011", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10001", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-05T00:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 842, 
+      "text": "On agreeing to the Campbell (CA) amendment (A009) Failed by recorded vote: 91 - 317 (Roll no. 842).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt776-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3222-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3222
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit the use of funds under the heading \"Research, Development, Test, and Evaluation, Army\" may be used for the Paint Shield for Protecting People From Microbial Threats.", 
+  "house_number": 9, 
+  "introduced_at": "2007-08-04", 
+  "number": 776, 
+  "purpose": "An amendment numbered 18 printed in the Congressional Record to prohibit the use of funds under the heading \"Research, Development, Test, and Evaluation, Army\" may be used for the Paint Shield for Protecting People From Microbial Threats.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-08-05T00:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

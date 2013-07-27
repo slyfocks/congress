@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-05T13:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H3015-3017, H3020-3021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3016", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Peters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-05T17:38:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 102, 
+      "text": "On agreeing to the Peters amendment (A003) Agreed to by recorded vote: 423 - 2 (Roll no. 102).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt26-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1106-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1106
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment preserves the requirement for credit counseling but would allow those who have received a foreclosure notice to file for bankruptcy as long as they have obtained the required credit counseling within 30 days after the bankruptcy filing.", 
+  "house_number": 3, 
+  "introduced_at": "2009-03-05", 
+  "number": 26, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-21 to provide that, in the case of a debtor whose home is in foreclosure, the debtor could meet the pre-filing credit counseling requirement by receiving counseling either before filing or up to 30 days after filing.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "thomas_id": "01929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-03-05T17:38:00-05:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

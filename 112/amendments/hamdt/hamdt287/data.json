@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-11T17:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3203-3204", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H3203", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-12T13:48:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3239-3240", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 318, 
+      "text": "On agreeing to the Inslee amendment (A008) Failed by recorded vote: 160 - 256 (Roll no. 318).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt287-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1231-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1231
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that the Governor and legislature of the State of Washington approve any leasing of the Outer Continental Shelf off the coast of Washington State.", 
+  "house_number": 8, 
+  "introduced_at": "2011-05-11", 
+  "number": 287, 
+  "purpose": "An amendment numbered 8 printed in House Report 112-74 to require the Washington state Governor and legislature approve any leasing of the Outer Continental Shelf off of Washington state.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-12T13:48:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

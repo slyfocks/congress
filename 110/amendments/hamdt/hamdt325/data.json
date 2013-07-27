@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T15:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6705-6706", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6705", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mrs. Schmidt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-19T16:01:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Schmidt amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt325-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2007-06-19", 
+  "number": 325, 
+  "purpose": "An amendment to increase funding (by transfer) for the G-NAP initiative by $80 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Schmidt, Jean", 
+    "state": "OH", 
+    "thomas_id": "01815", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2007-06-19", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

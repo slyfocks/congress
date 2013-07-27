@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T20:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3539-3540, H3571-3572", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3539", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Bishop (UT).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3571-3572", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 353, 
+      "text": "On agreeing to the Bishop (UT) amendment (A011) Agreed to by recorded vote: 230 - 186 (Roll no. 353).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1242-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces funds for environmental mitigation by $3 million and increases funds for the Air and Marine Interdiction account by $624,000, for the purpose of recapitalizing the Border Patrol's airplane fleet.", 
+  "house_number": 11, 
+  "introduced_at": "2012-06-06", 
+  "number": 1242, 
+  "purpose": "An amendment to reduce funds for border security fencing, infrastructure, and technology by $3 million and increase funds for air and marine interdiction, operations, maintenance, and procurement by $624,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Rob", 
+    "state": "UT", 
+    "thomas_id": "01753", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-06T23:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-03T14:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4459-4460", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4459-4460", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Manzullo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-03T14:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Manzullo amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt142-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1868-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires the National Institute of Standards and Technology to provide for the establishment of a manufacturing research database to enable private sector individuals and Federal officials to access a broad range of information on manufacturing research carried out with funding support from the Federal Government.", 
+  "house_number": 2, 
+  "introduced_at": "2007-05-03", 
+  "number": 142, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-118 to design and develop software that monitors all of the federal R&D databases. The software would allow users to search via the NIST web site various agency databases by material type and/or manufacturing processes to determine what and to whom federal manufacturing R&D dollars are being awarded and also provide basic information about where manufacturers can find assistance.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Manzullo, Donald A.", 
+    "state": "IL", 
+    "thomas_id": "00733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-03T14:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

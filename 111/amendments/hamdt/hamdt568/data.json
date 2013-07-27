@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T15:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H519", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Owens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-04T11:15:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H561-562", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H561", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 42, 
+      "text": "On agreeing to the Owens amendment (A024) Agreed to by recorded vote: 430 - 0 (Roll no. 42).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt568-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires the Cybersecurity Strategic Research and Development plan to include a component on technologies to secure sensitive information shared among Federal agencies.", 
+  "house_number": 24, 
+  "introduced_at": "2010-02-03", 
+  "number": 568, 
+  "purpose": "An amendment numbered 24 printed in House Report 111-410 to require the Cybersecurity Strategic Research and Development plan to include a component on technologies to secure sensitive information shared among Federal agencies.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Owens, William L.", 
+    "state": "NY", 
+    "thomas_id": "01974", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-04T11:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12571-12573, S12574-12575", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2476 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-10", 
+      "references": [
+        {
+          "reference": "CR S12638, S12639-12643, S12643-12644", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-10", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 316, 
+      "text": "Amendment SA 2476 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 316.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2476-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-09", 
+  "number": 2476, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To establish a special committee of the Senate to investigate the awarding and carrying out of contracts to conduct activities in Afghanistan and Iraq and to fight the war on terrorism.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-10", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

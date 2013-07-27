@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-10T19:42:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14716-14718, H14732-14733", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14716", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-10T21:54:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 958, 
+      "text": "On agreeing to the Stupak amendment (A008) Failed by recorded vote: 98 - 330 (Roll no. 958).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt524-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4173-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to require transparency in swaps contracts by requiring all non-cleared swaps be executed on a registered swap execution facility.", 
+  "house_number": 8, 
+  "introduced_at": "2009-12-10", 
+  "number": 524, 
+  "purpose": "An amendment numbered 8 printed in House Report 111-370 to require transparency in swaps contracts by requiring all non-cleared swaps be executed on a registered swap execution facility.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-12-10T21:54:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

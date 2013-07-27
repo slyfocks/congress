@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-26T13:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8650-8655, H8668", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8650", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A052) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-26T16:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 740, 
+      "text": "On agreeing to the Price (GA) amendment (A052) Failed by recorded vote: 159 - 261 (Roll no. 740).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt694-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3093-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to make the total appropriations made in this Act (other than appropriations required to be made by a provision of law) are hereby reduced by $750,000,000.", 
+  "house_number": 52, 
+  "introduced_at": "2007-07-26", 
+  "number": 694, 
+  "purpose": "An amendment to make the total appropriations made in this Act (other than appropriations required to be made by a provision of law) are hereby reduced by $750,000,000.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-26T16:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

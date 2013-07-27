@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-24T13:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1631-1645", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1631", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24T15:43:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 68, 
+      "text": "On agreeing to the Obey amendment (A003) Failed by recorded vote: 201 - 228 (Roll no. 68).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt35-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1141-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1141
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to strike funding rescissions used as offsets from the Department of Agriculture, Department of Energy, Callable Capital Account for Multilateral Development Banks, and the Export-Import Bank.", 
+  "house_number": 3, 
+  "introduced_at": "1999-03-24", 
+  "number": 35, 
+  "purpose": "An amendment made in order by the rule and printed in House Report 106-76 to strike funding rescissions used as offsets from the Department of Agriculture, Department of Energy, Callable Capital Account for Multilateral Development Banks and the Export-Import Bank.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-03-24T15:43:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

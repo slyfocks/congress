@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-08T14:06:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A025) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-08T14:30:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Smith (MI) amendment was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-08T15:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5362-5365, H5376", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5362", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-08T16:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 342, 
+      "text": "On agreeing to the Smith (MI) amendment (A025) Failed by recorded vote: 129 - 291 (Roll no. 342).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt656-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reduce funding for United Nations contributions to international organizations by $20 million.", 
+  "house_number": 25, 
+  "introduced_at": "2004-07-08", 
+  "number": 656, 
+  "purpose": "An amendment to reduce the amount for Contributions to International Organizations by $20 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-08T16:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

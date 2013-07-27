@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-14T22:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4174", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4174", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15T16:23:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4228-4229", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 425, 
+      "text": "On agreeing to the Broun (GA) amendment (A011) Failed by recorded vote: 125 - 298 (Roll no. 425).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt429-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the USDA's Economic Research Service by $7 million and to apply the savings to the spending reduction account.", 
+  "house_number": 11, 
+  "introduced_at": "2011-06-14", 
+  "number": 429, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to reduce funding for the Economic Research Service by $7 million and to increase the spending reduction account by a similar amount.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-15T16:23:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

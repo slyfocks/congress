@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T18:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7940-7941, H7956-7957", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7940", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Marchant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T21:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 644, 
+      "text": "On agreeing to the Marchant amendment (A005) Failed by recorded vote: 149 - 277 (Roll no. 644).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt514-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought reduce funding for the the International Labor Affairs Bureau by $58,419,000.", 
+  "house_number": 5, 
+  "introduced_at": "2007-07-17", 
+  "number": 514, 
+  "purpose": "An amendment to reduce the amount appropriated for the Salaries and Expenses account by $58,419,000.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Marchant, Kenny", 
+    "state": "TX", 
+    "thomas_id": "01806", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-17T21:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

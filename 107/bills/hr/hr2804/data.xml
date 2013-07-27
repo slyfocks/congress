@@ -1,0 +1,94 @@
+<bill session="107" type="h" number="2804" updated="2013-07-14T18:57:57-04:00">
+  <state datetime="2002-03-19T19:24:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-03-19T19:24:00-05:00"/>
+  </status>
+  <introduced datetime="2001-08-02"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 95 Seventh Street in San Francisco, California, as the "James R. Browning United States Courthouse".</title>
+  </titles>
+  <sponsor id="400314"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2001-10-16"/>
+    <cosponsor id="400024" joined="2001-08-02"/>
+    <cosponsor id="400025" joined="2001-08-02"/>
+    <cosponsor id="400083" joined="2001-09-20"/>
+    <cosponsor id="400112" joined="2001-09-20"/>
+    <cosponsor id="400231" joined="2001-09-20"/>
+    <cosponsor id="400245" joined="2001-08-02"/>
+    <cosponsor id="400310" joined="2001-10-11"/>
+    <cosponsor id="400436" joined="2001-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-08-02">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2001-08-03">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-08-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1555"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-02-27">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-03-18T17:32:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-378.</text>
+    </action>
+    <calendar datetime="2002-03-18T17:32:00-05:00" calendar="House" number="132">
+      <text>Placed on the House Calendar, Calendar No. 132.</text>
+    </calendar>
+    <action datetime="2002-03-19T16:30:00-05:00">
+      <text>Mr. Cooksey moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-03-19T16:30:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H965-967" label="consideration"/>
+    </action>
+    <action datetime="2002-03-19T16:30:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2804.</text>
+    </action>
+    <action datetime="2002-03-19T16:40:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-03-19T19:13:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H974" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-03-19T19:24:00-05:00" how="roll" result="pass" roll="68" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 1 (Roll no. 68).</text>
+      <reference ref="CR H965" label="text"/>
+    </vote>
+    <action datetime="2002-03-19T19:24:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-03-20">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2002-03-21" calendar="Senate Legislative" under="General Orders" number="331">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 331.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="s" number="914"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="California"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Law"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2002--Reported to House without amendment.
+Designates the U.S. courthouse located at 95 Seventh Street in San Francisco, California, as the James R. Browning United States Courthouse.</summary>
+</bill>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-27T15:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10987-10988", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10987", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Green, Gene.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27T15:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Green, Gene amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt824-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3121-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3121
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides a five year phase-in of flood insurance premiums for low-income homeowners or renters whose primary residence is placed within a flood plain through an updating of the flood insurance program maps.", 
+  "house_number": 11, 
+  "introduced_at": "2007-09-27", 
+  "number": 824, 
+  "purpose": "An amendment numbered 10 printed in Part B of House Report 110-351 to provide a five year phase-in of flood insurance premiums for low-income homeowners or renters whose primary residence is placed within a flood plain through an updating of the flood insurance program maps if the value of the home does not exceed 75% of the state median home value.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Green, Gene", 
+    "state": "TX", 
+    "thomas_id": "00462", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-27T15:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

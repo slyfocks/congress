@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29T21:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1561-1563, H1584-1585", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mrs. Fowler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-29T23:53:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1561", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 88, 
+      "text": "On agreeing to the Fowler amendment (A012) Failed by recorded vote: 183 - 232 (Roll no. 88).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt626-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit the use of $40 million for a referendum among the residents of Vieques, Puerto Rico regarding further use of the island training range by the Navy; and require that the President certify that all trespassing and other intrusions on the range have ceased and that comprehensive operational training has resumed before economic development funding of $40 million is made available.", 
+  "house_number": 12, 
+  "introduced_at": "2000-03-29", 
+  "number": 626, 
+  "purpose": "An amendment numbered 8 printed in part B of House Report 106-549 to strike language in the bill that would permit $40 million to be used to fund a binding referendum for economic development in Vieques in Puerto Rico unless specified certifications are made by the President.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Fowler, Tillie", 
+    "state": "FL", 
+    "thomas_id": "00404", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-29T23:53:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

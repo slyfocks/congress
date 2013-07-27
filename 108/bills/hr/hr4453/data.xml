@@ -1,0 +1,100 @@
+<bill session="108" type="h" number="4453" updated="2013-07-14T19:02:36-04:00">
+  <state datetime="2004-10-06T14:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-10-06T14:49:00-04:00"/>
+  </status>
+  <introduced datetime="2004-05-20"/>
+  <titles>
+    <title as="introduced" type="short">Access to Rural Physicians Improvement Act of 2004</title>
+    <title as="introduced" type="official">To improve access to physicians in medically underserved areas.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="400143" joined="2004-09-30"/>
+    <cosponsor id="400199" joined="2004-09-30"/>
+    <cosponsor id="400323" joined="2004-09-30"/>
+    <cosponsor id="400389" joined="2004-09-30"/>
+    <cosponsor id="400410" joined="2004-09-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-05-20">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2004-06-02">
+      <text>Referred to the Subcommittee on Immigration, Border Security, and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-06-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-06-03">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2004-10-05T19:59:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 108-730.</text>
+    </action>
+    <calendar datetime="2004-10-05T20:00:00-04:00" calendar="Union" number="450">
+      <text>Placed on the Union Calendar, Calendar No. 450.</text>
+    </calendar>
+    <action datetime="2004-10-06T14:38:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2004-10-06T14:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8237-8239" label="consideration"/>
+    </action>
+    <action datetime="2004-10-06T14:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4453.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-10-06T14:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8237" label="text"/>
+    </vote>
+    <action datetime="2004-10-06T14:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-10-07">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration, Border Security, and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Access to health care"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Alien labor"/>
+    <term name="Aliens"/>
+    <term name="Education"/>
+    <term name="Federal-state relations"/>
+    <term name="Foreign students"/>
+    <term name="Foreign-trained physicians"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Higher education"/>
+    <term name="Housing and community development"/>
+    <term name="Labor and employment"/>
+    <term name="Medical education"/>
+    <term name="Medical personnel"/>
+    <term name="Physicians"/>
+    <term name="Residence requirements"/>
+    <term name="Rural health"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/2004--Passed House amended.
+Amends the Immigration and Nationality Technical Corrections Act of 1994 to reauthorize for a period of two years the Conrad State 30 program, which annually allows each State to request up to 30 waivers of the home residency requirement applicable to J-1 foreign medical graduates for medical service in health professional shortage areas. Amends the Immigration and Nationality Act to exempt Conrad State 30 physicians from the numerical limitation on H-1B visas. Limits to primary care or specialty medicine the medical practice areas available to Conrad State 30 physicians. Allows Conrad State 30 physicians to practice medicine outside geographic areas designated by the Secretary of Health and Human Services in the case of a waiver request from an interested State agency where the facility serves patients residing in such areas and granting the requested waiver would not cause the number of waivers for the State to exceed five in a fiscal year.</summary>
+</bill>

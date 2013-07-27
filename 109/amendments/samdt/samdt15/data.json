@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-01", 
+      "references": [
+        {
+          "reference": "CR S1834-1841", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1835", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 15 proposed by Senator Akaka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02", 
+      "references": [
+        {
+          "reference": "CR S1892, S1894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 15, 
+      "text": "Amendment SA 15 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 15.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt15-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-01", 
+  "number": 15, 
+  "proposed_at": "2005-03-01", 
+  "purpose": "To require enhanced disclosure to consumers regarding the consequences of making only minimum required payments in the repayment of credit card debt, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Akaka, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "00007", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-02", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

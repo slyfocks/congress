@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-14T12:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5863-5869", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5863-5868", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Duncan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14T12:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Duncan amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt446-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2864-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2864
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Manager's amendment consists of the text of those amendments contained in House Report 109-160 which are printed on pages H5863-H5868 in the Congressional Record for July 14, 2005.", 
+  "house_number": 1, 
+  "introduced_at": "2005-07-14", 
+  "number": 446, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-160. Amendment makes technical and coforming changes to project-related provisions, and authorizes or modifies additional projects following initial committee action.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Duncan, John J., Jr.", 
+    "state": "TN", 
+    "thomas_id": "00322", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-14T12:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

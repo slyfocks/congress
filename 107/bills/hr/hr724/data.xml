@@ -1,0 +1,77 @@
+<bill session="107" type="h" number="724" updated="2013-07-14T18:57:12-04:00">
+  <state datetime="2001-03-06T18:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-03-06T18:26:00-05:00"/>
+  </status>
+  <introduced datetime="2001-02-26"/>
+  <titles>
+    <title as="introduced" type="official">To authorize appropriations to carry out part B of title I of the Energy Policy and Conservation Act, relating to the Strategic Petroleum Reserve.</title>
+  </titles>
+  <sponsor id="400019"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2001-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-02-26">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2001-02-28">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2001-03-06T14:13:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 107-6.</text>
+    </action>
+    <calendar datetime="2001-03-06T14:13:00-05:00" calendar="Union" number="5">
+      <text>Placed on the Union Calendar, Calendar No. 5.</text>
+    </calendar>
+    <action datetime="2001-03-06T14:14:00-05:00">
+      <text>Mr. Bass moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-03-06T14:15:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H633" label="consideration"/>
+    </action>
+    <action datetime="2001-03-06T14:15:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 724.</text>
+    </action>
+    <action datetime="2001-03-06T14:20:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-03-06T18:00:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H635-636" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-03-06T18:26:00-05:00" how="roll" result="pass" roll="26" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 2 (Roll no. 26).</text>
+      <reference ref="CR H633" label="text"/>
+    </vote>
+    <action datetime="2001-03-06T18:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-03-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2001-03-13">
+      <text>Star Print ordered on the bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Department of Energy"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Petroleum reserves"/>
+    <term name="Strategic materials"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2001--Passed House without amendment.
+Amends the Energy Policy and Conservation Act to: (1) repeal the March 31, 2000, termination date for the authorization of appropriations for the Strategic Petroleum Reserve; and (2) extend it indefinitely.</summary>
+</bill>

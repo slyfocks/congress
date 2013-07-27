@@ -1,0 +1,87 @@
+<bill session="107" type="hc" number="84" updated="2013-07-14T18:58:56-04:00">
+  <state datetime="2002-11-18">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2002-11-18"/>
+  </status>
+  <introduced datetime="2001-03-27"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals of Red Ribbon Week in promoting drug-free communities.</title>
+  </titles>
+  <sponsor id="400009"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2001-03-27">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-04-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-07-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-07-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-07-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2001-09-05T15:12:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 107-197.</text>
+    </action>
+    <calendar datetime="2001-09-05T15:12:00-04:00" calendar="House" number="72">
+      <text>Placed on the House Calendar, Calendar No. 72.</text>
+    </calendar>
+    <action datetime="2001-09-24T18:46:00-04:00">
+      <text>Mr. Bilirakis asked unanimous consent to discharge the House Calendar and consider.</text>
+    </action>
+    <action datetime="2001-09-24T18:47:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref=" CR H5963-5964" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-09-24T18:51:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref=" CR H5964" label="text"/>
+    </vote>
+    <action datetime="2001-09-24T18:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-09-25">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2002-11-18">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S11339" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2002-11-18" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2002-11-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse prevention"/>
+    <term name="Government operations and politics"/>
+    <term name="Signs and symbols"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>9/5/2001--Reported to House without amendment.
+Supports the goals of Red Ribbon Week. Encourages all Americans to promote drug-free communities and to participate in drug prevention activities to show support for healthy, productive, drug-free lifestyles.</summary>
+</bill>

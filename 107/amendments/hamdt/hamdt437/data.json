@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-03-13T14:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H863-866", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H863", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Keller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-13T14:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H863-864", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Keller amendment (A003) modified by unanimous consent. The modification changes page and line numbers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-13T14:20:00-05:00", 
+      "references": [], 
+      "text": "On agreeing to the Keller amendment as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt437-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2341-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2341
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires the disclosure of plaintiffs attorneys' fees when there is a settlement or a judgement for the plaintiffs in a classs action suit.", 
+  "house_number": 3, 
+  "introduced_at": "2002-03-13", 
+  "number": 437, 
+  "purpose": "An amendment which ensures that when a class action judgment favors the plaintiff that their attorneys must disclose the amount of fees that they intend to collect. The amount must be disclosed to all plaintiffs at the time of rendered judgement or at the time that any award is transmitted to the plaintiffs.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Keller, Ric", 
+    "state": "FL", 
+    "thomas_id": "01644", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2002-03-13", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

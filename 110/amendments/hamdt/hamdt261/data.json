@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-14T20:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6421-6423", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6421", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. King (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T09:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6483-6484", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 470, 
+      "text": "On agreeing to the King (NY) amendment (A011) Agreed to by recorded vote: 282 - 137 (Roll no. 470).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt261-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding for the Domestic Nuclear Detection Office by $40 million.", 
+  "house_number": 11, 
+  "introduced_at": "2007-06-14", 
+  "number": 261, 
+  "purpose": "An amendment to increase funding (by transfer) for the domestic nuclear detection office management and administration account by $40 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "King, Peter T.", 
+    "state": "NY", 
+    "thomas_id": "00635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T09:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

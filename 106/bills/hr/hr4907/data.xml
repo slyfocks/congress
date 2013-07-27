@@ -1,0 +1,94 @@
+<bill session="106" type="h" number="4907" updated="2013-07-14T18:55:04-04:00">
+  <state datetime="2000-12-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-12-23"/>
+  </status>
+  <introduced datetime="2000-07-20"/>
+  <titles>
+    <title as="introduced" type="short">Jamestown 400th Commemoration Commission Act of 2000</title>
+    <title as="passed house" type="short">Jamestown 400th Commemoration Commission Act of 2000</title>
+    <title as="passed senate" type="short">Jamestown 400th Commemoration Commission Act of 2000</title>
+    <title as="enacted" type="short">Jamestown 400th Commemoration Commission Act of 2000</title>
+    <title as="introduced" type="official">To establish the Jamestown 400th Commemoration Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400569"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="2000-07-27"/>
+    <cosponsor id="400043" joined="2000-09-06"/>
+    <cosponsor id="400098" joined="2000-09-06"/>
+    <cosponsor id="400150" joined="2000-09-06"/>
+    <cosponsor id="400153" joined="2000-07-24"/>
+    <cosponsor id="400154" joined="2000-07-27"/>
+    <cosponsor id="400603" joined="2000-07-24"/>
+    <cosponsor id="400364" joined="2000-09-06"/>
+    <cosponsor id="400609" joined="2000-07-27"/>
+    <cosponsor id="400504" joined="2000-09-06"/>
+    <cosponsor id="400435" joined="2000-09-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-07-20">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2000-07-31">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2000-10-30T15:45:00-05:00">
+      <text>Mr. Davis (VA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-30T15:45:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11585-11588" label="consideration"/>
+    </action>
+    <action datetime="2000-10-30T15:45:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4907.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-30T15:57:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11585-11587" label="text"/>
+    </vote>
+    <action datetime="2000-10-30T15:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-31">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-12-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11939" label="consideration"/>
+    </vote>
+    <topresident datetime="2000-12-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-12-23">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-12-23" type="public" number="106-565">
+      <text>Became Public Law No: 106-565.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="2885"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/2000--Introduced.
+Jamestown 400th Commemoration Commission Act of 2000 - Establishes the Jamestown 400th Commemoration Commission to develop and execute programs and activities commemorating the 400th anniversary of the founding of Jamestown. Authorizes appropriations.</summary>
+</bill>

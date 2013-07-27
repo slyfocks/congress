@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-02T11:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2619-2624", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2619", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Ose.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-02T11:40:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Ose amendment (A001) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt26-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr522-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 522
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to return the base coverage level for insurance on deposits to the current $100,000 level by removing provisions increasing coverage to $130,000, as well as provisions to automatically increase coverage through inflation adjustments.", 
+  "house_number": 1, 
+  "introduced_at": "2003-04-02", 
+  "number": 26, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Ose, Doug", 
+    "state": "CA", 
+    "thomas_id": "01585", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-02T11:40:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

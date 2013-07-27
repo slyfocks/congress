@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12497-12513", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1515 proposed by Senator Warner for Senator Dayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12502", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1515 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1515-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-25", 
+  "number": 1515, 
+  "proposed_at": "2005-11-08", 
+  "purpose": "To make available an additional $60,000,000 for operation and maintenance, Defense-wide, for certain child and family assistance benefits for members of the Armed Forces.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dayton, Mark", 
+    "state": "MN", 
+    "thomas_id": "01629", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

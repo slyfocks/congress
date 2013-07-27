@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-24T17:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7196-7197, H7225-7226", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7196", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Duncan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-24T21:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 440, 
+      "text": "On agreeing to the Duncan amendment (A006) Failed by recorded vote: 134 - 294 (Roll no. 440).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt251-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2892-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to maintain FY 2009 funding levels for the Federal Air Marshals.", 
+  "house_number": 6, 
+  "introduced_at": "2009-06-24", 
+  "number": 251, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 111-183 to maintain current (FY2009) funding for the Federal Air Marshals.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Duncan, John J., Jr.", 
+    "state": "TN", 
+    "thomas_id": "00322", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-24T21:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26T15:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9182-9184, H9190-9191", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9182", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Royce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26T16:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 543, 
+      "text": "On agreeing to the Royce amendment (A005) Failed by recorded vote: 73 - 346 (Roll no. 543).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt600-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1461-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to authorize the regulator to require one or both of the GSEs to dispose or acquire assets or liabilities if the regulator deems those assets or liabilities to be a potential systemic risk to the housing or capital markets, or the financial system.", 
+  "house_number": 5, 
+  "introduced_at": "2005-10-26", 
+  "number": 600, 
+  "purpose": "An amendment numbered 5 printed in House Report 109-254 to authorize the regulator to require one or both of the enterprises to dispose or acquire assets or liabilities if the regulator deems those assets or liabilities to be a potential systemic risk to the housing market, the capital markets, or the financial system.", 
+  "sponsor": {
+    "district": "40", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-10-26T16:30:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

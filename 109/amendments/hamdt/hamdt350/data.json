@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-24T09:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5106-5108", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5106", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-24T09:35:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Nadler amendment (A008) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt350-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to restore funding for Arts in Education programs.", 
+  "house_number": 8, 
+  "introduced_at": "2005-06-24", 
+  "number": 350, 
+  "purpose": "An amendment numbered 24 printed in the Congressional Record to increase funding for School Improvement Programs by $35,600,000. The increase would be offset by reducing funds for carrying out, to the extent not otherwise provided, the Department of Education Organization Act, including rental of conference rooms in the District of Columbia and hire of three passenger motor vehicles.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-24T09:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

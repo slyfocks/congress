@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-22", 
+      "references": [
+        {
+          "reference": "CR S6346-6366", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4220 proposed by Senator Levin for Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6356", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4220 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4220-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-13", 
+  "number": 4220, 
+  "proposed_at": "2006-06-22", 
+  "purpose": "To require a report on the High Altitude Aviation Training Site in Eagle County, Colorado.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-22", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

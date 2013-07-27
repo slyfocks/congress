@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-11T11:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2918-2920", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Buyer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-11T12:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2918", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "text": "On agreeing to the Buyer amendment (A019) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt700-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete language which allows funds to be used for the acquisition of conservation easements by nonprofit organizations.", 
+  "house_number": 19, 
+  "introduced_at": "2000-05-11", 
+  "number": 700, 
+  "purpose": "An amendment numbered 21 printed in House Report 106-612 to strike non-profit organizations from using federal funds for the purchase of conservation easements.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Buyer, Steve", 
+    "state": "IN", 
+    "thomas_id": "00160", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-11T12:11:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

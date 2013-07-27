@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-08T11:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1360-1362, H1382-1383", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1360", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Eshoo to the Burgess amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T15:28:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 81, 
+      "text": "On agreeing to the Eshoo amendment (A002) Agreed to by recorded vote: 242 - 185 (Roll no. 81).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt3-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt2-110", 
+    "amendment_type": "hamdt", 
+    "congress": 110, 
+    "number": 2
+  }, 
+  "amends_bill": {
+    "bill_id": "hr547-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "See Burgess amendment (A001) for description.", 
+  "house_number": 2, 
+  "introduced_at": "2007-02-08", 
+  "number": 3, 
+  "purpose": "An amendment to insert a new paragraph in lieu of the matter proposed to be inserted by the Burgess amendment to section 3. The new matter seeks to insert text regarding strategies to minimize emissions from infrastructure.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Eshoo, Anna G.", 
+    "state": "CA", 
+    "thomas_id": "00355", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-08T15:28:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

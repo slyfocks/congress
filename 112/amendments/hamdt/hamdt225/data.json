@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T18:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2190-2192, H2196-2197", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2191", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Capuano.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-31T19:06:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 211, 
+      "text": "On agreeing to the Capuano amendment (A016) Failed by recorded vote: 187 - 235 (Roll no. 211).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt225-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require greater disclosure of a passenger's baggage fees when a fare is quoted to an airline passenger and to require refunds for baggage that is lost, damaged, or delayed.", 
+  "house_number": 16, 
+  "introduced_at": "2011-03-31", 
+  "number": 225, 
+  "purpose": "An amendment numbered 17 printed in House Report 112-46 to require greater disclosure of a passenger's baggage fees when a fare is quoted to an airline passenger and require refunds for baggage that is lost, damaged, or delayed. The Secretary of Transportation would prescribe any requirements necessary to implement the baggage fee disclosures by ensuring that necessary information is shared between carriers and ticket agents that have an already existing agency appointment or contract.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Capuano, Michael E.", 
+    "state": "MA", 
+    "thomas_id": "01564", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-31T19:06:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

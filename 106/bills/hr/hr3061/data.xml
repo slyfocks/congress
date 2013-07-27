@@ -1,0 +1,81 @@
+<bill session="106" type="h" number="3061" updated="2013-07-14T18:54:15-04:00">
+  <state datetime="1999-11-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1999-11-13"/>
+  </status>
+  <introduced datetime="1999-10-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to extend for an additional 2 years the period for admission of an alien as a nonimmigrant under section 101(a)(15)(S) of such Act, and to authorize appropriations for the refugee assistance program under chapter 2 of title IV of the Immigration and Nationality Act.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-10-21">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-10-26T10:30:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-10-26T10:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10775-10776" label="consideration"/>
+    </action>
+    <action datetime="1999-10-26T10:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3061.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-10-26T10:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H10775" label="text"/>
+    </vote>
+    <action datetime="1999-10-26T10:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="1999-10-27" calendar="Senate Legislative" under="General Orders" number="350">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="1999-11-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S14309" label="consideration"/>
+    </vote>
+    <topresident datetime="1999-11-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1999-11-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1999-11-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1999-11-13">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1999-11-13" type="public" number="106-104">
+      <text>Became Public Law No: 106-104.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="1713"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Alien smuggling"/>
+    <term name="Authorization"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation"/>
+    <term name="Economics and public finance"/>
+    <term name="Refugee policy"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1999--Introduced.
+Expresses the sense of Congress that in light of increased alien smuggling into the United States, the Attorney General should increase the use of providing nonimmigrant status for aliens assisting in criminal or security investigations ("S" visa) in alien smuggling operations. Amends the Immigration and Nationality Act to extend the "S" visa period of admissions. Authorizes appropriations for refugee admissions.</summary>
+</bill>

@@ -1,0 +1,113 @@
+<bill session="107" type="hc" number="56" updated="2013-07-14T18:58:56-04:00">
+  <state datetime="2001-05-21T18:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-05-21T18:28:00-04:00"/>
+  </status>
+  <introduced datetime="2001-03-07"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress regarding National Pearl Harbor Remembrance Day.</title>
+  </titles>
+  <sponsor id="400429"/>
+  <cosponsors>
+    <cosponsor id="400525" joined="2001-05-03"/>
+    <cosponsor id="400549" joined="2001-05-03"/>
+    <cosponsor id="400060" joined="2001-05-08"/>
+    <cosponsor id="400067" joined="2001-05-17"/>
+    <cosponsor id="400548" joined="2001-05-17"/>
+    <cosponsor id="400110" joined="2001-05-10"/>
+    <cosponsor id="400133" joined="2001-05-02"/>
+    <cosponsor id="400143" joined="2001-05-03"/>
+    <cosponsor id="400148" joined="2001-05-02"/>
+    <cosponsor id="400154" joined="2001-05-17"/>
+    <cosponsor id="400168" joined="2001-05-17"/>
+    <cosponsor id="400187" joined="2001-05-03"/>
+    <cosponsor id="400207" joined="2001-05-03"/>
+    <cosponsor id="400227" joined="2001-05-16"/>
+    <cosponsor id="400264" joined="2001-05-10"/>
+    <cosponsor id="400511" joined="2001-05-02"/>
+    <cosponsor id="400554" joined="2001-05-02"/>
+    <cosponsor id="400288" joined="2001-05-08"/>
+    <cosponsor id="400292" joined="2001-05-17"/>
+    <cosponsor id="400293" joined="2001-05-10"/>
+    <cosponsor id="400321" joined="2001-05-17"/>
+    <cosponsor id="400337" joined="2001-05-17"/>
+    <cosponsor id="400343" joined="2001-05-03"/>
+    <cosponsor id="400353" joined="2001-05-17"/>
+    <cosponsor id="400507" joined="2001-05-03"/>
+    <cosponsor id="400396" joined="2001-05-02"/>
+    <cosponsor id="400509" joined="2001-05-02"/>
+    <cosponsor id="400611" joined="2001-05-02"/>
+    <cosponsor id="400422" joined="2001-05-10"/>
+    <cosponsor id="400439" joined="2001-05-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-03-07">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2001-03-12">
+      <text>Referred to the Subcommittee on the Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2001-05-21T14:08:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2001-05-21T14:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2338-2340" label="consideration"/>
+    </action>
+    <action datetime="2001-05-21T14:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 56.</text>
+    </action>
+    <action datetime="2001-05-21T14:19:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-05-21T18:04:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2364" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-05-21T18:28:00-04:00" how="roll" result="pass" roll="126" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 368 - 0 (Roll no. 126).</text>
+      <reference ref="CR H2338" label="text"/>
+    </vote>
+    <action datetime="2001-05-21T18:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-05-22">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2001-06-07">
+      <text>Referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="sc" number="44"/>
+    <bill relation="unknown" session="107" type="sc" number="44"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Aerial bombing"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="East Asia"/>
+    <term name="Hawaii"/>
+    <term name="History"/>
+    <term name="Japan"/>
+    <term name="Naval bases"/>
+    <term name="Naval history"/>
+    <term name="Naval personnel"/>
+    <term name="Veterans' organizations"/>
+    <term name="War casualties"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2001--Passed House without amendment.
+Pays tribute, on the occasion of the 60th anniversary of the December 7, 1941, attack on Pearl Harbor, Hawaii, to the U.S. citizens who died in the attack, and to the members of the Pearl Harbor Survivors Association.</summary>
+</bill>

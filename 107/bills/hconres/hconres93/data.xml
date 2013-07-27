@@ -1,0 +1,44 @@
+<bill session="107" type="hc" number="93" updated="2013-07-14T18:58:56-04:00">
+  <state datetime="2001-04-04">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2001-04-04"/>
+  </status>
+  <introduced datetime="2001-04-03"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="400307"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2001-04-03T18:43:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H1386" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-04-03T18:44:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H1386" label="text"/>
+    </vote>
+    <action datetime="2001-04-03T18:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-04-04" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3399" label="consideration"/>
+      <reference ref="CR S3399" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2001-04-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/2001--Introduced.
+Provides for an adjournment of the House of Representatives from April 4 or 5, 2001, until April 24, 2001, and a recess or adjournment of the Senate from April 6, 7, 8, or 9, 2001, until April 23, 2001.</summary>
+</bill>

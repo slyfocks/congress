@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-08T09:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8864-8869, H8891", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8865-8866", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T11:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 513, 
+      "text": "On agreeing to the Sessions amendment (A005) Agreed to by recorded vote: 385 - 30 (Roll no. 513).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt789-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment added to the bill the text of the \"Prevention of Terrorist Access to Destructive Weapons Act of 2004\".", 
+  "house_number": 5, 
+  "introduced_at": "2004-10-08", 
+  "number": 789, 
+  "purpose": "An amendment numbered five printed in House Report 108-751 to establish a \"zero tolerance\" policy towards the unlawful importation, possession, or transfer of shoulder fired guided missiles (MANPADS), atomic weapons, dirty bombs, and variola (smallpox) virus by making their unauthorized possession a federal crime carrying stiff mandatory penalties.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-10-08T11:49:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

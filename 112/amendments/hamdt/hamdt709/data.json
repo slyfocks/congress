@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T21:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5370-5371", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5370", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-21T21:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A013) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt709-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2551-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2551
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2011-07-21", 
+  "number": 709, 
+  "purpose": "An amendment numbered 10 printed in House Report 112-173 to require all mail funded by the Members' representational allowance and from funds for official mail for committees and leadership offices of the House bear the official letterhead of the Member, committee, or office involved.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-21T21:30:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

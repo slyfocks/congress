@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T15:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6701-6703, H6719-6720", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6701", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-19T18:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 509, 
+      "text": "On agreeing to the Campbell (CA) amendment (A008) Failed by recorded vote: 107 - 320 (Roll no. 509).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt323-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for DOE energy efficiency and renewable energy activities by $101,550,000.", 
+  "house_number": 8, 
+  "introduced_at": "2007-06-19", 
+  "number": 323, 
+  "purpose": "An amendment numbered 21 printed in the Congressional Record to reduce the appropriation in the bill for Energy Efficiency and Renewable Energy by $101,550,000.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-19T18:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

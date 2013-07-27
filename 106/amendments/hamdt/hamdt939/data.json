@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29T12:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5541-5547", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5541", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Sanford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29T13:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Sanford amendment (A006) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt939-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to decrease special grants for agricultural research funding by $14.4 million.", 
+  "house_number": 6, 
+  "introduced_at": "2000-06-29", 
+  "number": 939, 
+  "purpose": "An amendment numbered 49 printed in the Congressional Record to reduce the funding for special agricultural research grants by $14 million (from $74 million to $60 million) in order to return the funding level to that of FY 2000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Marshall (Mark)", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-29T13:43:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

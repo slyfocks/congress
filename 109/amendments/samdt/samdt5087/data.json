@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-27", 
+      "references": [
+        {
+          "reference": "CR S10263-10274", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 5087 proposed by Senator Specter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-28", 
+      "references": [
+        {
+          "reference": "CR S10354-10369", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 255, 
+      "text": "Amendment SA 5087 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 255.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5087-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3930-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3930
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-27", 
+  "number": 5087, 
+  "proposed_at": "2006-09-27", 
+  "purpose": "To strike the provision regarding habeas review.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Specter, Arlen", 
+    "state": "PA", 
+    "thomas_id": "01437", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-09-28", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

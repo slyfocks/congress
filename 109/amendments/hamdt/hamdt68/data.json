@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17T13:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1654-1665", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1654-1659", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) in the nature of a substitute offered by Mr. Spratt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17T15:12:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 87, 
+      "text": "On agreeing to the Spratt amendment (A004) Failed by recorded vote: 165 - 264, 1 Present (Roll no. 87).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt68-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres95-109", 
+    "bill_type": "hconres", 
+    "congress": 109, 
+    "number": 95
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute printed in House Report 109-19 and numbered 4 was offered as the Democratic substitute.", 
+  "house_number": 4, 
+  "introduced_at": "2005-03-17", 
+  "number": 68, 
+  "purpose": "An amendment in the nature of a substitute numbered 4 printed in House Report 109-19 to balance the budget by 2012; reverse mandatory cuts likely to fall on Medicaid, veterans, student loans, and other services; provide increased funding for important domestic priorities, such as education, veterans, community and regional development, and the environment; and impose a pay-as-you-go (PAYGO) rule, which protects the Social Security Trust Fund surplus by requiring that any mandatory spending increases or tax cuts be fully offset.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Spratt, John M., Jr.", 
+    "state": "SC", 
+    "thomas_id": "01092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17T15:12:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

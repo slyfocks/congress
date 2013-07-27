@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-01T12:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3602, H3607-3608", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3602", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-01T13:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 155, 
+      "text": "On agreeing to the Stearns amendment (A004) Agreed to by recorded vote: 276 - 145 (Roll no. 155).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt104-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1298-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1298
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment limits the top salary level for employees of the Global Fund to that of the Vice President of the United States.", 
+  "house_number": 4, 
+  "introduced_at": "2003-05-01", 
+  "number": 104, 
+  "purpose": "An amendment numbered 4 printed in House Report 108-80 to require that for every dollar paid to any individual Global Fund staffer that is over the amount of the U.S. Vice President's salary, that there be a deduction of the same amount from the next year's appropriation to the Global Fund. All funds would continue to go to HIV/AIDS programs. The President may waive the provision for national security interests.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-05-01T13:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

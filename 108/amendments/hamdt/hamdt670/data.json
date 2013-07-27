@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-13T11:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5554-5559", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5554", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Bonilla.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-13T12:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bonilla amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt670-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4766-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases funding for the Farm Service Agency, the Natural Resources Conservation Service, and Rural Development.", 
+  "house_number": 2, 
+  "introduced_at": "2004-07-13", 
+  "number": 670, 
+  "purpose": "An amendment to increase funding for the Farm Service Agency, Salaries and Expenses by $52,873,606, to increase funding for the Natural Resources Conservation Serivce, Conservation Operations by $40,458,661 and to increase funding for Rural Development, Salaries and Expenses by $27,624,733.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Bonilla, Henry", 
+    "state": "TX", 
+    "thomas_id": "00107", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-07-13T12:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-30T14:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5036-5037", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5036", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Schock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30T14:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Schock amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt106-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr627-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment allows consumers who have not activated an issued credit card within 45 days, to contact the issuing institution to cancel the card and have it removed from their credit report entirely. If, after 45 days, the card has not been activated, it will be automatically removed from any such report.", 
+  "house_number": 17, 
+  "introduced_at": "2009-04-30", 
+  "number": 106, 
+  "purpose": "An amendment numbered 17 printed in House Report 111-92 to allow consumers who have not activated an issued credit card within 45 days, to contact the issuing institution to cancel the card and have it removed from their credit report entirely. If after 45 days the card has not been activated it is automatically removed from any such report.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Schock, Aaron", 
+    "state": "IL", 
+    "thomas_id": "01920", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-30T14:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

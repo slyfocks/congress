@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-24T20:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4522", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4522", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-24T20:44:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Brown (OH) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt225-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2506-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2506
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 23, 
+  "introduced_at": "2001-07-24", 
+  "number": 225, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to prohibit funds from being made available to the Ex-Im Bank to guarantee, ensure, extend credit, or participate in an extension of credit to a company that is under investigation for trade dumping by the ITC, or is subject to an anti-dumping duty order issued by the Commerce Department.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-07-24", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

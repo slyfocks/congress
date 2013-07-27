@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-15T22:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4263-4267", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4263", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A042) offered by Mr. Blumenauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16T12:29:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4302", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 443, 
+      "text": "On agreeing to the Blumenauer amendment (A042) Failed by recorded vote: 154 - 262 (Roll no. 443).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt460-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit use of funds to pay salaries and expenses of Agriculture personnel to provide benefits described in the Food Security Act of 1985 to a person or legal entity in excess of $125,000.", 
+  "house_number": 42, 
+  "introduced_at": "2011-06-15", 
+  "number": 460, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to prohibit use of funds to pay salaries and expenses of Agriculture personnel to provide benefits described in the Food Security Act of 1985 to a person or legal entity in excess of $125,000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-16T12:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

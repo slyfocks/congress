@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2074-2078, S2094", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2075", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2999 proposed by Senator Burns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 40, 
+      "text": "Amendment SA 2999 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 40.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2999-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-13", 
+  "number": 2999, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To provide increased funding for veterans health programs, and to negate the need for enrollment fees and increase in pharmacy co-payments.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Burns, Conrad R.", 
+    "state": "MT", 
+    "thomas_id": "01298", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-14", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

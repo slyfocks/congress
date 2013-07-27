@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T14:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4719-4720", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4719", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T14:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A031) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1128-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 31, 
+  "introduced_at": "2006-06-28", 
+  "number": 1128, 
+  "purpose": "An amendment to prohibit funds from being used for the Fairplex Trade and Conference Center.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-28T14:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

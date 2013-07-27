@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-29T19:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6377-6378, CR 7/30/2010 H6414-6415", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6377", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-29T22:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 495, 
+      "text": "On agreeing to the Flake amendment (A019) Failed by recorded vote: 163 - 260 (Roll no. 495).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt761-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5850-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5850
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit $1,000,000 from being made available for the Blackstone River Bikeway in Rhode Island and reduce the overall cost of the bill by the same amount.", 
+  "house_number": 19, 
+  "introduced_at": "2010-07-29", 
+  "number": 761, 
+  "purpose": "An amendment numbered 2 printed in part B of House Report 111-578 to prohibit $1,000,000 from being made available for the Blackstone River Bikeway in Rhode Island and reduce the overall cost of the bill by the same amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-07-29T22:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:58-04:00"
+}

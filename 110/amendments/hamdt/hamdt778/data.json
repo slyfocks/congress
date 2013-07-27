@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-04T23:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10003-10004", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10003", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-04T23:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A011) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt778-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3222-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3222
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit funds to be used for Marine Desalination Systems, Inc., in St. Petersburg, Florida.", 
+  "house_number": 11, 
+  "introduced_at": "2007-08-04", 
+  "number": 778, 
+  "purpose": "An amendment to prohibit funds to be used for Marine Desalination Systems, Inc., in St. Petersburg, Florida.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-08-04T23:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

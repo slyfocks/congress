@@ -1,0 +1,108 @@
+<bill session="107" type="hc" number="14" updated="2013-07-14T18:58:55-04:00">
+  <state datetime="2001-02-27T17:31:00-05:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="2001-02-27T17:31:00-05:00"/>
+  </status>
+  <introduced datetime="2001-01-30"/>
+  <titles>
+    <title as="introduced" type="official">Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+  </titles>
+  <sponsor id="400293"/>
+  <cosponsors>
+    <cosponsor id="400036" joined="2001-01-30"/>
+    <cosponsor id="400059" joined="2001-01-30"/>
+    <cosponsor id="400060" joined="2001-01-30"/>
+    <cosponsor id="400094" joined="2001-01-30"/>
+    <cosponsor id="400119" joined="2001-01-30"/>
+    <cosponsor id="400130" joined="2001-01-30"/>
+    <cosponsor id="400143" joined="2001-01-30"/>
+    <cosponsor id="400536" joined="2001-01-30"/>
+    <cosponsor id="400189" joined="2001-01-30"/>
+    <cosponsor id="400231" joined="2001-01-30"/>
+    <cosponsor id="400235" joined="2001-01-30"/>
+    <cosponsor id="400242" joined="2001-01-30"/>
+    <cosponsor id="400401" joined="2001-01-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-01-30">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2001-01-31T10:13:00-05:00">
+      <text>Mr. Ney asked unanimous consent that today it may be in order to consider H. Con. Res. 14. Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-01-31T10:14:00-05:00">
+      <text>Mr. Ney moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2001-01-31T10:14:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H115-118" label="consideration"/>
+    </action>
+    <action datetime="2001-01-31T10:14:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 14.</text>
+    </action>
+    <action datetime="2001-01-31T10:39:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-01-31T11:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H127-128" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-01-31T11:54:00-05:00" how="roll" result="pass" roll="6" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 6).</text>
+      <reference ref="CR H115" label="text"/>
+    </vote>
+    <action datetime="2001-01-31T11:54:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-01-31">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2001-02-08">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2001-02-08">
+      <text>Measure laid before Senate.</text>
+      <reference ref="CR S1235" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-02-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2001-02-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2001-02-27T17:31:00-05:00">
+      <text>Mr. Ney asked unanimous consent that the House agree to the Senate amendment.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2001-02-27T17:31:00-05:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+      <reference ref="CR H430" label="consideration"/>
+      <reference ref="CR H430" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2001-02-27T17:31:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congress"/>
+    <term name="Crime and law enforcement"/>
+    <term name="History"/>
+    <term name="International affairs"/>
+    <term name="Jewish holocaust (1939-1945)"/>
+    <term name="Special days"/>
+    <term name="Special weeks"/>
+    <term name="Victims of crimes"/>
+    <term name="War crimes"/>
+  </subjects>
+  <amendments>
+    <amendment number="s11"/>
+  </amendments>
+  <summary>2/8/2001--Passed Senate amended.
+Authorizes use of the Rotunda of the Capitol on April 19, 2001, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</summary>
+</bill>

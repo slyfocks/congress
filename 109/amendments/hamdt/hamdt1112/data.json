@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T11:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4690-4691", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4690", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Reyes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T12:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Reyes amendment (A015) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1112-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the Southwest Border Prosecution Initiative by $10 million.", 
+  "house_number": 15, 
+  "introduced_at": "2006-06-28", 
+  "number": 1112, 
+  "purpose": "An amendment to increase funding (by offset) for the Southwest Border Prosecutor Initiative by $10,000,000.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Reyes, Silvestre", 
+    "state": "TX", 
+    "thomas_id": "01516", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-28T12:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

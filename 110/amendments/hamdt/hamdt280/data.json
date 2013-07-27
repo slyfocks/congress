@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-14T23:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 6/15/2007 H6450-6452", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 6/15/2007 H6450", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Bilbray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T10:35:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6490", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 479, 
+      "text": "On agreeing to the Bilbray amendment (A031) Failed by recorded vote: 155 - 268 (Roll no. 479).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt280-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for REAL ID grants by $150 million.", 
+  "house_number": 31, 
+  "introduced_at": "2007-06-14", 
+  "number": 280, 
+  "purpose": "An amendment to reduce appropriation for the Coast Gaurd construction by $150,000,000, and increase the State and local terrorism prevention activities by $150,000,000.", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Bilbray, Brian P.", 
+    "state": "CA", 
+    "thomas_id": "00087", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T10:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

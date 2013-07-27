@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T20:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5650-5651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5650", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A044) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-28T14:50:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5691-5692", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 669, 
+      "text": "On agreeing to the Broun (GA) amendment (A044) Failed by recorded vote: 110 - 317 (Roll no. 669).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt767-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to decrease funding for Smithsonian Institution salaries and expenses by $55,624,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 44, 
+  "introduced_at": "2011-07-27", 
+  "number": 767, 
+  "purpose": "An amendment numbered 14 printed in the Congressional Record to decrease Smithsonian salaries and expenses by $55,624,000 and transfer the funds to the spending reduction account.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-28T14:50:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

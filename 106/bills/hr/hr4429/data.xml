@@ -1,0 +1,102 @@
+<bill session="106" type="h" number="4429" updated="2013-07-14T18:54:49-04:00">
+  <state datetime="2000-09-26T11:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-09-26T11:59:00-04:00"/>
+  </status>
+  <introduced datetime="2000-05-11"/>
+  <titles>
+    <title as="introduced" type="short">Electronic Commerce Enhancement Act of 2000</title>
+    <title as="reported to house" type="short">Electronic Commerce Enhancement Act of 2000</title>
+    <title as="passed house" type="short">Electronic Commerce Enhancement Act of 2000</title>
+    <title as="introduced" type="official">To require the Director of the National Institute of Standards and Technology to assist small and medium-sized manufacturers and other such businesses to successfully integrate and utilize electronic commerce technologies and business practices.</title>
+  </titles>
+  <sponsor id="400526"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2000-06-07"/>
+    <cosponsor id="400057" joined="2000-05-11"/>
+    <cosponsor id="400114" joined="2000-05-11"/>
+    <cosponsor id="400412" joined="2000-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2000-05-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E720"/>
+    </action>
+    <action state="REFERRED" datetime="2000-05-11">
+      <text>Referred to the House Committee on Science.</text>
+    </action>
+    <action datetime="2000-05-15">
+      <text>Referred to the Subcommittee on Technology.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <action datetime="2000-07-24">
+      <text>Subcommittee on Technology Discharged.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <action datetime="2000-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-07-26">
+      <text>Ordered to be Reported Without Recommendation (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Science"/>
+    </calendar>
+    <action datetime="2000-09-21T13:48:00-04:00">
+      <text>Reported (Amended) by the Committee on Science. H. Rept. 106-877.</text>
+    </action>
+    <calendar datetime="2000-09-21T13:48:00-04:00" calendar="Union" number="528">
+      <text>Placed on the Union Calendar, Calendar No. 528.</text>
+    </calendar>
+    <action datetime="2000-09-26T11:44:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-09-26T11:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8079-8081" label="consideration"/>
+    </action>
+    <action datetime="2000-09-26T11:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4429.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-26T11:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8079-8080" label="text"/>
+    </vote>
+    <action datetime="2000-09-26T11:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-26T11:59:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSSY17" subcommittee="Technology" name="House Science"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Computer security measures"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Economics and public finance"/>
+    <term name="Electronic commerce"/>
+    <term name="Encryption"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government and business"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Industrial standards"/>
+    <term name="Manufacturing industries"/>
+    <term name="Public-private partnerships"/>
+    <term name="Science, technology, communications"/>
+    <term name="Small business"/>
+    <term name="Technology transfer"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2000--Passed House amended.
+TABLE OF CONTENTS: Title I: Electronic Commerce Title II: Enterprise Integration Electronic Commerce Enhancement Act of 2000 - Title I: Electronic Commerce - Requires the Director of the National Institute of Standards and Technology (NIST) to establish an Advisory Panel to report on the challenges facing small and medium-sized manufacturers and other such businesses in integrating and utilizing electronic commerce technologies and business practices. Requires the Panel to provide an interim and final report to the Director and specified congressional committees. Requires the final report to include: (1) a three-year planning document for NIST's Manufacturing Extension Partnership (MEP) program in the field of electronic commerce; and (2) recommendations for NIST to address interoperability issues in electronic commerce.Requires the MEP program to: (1) establish a pilot program to assist such manufacturers and businesses in integrating and utilizing electronic commerce technologies and business practices through a competitive grants program; and (2) consult with the Panel and utilize the Panel's reports.Title II: Enterprise Integration - Requires the Director to: (1) identify current critical enterprise integration standards and implementation activities for major manufacturing industries; (2) report to Congress on such matters and anticipated related NIST activities for that fiscal year; and (3) submit to Congress a plan for enterprise integration for each major manufacturing industry (requiring annual plan updates).</summary>
+</bill>

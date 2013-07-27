@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T11:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4945-4951", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4945", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Taylor (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T11:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Taylor (NC) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt864-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4516-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4516
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding in the bill by $95.8 million.", 
+  "house_number": 1, 
+  "introduced_at": "2000-06-22", 
+  "number": 864, 
+  "purpose": "Amendment no. 1 printed in H. Rept. 106-685 to increase total funding in the bill by $95.8 million for various House of Representatives, Capitol Police, CBO, Architect, CRS, GPO, and GAO accounts.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Taylor, Charles H.", 
+    "state": "NC", 
+    "thomas_id": "01141", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-22T11:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

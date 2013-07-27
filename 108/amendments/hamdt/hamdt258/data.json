@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T11:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7040-7041, H7055-7056", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7040", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Hefley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T14:07:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 378, 
+      "text": "On agreeing to the Hefley amendment (A007) Failed by recorded vote: 81 - 341 (Roll no. 378).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt258-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reduce all funding by one percent.", 
+  "house_number": 7, 
+  "introduced_at": "2003-07-17", 
+  "number": 258, 
+  "purpose": "An amendment to make an across-the-board cut by 1%.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T14:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

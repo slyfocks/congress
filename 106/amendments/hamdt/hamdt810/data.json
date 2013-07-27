@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-14T20:44:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4466-4475, H4478", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Wu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-14T22:59:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H4467", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 277, 
+      "text": "On agreeing to the Wu amendment (A015) Failed by recorded vote: 173 - 249 (Roll no. 277).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt810-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4578-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4578
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for Fish and Wildlife Management by $14.7 million and reduce funding for Forest Products by a similar amount.", 
+  "house_number": 15, 
+  "introduced_at": "2000-06-14", 
+  "number": 810, 
+  "purpose": "An amendment to increase funding for Fish and Wildlife Management by $14.7 million and to reduce funding for Forest Products by a similar amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wu, David", 
+    "state": "OR", 
+    "thomas_id": "01598", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-14T22:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

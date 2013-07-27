@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T12:43:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4244-4245", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T12:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H4244", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "text": "On agreeing to the Vitter amendment (A013) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt771-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase the bill's appropriation for special education by $1.4 billion and to offset this increase by reducing the bill's appropriations for other education programs.", 
+  "house_number": 13, 
+  "introduced_at": "2000-06-13", 
+  "number": 771, 
+  "purpose": "An amendment numbered 192 printed in the Congressional Record to increase the bill's appropriation for special education by $1.4 billion and to offset this increase by reducing the bill's appropriations for other education programs.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-13T12:57:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

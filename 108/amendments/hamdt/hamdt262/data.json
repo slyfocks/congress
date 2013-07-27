@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T12:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7048-7049, H7057-7058", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7048", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Shadegg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T14:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 381, 
+      "text": "On agreeing to the Shadegg amendment (A011) Failed by recorded vote: 128 - 298 (Roll no. 381).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt262-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for Wildland Fire Management for hazardous fuels reduction activities by $19 million with offsets from the Department of Agriculture Land Acquisition program.", 
+  "house_number": 11, 
+  "introduced_at": "2003-07-17", 
+  "number": 262, 
+  "purpose": "An amendment to increase hazardous fuels reduction activities by $19,000,000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Shadegg, John B.", 
+    "state": "AZ", 
+    "thomas_id": "01043", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T14:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

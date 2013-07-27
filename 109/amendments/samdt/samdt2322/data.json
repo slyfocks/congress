@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11900", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11900", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2322 proposed by Senator Harkin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [
+        {
+          "reference": "CR S11953, S11989", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [], 
+      "text": "Proposed amendment SA 2322 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2322-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-26", 
+  "number": 2322, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To prohibit payments for administrative expenses under the Medicaid program if more than 15 percent of applications for medical assistance, eligibility redeterminations, and change reports are processed by individuals who are not State employees meeting certain personnel standards.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-10-27", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

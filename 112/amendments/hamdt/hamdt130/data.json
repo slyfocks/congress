@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T18:38:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1277-1279, H1302-1303", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1277", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A120) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:40:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 118, 
+      "text": "On agreeing to the Polis amendment (A120) Failed by recorded vote: 74 - 351 (Roll no. 118).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt130-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 120, 
+  "introduced_at": "2011-02-18", 
+  "number": 130, 
+  "purpose": "An amendment numbered 46 printed in the Congressional Record to prohibit the use of funds to maintain an end strength level of members of the Armed Forces of the United States assigned to permanent duty in Europe in excess of 35,000 members and end strength levels for active duty members of the Army, Navy, and Air Force of 565,275, 328,250, and 329,275, respectively, and the amounts otherwise provided by this Act for \"Military Personnel, Army\", \"Military Personnel, Navy\" and \"Military Personnel, Air Force\" in title I of division A are hereby reduced by $155,914,688, $18,047,700, and $118,488,825, respectively.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-18T21:40:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

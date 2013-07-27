@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-27T10:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8757-8759", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8757", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Manzullo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-27T10:10:00-04:00", 
+      "references": [], 
+      "text": "Manzullo amendment (A010) modified by unanimous consent. Modification consist of replacement text.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-27T10:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8757", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "On agreeing to the Manzullo amendment (A010) as modified Failed by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt709-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to exempt the Environmental Quality Incentives Program from the $60,000 payment limitation contained in the bill.", 
+  "house_number": 10, 
+  "introduced_at": "2007-07-27", 
+  "number": 709, 
+  "purpose": "An amendment numbered 15 printed in Part B of House Report 110-261 to exempt the Environmental Quality Incentives Program (EQIP) from the $60,000 and $125,000 payment limitations, resetting it to the $450,000 limitation that is in the current law.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Manzullo, Donald A.", 
+    "state": "IL", 
+    "thomas_id": "00733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2007-07-27", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T21:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6703-6705, H6709-6710", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6703", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Hostettler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T22:32:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 427, 
+      "text": "On agreeing to the Hostettler amendment (A021) Failed by recorded vote: 204 - 214 (Roll no. 427).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1032-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit the use of funds to enforce, implement, or administer the provisions of the settelement document dated March 17, 2000, between Smith and Wesson and the Department of the Treasury.", 
+  "house_number": 21, 
+  "introduced_at": "2000-07-20", 
+  "number": 1032, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to prohibit the use of funds to enforce, implement, or administer the provisions of the settelement document dated March 17, 2000, between Smith and Wesson and the Department of the Treasury.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hostettler, John N.", 
+    "state": "IN", 
+    "thomas_id": "00562", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-20T22:32:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

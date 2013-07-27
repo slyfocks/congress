@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-15T15:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6788-6789", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6788", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Kolbe to the Hyde amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-15T15:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kolbe amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt239-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt236-108", 
+    "amendment_type": "hamdt", 
+    "congress": 108, 
+    "number": 236
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1950-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1950
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment to the Hyde amendment (A002) clarifies the responsibilities of the United States Agency for International Development and the State Department to the Millennium Challenge Corporation.", 
+  "house_number": 5, 
+  "introduced_at": "2003-07-15", 
+  "number": 239, 
+  "purpose": "An amendment numbered 5 printed in House Report 108-206 to make technical and clarifying changes.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Kolbe, Jim", 
+    "state": "AZ", 
+    "thomas_id": "00645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-15T15:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

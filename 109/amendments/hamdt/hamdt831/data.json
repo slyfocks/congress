@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-17T20:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/18/2006 H2714-2718", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 5/18/2006 H2714-2718", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-17T20:43:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt831-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres376-109", 
+    "bill_type": "hconres", 
+    "congress": 109, 
+    "number": 376
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2006-05-17", 
+  "number": 831, 
+  "purpose": "Amendments printed in Part A of House Report 109-468 and considered as adopted pursuant to the provisions of H. Res. 817.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-17T20:43:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

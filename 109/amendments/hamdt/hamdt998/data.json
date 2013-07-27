@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-09T12:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3687-3688, H3700-3701", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3687", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-09T14:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 245, 
+      "text": "On agreeing to the King (IA) amendment (A014) Failed by recorded vote: 93 - 311 (Roll no. 245).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt998-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5522-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5522
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 14, 
+  "introduced_at": "2006-06-09", 
+  "number": 998, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to prohibit use of funds in the bill under the heading Economic Support Fund to provide assistance to Mexico.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-09T14:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T20:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4651-4652", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4651", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Garamendi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T13:55:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4695-4696", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 503, 
+      "text": "On agreeing to the Garamendi amendment (A021) Failed by recorded vote: 133 - 295 (Roll no. 503).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt526-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding levels for combat operations in Afghanistan in order to achieve a U.S. presence of no more than 25,000 troops by December 31, 2012 and to apply the savings to the spending reduction account.", 
+  "house_number": 21, 
+  "introduced_at": "2011-07-06", 
+  "number": 526, 
+  "purpose": "An amendment to strike $20,887,651,000 from title IX and increase the Spending Reduction Account by the same amount.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Garamendi, John", 
+    "state": "CA", 
+    "thomas_id": "01973", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T13:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-15T16:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6794-6795, H6819-6820", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6794", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mrs. Tauscher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-15T17:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 366, 
+      "text": "On agreeing to the Tauscher amendment (A008) Failed by recorded vote: 207 - 219 (Roll no. 366).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt242-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1950-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1950
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to allow exporters of commercial communications satellites to transfer marketing information to a member country of the North Atlantic Treaty Organization (NATO) or to Australia, Japan, or New Zealand.", 
+  "house_number": 8, 
+  "introduced_at": "2003-07-15", 
+  "number": 242, 
+  "purpose": "An amendment numbered 8 printed in House Report 108-206 to allow exporters of commercial communications satellites to share marketing information with prospective customers in NATO countries, and in Japan, Australia, and New Zealand. Would not allow the transfer of any sensitive encryption and/or source code data, detailed design data, engineering analysis, or manufacturing know-how.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Tauscher, Ellen O.", 
+    "state": "CA", 
+    "thomas_id": "01533", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-15T17:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

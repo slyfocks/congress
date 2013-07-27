@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-26", 
+      "references": [
+        {
+          "reference": "CR S3560-3563, S3564", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3560", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3642 proposed by Senator Akaka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-26", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 98, 
+      "text": "Amendment SA 3642 agreed to in Senate by Yea-Nay Vote. 84 - 13. Record Vote Number: 98.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3642-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3642, 
+  "proposed_at": "2006-04-26", 
+  "purpose": "To provide an additional $430,000,000 for the Department of Veteran Affairs for Medical Services for outpatient care and treatment for veterans.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Akaka, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "00007", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-26", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S7056-7061", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7060", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 986 proposed by Senator Frist for Senator Jeffords.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 986 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt986-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 986, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To authorize the Secretary of Energy to make grants to increase energy efficiency, promote siting or upgrading of transmission and distribution lines, and providing or modernizing electric facilities in rural areas.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Jeffords, James M.", 
+    "state": "VT", 
+    "thomas_id": "00593", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

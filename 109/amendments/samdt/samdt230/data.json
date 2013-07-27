@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2894-2897", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "s2924", 
+          "type": null
+        }, 
+        {
+          "reference": "CR S2894-2895", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 230 proposed by Senator Coleman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 66, 
+      "text": "Amendment SA 230 agreed to in Senate by Yea-Nay Vote. 68 - 31. Record Vote Number: 66.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt230-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 230, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To fully fund the Community Development Block Grant (CDBG) program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coleman, Norm", 
+    "state": "MN", 
+    "thomas_id": "01697", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

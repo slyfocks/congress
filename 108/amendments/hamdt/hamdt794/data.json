@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-08T10:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8880-8882", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8880", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Foley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T10:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Foley amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt794-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment makes aliens who commit torture or other human rights violations inadmissible and removable from the United States.", 
+  "house_number": 10, 
+  "introduced_at": "2004-10-08", 
+  "number": 794, 
+  "purpose": "An amendment numbered ten printed in House Report 108-751 to amend the Immigration and Nationality Act to provide for the inadmissibility and removability of aliens who have committed, ordered, assisted, incited, or otherwise participated in acts of torture of extrajudicial killings abroad.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Foley, Mark", 
+    "state": "FL", 
+    "thomas_id": "00396", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-10-08T10:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

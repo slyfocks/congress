@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T16:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3615-3616, H3632", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3615", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Sarbanes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-25T18:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 345, 
+      "text": "On agreeing to the Sarbanes amendment (A008) Failed by recorded vote: 198 - 225 (Roll no. 345).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt308-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike Section 937 of the bill relating to Modification of Temporary Suspension of Public-Private Competitions for Conversion of Department of Defense Functions to Contractor Performance.", 
+  "house_number": 8, 
+  "introduced_at": "2011-05-25", 
+  "number": 308, 
+  "purpose": "An amendment numbered 24 printed in House Report 112-88 to strike Section 937 of the bill relating to Modification of Temporary Suspension of Public-Private Competitions for Conversion of Department of Defense Functions to Contractor Performance.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Sarbanes, John P.", 
+    "state": "MD", 
+    "thomas_id": "01854", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-25T18:37:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

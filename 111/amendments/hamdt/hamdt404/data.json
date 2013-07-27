@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-30T12:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9093-9095, H926-9127", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9093-9095", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-30T13:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 670, 
+      "text": "On agreeing to the Flake amendment (A013) Failed by recorded vote: 118 - 304, 11 Present (Roll no. 670).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt404-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3326-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit approximately $200 million for more than 70 earmarks funded in the bill.", 
+  "house_number": 13, 
+  "introduced_at": "2009-07-30", 
+  "number": 404, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-30T13:54:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

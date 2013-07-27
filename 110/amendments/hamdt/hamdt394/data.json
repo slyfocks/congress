@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-22T12:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6994-6996, H6996-6997", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6994", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Jordan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-22T12:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 546, 
+      "text": "On agreeing to the Jordan amendment (A003) Failed by recorded vote: 177 - 231 (Roll no. 546).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt394-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2771-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2771
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to reduce appropri ations in the bill by 4% across the board.", 
+  "house_number": 3, 
+  "introduced_at": "2007-06-22", 
+  "number": 394, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-201 to reduce appropri ations in the bill by 4% across the board.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Jordan, Jim", 
+    "state": "OH", 
+    "thomas_id": "01868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-22T12:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-05T11:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8053-8061", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8053-8054", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Simpson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-05T13:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 492, 
+      "text": "On agreeing to the Simpson amendment (A002) Agreed to by recorded vote: 205 - 194 (Roll no. 492).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt780-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s878-108", 
+    "bill_type": "s", 
+    "congress": 108, 
+    "number": 878
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment divides the current Ninth Circuit Court into three new judicial Circuits.", 
+  "house_number": 2, 
+  "introduced_at": "2004-10-05", 
+  "number": 780, 
+  "purpose": "An amendment numbered 1 printed in House Report 108-723 to insert a new section after section 5.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Simpson, Michael K.", 
+    "state": "ID", 
+    "thomas_id": "01590", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-10-05T13:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

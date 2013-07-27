@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-25T20:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8482-8484, H8496", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8482", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A032) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-25T22:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 733, 
+      "text": "On agreeing to the Hinchey amendment (A032) Failed by recorded vote: 165 - 262 (Roll no. 733).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt674-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3093-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit the use of funds made available in this Act to the Department of Justice may be used, with respect to certain states, to prevent such States from implementing their own State laws that authorize the use, distribution, possession, or cultivation of medical marijuana.", 
+  "house_number": 32, 
+  "introduced_at": "2007-07-25", 
+  "number": 674, 
+  "purpose": "An amendment to prohibit the use of funds made available in this Act to the Department of Justice may be used, with respect to certain states, to prevent such States from implementing their own State laws that authorize the use, distribution, possession, or cultivation of medical marijuana.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-25T22:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

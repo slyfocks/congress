@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5019-5025", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 670 proposed by Senator Inhofe for Senator Obama to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5020", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 670 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt670-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 670, 
+  "proposed_at": "2005-05-12", 
+  "purpose": "To provide for Flexible Fuel Vehicle (FFV) refueling capability at new and existing refueling station facilities to promote energy security and reduction of greenhouse gas emissions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Obama, Barack", 
+    "state": "IL", 
+    "thomas_id": "01763", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-12", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

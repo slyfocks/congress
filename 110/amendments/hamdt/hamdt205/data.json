@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T18:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5422-5424, H5443-5444", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5422", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-17T21:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 379, 
+      "text": "On agreeing to the Hensarling amendment (A003) Failed by recorded vote: 164 - 253 (Roll no. 379).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt205-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to modify the provisions in the bill which allow for the suspension of contributions to the affordable housing fund.", 
+  "house_number": 3, 
+  "introduced_at": "2007-05-17", 
+  "number": 205, 
+  "purpose": "An amendment numbered 29 printed in the Congressional Record to provide that the director shall temporarily suspend allocations if it is determined that allocations are contributing to an increase in the cost or mortgages to homebuyers.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-17T21:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

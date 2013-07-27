@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-08", 
+      "references": [
+        {
+          "reference": "CR S9232-9234", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4921 proposed by Senator Stevens for Senator DeMint.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-11", 
+      "references": [
+        {
+          "reference": "CR S9287, S9288-9289", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-12", 
+      "references": [
+        {
+          "reference": "CR S9327, S9335", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-12", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 240, 
+      "text": "Amendment SA 4921 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 240.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4921-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-07", 
+  "number": 4921, 
+  "proposed_at": "2006-09-08", 
+  "purpose": "To establish a unified national hazard alert system, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeMint, Jim", 
+    "state": "SC", 
+    "thomas_id": "01605", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-12", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

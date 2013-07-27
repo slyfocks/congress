@@ -1,0 +1,92 @@
+<bill session="107" type="h" number="5055" updated="2013-07-14T18:58:42-04:00">
+  <state datetime="2002-07-22T16:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-07-22T16:29:00-04:00"/>
+  </status>
+  <introduced datetime="2002-06-27"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the placement in Arlington National Cemetery of a memorial honoring the World War II veterans who fought in the Battle of the Bulge.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2002-07-08"/>
+    <cosponsor id="400097" joined="2002-07-08"/>
+    <cosponsor id="400126" joined="2002-06-27"/>
+    <cosponsor id="400319" joined="2002-07-18"/>
+    <cosponsor id="400337" joined="2002-07-08"/>
+    <cosponsor id="400413" joined="2002-07-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-06-27">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2002-06-27">
+      <text>Referred to the Subcommittee on Benefits.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2002-07-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2002-07-09">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2002-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-07-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2002-07-18T16:51:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 107-589.</text>
+    </action>
+    <calendar datetime="2002-07-18T16:52:00-04:00" calendar="Union" number="353">
+      <text>Placed on the Union Calendar, Calendar No. 353.</text>
+    </calendar>
+    <action datetime="2002-07-22T16:15:00-04:00">
+      <text>Mr. Moran (KS) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-07-22T16:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H5017-5019" label="consideration"/>
+    </action>
+    <action datetime="2002-07-22T16:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5055.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-07-22T16:29:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref=" CR H5017" label="text"/>
+    </vote>
+    <action datetime="2002-07-22T16:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR06" subcommittee="Benefits" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="2237"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Belgium"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Commemorations"/>
+    <term name="Europe"/>
+    <term name="History"/>
+    <term name="Monuments and memorials"/>
+    <term name="Virginia"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2002--Reported to House without amendment.
+Authorizes the Secretary of the Army to place in Arlington National Cemetery a memorial marker honoring veterans who fought in the Battle of the Bulge in the European theater of operations during World War II.</summary>
+</bill>

@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-12", 
+      "references": [
+        {
+          "reference": "CR S7386", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7386", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4615 proposed by Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7455, S7458, S7489-7494, S7497", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S7458", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 202, 
+      "text": "Amendment SA 4615 as modified agreed to in Senate by Yea-Nay Vote. 84 - 16. Record Vote Number: 202.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4615-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4615, 
+  "proposed_at": "2006-07-12", 
+  "purpose": "To prohibit the confiscation of a firearm during an emergency or major disaster if the possession of such firearm is not prohibited under Federal or State law.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

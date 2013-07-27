@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-30", 
+      "references": [
+        {
+          "reference": "CR S2590", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3193 proposed by Senator Alexander to Amendment SA 3192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-31", 
+      "references": [
+        {
+          "reference": "CR S2681", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-03", 
+      "references": [
+        {
+          "reference": "CR S2699, S2717-2719", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-03", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2717-2718", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 85, 
+      "text": "Amendment SA 3193 as modified agreed to in Senate by Yea-Nay Vote. 91 - 1. Record Vote Number: 85.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3193-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3192-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3192
+  }, 
+  "amends_bill": {
+    "bill_id": "s2454-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2454
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-30", 
+  "number": 3193, 
+  "proposed_at": "2006-03-30", 
+  "purpose": "To prescribe the binding oath or affirmation of renunciation and allegiance required to be naturalized as a citizen of the United States, to encourage and support the efforts of prospective citizens of the United States to become citizens, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Alexander, Lamar", 
+    "state": "TN", 
+    "thomas_id": "01695", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-03", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

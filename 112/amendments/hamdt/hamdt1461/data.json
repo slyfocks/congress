@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T20:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5275-5276", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5275", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Miller, George.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5313-5314", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 528, 
+      "text": "On agreeing to the Miller, George amendment (A015) Failed by recorded vote: 174 - 239 (Roll no. 528).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1461-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt from the definition of \"significant regulatory action\" a rule that would prevent or reduce deaths or injuries caused by explosions and fires related to the ignition of combustible dusts in the workplace.", 
+  "house_number": 15, 
+  "introduced_at": "2012-07-25", 
+  "number": 1461, 
+  "purpose": "An amendment numbered 15 printed in Part B of House Report 112-616 to exempt from the definition of significant regulatory action a rule that would prevent or reduce deaths or injuries caused by explosions and fires related to the ignition of combustible dusts in the workplace.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-26T11:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

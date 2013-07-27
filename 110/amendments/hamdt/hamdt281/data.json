@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T00:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6452-6453", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6452", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A032) offered by Mr. Dent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T00:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Dent amendment (A032) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt281-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides $853,690,000 for the protective missions of the Secret Service.", 
+  "house_number": 32, 
+  "introduced_at": "2007-06-15", 
+  "number": 281, 
+  "purpose": "An amendment numbered 102 printed in the Congressional Record to provide $853,690,000 for the protective missions of the Secret Service.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dent, Charles W.", 
+    "state": "PA", 
+    "thomas_id": "01799", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T00:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

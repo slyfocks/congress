@@ -1,0 +1,85 @@
+<bill session="108" type="h" number="314" updated="2013-07-14T19:00:39-04:00">
+  <state datetime="2003-03-19T13:36:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-03-19T13:36:00-05:00"/>
+  </status>
+  <introduced datetime="2003-01-08"/>
+  <titles>
+    <title as="introduced" type="short">Mortgage Servicing Clarification Act</title>
+    <title as="passed house" type="short">Mortgage Servicing Clarification Act</title>
+    <title as="introduced" type="official">To amend the Fair Debt Collection Practices Act to exempt mortgage servicers from certain requirements of the Act with respect to federally related mortgage loans secured by a first lien, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="400208" joined="2003-01-27"/>
+    <cosponsor id="400209" joined="2003-01-08"/>
+    <cosponsor id="400210" joined="2003-01-08"/>
+    <cosponsor id="400251" joined="2003-01-08"/>
+    <cosponsor id="400271" joined="2003-01-08"/>
+    <cosponsor id="400293" joined="2003-01-27"/>
+    <cosponsor id="400311" joined="2003-01-08"/>
+    <cosponsor id="400371" joined="2003-01-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-01-08">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2003-02-27">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2003-03-18T15:10:00-05:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-03-18T15:11:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1921-1923" label="consideration"/>
+    </action>
+    <action datetime="2003-03-18T15:11:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 314.</text>
+    </action>
+    <action datetime="2003-03-18T15:27:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-03-19T13:15:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1988-1989" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-03-19T13:36:00-05:00" how="roll" result="pass" roll="68" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 68).</text>
+      <reference ref="CR 3/19/2003 CR H1921" label="text"/>
+    </vote>
+    <action datetime="2003-03-19T13:36:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-03-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Collection of accounts"/>
+    <term name="Commerce"/>
+    <term name="Consumer education"/>
+    <term name="Debtor and creditor"/>
+    <term name="Economics and public finance"/>
+    <term name="Federally-assisted loans"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Housing and community development"/>
+    <term name="Loan defaults"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Mortgages"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2003--Passed House without amendment.
+(This measure has not been amended since it was introduced in the House on January 8, 2003. The summary of that version is repeated here.)Mortgage Servicing Clarification Act - Amends the Fair Debt Collection Practices Act to exempt from certain mandatory debt collection disclosures (that the debt collector is attempting to collect a debt and any information obtained will be used for that purpose) any servicer of federally related mortgage loans secured by first liens that include loans in default at the time such servicer became responsible for servicing such loans, if the servicer is also a debt collector whose collections are incidental to a primary function of servicing current federally related-mortgage loans.</summary>
+</bill>

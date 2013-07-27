@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-22", 
+      "references": [
+        {
+          "reference": "CR S6377-6392", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4439 proposed by Senator Levin for Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6385", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4439 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4439-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-21", 
+  "number": 4439, 
+  "proposed_at": "2006-06-22", 
+  "purpose": "To require reports on the implementation of the Darfur Peace Agreement.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-22", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

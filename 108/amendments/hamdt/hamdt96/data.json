@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-30T15:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3526-3527", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3526", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. McKeon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-30T15:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McKeon amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt96-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1350-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1350
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment requires that additional increases in Federal IDEA funds be passed directly to the local level.", 
+  "house_number": 10, 
+  "introduced_at": "2003-04-30", 
+  "number": 96, 
+  "purpose": "An amendment numbered 10 printed in House Report 108-79 to require that any additional increases in federal funding above FY 2003 levels be passed down directly to the local level.", 
+  "sponsor": {
+    "district": "25", 
+    "name": "McKeon, Howard P. \"Buck\"", 
+    "state": "CA", 
+    "thomas_id": "00778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-04-30T15:39:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

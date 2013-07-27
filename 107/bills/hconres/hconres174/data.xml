@@ -1,0 +1,91 @@
+<bill session="107" type="hc" number="174" updated="2013-07-14T18:58:57-04:00">
+  <state datetime="2001-07-11">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2001-07-11"/>
+  </status>
+  <introduced datetime="2001-06-26"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the Rotunda of the Capitol to be used on July 26, 2001, for a ceremony to present Congressional Gold Medals to the original 29 Navajo Code Talkers.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="400527" joined="2001-06-26"/>
+    <cosponsor id="400059" joined="2001-06-26"/>
+    <cosponsor id="400128" joined="2001-06-26"/>
+    <cosponsor id="400146" joined="2001-06-26"/>
+    <cosponsor id="400173" joined="2001-06-26"/>
+    <cosponsor id="400185" joined="2001-07-10"/>
+    <cosponsor id="400215" joined="2001-06-26"/>
+    <cosponsor id="400216" joined="2001-06-26"/>
+    <cosponsor id="400593" joined="2001-06-26"/>
+    <cosponsor id="400278" joined="2001-06-26"/>
+    <cosponsor id="400308" joined="2001-06-26"/>
+    <cosponsor id="400331" joined="2001-06-26"/>
+    <cosponsor id="400343" joined="2001-06-26"/>
+    <cosponsor id="400534" joined="2001-06-26"/>
+    <cosponsor id="400412" joined="2001-06-26"/>
+    <cosponsor id="400541" joined="2001-06-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-06-26">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2001-07-10T15:38:00-04:00">
+      <text>Mr. Ney moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2001-07-10T15:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3824-3827" label="consideration"/>
+    </action>
+    <action datetime="2001-07-10T15:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 174.</text>
+    </action>
+    <action datetime="2001-07-10T16:00:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-07-10T18:34:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3828-3829" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-07-10T18:42:00-04:00" how="roll" result="pass" roll="213" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 213).</text>
+      <reference ref="CR H3824" label="text"/>
+    </vote>
+    <action datetime="2001-07-10T18:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-07-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7534" label="consideration"/>
+    </vote>
+    <action datetime="2001-07-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="sc" number="54"/>
+    <bill relation="unknown" session="107" type="sc" number="54"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congress"/>
+    <term name="Congressional gold medals"/>
+    <term name="Cryptography"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Language and languages"/>
+    <term name="Marines"/>
+    <term name="Military history"/>
+    <term name="Minorities"/>
+    <term name="Native Americans"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2001--Passed House without amendment.
+Authorizes use of the Rotunda of the Capitol on July 26, 2001, to present Congressional Gold Medals to the original 29 Navajo Code Talkers.</summary>
+</bill>

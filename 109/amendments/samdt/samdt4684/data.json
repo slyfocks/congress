@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-19", 
+      "references": [
+        {
+          "reference": "CR S7840-7842, S7851-7852", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7840-7841", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4684 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-19", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 210, 
+      "text": "Amendment SA 4684 not agreed to in Senate by Yea-Nay Vote. 19 - 80. Record Vote Number: 210.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4684-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s728-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-19", 
+  "number": 4684, 
+  "proposed_at": "2006-07-19", 
+  "purpose": "To provide for a water resources construction project prioritization report.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-19", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-11-06T14:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10495-10496", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10495", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-06T14:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Waters amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt447-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1829-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment adds language concerning the hourly wage to be paid to inmates participating in Federal Prison Industries; and provides for the holding of funds in trust for prisoners to be paid upon release.", 
+  "house_number": 7, 
+  "introduced_at": "2003-11-06", 
+  "number": 447, 
+  "purpose": "An amendment to increase to $2.50 per hour the wage earned by inmates with less than two years remaining on their prison terms. Under the amendment, any wages earned that are in excess of the regular wage paid to other inmates would be held in trust and paid only when the inmate is released from prison.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-11-06T14:28:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

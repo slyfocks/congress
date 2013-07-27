@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-16T16:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3116-3128", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3116-3120", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Dreier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-16T17:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 186, 
+      "text": "On agreeing to the Dreier amendment (A001) Failed by recorded vote: 201 - 217 (Roll no. 186).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt708-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr853-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 853
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to establish a biennial budget process under which the President would submit a 2-year budget, and Congress would consider a 2-year budget resolution and 13 2-year appropriations bills during the first session of a Congress. The second session of the Congress would be devoted to consideration of authorization bills and for oversight of government agencies.", 
+  "house_number": 1, 
+  "introduced_at": "2000-05-16", 
+  "number": 708, 
+  "purpose": "An amendment numbered 1 printed in House Report 106-613 to add a new title which lays out a biennial budget process.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Dreier, David", 
+    "state": "CA", 
+    "thomas_id": "00317", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-16T17:22:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

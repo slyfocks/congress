@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-20T13:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10681-10682", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10681", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-20T13:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Shays amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt806-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2881-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2881
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires the Government Accountability Office to conduct a study and submit a report to Congress regarding effective strategies to alleviate congestion in the national airspace at airports during peak travel times.", 
+  "house_number": 4, 
+  "introduced_at": "2007-09-20", 
+  "number": 806, 
+  "purpose": "An amendment numbered 4 printed in Part C of House Report 110-335 to require a GAO report assessing the possibility of utilizing market-based strategies for air congestion reduction, such as incentivizing airlines to move flights to off-peak times, implementing slotting systems for airports or quotas, and comparing these strategies' effectiveness against redesigning airspace.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-20T13:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

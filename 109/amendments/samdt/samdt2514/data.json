@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-10", 
+      "references": [
+        {
+          "reference": "CR S12653-12655, S12661", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12653-12654", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2514 proposed by Senator Roberts to Amendment SA 2507.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-10", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12661", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2514 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2514-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2507-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2507
+  }, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-10", 
+  "number": 2514, 
+  "proposed_at": "2005-11-10", 
+  "purpose": "To propose a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Roberts, Pat", 
+    "state": "KS", 
+    "thomas_id": "00968", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-10", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

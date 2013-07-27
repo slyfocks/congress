@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-21T16:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4868-4870", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4868", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Edwards.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T17:01:00-04:00", 
+      "references": [], 
+      "text": "Mr. Walsh raised a point of order against the Edwards amendment (A024). Mr. Walsh stated that the amendment sought to change existing law and as such, constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt856-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 24, 
+  "introduced_at": "2000-06-21", 
+  "number": 856, 
+  "purpose": "An amendment to increase the amount provided for Veterans Health Administration--Medical Care by $500,000,000 and to increase the amount for Veterans Health Administration--Medical and Prosthetic Research by $35,000,000.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Edwards, Chet", 
+    "state": "TX", 
+    "thomas_id": "00335", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-21", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

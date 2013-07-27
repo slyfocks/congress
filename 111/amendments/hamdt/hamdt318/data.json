@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-10T12:38:00-04:00", 
+      "references": [
+        {
+          "reference": "H7987-7990, H7991", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7987-7989", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-10T13:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 528, 
+      "text": "On agreeing to the Flake amendment (A007) Failed by recorded vote: 62 - 358 (Roll no. 528).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt318-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3082-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funding for all of the member-requested earmarks for military construction projects.", 
+  "house_number": 7, 
+  "introduced_at": "2009-07-10", 
+  "number": 318, 
+  "purpose": "An amendment numbered 6 printed in House Report 111-195 to prohibit funding for all of the member-requested earmarks for military construction projects.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-10T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

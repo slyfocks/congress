@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-02T14:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3939-3940, H3959", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3939", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A055) offered by Mr. Cole.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T18:09:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3959", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 404, 
+      "text": "On agreeing to the Cole amendment (A055) Agreed to by recorded vote: 252 - 170 (Roll no. 404).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt403-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds to be used to implement any rule or regulation regarding the disclosure of political contributions that takes effect on or after the date of enactment of this Act.", 
+  "house_number": 55, 
+  "introduced_at": "2011-06-02", 
+  "number": 403, 
+  "purpose": "An amendment numbered 42 printed in the Congressional Record to prohibit the use of funds to be used to implement any rule or regulation regarding the disclosure of political contributions that takes effect on or after the date of enactment of this Act.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Cole, Tom", 
+    "state": "OK", 
+    "thomas_id": "01742", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T18:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-21T10:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6837-6841, H6869-6870", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6837", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Wolf.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-21T15:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 528, 
+      "text": "On agreeing to the Wolf amendment (A002) Failed by recorded vote: 205 - 219 (Roll no. 528).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt352-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2764-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2764
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for assistance to Iraq by $158 million.", 
+  "house_number": 2, 
+  "introduced_at": "2007-06-21", 
+  "number": 352, 
+  "purpose": "An amendment to increase funding (by transfer) for assistance programs for Iraq by $158,000,000.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Wolf, Frank R.", 
+    "state": "VA", 
+    "thomas_id": "01238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-21T15:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

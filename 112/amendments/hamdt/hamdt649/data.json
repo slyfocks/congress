@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T20:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5010-5011", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5010", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A046) offered by Mr. Shimkus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-14T15:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5049", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 581, 
+      "text": "On agreeing to the Shimkus amendment (A046) Agreed to by recorded vote: 297 - 130 (Roll no. 581).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt649-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases the amount appropriated for the Yucca Mountain licensing application by $10 million and reduces the amount for the Department of Energy's Departmental Administration account by a similar amount.", 
+  "house_number": 46, 
+  "introduced_at": "2011-07-13", 
+  "number": 649, 
+  "purpose": "An amendment to reduce the Departmental Administration account under the Department of Energy by $10 million and increase the Nuclear Regulatory Commission account for the Yucca Mountain license application by the same amount.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Shimkus, John", 
+    "state": "IL", 
+    "thomas_id": "01527", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-14T15:07:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T01:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1045-1047", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1045", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A058) offered by Mr. Whitfield.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T01:19:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Whitfield amendment (A058) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt68-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces the amount made available for the greening of the Capitol project by $1.5 million and applies the savings to the spending reduction account.", 
+  "house_number": 58, 
+  "introduced_at": "2011-02-17", 
+  "number": 68, 
+  "purpose": "An amendment numbered 108 printed in the Congressional Record to reduce the account for greening of the Capitol by $1.5 million and to increase the reduction in legislative expenses by a similar amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Whitfield, Ed", 
+    "state": "KY", 
+    "thomas_id": "01222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T01:19:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

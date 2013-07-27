@@ -1,0 +1,148 @@
+<bill session="106" type="h" number="3485" updated="2013-07-14T18:54:29-04:00">
+  <state datetime="2000-07-25T21:44:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-07-25T21:44:00-04:00"/>
+  </status>
+  <introduced datetime="1999-11-18"/>
+  <titles>
+    <title as="introduced" type="short">Justice for Victims of Terrorism Act</title>
+    <title as="reported to house" type="short">Justice for Victims of Terrorism Act</title>
+    <title as="passed house" type="short">Justice for Victims of Terrorism Act</title>
+    <title as="introduced" type="official">To modify the enforcement of certain anti-terrorism judgments, and for other purposes.</title>
+  </titles>
+  <sponsor id="400596"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2000-03-13"/>
+    <cosponsor id="400574" joined="2000-05-17"/>
+    <cosponsor id="400059" joined="2000-04-03"/>
+    <cosponsor id="400071" joined="2000-06-06"/>
+    <cosponsor id="400087" joined="2000-04-03"/>
+    <cosponsor id="400104" joined="1999-11-18"/>
+    <cosponsor id="400106" joined="2000-06-20"/>
+    <cosponsor id="400107" joined="1999-11-18"/>
+    <cosponsor id="400136" joined="1999-11-18"/>
+    <cosponsor id="400140" joined="2000-03-06"/>
+    <cosponsor id="400584" joined="1999-11-18"/>
+    <cosponsor id="400143" joined="2000-06-06"/>
+    <cosponsor id="400544" joined="2000-05-15"/>
+    <cosponsor id="400163" joined="2000-06-06"/>
+    <cosponsor id="400181" joined="2000-02-08"/>
+    <cosponsor id="400506" joined="2000-04-10"/>
+    <cosponsor id="400231" joined="2000-05-24"/>
+    <cosponsor id="400244" joined="2000-06-06"/>
+    <cosponsor id="400508" joined="2000-06-06"/>
+    <cosponsor id="400268" joined="2000-06-06"/>
+    <cosponsor id="400511" joined="2000-04-05"/>
+    <cosponsor id="400272" joined="2000-02-10"/>
+    <cosponsor id="400309" joined="2000-06-06"/>
+    <cosponsor id="400605" joined="1999-11-18"/>
+    <cosponsor id="400344" joined="1999-11-18"/>
+    <cosponsor id="400346" joined="2000-02-02"/>
+    <cosponsor id="400606" joined="2000-03-01"/>
+    <cosponsor id="400359" joined="1999-11-18"/>
+    <cosponsor id="400367" joined="2000-04-05"/>
+    <cosponsor id="400380" joined="1999-11-18"/>
+    <cosponsor id="400405" joined="1999-11-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-11-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-02-04">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-04-13">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-06-15">
+      <text>Subcommittee on Immigration and Claims Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-06-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-06-21">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2000-07-13T17:47:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 106-733.</text>
+    </action>
+    <calendar datetime="2000-07-13T17:47:00-04:00" calendar="Union" number="414">
+      <text>Placed on the Union Calendar, Calendar No. 414.</text>
+    </calendar>
+    <action datetime="2000-07-18T16:44:00-04:00">
+      <text>Supplemental report filed by the Committee on Judiciary, H. Rept. 106-733, Part II.</text>
+    </action>
+    <action datetime="2000-07-25T21:31:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-07-25T21:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6936-6938" label="consideration"/>
+    </action>
+    <action datetime="2000-07-25T21:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3485.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-25T21:44:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref=" CR H6936" label="text"/>
+    </vote>
+    <action datetime="2000-07-25T21:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2000-07-26" calendar="Senate Legislative" under="General Orders" number="715">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 715.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="includes" session="106" type="h" number="3244"/>
+    <bill relation="identical" session="106" type="h" number="3382"/>
+    <bill relation="identical" session="106" type="s" number="1796"/>
+    <bill relation="identical" session="106" type="s" number="1796"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Air piracy"/>
+    <term name="Alien property"/>
+    <term name="Armed forces and national security"/>
+    <term name="Caribbean area"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Cuba"/>
+    <term name="Damages"/>
+    <term name="Embargo"/>
+    <term name="Embassies"/>
+    <term name="Evidence (Law)"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government liability (International law)"/>
+    <term name="Government operations and politics"/>
+    <term name="Hostages"/>
+    <term name="Immunities of foreign states"/>
+    <term name="International affairs"/>
+    <term name="International arbitration"/>
+    <term name="International claims"/>
+    <term name="Latin America"/>
+    <term name="Murder"/>
+    <term name="Punitive damages"/>
+    <term name="Sabotage"/>
+    <term name="State-sponsored terrorism"/>
+    <term name="Terrorism"/>
+    <term name="Torture"/>
+    <term name="Trading with the enemy"/>
+    <term name="Transportation and public works"/>
+    <term name="Treaties"/>
+    <term name="Victims of terrorism"/>
+    <term name="War and emergency powers"/>
+    <term name="Witnesses"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2000--Passed House amended.
+Justice for Victims of Terrorism Act - Amends the Federal judicial code to revise the definition of "agency or instrumentality of a foreign state" for purposes of provisions regarding exceptions to: (1) the jurisdictional immunity of a foreign state where money damages are sought against a foreign state for personal injury or death that was caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act (jurisdictional provisions); and (2) the immunity from attachment or execution where the judgment relates to a claim for which the foreign state is not immune (attachment provisions).Directs that moneys due from or payable by the United States to any State against which a judgment is pending under jurisdictional provisions be subject to attachment and execution in like manner and to the same extent as if the United States were a private person.Authorizes the President, upon determining on an asset-by-asset basis that a waiver is necessary in the national security interest, to waive attachment provisions in connection with (and prior to the enforcement of) any judicial order directing attachment in aid of execution or execution against any property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations. Specifies that a waiver shall not apply to the proceeds of: (1) such use if such property has been used for any non-diplomatic purpose (including use as rental property); or (2) a sale or transfer if any asset subject to such Conventions is sold or otherwise transferred for value to a third party.Defines "property" or an "asset" subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations" to mean any property or asset the attachment in aid of execution or execution of which would result in a violation of a U.S. obligation under the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, as the case may be.Treats all assets of any agency or instrumentality of a foreign state as assets of that foreign state.(Sec. 2) Prohibits the Director of the Office of Management and Budget from making any estimates of changes in direct spending outlays and receipts under "pay as you go" provisions of the Balanced Budget and Emergency Deficit Control Act of 1985 for any fiscal year resulting from enactment of this Act.(Sec. 3) Provides that the failure of a foreign state against which money damages are sought for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources, to furnish any testimony, document, or other thing upon a duly issued discovery order by the court in the action shall be deemed an admission of any fact with respect to which the discovery order relates.Makes an exception to the jurisdictional immunity of a foreign state against which such damages are sought if the act occurred in the state and the state has not had a reasonable opportunity to arbitrate the claim in accordance with accepted international rules of arbitration (current law) in a neutral forum outside the foreign state.Specifies that no Federal or State statutory limits shall apply to the amount of compensatory, actual, or punitive damages permitted to be awarded to persons under judicial code provisions regarding general exceptions to the jurisdictional immunity of a foreign state.Makes this section applicable to claims arising before this Act's enactment.</summary>
+</bill>

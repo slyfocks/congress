@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-02T23:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5320-5321", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5320-5321", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. LaTourette.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-02T23:06:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the LaTourette amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt305-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2501-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2501
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute provides for the reauthorization of the Appalachian Regional Development Act of 1965.", 
+  "house_number": 1, 
+  "introduced_at": "2001-08-02", 
+  "number": 305, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "LaTourette, Steven C.", 
+    "state": "OH", 
+    "thomas_id": "00667", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-08-02T23:06:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29T18:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1541-1542", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Sawyer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-29T18:33:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1541", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Sawyer amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt620-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment earmarks $50 million for assistance for internally displaced persons in Colombia.", 
+  "house_number": 6, 
+  "introduced_at": "2000-03-29", 
+  "number": 620, 
+  "purpose": "An amendment numbered 6 printed in part B of House Report 106-549 to earmark a sum of no less than $50 million for the estimated 1.5 million already displaced persons in Columbia.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Sawyer, Tom", 
+    "state": "OH", 
+    "thomas_id": "01022", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-29T18:33:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

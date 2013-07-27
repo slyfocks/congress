@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-13T15:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1933-1942", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1933-1934", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Pomeroy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13T16:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1941", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered on the amendment (A001) and on the bill pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13T17:06:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 101, 
+      "text": "On agreeing to the Pomeroy amendment (A001) Failed by recorded vote: 194 - 238 (Roll no. 101).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt69-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr8-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 8
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute sought to replace the language of the bill with the text of the \"Certain and Immediate Estate Tax Relief Act of 2005\".", 
+  "house_number": 1, 
+  "introduced_at": "2005-04-13", 
+  "number": 69, 
+  "purpose": "An amendment in the nature of a substitute to immediately eliminate the estate tax for most estates; to increase the estate tax exclusion to $3 million, effective January 1, 2004; to partially offset the cost of increasing the exclusion by freezing existing estate tax rates, eliminating the ability to claim valuation discounts by holding property through partnerships, and restoring the prior law phaseout of the benefit of the graduated rates and exclusion; to repeal the carryover basis rules contained in the 2001 tax bill, and in doing so, continue the favorable current law step-up in basis rules that eliminate capital gains taxes on increases in value before death.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pomeroy, Earl", 
+    "state": "ND", 
+    "thomas_id": "00922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-13T17:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

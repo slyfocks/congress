@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-04T22:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6360-6363", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6360-6361", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Obey to the Sanders amendment (A036).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-04T22:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Obey amendment (A038) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt356-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt354-107", 
+    "amendment_type": "hamdt", 
+    "congress": 107, 
+    "number": 354
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "See Sanders amendment (A036) for description.", 
+  "house_number": 38, 
+  "introduced_at": "2001-10-04", 
+  "number": 356, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-04T22:10:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

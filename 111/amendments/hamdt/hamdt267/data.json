@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-25T12:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7356-7358, H7384-7385", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7356", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Akin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-25T14:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 456, 
+      "text": "On agreeing to the Akin amendment Failed by recorded vote: 186 - 226 (Roll no. 456).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt267-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2647-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2647
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to require the Defense Secretary to submit to Congress a report on any non-disclosure agreements signed by DoD employees regarding their official duties (except those relating to security clearances). The report would describe topics covered by the agreements, the number of employees required to sign such agreements, the duration of agreements, the types of persons covered, and reasons for requiring such agreements. Finally, the criteria for determining such information would not be disclosed.", 
+  "house_number": 7, 
+  "introduced_at": "2009-06-25", 
+  "number": 267, 
+  "purpose": "An amendment numbered 15 printed in House Report 111-182 to require the Defense Secretary to submit to Congress a report on any non-disclosure agreements signed by DoD employees regarding their official duties (except those relating to security clearances). The report would describe topics covered by the agreements, the number of employees required to sign such agreements, the duration of agreements, the types of persons covered, reasons for requiring such agreements, and the criteria for determining such information should not be disclosed.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Akin, W. Todd", 
+    "state": "MO", 
+    "thomas_id": "01655", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-25T14:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

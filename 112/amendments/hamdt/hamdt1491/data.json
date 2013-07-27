@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-21T09:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6239-6240, H6251", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6239", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-21T11:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 597, 
+      "text": "On agreeing to the McKinley amendment (A009) Agreed to by recorded vote: 247 - 163 (Roll no. 597).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1491-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3409-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3409
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the EPA from retroactively invalidating permits after they have been issued.", 
+  "house_number": 9, 
+  "introduced_at": "2012-09-21", 
+  "number": 1491, 
+  "purpose": "An amendment numbered 9 printed in House Report 112-680 to prohibit the EPA from retroactively vetoing a Section 404 Permit under the Clean Water Act.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-09-21T11:17:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

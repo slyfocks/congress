@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2134-2138", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2135-2136", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 91 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-08", 
+      "references": [
+        {
+          "reference": "CR S2200", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09", 
+      "references": [
+        {
+          "reference": "CR S2307, S2342", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 91 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt91-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-07", 
+  "number": 91, 
+  "proposed_at": "2005-03-07", 
+  "purpose": "To amend section 303 of title 11, United States Code, with respect to the sealing and expungement of court records relating to fraudulent involuntary bankruptcy petitions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-09", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

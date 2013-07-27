@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8674-8675", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8674-8675", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4789 proposed by Senator Stevens for Senator Stabenow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4789 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4789-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4789, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To make available from Research, Development, Test and Evaluation, Army, up to $8,000,000 for the Advanced Tank Armament System.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

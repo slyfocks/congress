@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-20", 
+      "references": [
+        {
+          "reference": "CR S6802-6808", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6802", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 783 proposed by Senator Martinez for Senator Nelson FL.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-21", 
+      "references": [
+        {
+          "reference": "CR S6871-6878", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 143, 
+      "text": "Amendment SA 783 not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 143.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt783-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-14", 
+  "number": 783, 
+  "proposed_at": "2005-06-20", 
+  "purpose": "To strike the section providing for a comprehensive inventory of Outer Continental Shelf oil and natural gas resources.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-21", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

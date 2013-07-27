@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-30T12:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5025-5026, H5038-5039", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5025", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30T14:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 226, 
+      "text": "On agreeing to the Maloney amendment (A008) Agreed to by recorded vote: 284 - 149 (Roll no. 226).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt97-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr627-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires credit cardholders to opt in to receive over-the-limit protection on their credit card in order for a credit card company to charge an over-the-limit fee. The amendment also allows for transactions that go over the limit to be completed for operational reasons as long as they are of a small amount. Lastly, the credit card company is not allowed to charge a fee.", 
+  "house_number": 8, 
+  "introduced_at": "2009-04-30", 
+  "number": 97, 
+  "purpose": "An amendment numbered 8 printed in House Report 111-92 to require credit cardholders to opt-into receiving over-the-limit protection on their credit card in order for a credit card company to charge an over-the-limit fee. Allows for transactions that go over the limit to be completed for operational reasons as long as they are of a de minimis amount, but the credit card company is not allowed to charge a fee.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-30T14:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

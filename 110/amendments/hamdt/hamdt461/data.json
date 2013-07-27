@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T23:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7322-7323", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7322", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Miller (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-27T23:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Miller (NC) amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt461-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment prohibits funds in the bill from being used to implement an Executive Order concerning agency rulemaking.", 
+  "house_number": 8, 
+  "introduced_at": "2007-06-27", 
+  "number": 461, 
+  "purpose": "An amendment to prohibit funds to implement Executive Order 13422.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Brad", 
+    "state": "NC", 
+    "thomas_id": "01735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-27T23:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

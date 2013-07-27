@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-16T10:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2189-2190", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2189-2192", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-16T12:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 115, 
+      "text": "On agreeing to the Hyde amendment (A004) Agreed to by recorded vote: 218 - 210 (Roll no. 115).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt34-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment strikes sections 131 through 133 of the bill which would have allowed funding to foreign nongovernmental organizations that perform or promote abortions.", 
+  "house_number": 4, 
+  "introduced_at": "2001-05-16", 
+  "number": 34, 
+  "purpose": "An amendment numbered 4 printed in House Report 107-62 to strike sections 131 through 133 of the bill in order to effect preservation of the President's legal authority to implement the pro-life \"Mexico-City Policy\" which prohibits U.S. population assistance funds from being made available to foreign organizations that perform or actively promote abortions in foreign countries.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-16T12:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

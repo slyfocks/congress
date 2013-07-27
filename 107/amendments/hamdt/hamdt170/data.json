@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-17T20:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4092-4094, H4098-4099", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4092", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-17T21:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 234, 
+      "text": "On agreeing to the Hinchey amendment (A004) Failed by recorded vote: 172 - 244 (Roll no. 234).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt170-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to increase funding (by transfer) for the Economic Development Administration by $73 million.", 
+  "house_number": 4, 
+  "introduced_at": "2001-07-17", 
+  "number": 170, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to increase funding (by transfer) for the Economic Development Administration by $73 million.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-17T21:12:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

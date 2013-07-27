@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-12T16:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4905-4909", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4905-4906", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Sherman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T16:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sherman amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt622-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1309-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces the number of flood insurance policies that are directly managed by the Agency to not more than 10% of the total number of flood insurance policies in force and authorizes FEMA to refuse to accept future transfers of policies to the NFIP Direct program.", 
+  "house_number": 10, 
+  "introduced_at": "2011-07-12", 
+  "number": 622, 
+  "purpose": "An amendment numbered 16 printed in House Report 112-138 to reduce the number of flood insurance policies that are directly managed by the Agency to not more than 10% of the total number of flood insurance policies in force. Would further authorize FEMA to refuse to accept future transfers of policies to the NFIP Direct program.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "thomas_id": "01526", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-12T16:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

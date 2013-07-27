@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-06", 
+      "references": [
+        {
+          "reference": "CR S3243, S3249-3253", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3243", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 309 proposed by Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-06", 
+      "references": [], 
+      "text": "Motion to table amendment SA 309 rejected in Senate by Yea-Nay Vote. 33 - 67. Record Vote Number: 86.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt309-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s600-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 600
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-06", 
+  "number": 309, 
+  "proposed_at": "2005-04-06", 
+  "purpose": "To authorize appropriate action if the negotiations with the People's Republic of China regarding China's undervalued currency are not successful.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-04-06", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

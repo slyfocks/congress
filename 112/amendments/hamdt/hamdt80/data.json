@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T12:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1096-1102, H1139-1140", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1096", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A070) offered by Mr. Walden.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T18:45:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1139-1140", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 83, 
+      "text": "On agreeing to the Walden amendment (A070) Agreed to by recorded vote: 244 - 181 (Roll no. 83).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt80-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds by the Federal Communications Commission to implement the Report and Order on net neutrality rules with regard to the Internet.", 
+  "house_number": 70, 
+  "introduced_at": "2011-02-17", 
+  "number": 80, 
+  "purpose": "An amendment numbered 404 printed in the Congressional Record to prohibit the use of funds used to implement the Report and Order of the Federal Communications Commission relating to the matter of preserving the open Internet and broadband industry practices (FCC 10-201, adopted by the Commission on December 21, 2010.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "thomas_id": "01596", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T18:45:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-10T18:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8158-8160, H8164-8165", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8158", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Kanjorski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-10T19:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 496, 
+      "text": "On agreeing to the Kanjorski amendment (A008) Failed by recorded vote: 112 - 310, 1 Present (Roll no. 496).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt391-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2622-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2622
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to sunset the Uniformed National Consumer Protections Standards contained in the bill at the end of 2012.", 
+  "house_number": 8, 
+  "introduced_at": "2003-09-10", 
+  "number": 391, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to insert a 9 year sunset provision into the bill.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Kanjorski, Paul E.", 
+    "state": "PA", 
+    "thomas_id": "00615", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-10T19:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

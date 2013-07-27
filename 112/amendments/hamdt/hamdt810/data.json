@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T17:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6599-6600, H6610-6611", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6599", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Quigley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:39:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 755, 
+      "text": "On agreeing to the Quigley amendment (A009) Failed by recorded vote: 175 - 248 (Roll no. 755).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt810-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2011-10-05", 
+  "number": 810, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to add a new section pertaining to Protection from Avoidable Cases of Cancer.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Quigley, Mike", 
+    "state": "IL", 
+    "thomas_id": "01967", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:39:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

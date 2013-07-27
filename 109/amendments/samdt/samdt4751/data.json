@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-01", 
+      "references": [
+        {
+          "reference": "CR S8528", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8528", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4751 proposed by Senator Stevens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-01", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4751 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4751-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-01", 
+  "number": 4751, 
+  "proposed_at": "2006-08-01", 
+  "purpose": "To appropriate as additional appropriations $7,800,000,000 for the Army and $5,300,000,000 for the Marine Corps for the reset of equipment due to continuing combat operations and to designate such amounts as emergency requirements.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stevens, Ted", 
+    "state": "AK", 
+    "thomas_id": "01440", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-01", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

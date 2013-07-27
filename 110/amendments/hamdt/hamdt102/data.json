@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-20T09:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3701-3703, H3710-3711", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3701", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Putnam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-20T11:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 241, 
+      "text": "On agreeing to the Putnam amendment Failed by recorded vote: 160 - 240 (Roll no. 241).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt102-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1257-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1257
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment concerned non-qualified, deferred compensation and sought to allow the issuers to be exempt from the nonbinding shareholder vote on executive pay if the issuer provided the majority of the executive's compensation in the form of non-qualified deferred compensation.", 
+  "house_number": 10, 
+  "introduced_at": "2007-04-20", 
+  "number": 102, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to insert provisions regarding a deferred compensation exemption.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Putnam, Adam H.", 
+    "state": "FL", 
+    "thomas_id": "01645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-04-20T11:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

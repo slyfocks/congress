@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-22T14:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8310-8311", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8310", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Filner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-22T14:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Filner amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt570-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2123-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2123
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 8, 
+  "introduced_at": "2005-09-22", 
+  "number": 570, 
+  "purpose": "An amendment numbered 8 printed in House Report 109-229 to initiate a study to assess the impact of new Head Start teacher qualification and development regulations upon teacher retention.", 
+  "sponsor": {
+    "district": "51", 
+    "name": "Filner, Bob", 
+    "state": "CA", 
+    "thomas_id": "00381", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-22T14:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

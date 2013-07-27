@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T17:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7933-7938, H7955-7956", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7933", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Kline (MN).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T20:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 642, 
+      "text": "On agreeing to the Kline (MN) amendment (A002) Failed by recorded vote: 186 - 237 (Roll no. 642).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt511-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for the Office of Labor Management Standards by $2,016,000.", 
+  "house_number": 2, 
+  "introduced_at": "2007-07-17", 
+  "number": 511, 
+  "purpose": "An amendment to increase appropriations for the Employment Standards Administration and reduce appropriations for the Departmental Management account.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Kline, John", 
+    "state": "MN", 
+    "thomas_id": "01733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-17T20:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

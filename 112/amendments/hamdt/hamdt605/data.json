@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T20:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4841-4843", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4841", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Tonko.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4883-4884", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 548, 
+      "text": "On agreeing to the Tonko amendment (A026) Failed by recorded vote: 149 - 273 (Roll no. 548).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt605-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase EERE funding by $226,800,000 which would have provided a return to the previous year's funding levels for the Weatherization Assistance Program, the State Energy Program, and the Building Technologies Programs. The increase would have been offset by a reduction in weapons funding by a similar amount.", 
+  "house_number": 26, 
+  "introduced_at": "2011-07-11", 
+  "number": 605, 
+  "purpose": "An amendment to increase EERE by $226,800,000 offset by a decrease of a similar amount in weapons funding.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Tonko, Paul", 
+    "state": "NY", 
+    "thomas_id": "01942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:40:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

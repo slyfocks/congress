@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-16T22:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 10/17/2003 H9600-9601, H9604", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 10/17/2003 H9600", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Ms. Sanchez, Loretta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-16T23:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 552, 
+      "text": "On agreeing to the Sanchez, Loretta amendment (A017) Failed by recorded vote: 128 - 295 (Roll no. 552).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt421-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete language which authorizes funds for military construction projects related to the Global War on Terrorism.", 
+  "house_number": 17, 
+  "introduced_at": "2003-10-16", 
+  "number": 421, 
+  "purpose": "An amendment to strike the section on the Global War on Terrorism.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-16T23:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

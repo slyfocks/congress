@@ -1,0 +1,80 @@
+<bill session="112" type="h" number="4850" updated="2013-07-14T19:19:39-04:00">
+  <state datetime="2012-09-22">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2012-09-22"/>
+  </status>
+  <introduced datetime="2012-04-26"/>
+  <titles>
+    <title as="introduced" type="short">Enabling Energy Saving Innovations Act</title>
+    <title as="passed house" type="short">Enabling Energy Saving Innovations Act</title>
+    <title as="introduced" type="official">To allow for innovations and alternative technologies that meet or exceed desired energy efficiency goals.</title>
+  </titles>
+  <sponsor id="400004"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-04-26">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-04-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-06-26T14:48:00-04:00">
+      <text>Mr. Whitfield moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-06-26T14:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3984-3985" label="consideration"/>
+    </action>
+    <action datetime="2012-06-26T14:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4850.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-06-26T14:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3984" label="text"/>
+    </vote>
+    <action datetime="2012-06-26T14:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2012-09-22">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2012-09-22">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR 9/21/2012 S6661-6664" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2012-09-22" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR 9/21/2012 S6661-6664" label="text"/>
+    </vote>
+    <action datetime="2012-09-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="482"/>
+    <bill relation="identical" session="112" type="h" number="3727"/>
+    <bill relation="unknown" session="112" type="h" number="6582"/>
+    <bill relation="unknown" session="112" type="s" number="156"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2861"/>
+    <amendment number="s2862"/>
+  </amendments>
+  <summary>6/26/2012--Passed House without amendment.
+Enabling Energy Saving Innovations Act - Amends the Energy Policy and Conservation Act (EPCA) to exempt a walk-in cooler or walk-in freezer component manufactured on or after January 1, 2009, from the requirement that it contain wall, ceiling, and door insulation of at least R-25 for coolers and R-32 for freezers, if the manufacturer has demonstrated to the Secretary of Energy (DOE) that such component reduces energy consumption at least as much as if such requirement were to apply.</summary>
+</bill>

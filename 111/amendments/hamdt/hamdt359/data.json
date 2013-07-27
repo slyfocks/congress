@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-17T12:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8324-8327", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8324-8325", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Hastings (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T12:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 576, 
+      "text": "On agreeing to the Hastings (WA) amendment (A002) Failed by the Yeas and Nays: 74 - 348 (Roll no. 576).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt359-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1018-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1018
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment in the nature of a substitute sought to insert a complete new text banning the commercial slaughter of horses and burros at a CBO cost estimate of under $500,000 a year to implement.", 
+  "house_number": 2, 
+  "introduced_at": "2009-07-17", 
+  "number": 359, 
+  "purpose": "An amendment in the nature of a substitute printed in Part B of House Report 111-212 is identical to the text of the wild horses and burros bill as passed by the House in the 110th Congress. It prohibits the commercial slaughter of horses and estimated by CBO to cost less than $500,000 a year to implement.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hastings, Doc", 
+    "state": "WA", 
+    "thomas_id": "00512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T12:54:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

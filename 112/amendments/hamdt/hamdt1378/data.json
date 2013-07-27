@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-18T14:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4939-4942, H4996-4997", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4939", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. McCollum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-18T21:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 472, 
+      "text": "On agreeing to the McCollum amendment (A001) Failed by recorded vote: 166 - 250 (Roll no. 472).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1378-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to decrease funding in the bill for military bands by $188 million and to apply the savings to the spending reduction account.", 
+  "house_number": 1, 
+  "introduced_at": "2012-07-18", 
+  "number": 1378, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to decrease various accounts by 187,770,000 and apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCollum, Betty", 
+    "state": "MN", 
+    "thomas_id": "01653", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-18T21:36:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

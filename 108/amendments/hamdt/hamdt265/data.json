@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T17:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7062-7069, H7077-7078", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7062", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Udall (NM).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T20:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 384, 
+      "text": "On agreeing to the Udall (NM) amendment (A014) Failed by recorded vote: 198 - 222 (Roll no. 384).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt265-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit any funding to finalize or implement proposed changes to the National Forest Management Act of 1976.", 
+  "house_number": 14, 
+  "introduced_at": "2003-07-17", 
+  "number": 265, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to add a new section to the bill prohibiting use of funds for implementation of proposed revisions to subpart A of part 219 of title 36, Code of Federal Regulations, relating to National Forest System Planning for Land and Resource Management Plans as described in the Federal Register.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T20:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

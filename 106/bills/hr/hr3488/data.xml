@@ -1,0 +1,81 @@
+<bill session="106" type="h" number="3488" updated="2013-07-14T18:54:29-04:00">
+  <state datetime="2000-12-15T19:18:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-12-15T19:18:00-05:00"/>
+  </status>
+  <introduced datetime="1999-11-18"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Post Office located at 60 Third Avenue in Long Branch, New Jersey, as the "Pat King Post Office Building".</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="1999-11-18"/>
+    <cosponsor id="400584" joined="1999-11-18"/>
+    <cosponsor id="400142" joined="1999-11-18"/>
+    <cosponsor id="400184" joined="1999-11-18"/>
+    <cosponsor id="400244" joined="1999-11-18"/>
+    <cosponsor id="400272" joined="1999-11-18"/>
+    <cosponsor id="400309" joined="1999-11-18"/>
+    <cosponsor id="400312" joined="1999-11-18"/>
+    <cosponsor id="400346" joined="1999-11-18"/>
+    <cosponsor id="400533" joined="1999-11-18"/>
+    <cosponsor id="400359" joined="1999-11-18"/>
+    <cosponsor id="400380" joined="1999-11-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-11-18">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="1999-11-30">
+      <text>Referred to the Subcommittee on Postal Service.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2000-03-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-03-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2000-12-15T19:16:00-05:00">
+      <text>Committee on Government Reform discharged.</text>
+    </action>
+    <action datetime="2000-12-15T19:16:00-05:00">
+      <text>Mr. Goodling asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2000-12-15T19:16:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H12516-12517" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-12-15T19:18:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H12517" label="text"/>
+    </vote>
+    <action datetime="2000-12-15T19:18:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-12-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral" code="HSGO11" subcommittee="Postal Service" name="House Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="3281"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Names"/>
+    <term name="New Jersey"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/1999--Introduced.
+Designates the U.S. Post Office located at 60 Third Avenue in Long Branch, New Jersey, as the Pat King Post Office Building.</summary>
+</bill>

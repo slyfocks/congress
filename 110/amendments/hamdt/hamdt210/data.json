@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T19:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5431-5432, H5445", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5431-5432", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Kanjorski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-17T21:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 381, 
+      "text": "On agreeing to the Kanjorski amendment (A008) Failed by recorded vote: 154 - 263 (Roll no. 381).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt210-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to the restore authority for Presidential appointments to the boards of government sponsored enterprises.", 
+  "house_number": 8, 
+  "introduced_at": "2007-05-17", 
+  "number": 210, 
+  "purpose": "An amendment numbered 15 printed in the Congressional Record to clarify the director's authority to determine the appropriate size of the board of directors of the Federal National Mortgage Association between 7 and 15 members.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Kanjorski, Paul E.", 
+    "state": "PA", 
+    "thomas_id": "00615", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-17T21:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3981-3983, S3989-3993", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3981-3982", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 498 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 106, 
+      "text": "Amendment SA 498 agreed to in Senate by Yea-Nay Vote. 58 - 38. Record Vote Number: 106.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt498-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 498, 
+  "proposed_at": "2005-04-20", 
+  "purpose": "Relating to the aircraft carriers of the Navy.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

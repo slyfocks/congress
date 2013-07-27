@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2056-2062, S2091-2092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2056", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3013 proposed by Senator Conrad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 38, 
+      "text": "Amendment SA 3013 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 38.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3013-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3013, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To fully reinstate the pay-as-you-go requirement through 2011.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-14", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

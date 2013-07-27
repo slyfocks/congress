@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-23T09:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5039-5046", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5039", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-23T10:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 319, 
+      "text": "On agreeing to the Waxman amendment (A017) Agreed to by recorded vote: 215 - 183 (Roll no. 319).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt883-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment allows the Justice Department to receive funds from the Veterans Administration to aid in the cost of tobacco litigation.", 
+  "house_number": 17, 
+  "introduced_at": "2000-06-23", 
+  "number": 883, 
+  "purpose": "An amendment to allow reimbursement to the Justice Department for litigation filed before January 1, 2000, that has received funding under section 109 of Public Law 103-317, thereby allowing the Veterans Administration to transfer funding for the lawsuit against tobacco companies.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-23T10:21:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

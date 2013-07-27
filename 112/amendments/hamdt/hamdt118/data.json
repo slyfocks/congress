@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T15:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1257-1258, H1296", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1257", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A108) offered by Mr. Wu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:09:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 108, 
+      "text": "On agreeing to the Wu amendment (A108) Failed by recorded vote: 87 - 338 (Roll no. 108).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt118-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit use of funds to provide the FERC with exclusive authority to site, construct, expand, or operate an LNG terminal.", 
+  "house_number": 108, 
+  "introduced_at": "2011-02-18", 
+  "number": 118, 
+  "purpose": "An amendment numbered 526 printed in the Congressional Record to prohibit the use of funds to be used to implement, administer, or enforce section 3(e) of the Natural Gas Act (15 U.S.C. 717b(e)).", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wu, David", 
+    "state": "OR", 
+    "thomas_id": "01598", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-18T21:09:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

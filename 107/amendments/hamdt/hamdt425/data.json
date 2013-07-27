@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T21:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H441-444", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H441", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Wamp.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13T22:11:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 28, 
+      "text": "On agreeing to the Wamp amendment (A011) Agreed to by recorded vote: 218 - 211 (Roll no. 28).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt425-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment increases the contribution limits for House candidates from $1,000 to $2,000 and indexes this amount for inflation in future years.", 
+  "house_number": 11, 
+  "introduced_at": "2002-02-13", 
+  "number": 425, 
+  "purpose": "Amendment number 12 printed in the Congressional Record February 12, 2002 to increase the limit on individual hard money contributions to House candidates from $1,000 per election to $2,000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Wamp, Zach", 
+    "state": "TN", 
+    "thomas_id": "01199", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-02-13T22:11:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

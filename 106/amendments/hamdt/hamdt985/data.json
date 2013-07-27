@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-12T23:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5941-5942", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5941", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Sherman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-12T23:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sherman amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt985-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for disease programs related to HIV/AIDS by $10 million and decreases funding for the World Bank International Development Association accordingly.", 
+  "house_number": 6, 
+  "introduced_at": "2000-07-12", 
+  "number": 985, 
+  "purpose": "An amendment to increase the account for Agency for International Development Child Survival and Disease Programs Fund by $10,000,000 for prevention and treatment of HIV/AIDS. The increase would be offset by a similar reduction in the International Development Association.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "thomas_id": "01526", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-12T23:55:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-18T15:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3519-3521, H3523-3524", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Chabot.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-18T16:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 222, 
+      "text": "On agreeing to the Chabot amendment (A001) Failed by recorded vote: 178 - 246 (Roll no. 222).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt85-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1361-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 211, the Hurricane Assistance Replacement Grant Program, from the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2007-04-18", 
+  "number": 85, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-97 to strike section 211, thereby requiring anyone receiving both a grant and a disaster loan to use the grant to repay the disaster loan thereby preventing the government from compensating the same person twice for the same disaster.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-04-18T16:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

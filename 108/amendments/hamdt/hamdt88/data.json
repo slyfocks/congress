@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-30T13:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3512-3513", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3513", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Bradley (NH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-30T13:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bradley (NH) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt88-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1350-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1350
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases the Part B set-aside funding cap to $750,000.", 
+  "house_number": 3, 
+  "introduced_at": "2003-04-30", 
+  "number": 88, 
+  "purpose": "An amendment numbered 3 printed in House Report 108-79 strikes the current Part B set=aside funds of $500,000 and replace it with $750,000. Strikes the parenthetical provision that references the inflationary adjustment, in order to provide more opportunity for administrative growth in small states.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bradley, Jeb", 
+    "state": "NH", 
+    "thomas_id": "01736", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-04-30T13:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

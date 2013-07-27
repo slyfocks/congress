@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-16T15:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8243-8244, H8260-8261", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8243", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16T18:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 562, 
+      "text": "On agreeing to the Flake amendment (A010) Failed by recorded vote: 93 - 337 (Roll no. 562).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt350-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3170-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3170
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit $200,000 from being used for the Greenstone Group project of the Northeast Entrepreneur Fund in Virginia, Minnesota, and reduce the amount of Section 511 of the bill by the same amount.", 
+  "house_number": 10, 
+  "introduced_at": "2009-07-16", 
+  "number": 350, 
+  "purpose": "An amendment numbered 10 printed in House Report 111-208 to prohibit $200,000 from being used for the Greenstone Group project of the Northeast Entrepreneur Fund in Virginia, Minnesota, and reduce the amount of Section 511 of the bill by the same amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-16T18:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

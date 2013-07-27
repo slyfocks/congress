@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-20T21:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4767-4770", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4767", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T16:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4862-4863", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4862", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 300, 
+      "text": "On agreeing to the Hinchey amendment (A013) Failed by recorded vote: 207 - 211 (Roll no. 300).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt845-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for the Office of Federal Housing Enterprise Oversight by $4.7 million.", 
+  "house_number": 13, 
+  "introduced_at": "2000-06-20", 
+  "number": 845, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to increase the amount made available for the Federal Housing Enterprise Financial Safety Soundness Act by $4.77 million to $26.77 million.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-21T16:08:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

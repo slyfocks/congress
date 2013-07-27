@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12313-12314", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2400 proposed by Senator Cantwell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 298, 
+      "text": "Amendment SA 2400 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 298.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2400-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2400, 
+  "proposed_at": "2005-11-03", 
+  "purpose": "To ensure the payment to the Treasury of the United States of 50 percent of revenues from oil and gas leasing and production on the Coastal Plain.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

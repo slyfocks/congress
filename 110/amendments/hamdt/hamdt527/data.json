@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T10:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8000-8001, H8040", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8000", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Graves.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T16:06:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 650, 
+      "text": "On agreeing to the Graves amendment Failed by recorded vote: 203 - 224 (Roll no. 650).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt527-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase special education funding by $125 million.", 
+  "house_number": 18, 
+  "introduced_at": "2007-07-18", 
+  "number": 527, 
+  "purpose": "An amendment to reduce appropriations for the National Institute of Allergy and Infectious Diseases (by transfer), and redirect $125 million to Special Education.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Graves, Sam", 
+    "state": "MO", 
+    "thomas_id": "01656", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T16:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

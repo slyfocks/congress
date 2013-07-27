@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-11T15:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5231-5233", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5231", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Norton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-11T15:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Norton amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt163-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2115-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2115
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment repeals a section of the law that requires the Metropolitan Washington Airports Authority (MWAA) to obtain special legislation to be eligible to receive airport project grants and to impose passenger facility fees.", 
+  "house_number": 4, 
+  "introduced_at": "2003-06-11", 
+  "number": 163, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-146,to repeal section 49108 of Title 49, which requires the Metropolitan Washington Airports Authority (MWAA) to appear before Congress before September 30, 2004 in order for the Secretary of Transportation to approve an application of MWAA for an airport development project grant or to impose a passenger facility fee.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-06-11T15:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-25T14:35:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4588-4589", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H4588", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-25T14:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Collins amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt234-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2590-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment increases funding for the \"National Archives and Records Administration--Repairs and Restoration\" account by $14 million.", 
+  "house_number": 5, 
+  "introduced_at": "2001-07-25", 
+  "number": 234, 
+  "purpose": "An amendment to increase the amount for \"National Archives and Records Administration-Repairs and Restoration\" by $14 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Collins, Mac", 
+    "state": "GA", 
+    "thomas_id": "00222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-25T14:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

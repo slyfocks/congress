@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-23T22:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8277-8278", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2877", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-23T22:08:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Smith (NJ) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt602-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3074-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3074
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2007-07-23", 
+  "number": 602, 
+  "purpose": "An amendment to insert a new section pertaining to the Surface Transportation Board of the Department of Transportation and the transportation of solid waste.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2007-07-23", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

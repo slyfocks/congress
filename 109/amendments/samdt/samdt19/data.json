@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-02", 
+      "references": [
+        {
+          "reference": "CR S1911-1918", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1911-1912", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 19 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "references": [
+        {
+          "reference": "CR S1979", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-04", 
+      "references": [
+        {
+          "reference": "CR S2053", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2111, S2133", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [], 
+      "text": "Proposed amendment SA 19 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt19-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-01", 
+  "number": 19, 
+  "proposed_at": "2005-03-02", 
+  "purpose": "To enhance disclosures under an open end credit plan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-03-07", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

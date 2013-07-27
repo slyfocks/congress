@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-23T15:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2611-2615, H2628", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2611-2612", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Brady (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T18:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 141, 
+      "text": "On agreeing to the Brady (TX) amendment (A020) Agreed to by recorded vote: 239 - 189 (Roll no. 141).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt62-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment added language consisting of the Paul Coverdell Teacher Liability Protection Act to provide teachers, principals and other school professionals the tools they need to undertake reasonable actions to maintain order, discipline, and an appropriate educational environment.", 
+  "house_number": 20, 
+  "introduced_at": "2001-05-23", 
+  "number": 62, 
+  "purpose": "An amendment numbered 20 printed in House Report 107-69 to ensure that teachers have the power to maintain order and discipline in the classroom and discourages frivolous, harassing lawsuits against educators and school districts that take reasonable actions to maintain order and discipline.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-23T18:02:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

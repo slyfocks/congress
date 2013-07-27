@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-10T12:32:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6480-6487", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6480", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mrs. Mink.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-10T13:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 374, 
+      "text": "On agreeing to the Mink amendment (A001) Failed by the Yeas and Nays: 99 - 327 (Roll no. 374).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt368-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1992-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1992
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to delete sections that allow changes to the 12 hours of regularly scheduled instruction rule and revise incentive compensation provisions.", 
+  "house_number": 1, 
+  "introduced_at": "2001-10-10", 
+  "number": 368, 
+  "purpose": "An amendment in the nature of a substitute printed in House Report 107-232 to eliminate the bill's provisions concerning incentive compensation and the 12-hour rule. Under the substitute, the same conditions as presented in the original bill would apply to the 50% rule.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Mink, Patsy T.", 
+    "state": "HI", 
+    "thomas_id": "00815", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-10T13:52:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-09T17:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6958-6962, H6976-6977", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6958", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Hayworth.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-09T18:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 439, 
+      "text": "On agreeing to the Hayworth amendment (A030) Failed by recorded vote: 178 - 225 (Roll no. 439).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt745-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5006-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5006
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 30, 
+  "introduced_at": "2004-09-09", 
+  "number": 745, 
+  "purpose": "An amendment to block payments of benefits under the proposed Social Security totalization agreement that was signed with Mexico.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hayworth, J. D.", 
+    "state": "AZ", 
+    "thomas_id": "00520", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-09T18:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

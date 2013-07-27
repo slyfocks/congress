@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-16T00:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 2/15/2011 H903-904", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 2/15/2011 H903", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Tonko.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-16T14:30:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H965", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 57, 
+      "text": "On agreeing to the Tonko amendment (A025) Failed by recorded vote: 208 - 223 (Roll no. 57).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt35-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike the prohibition on Weatherization and State Energy Program Funding.", 
+  "house_number": 25, 
+  "introduced_at": "2011-02-16", 
+  "number": 35, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to strike the prohibition on Weatherization and State Energy Program Funding.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Tonko, Paul", 
+    "state": "NY", 
+    "thomas_id": "01942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-16T14:30:00-05:00", 
+  "updated_at": "2013-07-17T08:17:15-04:00"
+}

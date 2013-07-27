@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-11T00:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/10/2000  H2902-2903", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "5/10/2000  CR H2902", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Kind (WI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-11T00:34:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Kind (WI) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt697-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 16, 
+  "introduced_at": "2000-05-11", 
+  "number": 697, 
+  "purpose": "An amendment numbered 18 printed in House Report 106-612 to call for the establishment of a sediment and nutrient monitoring network in the Upper Mississippi River Basin for the purpose of reducing sediment and nutrient losses from the surrounding landscape.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-05-11", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

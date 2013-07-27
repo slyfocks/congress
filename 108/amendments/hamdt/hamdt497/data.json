@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01T14:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1990-1991", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1990", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-01T15:04:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Schiff amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt497-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3550-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3550
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment deleted language requiring that a toll be paid by owners of hybrid vehicles for use of car pool lanes.", 
+  "house_number": 6, 
+  "introduced_at": "2004-04-01", 
+  "number": 497, 
+  "purpose": "An amendment numbered 6 printed in part B of House Report 108-456 to strike a requirement in the bill that states must charge tolls if they want to allow drivers of gasoline-electric hybrid vehicles to use high occupancy vehicle (HOV) lanes even if the car does not meet occupancy requirements.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-04-01T15:04:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

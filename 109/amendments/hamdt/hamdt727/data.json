@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15T22:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1045-1046", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1045", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Taylor (MS).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T12:05:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1073-1074", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1073", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 54, 
+      "text": "On agreeing to the Taylor (MS) amendment (A027) Agreed to by recorded vote: 250 - 171 (Roll no. 54).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt727-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase Military Construction funding for expenses related to Hurricane Katrina.", 
+  "house_number": 27, 
+  "introduced_at": "2006-03-15", 
+  "number": 727, 
+  "purpose": "An amendment to increase funding by $15,890,000 for the Military Construction, Navy and Marine Corps account, and to increase funding by $40,000,000 for the Military Construction, Air Force account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Taylor, Gene", 
+    "state": "MS", 
+    "thomas_id": "01142", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16T12:05:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

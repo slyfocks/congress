@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-01T12:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1793-1795, H1983-1984", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1793-1794", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-01T13:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 120, 
+      "text": "On agreeing to the Sanders amendment (A004) Failed by recorded vote: 135 - 283 (Roll no. 120).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt469-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2871-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to require companies seeking or receiving assistance from the Export-Import Bank to provide annual reports on workforce numbers and compensation and to prohibit assistance to those who lay off a greater percentage of U.S. workers than they lay off in foreign countries.", 
+  "house_number": 4, 
+  "introduced_at": "2002-05-01", 
+  "number": 469, 
+  "purpose": "An amendment numbered 4 printed in House Report 107-423 to prohibit companies from receiving future Export-Import Bank Assistance if they lay off a greater percentage of workers in the U.S. than they lay off in foreign countries.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-05-01T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

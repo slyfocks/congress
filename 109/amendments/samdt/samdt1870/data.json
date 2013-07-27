@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-22", 
+      "references": [
+        {
+          "reference": "CR S10391", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10391", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1870 proposed by Senator Frist for Senator Hutchison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1870 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1870-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2528-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2528
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-22", 
+  "number": 1870, 
+  "proposed_at": "2005-09-22", 
+  "purpose": "To provide funds for Phase 1a of a Permanent Party Barracks at Fort Leonard Wood, Missouri and for an Airfield Fire Station at Fort Sill, Oklahoma.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hutchison, Kay Bailey", 
+    "state": "TX", 
+    "thomas_id": "01368", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-22", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-30", 
+      "references": [
+        {
+          "reference": "CR 9/29/2006 S10794", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 9/29/2006 S10794", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5115 proposed by Senator Frist for Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5115 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5115-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3880-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3880
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-29", 
+  "number": 5115, 
+  "proposed_at": "2006-09-29", 
+  "purpose": "To provide a complete substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-30", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

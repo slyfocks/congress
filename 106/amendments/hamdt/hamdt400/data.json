@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-08-04T18:14:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A010) offered by Mr. Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-04T20:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 374, 
+      "text": "On agreeing to the Coburn amendment (A010) Failed by recorded vote: 171 - 257 (Roll no. 374).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt400-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2670-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2670
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce by $2.7 billion funding provided for the decennial census.", 
+  "house_number": 10, 
+  "introduced_at": "1999-08-04", 
+  "number": 400, 
+  "purpose": "An amendment to reduce by $2,753,253,000, that portion of the appropriation which designates the taking of the decennial census as an emergency appropriation.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Coburn, Tom A.", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-08-04T20:56:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

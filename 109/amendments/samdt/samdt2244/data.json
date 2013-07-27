@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11881, S11905", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11881", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2244 proposed by Senator Dayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11905", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2244 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2244-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-25", 
+  "number": 2244, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To provide for the production and mailing of a corrected Medicare and You handbook.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dayton, Mark", 
+    "state": "MN", 
+    "thomas_id": "01629", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-26", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

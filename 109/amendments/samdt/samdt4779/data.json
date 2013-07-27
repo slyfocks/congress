@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-02", 
+      "references": [
+        {
+          "reference": "CR S8599", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8599", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4779 proposed by Senator Stevens for Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4779 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4779-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4779, 
+  "proposed_at": "2006-08-02", 
+  "purpose": "To make available from Operation and Maintenance, Defense-Wide, an additional amount of up to $7,500,000 for the Joint Advertising, Market Research and Studies program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-02", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

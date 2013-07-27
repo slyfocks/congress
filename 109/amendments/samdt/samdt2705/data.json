@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-02", 
+      "references": [
+        {
+          "reference": "CR S496-498", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S496", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2705 proposed by Senator Menendez to Amendment SA 2707.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 9, 
+      "text": "Amendment SA 2705 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 9.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2705-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2707-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2707
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4297-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4297
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-02", 
+  "number": 2705, 
+  "proposed_at": "2006-02-02", 
+  "purpose": "To express the sense of the Senate that protecting middle-class families from the alternative minimum tax should be a higher priority for Congress in 2006 than extending a tax cut that does not expire until the end of 2008.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-02-02", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

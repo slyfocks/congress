@@ -1,0 +1,77 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-03", 
+      "references": [
+        {
+          "reference": "CR S3955-3957", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3955", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S3955-3956", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 3728 proposed by Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04", 
+      "references": [
+        {
+          "reference": "CR S4007, S4011-4013", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S4011-4013", 
+          "type": "text as further modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 3728 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3728-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-01", 
+  "number": 3728, 
+  "proposed_at": "2006-05-03", 
+  "purpose": "To provide for flood prevention in the State of Louisiana, with an offset.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-04", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-28", 
+      "references": [
+        {
+          "reference": "CR S10378-10385, S10390-10396, S10398", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10378", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5088 proposed by Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 258, 
+      "text": "Amendment SA 5088 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 258.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5088-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3930-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3930
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-27", 
+  "number": 5088, 
+  "proposed_at": "2006-09-28", 
+  "purpose": "To provide for the protection of United States persons in the implementation of treaty obligations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-09-28", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

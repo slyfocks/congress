@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22T17:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4958-4959, H4960-4961", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4958", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Hefley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22T18:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 301, 
+      "text": "On agreeing to the Hefley amendment (A005) Failed by recorded vote: 114 - 294 (Roll no. 301).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt342-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2985-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2985
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "2005-06-22", 
+  "number": 342, 
+  "purpose": "An amendment numbered 5 printed in House Report 109-144 to reduce the Legislative Branch Appropriations Bill by 1%.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-22T18:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

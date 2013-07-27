@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-10T17:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5696-5700, H5720-5721", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5696", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-10T21:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 375, 
+      "text": "On agreeing to the Crowley amendment (A025) Agreed to by recorded vote: 363 - 12 (Roll no. 375).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt964-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits funds in the bill from being used to enforce Federal restrictions on travel abroad to purchase prescription drugs.", 
+  "house_number": 25, 
+  "introduced_at": "2000-07-10", 
+  "number": 964, 
+  "purpose": "An amendment numbered 36 printed in the Congressional Record to prohibit the use of funds from being used to enforce federal restrictions on allowing Americans to travel abroad to purchase their prescription drugs.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-10T21:01:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

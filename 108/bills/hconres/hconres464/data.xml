@@ -1,0 +1,100 @@
+<bill session="108" type="hc" number="464" updated="2013-07-14T19:03:11-04:00">
+  <state datetime="2004-11-18">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2004-11-18"/>
+  </status>
+  <introduced datetime="2004-06-23"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the 10 communities selected to receive the 2004 All-America City Award.</title>
+  </titles>
+  <sponsor id="400172"/>
+  <cosponsors>
+    <cosponsor id="400065" joined="2004-06-23"/>
+    <cosponsor id="400100" joined="2004-06-23"/>
+    <cosponsor id="400106" joined="2004-06-23"/>
+    <cosponsor id="400179" joined="2004-06-23"/>
+    <cosponsor id="400180" joined="2004-06-23"/>
+    <cosponsor id="400187" joined="2004-06-23"/>
+    <cosponsor id="400270" joined="2004-06-23"/>
+    <cosponsor id="400281" joined="2004-06-23"/>
+    <cosponsor id="400292" joined="2004-06-23"/>
+    <cosponsor id="400316" joined="2004-06-23"/>
+    <cosponsor id="400344" joined="2004-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-06-23">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2004-07-01">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2004-09-15">
+      <text>Subcommittee on Civil Service and Agency Organization Discharged.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-10-06T16:50:00-04:00">
+      <text>Mr. Duncan moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-10-06T16:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8265-8268" label="consideration"/>
+    </action>
+    <action datetime="2004-10-06T16:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 464.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-10-06T17:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8265" label="text"/>
+    </vote>
+    <action datetime="2004-10-06T17:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-10-07">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2004-11-18" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11510" label="consideration"/>
+    </vote>
+    <action datetime="2004-11-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="California"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Florida"/>
+    <term name="Housing and community development"/>
+    <term name="Indiana"/>
+    <term name="Minnesota"/>
+    <term name="North Carolina"/>
+    <term name="Ohio"/>
+    <term name="Oregon"/>
+    <term name="Small towns"/>
+    <term name="Texas"/>
+    <term name="Urban affairs"/>
+    <term name="Urban areas"/>
+    <term name="Washington State"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2004--Passed Senate without amendment.
+Honors the following communities on receiving the National Civic League 2004 All-America City Award: Concord, North Carolina; Evansville, Indiana; Cottage Grove, Oregon; Spokane, Washington; Springfield, Ohio; Montevideo, Minnesota; Pembroke Pines, Florida; Stockton, California; Philippi, West Virginia; and Hidalgo, Texas.</summary>
+</bill>

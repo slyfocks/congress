@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-29T15:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6351-6353, H6370-6371", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6352", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Culberson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-29T18:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 490, 
+      "text": "On agreeing to the Culberson amendment Failed by recorded vote: 169 - 252 (Roll no. 490).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt751-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5850-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5850
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce the bill's funding level by $12.4 billion across-the-board, returning the bill to the FY 2009 funding level and translating into an 18% reduction from the proposed level.", 
+  "house_number": 9, 
+  "introduced_at": "2010-07-29", 
+  "number": 751, 
+  "purpose": "An amendment numbered 10 printed in Part A of House Report 111-578 to reduce the bill's funding level by $12.4 billion dollars, returning the bill to the FY2009 funding level. This is an 18% cut in the bill's spending.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Culberson, John Abney", 
+    "state": "TX", 
+    "thomas_id": "01670", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-07-29T18:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

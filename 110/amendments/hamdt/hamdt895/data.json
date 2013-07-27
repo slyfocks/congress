@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-08T17:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H13359-13363, H13366-13367", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H13359-13361", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) in the nature of a substitute offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-08T19:06:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 1072, 
+      "text": "On agreeing to the Shays amendment (A011) Failed by recorded vote: 166 - 246 (Roll no. 1072).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt895-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3355-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3355
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment in the nature of a substitute sought to insert a complete new text.", 
+  "house_number": 11, 
+  "introduced_at": "2007-11-08", 
+  "number": 895, 
+  "purpose": "An amendment in the nature of a substitute numbered 5 printed in the Congressional Record to insert a complete new text.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-11-08T19:06:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

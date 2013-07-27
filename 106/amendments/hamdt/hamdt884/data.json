@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-23T10:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5047-5049, H5070-5071", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5047", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Davis (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-23T13:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 320, 
+      "text": "On agreeing to the Davis (VA) amendment (A018) Failed by recorded vote: 103 - 288 (Roll no. 320).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt884-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to strike the Department of Justice's exemption to the payment of overtime to its attorneys.", 
+  "house_number": 18, 
+  "introduced_at": "2000-06-23", 
+  "number": 884, 
+  "purpose": "An amendment numbered 21 printed in the Congressional Record to strike section 111 of the bill which relates to salary rates for lawyers at the Department of Justice.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Thomas M.", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-23T13:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

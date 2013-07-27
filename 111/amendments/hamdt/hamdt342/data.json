@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-16T14:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8233-8234", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8233", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Paulsen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16T14:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Paulsen amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt342-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3170-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3170
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases the appropriation for the Financial Crimes Enforcement Network (FinCEN) of the Treasury Department by $15 million offset by a $15 million reduction from the GSA Rent Account.", 
+  "house_number": 2, 
+  "introduced_at": "2009-07-16", 
+  "number": 342, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-208 to increase the appropriation for the Financial Crimes Enforcement Network (FinCEN) of the Treasury Department by $15 million and offsets from the GSA Rent Account by the same amount.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Paulsen, Erik", 
+    "state": "MN", 
+    "thomas_id": "01930", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-07-16T14:43:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

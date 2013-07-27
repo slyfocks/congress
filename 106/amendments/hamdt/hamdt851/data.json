@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-21T14:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4848", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4848", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Cummings.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T14:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cummings amendment (A019) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt851-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for NASA University Research Centers by $2.8 million.", 
+  "house_number": 19, 
+  "introduced_at": "2000-06-21", 
+  "number": 851, 
+  "purpose": "An amendment numbered 33 printed in the Congressional Record to increase the NASA Science, Aeronautics and Technology account by $2.8 million by reducing the account for NASA Human Space Flight account by $2.8 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "thomas_id": "00256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-21T14:19:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

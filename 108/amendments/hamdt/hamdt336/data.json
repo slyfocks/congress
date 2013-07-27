@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T15:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7691-7692", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7691", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T15:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sanders amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt336-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2861-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 11, 
+  "introduced_at": "2003-07-25", 
+  "number": 336, 
+  "purpose": "An amendment numbered 15 printed in the Congressional Record to prohibit use of funds in the bill to implement any policy prohibiting the Directors of the Veterans Integrated Service Networks from conducting outreach or marketing to enroll new veterans within their respective networks.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-25T15:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

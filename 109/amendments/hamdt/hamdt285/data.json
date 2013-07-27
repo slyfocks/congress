@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-16T11:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4580-4581, H4599-4600", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4580", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-16T14:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 259, 
+      "text": "On agreeing to the Paul amendment (A038) Failed by recorded vote: 65 - 357 (Roll no. 259).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt285-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 38, 
+  "introduced_at": "2005-06-16", 
+  "number": 285, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to prohibit use of funds in the bill to pay any United States contribution to the United Nations or any affiliated agency of the United Nations.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-16T14:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

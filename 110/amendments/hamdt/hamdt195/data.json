@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-16T21:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5271-5272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5271", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-16T21:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A013) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt195-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1585-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1585
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2007-05-16", 
+  "number": 195, 
+  "purpose": "An amendment numbered 31 printed in House Report 110-151 to clarify that nothing in this legislation would prevent the United States' missile defense capabilities from being placed on operational alert to respond to an immediate, threat posed by ballistic missiles.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-16T21:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T22:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1310-1311, H1330-1331", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1310", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A138) offered by Mr. Hall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-19T01:34:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 127, 
+      "text": "On agreeing to the Hall amendment (A138) Agreed to by recorded vote: 233 - 187 (Roll no. 127).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt148-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 138, 
+  "introduced_at": "2011-02-18", 
+  "number": 148, 
+  "purpose": "An amendment numbered 495 printed in the Congressional Record to prohibit the use of funds to implement, establish, or create a NOAA Climate Service as described in the \"Draft NOAA Climate Service Strategic Vision and Framework\" published at 75 Feb. Reg. 57739.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hall, Ralph M.", 
+    "state": "TX", 
+    "thomas_id": "00484", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-19T01:34:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

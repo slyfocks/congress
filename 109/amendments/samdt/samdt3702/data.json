@@ -1,0 +1,72 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-27", 
+      "references": [
+        {
+          "reference": "CR S3679-3680", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3679-3680", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3702 proposed by Senator Chambliss.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "references": [
+        {
+          "reference": "CR S3771, S3786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3786", 
+          "type": "text"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3702 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3702-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-27", 
+  "number": 3702, 
+  "proposed_at": "2006-04-27", 
+  "purpose": "Relating to the comprehensive review of the procedures of the Department of Defense on mortuary affairs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chambliss, Saxby", 
+    "state": "GA", 
+    "thomas_id": "00188", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-01", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

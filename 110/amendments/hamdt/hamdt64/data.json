@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-27T16:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3132-3134, H3140-3141", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3132", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27T18:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 196, 
+      "text": "On agreeing to the Sessions amendment (A005) Failed by recorded vote: 130 - 299 (Roll no. 196).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt64-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1401-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment numbered 5 printed in House Report 110-74 to prohibit funds in this act, except those noted in Section 108, from being used by Amtrak for any of the Top 10 worst revenue losing long-distance routes as noted by its September 2006 monthly performance report. This amendment provides a waiver from this provision should the Secretary deem a route or a portion of a route as critical to homeland security.", 
+  "house_number": 5, 
+  "introduced_at": "2007-03-27", 
+  "number": 64, 
+  "purpose": "An amendment numbered 5 printed in House Report 110-74 to prohibit funds in this act, except those noted in Section 108, from being used by Amtrak for any of the Top 10 worst revenue losing long-distance routes as noted by its September 2006 monthly performance report. This amendment provides a waiver from this provision should the Secretary deem a route or a portion of a route as critical to homeland security.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-27T18:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

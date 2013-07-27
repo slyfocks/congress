@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T19:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4752-4753, H4775-4776", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4752", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A052) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T22:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 342, 
+      "text": "On agreeing to the Stearns amendment (A052) Failed by recorded vote: 131 - 288 (Roll no. 342).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1148-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 52, 
+  "introduced_at": "2006-06-28", 
+  "number": 1148, 
+  "purpose": "An amendment to prohibit funds from being used for the design, renovation, construction, or rental of any headquarters for the United Nations in any location in the United States.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-28T22:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

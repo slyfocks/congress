@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-20T18:37:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2189-2203", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2189-2195", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) in the nature of a substitute offered by Mr. Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-20T20:15:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 79, 
+      "text": "On agreeing to the Toomey amendment (A003) Failed by recorded vote: 80 - 342 (Roll no. 79).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt14-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres95-108", 
+    "bill_type": "hconres", 
+    "congress": 108, 
+    "number": 95
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute printed in Part B of H. Rept. 108-44 and numbered two was offered as the Republican Study Committee substitute.", 
+  "house_number": 3, 
+  "introduced_at": "2003-03-20", 
+  "number": 14, 
+  "purpose": "An amendment in the nature of a substitute numbered 2 printed in part B of House Report 108-44. Amendment achieves a balanced budget in 4 years and achieves balance excluding Social Security within 10 years. Provides $512 billion in tax relief over the next five years and $1.6 trillion over the next 10 years, all under reconciliation. Freezes total discretionary spending for one year and then permits growth at half of the approximate rate of inflation for two years and then at the rate of inflation for future years. Within the total level of discretionary spending, defense and homeland security are funded at the requested levels and non-defense is reduced to pay for these increases. Caps the mandatory spending increase (excluding Social Security) over last year's actual level at 1.5% for one year, then 3.1% annually for four years and then provides for growth at the annual baseline growth rates. Includes various budget enforcement mechanisms, including a definition of emergency spending. Includes a reserve fund for Social Security reform. Provides for real worldscoring of tax measures, and a prohibition on tax increases to offset spending increases.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-03-20T20:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

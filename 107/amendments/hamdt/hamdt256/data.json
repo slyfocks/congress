@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-26T20:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4705-4707, H4716-4717", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4705", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Davis (IL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-26T22:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 283, 
+      "text": "On agreeing to the Davis (IL) amendment (A011) Failed by recorded vote: 60 - 360 (Roll no. 283).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt256-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2620-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2620
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought increase funding for the HOPE VI public housing revitalization program by $100 million.", 
+  "house_number": 11, 
+  "introduced_at": "2001-07-26", 
+  "number": 256, 
+  "purpose": "An amendment increase the funding for \"Public and Indian Housing--Revitalization of Severely Distressed Public Housing (Hope VI)\" by $100 million (by offset).", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Davis, Danny K.", 
+    "state": "IL", 
+    "thomas_id": "01477", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-26T22:29:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

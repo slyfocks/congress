@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-19T16:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8158-8159", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8158", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A087) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-19T16:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the King (IA) amendment (A087) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt596-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 87, 
+  "introduced_at": "2007-07-19", 
+  "number": 596, 
+  "purpose": "An amendment numbered 37 printed in the Congressional Record.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-19T16:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

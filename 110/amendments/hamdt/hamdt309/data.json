@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T14:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6551-6552", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6551", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mrs. Wilson (NM).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T14:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wilson (NM) amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt309-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2642-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2642
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides $2 million to the Advisory Committee on Women Veterans.", 
+  "house_number": 9, 
+  "introduced_at": "2007-06-15", 
+  "number": 309, 
+  "purpose": "An amendment to provide funding for the creation of a Advisory Committee on Women Veterans.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wilson, Heather", 
+    "state": "NM", 
+    "thomas_id": "01539", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T14:56:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

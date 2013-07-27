@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T15:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4271-4272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4271", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Castle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T15:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Castle amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1060-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "2006-06-20", 
+  "number": 1060, 
+  "purpose": "An amendment to prohibit the use of funds from being made available to provide award fees to any defense contractor for performance that does not meet the requirements of the contract concerned.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-20T15:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,87 @@
+<bill session="107" type="h" number="5083" updated="2013-07-14T18:58:42-04:00">
+  <state datetime="2002-10-07T21:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-10-07T21:27:00-04:00"/>
+  </status>
+  <introduced datetime="2002-07-09"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse at South Federal Place in Santa Fe, New Mexico, as the "Santiago E. Campos United States Courthouse".</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2002-07-09"/>
+    <cosponsor id="400152" joined="2002-07-09"/>
+    <cosponsor id="400272" joined="2002-07-09"/>
+    <cosponsor id="400310" joined="2002-07-09"/>
+    <cosponsor id="400347" joined="2002-07-09"/>
+    <cosponsor id="400366" joined="2002-07-09"/>
+    <cosponsor id="400516" joined="2002-07-09"/>
+    <cosponsor id="400416" joined="2002-07-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-07-09">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2002-07-10">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-09-25">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-09-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-09-25">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-10-01T17:06:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-703.</text>
+    </action>
+    <calendar datetime="2002-10-01T17:06:00-04:00" calendar="House" number="222">
+      <text>Placed on the House Calendar, Calendar No. 222.</text>
+    </calendar>
+    <action datetime="2002-10-07T21:20:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-10-07T21:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7150-7151" label="consideration"/>
+    </action>
+    <action datetime="2002-10-07T21:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5083.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-10-07T21:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7150" label="text"/>
+    </vote>
+    <action datetime="2002-10-07T21:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-10-08">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="s" number="3015"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Law"/>
+    <term name="Names"/>
+    <term name="New Mexico"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2002--Reported to House without amendment.
+Designates the U.S. courthouse located at South Federal Place in Santa Fe, New Mexico, as the Santiago E. Campos United States Courthouse.</summary>
+</bill>

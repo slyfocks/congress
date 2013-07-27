@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3867-3868", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3868", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 487 proposed by Senator Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3966", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21", 
+      "references": [
+        {
+          "reference": "CR S4079, S4084, S4087", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 487 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-04-21", 
+      "references": [
+        {
+          "reference": "CR S4087", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 487, previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt487-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 487, 
+  "proposed_at": "2005-04-19", 
+  "purpose": "To provide for additional border patrol agents for the remainder of fiscal year 2005.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-21", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

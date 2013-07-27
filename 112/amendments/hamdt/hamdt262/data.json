@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-03T15:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2964-2966, H2979-2980", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2964", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-03T17:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 283, 
+      "text": "On agreeing to the Ellison amendment (A003) Failed by recorded vote: 180 - 242 (Roll no. 283).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt262-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1213-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1213
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Secretary of Health and Human Services to submit to Congress a report on the impact of H.R. 1213 on the possible delays and potential enrollment reductions to Health Benefit Exchanges.", 
+  "house_number": 3, 
+  "introduced_at": "2011-05-03", 
+  "number": 262, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-70 to require the Secretary of Health and Human Services to submit to Congress a report on the impact of H.R. 1213 on the possible delays and potential enrollment reductions to Health Benefit Exchanges.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-03T17:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

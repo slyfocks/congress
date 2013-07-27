@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2146-2148", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2176", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3068 proposed by Senator Kyl.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3068 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3068-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3068, 
+  "proposed_at": "2006-03-15", 
+  "purpose": "To designate $2 billion in immigration- and homeland security- related funding for interior enforcement purposes, including, but not limited to: federal detention bed spaces and personnel; implementation of an expanded and user-friendly Electronic Employment Verification System; and, additional worksite enforcement personnel, including additional immigration enforcement agents, forensics auditors, fraud agents, intelligence research assistants, employer outreach assistants, and others.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

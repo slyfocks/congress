@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-26T13:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10928-10929", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10928", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-26T13:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt812-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2693-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2693
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment is technical in nature.", 
+  "house_number": 1, 
+  "introduced_at": "2007-09-26", 
+  "number": 812, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-349 to clarify that a standard will only beneeded if diacetyl is still in use. Second, it clarifies that Section 4, calling for a NIOSH study, applies to potential substitutes for diacetyl.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-26T13:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-14T12:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6949-6951, H6955", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6949", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-14T13:32:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 797, 
+      "text": "On agreeing to the Rush amendment (A005) Failed by recorded vote: 164 - 241 (Roll no. 797).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt841-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2273-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2273
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to provide federal enforcement authority so that if the EPA Administrator determines that a structure is in violation of a State coal combustion residuals permit program, and the State has not taken appropriate action to enforce such a permit program with respect to the structure, the Administrator may inspect the structure and enforce the requirements of the permit program with respect to the structure.", 
+  "house_number": 5, 
+  "introduced_at": "2011-10-14", 
+  "number": 841, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-244 to provide federal enforcement authority so that if the EPA Administrator determines that a structure is in violation of a State coal combustion residuals permit program, and the State has not taken appropriate action to enforce such permit program with respect to such structure, the Administrator may inspect such structure and enforce the requirements of such permit program with respect to such structure.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-14T13:32:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

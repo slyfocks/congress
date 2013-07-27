@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-15T23:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4267-4268", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4267", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A043) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16T12:34:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4302-4303", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 444, 
+      "text": "On agreeing to the King (IA) amendment (A043) Failed by recorded vote: 155 - 262 (Roll no. 444).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt461-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit the use of funds to make payments under section 201 of the Claims Resolution Act of 2010 relating to the final settlement of claims from In re Black Farmers Discrimination Litigation.", 
+  "house_number": 43, 
+  "introduced_at": "2011-06-15", 
+  "number": 461, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-16T12:34:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

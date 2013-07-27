@@ -1,0 +1,99 @@
+<bill session="107" type="h" number="4858" updated="2013-07-14T18:58:35-04:00">
+  <state datetime="2002-06-25T13:31:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-06-25T13:31:00-04:00"/>
+  </status>
+  <introduced datetime="2002-06-04"/>
+  <titles>
+    <title as="introduced" type="official">To improve access to physicians in medically underserved areas.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="400082" joined="2002-06-13"/>
+    <cosponsor id="400188" joined="2002-06-04"/>
+    <cosponsor id="400199" joined="2002-06-24"/>
+    <cosponsor id="400266" joined="2002-06-04"/>
+    <cosponsor id="400303" joined="2002-06-21"/>
+    <cosponsor id="400389" joined="2002-06-04"/>
+    <cosponsor id="400409" joined="2002-06-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-06-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2002-06-07">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-06-13">
+      <text>Subcommittee on Immigration, Border Security, and Claims Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-06-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-06-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-06-24T19:43:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 107-528.</text>
+    </action>
+    <calendar datetime="2002-06-24T19:43:00-04:00" calendar="Union" number="318">
+      <text>Placed on the Union Calendar, Calendar No. 318.</text>
+    </calendar>
+    <action datetime="2002-06-25T12:11:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-06-25T12:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3867-3871" label="consideration"/>
+    </action>
+    <action datetime="2002-06-25T12:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4858.</text>
+    </action>
+    <action datetime="2002-06-25T12:37:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-06-25T13:21:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3875" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-06-25T13:31:00-04:00" how="roll" result="pass" roll="254" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 7 (Roll no. 254).</text>
+      <reference ref="CR H3867" label="text"/>
+    </vote>
+    <action datetime="2002-06-25T13:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-06-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Alien labor"/>
+    <term name="Aliens"/>
+    <term name="Education"/>
+    <term name="Foreign students"/>
+    <term name="Foreign-trained physicians"/>
+    <term name="Health"/>
+    <term name="Higher education"/>
+    <term name="Labor and employment"/>
+    <term name="Medical education"/>
+    <term name="Medical personnel"/>
+    <term name="Medical students"/>
+    <term name="Residence requirements"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2002--Reported to House without amendment.
+Amends the Immigration and Nationality Act to extend through 2004 the authority for, and increase the number of, two-year foreign residency waivers a State may request with respect to J visa medical graduate aliens.</summary>
+</bill>

@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-04T18:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3102-3103", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3102-3103", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Energy and Commerce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-04T18:45:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Energy and Commerce amendment (A002) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt499-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres36-107", 
+    "bill_type": "hconres", 
+    "congress": 107, 
+    "number": 36
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2002-06-04", 
+  "number": 499, 
+  "purpose": "An amendment to the preamble.", 
+  "sponsor": {
+    "committee_id": "hsif00", 
+    "name": "House Energy and Commerce", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-06-04T18:45:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2101-2103", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2101", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3056 proposed by Senator Stabenow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2146, S2174-2175", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 45, 
+      "text": "Amendment SA 3056 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 45.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3056-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3056, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To provide $5 billion for our emergency responders so that they can field effective and reliable interoperable communications equipment to respond to natural disasters, terrorist attacks and the public safety needs of America's communities and fully offset this by closing tax loopholes and collecting more from the tax gap.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-15", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

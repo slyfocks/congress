@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T17:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5417-5421, H5443", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5417", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Bachus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-17T21:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 378, 
+      "text": "On agreeing to the Bachus amendment (A001) Failed by recorded vote: 148 - 269 (Roll no. 378).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt203-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 139 which establishes an affordable housing fund.", 
+  "house_number": 1, 
+  "introduced_at": "2007-05-17", 
+  "number": 203, 
+  "purpose": "An amendment numbered 12 printed in the Congressional Record to strike section 139 pertaining to affordable housing fund.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Bachus, Spencer", 
+    "state": "AL", 
+    "thomas_id": "00038", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-17T21:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

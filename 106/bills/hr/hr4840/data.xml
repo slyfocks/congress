@@ -1,0 +1,85 @@
+<bill session="106" type="h" number="4840" updated="2013-07-14T18:54:58-04:00">
+  <state datetime="2000-09-12T14:58:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-09-12T14:58:00-04:00"/>
+  </status>
+  <introduced datetime="2000-07-12"/>
+  <titles>
+    <title as="introduced" type="short">Atlantic Coastal Fisheries Act of 2000</title>
+    <title as="passed house" type="short">Atlantic Coastal Fisheries Act of 2000</title>
+    <title as="introduced" type="official">To reauthorize the Atlantic Coastal Fisheries Cooperative Management Act.</title>
+  </titles>
+  <sponsor id="400359"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-07-12">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2000-07-20">
+      <text>Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-07-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-07-20">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-07-26">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2000-09-06T15:36:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 106-804.</text>
+    </action>
+    <calendar datetime="2000-09-06T15:36:00-04:00" calendar="Union" number="465">
+      <text>Placed on the Union Calendar, Calendar No. 465.</text>
+    </calendar>
+    <action datetime="2000-09-12T14:52:00-04:00">
+      <text>Mr. Saxton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-09-12T14:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7384-7385" label="consideration"/>
+    </action>
+    <action datetime="2000-09-12T14:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4840.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-12T14:58:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7384" label="text"/>
+    </vote>
+    <action datetime="2000-09-12T14:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Atlantic Coast (U.S.)"/>
+    <term name="Authorization"/>
+    <term name="Department of Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Fishery management"/>
+    <term name="Government operations and politics"/>
+    <term name="Government statistics"/>
+    <term name="Interstate commissions"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2000--Passed House amended.
+Atlantic Coastal Fisheries Act of 2000 - Authorizes appropriations for the Atlantic Coastal Fisheries Cooperative Management Act through FY 2005. Permits using amounts authorized to support the Atlantic States Marine Fishery Commission's cooperative statistics program. Imposes reporting requirements.</summary>
+</bill>

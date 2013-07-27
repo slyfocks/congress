@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S7056-7061, S7061-7063", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7058", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 864 proposed by Senator Frist for Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 864 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt864-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 864, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To ensure that cost-effective procedures are used to fill the Strategic Petroleum Reserve.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

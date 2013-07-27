@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-11T10:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1742-1746, H1747-1748", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1742", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-11T11:54:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1747-1748", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 172, 
+      "text": "On agreeing to the Waters amendment (A003) Failed by recorded vote: 185 - 237 (Roll no. 172).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt188-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr836-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 836
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Secretary of Housing and Urban Development to publish on HUD's web site a statement indicating that the Emergency Mortgage Relief Program has been eliminated along with instructions to contact their Representatives in Congress if they are uncertain as to how to proceed.", 
+  "house_number": 3, 
+  "introduced_at": "2011-03-11", 
+  "number": 188, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to direct Housing and Urban Development Department to publish on its website, no later than five days after the bill's enactment, to \"contact your Member of Congress for assistance.\".", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-11T11:54:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

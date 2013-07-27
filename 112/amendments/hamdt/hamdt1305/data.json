@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20T21:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3910-3911", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3910", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Landry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-21T12:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3937", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 401, 
+      "text": "On agreeing to the Landry amendment (A015) Agreed to by recorded vote: 244 - 173 (Roll no. 401).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1305-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4480-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4480
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment raises the cap of revenue shared among the Gulf States who produce energy on the Outer Continental Shelf between FY 2023 and FY 2055 from $500 million to $750 million.", 
+  "house_number": 15, 
+  "introduced_at": "2012-06-20", 
+  "number": 1305, 
+  "purpose": "An amendment numbered 16 printed in House Report 112-540 to raise the cap of revenue shared among the Gulf States who produce energy on the Outer Continental Shelf starting in FY2023 from $500 million to $750 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Landry, Jeffrey M.", 
+    "state": "LA", 
+    "thomas_id": "02024", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-21T12:06:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

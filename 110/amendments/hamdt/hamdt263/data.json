@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-14T21:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6424-6426", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6425", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T10:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6485", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 472, 
+      "text": "On agreeing to the Burgess amendment (A013) Agreed to by recorded vote: 251 - 171 (Roll no. 472).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt263-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding (by transfer) for the Transportation Threat Assessment account by $15 million.", 
+  "house_number": 13, 
+  "introduced_at": "2007-06-14", 
+  "number": 263, 
+  "purpose": "An amendment to increase funding (by transfer) for the transportation threat assessment and credentialing.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T10:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

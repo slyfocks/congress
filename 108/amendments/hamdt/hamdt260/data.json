@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T11:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7042-7043, H7056-7057", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7042", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T14:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 379, 
+      "text": "On agreeing to the Tancredo amendment (A009) Failed by recorded vote: 112 - 313 (Roll no. 379).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt260-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase Wildland Fire Management funding by $57.4 million with offsets from the National Endowment for the Arts.", 
+  "house_number": 9, 
+  "introduced_at": "2003-07-17", 
+  "number": 260, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record of July 16, 2003.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T14:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

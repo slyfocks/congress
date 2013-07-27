@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T20:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2207-2208", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2207", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Pearce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-01T11:39:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2232", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 214, 
+      "text": "On agreeing to the Pearce amendment (A026) Failed by recorded vote: 207 - 215 (Roll no. 214).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt235-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to authorize an equitable transfer of land and property between Dona Ana County in New Mexico and a private investor.", 
+  "house_number": 26, 
+  "introduced_at": "2011-03-31", 
+  "number": 235, 
+  "purpose": "An amendment numbered 27 printed in House Report 112-46 to authorize an equitable transfer of land and property, in the form of a road, between Dona Ana County in New Mexico and Verde Corporate Realty Services. Dona Ana County would continue to use the land for airport purposes.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-01T11:39:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

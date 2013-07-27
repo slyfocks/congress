@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-15T15:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5855-5857, H5860-5861", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5855", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-15T16:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 383, 
+      "text": "On agreeing to the Paul amendment (A007) Failed by recorded vote: 41 - 379 (Roll no. 383).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt698-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4818-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4818
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete the funding in the bill for the Millennium Challenge Corporation.", 
+  "house_number": 7, 
+  "introduced_at": "2004-07-15", 
+  "number": 698, 
+  "purpose": "An amendment numbered 17 printed in the Congressional Record to amend Title II of the bill by striking the item relating to \"Millenium Challenge Corporation\".", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-15T16:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

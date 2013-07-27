@@ -1,0 +1,66 @@
+<bill session="107" type="hr" number="103" updated="2013-07-14T18:56:45-04:00">
+  <state datetime="2002-05-21T10:03:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2002-05-21T10:03:00-04:00"/>
+  </status>
+  <introduced datetime="2001-03-27"/>
+  <titles>
+    <title as="introduced" type="official">Referring the bill (H.R. 1258), entitled "A bill for the relief of Sarabeth M. Davis, Robert S. Borders, Victor Maron, Irving Berke, and Adele E. Conrad", to the chief judge of the United States Court of Federal Claims for a report thereon.</title>
+  </titles>
+  <sponsor id="400083"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2001-03-27">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2001-04-03">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-11-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-11-01">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-04-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-05-07T18:15:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 107-444.</text>
+    </action>
+    <calendar datetime="2002-05-07T18:16:00-04:00" calendar="Private" number="4">
+      <text>Placed on the Private Calendar, Calendar No. 4.</text>
+    </calendar>
+    <action datetime="2002-05-21T10:03:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+      <reference ref="CR H2666" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2002-05-21T10:03:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H2666" label="text"/>
+    </vote>
+    <action datetime="2002-05-21T10:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2002--Reported to House without amendment.
+Refers H.R. 1258 (private relief) to the chief judge of the United States Court of Federal Claims for a report.</summary>
+</bill>

@@ -1,0 +1,66 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12292-12294", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2404 proposed by Senator Ensign to Amendment SA 2352.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 2404.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [], 
+      "text": "Motion to waive the Budget Act with respect to amendment SA 2404 rejected in Senate by Yea-Nay Vote. 31 - 68. Record Vote Number: 284.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [], 
+      "text": "Amendment SA 2404 ruled out of order by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2404-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2352-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2352
+  }, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-03", 
+  "number": 2404, 
+  "proposed_at": "2005-11-03", 
+  "purpose": "To provide assistance for elementary and secondary schools and students, and institutions of higher education, affected by Hurricane Katrina.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

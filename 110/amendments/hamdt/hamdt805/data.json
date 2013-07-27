@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-20T13:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10681", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10681", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Poe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-20T13:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Poe amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt805-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2881-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2881
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment extends drug and alcohol testing to individuals performing maintenance work on U.S. air carriers at foreign aircraft repair stations.", 
+  "house_number": 3, 
+  "introduced_at": "2007-09-20", 
+  "number": 805, 
+  "purpose": "An amendment numbered 3 printed in Part C of House Report 110-335 to extend drug and alcohol testing to individuals performing maintenance work on U.S. air carriers at foreign aircraft repair stations.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-20T13:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

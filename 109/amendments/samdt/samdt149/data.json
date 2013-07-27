@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15", 
+      "references": [
+        {
+          "reference": "CR S2720-2724", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2720", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 149 proposed by Senator Akaka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2759, S2787-2793, S2807", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 55, 
+      "text": "Amendment SA 149 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 55.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt149-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 149, 
+  "proposed_at": "2005-03-15", 
+  "purpose": "To increase veterans medical care by $2.8 billion in 2006.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Akaka, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "00007", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-16", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

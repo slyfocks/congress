@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-27", 
+      "references": [
+        {
+          "reference": "CR S4384", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 573 proposed by Senator Inhofe for Senator Shelby to Amendment SA 567.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-27", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 573 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt573-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt567-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 567
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-26", 
+  "number": 573, 
+  "proposed_at": "2005-04-27", 
+  "purpose": "To amend chapter 53 of title 49, United States Code, to improve the Nation's public transportation and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shelby, Richard C.", 
+    "state": "AL", 
+    "thomas_id": "01049", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-27", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

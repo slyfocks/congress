@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-28T13:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7369-7370", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H7369", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-28T13:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Campbell (CA) amendment (A028) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt481-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 28, 
+  "introduced_at": "2007-06-28", 
+  "number": 481, 
+  "purpose": "An amnendment to prohibit use of funds in the bill for the Wittenberg University East Asian Study Center.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-28T13:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

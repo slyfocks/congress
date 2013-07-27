@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-01", 
+      "references": [
+        {
+          "reference": "CR S1829-1831", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1829", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 17 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02", 
+      "references": [
+        {
+          "reference": "CR S1892, S1894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 14, 
+      "text": "Amendment SA 17 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 14.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt17-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-01", 
+  "number": 17, 
+  "proposed_at": "2005-03-01", 
+  "purpose": "To provide a homestead floor for the elderly.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-02", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

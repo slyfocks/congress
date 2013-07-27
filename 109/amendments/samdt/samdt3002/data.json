@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-13", 
+      "references": [
+        {
+          "reference": "CR S2000", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2000", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3002 proposed by Senator Gregg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3002 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3002-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-13", 
+  "number": 3002, 
+  "proposed_at": "2006-03-13", 
+  "purpose": "To make technical and conforming amendments.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gregg, Judd", 
+    "state": "NH", 
+    "thomas_id": "00466", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-13", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

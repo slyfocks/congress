@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-11T17:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3202-3203", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3202", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Thompson (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-12T13:43:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3238-3239", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 317, 
+      "text": "On agreeing to the Thompson (CA) amendment (A007) Failed by recorded vote: 156 - 263 (Roll no. 317).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt286-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1231-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1231
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to clarify that the legislation does not allow for oil and gas drilling on the northern coast of California.", 
+  "house_number": 7, 
+  "introduced_at": "2011-05-11", 
+  "number": 286, 
+  "purpose": "An amendment numbered 7 printed in House Report 112-74 to clarify that the legislation does not allow for oil and gas drilling on the northern coast of California.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "thomas_id": "01593", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-12T13:43:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

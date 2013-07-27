@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-20T13:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6760-6762, H6787-6788", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6760", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Udall (NM).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-20T17:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 518, 
+      "text": "On agreeing to the Udall (NM) amendment (A018) Failed by recorded vote: 121 - 312 (Roll no. 518).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt333-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding, by offset, for the National Nuclear Security Administration by $192,123,000.", 
+  "house_number": 18, 
+  "introduced_at": "2007-06-20", 
+  "number": 333, 
+  "purpose": "An amendment to increase funding (by transfer) for the National Nuclear Security Administration by $192.123 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-20T17:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

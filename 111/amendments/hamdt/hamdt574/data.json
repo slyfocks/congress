@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-25T15:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H883", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H883", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Hoekstra.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-25T15:10:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hoekstra amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt574-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2701-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2010-02-25", 
+  "number": 574, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-419 to require the Director of the CIA, within 30 days, to publicly issue an unclassified version of the CIA Inspector General's report entitled \"Procedures Used In Narcotics Airbridge Denial Program in Peru, 1995-2001,\" dated August 25, 2008.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hoekstra, Peter", 
+    "state": "MI", 
+    "thomas_id": "00547", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-25T15:10:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

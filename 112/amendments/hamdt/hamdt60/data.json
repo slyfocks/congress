@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-16T23:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1023-1024", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1023", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A050) offered by Mr. Young (AK).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T10:57:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1085", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 74, 
+      "text": "On agreeing to the Young (AK) amendment (A050) Agreed to by recorded vote: 313 - 117 (Roll no. 74).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt60-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes the language in the bill that prohibits the Department of Education from funding the Alaskan Native Education Equity Act and the Native Hawaiian Education Program.", 
+  "house_number": 50, 
+  "introduced_at": "2011-02-16", 
+  "number": 60, 
+  "purpose": "An amendment numbered 532 printed in the Congressional Record to restore the education funding authority for Alaskan and Hawaiian Native Americans.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T10:57:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T20:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4846", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4846", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4885-4886", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 551, 
+      "text": "On agreeing to the McClintock amendment (A030) Failed by recorded vote: 119 - 305 (Roll no. 551).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt609-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the account for EERE by $166,143,000 and apply the savings to the spending reduction account.", 
+  "house_number": 30, 
+  "introduced_at": "2011-07-11", 
+  "number": 609, 
+  "purpose": "An amendment to reduce the account for EERE by $166,143,000 and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

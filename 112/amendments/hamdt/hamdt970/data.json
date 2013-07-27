@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-07T16:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1250-1251, H1261-1262", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1250", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Himes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-07T18:20:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 103, 
+      "text": "On agreeing to the Himes amendment (A003) Failed by recorded vote: 164 - 245 (Roll no. 103).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt970-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3606-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3606
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to lower the gross annual revenue cap from $1,000,000,000 to $750,000,000 for emerging growth companies to remain eligible for the regulatory on-ramp and to strike the public float requirement for the on-ramp.", 
+  "house_number": 3, 
+  "introduced_at": "2012-03-07", 
+  "number": 970, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-409 to lower the gross annual revenue cap from $1,000,000,000 to $750,000,000 for emerging growth companies to remain eligible for the regulatory on-ramp and to strike the public float requirement for the on-ramp.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Himes, James A.", 
+    "state": "CT", 
+    "thomas_id": "01913", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-07T18:20:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

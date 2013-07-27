@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T13:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6536-6538, H6562", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6536", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Blumenauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T16:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 493, 
+      "text": "On agreeing to the Blumenauer amendment (A002) Failed by recorded vote: 68 - 347 (Roll no. 493).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt302-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2642-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2642
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding, by offset, for the 1990 Department of Defense Base Closure Account by $50 million.", 
+  "house_number": 2, 
+  "introduced_at": "2007-06-15", 
+  "number": 302, 
+  "purpose": "An amendment regarding funding for BRAC 1990.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T16:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

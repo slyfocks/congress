@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-16T13:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4592-4593, H4603-4604", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4592", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A045) offered by Mr. Moran (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-16T15:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 265, 
+      "text": "On agreeing to the Moran (VA) amendment (A045) Failed by recorded vote: 149 - 278 (Roll no. 265).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt292-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 45, 
+  "introduced_at": "2005-06-16", 
+  "number": 292, 
+  "purpose": "An amendment to prohibit funds in the Act from being used to pay administrative expenses or compensate an officer or employee of the United States in connection with licensing the export of a nonautomatic or semiautomatic rifle capable of firing a center-fire cartridge in 50 caliber, .50 BMG caliber, any other variant of 50 caliber, or any metric equivalent of such calibers, or any nongovernmental agency.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Moran, James P.", 
+    "state": "VA", 
+    "thomas_id": "00832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-16T15:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

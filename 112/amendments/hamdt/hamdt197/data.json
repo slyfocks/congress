@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16T17:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1885-1888, H1892-1893", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1885-1886", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T18:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 186, 
+      "text": "On agreeing to the Maloney amendment (A008) Failed by recorded vote: 179 - 246 (Roll no. 186).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt197-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr861-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to insert a list quantifying the number of vacant homes across the country and to add findings consisting of such numbers in each State as well as a statement that because Congress voted to terminate the NSP, those listed housing units may not be able to be rehabilitated and may remain vacant.", 
+  "house_number": 8, 
+  "introduced_at": "2011-03-16", 
+  "number": 197, 
+  "purpose": "An amendment numbered 8 printed in Part B of House Report 112-34 to list the number of homes in each state that have been vacant for 90 days or more and which would be eligible for rehabilitation under the program. Would also state that by voting to terminate this program, these units may not be able to be rehabilitated using NSP funds.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-16T18:08:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

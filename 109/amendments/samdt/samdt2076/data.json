@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-19", 
+      "references": [
+        {
+          "reference": "CR S11549-11550", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11549", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2076 proposed by Senator Harkin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2076 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2076-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-18", 
+  "number": 2076, 
+  "proposed_at": "2005-10-19", 
+  "purpose": "To provide that no funds may be used to provide assistance under section 8 of the United States Housing Act of 1937, to certain students at institutions of higher education, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-19", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

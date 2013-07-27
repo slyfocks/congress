@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-11-06T14:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12526-12527, H12532", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12526", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. McCaul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-06T16:12:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 873, 
+      "text": "On agreeing to the McCaul amendment (A008) Failed by recorded vote: 196 - 232 (Roll no. 873).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt506-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2868-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the citizen enforcement section of the bill.", 
+  "house_number": 8, 
+  "introduced_at": "2009-11-06", 
+  "number": 506, 
+  "purpose": "An amendment numbered 8 printed in Part B of House Report 111-327 to strike the citizen enforcement section of the bill.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McCaul, Michael T.", 
+    "state": "TX", 
+    "thomas_id": "01804", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-11-06T16:12:00-05:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

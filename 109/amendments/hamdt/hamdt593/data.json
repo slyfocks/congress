@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-19T11:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8933-8934, H8937-8938", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8933", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Filner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-19T12:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 530, 
+      "text": "On agreeing to the Filner amendment (A003) Failed by recorded vote: 129 - 298 (Roll no. 530).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt593-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr554-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 554
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2005-10-19", 
+  "number": 593, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-249 to exempt those who are age eight and under from the provisions of this Act as it relates to large chain outlets.", 
+  "sponsor": {
+    "district": "51", 
+    "name": "Filner, Bob", 
+    "state": "CA", 
+    "thomas_id": "00381", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-10-19T12:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

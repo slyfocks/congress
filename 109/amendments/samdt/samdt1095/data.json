@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30", 
+      "references": [
+        {
+          "reference": "CR 7/1/2005 S7785-7786, S7792", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 7/1/2005 S7786", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1095 proposed by Senator Domenici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1095 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-06-30", 
+      "references": [
+        {
+          "reference": "CR 7/1/2005 S7792", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 1095, previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1095-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-30", 
+  "number": 1095, 
+  "proposed_at": "2005-06-30", 
+  "purpose": "Making technical corrections for NNSA security.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Domenici, Pete V.", 
+    "state": "NM", 
+    "thomas_id": "01319", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-30", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

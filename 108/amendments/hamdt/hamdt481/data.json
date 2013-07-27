@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-18T12:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1262-1264", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1262-1263", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Oxley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-18T12:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Oxley amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt481-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1375-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1375
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment makes technical and conforming changes to the bill; and incorporates language limiting the scope of the de novo branching authority provided for in section 401 of the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2004-03-18", 
+  "number": 481, 
+  "purpose": "An amendment numbered 1 printed in House Report 108-439 to limit de novo branching for ILCs to those whose business is more than 85% financial in nature and, in the case of ILCs whose business is less than 85% financial in nature, limit branching to those ILCs who had Federal deposit insurance before October 1, 2003; make technical revisions to section 303 requested by the NCUA; make technical revisions to section 213 requested by OTS; strike section 107; strike section 214; strike section 613; and make technical changes to section 405 requested by the SEC.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Oxley, Michael G.", 
+    "state": "OH", 
+    "thomas_id": "00885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-03-18T12:28:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

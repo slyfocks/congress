@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16T16:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1879-1880", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1879", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Sanchez, Loretta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T16:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Sanchez, Loretta amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt193-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr861-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add a new section with Congressional findings that if the rescinded and canceled amounts were instead made available for NSP, the Congress could have helped to rebuild neighborhoods where foreclosures were common.", 
+  "house_number": 4, 
+  "introduced_at": "2011-03-16", 
+  "number": 193, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 112-34 to add a new section with Congressional findings that if the rescinded and canceled amounts were instead made available for NSP, the Congress could have rebuilt U.S. neighborhoods.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-16T16:30:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

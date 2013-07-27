@@ -1,0 +1,77 @@
+<bill session="106" type="h" number="2014" updated="2013-07-14T18:53:43-04:00">
+  <state datetime="1999-06-29T16:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-06-29T16:01:00-04:00"/>
+  </status>
+  <introduced datetime="1999-06-07"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit a State from imposing a discriminatory commuter tax on nonresidents.</title>
+  </titles>
+  <sponsor id="400584"/>
+  <cosponsors>
+    <cosponsor id="400142" joined="1999-06-07"/>
+    <cosponsor id="400508" joined="1999-06-16"/>
+    <cosponsor id="400308" joined="1999-06-16"/>
+    <cosponsor id="400309" joined="1999-06-16"/>
+    <cosponsor id="400346" joined="1999-06-16"/>
+    <cosponsor id="400533" joined="1999-06-07"/>
+    <cosponsor id="400370" joined="1999-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-06-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-06-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-06-23">
+      <text>Ordered to be Reported by the Yeas and Nays: 17 - 7.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1999-06-25T15:01:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 106-203.</text>
+    </action>
+    <calendar datetime="1999-06-25T15:02:00-04:00" calendar="Union" number="117">
+      <text>Placed on the Union Calendar, Calendar No. 117.</text>
+    </calendar>
+    <action datetime="1999-06-29T15:31:00-04:00">
+      <text>Mr. Gekas moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-06-29T15:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5026-5030" label="consideration"/>
+    </action>
+    <action datetime="1999-06-29T15:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2014.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-06-29T16:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-06-29T16:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-06-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Commuter tax"/>
+    <term name="Government operations and politics"/>
+    <term name="Intergovernmental tax relations"/>
+    <term name="Interstate relations"/>
+    <term name="Local taxation"/>
+    <term name="State taxation"/>
+    <term name="Tax incidence"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/1999--Introduced.
+Prohibits a State from imposing a tax on the income earned in the State by nonresidents unless the tax is of substantial equality of treatment for the citizens of the State and the nonresidents so commuting.</summary>
+</bill>

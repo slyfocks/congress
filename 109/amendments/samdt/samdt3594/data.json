@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-25", 
+      "references": [
+        {
+          "reference": "CR S3476-3483, S3492", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3477-3478", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S3492", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 3594 proposed by Senator Gregg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-26", 
+      "references": [
+        {
+          "reference": "CR S3532-3543", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-26", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 94, 
+      "text": "Amendment SA 3594 as modified agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 94.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3594-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-25", 
+  "number": 3594, 
+  "proposed_at": "2006-04-25", 
+  "purpose": "To provide, with an offset, emergency funding for border security efforts.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gregg, Judd", 
+    "state": "NH", 
+    "thomas_id": "00466", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-26", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

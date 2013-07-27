@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T15:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5611-5613, H5633", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5611", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Dicks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-27T18:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 659, 
+      "text": "On agreeing to the Dicks amendment (A027) Failed by recorded vote: 174 - 250 (Roll no. 659).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt750-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike section 119 from the bill which exempts from judicial review any final rule of the Secretary of the Interior that delists wolves in Wyoming or the Western Great Lakes States, provided the Fish and Wildlife Service has entered into an agreement with the State for it to manage the wolves.", 
+  "house_number": 27, 
+  "introduced_at": "2011-07-27", 
+  "number": 750, 
+  "purpose": "An amendment to strike section 119 from the bill.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Dicks, Norman D.", 
+    "state": "WA", 
+    "thomas_id": "00297", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-27T18:35:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

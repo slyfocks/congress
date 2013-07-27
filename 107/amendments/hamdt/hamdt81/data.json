@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-20T15:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3305-3307", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3305", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-20T15:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Kucinich amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt81-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2216-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2216
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to reduce Air Force Research, Development, Test and Evaluation funding for the airborne laser program by $55 million.", 
+  "house_number": 3, 
+  "introduced_at": "2001-06-20", 
+  "number": 81, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to reduce the amount for \"Research, Development, Test and Evaluation, Air Force\" by $55,000,000 from $275,500,000 to $220,500,000.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-20T15:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-20", 
+      "references": [
+        {
+          "reference": "CR S9850", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9850", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5025 proposed by Senator McConnell for Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5025 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5025-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3525-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3525
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-20", 
+  "number": 5025, 
+  "proposed_at": "2006-09-20", 
+  "purpose": "To amend the title of the Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-20", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

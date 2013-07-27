@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-27T19:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5250-5254", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5250", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Salmon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-27T19:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Salmon amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt920-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4733-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4733
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for solar and renewable energy technology programs by $40 million.", 
+  "house_number": 6, 
+  "introduced_at": "2000-06-27", 
+  "number": 920, 
+  "purpose": "An amendment to increase funding for solar and renewable energy technology programs by $40,000,000 and offset National Nuclear Security Security Administration funding accordingly.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Salmon, Matt", 
+    "state": "AZ", 
+    "thomas_id": "01009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-27T19:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

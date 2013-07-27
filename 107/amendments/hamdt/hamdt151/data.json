@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T13:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3897-3901, H3905-3906", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3897", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T15:32:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 218, 
+      "text": "On agreeing to the Kucinich amendment (A019) Failed by recorded vote: 145 - 279 (Roll no. 218).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt151-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to prohibit use of funds for an application for an animal drug for creating transgenic salmon or any other transgenic fish.", 
+  "house_number": 19, 
+  "introduced_at": "2001-07-11", 
+  "number": 151, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to prohibit use of funds for an application for an animal drug for creating transgenic salmon or any other transgenic fish.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-11T15:32:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

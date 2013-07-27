@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T16:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3911-3915, H3925", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3925", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T18:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 219, 
+      "text": "On agreeing to the Weiner amendment (A027) Failed by recorded vote: 155 - 272 (Roll no. 219).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt159-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to prohibit use of funds in the bill for payments to producers of wool or the producers of mohair for the 2000 or 2001 marketing years.", 
+  "house_number": 27, 
+  "introduced_at": "2001-07-11", 
+  "number": 159, 
+  "purpose": "An amendment numbered 25 printed in the Congressional Record to prohibit use of funds in the bill for payments to producers of wool or the producers of mohair for the 2000 or 2001 marketing years.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-11T18:20:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-13T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5598-5599", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5598", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-13T17:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hinchey amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt686-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4766-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases funding for the FDA Center for Drug Evaluation and Research.", 
+  "house_number": 18, 
+  "introduced_at": "2004-07-13", 
+  "number": 686, 
+  "purpose": "An amendment to increase funding to the Center for Drug Evaluation and Research by $500,000.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-07-13T17:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T15:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7688-7689", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7688-7689", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Hall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T15:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hall amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt333-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2861-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment allocates $15 million of NASA funding in the Space Shuttle Life Extension Program to develop concepts to increase crew survivability.", 
+  "house_number": 8, 
+  "introduced_at": "2003-07-25", 
+  "number": 333, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to increase funding for space shuttle crew survival.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hall, Ralph M.", 
+    "state": "TX", 
+    "thomas_id": "00484", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-25T15:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

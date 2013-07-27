@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-08T12:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6302-6303, H6318-6319", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6302", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Hostettler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-08T18:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 334, 
+      "text": "On agreeing to the Hostettler amendment (A007) Failed by recorded vote: 57 - 358 (Roll no. 334).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt205-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2658-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2003-07-08", 
+  "number": 205, 
+  "purpose": "An amendment to prevent use of funds for carrying out secs. 2912, 2913, and 2914 of the Defense Base Closure and Realignment Act of 1990 related to the 2005 round of base closures and realignments.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hostettler, John N.", 
+    "state": "IN", 
+    "thomas_id": "00562", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-08T18:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

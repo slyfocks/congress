@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-26T11:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4038-4040, H4043", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4038-4039", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Goodlatte.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-26T12:19:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 161, 
+      "text": "On agreeing to the Goodlatte amendment (A012) Failed by recorded vote: 148 - 272 (Roll no. 161).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt61-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1404-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1404
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to permanently allow the Forest Service to have authority to contract with States (good neighbor authority) to reduce wildfire risks across boundary lines.", 
+  "house_number": 12, 
+  "introduced_at": "2009-03-26", 
+  "number": 61, 
+  "purpose": "Amendment numbered 13 printed in House Report 111-52 to authorize the Secretary of Agriculture to enter into contracts or cooperative agreements with a State Forester to prepare and implement `good neighbor' projects on National Forest System land to complement any similar project being performed on bordering or adjacent non-Federal land. Would provide that the decision to proceed with a good neighbor project is in the Secretary's sole discretion. Defines good neighbor projects to include certain fuels reduction projects.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-03-26T12:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

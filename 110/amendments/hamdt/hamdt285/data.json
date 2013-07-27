@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T00:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6461", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6461", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. Thompson (MS).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T00:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Thompson (MS) amendment (A036) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt285-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment deletes language pertaining to the awarding of contracts to small businesses.", 
+  "house_number": 36, 
+  "introduced_at": "2007-06-15", 
+  "number": 285, 
+  "purpose": "An amendment to strike section 537(b). Section 537(b) establishes an objective of awarding at least 3 percent of all contracts to small business.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T00:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

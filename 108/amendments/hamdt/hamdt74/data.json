@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-10T20:24:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3263-3266, H3270-3271", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H3263", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Udall (NM).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-10T21:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 138, 
+      "text": "On agreeing to the Udall (NM) amendment (A010) Failed by recorded vote: 193 - 231 (Roll no. 138).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt74-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike section 14029 which authorizes $10 million per year over 3 years for the Secretary of Energy to enter into cooperative, cost-shared agreements with domestic uranium miners to develop improved uranium mining technologies, including those that have minimal environmental impacts.", 
+  "house_number": 10, 
+  "introduced_at": "2003-04-10", 
+  "number": 74, 
+  "purpose": "An amendment numbered 10 printed in House Report 108-69 strikes section 14029, eliminating the $10 million payment for three years to improve leaching uranium mining techniques.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-10T21:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

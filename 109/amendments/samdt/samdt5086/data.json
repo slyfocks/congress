@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-27", 
+      "references": [
+        {
+          "reference": "CR S10246-10263", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 5086 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-27", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 254, 
+      "text": "Amendment SA 5086 not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 254.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5086-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3930-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3930
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-27", 
+  "number": 5086, 
+  "proposed_at": "2006-09-27", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-09-27", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

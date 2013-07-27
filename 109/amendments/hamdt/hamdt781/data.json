@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-03T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2036-2037, H2045-2046", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2036", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Gohmert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-03T16:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 117, 
+      "text": "On agreeing to the Gohmert amendment (A001) Failed by recorded vote: 108 - 320 (Roll no. 117).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt781-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4975-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4975
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 106 which contained criminal penalties and replace it with an ascending civil penalty structure for violations of law.", 
+  "house_number": 1, 
+  "introduced_at": "2006-05-03", 
+  "number": 781, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 109-441 to strike the current section 106 and inserts an ascending civil penalty structure for each subsequent offense.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gohmert, Louie", 
+    "state": "TX", 
+    "thomas_id": "01801", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-03T16:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

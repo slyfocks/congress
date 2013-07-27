@@ -1,0 +1,74 @@
+<bill session="106" type="h" number="509" updated="2013-07-14T18:53:02-04:00">
+  <state datetime="1999-05-04T14:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-05-04T14:04:00-04:00"/>
+  </status>
+  <introduced datetime="1999-02-02"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to transfer to the personal representative of the estate of Fred Steffens of Big Horn County, Wyoming, certain land comprising the Steffens family property.</title>
+  </titles>
+  <sponsor id="400088"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-02">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-02-08">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-02-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-02-25">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-03-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-03-03">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1999-03-17T16:29:00-05:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 106-67.</text>
+    </action>
+    <calendar datetime="1999-03-17T17:33:00-05:00" calendar="Private" number="1">
+      <text>Placed on the Private Calendar, Calendar No. 1.</text>
+    </calendar>
+    <action datetime="1999-05-04T14:03:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+    </action>
+    <action datetime="1999-05-04T14:03:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-05-04T14:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On passage Passed by voice vote.</text>
+    </vote>
+    <calendar datetime="1999-05-05" calendar="Senate Legislative" under="General Orders" number="104">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.</text>
+    </calendar>
+    <action datetime="2000-02-10">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="449"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments>
+    <amendment number="h53"/>
+  </amendments>
+  <summary>2/2/1999--Introduced.
+Directs the Secretary of the Interior to transfer certain property in Wyoming to the named representative of a specified individual's estate.</summary>
+</bill>

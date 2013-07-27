@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-29", 
+      "references": [
+        {
+          "reference": "CR S7552-7560", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7552", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1068 proposed by Senator Burns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 161, 
+      "text": "Amendment SA 1068 agreed to in Senate by Yea-Nay. 57 - 40. Record Vote Number: 161.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1068-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-29", 
+  "number": 1068, 
+  "proposed_at": "2005-06-29", 
+  "purpose": "To direct the Administrator of the Environmental Protection Agency to conduct a review of all third party intentional human dosing studies to identify or quantify toxic effects.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Burns, Conrad R.", 
+    "state": "MT", 
+    "thomas_id": "01298", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-29", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

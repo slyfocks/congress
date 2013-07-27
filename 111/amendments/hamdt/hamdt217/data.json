@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T16:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6928-6929", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6928", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Nadler (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T11:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6980, H7007", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 357, 
+      "text": "On agreeing to the Nadler (NY) amendment (A007) Agreed to by recorded vote: 418 - 3 (Roll no. 357).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt217-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases the amount appropriated (by offset) for the Debbie Smith DNA Backlog Grant Program by $5 million.", 
+  "house_number": 7, 
+  "introduced_at": "2009-06-17", 
+  "number": 217, 
+  "purpose": "An amendment numbered 31 printed in the Congressional Record to redirect $5 million by transfer from the Office of Justice programs to the Community Oriented Policing Services.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-06-18T11:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

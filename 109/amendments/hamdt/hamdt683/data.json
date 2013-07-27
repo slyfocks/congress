@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-08T17:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H747-748, H753-754", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H747", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T18:22:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 28, 
+      "text": "On agreeing to the Waxman amendment (A004) Failed by recorded vote: 164 - 255 (Roll no. 28).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt683-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4167-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4167
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2006-03-08", 
+  "number": 683, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-386 to limit the scope of H.R. 4167 in order to preserve state authorities that help defend and respond to bioterrorism attacks. Specifically, when a Governor or state legislature certifies that a state authority is useful inestablishing or maintaining a food supply that is adequately protected frombioterrorism attack, the state authority is not affected by the Act.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-08T18:22:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

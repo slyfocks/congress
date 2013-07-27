@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-14", 
+      "references": [
+        {
+          "reference": "CR S12727-12739", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12727", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2523 proposed by Senator Bingaman to Amendment SA 2515.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12777, S12798-12800", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 324, 
+      "text": "Amendment SA 2523 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 324.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2523-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2515-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2515
+  }, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-14", 
+  "number": 2523, 
+  "proposed_at": "2005-11-14", 
+  "purpose": "To provide for judicial review of detention of enemy combatants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

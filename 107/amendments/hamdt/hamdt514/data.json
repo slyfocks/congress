@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-27T12:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4113", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-27T12:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kucinich amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt514-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5010-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment withholds one percent of funding from certain Department of Defense components until the DOD Inspector General submits an audit of these components pursuant to section 3521(e) of title 31, United States Code.", 
+  "house_number": 4, 
+  "introduced_at": "2002-06-27", 
+  "number": 514, 
+  "purpose": "An amendment to add a new section at the end of the bill to make release of funds contingent upon the IG of the Department of Defense conducting an audit of the financial statements of the Department.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-06-27T12:31:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-19T17:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4632-4651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4632", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-19T20:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 293, 
+      "text": "On agreeing to the Waxman amendment (A002) Failed by recorded vote: 197 - 207 (Roll no. 293).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt831-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to allow the transfer of certain Department of Veterans Affairs funding to the Department of Justice for administrative and legal expenses in support of tobacco litigation.", 
+  "house_number": 2, 
+  "introduced_at": "2000-06-19", 
+  "number": 831, 
+  "purpose": "An amendment to insert text into the bill which would remove the prohibition of the VA Department from transferring any medical care funding to the Justice Department for use in government lawsuits against tobacco companies.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-19T20:52:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

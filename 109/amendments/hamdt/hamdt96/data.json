@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21T13:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2416-2418, H2435-2436", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2416-2417", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Grijalva.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21T15:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 128, 
+      "text": "On agreeing to the Grijalva amendment (A027) Failed by recorded vote: 203 - 227 (Roll no. 128).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt96-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 2005 which provides for the suspension of the collection of royalty payments to the Treasury for offshore oil and gas production on the Outer Continental Shelf in the Gulf of Mexico.", 
+  "house_number": 27, 
+  "introduced_at": "2005-04-21", 
+  "number": 96, 
+  "purpose": "An amendment numbered 27 printed in House Report 109-49 to strike section 2005 which requires the Secretary of the Interior to suspend the collection of royalty payments to the Treasury for offshore oil and gas production on the OCS in the Gulf of Mexico.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "thomas_id": "01708", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-21T15:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

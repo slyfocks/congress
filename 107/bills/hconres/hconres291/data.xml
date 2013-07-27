@@ -1,0 +1,89 @@
+<bill session="107" type="hc" number="291" updated="2013-07-14T18:59:00-04:00">
+  <state datetime="2002-10-01T18:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-10-01T18:46:00-04:00"/>
+  </status>
+  <introduced datetime="2001-12-18"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress with respect to the disease endometriosis.</title>
+  </titles>
+  <sponsor id="400267"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2002-06-04"/>
+    <cosponsor id="400039" joined="2002-03-18"/>
+    <cosponsor id="400061" joined="2002-03-20"/>
+    <cosponsor id="400095" joined="2002-03-18"/>
+    <cosponsor id="400135" joined="2002-02-14"/>
+    <cosponsor id="400136" joined="2002-04-16"/>
+    <cosponsor id="400506" joined="2002-03-20"/>
+    <cosponsor id="400513" joined="2002-04-16"/>
+    <cosponsor id="400524" joined="2002-03-20"/>
+    <cosponsor id="400306" joined="2002-04-10"/>
+    <cosponsor id="400346" joined="2002-07-15"/>
+    <cosponsor id="400380" joined="2002-06-04"/>
+    <cosponsor id="400516" joined="2002-03-20"/>
+    <cosponsor id="400425" joined="2002-04-10"/>
+    <cosponsor id="400431" joined="2002-06-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-12-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-12-28">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2002-09-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-09-05">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2002-10-01T13:10:00-04:00">
+      <text>Mr. Shimkus moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-10-01T13:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6810-6812" label="consideration"/>
+    </action>
+    <action datetime="2002-10-01T13:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 291.</text>
+    </action>
+    <action datetime="2002-10-01T13:16:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Green (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2002-10-01T18:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6883" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-10-01T18:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6810-6811" label="text"/>
+    </vote>
+    <action datetime="2002-10-01T18:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-10-02">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Diseases"/>
+    <term name="Gynecology"/>
+    <term name="Health education"/>
+    <term name="Physicians"/>
+    <term name="Women"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2002--Passed House without amendment.
+Expresses the sense of Congress that it: (1) strongly supports efforts to raise public awareness of endometriosis throughout the medical and lay communities; and (2) recognizes the need for better support of patients with endometriosis, the need for physicians to better understand the disease, the need for more effective treatments, and ultimately, the need for a cure.</summary>
+</bill>

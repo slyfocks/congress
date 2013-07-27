@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-07T11:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3943-3944", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Boehlert to the Hansen amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-07T11:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3843", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Boehlert amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt743-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt742-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 742
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3605-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3605
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Hansen amendment (A001) for description.", 
+  "house_number": 2, 
+  "introduced_at": "2000-06-07", 
+  "number": 743, 
+  "purpose": "An amendment to expand the boundaries of the Legacy District.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-07T11:34:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

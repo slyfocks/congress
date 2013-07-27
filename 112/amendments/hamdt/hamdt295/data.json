@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-13T09:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3285-3288, H3290-3291", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3285", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-13T10:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 327, 
+      "text": "On agreeing to the Reed amendment (A008) Agreed to by recorded vote: 406 - 0, 4 Present (Roll no. 327).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt295-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr754-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment inserts language commending the United States intelligence community for their role in the successful operation that killed Osama bin Laden.", 
+  "house_number": 8, 
+  "introduced_at": "2011-05-13", 
+  "number": 295, 
+  "purpose": "An amendment numbered 9 printed in House Report 112-75 to commend the United States intelligence community for their successful operation in bringing Osama bin Laden to justice and their continued efforts against al Qaeda. It is based on Senate Resolution 159, which passed the Senate 97 to 0.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "thomas_id": "01982", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-13T10:36:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

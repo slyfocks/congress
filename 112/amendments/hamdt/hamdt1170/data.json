@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-01T09:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3367-3368, H3384-3385", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3367", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Scalise.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-01T12:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 306, 
+      "text": "On agreeing to the Scalise amendment (A001) Agreed to by recorded vote: 216 - 177 (Roll no. 306).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1170-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases the Army Corps of Engineers Construction Account for Louisiana Coastal Restoration by $10 million and reduces the Department of Energy Administration Account by a similar amount.", 
+  "house_number": 1, 
+  "introduced_at": "2012-06-01", 
+  "number": 1170, 
+  "purpose": "An amendment to increase the Army Corps of Engineers Construction Account for Louisiana Coastal Restoration by $10 million and reduce the Department of Energy Administration Account by the same amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "thomas_id": "01892", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-01T12:10:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

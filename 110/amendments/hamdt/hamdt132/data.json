@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-02T20:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4391-4392, H4407-4408", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4391", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-02T23:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 290, 
+      "text": "On agreeing to the Campbell (CA) amendment (A005) Failed by recorded vote: 115 - 301 (Roll no. 290).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt132-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1867-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for the National Science Foundation by 1 percent.", 
+  "house_number": 5, 
+  "introduced_at": "2007-05-02", 
+  "number": 132, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to reduce funds authorized in section 3 by 1 percent.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-02T23:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

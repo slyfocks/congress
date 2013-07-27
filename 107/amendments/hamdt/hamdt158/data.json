@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T15:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3909-3911", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3909", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T16:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Stupak amendment (A026) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt158-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment increases funding for the USDA's Nutrition Program for the Elderly by $10 million.", 
+  "house_number": 26, 
+  "introduced_at": "2001-07-11", 
+  "number": 158, 
+  "purpose": "An amendment to increase funding for elderly nutrition programs.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-11T16:03:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

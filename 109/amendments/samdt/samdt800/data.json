@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-20", 
+      "references": [
+        {
+          "reference": "CR S6795", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 800 proposed by Senator Domenici for Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 800 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt800-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-20", 
+  "number": 800, 
+  "proposed_at": "2005-06-20", 
+  "purpose": "to amend the Internal Revenue Code of 1986 to provide energy policy tax incentives.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-20", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

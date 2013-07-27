@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T21:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3051-3053", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3051-3052", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Keating.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18T09:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3111-3112", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 273, 
+      "text": "On agreeing to the Keating amendment (A015) Failed by recorded vote: 192 - 229 (Roll no. 273).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1113-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to freeze the transfer, reduction or elimination of Air National Guard units supporting an Air and Space Operations Center or an Air Force Forces Staff until the impact of the unit's loss and certain other information is provided to Congress.", 
+  "house_number": 15, 
+  "introduced_at": "2012-05-17", 
+  "number": 1113, 
+  "purpose": "An amendment numbered 18 printed in House Report 112-485 to freeze the transfer, reduction or elimination of Air National Guard units supporting an Air and Space Operations Center or an Air Force Forces Staff until the impact of the unit's loss and certain other information is provided to Congress.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Keating, William R.", 
+    "state": "MA", 
+    "thomas_id": "02025", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-18T09:57:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

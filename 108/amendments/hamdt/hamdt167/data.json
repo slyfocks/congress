@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-12T13:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5296-5297, H5303", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5296", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Sensenbrenner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-12T13:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sensenbrenner amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt167-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1115-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1115
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment broadens the category of class action cases that would remain in a state court by increasing the aggregate jurisdictional amount in controversy from $2 million to $5 million and allows Federal courts the discretion to return cases to state courts after evaluating five factors to determine if the case is of a local character.", 
+  "house_number": 2, 
+  "introduced_at": "2003-06-12", 
+  "number": 167, 
+  "purpose": "An amendment numbered 1 printed in House Report 108-148, to slightly broaden the category of class action cases that would remain in state court in two ways. First, this amendment raises the aggregate amount in controversy required for federal court jurisdiction from $2 million to $5 million. Second, it allow federal courts discretion to return intrastate class actions in which local law governs to state courts after weighing five factors to determine if the case is appropriately of a local character. This discretion would come into play when between one-third and two-thirds of the plaintiffs are citizens of the same state as the primary defendants. If less than one-third are citizens of the same state, the case would automatically be eligible for federal court jurisdiction under the new diversity rules in this bill. Likewise, if more than two-thirds are citizens of the same state, the case would not be subject to the new rules in this bill and would remain in state court.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-06-12T13:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

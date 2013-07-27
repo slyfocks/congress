@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T02:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1056-1057", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1056", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T02:23:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McClintock amendment (A061) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt71-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment eliminates the funding for the Tropical Forest Conservation Act and applies the $20 million in savings to the spending reduction account.", 
+  "house_number": 61, 
+  "introduced_at": "2011-02-17", 
+  "number": 71, 
+  "purpose": "An amendment numbered 291 printed in the Congressional Record eliminate debt restructuring, and increases Spending Reduction Account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T02:23:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

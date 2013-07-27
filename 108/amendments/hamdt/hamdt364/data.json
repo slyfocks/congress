@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-04T19:24:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H7913-7918, H7921-7922", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H7913", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Cooper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-04T20:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 475, 
+      "text": "On agreeing to the Cooper amendment (A015) Failed by recorded vote: 192 - 219 (Roll no. 475).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt364-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2989-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2989
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reduce funding for the Earned Income Tax Credit precertification program and increase funding by $75 million for the investigation and audit of large and mid-size corporations.", 
+  "house_number": 15, 
+  "introduced_at": "2003-09-04", 
+  "number": 364, 
+  "purpose": "An amendment to make adjustments in the account for Tax Law Enforcement.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cooper, Jim", 
+    "state": "TN", 
+    "thomas_id": "00231", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-04T20:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

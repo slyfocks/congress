@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-15T11:13:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H345-355, H365", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H345-348", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-15T13:37:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 19, 
+      "text": "On agreeing to the Frank (MA) amendment (A001) Agreed to by recorded vote: 275 - 152 (Roll no. 19).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt2-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr384-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Manager's amendment incorporates sundry clarifications with respect to the use of TARP funds.", 
+  "house_number": 1, 
+  "introduced_at": "2009-01-15", 
+  "number": 2, 
+  "purpose": "An amendment numbered 1 printed in House Report 111-3 to make sundry clarifications with respect to the use of TARP funds.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-01-15T13:37:00-05:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

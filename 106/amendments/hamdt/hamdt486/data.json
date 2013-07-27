@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-23T13:58:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-23T15:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 441, 
+      "text": "On agreeing to the Frank (MA) amendment (A005) Failed by recorded vote: 202 - 225 (Roll no. 441).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt486-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1875-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1875
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to allow a State court to certify a class action after the Federal court to which the case had been removed had failed to act.", 
+  "house_number": 5, 
+  "introduced_at": "1999-09-23", 
+  "number": 486, 
+  "purpose": "An amendment no. 2 printed in the Congressional Record to allow a State court to certify a class action after the action has failed to meet class certification under Rule 23 of the Federal Rules of Civil Procedure in a Federal court.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-23T15:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-10T19:30:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3256", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H3256", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-10T19:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Vitter amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt70-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2003-04-10", 
+  "number": 70, 
+  "purpose": "An amendment numbered 6 printed in House Report 108-69 to express the sense of Congress that the United States should reduce its dependence on foreign energy sources from 58% to 45%.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-04-10T19:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

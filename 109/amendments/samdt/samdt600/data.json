@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-09", 
+      "references": [
+        {
+          "reference": "CR S4636-4637", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4636", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 600 proposed by Senator Talent to Amendment SA 567.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-09", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 116, 
+      "text": "Amendment SA 600 agreed to in Senate by Yea-Nay Vote. 89 - 0. Record Vote Number: 116.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt600-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt567-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 567
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-09", 
+  "number": 600, 
+  "proposed_at": "2005-05-09", 
+  "purpose": "To require notice regarding the criteria for small business concerns to participate in Federally-funded projects.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Talent, Jim", 
+    "state": "MO", 
+    "thomas_id": "01135", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-09", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

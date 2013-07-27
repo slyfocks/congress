@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-20", 
+      "references": [
+        {
+          "reference": "CR S6790-6795, S6802", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 799 proposed by Senator Voinovich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-21", 
+      "references": [
+        {
+          "reference": "CR S6871, S6900-6902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 145, 
+      "text": "Amendment SA 799 agreed to in Senate by Yea-Nay Vote. 92 - 1. Record Vote Number: 145.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt799-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-20", 
+  "number": 799, 
+  "proposed_at": "2005-06-20", 
+  "purpose": "To make grants and loans to States and other organizations to strengthen the economy, public health and environment of the United States by reducing emissions from diesel engines.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Voinovich, George V.", 
+    "state": "OH", 
+    "thomas_id": "01575", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-21", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

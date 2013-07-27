@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8716-8718", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8717", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4863 proposed by Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 228, 
+      "text": "Amendment SA 4863 agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 228.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4863-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-03", 
+  "number": 4863, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To make available from Operation and Maintenance, Navy, up to an additional $3,000,000 to fund improvements to physical security at Navy recruiting stations and to improve data security.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

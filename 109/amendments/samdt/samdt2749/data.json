@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-09", 
+      "references": [
+        {
+          "reference": "CR S884", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2749 proposed by Senator Cornyn to Amendment SA 2748.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-09", 
+      "references": [], 
+      "text": "SA 2749 fell when first degree amendment SA 2748 was tabled.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2749-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2748-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2748
+  }, 
+  "amends_bill": {
+    "bill_id": "s852-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 852
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-09", 
+  "number": 2749, 
+  "proposed_at": "2006-02-09", 
+  "purpose": "To provide a new system by which to resolve claims for bodily injury caused by asbestos exposure, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-02-09", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

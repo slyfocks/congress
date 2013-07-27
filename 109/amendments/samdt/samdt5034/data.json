@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-21", 
+      "references": [
+        {
+          "reference": "CR S10006", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10006", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5034 proposed by Senator Frist for Senator Craig.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-21", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5034 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5034-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2562-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2562
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-21", 
+  "number": 5034, 
+  "proposed_at": "2006-09-21", 
+  "purpose": "To make a technical correction to title 38, United States Code.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Craig, Larry E.", 
+    "state": "ID", 
+    "thomas_id": "00246", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-21", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

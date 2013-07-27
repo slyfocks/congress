@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-07T15:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H545-546", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H545", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Tonko.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-07T16:10:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 40, 
+      "text": "On agreeing to the Tonko amendment (A002) Failed by recorded vote: 187 - 238 (Roll no. 40).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt928-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3581-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3581
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to establish a Commission of budgeting and accounting experts to provide recommendations to Congress regarding the best measure to accurately account for the costs of Federal credit programs and also allows the Commission to delay and or supersede the provisions of the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2012-02-07", 
+  "number": 928, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-388 to establish a Commission of budgeting and accounting experts to provide recommendations to Congress regarding the best measure to accurately account for the costs of Federal credit programs. The amendment also allows the Commission to delay and or supersede the provisions of the bill.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Tonko, Paul", 
+    "state": "NY", 
+    "thomas_id": "01942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-07T16:10:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

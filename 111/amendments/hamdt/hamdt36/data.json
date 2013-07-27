@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-12T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3370-3372", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3370-3371", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Wittman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-12T13:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wittman amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt36-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1262-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1262
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires the OMB Director to submit to Congress a financial report containing an interagency crosscut budget for restoration activities that protect, conserve, or restore water quality in the Chesapeake Bay watershed. In addition, the EPA Administrator would be required to develop and update an adaptive management plan for Chesapeake Bay restoration activities.", 
+  "house_number": 9, 
+  "introduced_at": "2009-03-12", 
+  "number": 36, 
+  "purpose": "An amendment numbered 9 printed in House Report 111-36 to require the OMB Director to submit to Congress a financial report containing an interagency crosscut budget for restoration activities that protect, conserve, or restore water quality in the Chesapeake Bay watershed. Also, the EPA Administrator would have to develop and update an adaptive management plan for Chesapeake Bay restoration activities.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wittman, Robert J.", 
+    "state": "VA", 
+    "thomas_id": "01886", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-03-12T13:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-12T15:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4904-4905", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4904", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T15:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McGovern amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt620-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1309-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment allows communities to be reimbursed for certain costs associated with a successful challenge to a bona fide mapping error made by FEMA resulting in a Letter of Map Revision.", 
+  "house_number": 8, 
+  "introduced_at": "2011-07-12", 
+  "number": 620, 
+  "purpose": "An amendment numbered 13 printed in House Report 112-138 to allow communities to be reimbursed for certain costs associated with a successful challenge to a bona fide mapping error made by FEMA resulting in a Letter of Map Revision.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-12T15:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

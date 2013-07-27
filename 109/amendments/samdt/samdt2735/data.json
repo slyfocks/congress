@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-02", 
+      "references": [
+        {
+          "reference": "CR S493-495", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S493-494", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2735 proposed by Senator Dodd to Amendment SA 2707.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 2735.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "references": [], 
+      "text": "Motion to waive the Budget Act with respect to amendment SA 2735 rejected in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 7.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "references": [], 
+      "text": "Amendment SA 2735 ruled out of order by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2735-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2707-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2707
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4297-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4297
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-02", 
+  "number": 2735, 
+  "proposed_at": "2006-02-02", 
+  "purpose": "To support the health needs of our veterans and military personnel and reduce the deficit by making tax rates fairer for all Americans.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dodd, Christopher J.", 
+    "state": "CT", 
+    "thomas_id": "00302", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-02-02", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

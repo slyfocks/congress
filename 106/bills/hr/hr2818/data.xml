@@ -1,0 +1,90 @@
+<bill session="106" type="h" number="2818" updated="2013-07-14T18:54:09-04:00">
+  <state datetime="1999-11-16T12:44:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-11-16T12:44:00-05:00"/>
+  </status>
+  <introduced datetime="1999-09-08"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit oil and gas drilling in Mosquito Creek Lake in Cortland, Ohio.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-09-08">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-09-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1812"/>
+    </action>
+    <action datetime="1999-09-14">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-10-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-10-27">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1999-11-15T15:09:00-05:00">
+      <text>Reported by the Committee on Resources. H. Rept. 106-468.</text>
+    </action>
+    <calendar datetime="1999-11-15T15:09:00-05:00" calendar="Union" number="267">
+      <text>Placed on the Union Calendar, Calendar No. 267.</text>
+    </calendar>
+    <action datetime="1999-11-16T12:40:00-05:00">
+      <text>Mr. Hansen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-11-16T12:40:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12008-12009" label="consideration"/>
+    </action>
+    <action datetime="1999-11-16T12:40:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2818.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-16T12:44:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-11-16T12:44:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1999-11-19">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Actions and defenses"/>
+    <term name="Gas in submerged lands"/>
+    <term name="Lakes"/>
+    <term name="Law"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Ohio"/>
+    <term name="Petroleum in submerged lands"/>
+    <term name="Submarine oil well drilling"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/8/1999--Introduced.
+Proscribes any drilling activity (including any slant or directional drilling) to extract oil or gas from lands beneath waters under Federal jurisdiction in Mosquito Creek Lake, Cortland, Ohio.</summary>
+</bill>

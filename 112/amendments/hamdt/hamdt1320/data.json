@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-26T20:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4039-4040, H4057-4058", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4039", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T22:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 417, 
+      "text": "On agreeing to the McClintock amendment (A005) Failed by recorded vote: 164 - 238 (Roll no. 417).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1320-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5972-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5972
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to eliminate funds for the Essential Air Service program and to apply the savings to the spending reduction account.", 
+  "house_number": 5, 
+  "introduced_at": "2012-06-26", 
+  "number": 1320, 
+  "purpose": "An amendment to eliminate funding for Essential Air Service.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-26T22:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:23-04:00"
+}

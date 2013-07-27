@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-23T15:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8649-8650, H8668", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8649", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-23T18:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 626, 
+      "text": "On agreeing to the Stearns amendment (A012) Failed by recorded vote: 152 - 279 (Roll no. 626).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt374-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3288-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3288
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce by 25% the amount appropriated or otherwise made available by the bill that is not required to be appropriated or otherwise made available by a provision of law.", 
+  "house_number": 12, 
+  "introduced_at": "2009-07-23", 
+  "number": 374, 
+  "purpose": "An amendment numbered 12 printed in Part A of House Report 111-219 to reduce by 25% the amount appropriated or otherwise made available by the bill that is not required to be appropriated or otherwise made available by a provision of law.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-23T18:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

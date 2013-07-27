@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T22:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1308-1310, H1330", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1308", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A137) offered by Mr. Guinta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-19T01:30:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 126, 
+      "text": "On agreeing to the Guinta amendment (A137) Failed by recorded vote: 210 - 210 (Roll no. 126).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt147-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 137, 
+  "introduced_at": "2011-02-18", 
+  "number": 147, 
+  "purpose": "An amendment numbered 166 printed in the Congressional Record to prohibit the use of funds to enter into, after the date of the enactment of this Act, a Government contract that requires a project labor agreement.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Guinta, Frank C.", 
+    "state": "NH", 
+    "thomas_id": "02038", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-19T01:30:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

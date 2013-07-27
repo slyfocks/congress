@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T16:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3424-3425", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3424", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Fortenberry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T16:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3513-3514", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 325, 
+      "text": "On agreeing to the Fortenberry amendment (A024) Agreed to by recorded vote: 328 - 89 (Roll no. 325).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1193-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces funds for the mixed oxide fuel program at the Department of Energy by $17,319,000 and redirects the funds to the National Nuclear Security Administration's Global Threat Reduction Initiative.", 
+  "house_number": 24, 
+  "introduced_at": "2012-06-05", 
+  "number": 1193, 
+  "purpose": "An amendment to redirect funds within the Defense Nuclear Nonproliferation account.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Fortenberry, Jeff", 
+    "state": "NE", 
+    "thomas_id": "01793", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-06T16:53:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

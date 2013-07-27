@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2231-2232, S2241", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2231", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3114 proposed by Senator Burr.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 56, 
+      "text": "Amendment SA 3114 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 56.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3114-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3114, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To provide for the establishment of a reserve fund concerning pandemic influenza preparedness planning.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Burr, Richard", 
+    "state": "NC", 
+    "thomas_id": "00153", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

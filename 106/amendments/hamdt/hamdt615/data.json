@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29T13:42:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1514-1516", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sanford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-29T14:16:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1514", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 82, 
+      "text": "On agreeing to the Sanford amendment (A001) Failed by recorded vote: 108 - 315 (Roll no. 82).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt615-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce funding in the bill by $1.6 billion by deleting non-emergency spending; make the bill subject to spending caps and recorded as on-budget spending; and require a sequestration of other funds in order to pay for the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2000-03-29", 
+  "number": 615, 
+  "purpose": "An amendment numbered 1 printed in part A of House Report 106-549 to cut $1.631 billion from various programs in the bill and to strike all references in the bill to emergency designations; making the bill subject to spending caps; having it recorded as on-budget spending; and requiring sequestration of other funds in order to pay for the bill.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Marshall (Mark)", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-29T14:16:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

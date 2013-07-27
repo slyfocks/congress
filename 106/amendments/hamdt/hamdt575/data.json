@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-15T14:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H402", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mrs. Morella.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-15T14:24:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H402", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Morella amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt575-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2086-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment authorizes funding for the National Institutes of Health to conduct research directed toward computational techniques and software tools in support of biomedical and behavioral research.", 
+  "house_number": 3, 
+  "introduced_at": "2000-02-15", 
+  "number": 575, 
+  "purpose": "An amendment numbered 14 printed in the Congressional Record to authorize $233 million for FY 2001, $242 million for FY 2002, and $250 million for FYs 2003-2004 for NIH. The amendment requires NIH to use the funding for biomedical and behavioral research.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Morella, Constance A.", 
+    "state": "MD", 
+    "thomas_id": "00833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-02-15T14:24:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

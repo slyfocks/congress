@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-16T14:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7671-7672, H7682-7683", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7671", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Woodall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-16T16:43:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 843, 
+      "text": "On agreeing to the Woodall amendment (A001) Failed by recorded vote: 140 - 283 (Roll no. 843).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt868-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr822-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 822
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to protect the rights of states that already have reciprocal agreements in place for the concealed carry of firearms to continue enforcing those preexisting agreements.", 
+  "house_number": 1, 
+  "introduced_at": "2011-11-16", 
+  "number": 868, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-283 to protect the rights of states that already have reciprocal agreements in place for the concealed carry of firearms to continue enforcing those preexisting agreements.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Woodall, Rob", 
+    "state": "GA", 
+    "thomas_id": "02008", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-11-16T16:43:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-15T14:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2597", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2597", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Oversight and Government Reform.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-15T14:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Oversight and Government Reform amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt49-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1362-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1362
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to require the bill to be reported back to the House with an amendment inserting prohibition on contracts to educational institutions not supporting U.S. defense efforts.", 
+  "house_number": 3, 
+  "introduced_at": "2007-03-15", 
+  "number": 49, 
+  "purpose": "An amendment to require the bill to be reported back to the House with an amendment inserting prohibition on contracts to educational institutions not supporting U.S. defense efforts.", 
+  "sponsor": {
+    "committee_id": "hsgo00", 
+    "name": "House Oversight and Government Reform", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-15T14:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

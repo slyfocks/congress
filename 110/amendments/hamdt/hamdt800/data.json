@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-18T13:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10470-10476, H10477-10478", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10470-10474", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) in the nature of a substitute offered by Mrs. Biggert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-18T14:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 874, 
+      "text": "On agreeing to the Biggert amendment (A007) Failed by recorded vote: 175 - 252 (Roll no. 874).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt800-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1852-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1852
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment in the nature of a substitute sought to replace the language in the bill with the text of H.R. 5121, the Expanding American Homeownership Act of 2006, which passed the House on July 25, 2006.", 
+  "house_number": 7, 
+  "introduced_at": "2007-09-18", 
+  "number": 800, 
+  "purpose": "An amendment in the nature of a substitute numbered 7 printed in House Report 110-330 to reform the Federal Housing Administration's (FHA) single-family mortgage insurance activities and would allow FHA to base each borrower's mortgage insurance premiums on the risk that the borrower poses to the FHA Mortgage Insurance Fund, with slight variations. Under this proposal, mortgage insurance premiums will be based on the borrower's credit history, loan-to-value ratio, debt-to-income ratio, and on FHA's historical experience with similar borrowers. This amendment maintains FHA reserves within the insurance fund to preserve the future solvency of the FHA program.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Biggert, Judy", 
+    "state": "IL", 
+    "thomas_id": "01577", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-09-18T14:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

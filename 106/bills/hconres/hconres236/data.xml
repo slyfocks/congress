@@ -1,0 +1,50 @@
+<bill session="106" type="hc" number="236" updated="2013-07-14T18:55:23-04:00">
+  <state datetime="1999-11-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-11-19"/>
+  </status>
+  <introduced datetime="1999-11-18"/>
+  <titles>
+    <title as="introduced" type="official">Correcting the enrollment of H.R. 1180.</title>
+  </titles>
+  <sponsor id="400340"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1999-11-18T19:44:00-05:00">
+      <text>Mr. Shaw asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="1999-11-18T19:44:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H12866" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-18T19:46:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1999-11-18T19:46:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-18">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-11-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15059" label="consideration"/>
+    </vote>
+    <action datetime="1999-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="h" number="1180"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Disabled"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/1999--Introduced.
+Makes corrections in the enrollment of H.R. 1180 (health care coverage and meaningful work opportunities for working individuals with disabilities).</summary>
+</bill>

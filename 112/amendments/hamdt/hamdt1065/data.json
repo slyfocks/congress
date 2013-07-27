@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08T22:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2424-2425, H2438", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2424", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A032) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T00:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 221, 
+      "text": "On agreeing to the Blackburn amendment (A032) Failed by recorded vote: 160 - 251 (Roll no. 221).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1065-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce total funding in the bill by 1% across the board.", 
+  "house_number": 32, 
+  "introduced_at": "2012-05-08", 
+  "number": 1065, 
+  "purpose": "An amendment to reduce total funding in the bill by 1% across the board.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-09T00:18:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

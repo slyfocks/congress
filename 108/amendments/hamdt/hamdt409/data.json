@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-16T18:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9575-9582", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9575", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-16T20:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 546, 
+      "text": "On agreeing to the Obey amendment (A005) Failed by recorded vote: 200 - 226 (Roll no. 546).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt409-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "An amendment that sought to provide funds for quality of life enhancements for U.S. servicemembers.", 
+  "house_number": 5, 
+  "introduced_at": "2003-10-16", 
+  "number": 409, 
+  "purpose": "An amendment to provide that, of the funds made available for reconstruction and relief for Iraq, one half of those funds shall be treated as a loan.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-16T20:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

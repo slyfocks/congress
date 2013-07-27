@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-04T15:45:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H7879-7882, H7891-7892", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H7879-7880", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-04T17:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 470, 
+      "text": "On agreeing to the Tancredo amendment (A007) Failed by recorded vote: 90 - 322 (Roll no. 470).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt356-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2989-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2989
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to transfer $320 million from Amtrak to the Federal Aid Highway Program, reducing Amtrak's total appropriation to $580 million.", 
+  "house_number": 7, 
+  "introduced_at": "2003-09-04", 
+  "number": 356, 
+  "purpose": "An amendment numbered 25 printed in the Congressional Record to increase funding for federal aid to highways by $320 million and to offset the increase by the same amount from money for AMTRAK.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-04T17:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

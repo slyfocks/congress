@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-25T12:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5111", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5111", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Hobson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-25T12:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hobson amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt625-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4614-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4614
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2004-06-25", 
+  "number": 625, 
+  "purpose": "An amendment to add a new section 311 providing that none of the funds may be used to finance laboratory directed research and development activities at Department of Energy laboratories on behalf of other Federal agencies.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Hobson, David L.", 
+    "state": "OH", 
+    "thomas_id": "00545", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-06-25T12:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

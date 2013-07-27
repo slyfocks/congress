@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12T12:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3231-3234, H3236", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3231", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12T13:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 169, 
+      "text": "On agreeing to the Weiner amendment (A004) Failed by recorded vote: 88 - 331 (Roll no. 169).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt125-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1544-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1544
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2005-05-12", 
+  "number": 125, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-77 to limit the number of Urban Area Security Initiative grants during any given fiscal year to 50.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-12T13:54:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

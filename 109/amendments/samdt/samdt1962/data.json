@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11101-11102", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11101", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1962 proposed by Senator Stevens for Senator Lieberman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1962 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1962-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-03", 
+  "number": 1962, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To make available $5,000,000 from Research, Development, Test, and Evaluation, Defense-Wide, for High Performance Defense Manufacturing Technology Research and Development.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lieberman, Joseph I.", 
+    "state": "CT", 
+    "thomas_id": "01385", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

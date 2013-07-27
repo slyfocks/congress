@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03T15:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9591-9592, H9601-9602", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9591", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03T17:21:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 564, 
+      "text": "On agreeing to the Nadler amendment (A002) Failed by recorded vote: 63 - 355 (Roll no. 564).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt608-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4128-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4128
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to allow a property owner to go to court before a property is taken in order to obtain declaratory or injunctive relief.", 
+  "house_number": 2, 
+  "introduced_at": "2005-11-03", 
+  "number": 608, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-266 to allow a property owner to go to court before the property is taken in order to obtain declaratory or injunctive relief if the taking violates the Act. The bill currently only allows a property owner to obtain a preliminary injunction or temporary restraining order, and does not allow the property owner to bring an action until after the conclusion of the condemnation proceedings. The amendment would also strike the penalties portion of the bill.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-03T17:21:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

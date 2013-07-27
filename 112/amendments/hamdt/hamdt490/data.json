@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-22T17:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4410-4411, H4417-4418", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4410", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Schrader.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-22T18:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 476, 
+      "text": "On agreeing to the Schrader amendment (A010) Failed by recorded vote: 160 - 262 (Roll no. 476).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt490-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2021-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2021
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prevent any permits required under the Clean Air Act for oil and natural gas drilling on the Outer Continental Shelf off the Coast of Oregon.", 
+  "house_number": 10, 
+  "introduced_at": "2011-06-22", 
+  "number": 490, 
+  "purpose": "An amendment numbered 10 printed in Part A of House Report 112-111 to prohibit any permits issued under the Clean Air Act for oil or natural gas drilling on the Outer Continental Shelf (OCS) off the coast of Oregon.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Schrader, Kurt", 
+    "state": "OR", 
+    "thomas_id": "01950", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-22T18:57:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

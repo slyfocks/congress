@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-21T19:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4893-4997, H4904-4905", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4893", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21T21:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 307, 
+      "text": "On agreeing to the Nadler amendment (A030) Failed by recorded vote: 138 - 286 (Roll no. 307).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt862-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4635-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4635
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for the section 8 voucher program for housing assistance by $344 million and decrease funding for the international space station accordingly.", 
+  "house_number": 30, 
+  "introduced_at": "2000-06-21", 
+  "number": 862, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to increase funding for Section 8 housing by $344 million for 60,000 new Section 8 vouchers. The amendment would transfer the same amount from the $2.1 billion allotted for the International Space Station.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-21T21:13:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

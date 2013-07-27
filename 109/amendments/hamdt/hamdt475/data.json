@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-20T11:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6123-6124, H6137-6138", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6123", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20T13:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 391, 
+      "text": "On agreeing to the Kucinich amendment (A022) Failed by recorded vote: 124 - 302 (Roll no. 391).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt475-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2601-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2601
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 22, 
+  "introduced_at": "2005-07-20", 
+  "number": 475, 
+  "purpose": "An amendment numbered 23 printed in part B of House Report 109-175 to require the President to direct the U.S. representatives to the United Nations to commence negotiations for an international treaty banning space-based weapons.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-20T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-11T17:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3199-3200, H3206", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3199", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Keating.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T18:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 314, 
+      "text": "On agreeing to the Keating amendment (A004) Failed by recorded vote: 186 - 240 (Roll no. 314).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt283-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1231-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1231
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Secretary to disclose the executive bonuses for any company that is given a drilling lease.", 
+  "house_number": 4, 
+  "introduced_at": "2011-05-11", 
+  "number": 283, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-74 to require the Secretary to make public information about the lessee's executive bonuses from the most recent quarter.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Keating, William R.", 
+    "state": "MA", 
+    "thomas_id": "02025", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-11T18:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

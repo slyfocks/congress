@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-21T18:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4503-4506", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4503", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. Tauscher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-22T16:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4572", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4572", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 216, 
+      "text": "On agreeing to the Tauscher amendment (A004) Failed by recorded vote: 199 - 226 (Roll no. 216).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt142-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1588-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1588
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to transfer Robust Nuclear Earth Penetrator program funding of $15 million and advanced concepts initiative activities funding of $6 million to conventional programs to defeat hardened and deeply buried targets.", 
+  "house_number": 4, 
+  "introduced_at": "2003-05-21", 
+  "number": 142, 
+  "purpose": "An amendment numbered 4 printed in House Report 108-120 would transfer $15 million for the Robust Nuclear Earth Penetrator and the $6 million for additional and exploratory studies under the Advanced Concepts Initiative to conventional programs to defeat hardened and deeply buried targets.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Tauscher, Ellen O.", 
+    "state": "CA", 
+    "thomas_id": "01533", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-05-22T16:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

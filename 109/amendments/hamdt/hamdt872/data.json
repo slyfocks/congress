@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-23T12:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3055-3058, H3095", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3055", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23T17:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 182, 
+      "text": "On agreeing to the Weiner amendment (A002) Agreed to by recorded vote: 234 - 184 (Roll no. 182).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt872-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5384-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the Animal and Plant Health Inspection Service by $23 million.", 
+  "house_number": 2, 
+  "introduced_at": "2006-05-23", 
+  "number": 872, 
+  "purpose": "An amendment to increase (by offset) the funding for Animal and Plant Health Inspection Service by $23 million.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-23T17:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

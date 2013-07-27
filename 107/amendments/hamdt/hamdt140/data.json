@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-28T16:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3777-3779, H3785-3786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3777-3778", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T17:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 208, 
+      "text": "On agreeing to the Brown (OH) amendment (A008) Agreed to by recorded vote: 324 - 89 (Roll no. 208).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt140-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment makes available an additional $2.5 million for the Food and Drug Administration Office of Generic Drugs.", 
+  "house_number": 8, 
+  "introduced_at": "2001-06-28", 
+  "number": 140, 
+  "purpose": "An amendment to provide that $2,500,000 is available for the purpose of carrying out the responsibilities of the FDA with respect to abbreviated applications for the approval of new drugs and that $250,000 is available for the purpose of carrying out public information programs regarding drugs with approved such applications.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-06-28T17:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

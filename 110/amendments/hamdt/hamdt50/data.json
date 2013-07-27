@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-20T15:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2703-2704", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2703", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Brown, Corrine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-20T16:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown, Corrine amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt50-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1227-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1227
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment ensures that utilities are part of the housing voucher for residents returning to New Orleans.", 
+  "house_number": 1, 
+  "introduced_at": "2007-03-20", 
+  "number": 50, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 110-53 to provide those receiving housing vouchers with additional comparable funds for utilities.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Brown, Corrine", 
+    "state": "FL", 
+    "thomas_id": "00132", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-20T16:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

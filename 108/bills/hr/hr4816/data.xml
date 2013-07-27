@@ -1,0 +1,64 @@
+<bill session="108" type="h" number="4816" updated="2013-07-14T19:02:42-04:00">
+  <state datetime="2004-07-20T18:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-07-20T18:23:00-04:00"/>
+  </status>
+  <introduced datetime="2004-07-12"/>
+  <titles>
+    <title as="introduced" type="official">To permit the Librarian of Congress to hire Library of Congress Police employees.</title>
+  </titles>
+  <sponsor id="400293"/>
+  <cosponsors>
+    <cosponsor id="400233" joined="2004-07-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-07-12">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2004-07-20T18:15:00-04:00">
+      <text>Mr. Ney moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2004-07-20T18:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6084-6085" label="consideration"/>
+    </action>
+    <action datetime="2004-07-20T18:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4816.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-07-20T18:23:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref=" CR H6084" label="text"/>
+    </vote>
+    <action datetime="2004-07-20T18:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-07-21">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2004-09-07">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congressional agencies"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Employee selection"/>
+    <term name="Federal employees"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Federal libraries"/>
+    <term name="Government operations and politics"/>
+    <term name="Library of Congress"/>
+    <term name="Police"/>
+    <term name="Transfer of employees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/2004--Passed House without amendment.
+Amends the Legislative Branch Appropriations Act, 2004 to repeal the prohibition against the hiring of Library of Congress Police employees by the Librarian of Congress (thus permitting the Librarian to hire them).</summary>
+</bill>

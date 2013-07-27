@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T16:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8045-8048", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8045", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A037) offered by Mr. Cooper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T16:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cooper amendment (A037) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt546-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding for Historically Black Colleges and Universities by $125 million.", 
+  "house_number": 37, 
+  "introduced_at": "2007-07-18", 
+  "number": 546, 
+  "purpose": "An amendment to increase (by transfer) for the Higher Education account by $125,000,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cooper, Jim", 
+    "state": "TN", 
+    "thomas_id": "00231", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-18T16:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

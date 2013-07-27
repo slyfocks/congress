@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T22:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3067-3068", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3067", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Johnson (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18T10:18:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3115", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 278, 
+      "text": "On agreeing to the Johnson (GA) amendment (A022) Failed by recorded vote: 160 - 261 (Roll no. 278).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1120-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to include a finding stating that the deployment of tactical nuclear weapons to South Korea would destabilize the Western Pacific region and would not be in the national security interests of the United States.", 
+  "house_number": 22, 
+  "introduced_at": "2012-05-17", 
+  "number": 1120, 
+  "purpose": "An amendment numbered 30 printed in House Report 112-485 to include a finding stating that the deployment of tactical nuclear weapons to South Korea would destabilize the Western Pacific region and would not be in the national security interests of the United States.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-18T10:18:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

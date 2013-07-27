@@ -1,0 +1,75 @@
+<bill session="107" type="hc" number="59" updated="2013-07-14T18:58:56-04:00">
+  <state datetime="2001-04-03T14:53:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-04-03T14:53:00-04:00"/>
+  </status>
+  <introduced datetime="2001-03-08"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress regarding the establishment of National Shaken Baby Syndrome Awareness Week.</title>
+    <title as="amended by house" type="official">Expressing the sense of Congress regarding the prevention of shaken baby syndrome.</title>
+  </titles>
+  <sponsor id="400267"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="2001-04-03"/>
+    <cosponsor id="400104" joined="2001-03-20"/>
+    <cosponsor id="400178" joined="2001-03-27"/>
+    <cosponsor id="400213" joined="2001-03-20"/>
+    <cosponsor id="400533" joined="2001-04-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2001-03-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E318"/>
+    </action>
+    <action state="REFERRED" datetime="2001-03-08">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2001-03-12">
+      <text>Referred to the Subcommittee on the Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2001-04-03T14:37:00-04:00">
+      <text>Mr. Platts moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2001-04-03T14:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1362-1364" label="consideration"/>
+    </action>
+    <action datetime="2001-04-03T14:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 59.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-04-03T14:53:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1362" label="text"/>
+    </vote>
+    <action datetime="2001-04-03T14:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-04-03T14:53:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-04-04">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Child abuse"/>
+    <term name="Child health"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Families"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Infants"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/2001--Passed House amended.
+Supports efforts to protect children from abuse and neglect. Encourages the people of the United States to educate themselves regarding shaken baby syndrome and the techniques to prevent it.</summary>
+</bill>

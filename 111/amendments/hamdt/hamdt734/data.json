@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-28T17:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6238-6241", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6238-6239", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28T17:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6240", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Flake amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt734-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5822-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5822
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2010-07-28", 
+  "number": 734, 
+  "purpose": "An amendment numbered 6 printed in House Report 111-570 to prohibit funding for all of the member-requested earmarks for military construction projects.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2010-07-28", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

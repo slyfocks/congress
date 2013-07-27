@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T15:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6926-6927", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6926", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Roe (TN).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T11:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6979-6980", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 356, 
+      "text": "On agreeing to the Roe (TN) amendment (A006) Failed by recorded vote: 140 - 283 (Roll no. 356).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt216-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce the amount appropriated for the Federal Prison system by $97,400,000.", 
+  "house_number": 6, 
+  "introduced_at": "2009-06-17", 
+  "number": 216, 
+  "purpose": "An amendment numbered 25 printed in the Congressional Record to decrease appropriations for the Federal Prison system by $97,400,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Roe, David P.", 
+    "state": "TN", 
+    "thomas_id": "01954", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T11:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

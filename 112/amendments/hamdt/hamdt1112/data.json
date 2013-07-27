@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-17T21:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3049-3051", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3050", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Coffman (CO).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18T09:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3111", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 272, 
+      "text": "On agreeing to the Coffman (CO) amendment (A014) Failed by recorded vote: 209 - 211 (Roll no. 272).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1112-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4310-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4310
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reintroduce competition to the contracting of government services and repeal the moratorium on A-76 procedures.", 
+  "house_number": 14, 
+  "introduced_at": "2012-05-17", 
+  "number": 1112, 
+  "purpose": "An amendment numbered 17 printed in House Report 112-485 to reintroduce competition to the contracting of government services and repeal the moratorium on A-76 procedures.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coffman, Mike", 
+    "state": "CO", 
+    "thomas_id": "01912", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-18T09:53:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,143 @@
+<bill session="106" type="h" number="2919" updated="2013-07-14T18:54:12-04:00">
+  <state datetime="2000-07-25T17:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-07-25T17:50:00-04:00"/>
+  </status>
+  <introduced datetime="1999-09-22"/>
+  <titles>
+    <title as="introduced" type="short">National Underground Railroad Freedom Center Act</title>
+    <title as="passed house" type="short">National Underground Railroad Freedom Center Act</title>
+    <title as="introduced" type="official">To promote preservation and public awareness of the history of the Underground Railroad by providing financial assistance, to the Freedom Center in Cincinnati, Ohio.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400036" joined="1999-09-22"/>
+    <cosponsor id="400050" joined="1999-09-28"/>
+    <cosponsor id="400071" joined="1999-09-22"/>
+    <cosponsor id="400073" joined="2000-03-29"/>
+    <cosponsor id="400075" joined="1999-09-22"/>
+    <cosponsor id="400087" joined="1999-09-22"/>
+    <cosponsor id="400149" joined="1999-09-22"/>
+    <cosponsor id="400170" joined="2000-03-22"/>
+    <cosponsor id="400177" joined="1999-09-22"/>
+    <cosponsor id="400180" joined="1999-09-22"/>
+    <cosponsor id="400208" joined="1999-09-22"/>
+    <cosponsor id="400211" joined="2000-05-18"/>
+    <cosponsor id="400221" joined="2000-06-06"/>
+    <cosponsor id="400237" joined="2000-04-04"/>
+    <cosponsor id="400248" joined="1999-09-22"/>
+    <cosponsor id="400307" joined="2000-03-30"/>
+    <cosponsor id="400334" joined="1999-09-22"/>
+    <cosponsor id="400539" joined="2000-05-09"/>
+    <cosponsor id="400372" joined="1999-10-04"/>
+    <cosponsor id="400385" joined="2000-03-09"/>
+    <cosponsor id="400390" joined="1999-09-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-09-22">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-09-28">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-09-28">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-03-30">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-05-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-05-18">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-06-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2000-07-17T16:54:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 106-741.</text>
+    </action>
+    <calendar datetime="2000-07-17T16:54:00-04:00" calendar="Union" number="422">
+      <text>Placed on the Union Calendar, Calendar No. 422.</text>
+    </calendar>
+    <action datetime="2000-07-25T15:38:00-04:00">
+      <text>Mr. Hansen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-07-25T15:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6860-6864" label="consideration"/>
+    </action>
+    <action datetime="2000-07-25T15:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2919.</text>
+    </action>
+    <action datetime="2000-07-25T15:42:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-07-25T17:42:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref=" CR H6885" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-25T17:50:00-04:00" how="roll" result="pass" roll="434" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 11, 2 Present (Roll no. 434).</text>
+      <reference ref=" CR H6860-6861" label="text"/>
+    </vote>
+    <action datetime="2000-07-25T17:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2000-09-20">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2000-09-29">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 09/28/2000 without amendment. With written report No. 106-445.</text>
+    </action>
+    <calendar datetime="2000-09-29" calendar="Senate Legislative" under="General Orders" number="890">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 890.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="1617"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Black history"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil war"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to museums"/>
+    <term name="Finance and financial sector"/>
+    <term name="Financial statements"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Minorities"/>
+    <term name="Museums"/>
+    <term name="Ohio"/>
+    <term name="Slavery"/>
+    <term name="Underground movements"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2000--Passed House amended.
+National Underground Railroad Freedom Center Act - Authorizes and directs the Secretary of the Interior to provide financial assistance to the National Underground Railroad Freedom Center, founded in 1995, to pay the Federal share (20 percent) of the costs of authorized Center activities. Authorizes the Secretary to assist in the construction of the Center facility and the development of programs and exhibits related to the history of the Underground Railroad on property owned by the city of Cincinnati and the State of Ohio.Authorizes appropriations.Requires annual reports from the Center to Congress.Amends the National Underground Railroad Network to Freedom Act of 1998 to authorize the Secretary to make grants for the preservation and restoration of historic buildings or structures associated with the Underground Railroad and related research and documentation to sites, programs, or facilities that have been included in the national underground railroad network. Provides a matching funds requirement. Authorizes appropriations.</summary>
+</bill>

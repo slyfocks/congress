@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-12T20:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7749-7751, H7755-7756", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7749-7750", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Miller, Gary.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-12T21:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 625, 
+      "text": "On agreeing to the Miller, Gary amendment (A003) Failed by recorded vote: 151 - 267 (Roll no. 625).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt495-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1851-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1851
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to impose a 7-year time limit on participation in the section 8 program with exemptions for the elderly and disabled, and families in a hardship situation.", 
+  "house_number": 3, 
+  "introduced_at": "2007-07-12", 
+  "number": 495, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-227 to impose a 7-year time limit on participation in the Section 8 program. The amendment excludes the elderly and disabled from this requirement. In addition, the amendment provides for a hardship exception.", 
+  "sponsor": {
+    "district": "42", 
+    "name": "Miller, Gary G.", 
+    "state": "CA", 
+    "thomas_id": "01584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-12T21:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

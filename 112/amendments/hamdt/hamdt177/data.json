@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-10T14:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1690-1692, H1700-1701", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1691", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Lynch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-10T15:52:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 168, 
+      "text": "On agreeing to the Lynch amendment (A003) Failed by recorded vote: 184 - 243 (Roll no. 168).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt177-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr830-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 830
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike language in the bill terminating the Mortgagee Letter 2010-23, which provided guidance for the FHA Refinance Program. The amendment also sought to strike language prohibiting the Secretary of Housing and Urban Development from issuing any regulation, order, or notice that is based on or substantially similar to such Mortgagee Letter.", 
+  "house_number": 3, 
+  "introduced_at": "2011-03-10", 
+  "number": 177, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to strike language in the bill terminating the Mortgagee Letter 2010-23, which provided guidance for the FHA Refinance Program. The amendment also strikes language which prohibits the Secretary of Housing and Urban Development from issuing any regulation, order, or notice that is based on or substantially similar to such Mortgagee Letter.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lynch, Stephen F.", 
+    "state": "MA", 
+    "thomas_id": "01686", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-10T15:52:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

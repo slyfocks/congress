@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-02", 
+      "references": [
+        {
+          "reference": "CR S1909-1911", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1910", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 31 proposed by Senator Dayton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "references": [
+        {
+          "reference": "CR S1979, S1981-1982", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 20, 
+      "text": "Amendment SA 31 not agreed to in Senate by Yea-Nay Vote. 24 - 74. Record Vote Number: 20.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt31-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-02", 
+  "number": 31, 
+  "proposed_at": "2005-03-02", 
+  "purpose": "To limit the amount of interest that can be charged on any extension of credit to 30 percent.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dayton, Mark", 
+    "state": "MN", 
+    "thomas_id": "01629", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-03", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

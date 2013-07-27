@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-14T15:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5883-5884", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5884", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14T15:07:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Davis, Tom amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt452-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres355-109", 
+    "bill_type": "hres", 
+    "congress": 109, 
+    "number": 355
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2005-07-14", 
+  "number": 452, 
+  "purpose": "An amendment to the preamble of the bill.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-14T15:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

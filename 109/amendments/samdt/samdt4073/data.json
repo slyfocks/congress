@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-18", 
+      "references": [
+        {
+          "reference": "CR S4757-4762, S4770", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4757", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4073 proposed by Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-18", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S4761-4762", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 132, 
+      "text": "Amendment SA 4073 as modified agreed to in Senate by Yea-Nay Vote. 58 - 39. Record Vote Number: 132.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4073-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-18", 
+  "number": 4073, 
+  "proposed_at": "2006-05-18", 
+  "purpose": "To declare that English is the common and unifying language of the United States, and to preserve and enhance the role of the English language.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-18", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

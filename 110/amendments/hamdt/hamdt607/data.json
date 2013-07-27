@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-24T12:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8313-8314", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8313", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-24T12:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Shays amendment (A011) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt607-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3074-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3074
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase Brownfields Redevelopment funding by $1 million.", 
+  "house_number": 11, 
+  "introduced_at": "2007-07-24", 
+  "number": 607, 
+  "purpose": "An amendment to redirect appropriations for the Brownfields Redevelopment by $1 million.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-24T12:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

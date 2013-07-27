@@ -1,0 +1,99 @@
+<bill session="106" type="h" number="1761" updated="2013-07-14T18:53:37-04:00">
+  <state datetime="1999-08-02T17:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-08-02T17:00:00-04:00"/>
+  </status>
+  <introduced datetime="1999-05-11"/>
+  <titles>
+    <title as="introduced" type="short">Copyright Damages Improvement Act of 1999</title>
+    <title as="reported to house" type="short">Copyright Damages Improvement Act of 1999</title>
+    <title as="introduced" type="official">To amend provisions of title 17, United States Code.</title>
+  </titles>
+  <sponsor id="400605"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="1999-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1999-05-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E930-931"/>
+    </action>
+    <action state="REFERRED" datetime="1999-05-11">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-05-17">
+      <text>Referred to the Subcommittee on Courts and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-05-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-05-20">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-05-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-05-26">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1999-07-01T14:55:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 106-216.</text>
+    </action>
+    <calendar datetime="1999-07-01T14:56:00-04:00" calendar="Union" number="122">
+      <text>Placed on the Union Calendar, Calendar No. 122.</text>
+    </calendar>
+    <action datetime="1999-08-02T16:53:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1999-08-02T16:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6798-6799" label="consideration"/>
+    </action>
+    <action datetime="1999-08-02T16:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1761.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-08-02T17:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-08-02T17:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-08-02T17:04:00-04:00">
+      <text>Laid on the table. See S. 1257 for further action.</text>
+      <reference ref="CR H6799" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts and Intellectual Property" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="supersedes" session="106" type="s" number="1257"/>
+    <bill relation="unknown" session="106" type="s" number="1257"/>
+  </relatedbills>
+  <subjects>
+    <term name="Intellectual property"/>
+    <term name="Administrative procedure"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Copyright infringement"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Damages"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Music"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sentencing guidelines"/>
+    <term name="Sound recording and reproducing"/>
+    <term name="Trademarks"/>
+    <term name="U.S. Sentencing Commission"/>
+    <term name="Video tape recording"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/1999--Reported to House amended.
+Copyright Damages Improvement Act of 1999 - Amends Federal copyright law with respect to the statutory damages available for copyright infringement to increase: (1) the minimum damages from $500 to $750; and (2) the maximum damages from $20,000 to $30,000. Increases from $100,000 to $300,000 the maximum additional damages a court may award for willful infringement. Authorizes a court to increase the award of statutory damages up to $250,000 per work in a case where the copyright owner demonstrates that the infringement was part of a repeated pattern or practice of infringement. Amends the No Electronic Theft (NET) Act to direct the Sentencing Commission to amend the guideline applicable to criminal infringement of a copyright or trademark to provide an enhancement based upon the retail price of the legitimate items infringed upon and the quantity of the infringing items. Modifies this standard with respect to criminal traffic in unauthorized sound recordings or music videos of live musical performances to base the enhancement upon the retail price of the infringing items as well as their quantity.</summary>
+</bill>

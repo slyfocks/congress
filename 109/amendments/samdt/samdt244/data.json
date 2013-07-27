@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2916-2917, S2933-2934", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2933-2934", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 244 proposed by Senator Reid for Senator Clinton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 75, 
+      "text": "Amendment SA 244 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 75.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt244-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 244, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To expand access to preventive health care services that reduce unintended pregnancy (including teen pregnancy), reduce the number of abortions, and improve access to women's health care.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

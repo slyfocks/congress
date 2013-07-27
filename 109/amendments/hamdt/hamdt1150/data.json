@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T19:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4755-4756", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4755", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A054) offered by Mr. Gingrey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T19:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Gingrey amendment (A054) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1150-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 54, 
+  "introduced_at": "2006-06-28", 
+  "number": 1150, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to prohibit funds from being used for negotiating the participation of additional countries under the visa waiver program described in section 217 of the Immigration and Nationality Act (8 U.S.C. 1187).", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-28T19:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-11T12:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1033-1034", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1033", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Upton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-11T12:31:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Upton amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt479-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3717-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3717
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment adds language to provide that a broadcast license cannot be revoked or license renewal rejected until all appeals have been heard; and adds language to the section of the bill listing the required contents of the annual report of the Federal Communications Commission.", 
+  "house_number": 1, 
+  "introduced_at": "2004-03-11", 
+  "number": 479, 
+  "purpose": "An amendment numbered 1 printed in House report 108-436 to add language to preserve a licensee's right to appeal a violation or fine before it could be considered during a license application or renewal proceeding or used in a revocation proceeding initiated under the bill's \"three strikes\" provision.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Upton, Fred", 
+    "state": "MI", 
+    "thomas_id": "01177", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-03-11T12:31:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

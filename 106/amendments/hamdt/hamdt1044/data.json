@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-09-07T12:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7309-7319", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7316", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-07T13:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 455, 
+      "text": "On agreeing to the Scott amendment (A002) Failed by the Yeas and Nays: 163 - 257, 1 Present (Roll no. 455).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1044-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4678-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4678
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit sectarian worship, instruction, or proselytization in a program assisted by a grant; and clarify that programs using Federal funds are technically in receipt of Federal financial assistance.", 
+  "house_number": 2, 
+  "introduced_at": "2000-09-07", 
+  "number": 1044, 
+  "purpose": "An amendment printed in part B of House Report 106-798 to add provisions that have been included in two previous bills (H.R. 3222, the Families Involve Literacy Act and H.R. 4141, the Safe and Drug Free Schools). The first provision clarifies that any eligible entity cannot subject a participant during the grant program to sectarian worship, instruction, or proselytization, but does not affect the private activities of the religious organization that take place outside of the Fatherhood Grant program. The second provision clarifies that eligible recipients are in receipt of federal financial assistance. The third provision closes the loophole contained within welfare reform that allows discrimination against beneficiaries when another standing law (federal, state or local) permits it.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-09-07T13:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

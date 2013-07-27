@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-05", 
+      "references": [
+        {
+          "reference": "CR S3172-3173", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3172", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 266 proposed by Senator Lugar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-06", 
+      "references": [
+        {
+          "reference": "CR S3240, S3241", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-06", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 266 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt266-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s600-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 600
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-05", 
+  "number": 266, 
+  "proposed_at": "2005-04-05", 
+  "purpose": "To strike the amendment to the limitation on the United States share of assessments for United Nations Peacekeeping operations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lugar, Richard G.", 
+    "state": "IN", 
+    "thomas_id": "01387", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-06", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

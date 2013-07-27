@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-14", 
+      "references": [
+        {
+          "reference": "CR S10898-10900", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10899", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5142 proposed by Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5142 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5142-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5385-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5385
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-14", 
+  "number": 5142, 
+  "proposed_at": "2006-11-14", 
+  "purpose": "To make available $18,000,000 for the provision of additional mental health services through Vet Centers to veterans who served in combat in Iraq or Afghanistan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-11-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

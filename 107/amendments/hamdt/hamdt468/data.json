@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-01T11:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1792-1793", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1792", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-01T12:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kucinich amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt468-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2871-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires the Ex-Im Bank to gather information relating to compliance by applicants with the Foreign Corrupt Practices Act, as amended.", 
+  "house_number": 3, 
+  "introduced_at": "2002-05-01", 
+  "number": 468, 
+  "purpose": "An amendment numbered 3 in House Report 107-423 to require Export-Import Bank to gather information relating to compliance with Foreign Corrupt Practices Act as amended by applicants. Export-Import would request that applicants report whether or not they had been found by a U.S. court to be in violation of the Foreign Corrupt Practices Act. Export-Import would also independently monitor federal court records to determine if any applicants forExport-Import assistance had violated the Act.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-05-01T12:02:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

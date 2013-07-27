@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-23T16:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2623-2627, H2629", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2623", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Cox.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T18:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 143, 
+      "text": "On agreeing to the Cox amendment (A027) Failed by recorded vote: 101 - 326 (Roll no. 143).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt69-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to limit the aggregate increase in authorization of appropriations for fiscal year 2002 to 11.5 percent over the amount appropriated for programs under this Act for fiscal year 2001.", 
+  "house_number": 27, 
+  "introduced_at": "2001-05-23", 
+  "number": 69, 
+  "purpose": "An amendment numbered 28 printed in House Report 107-69 provides that the total funding increases in the bill in the first year will not exceed an 11.5% increase over fiscal year 2001. Authorizes further increases in aggregate funding of 14% (representing 3.5% annually) for all subsequent years.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Cox, Christopher", 
+    "state": "CA", 
+    "thomas_id": "00242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-05-23T18:18:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

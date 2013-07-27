@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11077-11078, S11088", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2017 proposed by Senator Stevens for Senator Bennett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11078", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2017 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2017-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-04", 
+  "number": 2017, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To make available, from amount appropriated for the Research, Development, Test, and Evaluation, Army account for the Chemical Biological Defense Material Test and Evaluation Initiative (PE 0605602A).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bennett, Robert F.", 
+    "state": "UT", 
+    "thomas_id": "01280", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

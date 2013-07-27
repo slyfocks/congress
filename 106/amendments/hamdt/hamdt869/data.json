@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T16:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4979-4984", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4979", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T17:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McGovern amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt869-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for the SBA Women's Business Center Program and National Women's Business Council by $4.5 million.", 
+  "house_number": 3, 
+  "introduced_at": "2000-06-22", 
+  "number": 869, 
+  "purpose": "Amendment no. 7 printed in the Congressional Record to increase funding for the SBA Women's Business Centers and Women's Owned Business Council by $4.479 million with offsets from the Telecommunications Carrier Compliance Fund.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-22T17:13:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

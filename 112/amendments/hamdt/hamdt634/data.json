@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T16:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4983-4984", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4983", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-13T16:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cohen amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt634-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2018-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2018
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment to clarify that nothing in the bill can limit the EPA Administrator's authority to regulate a pipeline that crosses a streambed.", 
+  "house_number": 7, 
+  "introduced_at": "2011-07-13", 
+  "number": 634, 
+  "purpose": "An amendment numbered 8 printed in House Report 112-144 to clarify that nothing in the bill can limit the EPA Administrator's authority to regulate a pipeline that crosses a streambed.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-13T16:10:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

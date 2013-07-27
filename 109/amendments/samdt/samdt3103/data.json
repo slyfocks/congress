@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2233-2234, S2256-2257", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2233", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3103 proposed by Senator Sarbanes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 60, 
+      "text": "Amendment SA 3103 not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 60.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3103-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3103, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To restore funding for the civil works programs of the Corps of Engineers, the Federal Water Pollution Control State Revolving Fund, the National Park Service, the Forest Service, the National Oceanic and Atmospheric Administration, Federal conservation programs, and other natural resource needs, through an offset achieved by closing corporate tax loopholes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sarbanes, Paul S.", 
+    "state": "MD", 
+    "thomas_id": "01017", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

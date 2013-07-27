@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T20:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3877-3879", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3877", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Heck.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T20:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Heck amendment (A023) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt371-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to expand the total number of cities under consideration for the Urban Security Initiative from 10 to 25.", 
+  "house_number": 23, 
+  "introduced_at": "2011-06-01", 
+  "number": 371, 
+  "purpose": "An amendment to strike language relating to the top 10 highest risk urban areas to 25.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Heck, Joseph J.", 
+    "state": "NV", 
+    "thomas_id": "02040", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-01T20:27:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

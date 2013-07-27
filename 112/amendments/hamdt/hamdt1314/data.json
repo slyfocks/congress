@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-21T10:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3926-3927, H3941-3942", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3926", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Ms. DeLauro.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-21T12:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3941-3942", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 408, 
+      "text": "On agreeing to the DeLauro amendment (A024) Failed by recorded vote: 180 - 235 (Roll no. 408).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1314-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4480-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4480
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require $128 million received from the sale of new leases to be made available to fully fund the Commodity Futures Trading Commission to limit speculation in energy markets.", 
+  "house_number": 24, 
+  "introduced_at": "2012-06-21", 
+  "number": 1314, 
+  "purpose": "An amendment numbered 26 printed in House Report 112-540 to require $128 million received from the sale of new leases to be made available to fully fund the Commodity Futures Trading Commission to limit speculation in energy markets.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "thomas_id": "00281", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-21T12:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

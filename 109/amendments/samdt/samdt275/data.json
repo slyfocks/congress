@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-05", 
+      "references": [
+        {
+          "reference": "CR S3175", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3175", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 275 proposed by Senator Lugar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-05", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 275 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt275-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s600-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 600
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-05", 
+  "number": 275, 
+  "proposed_at": "2005-04-05", 
+  "purpose": "To require a determination to provide assistance for destruction of small arms and related ammunition.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lugar, Richard G.", 
+    "state": "IN", 
+    "thomas_id": "01387", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-05", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

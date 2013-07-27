@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-04T11:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2561", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Deutsch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-04T11:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2561", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Deutsch amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt675-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr673-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 673
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment clarifies that Monroe County, Florida is eligible to receive assistance under the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2000-05-04", 
+  "number": 675, 
+  "purpose": "An amendment to clarify that the provisions of the bill apply also to Monroe County, Florida.", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Deutsch, Peter", 
+    "state": "FL", 
+    "thomas_id": "00291", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-04T11:20:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T19:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1280", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1280", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A123) offered by Mr. Matheson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T19:04:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Matheson amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt133-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 123, 
+  "introduced_at": "2011-02-18", 
+  "number": 133, 
+  "purpose": "An amendment numbered 38 printed in the Congressional Record to prohibit the use of funds in H.R. 1 from being used for the Community Connect broadband grant program administered by the Rural Utilities Service of the Department of Agriculture.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Matheson, Jim", 
+    "state": "UT", 
+    "thomas_id": "01671", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-18T19:04:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

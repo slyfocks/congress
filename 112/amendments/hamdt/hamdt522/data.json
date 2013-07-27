@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T16:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4620-4622, H4642-4643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4620", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-06T19:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 501, 
+      "text": "On agreeing to the Sessions amendment (A017) Agreed to by recorded vote: 217 - 204 (Roll no. 501).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt522-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes section 8101 of the bill which prohibits the use of funds to convert any functions performed by Federal employees to private competition pursuant to a study conducted under OMB Circular A-76.", 
+  "house_number": 17, 
+  "introduced_at": "2011-07-06", 
+  "number": 522, 
+  "purpose": "An amendment to strike section 8101 of the bill.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-06T19:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

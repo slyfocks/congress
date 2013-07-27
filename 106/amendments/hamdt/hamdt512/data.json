@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-05T15:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9361", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mrs. Jones (OH) to the McCollum amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-05T17:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 478, 
+      "text": "On agreeing to the Jones (OH) amendment (A003) Agreed to by recorded vote: 389 - 32 (Roll no. 478).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt512-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt510-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 510
+  }, 
+  "amends_bill": {
+    "bill_id": "hr764-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 764
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See McCollum amendment (A001) for description.", 
+  "house_number": 3, 
+  "introduced_at": "1999-10-05", 
+  "number": 512, 
+  "purpose": "An amendment to specify that any increase in funding provided shall operate notwithstanding any limitation placed on the availability of the Crime Victims Fund.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Jones, Stephanie Tubbs", 
+    "state": "OH", 
+    "thomas_id": "01581", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-10-05T17:05:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-02T20:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4385-4386, H4405-4406", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4385", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Sullivan to the Honda amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-02T22:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 287, 
+      "text": "On agreeing to the Sullivan amendment (A002) Failed by recorded vote: 166 - 250 (Roll no. 287).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt129-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt128-110", 
+    "amendment_type": "hamdt", 
+    "congress": 110, 
+    "number": 128
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1867-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment to the Honda amendment (A001) sought to clarify that materials, exhibits, and multimedia presentations shall reflect the diversity of scientific opinion.", 
+  "house_number": 2, 
+  "introduced_at": "2007-05-02", 
+  "number": 129, 
+  "purpose": "An amendment to insert a new paragraph after paragraph 1 of the Honda amendment to clarify what such materials, exhibits, and multimedia presentations shall reflect.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sullivan, John", 
+    "state": "OK", 
+    "thomas_id": "01689", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-02T22:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

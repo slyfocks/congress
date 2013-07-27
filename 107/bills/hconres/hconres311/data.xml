@@ -1,0 +1,80 @@
+<bill session="107" type="hc" number="311" updated="2013-07-14T18:59:00-04:00">
+  <state datetime="2002-02-28T11:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-02-28T11:26:00-05:00"/>
+  </status>
+  <introduced datetime="2002-02-04"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the Civil Air Patrol for 60 years of service to the United States.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="400514" joined="2002-02-12"/>
+    <cosponsor id="400091" joined="2002-02-12"/>
+    <cosponsor id="400128" joined="2002-02-26"/>
+    <cosponsor id="400143" joined="2002-02-12"/>
+    <cosponsor id="400186" joined="2002-02-12"/>
+    <cosponsor id="400216" joined="2002-02-12"/>
+    <cosponsor id="400265" joined="2002-02-26"/>
+    <cosponsor id="400268" joined="2002-02-12"/>
+    <cosponsor id="400554" joined="2002-02-26"/>
+    <cosponsor id="400316" joined="2002-02-13"/>
+    <cosponsor id="400321" joined="2002-02-26"/>
+    <cosponsor id="400333" joined="2002-02-13"/>
+    <cosponsor id="400412" joined="2002-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2002-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E63"/>
+    </action>
+    <action state="REFERRED" datetime="2002-02-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2002-02-08">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-02-28T11:22:00-05:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="2002-02-28T11:23:00-05:00">
+      <text>Mr. Sensenbrenner asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2002-02-28T11:24:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H642-643" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-02-28T11:26:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H643" label="text"/>
+    </vote>
+    <action datetime="2002-02-28T11:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-02-28">
+      <text>Received in the Senate and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Air forces"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Emergency management"/>
+    <term name="Military civic action"/>
+    <term name="Rescue work"/>
+    <term name="Volunteer forces"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2002--Introduced.
+Recognizes the Civil Air Patrol for 60 years of service to the United States.</summary>
+</bill>

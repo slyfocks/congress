@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-30T10:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1594-1602", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Kasich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-30T11:20:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1594", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 89, 
+      "text": "On agreeing to the Kasich amendment (A024) Failed by recorded vote: 200 - 219 (Roll no. 89).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt638-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to withhold 50 per cent of the bill's funding for military operations in Kosovo until the President certifies to Congress that the European Union and European members of NATO have obligated certain percentages of their original pledges and commitments for activities in Kosovo.", 
+  "house_number": 24, 
+  "introduced_at": "2000-03-30", 
+  "number": 638, 
+  "purpose": "An amendment numbered 12 printed in part B of House Report 106-549 to withhold 50 per cent of the funding for military operations in Kosovo until the President makes certifications that the European Union and member nations of NATO have obligated at least 75% of the assistance committed by them for 1999 and 2000.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Kasich, John R.", 
+    "state": "OH", 
+    "thomas_id": "00618", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-30T11:20:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

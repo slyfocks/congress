@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21", 
+      "references": [
+        {
+          "reference": "CR S4080", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 368 proposed by Senator Corzine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S4080", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 368 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt368-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 368, 
+  "proposed_at": "2005-04-21", 
+  "purpose": "To provide additional assistance in Sudan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Corzine, Jon S.", 
+    "state": "NJ", 
+    "thomas_id": "01630", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-21", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

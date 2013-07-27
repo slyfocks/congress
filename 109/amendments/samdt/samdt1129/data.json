@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-11", 
+      "references": [
+        {
+          "reference": "CR S7965-7967, S7979", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7965", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1129 proposed by Senator Reid for Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-12", 
+      "references": [
+        {
+          "reference": "CR S8093, S8106-8110", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-12", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 174, 
+      "text": "Amendment SA 1129 agreed to in Senate by Yea-Nay. 95 - 0. Record Vote Number: 174.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1129-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-11", 
+  "number": 1129, 
+  "proposed_at": "2005-07-11", 
+  "purpose": "To provide emergency supplemental funds for medical services provided by the Veterans Health Administration for the fiscal year ending September 30, 2005.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-12", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T12:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1223-1224, H1241", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1223", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A099) offered by Mr. Kind.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T14:42:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1241", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 102, 
+      "text": "On agreeing to the Kind amendment (A099) Failed by recorded vote: 123 - 306 (Roll no. 102).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt109-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 99, 
+  "introduced_at": "2011-02-18", 
+  "number": 109, 
+  "purpose": "An amendment numbered 88 printed in the Congressional Record to prohibit the use of funds in division A of H.R. 1 to be used to research, develop, or test the Expeditionary Fighting Vehicle and the Surface-Launched Advanced Medium-Range Air-to-Air Missile program.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-18T14:42:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

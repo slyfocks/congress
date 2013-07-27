@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-10T18:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3138-3140", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3138", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T14:03:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3180-3181", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 303, 
+      "text": "On agreeing to the Holt amendment (A005) Failed by recorded vote: 179 - 247 (Roll no. 303).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt274-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1229-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1229
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike provisions in the bill that allow drilling applications to be considered approved even if the Secretary has not made a decision on the application by the end of the 60-day period beginning on the date the application is received by the Secretary.", 
+  "house_number": 5, 
+  "introduced_at": "2011-05-10", 
+  "number": 274, 
+  "purpose": "An amendment numbered 6 printed in Part A of House Report 112-73 to strike a provision in the underlying bill that would \"deem\" drilling permits approved after 60 days even if the necessary safety and environmental reviews have not be completed. The amendment leaves in place a timeline for approving drilling permits, but prevents permits from being \"deemed\" approved before the safety review has been completed.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-11T14:03:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

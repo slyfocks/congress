@@ -1,0 +1,55 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-15T17:51:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Graham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-15T18:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 208, 
+      "text": "On agreeing to the Graham amendment (A004) Failed by recorded vote: 183 - 245 (Roll no. 208).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-06-15T18:57:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Graham amendment (A004) Failed by recorded vote: (Roll No. 208).", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt171-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1000-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1000
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete language that allows airports to increase passenger facility charges.", 
+  "house_number": 4, 
+  "introduced_at": "1999-06-15", 
+  "number": 171, 
+  "purpose": "An amendment no. 4 and printed in H. Rept. 106-185 to strike sec. 105 that authorizes an increase in Passenger Facility Charges.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "thomas_id": "00452", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-06-15T18:57:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

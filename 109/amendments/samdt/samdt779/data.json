@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-14", 
+      "references": [
+        {
+          "reference": "CR S6447-6460", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6447", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 779 proposed by Senator Domenici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15", 
+      "references": [
+        {
+          "reference": "CR S6601-6614", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S6608-6609", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 139, 
+      "text": "Amendment SA 779 as modified agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 139.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt779-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-14", 
+  "number": 779, 
+  "proposed_at": "2005-06-14", 
+  "purpose": "To eliminate methyl tertiary butyl ether from the United States fuel supply, to increase production and use of renewable fuel, and to increase the Nation's energy independence.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Domenici, Pete V.", 
+    "state": "NM", 
+    "thomas_id": "01319", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-15", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

@@ -1,0 +1,46 @@
+<bill session="108" type="hc" number="514" updated="2013-07-14T19:03:11-04:00">
+  <state datetime="2004-10-09">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2004-10-09"/>
+  </status>
+  <introduced datetime="2004-10-08"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Clerk of the House of Representatives to make a technical correction in the enrollment of the bill H.R. 4200.</title>
+  </titles>
+  <sponsor id="400191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2004-10-08T20:08:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H9007" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-10-08T20:08:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H9007" label="text"/>
+    </vote>
+    <action datetime="2004-10-08T20:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2004-10-09" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10954" label="consideration"/>
+    </vote>
+    <action datetime="2004-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="h" number="4200"/>
+    <bill relation="unknown" session="108" type="h" number="4200"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/9/2004--Passed Senate without amendment.
+Directs the Clerk of the House of Representatives to make a technical correction in the enrollment of H.R. 4200 (National Defense Authorization Act for Fiscal Year 2005).</summary>
+</bill>

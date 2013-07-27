@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-10T14:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1692-1693", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1692", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Paulsen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-10T14:19:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Paulsen amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt178-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr830-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 830
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment includes military service members and veterans who have service-connected injuries, as well as survivors and dependents of such individuals, in a study on use of the FHA Refinance program.", 
+  "house_number": 4, 
+  "introduced_at": "2011-03-10", 
+  "number": 178, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to include military servicemembers and veterans who have service-connected injuries, as well as survivors and dependents of such individuals, in a study on use of the FHA Refinance program.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Paulsen, Erik", 
+    "state": "MN", 
+    "thomas_id": "01930", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-10T14:19:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

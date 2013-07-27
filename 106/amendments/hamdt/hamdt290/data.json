@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-07-15T19:44:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mrs. Lowey to the Smith (NJ) amendment (A005).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-15T20:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 303, 
+      "text": "On agreeing to the Lowey amendment (A006) Agreed to by recorded vote: 217 - 200 (Roll no. 303).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt290-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt289-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 289
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2490-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2490
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Smith (NJ) amendment (A005) for description.", 
+  "house_number": 6, 
+  "introduced_at": "1999-07-15", 
+  "number": 290, 
+  "purpose": "An amendment to strike \"or moral convictions\" from the material proposed to be inserted by the amendment offered by Mr. Smith of New Jersey.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Lowey, Nita M.", 
+    "state": "NY", 
+    "thomas_id": "00709", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-07-15T20:57:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

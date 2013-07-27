@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "references": [
+        {
+          "reference": "CR S2085-2091, S2095-2096", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2085-2086", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3039 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 42, 
+      "text": "Amendment SA 3039 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 42.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3039-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3039, 
+  "proposed_at": "2006-03-14", 
+  "purpose": "To make energy more affordable and sustainable, to increase our national security through foreign oil replacement with biofuels and alternative fuels and advanced/hybrid vehicle use, to accelerate production and market penetration of clean and renewable energy technologies and generation, and to more fully utilize energy efficiency and conservation technologies and practices.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-14", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5019-5025", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 666 proposed by Senator Inhofe for Senator Specter to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5022-5023", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 666 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt666-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 666, 
+  "proposed_at": "2005-05-12", 
+  "purpose": "To improve the high-speed magnetic levitation system deployment program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Specter, Arlen", 
+    "state": "PA", 
+    "thomas_id": "01437", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-12", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

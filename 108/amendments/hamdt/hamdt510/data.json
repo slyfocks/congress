@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01T17:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 4/2/2004 H2034-2036", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 4/2/2004 H2034", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Bradley (NH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-02T11:06:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2080-2081", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2080-2081", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 110, 
+      "text": "On agreeing to the Bradley (NH) amendment (A019) Failed by recorded vote: 90 - 334 (Roll no. 110).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt510-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3550-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3550
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase weight limits on trucks that travel on Interstate 89 and Interstate 93 in New Hampshire.", 
+  "house_number": 19, 
+  "introduced_at": "2004-04-01", 
+  "number": 510, 
+  "purpose": "An amendment numbered 20 printed in House Report 108-456 to increase the allowable weight of vehicles permitted to travel on Interstate highways 93 and 89 in New Hampshire from 80,000 to 99,000 pounds. The amendment also instructs the New Hampshire Transportation Department to conduct a study to discern the economic safety and infrastructure impact to the extension.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bradley, Jeb", 
+    "state": "NH", 
+    "thomas_id": "01736", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-04-02T11:06:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3810", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3810", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 496 proposed by Senator Cochran for Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-18", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 496 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt496-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 496, 
+  "proposed_at": "2005-04-18", 
+  "purpose": "To amend title XVIII of the Social Security Act to make a technical correction regarding the entities eligible to participate in the Health Care Infrastructure Improvement Program, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-18", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

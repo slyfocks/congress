@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-24T18:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5181-5182", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5181", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Hastings (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-25T14:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5221", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 509, 
+      "text": "On agreeing to the Hastings (FL) amendment (A008) Failed by recorded vote: 150 - 275 (Roll no. 509).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1446-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6082-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 6082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require each drilling permit application to include an estimate of the impact on global change of the consumption of any oil or gas found under the permit.", 
+  "house_number": 8, 
+  "introduced_at": "2012-07-24", 
+  "number": 1446, 
+  "purpose": "An amendment numbered 8 printed in Part C of House Report 112-616 to require each drilling permit application to include an estimate of the impact on global change of the consumption of any oil or gas found under the permit.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "thomas_id": "00511", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-25T14:08:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

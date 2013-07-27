@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-24T17:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 6/25/2004 H4978-4980, H4989-4990", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 6/25/2004 H4978", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Castle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-24T18:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 307, 
+      "text": "On agreeing to the Castle amendment (A003) Failed by recorded vote: 185 - 230 (Roll no. 307).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt611-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4663-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4663
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to remove the requirement that 20 functional categories be included in the annual budget resolution; and grant the Budget Committee the discretion to include such categories as they deem appropriate.", 
+  "house_number": 3, 
+  "introduced_at": "2004-06-24", 
+  "number": 611, 
+  "purpose": "An amendment numbered 3 printed in House Report 108-566 to eliminate the requirement to provide budget authority and outlays for the 20 separate functions in the budget resolution. Under the amendment, the required contents of the budget resolution would include: total of new budget authority and outlays; revenues; surplus or deficit; and public debt.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-24T18:49:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

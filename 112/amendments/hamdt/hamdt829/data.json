@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-11T16:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6705-6706, H6724-6725", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6705", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Ms. Schakowsky.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-11T19:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 776, 
+      "text": "On agreeing to the Schakowsky amendment (A010) Failed by recorded vote: 169 - 249 (Roll no. 776).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt829-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2011-10-11", 
+  "number": 829, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to insert a finding by Congress that mercury is a potent neurotoxin that can damage the development of an infant's brain.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Schakowsky, Janice D.", 
+    "state": "IL", 
+    "thomas_id": "01588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-11T19:33:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-15T22:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4256-4257", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4256", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A039) offered by Mr. Chaffetz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15T22:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Chaffetz amendment (A039) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt457-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 39, 
+  "introduced_at": "2011-06-15", 
+  "number": 457, 
+  "purpose": "An amendment numbered 14 printed in the Congressional Record to prohibit the use of funds to be used for the storage of cotton or peanuts.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-15T22:30:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

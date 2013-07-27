@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-15T16:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8152-8153", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8152", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T13:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8333-8334", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8333", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 585, 
+      "text": "On agreeing to the Flake amendment (A016) Failed by recorded vote: 125 - 301 (Roll no. 585).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt335-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3183-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $2 million earmark for the Fort Mason Center Pier 2 Project.", 
+  "house_number": 16, 
+  "introduced_at": "2009-07-15", 
+  "number": 335, 
+  "purpose": "An amendment numbered 5 printed in Part C of House Report 111-209 to strike $2 million in funding for the `Fort Mason Center Pier 2 Project' and reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T13:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

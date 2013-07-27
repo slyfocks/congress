@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-28T15:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3226", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3226", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28T15:16:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kennedy amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt73-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1538-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1538
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment amends the definition of medical care in the bill to include mental health care.", 
+  "house_number": 4, 
+  "introduced_at": "2007-03-28", 
+  "number": 73, 
+  "purpose": "An amendment numbered 4 printed in House Report 110-78 to add a definition to Sec.2 to clarify that`medical care' includes mental health care.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kennedy, Patrick J.", 
+    "state": "RI", 
+    "thomas_id": "00627", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-28T15:16:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

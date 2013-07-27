@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-04-24T12:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1567-1574", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1567-1568", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) in the nature of a substitute offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24T13:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 107, 
+      "text": "On agreeing to the Kucinich amendment (A004) Failed by recorded vote: 39 - 381 (Roll no. 107).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt457-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3763-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3763
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to create the Federal Bureau of Audits to conduct an annual audit of the financial statements that are required to be submitted by reporting issuers and to be certified under the securities laws, rules or regulations.", 
+  "house_number": 4, 
+  "introduced_at": "2002-04-24", 
+  "number": 457, 
+  "purpose": "An amendment in the nature of a substitute numbered 4 printed in House Report 107-418 to create the Federal Bureau of Audits (FBA) to monitor corporate America's books by auditing all publicly-traded companies. The new agency would be a part of the SEC, but would maintain appropriate independence. The SEC would set the basic rules of auditing by incorporating the generally accepted auditing standards rules and making further refinements that are \"necessary and appropriate in the public interest and for the protection of investors.\" The FBA's integrity will be ensured by several conflict of interest provisions designed to make certain that American taxpayers, investors, and employees get an accurate assessment of a corporation.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-04-24T13:34:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

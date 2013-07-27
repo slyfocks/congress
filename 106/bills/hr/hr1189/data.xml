@@ -1,0 +1,85 @@
+<bill session="106" type="h" number="1189" updated="2013-07-14T18:53:23-04:00">
+  <state datetime="1999-04-13T11:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-04-13T11:20:00-04:00"/>
+  </status>
+  <introduced datetime="1999-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To make technical corrections in title 17, United States Code, and other laws.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1999-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-03-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-03-19">
+      <text>Referred to the Subcommittee on Courts and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-03-22">
+      <text>Subcommittee on Courts and Intellectual Property Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-03-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1999-04-12T18:21:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 106-84.</text>
+    </action>
+    <calendar datetime="1999-04-12T18:22:00-04:00" calendar="Union" number="46">
+      <text>Placed on the Union Calendar, Calendar No. 46.</text>
+    </calendar>
+    <action datetime="1999-04-13T11:18:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1999-04-13T11:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1878-1879" label="consideration"/>
+    </action>
+    <action datetime="1999-04-13T11:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1189.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-04-13T11:20:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-04-13T11:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-04-14">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1999-07-27">
+      <text>See S.1260.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU03" subcommittee="Courts and Intellectual Property" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="1260"/>
+    <bill relation="unknown" session="106" type="s" number="1260"/>
+  </relatedbills>
+  <subjects>
+    <term name="Intellectual property"/>
+    <term name="Boats and boating"/>
+    <term name="Copyright"/>
+    <term name="Copyright infringement"/>
+    <term name="Shipbuilding"/>
+    <term name="Sports and recreation"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/1999--Passed House amended.
+Makes technical corrections to Federal copyright law with respect to provisions under: (1) the Digital Millennium Copyright Act; and (2) the Online Copyright Infringement Liability Limitation Act. Amends related: (1) Federal judicial code provisions; and (2) Federal law provisions concerning government organization and employees. Amends the Vessel Hull Design Protection Act to exclude from protection under such Act a design embodied in a useful article that was made public by the designer or owner in the United States or a foreign country more than two years (currently, one year) before the application for registration date.</summary>
+</bill>

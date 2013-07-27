@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-22T11:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6991-6993", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6991", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Inglis (SC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-22T12:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Inglis (SC) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt392-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2771-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2771
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to provide that none of the funds in the bill may be used to purchase light bulbs unless the light bulbs have the `ENERGY STAR' or `Federal Energy Management Program' designation.", 
+  "house_number": 1, 
+  "introduced_at": "2007-06-22", 
+  "number": 392, 
+  "purpose": "An amendment numbered 1 printed in the House Report 110-201 to provide that none of the funds in the bill may be used to purchase light bulbs unless the light bulbs have the `ENERGY STAR' or `Federal Energy Management Program' designation.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Inglis, Bob", 
+    "state": "SC", 
+    "thomas_id": "00582", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-22T12:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

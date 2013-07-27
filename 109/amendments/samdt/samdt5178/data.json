@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-16", 
+      "references": [
+        {
+          "reference": "CR S11001-11002, S11006, S11009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11001", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S11006", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 5178 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 266, 
+      "text": "Amendment SA 5178 not agreed to in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 266.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5178-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3709-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3709
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-16", 
+  "number": 5178, 
+  "proposed_at": "2006-11-16", 
+  "purpose": "To declare that it is the policy of the United States to continue to support implementation of United Nations Security Council Resolution 1172 (1998).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-11-16", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

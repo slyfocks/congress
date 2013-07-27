@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-17T19:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4087", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4087", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Brady (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-17T19:43:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Brady (TX) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt167-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-07-17", 
+  "number": 167, 
+  "purpose": "An amendment to increase by $5 million the funding for improvements in the extradition processes and to close off \"safe-havens\".", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-07-17", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

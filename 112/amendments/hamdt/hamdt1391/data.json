@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-18T17:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4961-4962, H4998", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4961", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Quigley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-18T21:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 474, 
+      "text": "On agreeing to the Quigley amendment (A014) Failed by recorded vote: 60 - 359 (Roll no. 474).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1391-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to remove the $988 million in funding for a 10th DDG-51 Destroyer and to apply the savings to the spending reduction account.", 
+  "house_number": 14, 
+  "introduced_at": "2012-07-18", 
+  "number": 1391, 
+  "purpose": "An amendment to reduce the Shipbuilding and Conversion, Navy account by $988,000,000 and apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Quigley, Mike", 
+    "state": "IL", 
+    "thomas_id": "01967", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-18T21:46:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

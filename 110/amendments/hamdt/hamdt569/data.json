@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T22:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8106", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8106", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A060) offered by Mr. Gingrey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T22:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gingrey amendment (A060) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt569-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 60, 
+  "introduced_at": "2007-07-18", 
+  "number": 569, 
+  "purpose": "An amendment to prohibit use of funds to require HPV vaccinations for school admittance.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-18T22:54:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

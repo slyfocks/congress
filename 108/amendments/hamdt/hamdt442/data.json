@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-11-06T13:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10488", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H10488", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-06T13:37:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Toomey amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt442-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1829-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment prohibits Federal Prison Industries from bidding on contracts that have been reserved for small businesses.", 
+  "house_number": 2, 
+  "introduced_at": "2003-11-06", 
+  "number": 442, 
+  "purpose": "An amendment to prohibit FPI from bidding on contracts that have been reserved for small businesses.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-11-06T13:37:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

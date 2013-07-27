@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-25", 
+      "references": [
+        {
+          "reference": "CR S11805-11806", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11805", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2224 proposed by Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2224 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2224-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-25", 
+  "number": 2224, 
+  "proposed_at": "2005-10-25", 
+  "purpose": "To require the Secretary of Education to conduct a study to evaluate the effectiveness of violence prevention programs receiving funding under the Safe and Drug-Free Schools and Communities Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-25", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T19:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6953-6955", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6954", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T13:20:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6991-6992", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 372, 
+      "text": "On agreeing to the Broun (GA) amendment (A021) Failed by recorded vote: 161 - 262 (Roll no. 372).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt231-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 21, 
+  "introduced_at": "2009-06-17", 
+  "number": 231, 
+  "purpose": "An amendment numbered 59 printed in the Congressional Record to prohibit use of funds for establishment or implementation of a National Climate Service.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

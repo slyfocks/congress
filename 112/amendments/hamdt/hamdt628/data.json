@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T15:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4975-4977, H4991-4992", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4975", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-13T18:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 571, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A001) Failed by recorded vote: 167 - 254 (Roll no. 571).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt628-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2018-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2018
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike all after the enacting clause.", 
+  "house_number": 1, 
+  "introduced_at": "2011-07-13", 
+  "number": 628, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-144 to strike all after the enacting clause.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-13T18:21:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

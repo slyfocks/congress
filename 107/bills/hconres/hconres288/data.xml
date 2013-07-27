@@ -1,0 +1,46 @@
+<bill session="107" type="hc" number="288" updated="2013-07-14T18:59:00-04:00">
+  <state datetime="2001-12-13">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2001-12-13"/>
+  </status>
+  <introduced datetime="2001-12-13"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Secretary of the Senate to make a technical correction in the enrollment of S. 1438.</title>
+  </titles>
+  <sponsor id="400504"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2001-12-13T11:51:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H10080-10082" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-13T11:51:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H10080-10082" label="text"/>
+    </vote>
+    <action datetime="2001-12-13T11:52:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-12-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13113" label="consideration"/>
+    </vote>
+    <action datetime="2001-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="1438"/>
+    <bill relation="unknown" session="107" type="s" number="1438"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2001--Passed Senate without amendment.
+Directs the Secretary of the Senate to make specified corrections in the enrollment of S. 1438 (FY 2002 Department of Defense funding authorization).</summary>
+</bill>

@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-17", 
+      "references": [
+        {
+          "reference": "CR S13113-13114", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S13113-13114", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2647 proposed by Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2647 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "references": [
+        {
+          "reference": "CR S13123", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 2647, previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2647-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2020-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-17", 
+  "number": 2647, 
+  "proposed_at": "2005-11-17", 
+  "purpose": "To provide an extension and increase in minimum tax relief to individuals.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-17", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-12T15:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3253", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3253", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Gibson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-13T10:09:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3288-3289", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 324, 
+      "text": "On agreeing to the Gibson amendment (A004) Agreed to by recorded vote: 278 - 123 (Roll no. 324).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt291-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr754-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment to require the Director of National Intelligence to submit to Congress a report containing recommendations the Director considers appropriate for consolidating the intelligence community.", 
+  "house_number": 4, 
+  "introduced_at": "2011-05-12", 
+  "number": 291, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-75 to require the Director of National Intelligence to submit to Congress a report containing recommendations the Director considers appropriate for consolidating the intelligence community.", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Gibson, Christopher P.", 
+    "state": "NY", 
+    "thomas_id": "02043", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-13T10:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

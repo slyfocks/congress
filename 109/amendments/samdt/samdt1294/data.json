@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8464-8468, S8469-8470", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8465", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1294 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 194, 
+      "text": "Amendment SA 1294 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 194.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1294-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-19", 
+  "number": 1294, 
+  "proposed_at": "2005-07-19", 
+  "purpose": "To provide that no funds may be made available to provide television broadcasting to Cuba, to increase by $21,100,000 the amount appropriated to the Peace Corps, and to reduce by the same amount the amount appropriated under title I to the Broadcasting Board of Governors for broadcasting to Cuba.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-19", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

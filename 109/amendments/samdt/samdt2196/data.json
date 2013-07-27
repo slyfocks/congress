@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-25", 
+      "references": [
+        {
+          "reference": "CR S11784-11785", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11784", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2196 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 267, 
+      "text": "Amendment SA 2196 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 267.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2196-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-24", 
+  "number": 2196, 
+  "proposed_at": "2005-10-25", 
+  "purpose": "To require the Secretary of Health and Human Services to submit to Congress a plan for changing the numerical identifier used to identify Medicare beneficiaries under the Medicare program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-25", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5186-5191, H5205", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5186", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Gohmert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13T17:06:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 371, 
+      "text": "On agreeing to the Gohmert amendment (A003) Failed by recorded vote: 134 - 288 (Roll no. 371).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1184-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr9-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 9
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to shorten the reauthorization period for the Voting Rights Act from 25 years to 10 years.", 
+  "house_number": 3, 
+  "introduced_at": "2006-07-13", 
+  "number": 1184, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-554 to make the reauthorization period 10 years, rather than the 25 years proposed in the act.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gohmert, Louie", 
+    "state": "TX", 
+    "thomas_id": "01801", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-13T17:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

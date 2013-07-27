@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T14:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4799-4800", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4799", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-11T14:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4800", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the King (IA) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt580-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2011-07-11", 
+  "number": 580, 
+  "purpose": "An amendment to provide a transfer of $1 million to the Army Corps of Engineers to conduct a study of the Missouri River flooding.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-07-11", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

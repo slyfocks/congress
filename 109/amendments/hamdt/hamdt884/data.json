@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-23T15:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3080", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3080", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Bonilla.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23T15:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bonilla amendment (A014) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt884-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5384-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the environmental quality incentives program.", 
+  "house_number": 14, 
+  "introduced_at": "2006-05-23", 
+  "number": 884, 
+  "purpose": "An amendment to add a new section at the end of the bill which states that the limitation in section 721 shall not apply below a program level of $1,127,000,000.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Bonilla, Henry", 
+    "state": "TX", 
+    "thomas_id": "00107", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-23T15:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-05-18T18:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3155-3160", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3155-3156", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-05-18T19:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 187, 
+      "text": "On agreeing to the Waxman amendment (A002) Failed by recorded vote: 201 - 226 (Roll no. 187).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt531-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2432-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2432
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to establish in the legislative branch the Independent Commission on Politicization of Science in the Regulatory Process.", 
+  "house_number": 2, 
+  "introduced_at": "2004-05-18", 
+  "number": 531, 
+  "purpose": "An amendment numbered 2 printed in part D of House Report 108-497 to create an expert commission to study the politicization of science and make recommendations for how to protect science in the regulatory process from political and ideological manipulation and interference. The amendment also seeks to improve the regulatory process by protecting the integrity of science in federal desision making.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-05-18T19:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T16:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3841-3843, H3853", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3841", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Cicilline.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T18:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 385, 
+      "text": "On agreeing to the Cicilline amendment (A002) Failed by recorded vote: 154 - 266 (Roll no. 385).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt350-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for State and local grants, including the Urban Areas Security Initiative (UASI) by $337 million offset by reductions in Border Security Fencing, Infrastructure and Technology accounts of a similar amount.", 
+  "house_number": 2, 
+  "introduced_at": "2011-06-01", 
+  "number": 350, 
+  "purpose": "An amdendment to increase funding, by offset, for state and local programsby $337,000,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "thomas_id": "02055", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-01T18:43:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

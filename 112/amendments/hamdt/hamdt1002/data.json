@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-28T21:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1731-1738", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1731-1734", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) in the nature of a substitute offered by Mr. Honda.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-29T12:12:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1762-1763", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 148, 
+      "text": "On agreeing to the Honda amendment Failed by recorded vote: 78 - 346 (Roll no. 148).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1002-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres112-112", 
+    "bill_type": "hconres", 
+    "congress": 112, 
+    "number": 112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute sought to insert the Congressional Progressive Caucus budget proposal.", 
+  "house_number": 4, 
+  "introduced_at": "2012-03-28", 
+  "number": 1002, 
+  "purpose": "An amendment in the nature of a substitute numbered 4 printed in House Report 112-423 consisting of the Congressional Progressive Caucus alternative to provide for deficit reduction and job creation that protects the social safety net.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Honda, Michael M.", 
+    "state": "CA", 
+    "thomas_id": "01634", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-29T12:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

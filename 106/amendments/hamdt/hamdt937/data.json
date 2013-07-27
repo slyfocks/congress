@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29T12:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5538-5540", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5538", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Tierney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29T12:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5540", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Skeen raised a point of order against the Tierney amendment (A004). Mr. Skeen stated that the amendment sought to include authorization language in an appropriations bill and as such, constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt937-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2000-06-29", 
+  "number": 937, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to earmark $500,000 to conduct a study on the health risks related to genetically engineered food.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tierney, John F.", 
+    "state": "MA", 
+    "thomas_id": "01535", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-06-29", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

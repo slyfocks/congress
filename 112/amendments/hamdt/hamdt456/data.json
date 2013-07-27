@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-15T22:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4256", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4256", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Chaffetz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15T22:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Chaffetz amendment (A038) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt456-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 38, 
+  "introduced_at": "2011-06-15", 
+  "number": 456, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to prohibit the use of funds to pay the salaries and expenses of personnel who provide nonrecourse marketing assistance loans for mohair.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-15T22:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

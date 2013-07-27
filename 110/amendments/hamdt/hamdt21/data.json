@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-01T13:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2078-2080, H2087", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2078-2079", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-01T14:57:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 114, 
+      "text": "On agreeing to the King (IA) amendment (A001) Failed by recorded vote: 164 - 264 (Roll no. 114).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt21-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr800-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to provide that nothing shall require an employer to employ any person who seeks or has sought employment with the employer in furtherance of such person's other employment or agency status.", 
+  "house_number": 1, 
+  "introduced_at": "2007-03-01", 
+  "number": 21, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-26 to add a section to the bill to amend the National Labor Relations Act to discourage the practice of `salting'. This amendment will change the NLRA to ensure that a company's workers are employed for the sole benefit of that company.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-01T14:57:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

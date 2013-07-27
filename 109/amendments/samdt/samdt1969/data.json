@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11118-11119", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1969 proposed by Senator Stevens for Senator Sarbanes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11119", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1969 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1969-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-03", 
+  "number": 1969, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To authorize the Secretary of the Navy to donate the World War II-era marine railway located at the United States Naval Academy to the Richardson Maritime Heritage Center, Cambridge, Maryland, for non-commercial purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sarbanes, Paul S.", 
+    "state": "MD", 
+    "thomas_id": "01017", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

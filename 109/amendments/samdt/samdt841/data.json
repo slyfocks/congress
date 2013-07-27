@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S6980-6992", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6981", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 841 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "references": [], 
+      "text": "Motion to table amendment SA 841 agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 146.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt841-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 841, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To prohibit the Commission from approving an application for the authorization of the siting, construction, expansion, or operation of facilities located onshore or in State waters for the import of natural gas from a foreign country or the export of natural gas to a foreign country without the approval of the Governor of the State in which the facility would be located.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

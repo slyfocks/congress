@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-20T13:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6764-6765", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6764", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mrs. Musgrave.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-20T13:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Musgrave amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt335-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment deletes funding for the Denali Commission.", 
+  "house_number": 20, 
+  "introduced_at": "2007-06-20", 
+  "number": 335, 
+  "purpose": "An amendment numbered 16 printed in the Congressional Record to strike the $1.8 million apprpriation for the Denali Commission.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Musgrave, Marilyn N.", 
+    "state": "CO", 
+    "thomas_id": "01711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-20T13:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

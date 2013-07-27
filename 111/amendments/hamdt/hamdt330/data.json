@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-15T15:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8142-8143", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8142", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T13:42:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8330", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8330", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 580, 
+      "text": "On agreeing to the Blackburn amendment (A011) Failed by recorded vote: 167 - 259 (Roll no. 580).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt330-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3183-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to make an across-the-board cut of 5% to all funding accounts in the bill.", 
+  "house_number": 11, 
+  "introduced_at": "2009-07-15", 
+  "number": 330, 
+  "purpose": "An amendment numbered 11 printed in Part A of House Report 111-209 to make an across-the-board cut of 5% to all funding accounts in the bill.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T13:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

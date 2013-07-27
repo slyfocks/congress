@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-14T17:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5065-5066", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5065", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A064) offered by Mr. Scalise.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-15T11:38:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5098-5099", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 590, 
+      "text": "On agreeing to the Scalise amendment (A064) Agreed to by recorded vote: 271 - 148 (Roll no. 590).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt667-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment transfers $1 million out of the Corps of Engineers' expense account into the Corps of Engineers' construction account for coastal restoration purposes.", 
+  "house_number": 64, 
+  "introduced_at": "2011-07-14", 
+  "number": 667, 
+  "purpose": "An amendment to increase the Corps of Engineers-Civil-Construction account for the purpose of coastal restoration by $1 million and reduce the Corps of Engineers-Civil-Expenses account by the same amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "thomas_id": "01892", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-15T11:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

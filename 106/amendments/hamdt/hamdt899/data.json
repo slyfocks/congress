@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-26T18:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5126-5128, H5144-5145", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5126", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Sanford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-26T20:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 322, 
+      "text": "On agreeing to the Sanford amendment (A031) Failed by recorded vote: 86 - 312 (Roll no. 322).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt899-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete the $8.2 million appropriation for the Asia Foundation.", 
+  "house_number": 31, 
+  "introduced_at": "2000-06-26", 
+  "number": 899, 
+  "purpose": "An amendment numbered 33 printed in the Congressional Record to strike the $8.2 million appropriation for the Asia Foundation in the Department of State.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Marshall (Mark)", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-26T20:33:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

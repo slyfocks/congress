@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-02", 
+      "references": [
+        {
+          "reference": "CR S8571-8572", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8572", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4772 proposed by Senator Stevens for Senator Carper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4772 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4772-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4772, 
+  "proposed_at": "2006-08-02", 
+  "purpose": "To provide that none of the funds appropriated or otherwise made available by this Act may be obligated or expended to provide award fees to any defense contractor for performance that does not meet the requirements of the contract.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carper, Thomas R.", 
+    "state": "DE", 
+    "thomas_id": "00179", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-02", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

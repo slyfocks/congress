@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-22T10:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1507-1509", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1507-1508", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Dent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-22T10:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Dent amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt989-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment protects access to emergency room care and reduces health care costs by extending liability coverage to on-call and emergency room physicians under the Public Health Service Act.", 
+  "house_number": 3, 
+  "introduced_at": "2012-03-22", 
+  "number": 989, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-416 to address the crisis in access to emergency care by extending liability coverage to on-call and emergency room physicians under the Public Health Service Act.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dent, Charles W.", 
+    "state": "PA", 
+    "thomas_id": "01799", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-22T10:53:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

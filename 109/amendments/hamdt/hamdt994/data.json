@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-09T11:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3678-3679", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3678", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Terry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-09T11:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Terry amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt994-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5522-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5522
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides that none of the funds in the bill may be used in violation of Federal law concerning rights in technical data.", 
+  "house_number": 10, 
+  "introduced_at": "2006-06-09", 
+  "number": 994, 
+  "purpose": "An amendment numbered 12 printed in the Congressional Record to limit funds in the bill for use in contravention of laws regarding importation of counterfeit goods and services.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-09T11:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

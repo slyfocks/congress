@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-15T17:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H780-781, H786-787", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H780", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Deutch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-15T18:43:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 63, 
+      "text": "On agreeing to the Deutch amendment (A012) Failed by recorded vote: 188 - 236 (Roll no. 63).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt943-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3408-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3408
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require a person to include in the application for a drilling lease an estimate of the economic impact, including job losses, resulting from a worst-case discharge of oil from facilities operating under the lease.", 
+  "house_number": 12, 
+  "introduced_at": "2012-02-15", 
+  "number": 943, 
+  "purpose": "An amendment numbered 12 printed in Part A of House Report 112-398 to require a person to include in the application for a drilling lease an estimate of the economic impact, including job losses, resulting from a worst-case discharge of oil from facilities operating under the lease.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Deutch, Theodore E.", 
+    "state": "FL", 
+    "thomas_id": "01976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-15T18:43:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T20:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5550-5552, H5553-5561", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5550", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Dicks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-27T13:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5601", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 652, 
+      "text": "On agreeing to the Dicks amendment (A012) Agreed to by recorded vote: 224 - 202 (Roll no. 652).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt735-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes the proviso which blocks the Fish and Wildlife Service from listing candidate species as either threatened or endangered as well as the designation of the critical habitat necessary for species recovery.", 
+  "house_number": 12, 
+  "introduced_at": "2011-07-26", 
+  "number": 735, 
+  "purpose": "An amendment to strike the proviso relating to funding limitations in the Endangered Species Act.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Dicks, Norman D.", 
+    "state": "WA", 
+    "thomas_id": "00297", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-27T13:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

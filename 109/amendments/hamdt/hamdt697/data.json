@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-09T14:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H835-837, H845", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H835", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-09T15:54:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 36, 
+      "text": "On agreeing to the Paul amendment (A012) Failed by recorded vote: 85 - 322 (Roll no. 36).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt697-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to sunset the provisions in the act after September 30, 2011.", 
+  "house_number": 12, 
+  "introduced_at": "2006-03-09", 
+  "number": 697, 
+  "purpose": "An amendment numbered 12 printed in House Report 109-387 toprovide that the act shall not be in effect after September 30, 2011.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-09T15:54:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

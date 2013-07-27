@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-23T15:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3080-3082, H3096-3097", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3080", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23T17:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 184, 
+      "text": "On agreeing to the Paul amendment (A015) Failed by recorded vote: 34 - 389 (Roll no. 184).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt885-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5384-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds made available in the Act from being used to implement or administer the National Animal Identification System.", 
+  "house_number": 15, 
+  "introduced_at": "2006-05-23", 
+  "number": 885, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to prohibit the use of funds from being made available to implement or administer the National Animal Identification System.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-23T17:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

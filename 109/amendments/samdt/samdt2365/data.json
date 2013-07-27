@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-02", 
+      "references": [
+        {
+          "reference": "CR S12185-12189", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12185", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2365 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12307-12308", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12307-12308", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 291, 
+      "text": "Amendment SA 2365 as modified agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 291.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2365-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2365, 
+  "proposed_at": "2005-11-02", 
+  "purpose": "To prevent a severe reduction in the Federal medical assistance percentage determined for a State for fiscal year 2006 and to extend rebates for prescription drugs to enrollees in Medicaid managed care organizations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

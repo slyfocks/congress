@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-26T17:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7143-7145, H7191-7192", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7143", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Barton (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-26T22:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 555, 
+      "text": "On agreeing to the Barton (TX) amendment (A022) Failed by recorded vote: 153 - 274 (Roll no. 555).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt416-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 501 which states as the sense of Congress that there should be enacted a comprehensive and effective national program of mandatory, market-based limits and incentives on emissions of greenhouse gases that slow, stop, and reverse the growth of such emissions at a rate and in a manner that (1) will not significantly harm the United States economy and (2) will encourage comparable action by other nations that are major trading partners and key contributors to global emissions.", 
+  "house_number": 22, 
+  "introduced_at": "2007-06-26", 
+  "number": 416, 
+  "purpose": "An amendment to strike section 501 expressing the sense of Congress on Global Climate Change.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-26T22:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

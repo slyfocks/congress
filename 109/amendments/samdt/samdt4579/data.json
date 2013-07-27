@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-11", 
+      "references": [
+        {
+          "reference": "CR S7327-7328", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7327-7328", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4579 proposed by Senator Gregg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-11", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4579 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4579-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-11", 
+  "number": 4579, 
+  "proposed_at": "2006-07-11", 
+  "purpose": "To require the Secretary of Homeland Security to revise Management Directive 11056 relative to the treatment of certain sensitive security information.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gregg, Judd", 
+    "state": "NH", 
+    "thomas_id": "00466", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-07-11", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

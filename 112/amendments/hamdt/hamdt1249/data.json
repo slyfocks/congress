@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T21:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3549-3550, H3573", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3549", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 355, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A018) Failed by recorded vote: 60 - 355 (Roll no. 355).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1249-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Transportation Security Administration Aviation Security account by $61 million and to increase the Federal Air Marshals account by $50 million.", 
+  "house_number": 18, 
+  "introduced_at": "2012-06-06", 
+  "number": 1249, 
+  "purpose": "An amendment to reduce the Transportation Security Administration Aviation Security account by $61 million and increase the Federal Air Marshals account by $50 million.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T23:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

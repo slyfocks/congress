@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-15", 
+      "references": [
+        {
+          "reference": "CR S10072", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10072", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1716 proposed by Senator Shelby for Senator Inouye.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1716 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1716-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-14", 
+  "number": 1716, 
+  "proposed_at": "2005-09-15", 
+  "purpose": "To extend the provisions on an expiring provision of the Universal Service Antideficiency Temporary Suspension Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inouye, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "01369", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-15", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

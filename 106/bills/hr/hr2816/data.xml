@@ -1,0 +1,113 @@
+<bill session="106" type="h" number="2816" updated="2013-07-14T18:54:09-04:00">
+  <state datetime="2000-12-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-12-28"/>
+  </status>
+  <introduced datetime="1999-09-08"/>
+  <titles>
+    <title as="introduced" type="short">Computer Crime Enforcement Act</title>
+    <title as="passed house" type="short">Computer Crime Enforcement Act</title>
+    <title as="enacted" type="short">Computer Crime Enforcement Act</title>
+    <title as="introduced" type="official">To establish a grant program to assist State and local law enforcement in deterring, investigating, and prosecuting computer crimes.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="400553" joined="1999-09-08"/>
+    <cosponsor id="400057" joined="2000-06-21"/>
+    <cosponsor id="400143" joined="1999-09-28"/>
+    <cosponsor id="400536" joined="1999-09-08"/>
+    <cosponsor id="400160" joined="2000-05-11"/>
+    <cosponsor id="400306" joined="1999-10-13"/>
+    <cosponsor id="400379" joined="2000-03-06"/>
+    <cosponsor id="400390" joined="2000-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1999-09-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1801"/>
+    </action>
+    <action state="REFERRED" datetime="1999-09-08">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-09-17">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-12-15T18:55:00-05:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="2000-12-15T18:55:00-05:00">
+      <text>Mr. McCollum asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2000-12-15T18:58:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H12509-12510" label="consideration"/>
+      <reference ref="CR H12510" label="text of measure as introduced"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-12-15T18:58:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="2000-12-15T18:58:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-12-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11942" label="consideration"/>
+    </vote>
+    <topresident datetime="2000-12-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-12-28">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-12-28" type="public" number="106-572">
+      <text>Became Public Law No: 106-572.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="1314"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Computer crimes"/>
+    <term name="Computer networks"/>
+    <term name="Computer software"/>
+    <term name="Computers and government"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal investigation"/>
+    <term name="Criminal justice information"/>
+    <term name="Economics and public finance"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federal aid to law enforcement"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Fraud"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Indian law enforcement"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Legal education"/>
+    <term name="Minorities"/>
+    <term name="Police training"/>
+    <term name="Prosecution"/>
+    <term name="Science, technology, communications"/>
+    <term name="State laws"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1062"/>
+  </amendments>
+  <summary>12/15/2000--Passed House amended.
+Computer Crime Enforcement Act - Directs the Office of Justice Programs to make a grant to each State to be used for programs to: (1) assist State and local law enforcement agencies in enforcing criminal laws relating to computer crime and in educating the public to prevent and identify computer crime; (2) educate and train State and local law enforcement officers and prosecutors to conduct investigations and forensic analyses of evidence and prosecutions of computer crime; (3) assist State and local law enforcement officers and prosecutors in acquiring computer and other equipment to conduct investigations and forensic analysis of evidence of computer crimes; and (4) facilitate and promote the sharing of Federal law enforcement expertise and information about the investigation, analysis, and prosecution of computer crimes with State and local law enforcement officers and prosecutors, including the use of multi-jurisdictional task forces.Requires a State, to be eligible to receive a grant, to provide assurances to the Attorney General that the State has: (1) laws in effect that penalize computer crime; (2) made an assessment of the State and local resource needs; and (3) a plan for coordinating the programs funded under this Act with other federally funded technical assistant and training programs.Sets the Federal share of a grant at up to 90 percent, subject to a waiver. Authorizes appropriations.Authorizes the Attorney General to use amounts made available under this Act for grants to Indian tribes.</summary>
+</bill>

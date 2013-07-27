@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-12-19T00:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12212", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12212", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Government Reform.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-19T00:51:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Government Reform amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt672-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1287-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1287
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute provides for the designation of the \"Robert T. Ferguson Post Office Building\".", 
+  "house_number": 1, 
+  "introduced_at": "2005-12-19", 
+  "number": 672, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsgo00", 
+    "name": "House Government Reform", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-12-19T00:51:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

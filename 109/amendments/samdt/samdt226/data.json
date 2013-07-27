@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2930-2932", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2930", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 226 proposed by Senator Gregg for Senator Thomas.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 226 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt226-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 226, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To restore discretionary funding levels for crucial rural health programs, such as the rural health outreach grant program, the rural hospital flexibility grant program, the small hospital improvement program, tele-health, trauma programs, and rural AED programs to fiscal year 2005 levels.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thomas, Craig", 
+    "state": "WY", 
+    "thomas_id": "01149", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-11T17:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6708-6710, H6726-6727", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6708", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-11T19:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 779, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A013) Failed by recorded vote: 156 - 262 (Roll no. 779).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt832-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Senate amendment added a new title at the end of the bill entitled \"Trade Adjustment Assistance\" and appears on page H6771 of the Congressional Record of October 11, 2011.", 
+  "house_number": 13, 
+  "introduced_at": "2011-10-11", 
+  "number": 832, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to insert language in the legislation stating that the compliance date be not later than 3 years.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-11T19:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

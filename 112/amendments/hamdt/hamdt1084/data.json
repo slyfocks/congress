@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-09T19:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2524-2529, H2553-2554", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2524", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A051) offered by Mr. Rohrabacher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T23:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 238, 
+      "text": "On agreeing to the Rohrabacher amendment (A051) Failed by recorded vote: 163 - 262 (Roll no. 238).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1084-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 51, 
+  "introduced_at": "2012-05-09", 
+  "number": 1084, 
+  "purpose": "An amendment to prohibit the use of funds to be used with respect to preventing the States of Alaska, Arizona, California, Colorado, Delaware, District of Columbia, Hawaii, Maine, Maryland, Michigan, Montana, Nevada, New Jersey, New Mexico, Oregon, Rhode Island, Vermont, and Washington from implementing their own State laws that authorize the use, distribution, possession, or cultivation of medical marijuana.", 
+  "sponsor": {
+    "district": "46", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-09T23:42:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

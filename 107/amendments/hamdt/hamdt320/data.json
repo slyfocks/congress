@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-03T12:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6226-6227, H6235", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6226", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Boswell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-03T14:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 363, 
+      "text": "On agreeing to the Boswell amendment (A002) Failed by recorded vote: 100 - 323, 1 Present (Roll no. 363).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt320-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide for the creation of a government-owned and farmer-stored renewable energy reserve containing an amount of farm commodities equal to 4 months' production of ethanol and biodiesel.", 
+  "house_number": 2, 
+  "introduced_at": "2001-10-03", 
+  "number": 320, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to add a new section creating a renewable reserve of agricultural commodities.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boswell, Leonard L.", 
+    "state": "IA", 
+    "thomas_id": "01466", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-03T14:30:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

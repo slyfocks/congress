@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-09-16T18:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9632-9634", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9632-9633", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. McMorris Rodgers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-17T12:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H9693-9694", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9694", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 711, 
+      "text": "On agreeing to the McMorris Rodgers amendment (A004) Failed by recorded vote: 167 - 251 (Roll no. 711).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt427-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3221-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3221
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to limit the ability of certain schools that received funding under the economic stimulus package for school construction from receiving additional money through the new Federal school construction program authorized under the bill.", 
+  "house_number": 4, 
+  "introduced_at": "2009-09-16", 
+  "number": 427, 
+  "purpose": "An amendment numbered 4 printed in House Report 111-256 to limit the ability of certain schools that received funding under the economic stimulus package for school construction from receiving additional money through the new Federal school construction program authorized under this bill.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McMorris Rodgers, Cathy", 
+    "state": "WA", 
+    "thomas_id": "01809", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-09-17T12:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

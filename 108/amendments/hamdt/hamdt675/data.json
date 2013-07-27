@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-13T13:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5566-5567, H5580", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5566", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-13T14:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 364, 
+      "text": "On agreeing to the Weiner amendment (A007) Agreed to by recorded vote: 223 - 197 (Roll no. 364).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt675-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4766-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases funding for the Animal and Plant Health Inspection Services.", 
+  "house_number": 7, 
+  "introduced_at": "2004-07-13", 
+  "number": 675, 
+  "purpose": "An amendment offered en bloc to increase funds (by transfer) in the amount of $18 million for APHIS (Animal and Plant Health Inspection Service) accounts.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-07-13T14:43:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

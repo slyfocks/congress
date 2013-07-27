@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-29T15:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2007-2008", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2007", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-29T15:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Ellison amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt200-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr839-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 839
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to include Congressional findings on various facts about the HAMP program, including cost and number of permanent modifications.", 
+  "house_number": 2, 
+  "introduced_at": "2011-03-29", 
+  "number": 200, 
+  "purpose": "An amendment numbered 2 printed in Part A of House Report 112-34 to include Congressional findings on various facts about the HAMP program, including cost and number of permanent modifications.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-29T15:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

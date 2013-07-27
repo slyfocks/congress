@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-09T12:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6922-6932, H6951", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6922", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-09T12:43:00-04:00", 
+      "references": [], 
+      "text": "Mr. Boehner raised a point of order against the Obey amendment (A019). Point of order raised against the amendment stating that it constituted legislation in an appropriations bill. Point of order overruled by the Chair.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-09T16:19:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 434, 
+      "text": "On agreeing to the Obey amendment (A019) Agreed to by recorded vote: 223 - 193 (Roll no. 434).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt734-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5006-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5006
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 19, 
+  "introduced_at": "2004-09-09", 
+  "number": 734, 
+  "purpose": "An amendment to prohibit the use of funds to enforce a Labor Department final rule which went into effect on August 23, 2004 regarding overtime protection. The amendment would permit the enforcement of that part of the rule that extends overtime protection to certain low-income workers.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-09-09T16:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

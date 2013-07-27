@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-05", 
+      "references": [
+        {
+          "reference": "CR S11072-11076, S11118-11119", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11072", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2004 proposed by Senator Graham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-05", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11119", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2004 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2004-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-04", 
+  "number": 2004, 
+  "proposed_at": "2005-10-05", 
+  "purpose": "To require the President to submit the procedures for the Combatant Status Review Tribunals and Administrative Review Boards to determine the status of detainees held at Guantanamo Bay, Cuba.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "thomas_id": "00452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-05", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

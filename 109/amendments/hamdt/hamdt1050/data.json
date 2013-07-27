@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-14T15:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3949-3952, H3958", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3949", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A044) offered by Mr. Rangel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14T17:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 284, 
+      "text": "On agreeing to the Rangel amendment (A044) Failed by recorded vote: 183 - 245 (Roll no. 284).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1050-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit the use of funds made available in the Act from being used to implement, administer, or enforce the economic embargo of Cuba.", 
+  "house_number": 44, 
+  "introduced_at": "2006-06-14", 
+  "number": 1050, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-14T17:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

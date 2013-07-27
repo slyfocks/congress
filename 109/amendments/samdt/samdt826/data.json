@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-21", 
+      "references": [
+        {
+          "reference": "CR S6892-6896, S6897-6898", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 826 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S6980, S6997-7029", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7005", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 148, 
+      "text": "Amendment SA 826 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 148.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt826-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-21", 
+  "number": 826, 
+  "proposed_at": "2005-06-21", 
+  "purpose": "To provide for a program to accelerate the reduction of greenhouse gas emissions in the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-28T11:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1997-1998", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1997-1998", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-28T11:46:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Frank (MA) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt15-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr556-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 556
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Manager's amendment consists of the text of the amendment printed on pages H1997-H1998 in the Congressional Record for February 28, 2007.", 
+  "house_number": 1, 
+  "introduced_at": "2007-02-28", 
+  "number": 15, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record making sundry changes to the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-28T11:46:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

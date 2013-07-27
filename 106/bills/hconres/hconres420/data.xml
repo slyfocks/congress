@@ -1,0 +1,44 @@
+<bill session="106" type="hc" number="420" updated="2013-07-14T18:55:27-04:00">
+  <state datetime="2000-10-10">REFERRED</state>
+  <status>
+    <introduced datetime="2000-10-10"/>
+  </status>
+  <introduced datetime="2000-10-10"/>
+  <titles>
+    <title as="introduced" type="official">Providing for corrections in the enrollment of the bill H.R. 4461.</title>
+  </titles>
+  <sponsor id="400211"/>
+  <cosponsors>
+    <cosponsor id="400300" joined="2000-10-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-10">
+      <text>Referred to the Committee on Commerce, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2000-10-10">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="2000-10-10">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2000-10-25">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Economics and public finance"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/10/2000--Introduced.
+Provides for corrections in the enrollment of H.R. 4461 (medicine equity and drug safety).</summary>
+</bill>

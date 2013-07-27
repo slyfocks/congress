@@ -1,0 +1,95 @@
+<bill session="106" type="h" number="3184" updated="2013-07-14T18:54:18-04:00">
+  <state datetime="2000-11-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-11-09"/>
+  </status>
+  <introduced datetime="1999-10-28"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Zohreh Farhang Ghahfarokhi.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-28">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-10-29">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-10-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2218-2219"/>
+    </action>
+    <action datetime="2000-07-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-07-27">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-09-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-09-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2000-09-26T13:15:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 106-893.</text>
+    </action>
+    <calendar datetime="2000-09-26T13:15:00-04:00" calendar="Private" number="14">
+      <text>Placed on the Private Calendar, Calendar No. 14.</text>
+    </calendar>
+    <action datetime="2000-10-03T10:01:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+    </action>
+    <action datetime="2000-10-03T10:01:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+      <reference ref="CR H8627" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-03T10:01:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H8627" label="text"/>
+    </vote>
+    <action datetime="2000-10-03T10:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-04">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-10-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11269" label="consideration"/>
+    </vote>
+    <topresident datetime="2000-10-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-10-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-11-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-11-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-11-09" type="private" number="106-11">
+      <text>Became Private Law No: 106-11.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/1999--Introduced.
+Declares a named individual to be eligible for issuance of an immigrant visa or for adjustment of status to that of an alien lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

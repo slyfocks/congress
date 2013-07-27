@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-01T11:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3383, H3389-3390", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3383", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Ms. Hahn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-01T12:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 314, 
+      "text": "On agreeing to the Hahn amendment (A012) Failed by recorded vote: 139 - 245 (Roll no. 314).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1181-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funds for Energy Efficiency and Renewable Energy by $50,000,000 and reduce funds for Fossil Energy Research and Development by $100,000,000.", 
+  "house_number": 12, 
+  "introduced_at": "2012-06-01", 
+  "number": 1181, 
+  "purpose": "An amendment to increase funds for Energy Efficiency and Renewable Energy by $50,000,000 and reduce funds for Fossil Energy Research and Development by $100,000,000.", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Hahn, Janice", 
+    "state": "CA", 
+    "thomas_id": "02089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-01T12:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

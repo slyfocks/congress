@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-26T16:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2177-2179", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2178", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Ms. Richardson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-26T16:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2177", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "text": "On agreeing to the Richardson amendment (A014) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1032-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3523-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3523
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to make explicit that nothing in the legislation would prohibit a department or agency of the federal government from providing cyber threat information to owners and operators of critical infrastructure.", 
+  "house_number": 14, 
+  "introduced_at": "2012-04-26", 
+  "number": 1032, 
+  "purpose": "An amendment numbered 10 printed in House Report 112-454 to make explicit that nothing in the legislation would prohibit a department or agency of the federal government from providing cyber threat information to owners and operators of critical infrastructure.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Richardson, Laura", 
+    "state": "CA", 
+    "thomas_id": "01883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-04-26T16:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

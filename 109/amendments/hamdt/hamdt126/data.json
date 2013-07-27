@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12T13:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3234-3236", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3234", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Castle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12T13:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Castle amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt126-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1544-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1544
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides civil liability protection to persons who donate fire control or fire rescue equipment to a volunteer fire company.", 
+  "house_number": 5, 
+  "introduced_at": "2005-05-12", 
+  "number": 126, 
+  "purpose": "An amendment numbered 5 printed in House Report 109-77 to better equip and protect our communities' firefighters and encourage donations by raising the liability standard for donors of fire fighting equipment from negligence to gross negligence.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-12T13:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

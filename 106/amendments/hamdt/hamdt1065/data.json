@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-12-15T19:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12513", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12513", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. McCollum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15T19:07:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McCollum amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1065-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5562-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 5562
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment is technical in nature.", 
+  "house_number": 1, 
+  "introduced_at": "2000-12-15", 
+  "number": 1065, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "McCollum, Bill", 
+    "state": "FL", 
+    "thomas_id": "00761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-12-15T19:07:00-05:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

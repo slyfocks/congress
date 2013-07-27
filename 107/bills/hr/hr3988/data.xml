@@ -1,0 +1,109 @@
+<bill session="107" type="h" number="3988" updated="2013-07-14T18:58:21-04:00">
+  <state datetime="2002-12-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2002-12-02"/>
+  </status>
+  <introduced datetime="2002-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 36, United States Code, to clarify the requirements for eligibility in the American Legion.</title>
+  </titles>
+  <sponsor id="400544"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2002-04-01">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-04-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-04-17">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-07-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-07-12T15:11:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 107-571.</text>
+    </action>
+    <calendar datetime="2002-07-12T15:12:00-04:00" calendar="House" number="192">
+      <text>Placed on the House Calendar, Calendar No. 192.</text>
+    </calendar>
+    <action datetime="2002-07-15T14:26:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-07-15T14:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4585-4586" label="consideration"/>
+    </action>
+    <action datetime="2002-07-15T14:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate H.R. 3988.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-07-15T14:34:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4585" label="text"/>
+    </vote>
+    <action datetime="2002-07-15T14:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-07-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2002-11-14">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-11-14">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2002-11-14" calendar="Senate Legislative" under="General Orders" number="758">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 758.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2002-11-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11147-11148" label="consideration"/>
+    </vote>
+    <topresident datetime="2002-11-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2002-11-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2002-11-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2002-12-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2002-12-02" type="public" number="107-309">
+      <text>Became Public Law No: 107-309.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="s" number="2934"/>
+    <bill relation="unknown" session="107" type="s" number="2934"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel"/>
+    <term name="Veterans' organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/2002--Reported to House without amendment.
+Revises American Legion eligibility requirements by providing that individuals who continue to serve honorably in the armed forces during or after (currently, after) specified periods shall be eligible.</summary>
+</bill>

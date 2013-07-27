@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-20", 
+      "references": [
+        {
+          "reference": "CR S10216-10217", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10217", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1749 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1749 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1749-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-20", 
+  "number": 1749, 
+  "proposed_at": "2005-09-20", 
+  "purpose": "To insert provisions related to conflicts of interest among members of advisory panels of the Food and Drug Administration.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-20", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

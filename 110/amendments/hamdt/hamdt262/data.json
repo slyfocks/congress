@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-14T21:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6423-6424", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6423", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Ms. Brown-Waite, Ginny.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T10:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6484", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 471, 
+      "text": "On agreeing to the Brown-Waite, Ginny amendment (A012) Agreed to by recorded vote: 241 - 179 (Roll no. 471).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt262-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding (by transfer) for the border security fencing, infrastructure, and technology account by $89,125,000.", 
+  "house_number": 12, 
+  "introduced_at": "2007-06-14", 
+  "number": 262, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to increase funding (by transfer) for the border security fencing, infrastructure, and technology account by $89.125 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brown-Waite, Ginny", 
+    "state": "FL", 
+    "thomas_id": "01713", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T10:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

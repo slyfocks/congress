@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-18T18:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4965-4966, H5000", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4965", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-18T21:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 477, 
+      "text": "On agreeing to the Markey amendment (A017) Failed by recorded vote: 150 - 268 (Roll no. 477).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1394-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the funding for missile defense by $75 million and to apply the savings to the spending reduction account.", 
+  "house_number": 17, 
+  "introduced_at": "2012-07-18", 
+  "number": 1394, 
+  "purpose": "An amendment to reduce the funding for missile defense by $75 million and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-18T21:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

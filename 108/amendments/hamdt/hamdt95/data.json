@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-30T15:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3525-3526", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3525", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Kirk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-30T15:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kirk amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt95-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1350-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1350
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment expresses the sense of Congress that safe and drug-free schools are essential for the learning and development of children with disabilities.", 
+  "house_number": 9, 
+  "introduced_at": "2003-04-30", 
+  "number": 95, 
+  "purpose": "An amendment numbered 9 printed in House Report 108-79 to express the sense of Congress that providing special need s students with a safe, and drug-free learning environment is a laudable goal.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-04-30T15:30:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

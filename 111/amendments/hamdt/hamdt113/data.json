@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-05-07T13:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5357-5358, H5367-5368", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5357", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-07T15:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 240, 
+      "text": "On agreeing to the Price (GA) amendment (A007) Failed by recorded vote: 167 - 259 (Roll no. 240).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt113-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1728-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to delay the enactment of titles I, II, and III of the bill until the Federal Reserve certifies that it will not reduce the availability of, or increase the price of credit for, qualified mortgages.", 
+  "house_number": 7, 
+  "introduced_at": "2009-05-07", 
+  "number": 113, 
+  "purpose": "An amendment numbered 7 printed in House Report 111-98 to delay the enactment of titles I, II, and III of the bill until the Federal Reserve certifies that they will not reduce the availability or increase the price of credit for qualified mortgages.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-05-07T15:03:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T17:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H417-421", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H417", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Green (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13T17:50:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 23, 
+      "text": "On agreeing to the Green (TX) amendment (A005) Agreed to by recorded vote: 327 - 101 (Roll no. 23).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt419-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment deleted section 305 which guaranteed special television media rates for advertising for political candidates.", 
+  "house_number": 5, 
+  "introduced_at": "2002-02-13", 
+  "number": 419, 
+  "purpose": "Amendment numbered 11 printed in the Congressional Record of February 12, 2002 to strike any bill language regarding preferential television advertising rates for candidates and parties.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Green, Gene", 
+    "state": "TX", 
+    "thomas_id": "00462", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-02-13T17:50:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

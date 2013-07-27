@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-26T14:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7102-7104, H7108", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7102-7103", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Lujan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-26T16:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 805, 
+      "text": "On agreeing to the Lujan amendment (A001) Failed by recorded vote: 189 - 233 (Roll no. 805).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt843-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1904-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1904
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt all Native American sacred and cultural sites from the land conveyance.", 
+  "house_number": 1, 
+  "introduced_at": "2011-10-26", 
+  "number": 843, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 112-258 to exempt all Native American sacred and cultural sites from the land conveyance.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lujan, Ben Ray", 
+    "state": "NM", 
+    "thomas_id": "01939", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-26T16:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

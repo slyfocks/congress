@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11902-11905", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11902", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2246 proposed by Senator Harkin for Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S11902", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2246 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2246-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-25", 
+  "number": 2246, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To ensure that the Current Employment Survey maintains the content of the survey issued prior to August 2005 with respect to the collection of data for the women worker series.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-26", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

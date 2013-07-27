@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-22T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4407-4409, H4416", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4407", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-22T18:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 474, 
+      "text": "On agreeing to the Capps amendment (A008) Failed by recorded vote: 180 - 242 (Roll no. 474).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt488-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2021-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2021
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add a section allowing States with delegated authority to enact local air quality protections for offshore drilling.", 
+  "house_number": 8, 
+  "introduced_at": "2011-06-22", 
+  "number": 488, 
+  "purpose": "An amendment numbered 8 printed in Part A of House Report 112-111 to preserve state authority over OCS sources where states have been delegated authority to issue air permits for offshore drilling activities.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-22T18:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

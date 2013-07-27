@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-19T12:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2003-2005", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2003-2004", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-19T13:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 175, 
+      "text": "On agreeing to the Levin amendment (A002) Failed by the Yeas and Nays: 175 - 236 (Roll no. 175).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1018-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr9-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 9
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute sought to replace the deduction in the underlying bill with a deduction for small businesses for the amounts they spend on capital investments in 2012.", 
+  "house_number": 2, 
+  "introduced_at": "2012-04-19", 
+  "number": 1018, 
+  "purpose": "Amendment in the nature of a substitute.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Levin, Sander M.", 
+    "state": "MI", 
+    "thomas_id": "00683", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-04-19T13:18:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

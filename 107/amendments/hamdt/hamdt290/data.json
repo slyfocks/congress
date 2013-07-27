@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T16:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5130-5133, H5133-5134", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5130", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Green (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T17:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 312, 
+      "text": "On agreeing to the Green (TX) amendment (A005) Failed by recorded vote: 154 - 275 (Roll no. 312).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt290-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to remove an exemption in current law on intrastate pipelines in California.", 
+  "house_number": 5, 
+  "introduced_at": "2001-08-01", 
+  "number": 290, 
+  "purpose": "Part B amendment numbered 5 printed in House Report 107-178 to lift the ability of the state of California to utilize the Hinshaw exemption, which prevents the Federal Energy Regulatory Commission (FERC) from ensuring low-cost natural gas transmission inside the state.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Green, Gene", 
+    "state": "TX", 
+    "thomas_id": "00462", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-08-01T17:54:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-01T17:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7656-7661", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7656-7658", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Young (AK).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-01T17:45:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 421, 
+      "text": "On agreeing to the Young (AK) amendment (A001) Agreed to by recorded vote: 223 - 202 (Roll no. 421).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt383-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3150-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3150
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment clarifies language in the bill; authorizes $1.5 billion to cover increased security expenses at airports; authorizes the deputization of airport screeners as Federal transportation security agents; and provides for a limitation on liability for damages arising out of crashes of Sept. 11, 2001.", 
+  "house_number": 1, 
+  "introduced_at": "2001-11-01", 
+  "number": 383, 
+  "purpose": "An amendment made in order pursuant to section 3 of H. Res. 274.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-11-01T17:45:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

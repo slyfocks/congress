@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-10T14:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H964-968, H970-971", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H964", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Ackerman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-10T16:08:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 51, 
+      "text": "On agreeing to the Ackerman amendment (A006) Failed by recorded vote: 141 - 276 (Roll no. 51).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt474-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr339-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 339
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to expand the definitions in the act to exclude any establishment that manufactures or sells meat from downed animals for human consumption from the protections of the bill.", 
+  "house_number": 6, 
+  "introduced_at": "2004-03-10", 
+  "number": 474, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to change the definition in the bill of a \"manufacturer\" and \"seller\" so that it does not apply to meat slaughtering, packing, canning or rendering establishments that manufacture or distribute, for human consumption, cattle, sheep, swine, goats, or horses or other equines, that, at the point of examination and inspection are unable to stand or walk unassisted.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ackerman, Gary L.", 
+    "state": "NY", 
+    "thomas_id": "00004", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-03-10T16:08:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

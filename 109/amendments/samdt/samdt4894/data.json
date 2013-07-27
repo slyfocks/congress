@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-07", 
+      "references": [
+        {
+          "reference": "CR S9092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9092", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4894 proposed by Senator Stevens for Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-07", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4894 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4894-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-06", 
+  "number": 4894, 
+  "proposed_at": "2006-09-07", 
+  "purpose": "To make available from Other Procurement, Army, up to $1,500,000 for a Convoy Training Simulator for the Montana Army National Guard.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-07", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

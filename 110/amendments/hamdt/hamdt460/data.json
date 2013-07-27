@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T23:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7321-7322", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7321", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-28T17:37:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7396-7397", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 587, 
+      "text": "On agreeing to the Davis, Tom amendment (A007) Failed by recorded vote: 146 - 279 (Roll no. 587).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt460-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2007-06-27", 
+  "number": 460, 
+  "purpose": "An amendment to decrease funding (by transfer) regarding the Salaries and Expenses of the Office of Special Counsel by $1 million.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-28T17:37:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,124 @@
+<bill session="106" type="hc" number="271" updated="2013-07-14T18:55:23-04:00">
+  <state datetime="2000-10-19T20:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-19T20:04:00-04:00"/>
+  </status>
+  <introduced datetime="2000-03-08"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the support of Congress for activities to increase public awareness of multiple sclerosis.</title>
+  </titles>
+  <sponsor id="400613"/>
+  <cosponsors>
+    <cosponsor id="400525" joined="2000-05-04"/>
+    <cosponsor id="400023" joined="2000-04-04"/>
+    <cosponsor id="400034" joined="2000-04-04"/>
+    <cosponsor id="400527" joined="2000-06-22"/>
+    <cosponsor id="400067" joined="2000-05-04"/>
+    <cosponsor id="400100" joined="2000-05-04"/>
+    <cosponsor id="400580" joined="2000-03-28"/>
+    <cosponsor id="400114" joined="2000-04-11"/>
+    <cosponsor id="400584" joined="2000-04-11"/>
+    <cosponsor id="400143" joined="2000-03-28"/>
+    <cosponsor id="400144" joined="2000-03-28"/>
+    <cosponsor id="400152" joined="2000-05-04"/>
+    <cosponsor id="400160" joined="2000-03-28"/>
+    <cosponsor id="400538" joined="2000-04-04"/>
+    <cosponsor id="400213" joined="2000-04-04"/>
+    <cosponsor id="400215" joined="2000-03-23"/>
+    <cosponsor id="400219" joined="2000-04-04"/>
+    <cosponsor id="400537" joined="2000-07-17"/>
+    <cosponsor id="400231" joined="2000-03-28"/>
+    <cosponsor id="400236" joined="2000-07-17"/>
+    <cosponsor id="400247" joined="2000-04-04"/>
+    <cosponsor id="400251" joined="2000-04-04"/>
+    <cosponsor id="400263" joined="2000-04-04"/>
+    <cosponsor id="400269" joined="2000-05-04"/>
+    <cosponsor id="400554" joined="2000-04-04"/>
+    <cosponsor id="400524" joined="2000-03-23"/>
+    <cosponsor id="400292" joined="2000-04-13"/>
+    <cosponsor id="400306" joined="2000-04-04"/>
+    <cosponsor id="400312" joined="2000-05-04"/>
+    <cosponsor id="400314" joined="2000-07-17"/>
+    <cosponsor id="400615" joined="2000-04-04"/>
+    <cosponsor id="400357" joined="2000-04-04"/>
+    <cosponsor id="400359" joined="2000-04-04"/>
+    <cosponsor id="400360" joined="2000-03-28"/>
+    <cosponsor id="400370" joined="2000-04-04"/>
+    <cosponsor id="400373" joined="2000-03-23"/>
+    <cosponsor id="400380" joined="2000-03-28"/>
+    <cosponsor id="400404" joined="2000-04-06"/>
+    <cosponsor id="400407" joined="2000-09-14"/>
+    <cosponsor id="400425" joined="2000-04-04"/>
+    <cosponsor id="400430" joined="2000-05-04"/>
+    <cosponsor id="400436" joined="2000-07-17"/>
+    <cosponsor id="400438" joined="2000-05-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-08">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="2000-03-13">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-10-19T19:44:00-04:00">
+      <text>Mr. Tauzin moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-10-19T19:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10454-10457" label="consideration"/>
+    </action>
+    <action datetime="2000-10-19T19:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 271.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-19T20:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H10454" label="text"/>
+    </vote>
+    <action datetime="2000-10-19T20:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2000-12-15">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice.</text>
+      <reference ref="CR S11936" label="consideration"/>
+    </action>
+    <action datetime="2000-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="sc" number="93"/>
+    <bill relation="identical" session="106" type="sc" number="97"/>
+    <bill relation="unknown" session="106" type="sc" number="97"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Access to health care"/>
+    <term name="Commemorations"/>
+    <term name="Community health services"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Continuum of care"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Federal aid to medical research"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Health education"/>
+    <term name="Higher education"/>
+    <term name="Medical education"/>
+    <term name="Multiple sclerosis"/>
+    <term name="Quality of care"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2000--Introduced.
+Expresses the sense of Congress that: (1) all Americans should take an active role in the fight to end the devastating effects of multiple sclerosis; (2) the role played by national and community organizations and health care professionals in promoting continued funding for research and in providing information about, and access to, the best medical treatment and support services for multiple sclerosis should be recognized; and (3) the Federal Government has a responsibility to continue to fund research so that the causes of, and improved treatment for, multiple sclerosis may be discovered, to continue to consider ways to improve access to, and the quality of, health care services for people with multiple sclerosis, and to endeavor to raise public awareness about the symptoms of multiple sclerosis and health professionals' awareness about the diagnosis of, and treatment for, the disease.</summary>
+</bill>

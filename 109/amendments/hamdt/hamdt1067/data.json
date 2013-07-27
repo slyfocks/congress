@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T17:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4288-4289, H4292", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4288", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T18:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 299, 
+      "text": "On agreeing to the Flake amendment (A012) Failed by recorded vote: 69 - 352, 1 Present (Roll no. 299).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1067-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2006-06-20", 
+  "number": 1067, 
+  "purpose": "An amendment to prohibit funds made available by the Act from being used for the JASON Education Foundation.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-20T18:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

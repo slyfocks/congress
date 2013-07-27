@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-16T09:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4283-4284", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4283", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A052) offered by Mr. Holden.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16T12:59:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4307-4308", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 451, 
+      "text": "On agreeing to the Holden amendment (A052) Failed by recorded vote: 84 - 335 (Roll no. 451).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt470-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 52, 
+  "introduced_at": "2011-06-16", 
+  "number": 470, 
+  "purpose": "An amendment numbered 38 printed in the Congressional Record to reduce each amount made available by the bill by 5.88% and the amounts may not be used to carry out the limitations contained in paragraphs (1) through (8) of section 728.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Holden, Tim", 
+    "state": "PA", 
+    "thomas_id": "00550", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-16T12:59:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

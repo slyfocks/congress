@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-25T19:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8477-8478, H8494-8495", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8477", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Poe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-25T22:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 731, 
+      "text": "On agreeing to the Poe amendment (A026) Agreed to by recorded vote: 395 - 34 (Roll no. 731).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt668-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3093-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment adds $10 million to a fund established for victims of crimes.", 
+  "house_number": 26, 
+  "introduced_at": "2007-07-25", 
+  "number": 668, 
+  "purpose": "An amendment to strike \"$625 million\" and insert, \"$635 million\" on page 75, line 24.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-25T22:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

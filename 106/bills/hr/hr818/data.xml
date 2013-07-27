@@ -1,0 +1,80 @@
+<bill session="106" type="h" number="818" updated="2013-07-14T18:53:11-04:00">
+  <state datetime="1999-03-02T13:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-03-02T13:26:00-05:00"/>
+  </status>
+  <introduced datetime="1999-02-24"/>
+  <titles>
+    <title as="introduced" type="short">Disaster Mitigation Coordination Act of 1999</title>
+    <title as="introduced" type="official">To amend the Small Business Act to authorize a pilot program for the implementation of disaster mitigation measures by small businesses.</title>
+  </titles>
+  <sponsor id="300096"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="1999-02-24"/>
+    <cosponsor id="400360" joined="1999-02-24"/>
+    <cosponsor id="400416" joined="1999-02-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-24">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="1999-02-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-02-25">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Small Business"/>
+    </calendar>
+    <action datetime="1999-03-01T14:24:00-05:00">
+      <text>Reported by the Committee on Small Business. H. Rept. 106-33.</text>
+    </action>
+    <calendar datetime="1999-03-01T14:25:00-05:00" calendar="Union" number="18">
+      <text>Placed on the Union Calendar, Calendar No. 18.</text>
+    </calendar>
+    <action datetime="1999-03-02T13:03:00-05:00">
+      <text>Mr. Talent moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-03-02T13:03:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H842-845" label="consideration"/>
+    </action>
+    <action datetime="1999-03-02T13:03:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 818.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-03-02T13:26:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-03-02T13:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-03-03">
+      <text>Received in the Senate and read twice and referred to the Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup, Reporting"/>
+    <committee code="SSSB" name="Senate Small Business" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="388"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Authorization"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Disaster loans"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1999--Introduced.
+Disaster Mitigation Coordination Act of 1999 - Amends the Small Business Act to authorize the Administrator of the Small Business Administration, during FY 2000 through 2004, to establish a disaster mitigation program for making loans to enable small businesses to implement mitigation measures pursuant to a formal program established by the Federal Emergency Management Agency, except that no such loan may be extended to a small business unless it is otherwise unable to obtain credit for such purposes. Authorizes appropriations.</summary>
+</bill>

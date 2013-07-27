@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T11:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3878-3879", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3878", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Ms. Pelosi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T11:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pelosi amendment (A013) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt145-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment makes available Foods for Peace commodities valued at $25 million to developing nations to assist in mitigating the effects of HIV and AIDS in communities and households, particularly those caring for orphaned children.", 
+  "house_number": 13, 
+  "introduced_at": "2001-07-11", 
+  "number": 145, 
+  "purpose": "An amendment to provide $25,000,000 in funding to assist in mitigating the effects of the HIV virus and AIDS syndrome on communities.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-11T11:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

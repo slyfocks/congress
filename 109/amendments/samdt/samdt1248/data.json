@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-18", 
+      "references": [
+        {
+          "reference": "CR S8401-8402", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8401", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1248 proposed by Senator McConnell for Senator Lieberman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1248 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1248-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-18", 
+  "number": 1248, 
+  "proposed_at": "2005-07-18", 
+  "purpose": "To encourage assistance for programs to address protracted refugee situations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lieberman, Joseph I.", 
+    "state": "CT", 
+    "thomas_id": "01385", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-18", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

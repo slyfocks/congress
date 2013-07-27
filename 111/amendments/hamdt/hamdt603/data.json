@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-04-28T12:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2969-2970", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2969", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-28T12:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt603-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5013-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5013
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2010-04-28", 
+  "number": 603, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-467 to provide that nothing in the Act or amendments made by it shall be construed to affect the competition requirements of 10 U.S.C. 2304 (contract competition requirements).", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-04-28T12:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

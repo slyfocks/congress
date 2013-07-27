@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-16", 
+      "references": [
+        {
+          "reference": "CR S12892-12897, S12905-12906", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12892", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2583 proposed by Senator Akaka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 327, 
+      "text": "Amendment SA 2583 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 327.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2583-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1783-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1783
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-16", 
+  "number": 2583, 
+  "proposed_at": "2005-11-16", 
+  "purpose": "To compute the actuarial value of monthly benefits in the form of a life annuity commencing at age 60 for certain airline pilots.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Akaka, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "00007", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-16", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

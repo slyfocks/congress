@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-10T11:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1300-1302, H1321-1322", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "text CR H1300", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-10T13:59:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 62, 
+      "text": "On agreeing to the Davis, Tom amendment (A011) Agreed to by recorded vote: 224 - 201 (Roll no. 62).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt30-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment removes the requirement that toll rates on high occupancy toll lanes be differentiated for low income drivers.", 
+  "house_number": 11, 
+  "introduced_at": "2005-03-10", 
+  "number": 30, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-15 to remove the requirement that toll rates on high occupancy toll lanes be differentiated for low income drivers.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-10T13:59:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

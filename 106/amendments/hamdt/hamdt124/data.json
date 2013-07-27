@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-25T19:03:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-25T20:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 156, 
+      "text": "On agreeing to the Coburn amendment (A005) Failed by recorded vote: 129 - 289 (Roll no. 156).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt124-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1906-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1906
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce funding for Departmental Administration by $3 million.", 
+  "house_number": 5, 
+  "introduced_at": "1999-05-25", 
+  "number": 124, 
+  "purpose": "An amendment to reduce funding for Departmental Administration by $3, 049,000.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Coburn, Tom A.", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-05-25T20:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

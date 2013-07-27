@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-09T21:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2541-2543, H2556-2557", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2541", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A060) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T23:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 242, 
+      "text": "On agreeing to the Flake amendment (A060) Failed by recorded vote: 209 - 217 (Roll no. 242).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1093-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 60, 
+  "introduced_at": "2012-05-09", 
+  "number": 1093, 
+  "purpose": "An amendment to prohibit the use of funds to be used to carry out the SelectUSA initiative.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-09T23:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

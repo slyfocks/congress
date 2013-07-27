@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T11:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1219-1221", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1220", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A096) offered by Mrs. Emerson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T14:35:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1239-1240", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 100, 
+      "text": "On agreeing to the Emerson amendment (A096) Agreed to by recorded vote: 246 - 182 (Roll no. 100).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt106-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds in H.R. 1 by the Internal Revenue Service to implement or enforce the provisions within the health spending law that require verification that individuals have health care coverage and to impose penalties on those individuals who do not comply.", 
+  "house_number": 96, 
+  "introduced_at": "2011-02-18", 
+  "number": 106, 
+  "purpose": "An amendment numbered 83 printed in the Congressional Record to prohibit the use of funds in H.R. 1 to be used by the Internal Revenue Service to implement or enforce section 5000A of the Internal Revenue Code of 1986, section 6055 of such Code, section 1502(c) of the Patient Protection and Affordable Care Act, or any amendments made by section 1502(b) of such Act.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Emerson, Jo Ann", 
+    "state": "MO", 
+    "thomas_id": "01481", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-18T14:35:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

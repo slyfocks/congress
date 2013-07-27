@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T21:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3554-3556", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3554", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T22:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A021) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1252-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the funds available for State and Local Programs with the Federal Emergency Management Agency by $412,908,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 21, 
+  "introduced_at": "2012-06-06", 
+  "number": 1252, 
+  "purpose": "An amendment to reduce the State and Local Programs with the Federal Emergency Management Agency by $412,908,000 and apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T22:05:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

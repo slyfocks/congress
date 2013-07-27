@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-19T00:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 2/18/2011 H1327-1328, H1340-1341", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 2/18/2011 H1327", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A156) offered by Mr. Carney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-19T02:20:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 142, 
+      "text": "On agreeing to the Carney amendment (A156) Failed by recorded vote: 121 - 300 (Roll no. 142).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt166-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 156, 
+  "introduced_at": "2011-02-19", 
+  "number": 166, 
+  "purpose": "An amendment numbered 241 printed in the Congressional Record to prohibit the use of funds for the Oil and Gas Research and Development Program of the Department of Energy.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carney, John C., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01999", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-19T02:20:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

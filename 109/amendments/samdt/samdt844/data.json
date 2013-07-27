@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S7042-7046, S7048", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7042", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 844 proposed by Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 151, 
+      "text": "Amendment SA 844 not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 151.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt844-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 844, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To express the sense of the Senate regarding the need for the United States to address global climate change through comprehensive and cost-effective national measures and through the negotiation of fair and binding international commitments under the United Nations Framework Convention on Climate Change.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

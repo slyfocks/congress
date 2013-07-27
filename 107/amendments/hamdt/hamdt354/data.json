@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-04T21:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6357-6359, H6364-6365", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6357-6359", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-04T22:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 368, 
+      "text": "On agreeing to the Sanders amendment (A036) as amended Failed by recorded vote: 194 - 224 (Roll no. 368).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt354-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment originally sought to establish a new voluntary national counter-cyclical income support program for dairy producers. \\   As amended by the Vitter amendment (A037) the limit on pounds of milk per month was increased from 230,000 pounds to 500,000 pounds. \\   As amended by the Obey amendment (A038) language concerning the payments from processors to the trust fund was modified.", 
+  "house_number": 36, 
+  "introduced_at": "2001-10-04", 
+  "number": 354, 
+  "purpose": "An amendment numbered 47 printed in the Congressional Record to add a new section providing a national counter-cyclical income support program for dairy producers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-04T22:49:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

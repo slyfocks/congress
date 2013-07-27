@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-09-29T19:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7312-7313", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7312-7313", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Watt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-29T19:50:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Watt amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt782-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6162-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 6162
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment inserts a complete new text.", 
+  "house_number": 1, 
+  "introduced_at": "2010-09-29", 
+  "number": 782, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-09-29T19:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:58-04:00"
+}

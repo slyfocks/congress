@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15T20:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1024-1025", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1024", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Garrett (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T11:20:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1069-1070", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1069", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 48, 
+      "text": "On agreeing to the Garrett (NJ) amendment (A014) Failed by recorded vote: 75 - 344 (Roll no. 48).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt714-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to decrease the funding for Diplomatic and Consular Programs in the Department of State by $5 million.", 
+  "house_number": 14, 
+  "introduced_at": "2006-03-15", 
+  "number": 714, 
+  "purpose": "An amendment to reduce by $5,000,000 for Diplomatic and Consular Programs.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16T11:20:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

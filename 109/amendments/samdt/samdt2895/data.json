@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-16", 
+      "references": [
+        {
+          "reference": "CR S1379", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1379", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2895 proposed by Senator Frist.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-27", 
+      "references": [
+        {
+          "reference": "CR S1495", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-28", 
+      "references": [
+        {
+          "reference": "CR S1515", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-01", 
+      "references": [
+        {
+          "reference": "CR S1557", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-01", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 24, 
+      "text": "Amendment SA 2895 agreed to in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 24.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2895-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2271-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2271
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-16", 
+  "number": 2895, 
+  "proposed_at": "2006-02-16", 
+  "purpose": "To establish the enactment date of the Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-01", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

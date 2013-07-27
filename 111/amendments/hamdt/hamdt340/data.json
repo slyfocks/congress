@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-15T17:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8158-8159", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8158", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T14:14:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8337-8338", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8337", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 590, 
+      "text": "On agreeing to the Hensarling amendment (A021) Failed by recorded vote: 119 - 308 (Roll no. 590).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt340-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3183-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $500,000 earmark for the Automated Remote Electric and Water Meters in South River project.", 
+  "house_number": 21, 
+  "introduced_at": "2009-07-15", 
+  "number": 340, 
+  "purpose": "An amendment numbered 4 printed in Part D of House Report 111-209 to strike $500,000 for the Automated Remote Electric and Water Meters in South River project and reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T14:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

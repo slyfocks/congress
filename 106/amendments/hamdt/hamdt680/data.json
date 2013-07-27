@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-10T13:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2807-2815", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H2817", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Chabot to the Delahunt amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-10T14:56:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2807-2808", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 155, 
+      "text": "On agreeing to the Chabot amendment (A003) Failed by recorded vote: 90 - 336 (Roll no. 155).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt680-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt679-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 679
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3709-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3709
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Delahunt amendment (A002) sought to provide for a 99-year extension of the moratorium on state and local taxes on Internet access and commerce.", 
+  "house_number": 3, 
+  "introduced_at": "2000-05-10", 
+  "number": 680, 
+  "purpose": "An amendment to the Delahunt amendment to provide for a 99-year extension of the moratorium on state and local taxes on the Internet.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-10T14:56:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

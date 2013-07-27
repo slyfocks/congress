@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-03-14T11:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H920-921", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H920", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-14T11:30:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Scott amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt444-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2146-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2146
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide that that no person subject to the criminal jurisdiction of an Indian tribal government would be covered under the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2002-03-14", 
+  "number": 444, 
+  "purpose": "An amendment to add new section including special provisions for lands occupied by Native Americans.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-03-14T11:30:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

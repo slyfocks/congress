@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-28T11:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4691-4692", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4691", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Lynch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-28T12:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lynch amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1114-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides $12 million for the Bulletproof Vest Partnership Program.", 
+  "house_number": 17, 
+  "introduced_at": "2006-06-28", 
+  "number": 1114, 
+  "purpose": "An amendment to increase funding (by offset) for COPS bulletproof vests by $12,000,000.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lynch, Stephen F.", 
+    "state": "MA", 
+    "thomas_id": "01686", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-28T12:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

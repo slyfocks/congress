@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-27T17:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11004-11005", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11004", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Chabot.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27T17:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Chabot amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt828-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3567-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment establishes a bright-line standard of majority stock ownership for determining whether a venture capital company is affiliated with the companies in which it invests.", 
+  "house_number": 1, 
+  "introduced_at": "2007-09-27", 
+  "number": 828, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-350 to establish a bright line standard of majority stock ownership for determining whether a venture capital company is affiliated with the companies in which it invests.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-27T17:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

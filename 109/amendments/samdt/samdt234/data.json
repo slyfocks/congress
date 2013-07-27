@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2903-2907, S2925-2926", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2903", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 234 proposed by Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 69, 
+      "text": "Amendment SA 234 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 69.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt234-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-17", 
+  "number": 234, 
+  "proposed_at": "2005-03-17", 
+  "purpose": "To ensure that legislation to make cuts in agriculture programs receives full consideration and debate in the Senate under regular order, rather than being fast-tracked under reconciliation procedures.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

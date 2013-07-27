@@ -1,0 +1,96 @@
+<bill session="108" type="h" number="3157" updated="2013-07-14T19:01:59-04:00">
+  <state datetime="2003-11-17T14:32:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-11-17T14:32:00-05:00"/>
+  </status>
+  <introduced datetime="2003-09-24"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the designation of a Department of Agriculture disaster liaison to assist State and local employees of the Department in coordination with other disaster agencies in response to a federally declared disaster area as a result of a disaster.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400002" joined="2003-10-07"/>
+    <cosponsor id="400030" joined="2003-10-20"/>
+    <cosponsor id="400041" joined="2003-10-07"/>
+    <cosponsor id="400065" joined="2003-09-24"/>
+    <cosponsor id="400106" joined="2003-10-07"/>
+    <cosponsor id="400133" joined="2003-10-07"/>
+    <cosponsor id="400137" joined="2003-10-07"/>
+    <cosponsor id="400200" joined="2003-10-20"/>
+    <cosponsor id="400264" joined="2003-10-07"/>
+    <cosponsor id="400297" joined="2003-10-20"/>
+    <cosponsor id="400316" joined="2003-10-20"/>
+    <cosponsor id="400330" joined="2003-10-20"/>
+    <cosponsor id="400400" joined="2003-10-20"/>
+    <cosponsor id="400420" joined="2003-10-01"/>
+    <cosponsor id="400433" joined="2003-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-09-24">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2003-10-01">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2003-10-29">
+      <text>Subcommittee on Department Operations, Oversight, Nutrition and Forestry Discharged.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2003-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-10-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2003-11-17T14:26:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11167-11169" label="consideration"/>
+    </action>
+    <action datetime="2003-11-17T14:26:00-05:00">
+      <text>Mr. Gutknecht moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-11-17T14:26:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3157.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-17T14:32:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11167" label="text"/>
+    </vote>
+    <action datetime="2003-11-17T14:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition, and Forestry" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agricultural subsidies"/>
+    <term name="Department of Agriculture"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters"/>
+    <term name="Emergency management"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal employees"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Forest fires"/>
+    <term name="Government operations and politics"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Transfer of employees"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2003--Passed House amended.
+Directs the Secretary of Agriculture to designate Department of Agriculture employees to serve for up to 30 days as disaster liaisons to State and local Department Service Centers to coordinate assistance with other designated disaster agencies in a federally declared disaster area. Defines "federally declared disaster area" for such purposes.</summary>
+</bill>

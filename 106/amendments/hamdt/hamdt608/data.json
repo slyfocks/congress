@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-23T12:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1299-1300", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Goss.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-23T12:36:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1299", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Goss amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt608-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres446-106", 
+    "bill_type": "hres", 
+    "congress": 106, 
+    "number": 446
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment waives clause 3(b) of House Rule 13, which requires each committee report to include specific vote information from that committee's markup session.", 
+  "house_number": 1, 
+  "introduced_at": "2000-03-23", 
+  "number": 608, 
+  "purpose": "An amendment to make a technical correction in the text of the resolution.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Goss, Porter J.", 
+    "state": "FL", 
+    "thomas_id": "00450", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-23T12:36:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

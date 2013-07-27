@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-19T10:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3444-3448, H3454", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3444", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-19T12:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 209, 
+      "text": "On agreeing to the Vitter amendment (A005) Agreed to by recorded vote: 218 - 187 (Roll no. 209).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt733-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4475-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4475
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits use of funds for engineering work related to an additional runway at New Orleans International Airport.", 
+  "house_number": 5, 
+  "introduced_at": "2000-05-19", 
+  "number": 733, 
+  "purpose": "An amendment to prohibit use of funds for engineering work related to an additional runway at New Orleans International Airport.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-19T12:13:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

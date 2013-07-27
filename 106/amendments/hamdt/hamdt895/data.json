@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-26T16:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5111-5113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5111", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Bilbray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-26T16:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bilbray amendment (A027) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt895-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for the International Boundary and Water Commission between the United States and Mexico by $500,000 and decreases funding for State Department Diplomatic and Consular Programs.", 
+  "house_number": 27, 
+  "introduced_at": "2000-06-26", 
+  "number": 895, 
+  "purpose": "An amendment numbered 17 printed in the Congressional Record to reduce by $500,000 funds for Diplomatic and Consular programs of the State Department and to increase by $500,000 the account for State Department construction.", 
+  "sponsor": {
+    "district": "49", 
+    "name": "Bilbray, Brian P.", 
+    "state": "CA", 
+    "thomas_id": "00087", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-26T16:42:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

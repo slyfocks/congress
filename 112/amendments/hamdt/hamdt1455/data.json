@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T19:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5268-5269", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5268", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Ms. Richardson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:34:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5310", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 523, 
+      "text": "On agreeing to the Richardson amendment (A009) Failed by recorded vote: 173 - 246 (Roll no. 523).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1455-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow for necessary regulations to be promulgated when the monthly national unemployment rate is above 6 percent in order to protect consumers against unintended consequences resulting from the Fair Credit Reporting Act.", 
+  "house_number": 9, 
+  "introduced_at": "2012-07-25", 
+  "number": 1455, 
+  "purpose": "An amendment numbered 9 printed in Part B of House Report 112-616 to allow regulations that protect consumers under the Fair Credit Reporting Act.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Richardson, Laura", 
+    "state": "CA", 
+    "thomas_id": "01883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-26T11:34:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

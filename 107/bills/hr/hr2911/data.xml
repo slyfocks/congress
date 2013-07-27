@@ -1,0 +1,85 @@
+<bill session="107" type="h" number="2911" updated="2013-07-14T18:57:59-04:00">
+  <state datetime="2002-05-07T18:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-05-07T18:57:00-04:00"/>
+  </status>
+  <introduced datetime="2001-09-20"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building located at 5100 Paint Branch Parkway in College Park, Maryland, as the "Harvey W. Wiley Federal Building".</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400524" joined="2001-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-09-20">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2001-09-21">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-03-20">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-03-20">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-05-02T13:24:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-429.</text>
+    </action>
+    <calendar datetime="2002-05-02T13:26:00-04:00" calendar="House" number="150">
+      <text>Placed on the House Calendar, Calendar No. 150.</text>
+    </calendar>
+    <action datetime="2002-05-07T15:06:00-04:00">
+      <text>Mr. Boozman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-05-07T15:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2122-2123" label="consideration"/>
+    </action>
+    <action datetime="2002-05-07T15:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2911.</text>
+    </action>
+    <action datetime="2002-05-07T15:15:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-05-07T18:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2142-2143" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-05-07T18:57:00-04:00" how="roll" result="pass" roll="127" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 127).</text>
+      <reference ref="CR H2122" label="text"/>
+    </vote>
+    <action datetime="2002-05-07T18:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-05-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal office buildings"/>
+    <term name="Maryland"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>5/2/2002--Reported to House without amendment.
+Designates the Federal building located at 5100 Paint Branch Parkway in College Park, Maryland, as the Harvey W. Wiley Federal Building.</summary>
+</bill>

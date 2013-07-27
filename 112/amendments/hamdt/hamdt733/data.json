@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T19:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5548-5549", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5548", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Lamborn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T20:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Lamborn amendment (A010) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt733-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to zero out all land acquistion programs within the Interior, Environment, and Related Agencies bill and to apply the savings to the spending reduction account.", 
+  "house_number": 10, 
+  "introduced_at": "2011-07-26", 
+  "number": 733, 
+  "purpose": "An amendment to zero out land acquisition accounts of BLM, FWS, NPS, and FS.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lamborn, Doug", 
+    "state": "CO", 
+    "thomas_id": "01834", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T20:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

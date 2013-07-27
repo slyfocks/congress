@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-11-06T13:42:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10490-10491", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10490", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Scott (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-06T13:51:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Scott (VA) amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt444-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1829-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete language in the bill concerning transitional mandatory source authority.", 
+  "house_number": 4, 
+  "introduced_at": "2003-11-06", 
+  "number": 444, 
+  "purpose": "An amendment to restore the mandatory source authority by striking the section of the bill that permits the government contracting agency, during the transition period when FPI's mandatory source authority is phased out, to accept a contract bid from FPI only if certain production and price conditions are met, and instead requires the contracting agency to accept FPI's bid subject only to the percentage caps on total sales outlined in the bill.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-11-06T13:51:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

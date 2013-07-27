@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-19", 
+      "references": [
+        {
+          "reference": "CR S10183", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10183", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1732 proposed by Senator Reid for Senator Nelson NE.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20", 
+      "references": [
+        {
+          "reference": "CR S10210-10214", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 236, 
+      "text": "Amendment SA 1732 agreed to in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 236.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1732-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-19", 
+  "number": 1732, 
+  "proposed_at": "2005-09-19", 
+  "purpose": "To prohibit the use of funds for developing a final rule with respect to the importation of beef from Japan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, E. Benjamin", 
+    "state": "NE", 
+    "thomas_id": "01627", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-20", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-19T17:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5060-5061", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5060", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A060) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-19T17:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kucinich amendment (A060) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1437-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 60, 
+  "introduced_at": "2012-07-19", 
+  "number": 1437, 
+  "purpose": "An amendment to prohibit the use of funds to enter into a contract with any person or other entity listed in the Federal Awardee Performance and Integrity Information System (FAPIIS) as having been convicted of fraud against the Federal Government.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-07-19T17:27:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

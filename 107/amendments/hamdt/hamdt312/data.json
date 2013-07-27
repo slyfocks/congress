@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-09-25T13:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6007-6008, H6009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6007", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Norton to the Hostettler amendment (A004).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-09-25T13:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 353, 
+      "text": "On agreeing to the Norton amendment (A005) Failed by recorded vote: 173 - 243 (Roll no. 353).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt312-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt311-107", 
+    "amendment_type": "hamdt", 
+    "congress": 107, 
+    "number": 311
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2944-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2944
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment to the Hostettler amendment (A004) sought to provide that only Federal funds be prohibited from being used to enforce orders against the Boy Scouts of America by the District of Columbia Commission on Human Rights.", 
+  "house_number": 5, 
+  "introduced_at": "2001-09-25", 
+  "number": 312, 
+  "purpose": "An amendment to limit the scope of the Hostettler amendment to Federal funds only.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-09-25T13:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

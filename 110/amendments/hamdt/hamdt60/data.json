@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-27T15:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3123-3128, H3138-3139, H3141-3145", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3123-3126", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Thompson (MS).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27T17:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 194, 
+      "text": "On agreeing to the Thompson (MS) amendment (A001) Agreed to by recorded vote: 224 - 199, 1 Present (Roll no. 194).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-03-27T18:18:00-04:00", 
+      "references": [], 
+      "text": "Mr. Price (GA) demanded a separate vote on the Thompson (MS) amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27T18:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 198, 
+      "text": "On agreeing to the Thompson (MS) amendment (A001) Agreed to by recorded vote: 222 - 197, 5 Present (Roll no. 198).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt60-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1401-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Manager's amendment consists of the text contained in House Report 110-74 and printed on pages H3123-H3126 in the Congressional Record for March 27, 2007.", 
+  "house_number": 1, 
+  "introduced_at": "2007-03-27", 
+  "number": 60, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-74 to make technical and clerical changes to H.R. 1401, as reported by the Committee on Homeland Security. It also clarifies the relationship between the Department of Homeland Security and Transportation in carrying out certain portions of the bill, and modifies the whistleblower protections for federal employees and contractors to make them more similar to those granted in H.R. 985.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-27T18:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

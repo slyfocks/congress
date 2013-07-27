@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29T14:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1516-1519", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-29T15:06:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1516", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 83, 
+      "text": "On agreeing to the Toomey amendment (A002) Agreed to by recorded vote: 420 - 0, 3 Present (Roll no. 83).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt616-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment appropriates $4 billion in FY 2000 funds to reduce the publicly held debt.", 
+  "house_number": 2, 
+  "introduced_at": "2000-03-29", 
+  "number": 616, 
+  "purpose": "An amendment numbered 2 printed in part A of House Report 106-549 to appropriate $4 billion in FY 2000 funds to reduce publicly held debt.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-29T15:06:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

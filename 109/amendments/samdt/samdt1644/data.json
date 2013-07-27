@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-29", 
+      "references": [
+        {
+          "reference": "CR S9377-9379", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9377", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1644 proposed by Senator Craig.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 214, 
+      "text": "Amendment SA 1644 agreed to in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 214.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1644-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s397-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 397
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-29", 
+  "number": 1644, 
+  "proposed_at": "2005-07-29", 
+  "purpose": "To protect the rights of children who are victimized by crime to secure compensation from those who participate in the arming of criminals.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Craig, Larry E.", 
+    "state": "ID", 
+    "thomas_id": "00246", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-29", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

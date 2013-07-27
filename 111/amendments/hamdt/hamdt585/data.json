@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-03-03T15:38:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1062", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1062", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Miller, George.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-03-03T15:40:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt585-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4247-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4247
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment to change the short title of the bill and make minor technical edits.", 
+  "house_number": 1, 
+  "introduced_at": "2010-03-03", 
+  "number": 585, 
+  "purpose": "An amendment printed in in Part A of House Report 111-425 to change the short title of the bill and make minor technical edits.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-03-03T15:40:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

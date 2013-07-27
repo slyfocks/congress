@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12778-12791", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12784", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2539 proposed by Senator Warner for Senator Chambliss.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2539 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2539-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-15", 
+  "number": 2539, 
+  "proposed_at": "2005-11-15", 
+  "purpose": "To make available, with an offset, an additional $45,000,000 for aircraft procurement for the Air Force for the procurement of one C-37B aircraft.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chambliss, Saxby", 
+    "state": "GA", 
+    "thomas_id": "00188", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

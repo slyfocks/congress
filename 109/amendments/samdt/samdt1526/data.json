@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12497-12513", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1526 proposed by Senator Warner for Senator Dole.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12503", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1526 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12578-12579", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12579", 
+          "type": "text as further modified"
+        }
+      ], 
+      "text": "Amendment SA 1526, previously agreed to, was modified further by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1526-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-25", 
+  "number": 1526, 
+  "proposed_at": "2005-11-08", 
+  "purpose": "To express the sense of the Senate on the need for community impact assistance related to the construction by the Navy of an outlying landing field in North Carolina.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dole, Elizabeth", 
+    "state": "NC", 
+    "thomas_id": "01698", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-08", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

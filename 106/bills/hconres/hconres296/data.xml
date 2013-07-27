@@ -1,0 +1,88 @@
+<bill session="106" type="hc" number="296" updated="2013-07-14T18:55:23-04:00">
+  <state datetime="2000-05-08T19:27:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2000-05-08T19:27:00-04:00"/>
+  </status>
+  <introduced datetime="2000-03-30"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress regarding the necessity to expedite the settlement process for discrimination claims against the Department of Agriculture brought by African-American farmers.</title>
+  </titles>
+  <sponsor id="400579"/>
+  <cosponsors>
+    <cosponsor id="400541" joined="2000-03-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-30">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2000-03-30">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2000-03-30">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2000-04-03">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2000-04-07">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2000-05-08T14:28:00-04:00">
+      <text>Mr. Simpson moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-05-08T14:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2623-2628" label="consideration"/>
+    </action>
+    <action datetime="2000-05-08T14:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 296.</text>
+    </action>
+    <action datetime="2000-05-08T15:09:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-05-08T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2631-2632" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2000-05-08T19:27:00-04:00" how="roll" result="fail" roll="146" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Failed by the Yeas and Nays: (2/3 required): 216 - 180 (Roll no. 146).</text>
+      <reference ref="CR H2623-2624" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative remedies"/>
+    <term name="Agricultural credit"/>
+    <term name="Blacks in rural areas"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil rights enforcement"/>
+    <term name="Claims"/>
+    <term name="Consent decrees"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of Justice"/>
+    <term name="Disaster relief"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Farmers"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government lending"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="Housing and community development"/>
+    <term name="Law"/>
+    <term name="Minorities"/>
+    <term name="Racial discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2000--Introduced.
+Expresses the sense of Congress that the settlement process and claims of African-American farmers against the Department of Agriculture should be resolved expeditiously.</summary>
+</bill>

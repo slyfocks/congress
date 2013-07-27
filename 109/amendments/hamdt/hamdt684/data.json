@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-08T17:12:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H748-751, H754", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H748", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T18:29:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 29, 
+      "text": "On agreeing to the Capps amendment (A005) Failed by recorded vote: 161 - 259 (Roll no. 29).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt684-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4167-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4167
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to exempt three categories of warnings and standards from a national uniformity standard: those relating to risks of cancer; those relating to reproductive or developmental toxins; and those sulfiting agents in bulk foods.", 
+  "house_number": 5, 
+  "introduced_at": "2006-03-08", 
+  "number": 684, 
+  "purpose": "An amendment numbered 5 printed in House Report 109-386 to permit states to maintain or enact food warning laws that require notifications regarding the risks of cancer, birth defects, reproductive health issues, and allergic reactions associated with sulfiting agents in bulk foods. Also permits states to maintain or enact food warning laws notifying parents of the risks of cancer, reproductive or developmental toxins, and food borne pathogens associated with certain foods, as well as laws governing food safety standards and tolerance levels related to limiting children's exposure to these risks.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-08T18:29:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

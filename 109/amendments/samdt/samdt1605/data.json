@@ -1,0 +1,83 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-27", 
+      "references": [
+        {
+          "reference": "CR S9087", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9087", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1605 proposed by Senator Frist for Senator Craig.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-28", 
+      "references": [
+        {
+          "reference": "CR S9217-9222", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9222", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "references": [
+        {
+          "reference": "CR S9395", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1605 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1605-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s397-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 397
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-27", 
+  "number": 1605, 
+  "proposed_at": "2005-07-27", 
+  "purpose": "To make clear that the bill does not apply to actions commenced by the Attorney General to enforce the Gun Control Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Craig, Larry E.", 
+    "state": "ID", 
+    "thomas_id": "00246", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-29", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

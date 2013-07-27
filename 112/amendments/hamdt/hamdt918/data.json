@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-02T15:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H408-410, H415-416", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H408", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02T16:55:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 27, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A005) Failed by recorded vote: 173 - 243 (Roll no. 27).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt918-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3582-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3582
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require CBO to include as part of their macroeconomic analysis estimates of the potential impact, if any, on HUB ZONE areas as defined by the Small Business Act.", 
+  "house_number": 5, 
+  "introduced_at": "2012-02-02", 
+  "number": 918, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 112-383 to require CBO to include as part of their macroeconomic analysis estimates of the potential impact, if any, on HUB ZONE areas as defined by the Small Business Act.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-02T16:55:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

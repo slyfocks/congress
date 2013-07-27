@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T17:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3326-3327", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3326", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Terry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T17:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Terry amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1157-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5854-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5854
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment decreases and then increases funding for Office of the Inspector General by $1 for the purpose of reviewing the practices related to collection and content of bids for certain veterans' hospital construction projects.", 
+  "house_number": 4, 
+  "introduced_at": "2012-05-31", 
+  "number": 1157, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to decrease and then increase funding for Office of the Inspector General by $1 for the purpose of reviewing the practices related to collection and content of bids for certain veterans' hospital construction projects.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-31T17:51:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

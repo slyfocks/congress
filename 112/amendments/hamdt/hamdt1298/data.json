@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20T19:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3901-3902", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Green, Gene.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-21T11:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3933", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 395, 
+      "text": "On agreeing to the Green, Gene amendment (A008) Failed by recorded vote: 174 - 244 (Roll no. 395).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1298-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4480-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4480
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike section 206 of the bill which would require the consideration of feasibility and costs in revising or supplementing national ambient air quality standards for ozone.", 
+  "house_number": 8, 
+  "introduced_at": "2012-06-20", 
+  "number": 1298, 
+  "purpose": "An amendment numbered 9 printed in House Report 112-540 to strike section 206 of the bill which would require the consideration of feasibility and costs in revising or supplementing national ambient air quality standards for ozone.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Green, Gene", 
+    "state": "TX", 
+    "thomas_id": "00462", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-21T11:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

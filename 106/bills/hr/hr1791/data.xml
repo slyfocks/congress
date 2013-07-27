@@ -1,0 +1,133 @@
+<bill session="106" type="h" number="1791" updated="2013-07-14T18:53:37-04:00">
+  <state datetime="2000-08-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-08-02"/>
+  </status>
+  <introduced datetime="1999-05-13"/>
+  <titles>
+    <title as="introduced" type="short">Federal Law Enforcement Animal Protection Act of 1999</title>
+    <title as="reported to house" type="short">Federal Law Enforcement Animal Protection Act of 1999</title>
+    <title as="passed house" type="short">Federal Law Enforcement Animal Protection Act of 1999</title>
+    <title as="enacted" type="short">Federal Law Enforcement Animal Protection Act of 2000</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to provide penalties for harming animals used in Federal law enforcement.</title>
+  </titles>
+  <sponsor id="400429"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="1999-05-25"/>
+    <cosponsor id="400071" joined="1999-05-13"/>
+    <cosponsor id="400577" joined="1999-07-29"/>
+    <cosponsor id="400114" joined="1999-08-03"/>
+    <cosponsor id="400123" joined="1999-05-18"/>
+    <cosponsor id="400126" joined="1999-09-30"/>
+    <cosponsor id="400129" joined="1999-05-19"/>
+    <cosponsor id="400136" joined="1999-07-21"/>
+    <cosponsor id="400153" joined="1999-05-26"/>
+    <cosponsor id="400213" joined="1999-05-19"/>
+    <cosponsor id="400217" joined="1999-05-18"/>
+    <cosponsor id="400226" joined="1999-07-29"/>
+    <cosponsor id="400243" joined="1999-05-20"/>
+    <cosponsor id="400598" joined="1999-07-29"/>
+    <cosponsor id="400524" joined="1999-05-25"/>
+    <cosponsor id="400310" joined="1999-06-08"/>
+    <cosponsor id="400346" joined="1999-05-13"/>
+    <cosponsor id="400359" joined="1999-05-26"/>
+    <cosponsor id="400370" joined="1999-06-08"/>
+    <cosponsor id="400371" joined="1999-07-27"/>
+    <cosponsor id="400379" joined="1999-08-05"/>
+    <cosponsor id="400389" joined="1999-06-24"/>
+    <cosponsor id="400509" joined="1999-07-14"/>
+    <cosponsor id="400407" joined="1999-06-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-05-13">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-05-21">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-07-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-07-01">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-09-22">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1999-10-12T14:02:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 106-372.</text>
+    </action>
+    <calendar datetime="1999-10-12T14:02:00-04:00" calendar="Union" number="215">
+      <text>Placed on the Union Calendar, Calendar No. 215.</text>
+    </calendar>
+    <action datetime="1999-10-12T14:33:00-04:00">
+      <text>Mr. McCollum moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1999-10-12T14:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9831-9833" label="consideration"/>
+    </action>
+    <action datetime="1999-10-12T14:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1791.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-10-12T14:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H9831" label="text"/>
+    </vote>
+    <action datetime="1999-10-12T14:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-10-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="2000-07-19">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S7298" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-07-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2000-07-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-07-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-07-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-08-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-08-02" type="public" number="106-254">
+      <text>Became Public Law No: 106-254.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Animals"/>
+    <term name="Conspiracy"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Horses"/>
+    <term name="Police dogs"/>
+    <term name="Protection of animals"/>
+    <term name="Sentences (Criminal procedure)"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1999--Passed House amended.
+Federal Law Enforcement Animal Protection Act of 1999 - Amends the Federal criminal code to prohibit, and set penalties for, willfully and maliciously harming a police animal or attempting or conspiring to do so. Includes among such penalties a ten-year maximum term of imprisonment if the offense permanently disables or disfigures, or causes serious bodily injury to or the death of, the animal. (Defines a "police animal" as a dog or horse employed by a Federal agency for the principal purpose of aiding in the detection of criminal activity, enforcement of laws, or apprehension of criminal offenders.)</summary>
+</bill>

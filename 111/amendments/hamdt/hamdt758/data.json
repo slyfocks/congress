@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-29T19:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6374-6375", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6374", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mrs. Kirkpatrick (AZ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-29T19:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Kirkpatrick (AZ) amendment (A016) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt758-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5850-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5850
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to make an across the board cut of 5% from the base text of the bill. It would reduce the cost of the bill by $3.37 billion, bringing the total cost of the bill down to $64.03 billion.", 
+  "house_number": 16, 
+  "introduced_at": "2010-07-29", 
+  "number": 758, 
+  "purpose": "An amendment numbered 17 printed in part A of House Report 111-578 to make an across the board cut of 5% from the base text of the bill. It would reduce the cost of the bill by $3.37 billion, bringing the total cost of the bill down to $64.03 billion.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kirkpatrick, Ann", 
+    "state": "AZ", 
+    "thomas_id": "01907", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-07-29T19:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:58-04:00"
+}

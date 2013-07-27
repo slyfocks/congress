@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-12T16:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4914-4916, H4920-4921", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4914-4915", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) in the nature of a substitute offered by Mrs. Miller (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T17:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 560, 
+      "text": "On agreeing to the Miller (MI) amendment (A015) Failed by recorded vote: 38 - 384 (Roll no. 560).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt627-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1309-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute sought to terminate the NFIP by January 1, 2012 and allow States to form interstate compacts to provide insurance.", 
+  "house_number": 15, 
+  "introduced_at": "2011-07-12", 
+  "number": 627, 
+  "purpose": "An amendment numbered 25 printed in House Report 112-138 to terminate NFIP by January 1, 2012 and allow States to form interstate compacts to provide insurance.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Miller, Candice S.", 
+    "state": "MI", 
+    "thomas_id": "01731", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T17:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

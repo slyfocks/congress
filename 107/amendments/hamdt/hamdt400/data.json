@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-28T17:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8516-8517", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8516", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-28T17:43:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Inslee amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt400-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3338-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3338
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment provides an additional $250 million for aircraft passenger and baggage screening activities.", 
+  "house_number": 9, 
+  "introduced_at": "2001-11-28", 
+  "number": 400, 
+  "purpose": "An amendment to provide an additional $250,000,000 for aircraft passenger and baggage screening activities.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-11-28T17:43:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

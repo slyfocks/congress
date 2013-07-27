@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T15:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H516", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H516", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mrs. Halvorson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-04T10:49:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H559-560", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H559", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 39, 
+      "text": "On agreeing to the Halvorson amendment (A019) Agreed to by recorded vote: 424 - 0 (Roll no. 39).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt563-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment adds veteran status as an additional item for consideration when selecting individuals for the Federal Cyber Scholarship for Service program.", 
+  "house_number": 19, 
+  "introduced_at": "2010-02-03", 
+  "number": 563, 
+  "purpose": "An amendment numbered 19 printed in House Report 111-410 to add veteran status as an additional item for consideration when selecting individuals for the Federal Cyber Scholarship for Service.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Halvorson, Deborah L.", 
+    "state": "IL", 
+    "thomas_id": "01919", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-04T10:49:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

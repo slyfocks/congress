@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-23T19:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H726-728, H729-730", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H727", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Flake to the Abercrombie amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-23T20:27:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 57, 
+      "text": "On agreeing to the Flake amendment (A003) Failed by the Yeas and Nays: 177 - 233 (Roll no. 57).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt572-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt570-111", 
+    "amendment_type": "hamdt", 
+    "congress": 111, 
+    "number": 570
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2314-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2314
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2010-02-23", 
+  "number": 572, 
+  "purpose": "An amendment numbered 2 printed in part B of House Report 111-413 to the Abercrombie amendment in the nature of a substitute to state that nothing in the Act shall relieve a Native Hawaiian governing authority from complying with the equal protection clause of the 14th amendment to the United States Constitution.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-02-23T20:27:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

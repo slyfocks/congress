@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21", 
+      "references": [
+        {
+          "reference": "CR S4081-4082", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4081-4082", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 551 proposed by Senator DeWine to Amendment SA 564.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 551 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt551-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt564-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 564
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-19", 
+  "number": 551, 
+  "proposed_at": "2005-04-21", 
+  "purpose": "To make the traumatic injury insurance provision retroactive for servicemembers injured in Iraq.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeWine, Mike", 
+    "state": "OH", 
+    "thomas_id": "00293", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-21", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

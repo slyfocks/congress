@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T20:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4844-4845", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4844", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Wu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:49:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4885", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 550, 
+      "text": "On agreeing to the Wu amendment (A028) Failed by recorded vote: 196 - 228 (Roll no. 550).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt607-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the account for Departmental Administration by $60,500,000 and to increase the account for EERE by a similar amount.", 
+  "house_number": 28, 
+  "introduced_at": "2011-07-11", 
+  "number": 607, 
+  "purpose": "An amendment to reduce the account for Departmental Administration by $60, 500,000 and to increase the account for EERE by a similar amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wu, David", 
+    "state": "OR", 
+    "thomas_id": "01598", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

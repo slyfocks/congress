@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-29T10:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4800", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4800", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A073) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-29T10:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Andrews amendment (A073) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1169-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment prohibits funds in the bill from being used to implement certain procedures relating to the public-private competition for Federal jobs and services.", 
+  "house_number": 73, 
+  "introduced_at": "2006-06-29", 
+  "number": 1169, 
+  "purpose": "An amendment to prohibit funds from being used to implement the revision to Office of Management and Budget Circular A-76 made on May 29, 2003.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-29T10:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

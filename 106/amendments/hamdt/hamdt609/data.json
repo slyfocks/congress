@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-23T17:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1341-1355", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Owens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-23T19:00:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1341-1342", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 70, 
+      "text": "On agreeing to the Owens amendment (A001) Failed by recorded vote: 70 - 348 (Roll no. 70).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt609-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres290-106", 
+    "bill_type": "hconres", 
+    "congress": 106, 
+    "number": 290
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute sought to target investments for education and safety net programs for working class families.", 
+  "house_number": 1, 
+  "introduced_at": "2000-03-23", 
+  "number": 609, 
+  "purpose": "An amendment in the nature of a substitute numbered 1 printed in Part B of House Report 106-535 to recommend $255 billion in budget authority and $252 billion in outlays for national defense; provide $10.5 billion less in budget authority and $9.8 billion less in outlays for agriculture; call for $44.7 billion less in budget authority and $48.2 billion less in outlays for transportation; and to recommend $88.8 billion in budget authority ($16.2 billion more than the base bill) and $76.9 billion in outlays ($7.7 billion more than the base bill) for education, training, employment, and social services.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Owens, Major R.", 
+    "state": "NY", 
+    "thomas_id": "00883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-23T19:00:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

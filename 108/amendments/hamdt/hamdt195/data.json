@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-25T19:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5900-5903", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5900", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-26T10:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5945-5946", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5945", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 320, 
+      "text": "On agreeing to the Lee amendment (A005) Failed by recorded vote: 185 - 239 (Roll no. 320).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt195-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2417-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2417
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to require a GAO study to determine the extent to which intelligence developed by the Department of Defense and by the intelligence community with respect to weapons of mass destruction obtained or developed by Iraq preceding Operation Iraqi Freedom was made available to the United Nations weapons inspectors and the quantity and quality of the information that was provided (if any).", 
+  "house_number": 5, 
+  "introduced_at": "2003-06-25", 
+  "number": 195, 
+  "purpose": "An amendment numbered 6 printed in House Report 108-176.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-26T10:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

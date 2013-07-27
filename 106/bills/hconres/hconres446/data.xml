@@ -1,0 +1,42 @@
+<bill session="106" type="hc" number="446" updated="2013-07-14T18:55:27-04:00">
+  <state datetime="2000-12-15">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2000-12-15"/>
+  </status>
+  <introduced datetime="2000-12-15"/>
+  <titles>
+    <title as="introduced" type="official">Providing for the sine die adjournment of the second session of the One Hundred Sixth Congress.</title>
+  </titles>
+  <sponsor id="400439"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2000-12-15T16:51:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H12441" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-12-15T16:51:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H12441" label="text as passed House"/>
+    </vote>
+    <action datetime="2000-12-15T16:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-12-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11829" label="consideration"/>
+      <reference ref="CR S11829" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2000-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/15/2000--Introduced.
+Provides for the sine die adjournment of the House of Representatives and the Senate on either December 15, 16, or 17, 2000.</summary>
+</bill>

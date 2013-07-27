@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T12:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5353", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5353", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Armed Services.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-17T12:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Armed Services amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt202-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1585-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1585
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 20, 
+  "introduced_at": "2007-05-17", 
+  "number": 202, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsas00", 
+    "name": "House Armed Services", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-17T12:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

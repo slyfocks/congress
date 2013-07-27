@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-28T10:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3726-3727", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3726", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mrs. Kelly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-28T10:37:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Kelly amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt131-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2311-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2311
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2001-06-28", 
+  "number": 131, 
+  "purpose": "An amendment to increase funds for the Office of Inspector General by $700,000.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Kelly, Sue W.", 
+    "state": "NY", 
+    "thomas_id": "00624", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-06-28", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

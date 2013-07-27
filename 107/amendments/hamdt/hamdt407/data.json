@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-28T19:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8539-8547, H8550", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8539", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-28T21:36:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 457, 
+      "text": "On agreeing to the Miller, George amendment (A016) Failed by recorded vote: 201 - 220 (Roll no. 457).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt407-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3338-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3338
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to prohibit the use of certain Community Development funding for any purpose except wage supplements and health insurance assistance to unemployed workers.", 
+  "house_number": 16, 
+  "introduced_at": "2001-11-28", 
+  "number": 407, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-11-28T21:36:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08T21:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2411-2414, H2436", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2411", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Westmoreland.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T00:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 218, 
+      "text": "On agreeing to the Westmoreland amendment (A026) Failed by recorded vote: 165 - 246 (Roll no. 218).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1059-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the Legal Services Corporation by $128 million and to apply the savings to the spending reduction account.", 
+  "house_number": 26, 
+  "introduced_at": "2012-05-08", 
+  "number": 1059, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to reduce funding out of the International Trade Commission Salaries and Expenses account by $128 million and apply the savings to the Spending Reduction Account.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Westmoreland, Lynn A.", 
+    "state": "GA", 
+    "thomas_id": "01779", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-09T00:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

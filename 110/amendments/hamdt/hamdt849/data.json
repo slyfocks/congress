@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-10-10T14:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11434", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11434", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-10T14:16:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Frank (MA) amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt849-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2895-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2895
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides that, for the purpose of increasing accountability, previous grant recipients applying for new grants must include in their applications progress reports for projects for which they used funds in the previous fiscal year.", 
+  "house_number": 7, 
+  "introduced_at": "2007-10-10", 
+  "number": 849, 
+  "purpose": "An amendment numbered 7 printed in House Report 110-369 to provide that, for the purpose of increasing accountability, previous grant recipients applying for new grants must include in their applications progress reports for projects for which they used funds in the previous fiscal year.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-10-10T14:16:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

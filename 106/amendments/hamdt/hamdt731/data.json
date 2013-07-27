@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-19T10:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3442-3443", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3442", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-19T10:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3443", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3443", 
+          "type": "text"
+        }
+      ], 
+      "text": "Andrews amendment (A003) modified by unanimous consent. The amendment is modified to strike the word \"Review\" and insert \"Reform\".", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-19T10:41:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Andrews amendment (A003) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt731-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4475-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4475
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2000-05-19", 
+  "number": 731, 
+  "purpose": "An amendment to reduce the funds for the Amtrak Review Council by $530,000 from $980,000 to $450,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-05-19", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

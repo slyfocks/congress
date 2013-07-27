@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3889-3890", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3889", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Lucas (OK).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T13:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lucas (OK) amendment (A016) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt148-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment provides $3 million to be used for the rehabilitation of aging watershed dams.", 
+  "house_number": 16, 
+  "introduced_at": "2001-07-11", 
+  "number": 148, 
+  "purpose": "An amendment numbered 16 printed in the Congressional Record to increase funds for Watershed and Flood Prevention Operations.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Lucas, Frank D.", 
+    "state": "OK", 
+    "thomas_id": "00711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-11T13:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-04T15:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1716-1721", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Scarborough.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-04T15:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1716", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Scarborough amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt651-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2418-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2418
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment nullifies the final rule issued by the Secretary of Health and Human Services relating to the Organ Procurement and Transplantation Network.", 
+  "house_number": 5, 
+  "introduced_at": "2000-04-04", 
+  "number": 651, 
+  "purpose": "An amendment numbered 5 printed in House Report 106-557 to nullify the final rule issued by the Secretary of HHS that gives HHS the sole authority to approve or disapprove organ allocation policies that are currently established by the private-sector transplant community.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scarborough, Joe", 
+    "state": "FL", 
+    "thomas_id": "01025", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-04-04T15:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

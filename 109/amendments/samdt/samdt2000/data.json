@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-06", 
+      "references": [
+        {
+          "reference": "CR S11186", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11186", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2000 proposed by Senator Stevens for Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2000 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2000-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-04", 
+  "number": 2000, 
+  "proposed_at": "2005-10-06", 
+  "purpose": "To provide that the governments of Indian tribes be treated as State and local governments for purposes of the disposition of real property recommended for closure in the report to the President from the Defense Base Closure and Realignment Commission, July 1993.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-06", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

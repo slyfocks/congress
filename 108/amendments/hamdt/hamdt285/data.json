@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-18T11:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7143-7144", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7143", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-18T11:14:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Markey amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt285-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment prohibits funds in the bill from being used to authorize the transfer of any nuclear materials or nuclear production facilities to the Democratic People's Republic of North Korea.", 
+  "house_number": 10, 
+  "introduced_at": "2003-07-18", 
+  "number": 285, 
+  "purpose": "An amendment to restrict the use of funds from being used to issue any license, approval, or authorization for the export or reexport, or the transfer or retransfer, either directly or indirectly, to the Democratic Peoples' Republic of North Korea of any special nuclear material or byproduct material.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-18T11:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

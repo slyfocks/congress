@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-12-15T19:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12516", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12516", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Goodling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15T19:15:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Goodling amendment (A002) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1068-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres552-106", 
+    "bill_type": "hres", 
+    "congress": 106, 
+    "number": 552
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2000-12-15", 
+  "number": 1068, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Goodling, William F.", 
+    "state": "PA", 
+    "thomas_id": "00447", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-12-15T19:15:00-05:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

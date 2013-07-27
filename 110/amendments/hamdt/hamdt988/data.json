@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-04-10T15:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2202-2207", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2202", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-10T16:32:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 182, 
+      "text": "On agreeing to the Flake amendment (A001) Agreed to by recorded vote: 263 - 117, 1 Present (Roll no. 182).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt988-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2537-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2537
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment adds a new paragraph prohibiting use of funds for Congressional earmarks.", 
+  "house_number": 1, 
+  "introduced_at": "2008-04-10", 
+  "number": 988, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to add a new paragraph prohibiting use of funds for Congressional earmarks.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-04-10T16:32:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

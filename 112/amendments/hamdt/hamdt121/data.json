@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T16:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1262-1265, H1298", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1262", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A111) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-18T21:19:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 111, 
+      "text": "On agreeing to the McClintock amendment (A111) Agreed to by recorded vote: 215 - 210 (Roll no. 111).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt121-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 111, 
+  "introduced_at": "2011-02-18", 
+  "number": 121, 
+  "purpose": "An amendment numbered 296 printed in the Congressional Record to prohibit the use of funds to implement the Klamath Dam Removal and Sedimentation Study.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-18T21:19:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

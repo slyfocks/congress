@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-15T11:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7203-7207, H7210-7211", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7203", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Moran (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-15T12:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 456, 
+      "text": "On agreeing to the Moran (VA) amendment (A012) Failed by recorded vote: 181 - 223 (Roll no. 456).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt762-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5025-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5025
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit the Office of Personnel Management from being able to offer or administer health savings accounts or health reimbursement accounts as part of the Federal Employee Health Benefits Plan.", 
+  "house_number": 12, 
+  "introduced_at": "2004-09-15", 
+  "number": 762, 
+  "purpose": "An amendment to insert the follwing new section on page 166, after line 3: Sec. 647. None of the funds made available in this Act may be used to carry out, enter into, or renew any contract under chapter 89 of title 5, United States Code, which provides for a health savings account or a health reimbursement account.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Moran, James P.", 
+    "state": "VA", 
+    "thomas_id": "00832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-15T12:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-08-01T13:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5549", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5549", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Scott (SC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-01T13:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5550", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question on the amendment (A001) Agreed to by the Yeas and Nays: 240 - 183 (Roll no. 540).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-01T14:12:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5550-5551", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 541, 
+      "text": "On agreeing to the Scott (SC) amendment (A001) Agreed to by recorded vote: 238 - 186 (Roll no. 541).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1472-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres747-112", 
+    "bill_type": "hres", 
+    "congress": 112, 
+    "number": 747
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment adds a new section to the resolution directing the Clerk to add the text of H.R. 6169, as passed by the House, to the end of H.R. 8 as new matter before transmitting H.R. 8 to the Senate.", 
+  "house_number": 1, 
+  "introduced_at": "2012-08-01", 
+  "number": 1472, 
+  "purpose": "An amendment to add a new section to the resolution directing the Clerk to add the text of H.R. 6169, to the end of H.R. 8.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scott, Tim", 
+    "state": "SC", 
+    "thomas_id": "02056", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-08-01T14:12:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

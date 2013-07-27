@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T19:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6692-6693", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6692", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T19:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6692-6693", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Coburn amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1027-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 16, 
+  "introduced_at": "2000-07-20", 
+  "number": 1027, 
+  "purpose": "An amendment to strike section 640 of the bill. Section 640 provides for restoration of the federal employee retirement contribution share to pre-1999 levels.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Coburn, Tom A.", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-07-20", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

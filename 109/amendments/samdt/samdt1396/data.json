@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21", 
+      "references": [
+        {
+          "reference": "CR S8651-8653", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8652", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1396 proposed by Senator Warner for Senator Stevens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1396 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1396-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-21", 
+  "number": 1396, 
+  "proposed_at": "2005-07-21", 
+  "purpose": "To authorize $5,500,000 for military construction for the Army for the construction of a rotary wing landing pad at Fort Wainwright, Alaska, and to provide an offset of $8,000,000 by canceling a military construction project for the construction of an F-15E flight simulator facility at Elmendorf Air Force Base, Alaska.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stevens, Ted", 
+    "state": "AK", 
+    "thomas_id": "01440", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

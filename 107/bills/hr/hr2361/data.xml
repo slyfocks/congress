@@ -1,0 +1,55 @@
+<bill session="107" type="h" number="2361" updated="2013-07-14T18:57:49-04:00">
+  <state datetime="2001-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2001-06-28"/>
+  </status>
+  <introduced datetime="2001-06-28"/>
+  <titles>
+    <title type="popular">Veterans' Benefits bill</title>
+    <title as="introduced" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2001</title>
+    <title as="introduced" type="official">To increase, effective as of December 1, 2001, the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400126" joined="2001-06-28"/>
+    <cosponsor id="400337" joined="2001-06-28"/>
+    <cosponsor id="400376" joined="2001-06-28"/>
+    <cosponsor id="400610" joined="2001-06-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-06-28">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2001-07-10">
+      <text>Referred to the Subcommittee on Benefits.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2001-07-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR06" subcommittee="Benefits" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="h" number="2540"/>
+    <bill relation="identical" session="107" type="s" number="1090"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Disabled"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Labor and employment"/>
+    <term name="Survivors' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2001--Introduced.
+Veterans' Compensation Cost-of-Living Adjustment Act of 2001 - Directs the Secretary of Veterans Affairs to increase, as of December 1, 2001, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult children, and dependency and indemnity compensation for surviving spouses and children.Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-27T09:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8755-8757, H8776", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8755-8756", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Boehner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-27T12:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 750, 
+      "text": "On agreeing to the Boehner amendment (A009) Failed by recorded vote: 153 - 271 (Roll no. 750).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt708-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to replace the current daily posted county prices (PCPs) used for determing loan deficiency payment rates and repayment rates for marketing assistance loans with a monthly PCP for each crop.", 
+  "house_number": 9, 
+  "introduced_at": "2007-07-27", 
+  "number": 708, 
+  "purpose": "An amendment numbered 13 printed in Part B of House Report 110-261 to replace the current daily posted county prices (PCPs) used for determing loan deficiency payment rates and repayment rates for marketing assistance loans with a monthly PCP for each crop. It would revise requirements for establishing a producer's loan deficiency payment (LDP) and loan repayment rate to be based on the month that beneficial interest is lost. The amendment aims to address farmers taking advantage of short-term market events to lock in artificially high loan deficiency payments, while actually selling the commodity later at prices well above loan rate.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Boehner, John A.", 
+    "state": "OH", 
+    "thomas_id": "00102", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-27T12:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T15:38:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H519-520", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Heinrich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-03T15:43:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Heinrich amendment (A025) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt569-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment allows national laboratories to be included as stakeholders in the Cybersecurity Strategic Research and Development Plan.", 
+  "house_number": 25, 
+  "introduced_at": "2010-02-03", 
+  "number": 569, 
+  "purpose": "An amendment numbered 25 printed in House Report 111-410 to allow national laboratories to be included as stakeholders in the Cybersecurity Strategic Research and Development Plan.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Heinrich, Martin", 
+    "state": "NM", 
+    "thomas_id": "01937", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-03T15:43:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

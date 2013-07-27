@@ -1,0 +1,60 @@
+<bill session="107" type="hc" number="277" updated="2013-07-14T18:59:00-04:00">
+  <state datetime="2001-12-04T15:38:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-12-04T15:38:00-05:00"/>
+  </status>
+  <introduced datetime="2001-11-19"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the important contributions of the Hispanic Chamber of Commerce.</title>
+  </titles>
+  <sponsor id="400311"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2001-11-19">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-11-28">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-12-04T15:33:00-05:00">
+      <text>Mr. Tauzin moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2001-12-04T15:33:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8765-8766" label="consideration"/>
+    </action>
+    <action datetime="2001-12-04T15:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 277.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-04T15:38:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8765" label="text"/>
+    </vote>
+    <action datetime="2001-12-04T15:38:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-12-05">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Chambers of commerce"/>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Free enterprise"/>
+    <term name="Hispanic Americans"/>
+    <term name="Minorities"/>
+    <term name="Minority business enterprises"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/2001--Passed House without amendment.
+Expresses the sense of Congress that it is important to the promotion of the free market process of the United States, to the future success of Hispanic Americans, and to society at large that the special role of the Hispanic Chamber of Commerce of the United States be recognized and further cultivated to the benefit of all Americans.</summary>
+</bill>

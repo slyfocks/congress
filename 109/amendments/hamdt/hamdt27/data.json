@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-09T15:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1194-1199", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1194-1196", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Kennedy (MN).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-09T16:46:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 59, 
+      "text": "On agreeing to the Kennedy (MN) amendment (A008) Failed by recorded vote: 155 - 265 (Roll no. 59).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt27-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide for a congestion pricing pilot program which would allow fees to be charged electronically on new lanes, the use of which by drivers would be optional, and provide for the cessation of the collection of fees when construction and maintenance costs have been attained.", 
+  "house_number": 8, 
+  "introduced_at": "2005-03-09", 
+  "number": 27, 
+  "purpose": "An amendment numbered eight printed in Part B of House Report 109-14 to streamline tolling authority to charge tolls on new lanes, and it dedicates those revenues to the user fee purpose. Additionally the amendment restricts the authority to convert existing non-toll Interstate highway lanes onto tolled roads and then indefinitely toll those roads.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kennedy, Mark R.", 
+    "state": "MN", 
+    "thomas_id": "01652", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-09T16:46:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,43 @@
+<bill session="107" type="hc" number="28" updated="2013-07-14T18:58:55-04:00">
+  <state datetime="2001-02-14">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2001-02-14"/>
+  </status>
+  <introduced datetime="2001-02-13"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2001-02-13T18:33:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H278" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-02-13T18:34:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H278" label="text"/>
+    </vote>
+    <action datetime="2001-02-13T18:34:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-02-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref=" CR S1437" label="consideration"/>
+    </vote>
+    <action datetime="2001-02-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2001--Passed Senate without amendment.
+Provides for a joint session of Congress on February 27, 2001, to receive a message from the President (State of the Union address).</summary>
+</bill>

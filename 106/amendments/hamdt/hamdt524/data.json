@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-13T15:30:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. Menendez to the Terry amendment (A007).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-13T17:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 497, 
+      "text": "On agreeing to the Menendez amendment (A008) Agreed to by recorded vote: 259 - 169 (Roll no. 497).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt524-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt523-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 523
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1993-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1993
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Terry amendment (A007) for description.", 
+  "house_number": 8, 
+  "introduced_at": "1999-10-13", 
+  "number": 524, 
+  "purpose": "An amendment to require a GAO report that reviews the claims processing of OPIC to include an analysis of the claims paid, settled, and denied.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-10-13T17:01:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

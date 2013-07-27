@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-18T17:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10970", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10970", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Gingrey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-18T17:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10970", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered on the amendment (A001) and on the resolution without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-18T17:38:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gingrey amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt634-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres563-109", 
+    "bill_type": "hres", 
+    "congress": 109, 
+    "number": 563
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2005-11-18", 
+  "number": 634, 
+  "purpose": "Add at the end the following: \\   (5) A resolution relating to U.S. forces in Iraq.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-18T17:38:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

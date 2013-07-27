@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-30T19:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4827-4828", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4827", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mrs. Lois Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-30T19:49:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Capps amendment (A022) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt267-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2620-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2620
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment increases funding for the EPA Leaking Underground Storage Tank Trust Fund account by $7 million with offsets from the EPA Environmental Programs and Management account.", 
+  "house_number": 22, 
+  "introduced_at": "2001-07-30", 
+  "number": 267, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to increase (by offset) the funds for \"EPA-Leaking Underground Storage Tank Trust Fund\" by $7.2 million.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-30T19:49:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

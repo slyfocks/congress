@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T19:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5142-5146, H5158", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5142", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T21:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 314, 
+      "text": "On agreeing to the Waxman amendment (A007) Failed by recorded vote: 154 - 274 (Roll no. 314).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt292-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to require FERC to impose cost-of-service rates on sales by public utilities of electric energy in the western energy market until new power generators come online and exempt new power plants from the rate restriction.", 
+  "house_number": 7, 
+  "introduced_at": "2001-08-01", 
+  "number": 292, 
+  "purpose": "Part B amendment numbered 7 printed in House Report 107-178 to direct FERC to impose cost-of-service based rates on electricity generators selling in the Western market for 18 months, until new power supplies come on line and to exempt new power plants from this requirement.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-08-01T21:20:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

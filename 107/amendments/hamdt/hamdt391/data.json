@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-16T15:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8323", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H8323", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Forbes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-16T15:01:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Forbes amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt391-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres284-107", 
+    "bill_type": "hres", 
+    "congress": 107, 
+    "number": 284
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment is technical in nature.", 
+  "house_number": 1, 
+  "introduced_at": "2001-11-16", 
+  "number": 391, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Forbes, J. Randy", 
+    "state": "VA", 
+    "thomas_id": "01683", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-11-16T15:01:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

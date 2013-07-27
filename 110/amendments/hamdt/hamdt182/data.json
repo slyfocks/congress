@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-11T00:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/11/2007 H4903-4905, H4906-4907", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 5/11/2007 H4904-4905", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-11T00:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 339, 
+      "text": "On agreeing to the Schiff amendment (A009) Agreed to by recorded vote: 245 - 178 (Roll no. 339).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt182-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2082-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment clarifies that in the absence of explicit statutory authority the Foreign Intelligence Surveillance Act of 1978 is the exclusive authority for the conduct of domestic electronic surveillance.", 
+  "house_number": 9, 
+  "introduced_at": "2007-05-11", 
+  "number": 182, 
+  "purpose": "An amendment numbered 10 printed in House Report 110-144 to state that the Foreign Intelligence Surveillance Act of 1978 (FISA) shall be the exclusive means by which domestic electronic surveillance for the purpose of gathering foreign intelligence information may be conducted, and makes clear that this applies until specific statutory authorization for electronic surveillance, other than as an amendment to FISA, is enacted.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-11T00:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

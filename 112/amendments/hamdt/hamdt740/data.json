@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T22:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5565-5566", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5565", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Carter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T22:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Carter amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt740-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment designates $1 million for the FY 2012 construction funds for the National Park Service to be used for construction of joint law enforcement centers.", 
+  "house_number": 17, 
+  "introduced_at": "2011-07-26", 
+  "number": 740, 
+  "purpose": "An amendment to increase and then decrease funding for National Park Service Construction by $1 million.", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Carter, John R.", 
+    "state": "TX", 
+    "thomas_id": "01752", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-26T22:25:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

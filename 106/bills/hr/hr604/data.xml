@@ -1,0 +1,73 @@
+<bill session="106" type="h" number="604" updated="2013-07-14T18:53:04-04:00">
+  <state datetime="2000-12-15T19:01:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-12-15T19:01:00-05:00"/>
+  </status>
+  <introduced datetime="1999-02-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend the charter of the AMVETS organization.</title>
+  </titles>
+  <sponsor id="400504"/>
+  <cosponsors>
+    <cosponsor id="400126" joined="1999-02-04"/>
+    <cosponsor id="400215" joined="1999-04-15"/>
+    <cosponsor id="400318" joined="1999-04-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-02-25">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-09-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2000-09-27T18:13:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 106-904.</text>
+    </action>
+    <calendar datetime="2000-09-27T18:13:00-04:00" calendar="House" number="287">
+      <text>Placed on the House Calendar, Calendar No. 287.</text>
+    </calendar>
+    <action datetime="2000-12-15T18:58:00-05:00">
+      <text>Mr. McCollum asked unanimous consent to consider as reported.</text>
+    </action>
+    <action datetime="2000-12-15T19:01:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H12510-12511" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-12-15T19:01:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H12511" label="text"/>
+    </vote>
+    <action datetime="2000-12-15T19:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-12-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Commerce"/>
+    <term name="Federal incorporation"/>
+    <term name="Veterans' organizations"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1063"/>
+  </amendments>
+  <summary>12/15/2000--Passed House amended.
+Amends the Federal charter for the AMVETS organization to: (1) change the meaning of AMVETS to American Veterans (currently, American Veterans of World War II, Korea, and Vietnam); (2) revise the composition of its governing body; and (3) provide for its headquarters and principal place of business to be within Maryland (currently, the District of Columbia).</summary>
+</bill>

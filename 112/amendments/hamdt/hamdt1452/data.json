@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T19:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5265", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5265", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Watt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T11:23:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5308", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 520, 
+      "text": "On agreeing to the Watt amendment (A006) Failed by recorded vote: 177 - 244 (Roll no. 520).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1452-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exempt regulatory actions by the U.S. Patent and Trademark Office that streamline the application process for patents and trademarks, including rules implementing the micro entity provision of the Leahy-Smith America Invents Act, from Title I of the bill and exempts midnight rules implementing such provisions from Title II of the bill. The amendment also sought to exempt consent decrees and settlement agreements in an action to compel agency action by the PTO to help streamline the application process for patents and trademarks from Title III of the bill.", 
+  "house_number": 6, 
+  "introduced_at": "2012-07-25", 
+  "number": 1452, 
+  "purpose": "An amendment numbered 6 printed in Part B of House Report 112-616 to exempt regulatory actions by the U.S. Patent and Trademark Office that streamline the application process for patents and trademarks, including rules implementing the micro entity provision of the Leahy-Smith America Invents Act, from Title I of the bill and exempts midnight rules implementing such provisions from Title II of the bill. The amendment also would exempt consent decrees and settlement agreements in an action to compel agency action by the PTO to help streamline the application process for patents and trademarks from Title III of the bill.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-26T11:23:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

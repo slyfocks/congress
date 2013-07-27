@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-14T17:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5066-5067", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5066", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A065) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-15T11:41:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5099", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 591, 
+      "text": "On agreeing to the Broun (GA) amendment (A065) Failed by recorded vote: 69 - 354 (Roll no. 591).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt668-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 65, 
+  "introduced_at": "2011-07-14", 
+  "number": 668, 
+  "purpose": "An amendment No. 81 printed in the Congressional Record to strike the funds made available for the the Energy Efficiency and Renewable Energy account under the Department of Energy.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-15T11:41:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

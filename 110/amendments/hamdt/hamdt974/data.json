@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-04-02T14:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1935-1936", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1935", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Fortenberry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-02T14:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Fortenberry amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt974-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5501-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 5501
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment ensured that audits by the Inspector General include information on subcontractors.", 
+  "house_number": 2, 
+  "introduced_at": "2008-04-02", 
+  "number": 974, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-562 to ensure that audits by the Inspector General include information on subcontractors.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Fortenberry, Jeff", 
+    "state": "NE", 
+    "thomas_id": "01793", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-04-02T14:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

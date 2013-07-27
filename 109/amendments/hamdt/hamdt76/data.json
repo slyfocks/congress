@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T19:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2347-2364, H2376-2377", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2347-2360", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Bishop (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T21:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 118, 
+      "text": "On agreeing to the Bishop (NY) amendment (A007) Failed by recorded vote: 170 - 259 (Roll no. 118).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt76-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment consists of the text of the amendment contained in House Report 109-49 and numbered 7 which is printed on pages H2347-H2360 in the Congressional Record for April 20, 2005.", 
+  "house_number": 7, 
+  "introduced_at": "2005-04-20", 
+  "number": 76, 
+  "purpose": "An amendment numbered 7 printed in House Report 109-49 to help lower gas prices, increase energy efficiency standards, and eliminate special interest subsidies and instead invest those resources in new technology with the idea of creating a better energy future.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-20T21:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

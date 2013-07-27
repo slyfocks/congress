@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-06T13:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6654-6656, H6660-6661", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6654", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Doyle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T14:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 770, 
+      "text": "On agreeing to the Doyle amendment (A005) Failed by recorded vote: 147 - 251, 1 Present (Roll no. 770).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt824-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to establish a date for compliance with standards and requirements in accordance with the Clean Air Act and allows the Administrator to provide an extension for such compliance up to one year, but in no case beyond the date that is 5 years after the effective date of such regulation.", 
+  "house_number": 5, 
+  "introduced_at": "2011-10-06", 
+  "number": 824, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to establish a date for compliance with standards and requirements in accordance with 112(i)(3) of the Clean Air Act and allows the Administrator to provide an extension for such compliance up to one year, but in no case beyond the date that is 5 years after the effective date of such regulation.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Doyle, Michael F.", 
+    "state": "PA", 
+    "thomas_id": "00316", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T14:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

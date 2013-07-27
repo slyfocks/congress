@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T20:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2208-2209", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2208", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-01T11:46:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2233", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 215, 
+      "text": "On agreeing to the Schiff amendment (A027) Failed by recorded vote: 178 - 243 (Roll no. 215).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt236-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow the Bob Hope and Van Nuys Airports in southern California to adopt curfews from 10 p.m. to 7 a.m. in order to alleviate air traffic noise for residents of the San Fernando Valley.", 
+  "house_number": 27, 
+  "introduced_at": "2011-03-31", 
+  "number": 236, 
+  "purpose": "An amendment numbered 29 printed in House Report 112-46 to allow Bob Hope and Van Nuys Airports in southern California to adopt curfews from 10 p.m. to 7 a.m., alleviating air traffic noise for residents of the San Fernando Valley. It simplifies the process for these airports to implement a curfew by allowing airports that already had at least a partial curfew in effect before the 1990 Airport Noise and Capacity Act (PL 101-58) to implement mandatory nighttime curfews.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-01T11:46:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

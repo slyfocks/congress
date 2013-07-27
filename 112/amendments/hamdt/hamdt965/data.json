@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-06T15:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1187", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1187", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Tipton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-06T15:16:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Tipton amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt965-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2842-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2842
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment changes the reference year in the short title of the bill from 2011 to 2012.", 
+  "house_number": 1, 
+  "introduced_at": "2012-03-06", 
+  "number": 965, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to strike \"2011\" and insert \"2012\" in section 1.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "thomas_id": "01997", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-06T15:16:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

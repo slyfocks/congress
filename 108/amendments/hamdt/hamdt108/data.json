@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-01T13:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3605-3607, H3608", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3605", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-01T13:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 156, 
+      "text": "On agreeing to the Smith (MI) amendment (A008) Failed by recorded vote: 130 - 288 (Roll no. 156).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt108-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1298-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1298
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reduce the amount authorized in the bill for fiscal year 2004 from $3 billion to $2 billion.", 
+  "house_number": 8, 
+  "introduced_at": "2003-05-01", 
+  "number": 108, 
+  "purpose": "An amendment numbered 6 printed in House Report 108-80 to reconcile funding levels with the President's budget and the budget resolution. Authorizes $2 billion in fiscal year 2004, as called for by the President's budget and the budget resolution. Increases the authorization by $500 million in each subsequent year until it reaches $4 billion in fiscal year 2008. Total authorization of $15 billion over 5 years is maintained.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-05-01T13:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

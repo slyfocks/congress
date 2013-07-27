@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-10T13:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1101-1113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1101", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Holt to the Ehlers amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-10T15:23:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 37, 
+      "text": "On agreeing to the Holt amendment (A002) Failed by recorded vote: 204 - 218 (Roll no. 37).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt19-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt18-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 18
+  }, 
+  "amends_bill": {
+    "bill_id": "hr800-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Ehlers amendment (A001) sought to require that each State educational agency insure that the purposes of the statutory requirements of each program, for which a waiver is granted, continues to be met and further require that the State include in its application a description of how the professional development needs of its teachers, in the areas of mathematics and science will be, or are being met.", 
+  "house_number": 2, 
+  "introduced_at": "1999-03-10", 
+  "number": 19, 
+  "purpose": "An amendment to require that the State educational agency insures that the purposes of the statutory requirements of each program for which a waiver is granted continues to be met and further requires that the State includes in its application a description of how the professional development needs of its teachers, in the areas of mathematics and science will be, or are being met.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-03-10T15:23:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

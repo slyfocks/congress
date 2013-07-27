@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29T15:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1520-1524", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-29T15:56:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1520", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 84, 
+      "text": "On agreeing to the Obey amendment (A003) Failed by recorded vote: 186 - 239 (Roll no. 84).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt617-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce funding for counternarcotics activities by $552 million.", 
+  "house_number": 3, 
+  "introduced_at": "2000-03-29", 
+  "number": 617, 
+  "purpose": "An amendment numbered 5 printed in part B of House Report 106-549 to cut $552 million of the $1.071 billion in Title I of the bill for \"Counternarcotics\".", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-29T15:56:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21T14:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2427-2428", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2427", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21T14:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Inslee amendment (A029) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt97-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment reduces by 50 percent royalty payments for wind energy generation on lands managed by the Bureau of Land Management.", 
+  "house_number": 29, 
+  "introduced_at": "2005-04-21", 
+  "number": 97, 
+  "purpose": "An amendment numbered 28 printed in House Report 109-49 to reduce by 50% any royalty payments, excluding the costs of processing the rights-of-way, for wind energy generation that otherwise would be paid to the Treasury on BLM lands. This royalty relief provision terminagtes after 10 years of enactment or after the Secretary declares there exists a generation capacity of at least 10,000 megawatts of electricity from renewable sources on public lands, whichever is sooner.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-21T14:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

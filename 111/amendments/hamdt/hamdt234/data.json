@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-17T19:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6957-6958", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H6957", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T13:35:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6992-6993", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 374, 
+      "text": "On agreeing to the Hensarling amendment (A024) Failed by recorded vote: 115 - 311 (Roll no. 374).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt234-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 24, 
+  "introduced_at": "2009-06-17", 
+  "number": 234, 
+  "purpose": "Amendment numbered 76 printed in the Congressional Record to prohibit use of funds in the bill for the Maine Department of Marine Resources, Augusta, ME, for Maine Lobster Research and Inshore Trawl Survey.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-06-18T13:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

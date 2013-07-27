@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-21", 
+      "references": [
+        {
+          "reference": "CR S10276", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10276", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1755 proposed by Senator Bennett for Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1755 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1755-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-20", 
+  "number": 1755, 
+  "proposed_at": "2005-09-21", 
+  "purpose": "To require the Secretary of Agriculture to prepare a report on the conduct of activities to address bark beetle infestations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

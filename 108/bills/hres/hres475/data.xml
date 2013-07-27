@@ -1,0 +1,89 @@
+<bill session="108" type="hr" number="475" updated="2013-07-14T19:00:14-04:00">
+  <state datetime="2004-03-09T19:19:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2004-03-09T19:19:00-05:00"/>
+  </status>
+  <introduced datetime="2003-12-08"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the San Jose Earthquakes for winning the 2003 Major League Soccer Cup.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400097" joined="2003-12-08"/>
+    <cosponsor id="400124" joined="2003-12-08"/>
+    <cosponsor id="400129" joined="2003-12-08"/>
+    <cosponsor id="400231" joined="2003-12-08"/>
+    <cosponsor id="400237" joined="2003-12-08"/>
+    <cosponsor id="400245" joined="2003-12-08"/>
+    <cosponsor id="400322" joined="2003-12-08"/>
+    <cosponsor id="400371" joined="2004-03-09"/>
+    <cosponsor id="400387" joined="2003-12-08"/>
+    <cosponsor id="400396" joined="2003-12-08"/>
+    <cosponsor id="400403" joined="2003-12-08"/>
+    <cosponsor id="400422" joined="2004-03-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-12-08">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-12-12">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-02-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-02-26">
+      <text>Subcommittee on Civil Service and Agency Organization Discharged.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-02-26">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2004-03-09T15:02:00-05:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-03-09T15:02:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H888-890" label="consideration"/>
+    </action>
+    <action datetime="2004-03-09T15:03:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 475.</text>
+    </action>
+    <action datetime="2004-03-09T15:13:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2004-03-09T19:01:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H895" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2004-03-09T19:19:00-05:00" how="roll" result="pass" roll="44" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 44).</text>
+      <reference ref="CR H888" label="text"/>
+    </vote>
+    <action datetime="2004-03-09T19:19:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="sr" number="280"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Athletes"/>
+    <term name="California"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Soccer"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2004--Passed House without amendment.
+Congratulates the San Jose Earthquakes for winning the 2003 Major League Soccer Cup. Recognizes the achievement of the Earthquake's players, coaches, staff, and supporters in bringing the Soccer Cup to San Jose. Commends the San Jose community for its enthusiastic support of the Earthquakes. Expresses the hope that Major League Soccer will continue to inspire fans and young players by producing teams of the Earthquake's high caliber.</summary>
+</bill>

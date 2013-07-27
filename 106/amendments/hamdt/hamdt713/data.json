@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-16T18:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3141-3143", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3141-3142", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Ryan (WI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-16T19:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ryan (WI) amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt713-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr853-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 853
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment applies the on-budget surplus to the pay-go scorecard to allow the surplus to be used for either offsetting tax relief or entitlement reform.", 
+  "house_number": 6, 
+  "introduced_at": "2000-05-16", 
+  "number": 713, 
+  "purpose": "An amendment numbered 7 printed in House Report 106-613 to add a new subtitle providing for spending accountability lock-box. Under the amendment, amounts not spent are directed toward reducing the debt instead of being routed to other spending accounts.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Ryan, Paul", 
+    "state": "WI", 
+    "thomas_id": "01560", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-16T19:09:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

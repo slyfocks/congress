@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-23T19:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1355-1363", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-23T20:11:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1355-1356", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 71, 
+      "text": "On agreeing to the DeFazio amendment (A002) Failed by recorded vote: 61 - 351 (Roll no. 71).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt610-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres290-106", 
+    "bill_type": "hconres", 
+    "congress": 106, 
+    "number": 290
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute sought to reserve surpluses for debt reduction, a prescription drug benefit, education and social services programs, and specified tax credits.", 
+  "house_number": 2, 
+  "introduced_at": "2000-03-23", 
+  "number": 610, 
+  "purpose": "An amendment in the nature of a substitute numbered 2 printed in part B of H. Rept. 106-535 to recommend $276.2 billion in budget authority and $274.5 billion in outlays for national defense; propose $30 million in budget authority and $22.3 billion in outlays for community and regional development; recommend $85.9 billion in budget authority and $74.8 billion in outlays for education, training, employment, and social services; propose using additional non-Social Security surpluses to create a Medicare prescription drug benefit; and to recommend targeted tax cuts, such as expanding the EITC and increasing the Dependent Care Tax Credit.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-23T20:11:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

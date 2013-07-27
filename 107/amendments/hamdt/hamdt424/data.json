@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T20:38:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H436-441", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H436-437", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Combest.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13T21:24:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 27, 
+      "text": "On agreeing to the Combest amendment (A010) Failed by recorded vote: 191 - 237 (Roll no. 27).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt424-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide an exemption for communications pertaining to workers, farmers, families, and individuals.", 
+  "house_number": 10, 
+  "introduced_at": "2002-02-13", 
+  "number": 424, 
+  "purpose": "Amendment numbered 30 printed in the Congressional Record February 12, 2002 exempting from the bill any communication/advertisement that consists of information or commentary about a person holding or seeking federal office on any matter pertaining to workers, farmers or families.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Combest, Larry", 
+    "state": "TX", 
+    "thomas_id": "00224", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-02-13T21:24:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

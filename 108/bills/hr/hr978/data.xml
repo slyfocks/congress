@@ -1,0 +1,76 @@
+<bill session="108" type="h" number="978" updated="2013-07-14T19:00:51-04:00">
+  <state datetime="2003-10-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2003-10-03"/>
+  </status>
+  <introduced datetime="2003-02-27"/>
+  <titles>
+    <title as="introduced" type="official">To amend chapter 84 of title 5, United States Code, to provide that certain Federal annuity computations are adjusted by 1 percentage point relating to periods of receiving disability payments, and for other purposes.</title>
+  </titles>
+  <sponsor id="400095"/>
+  <cosponsors>
+    <cosponsor id="400161" joined="2003-02-27"/>
+    <cosponsor id="400251" joined="2003-09-10"/>
+    <cosponsor id="400283" joined="2003-09-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-02-27">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-09-10T11:04:00-04:00">
+      <text>Mrs. Davis, Jo Ann moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-09-10T11:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8097-8098" label="consideration"/>
+    </action>
+    <action datetime="2003-09-10T11:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 978.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-09-10T11:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8097" label="text"/>
+    </vote>
+    <action datetime="2003-09-10T11:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2003-09-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11424" label="consideration"/>
+    </vote>
+    <topresident datetime="2003-09-11">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2003-09-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2003-09-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2003-10-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2003-10-03" type="public" number="108-92">
+      <text>Became Public Law No: 108-92.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="481"/>
+    <bill relation="unknown" session="108" type="s" number="481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Annuities"/>
+    <term name="Civil service retirement"/>
+    <term name="Disability retirement"/>
+    <term name="Disabled"/>
+    <term name="Federal employees"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/2003--Public Law.
+Provides that the percentage otherwise applicable for a Federal Employees' Retirement System annuity computation that includes, in the aggregate, at least two months of credit for any period of receiving disability compensation benefits shall be increased by one percentage point.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T16:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5526-5527, H5535-5536", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5527", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Johnson (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T18:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 647, 
+      "text": "On agreeing to the Johnson (GA) amendment (A009) Failed by recorded vote: 163 - 263 (Roll no. 647).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt728-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1938-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1938
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require a study on the health impacts of increased air pollution in communities surrounding the refineries that will transport diluted bitumen through the proposed Keystone XL pipeline before any approval of the pipeline could be granted.", 
+  "house_number": 9, 
+  "introduced_at": "2011-07-26", 
+  "number": 728, 
+  "purpose": "An amendment numbered 9 printed in House Report 112-181 to require a study on the health impacts of increased air pollution in communities surrounding the refineries that will transport diluted bitumen through the proposed Keystone XL pipeline.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T18:03:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

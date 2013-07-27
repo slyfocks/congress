@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-17T12:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8304-8315", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8304-8315", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-17T12:09:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt396-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr7-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 7
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2003-09-17", 
+  "number": 396, 
+  "purpose": "An amendment printed in part A of House Report 108-273 considered as adopted pursuant to the provisions of H. Res. 370.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-09-17T12:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

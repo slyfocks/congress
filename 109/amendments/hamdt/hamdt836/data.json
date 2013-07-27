@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-18T13:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2798-2800, CR 5/19/2006 H2843", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2798", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-18T18:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 163, 
+      "text": "On agreeing to the Weiner amendment (A003) Agreed to by recorded vote: 266 - 152 (Roll no. 163).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt836-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5386-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5386
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the National Park Service by $1 million for security at the Statue of Liberty.", 
+  "house_number": 3, 
+  "introduced_at": "2006-05-18", 
+  "number": 836, 
+  "purpose": "An amendment to increase funding (by transfer) by $1 million for the National Park Service in order to address the continued closure of the Statue of Liberty.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-18T18:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

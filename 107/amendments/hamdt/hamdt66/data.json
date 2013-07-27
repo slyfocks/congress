@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-23T16:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2620", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2620", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T16:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Velazquez amendment (A024) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt66-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment allows grantees to count in-kind contributions toward a matching requirement.", 
+  "house_number": 24, 
+  "introduced_at": "2001-05-23", 
+  "number": 66, 
+  "purpose": "An amendment numbered 25 printed in House Report 107-69 amends Title V to make it easier for entities in disadvantaged communities to successfully apply for 21st century community learning grants in states that exercise the option to require a match by allowing them to meet the matching requirement with in-kind contributions.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "thomas_id": "01184", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-23T16:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

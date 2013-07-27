@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-29T12:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7758-7759", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7758-7759", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-29T12:56:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt778-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3193-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3193
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2004-09-29", 
+  "number": 778, 
+  "purpose": "An amendment contained in House Report 108-707 and considered as adopted pursuant to the provisions of H. Res. 803.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-09-29T12:56:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

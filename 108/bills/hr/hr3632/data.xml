@@ -1,0 +1,143 @@
+<bill session="108" type="h" number="3632" updated="2013-07-14T19:02:13-04:00">
+  <state datetime="2004-12-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2004-12-23"/>
+  </status>
+  <introduced datetime="2003-11-21"/>
+  <titles>
+    <title as="introduced" type="short">Anti-Counterfeiting Amendments of 2003</title>
+    <title as="reported to house" type="short">Anti-counterfeiting Amendments Act of 2004</title>
+    <title as="passed house" type="short">Intellectual Property Protection and Courts Amendments Act of 2004</title>
+    <title as="passed house" partial="1" type="short">Anti-counterfeiting Amendments Act of 2004</title>
+    <title as="passed house" partial="1" type="short">Fraudulent Online Identity Sanctions Act</title>
+    <title as="passed senate" type="short">Intellectual Property Protection and Courts Amendments Act of 2004</title>
+    <title as="passed senate" partial="1" type="short">Anti-counterfeiting Amendments Act of 2004</title>
+    <title as="passed senate" partial="1" type="short">Fraudulent Online Identity Sanctions Act</title>
+    <title as="enacted" type="short">Intellectual Property Protection and Courts Amendments Act of 2004</title>
+    <title as="enacted" partial="1" type="short">Anti-counterfeiting Amendments Act of 2004</title>
+    <title as="enacted" partial="1" type="short">Fraudulent Online Identity Sanctions Act</title>
+    <title as="introduced" type="official">To prevent and punish counterfeiting of copyrighted copies and phonorecords, and for other purposes.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2004-01-20"/>
+    <cosponsor id="400068" joined="2003-11-21"/>
+    <cosponsor id="400144" joined="2003-11-21"/>
+    <cosponsor id="400154" joined="2003-11-21"/>
+    <cosponsor id="400212" joined="2003-11-21"/>
+    <cosponsor id="400430" joined="2003-11-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-11-21">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2003-12-10">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-02-12">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-03-31">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-03-31">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-06-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-06-23">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2004-07-13T15:27:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 108-600.</text>
+    </action>
+    <calendar datetime="2004-07-13T15:27:00-04:00" calendar="Union" number="360">
+      <text>Placed on the Union Calendar, Calendar No. 360.</text>
+    </calendar>
+    <action datetime="2004-09-21T14:54:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2004-09-21T14:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7264-7267" label="consideration"/>
+    </action>
+    <action datetime="2004-09-21T14:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3632.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-09-21T15:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7264-7265" label="text"/>
+    </vote>
+    <action datetime="2004-09-21T15:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-09-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2004-12-08">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S12028-12029" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2004-12-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2004-12-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2004-12-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2004-12-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2004-12-23">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2004-12-23" type="public" number="108-482">
+      <text>Became Public Law No: 108-482.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="s" number="2227"/>
+    <bill relation="unknown" session="108" type="s" number="2242"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Actions and defenses"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Business records"/>
+    <term name="Commerce"/>
+    <term name="Computer software"/>
+    <term name="Copyright"/>
+    <term name="Counterfeiting"/>
+    <term name="Damages"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Injunctions"/>
+    <term name="Intellectual property"/>
+    <term name="Labeling"/>
+    <term name="Law"/>
+    <term name="Legal fees"/>
+    <term name="Limitation of actions"/>
+    <term name="Motion pictures"/>
+    <term name="Packaging"/>
+    <term name="Profit"/>
+    <term name="Recidivists"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sound recording and reproducing"/>
+  </subjects>
+  <amendments/>
+  <summary>12/23/2004--Public Law.
+Intellectual Property Protection and Courts Amendments Act of 2004 - Title I: Anti-counterfeiting Provisions - Anti-counterfeiting Amendments Act of 2004 - (Sec. 102) Rewrites Federal criminal code provisions regarding trafficking in counterfeit labels. Prohibits knowingly trafficking in: (1) a counterfeit or illicit label (defined in this Act) affixed to, enclosing, or accompanying, or designed to be affixed to, enclose, or accompany, a phonorecord, a copy of a computer program, motion picture (or other audiovisual work), literary work, or pictorial, graphic, or sculptural work, a work of visual art, or documentation or packaging; or (2) counterfeit documentation or packaging. Provides for forfeiture or destruction of illicit (as well as counterfeit) labels and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels. Authorizes a copyright owner who is injured, or threatened with injury, by a violation to bring a civil action in U.S. district court. Authorizes the court: (1) to grant temporary or permanent injunctions to prevent or restrain violations; (2) to order the impounding of any article in the alleged violator's custody or control that was involved in a violation; and (3) to award to the injured party reasonable attorney fees and costs, actual damages, and any additional profits of the violator or statutory damages, as specified. Authorizes: (1) the injured party to elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits an award of statutory damages for each violation in a sum of between $2,500 and $25,000; and (2) the court to increase an award of damages by three times the amount that would otherwise be awarded for a violation occurring within three years after a final judgment was entered for a previous violation. Requires a civil action to be commenced within three years after the the violation is discovered. (Sec. 103) Declares that this title shall not: (1) affect provisions governing liability under Federal copyright law or fair use of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging; or (2) be construed to apply to the electronic transmission of certificates, licensing documents, registration cards, similar labeling components, or documentation or packaging. Title II: Fraudulent Online Identity Sanctions - Fraudulent Online Identity Sanctions Act - (Sec. 202) Amends the Trademark Act of 1946 and Federal copyright law to make it a a rebuttable presumption that a trademark violation or copyright infringement was committed willfully for purposes of determining relief if the violator, or a person acting in concert, knowingly provided or caused to be provided materially false contact information to a domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the violation or infringement. (Sec. 204) Requires the maximum imprisonment otherwise provided for a felony offense to be doubled or increased by seven years, whichever is less, if the defendant knowingly falsely registers and uses a domain name in the course of the offense. Directs the U.S. Sentencing Commission to review and amend the sentencing guidelines with respect to a conviction for the false registration and use of a domain name during the course of a felony. (Sec. 205) Provides that nothing in this title shall: (1) enlarge or diminish any rights of free speech or of the press for activities related to the registration or use of domain names; and (2) restrict a court's discretion in determining relief to be assessed against a person found liable for intellectual property right infringement, or in determining the appropriate term of imprisonment for an offense under applicable law. Title III: Courts - (Sec. 301) Amends the Federal judicial code to provide for: (1) an additional place of holding court in the District of Colorado at Colorado Springs; and (2) a place of holding court in the Northern District of New York at Plattsburgh.</summary>
+</bill>

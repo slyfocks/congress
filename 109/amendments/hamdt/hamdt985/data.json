@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-08T19:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3574-3575", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3574", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-08T19:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rush amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt985-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5252-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5252
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment establishes a dispute resolution process for monetary disputes between local franchise authorities and cable operators.", 
+  "house_number": 5, 
+  "introduced_at": "2006-06-08", 
+  "number": 985, 
+  "purpose": "An amendment numbered 5 printed in House Report 109-491 to set forth a complaint process to resolve fee disputes between a local franchise authority and a cable operator. A franchise authority or a cable operator must provide written notice to each other if there is a dispute regarding franchise fees or PEG/I-Net support. Both parties must meet within 30 days of notification. If the local franchise authority and the cable operator have not resolved the dispute within 90 days then both parties can petition the FCC to resolve the complaint. The FCC has 90 days to resolve any fee disputes. Provides a 3-year limitation in bringing a complaint to the FCC regarding fee disputes.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-08T19:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

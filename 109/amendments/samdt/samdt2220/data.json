@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11857-11858", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11857-11858", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2220 proposed by Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [
+        {
+          "reference": "CR S11953, S11958", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [], 
+      "text": "Amendment SA 2220 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2220-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-25", 
+  "number": 2220, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To provide stop gap coverage for low-income Seniors and disabled individuals who may lose benefits or suffer a gap in coverage due to the implementation of the Medicare part D prescription drug benefit.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-10-25", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

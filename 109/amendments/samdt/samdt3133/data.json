@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2226-2227, S2241", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2226-2227", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3133 proposed by Senator Conrad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 55, 
+      "text": "Amendment SA 3133 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 55.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3133-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-16", 
+  "number": 3133, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To increase funding to combat avian flu, increase local preparedness, and create a Manhattan Project-like effort to develop a vaccine to inoculate the U.S. Population against a pandemic by $5 billion in FY 2007 paid for by requiring tax withholding on government payments to contractors like Halliburton.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

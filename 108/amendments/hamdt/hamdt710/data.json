@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-20T13:10:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6012-6013", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6012", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Oxley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-20T13:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Oxley amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt710-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3574-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3574
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment clarifies that a company that wishes to voluntarily expense its employee stock options may do so based on the expensing rules that companies are using today to expense their stock options.", 
+  "house_number": 1, 
+  "introduced_at": "2004-07-20", 
+  "number": 710, 
+  "purpose": "An amendment numbered one printed in House Report 108-616 to clarify the original intent of the bill to ensure that any company that wishes to voluntarily expense stock options in certain filings required under the securities laws may do so.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Oxley, Michael G.", 
+    "state": "OH", 
+    "thomas_id": "00885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-07-20T13:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-18", 
+      "references": [
+        {
+          "reference": "CR S4772-4774, S4775-4776", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4772-4773", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4038 proposed by Senator Cornyn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-18", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 134, 
+      "text": "Amendment SA 4038 agreed to in Senate by Yea-Nay Vote. 64 - 32. Record Vote Number: 134.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-05-19", 
+      "references": [
+        {
+          "reference": "CR S4823-4830", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4823", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 4038, previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4038-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-17", 
+  "number": 4038, 
+  "proposed_at": "2006-05-18", 
+  "purpose": "To require aliens seeking adjustment of status under section 245B of the Immigration and Nationality Act or Deferred Mandatory Departure status under section 245C of such Act to pay a supplemental application fee, which shall be used to provide financial assistance to States for health and educational services for noncitizens.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-18", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

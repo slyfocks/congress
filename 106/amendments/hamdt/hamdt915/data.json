@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-27T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5224-5227, H5245-5246", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5224", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hulshof.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-27T18:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 334, 
+      "text": "On agreeing to the Hulshof amendment (A001) Failed by recorded vote: 165 - 262 (Roll no. 334).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt915-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4733-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4733
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for the U.S. Army Corps of Engineers' general investigations account by $2 million.", 
+  "house_number": 1, 
+  "introduced_at": "2000-06-27", 
+  "number": 915, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to increase by $2 million the funding for the Army Corps of Engineers General Investigating Account. An equal amount is deducted from the account for the Corps' General Expenses account as an offset.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Hulshof, Kenny C.", 
+    "state": "MO", 
+    "thomas_id": "01492", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-27T18:54:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

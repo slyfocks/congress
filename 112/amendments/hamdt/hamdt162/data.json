@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-19T00:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 2/18/2011 H1323-1324, H1338-1339", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 2/18/2011 H1323", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A152) offered by Mr. Heller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-19T02:11:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 139, 
+      "text": "On agreeing to the Heller amendment (A152) Failed by recorded vote: 209 - 213 (Roll no. 139).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt162-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 152, 
+  "introduced_at": "2011-02-19", 
+  "number": 162, 
+  "purpose": "An amendment numbered 482 printed in the Congressional Record to prohibit the use of funds to be used to designate monuments under the Act of June 8, 1906, (commonly known as the \"Antiquities Act of 1906\"; 16 U.S.C. 431, et seq.).", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-19T02:11:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

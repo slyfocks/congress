@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-10-10T09:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7739-7751", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7739-7740", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Ms. Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-10T10:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 452, 
+      "text": "On agreeing to the Lee amendment (A001) Failed by the Yeas and Nays: 72 - 355 (Roll no. 452).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt608-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hjres114-107", 
+    "bill_type": "hjres", 
+    "congress": 107, 
+    "number": 114
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to have the United States work through the United Nations to seek to resolve the matter of ensuring that Iraq is not developing weapons of mass destruction, through mechanisms such as the resumption of weapons inspections, negotiation, enquiry, mediation, regional arrangements, and other peaceful means.", 
+  "house_number": 1, 
+  "introduced_at": "2002-10-10", 
+  "number": 608, 
+  "purpose": "An amendment numbered 1 printed House Report 107-724 in the nature of a substitute that urges the U.S. to re-engage the diplomatic process and stresses the U.S. government's commitment to the U.N. inspections process.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-10-10T10:45:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

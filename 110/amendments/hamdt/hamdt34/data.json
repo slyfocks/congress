@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-09T12:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2367-2368", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2367", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-09T12:08:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Stupak amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt34-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr720-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 720
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires the Administrator of the Environmental Protection Agency, in consultation with the Secretary of State and the Government of Canada, to conduct a study of the condition of wastewater treatment facilities located in the United States and Canada that discharge into the Great Lakes.", 
+  "house_number": 1, 
+  "introduced_at": "2007-03-09", 
+  "number": 34, 
+  "purpose": "An amendment numbered 1 printed in part B of House Report 110-36 to require the Environmental Protection Agency (EPA), in consultation with the State Department and Canadian government, to study wastewater treatment facilities that discharge into the Great Lakes and provide recommendations to improve monitoring, information sharing, and cooperation between the U.S. and Canada. The amendment would also require the EPA to consult with the International Joint Commission, the bi-national organization created to protect the boundary waters between the U.S. and Canada.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-09T12:08:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

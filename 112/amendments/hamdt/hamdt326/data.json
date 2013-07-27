@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T20:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3653-3660", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3653-3658", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Langevin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T13:15:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3726", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 360, 
+      "text": "On agreeing to the Langevin amendment Failed by recorded vote: 172 - 246 (Roll no. 360).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt326-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to coordinate federal information security policy through the creation of a National Office for Cyberspace, updating information security management practices, and establishing measures for the protection of critical infrastructure from cyberattacks.", 
+  "house_number": 26, 
+  "introduced_at": "2011-05-25", 
+  "number": 326, 
+  "purpose": "An amendment numbered 49 printed in House Report 112-88 to coordinate federal information security policy through the creation of a National Office for Cyberspace, updating information security management practices, and establishing measures for the protection of critical infrastructure from cyberattacks.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Langevin, James R.", 
+    "state": "RI", 
+    "thomas_id": "01668", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-26T13:15:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

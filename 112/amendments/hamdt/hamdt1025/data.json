@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-26T16:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2173", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2173", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-26T16:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Flake amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1025-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3523-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3523
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment adds a requirement to include a list of all federal agencies receiving information shared with the government in the report by the Inspector General of the Intelligence Community required under the legislation.", 
+  "house_number": 7, 
+  "introduced_at": "2012-04-26", 
+  "number": 1025, 
+  "purpose": "An amendment numbered 9 printed in House Report 112-454 to add a requirement to include a list of all federal agencies receiving information shared with the government in the report by the Inspector General of the Intelligence Community required under the legislation.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-26T16:15:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-11T17:26:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6666", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6666", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-11T17:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sanders amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt376-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3061-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment deals with the granting of certain licenses to pharmaceutical companies.", 
+  "house_number": 7, 
+  "introduced_at": "2001-10-11", 
+  "number": 376, 
+  "purpose": "An amendment to add a new section prohibiting use of funds in the bill in order to grant an exclusive or partially exclusive license pursuant to chapter 18, U.S.C., relating to the availability to the public of an invention and its benefits on reasonable terms.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-11T17:32:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

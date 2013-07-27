@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T20:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2368-2370", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2368", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Abercrombie.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T20:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Abercrombie amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt80-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides for the establishment in the Department of Energy of the Sugar Cane Ethanol Pilot Program.", 
+  "house_number": 11, 
+  "introduced_at": "2005-04-20", 
+  "number": 80, 
+  "purpose": "An amendment numbered 11 printed in House Report 109-49 to authorize a 3-year demonstration program for the production of ethanol in Hawaii to parallel the existing program for corn to show that the process can be applicable to cane sugar and can be replicated on larger scale once the sugar cane industry has site located and constructed ethanol production facilities.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Abercrombie, Neil", 
+    "state": "HI", 
+    "thomas_id": "00002", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20T20:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

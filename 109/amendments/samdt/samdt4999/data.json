@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9485-9487, S9490-9491", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9485", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4999 proposed by Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 246, 
+      "text": "Amendment SA 4999 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 246.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4999-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-13", 
+  "number": 4999, 
+  "proposed_at": "2006-09-13", 
+  "purpose": "To improve the security of cargo containers destined for the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-09-13", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

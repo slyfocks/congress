@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-24T15:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4864", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4864", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-24T15:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hyde amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt236-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1658-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment clarifies that the provisions in the bill apply to civil asset forfeiture and not criminal asset forfeiture.", 
+  "house_number": 1, 
+  "introduced_at": "1999-06-24", 
+  "number": 236, 
+  "purpose": "An amendment no. 1 and printed in H. Rept. 106-193 to clarify that the provisions in the bill apply to civil asset forfeitures not criminal asset forteitures.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-06-24T15:12:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

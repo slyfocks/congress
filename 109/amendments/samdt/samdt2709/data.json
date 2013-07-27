@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-02", 
+      "references": [
+        {
+          "reference": "CR S473, S487-488", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S473", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2709 proposed by Senator Frist to Amendment SA 2708.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "references": [], 
+      "text": "Proposed amendment SA 2709 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2709-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2708-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2708
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4297-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4297
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-02", 
+  "number": 2709, 
+  "proposed_at": "2006-02-02", 
+  "purpose": "To provide for an effective date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-02-02", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

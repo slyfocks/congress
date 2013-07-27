@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-18T19:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3548-3550", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3548", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-20T11:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3709", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 239, 
+      "text": "On agreeing to the McHenry amendment (A008) Failed by recorded vote: 164 - 236 (Roll no. 239).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt95-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1257-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1257
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 8, 
+  "introduced_at": "2007-04-18", 
+  "number": 95, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to insert a new paragraph providing that a shareholder who is casting a permitted vote shall be required to disclose to beneficiaries whether such vote was cast to approve or disapprove compensation.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-04-20T11:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

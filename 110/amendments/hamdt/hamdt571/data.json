@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T23:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8107-8109", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8107", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A062) offered by Mr. Gingrey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-19T16:55:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8159-8160", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8159-8160", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 673, 
+      "text": "On agreeing to the Gingrey amendment (A062) Agreed to by recorded vote: 254 - 168 (Roll no. 673).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt571-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 62, 
+  "introduced_at": "2007-07-18", 
+  "number": 571, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to prohibit use of funds by the SSA to administer Socia Security benefit payments, under any agreement between the United States and Mexico establishing totalization arrangements between the two countries.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-19T16:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

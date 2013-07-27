@@ -1,0 +1,51 @@
+<bill session="108" type="h" number="1917" updated="2013-07-14T19:01:19-04:00">
+  <state datetime="2003-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2003-05-01"/>
+  </status>
+  <introduced datetime="2003-05-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to authorize military recreational facilities to be used by any veteran with a compensable service-connected disability.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="400128" joined="2003-07-23"/>
+    <cosponsor id="400130" joined="2003-06-12"/>
+    <cosponsor id="400136" joined="2003-07-23"/>
+    <cosponsor id="400143" joined="2003-05-22"/>
+    <cosponsor id="400306" joined="2003-06-12"/>
+    <cosponsor id="400331" joined="2003-05-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-05-01">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2003-05-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E893-894"/>
+    </action>
+    <action datetime="2003-06-04">
+      <text>Referred to the Subcommittee on Total Force.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2003-06-04">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS27" subcommittee="Total Force" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="Military service clubs"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2003--Introduced.
+Permits a veteran with a compensable service-connected disability and his or her dependents to use military morale, welfare, and recreational facilities on the same basis as members (and their dependents) entitled to retired pay.</summary>
+</bill>

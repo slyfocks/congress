@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-05T12:38:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H7981-7989, H7991", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H7982-7983", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-05T13:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 478, 
+      "text": "On agreeing to the Davis, Tom amendment (A002) Agreed to by recorded vote: 205 - 203 (Roll no. 478).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-09-09T21:02:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the amendment (A002) Agreed to by recorded vote: (Roll No. 490).", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt368-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2765-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2765
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment adds language consisting of the \"DC Parental Choice Incentive Act of 2003\".", 
+  "house_number": 2, 
+  "introduced_at": "2003-09-05", 
+  "number": 368, 
+  "purpose": "An amendment to authorize a school voucher program in the District of Columbia. Students will be eligible for up to $7500 in funds to attend a private elementary or high school in the District. Eligible students must be residents of the District and their family income could not exceed 185% of the federal poverty level.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-09-05T13:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

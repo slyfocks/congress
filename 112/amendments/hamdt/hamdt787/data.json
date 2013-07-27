@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-09T10:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6029-6030, H6031-6032", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6029", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Carney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-09T10:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 696, 
+      "text": "On agreeing to the Carney amendment (A005) Agreed to by recorded vote: 303 - 92 (Roll no. 696).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt787-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1892-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment inserts sense of Congress language that railway transportation security has been and must continue to be a priority of the intelligence community in infrastructure threat assessment, namely through the coordination of the Office of Intelligence & Analysis.", 
+  "house_number": 5, 
+  "introduced_at": "2011-09-09", 
+  "number": 787, 
+  "purpose": "An amendment numbered 7 printed in Part B of House Report 112-200 to express the sense of Congress that railway transportation security has been and must continue to be a priority of the intelligence community in infrastructure threat assessment, namely through the coordination of the Office of Intelligence & Analysis.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carney, John C., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01999", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-09-09T10:59:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-27", 
+      "references": [
+        {
+          "reference": "CR S3691", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3691", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3599 proposed by Senator Murray for Senator Lugar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3599 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3599-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-25", 
+  "number": 3599, 
+  "proposed_at": "2006-04-27", 
+  "purpose": "To increase by $8,000,000 and deposit in the Former Soviet Union Threat Reduction Account the amount appropriated for Cooperative Threat Reduction.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lugar, Richard G.", 
+    "state": "IN", 
+    "thomas_id": "01387", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-27", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

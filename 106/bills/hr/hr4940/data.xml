@@ -1,0 +1,104 @@
+<bill session="106" type="h" number="4940" updated="2013-07-14T18:55:04-04:00">
+  <state datetime="2000-10-26">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2000-10-26"/>
+  </status>
+  <introduced datetime="2000-07-24"/>
+  <titles>
+    <title as="introduced" type="official">To designate the museum operated by the Secretary of Energy in Oak Ridge, Tennessee, as the "American Museum of Science and Energy", and for other purposes.</title>
+  </titles>
+  <sponsor id="400421"/>
+  <cosponsors>
+    <cosponsor id="400549" joined="2000-07-24"/>
+    <cosponsor id="400548" joined="2000-07-24"/>
+    <cosponsor id="400116" joined="2000-07-24"/>
+    <cosponsor id="400138" joined="2000-07-24"/>
+    <cosponsor id="400155" joined="2000-07-24"/>
+    <cosponsor id="400547" joined="2000-07-24"/>
+    <cosponsor id="400202" joined="2000-07-24"/>
+    <cosponsor id="400395" joined="2000-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-07-24">
+      <text>Referred to the House Committee on Science.</text>
+    </action>
+    <action datetime="2000-08-02">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <action datetime="2000-09-21">
+      <text>Subcommittee on Energy and Environment Discharged.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <action datetime="2000-10-24T14:48:00-04:00">
+      <text>Committee on Science discharged.</text>
+    </action>
+    <action datetime="2000-10-24T14:49:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-10-24T14:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H10622-10627" label="consideration"/>
+    </action>
+    <action datetime="2000-10-24T14:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4940.</text>
+    </action>
+    <action datetime="2000-10-24T15:03:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hall (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2000-10-24T19:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref=" CR H10708" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-24T19:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref=" CR H10622-10625" label="text"/>
+    </vote>
+    <action datetime="2000-10-24T19:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-25">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="2000-10-26">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S11190-11191" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2000-10-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2000-10-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science" activity="Referral, Discharged"/>
+    <committee activity="Referral, Discharged" code="HSSY18" subcommittee="Energy and Environment" name="House Science"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative fees"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Commerce"/>
+    <term name="Concessions"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy"/>
+    <term name="Gifts"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Injunctions"/>
+    <term name="Law"/>
+    <term name="Museums"/>
+    <term name="Names"/>
+    <term name="Retail trade"/>
+    <term name="Social welfare"/>
+    <term name="Tennessee"/>
+    <term name="Volunteer workers in government"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4348"/>
+  </amendments>
+  <summary>10/26/2000--Passed Senate amended.
+Designates the museum operated by the Secretary of Energy in Oak Ridge, Tennessee, as the "American Museum of Science and Energy". Declares it the official museum of science and energy in the United States, and confers upon it the sole right to use such name throughout the United States and its possessions.Grants the Secretary certain implementation authority, including volunteer recruitment and training for Museum- related activities. Treats such volunteers as Federal employees for purposes of the Federal Tort Claims Act and compensation for work-related injuries.</summary>
+</bill>

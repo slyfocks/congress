@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24", 
+      "references": [
+        {
+          "reference": "CR S5100-5104, S5105", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5100", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4095 proposed by Senator Dorgan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 150, 
+      "text": "Amendment SA 4095 not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 150.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4095-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-22", 
+  "number": 4095, 
+  "proposed_at": "2006-05-24", 
+  "purpose": "To sunset the H-2C visa program after the date that is 5 years after the date of enactment of this Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dorgan, Byron L.", 
+    "state": "ND", 
+    "thomas_id": "00308", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

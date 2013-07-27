@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-21", 
+      "references": [
+        {
+          "reference": "CR S9886", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9886", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5032 proposed by Senator Frist to Amendment SA 5031.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-25", 
+      "references": [
+        {
+          "reference": "CR S10097", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-25", 
+      "references": [], 
+      "text": "SA 5032 fell when SA 5031 withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt5032-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt5031-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 5031
+  }, 
+  "amends_bill": {
+    "bill_id": "hr6061-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-21", 
+  "number": 5032, 
+  "proposed_at": "2006-09-21", 
+  "purpose": "To amend the effective date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-09-21", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

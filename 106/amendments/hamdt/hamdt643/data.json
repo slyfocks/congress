@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-30T12:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1610-1611", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Taylor (MS).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-30T12:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1610", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Taylor (MS) amendment (A029) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt643-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 29, 
+  "introduced_at": "2000-03-30", 
+  "number": 643, 
+  "purpose": "An amendment to provide that none of the funds made available in the bill may be expended for the support of in excess of 300 United States military personnel in Colombia.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Taylor, Gene", 
+    "state": "MS", 
+    "thomas_id": "01142", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-30T12:34:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

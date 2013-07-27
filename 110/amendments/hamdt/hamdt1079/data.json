@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-06-11T12:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5254-5255", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5254-5255", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Smith (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-11T12:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (WA) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1079-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6003-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 6003
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires Amtrak to engage in good faith discussions, with commuter rail entities and public transportation authorities operating on the same trackage owned by a rail carrier as Amtrak, with respect to routing and timing of trains to efficiently move a maximal number of commuters, intercity, and passenger rail passengers, particularly during peak times of commuter usage. The amendment also requires such discussion with respect to the expansion and enhancement of commuter rail and regional rail public transportation service.", 
+  "house_number": 3, 
+  "introduced_at": "2008-06-11", 
+  "number": 1079, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-703 to require Amtrak to engage in good faith discussions, with commuter rail entities and public transportation authorities operating on the same trackage owned by a rail carrier as Amtrak, with respect to routing and timing of trains to efficiently move a maximal number of commuters, intercity, and passenger rail passengers, particularly during peak times of commuter usage. The amendment would also require such discussion with respect to the expansion and enhancement of commuter rail and regional rail public transportation service.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Smith, Adam", 
+    "state": "WA", 
+    "thomas_id": "01528", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-06-11T12:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

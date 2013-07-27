@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-27T17:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1622-1623, H1626", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1622", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Owens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-27T18:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 136, 
+      "text": "On agreeing to the Owens amendment (A004) Failed by recorded vote: 194 - 222 (Roll no. 136).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt995-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3309-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2012-03-27", 
+  "number": 995, 
+  "purpose": "An amendment numbered 7 printed in House Report 112-422 to express that nothing in this Act shall impede the FCC from implementing rules to ensure broadband access in rural areas.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Owens, William L.", 
+    "state": "NY", 
+    "thomas_id": "01974", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-27T18:01:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

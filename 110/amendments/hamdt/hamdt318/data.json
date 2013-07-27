@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T12:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6684-6686, H6686-6690, H6716", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6684", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Westmoreland.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-19T17:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 504, 
+      "text": "On agreeing to the Westmoreland amendment (A003) Failed by recorded vote: 111 - 315 (Roll no. 504).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt318-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for the Mississippi River and Tributaries program by $18 million.", 
+  "house_number": 3, 
+  "introduced_at": "2007-06-19", 
+  "number": 318, 
+  "purpose": "An amendment numbered 24 printed in the Congressional Record to reduced funds for the Mississippi River and Tributaries by $18 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Westmoreland, Lynn A.", 
+    "state": "GA", 
+    "thomas_id": "01779", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-19T17:43:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

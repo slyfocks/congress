@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T15:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6587-6589, H6605-6606", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6587", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 748, 
+      "text": "On agreeing to the Rush amendment (A002) Failed by recorded vote: 162 - 251 (Roll no. 748).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt803-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add a clarification that section 5 of the bill was intended to supplement the provisions of, and not be construed to supersede the Clean Air Act.", 
+  "house_number": 2, 
+  "introduced_at": "2011-10-05", 
+  "number": 803, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to add a paragraph which describes a \"Rule of Construction\" for section 5. The paragraph notes that section 5 is intended to supplement the provisions of, and shall not be construed to supersede any requirement, limitation, or other provision of, sections 112 and 129 of the Clean Air Act.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:14:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-04T13:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9839-9840", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9839", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Blumenauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-04T13:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Blumenauer amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt743-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3221-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3221
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires natural gas utilities to integrate energy efficiency resources into the plans and planning processes of the natural gas utility; and adopt policies that establish energy efficiency as a priority resource in the plans and planning processes of the natural gas utility.", 
+  "house_number": 1, 
+  "introduced_at": "2007-08-04", 
+  "number": 743, 
+  "purpose": "An amendment numbered 1 printed in part B of House Report 110-300 to title IX would encourage natural gas utilities to plan for and prioritize energy efficiency. It requires state regulators to consider crafting rate policies that align utility revenue recovery measures with incentives for energy conservation.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-08-04T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-14", 
+      "references": [
+        {
+          "reference": "CR S10895-10897", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10895", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5123 proposed by Senator Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5123 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5123-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5385-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5385
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-13", 
+  "number": 5123, 
+  "proposed_at": "2006-11-14", 
+  "purpose": "To extend the Office of the Inspector General for Iraq until 80 percent of the funds appropriated or otherwise made available to the Iraq Relief and Reconstruction Fund has been expended.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-11-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

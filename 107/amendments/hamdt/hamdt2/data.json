@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-01T12:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H575-577, H599", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H575-576", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sensenbrenner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-01T14:14:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sensenbrenner amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt2-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr333-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 333
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment makes technical and conforming changes to the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2001-03-01", 
+  "number": 2, 
+  "purpose": "Amendment no. 1 printed in H. Rept. 107-4 to make technical and conforming changes.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-03-01T14:14:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

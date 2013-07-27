@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-11T17:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3918-3921", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3918-3919", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11T17:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown (OH) amendment (A031) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt163-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2330-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2330
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment reallocates FDA funding of $1 million to the Office of Generic Drugs to evaluate and review potential patent abuse.", 
+  "house_number": 31, 
+  "introduced_at": "2001-07-11", 
+  "number": 163, 
+  "purpose": "An amendment to increase the funding by $1,000,000 for responsibilities of the FDA with respect to abbreviated applications for the approval of new drugs.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-11T17:27:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

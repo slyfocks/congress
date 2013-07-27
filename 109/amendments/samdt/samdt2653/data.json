@@ -1,0 +1,61 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-17", 
+      "references": [
+        {
+          "reference": "CR S13118-13119, S13136, S13128", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S13119", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S13126", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 2653 proposed by Senator Baucus for Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 2653 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2653-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2020-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-17", 
+  "number": 2653, 
+  "proposed_at": "2005-11-17", 
+  "purpose": "To amend the Internal Revenue Code of 1986 to extend through 2010 certain tax incentives for renewable  energy production and energy efficient building construction.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-17", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

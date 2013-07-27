@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-05T11:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6405-6406", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6405", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Simmons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-05T11:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Simmons amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt366-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2883-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2883
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires that the Central Intelligence Agency to assume 100 percent of the cost of personal liability insurance for certain CIA employees involved in counterterrorism activities.", 
+  "house_number": 6, 
+  "introduced_at": "2001-10-05", 
+  "number": 366, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to provide full reimbursement for professional liability insurance for counterterrorism employees at the Central Intelligence Agency.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Simmons, Rob", 
+    "state": "CT", 
+    "thomas_id": "01642", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-05T11:55:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

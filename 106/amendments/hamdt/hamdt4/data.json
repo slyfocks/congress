@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-02-10T11:43:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A002) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-02-10T12:50:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 16, 
+      "text": "On agreeing to the Waxman amendment (A002) Failed by recorded vote: 203 - 216 (Roll no. 16).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt4-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr350-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 350
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to permit a point of order against measures that remove, prohibit the use of appropriated funds to implement, or make less stringent mandates established to protect human health, safety, or the environment.", 
+  "house_number": 2, 
+  "introduced_at": "1999-02-10", 
+  "number": 4, 
+  "purpose": "An amendment to permit points of order against provisions in legislation which remove or make less stringent private sector mandates established to protect public health, safety and the environment.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-02-10T12:50:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

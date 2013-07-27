@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-08T16:17:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A011) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-08T19:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 393, 
+      "text": "On agreeing to the Nadler amendment (A011) Failed by recorded vote: 154 - 267 (Roll no. 393).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt431-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2684-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2684
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to add $200 million to provide 32,000 section 8 housing vouchers and add $105 million for the public housing operating fund.", 
+  "house_number": 11, 
+  "introduced_at": "1999-09-08", 
+  "number": 431, 
+  "purpose": "An amendment to provide $200 million for 32,000 Section 8 housing vouchers and $105 million for the public housing operating fund.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-08T19:47:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

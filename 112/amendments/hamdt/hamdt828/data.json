@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-11T16:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6702-6705, H6724", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6702", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Ms. Edwards.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-11T19:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 775, 
+      "text": "On agreeing to the Edwards amendment (A009) Failed by recorded vote: 157 - 260 (Roll no. 775).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt828-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2011-10-11", 
+  "number": 828, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to insert a finding by Congress that the impact of EPA's rules would create 2,200 net additional jobs.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Edwards, Donna F.", 
+    "state": "MD", 
+    "thomas_id": "01894", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-11T19:30:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

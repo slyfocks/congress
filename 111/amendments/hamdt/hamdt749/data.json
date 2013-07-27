@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-29T15:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6349-6351, H6369-6370", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6349-6350", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Latham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-29T18:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 489, 
+      "text": "On agreeing to the Latham amendment (A007) Failed by recorded vote: 197 - 225 (Roll no. 489).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt749-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5850-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5850
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce specific accounts that were increased over and above the President's request by $1.8 billion.", 
+  "house_number": 7, 
+  "introduced_at": "2010-07-29", 
+  "number": 749, 
+  "purpose": "An amendment numbered 8 printed in Part A of House Report 111-578 to cut $1.8 billion from specific accounts that were increased over and above the President's request.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Latham, Tom", 
+    "state": "IA", 
+    "thomas_id": "00666", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-07-29T18:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-19", 
+      "references": [
+        {
+          "reference": "CR S11551", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11551", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2140 proposed by Senator Bond for Senator Stabenow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2140 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2140-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-19", 
+  "number": 2140, 
+  "proposed_at": "2005-10-19", 
+  "purpose": "To provide additional funds to support program established under the LEGACY Act of 2003.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-19", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

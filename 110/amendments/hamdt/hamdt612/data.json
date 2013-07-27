@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-24T13:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8328-8330, H8353-8354", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8328-8329", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-24T17:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 697, 
+      "text": "On agreeing to the Sessions amendment (A016) Failed by recorded vote: 139 - 283 (Roll no. 697).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt612-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3074-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3074
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to limit the use of funds to used to support Amtrak's route with the highest loss, measured by passenger per mile cost as based on the National Railroad Passenger Corporation's September 2006 Financial Performance of Routes Report.", 
+  "house_number": 16, 
+  "introduced_at": "2007-07-24", 
+  "number": 612, 
+  "purpose": "An amendment numbered 15 printed in the Congressional Record to limit the use of funds to used to support Amtrak's route with the highest loss, measured by passenger per mile cost as based on the National Railroad Passenger Corporation's September 2006 Financial Performance of Routes Report.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-24T17:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

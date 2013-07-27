@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15", 
+      "references": [
+        {
+          "reference": "CR S2678-2680, S2693-2694", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2679", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 147 proposed by Senator Stabenow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 50, 
+      "text": "Amendment SA 147 not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 50.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt147-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 147, 
+  "proposed_at": "2005-03-15", 
+  "purpose": "To protect the American people from terrorist attacks by providing the necessary resources to our firefighters, police, EMS workers and other first-responders by restoring $1,626 billion in cuts to first-responder programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-15", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

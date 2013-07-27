@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-14T21:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4164-4165", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4164", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. DeLauro.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15T16:02:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4225", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 420, 
+      "text": "On agreeing to the DeLauro amendment (A002) Failed by recorded vote: 193 - 226 (Roll no. 420).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt420-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the Center for Food Safety and Applied Nutrition by $1 million for protection against E. coli sickness and would have been offset by specified reductions in administrative accounts.", 
+  "house_number": 2, 
+  "introduced_at": "2011-06-14", 
+  "number": 420, 
+  "purpose": "An amendment to increase funding for the Center for Food Safety and Applied Nutrition by $1 million which is offset by specified reductions in other accounts.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "thomas_id": "00281", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-15T16:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

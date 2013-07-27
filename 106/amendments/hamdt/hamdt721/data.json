@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-18T10:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3314-3316, H3321", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3314", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Sanford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T11:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 199, 
+      "text": "On agreeing to the Sanford amendment (A008) Failed by recorded vote: 56 - 368 (Roll no. 199).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt721-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to repeal existing law which authorizes the Secretary of Defense to convey surplus military property to local governments to support local law enforcement.", 
+  "house_number": 8, 
+  "introduced_at": "2000-05-18", 
+  "number": 721, 
+  "purpose": "An amendment numbered 10 printed in House Report 106-621 to eliminate portions of existing law which authorize the Secretary of Defense to convey surplus military property to local governments at less than fair market prices.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Marshall (Mark)", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-18T11:50:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

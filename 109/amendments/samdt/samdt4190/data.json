@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-06", 
+      "references": [
+        {
+          "reference": "CR S5511", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5511", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4190 proposed by Senator McConnell for Senator Stevens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-06", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4190 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4190-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2013-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2013
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-06", 
+  "number": 4190, 
+  "proposed_at": "2006-06-06", 
+  "purpose": "To reduce the amount authorized to be appropriated for each of the fiscal years.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stevens, Ted", 
+    "state": "AK", 
+    "thomas_id": "01440", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-06", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

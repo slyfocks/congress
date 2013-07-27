@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-10T14:43:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Edwards.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-10T15:49:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 584, 
+      "text": "On agreeing to the Edwards amendment (A006) Failed by recorded vote: 184 - 238 (Roll no. 584).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt559-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3073-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3073
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit any funding under the bill to a faith-based institution that is pervasively sectarian.", 
+  "house_number": 6, 
+  "introduced_at": "1999-11-10", 
+  "number": 559, 
+  "purpose": "Amendment no. 6 printed in H. Rept. 106-463 to prohibit any funding to a faith-based institution that is pervasively sectarian.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Edwards, Chet", 
+    "state": "TX", 
+    "thomas_id": "00335", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-11-10T15:49:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

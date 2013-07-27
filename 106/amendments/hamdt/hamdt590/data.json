@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-09T11:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H771-772", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hansen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-09T12:22:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H771", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 36, 
+      "text": "On agreeing to the Hansen amendment (A001) Agreed to by recorded vote: 417 - 3 (Roll no. 36).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt590-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1695-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1695
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment makes technical changes to the environmental review requirements and the reversionary language contained in the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2000-03-09", 
+  "number": 590, 
+  "purpose": "Amendment printed in H.Rept. 106-515 to clarify land conveyance and reversionary language and to include the Secretary of the Interior as a joint lead agency for environmental review.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hansen, James V.", 
+    "state": "UT", 
+    "thomas_id": "00498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-09T12:22:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

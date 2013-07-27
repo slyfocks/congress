@@ -1,0 +1,77 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7412", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7412", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1040 proposed by Senator Burns for Senator Bond.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7477", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7480", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7480", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1040 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1040-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1040, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To set aside funds for the University of Missouri-Columbia to establish a wetland ecology center of excellence.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bond, Christopher S.", 
+    "state": "MO", 
+    "thomas_id": "01286", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-28", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

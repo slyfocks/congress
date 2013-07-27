@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T13:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H505-506", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H505", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Matheson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-03T13:58:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Matheson amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt548-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires the National Science Foundation to study ways to improve detection, investigation, and prosecution of cyber crimes including piracy of intellectual property, crimes against children, and organized crime.", 
+  "house_number": 4, 
+  "introduced_at": "2010-02-03", 
+  "number": 548, 
+  "purpose": "An amendment numbered 4 printed in House Report 111-410 to require the National Science Foundation to study ways to improve detection, investigation, and prosecution of cyber crimes including piracy of intellectual property, crimes against children, and organized crime.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Matheson, Jim", 
+    "state": "UT", 
+    "thomas_id": "01671", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-03T13:58:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

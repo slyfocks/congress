@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T19:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3343", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3343", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Poe (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T19:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Poe (TX) amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1164-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5854-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5854
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 11, 
+  "introduced_at": "2012-05-31", 
+  "number": 1164, 
+  "purpose": "An amendment to prohibit the use of funds to prohibit a veterans service organization that is participating in the funeral or memorial service of a veteran from reciting any words as part of such service or memorial.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-31T19:36:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

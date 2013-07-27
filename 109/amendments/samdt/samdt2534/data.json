@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12778-12791", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12781-12782", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2534 proposed by Senator Warner for Senator Kennedy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2534 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2534-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-15", 
+  "number": 2534, 
+  "proposed_at": "2005-11-15", 
+  "purpose": "To provide for improved assessment of public-private competition for work performed by civilian employees of the Department of Defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-13", 
+      "references": [
+        {
+          "reference": "CR S9953-9955", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9953-9954", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1703 proposed by Senator Pryor.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "references": [
+        {
+          "reference": "CR S10003, S10024-10025, S10026", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10024", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1703 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1703-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-13", 
+  "number": 1703, 
+  "proposed_at": "2005-09-13", 
+  "purpose": "To require the FTC to conduct an immediate investigation into gasoline price-gouging, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-14", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

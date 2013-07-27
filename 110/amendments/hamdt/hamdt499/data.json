@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-12T22:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7759-7760", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7759-7760", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Financial Services.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-12T22:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Financial Services amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt499-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1851-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1851
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2007-07-12", 
+  "number": 499, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsba00", 
+    "name": "House Financial Services", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-12T22:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,77 @@
+<bill session="108" type="hc" number="22" updated="2013-07-14T19:03:03-04:00">
+  <state datetime="2003-02-11T18:55:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-02-11T18:55:00-05:00"/>
+  </status>
+  <introduced datetime="2003-01-29"/>
+  <titles>
+    <title as="introduced" type="official">Honoring Czech Republic President Vaclav Havel.</title>
+  </titles>
+  <sponsor id="400218"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="2003-01-29"/>
+    <cosponsor id="400025" joined="2003-01-29"/>
+    <cosponsor id="400087" joined="2003-02-11"/>
+    <cosponsor id="400208" joined="2003-02-11"/>
+    <cosponsor id="400231" joined="2003-01-29"/>
+    <cosponsor id="400258" joined="2003-02-11"/>
+    <cosponsor id="400260" joined="2003-02-11"/>
+    <cosponsor id="400262" joined="2003-02-11"/>
+    <cosponsor id="400371" joined="2003-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-01-29">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2003-02-11T14:48:00-05:00">
+      <text>Mr. Bereuter moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-02-11T14:48:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H339-343" label="consideration"/>
+    </action>
+    <action datetime="2003-02-11T14:48:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 22.</text>
+    </action>
+    <action datetime="2003-02-11T15:16:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-02-11T18:48:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H362" label="consideration"/>
+    </action>
+    <action datetime="2003-02-11T18:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-02-11T18:55:00-05:00" how="roll" result="pass" roll="21" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 21).</text>
+      <reference ref="CR H339-340" label="text"/>
+    </vote>
+    <action datetime="2003-02-12">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authors and authorship"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Czech Republic"/>
+    <term name="Democracy"/>
+    <term name="Foreign leaders"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="International affairs"/>
+    <term name="Theater"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2003--Passed House without amendment.
+(This measure has not been amended since it was introduced on January 29, 2003. The summary of that version is repeated here.)Honors the life-long commitment of Czech Republic President Vaclav Havel to human rights and democracy.Recognizes the exceptional achievements of Mr. Havel as playwright and president, and congratulates him for his outstanding service to the people of the Czech Republic.</summary>
+</bill>

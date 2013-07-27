@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-08", 
+      "references": [
+        {
+          "reference": "CR S1872-1881", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1872", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2944 proposed by Senator Wyden.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-09", 
+      "references": [
+        {
+          "reference": "CR S1944", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-28", 
+      "references": [
+        {
+          "reference": "CR S2439, S2454-2458, S2459", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 78, 
+      "text": "Amendment SA 2944 agreed to in Senate by Yea-Nay Vote. 84 - 13. Record Vote Number: 78.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2944-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2349-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2349
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-08", 
+  "number": 2944, 
+  "proposed_at": "2006-03-08", 
+  "purpose": "To establish as a standing order of the Senate a requirement that a Senator publicly disclose a notice of intent to object to proceeding to any measure or matter.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-28", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

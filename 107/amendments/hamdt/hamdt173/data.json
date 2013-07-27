@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-18T13:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4133-4136, H4164", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4133", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mrs. Maloney (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-18T16:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 239, 
+      "text": "On agreeing to the Maloney (NY) amendment (A007) Failed by recorded vote: 209 - 217 (Roll no. 239).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt173-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide funds to the Census Bureau in order to prepare a report on the data from the service-based enumeration from the 2000 census.", 
+  "house_number": 7, 
+  "introduced_at": "2001-07-18", 
+  "number": 173, 
+  "purpose": "An amendment numbered 29 printed in the Congressional Record to increase the funding for the Census Bureau by $500,000 in order to provide for service-based enumeration data.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-18T16:33:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

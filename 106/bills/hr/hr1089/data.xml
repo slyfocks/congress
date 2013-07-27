@@ -1,0 +1,115 @@
+<bill session="106" type="h" number="1089" updated="2013-07-14T18:53:21-04:00">
+  <state datetime="2000-04-03T18:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-04-03T18:26:00-04:00"/>
+  </status>
+  <introduced datetime="1999-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Mutual Fund Tax Awareness Act of 1999</title>
+    <title as="reported to house" type="short">Mutual Fund Tax Awareness Act of 2000</title>
+    <title as="passed house" type="short">Mutual Fund Tax Awareness Act of 2000</title>
+    <title as="introduced" type="official">To require the Securities and Exchange Commission to require the improved disclosure of after-tax returns regarding mutual fund performance, and for other purposes.</title>
+  </titles>
+  <sponsor id="400150"/>
+  <cosponsors>
+    <cosponsor id="400553" joined="1999-11-02"/>
+    <cosponsor id="400054" joined="1999-03-11"/>
+    <cosponsor id="400083" joined="1999-11-02"/>
+    <cosponsor id="400099" joined="1999-03-11"/>
+    <cosponsor id="400165" joined="1999-03-11"/>
+    <cosponsor id="400593" joined="1999-03-11"/>
+    <cosponsor id="400253" joined="1999-03-11"/>
+    <cosponsor id="400307" joined="1999-03-11"/>
+    <cosponsor id="400397" joined="1999-03-11"/>
+    <cosponsor id="400409" joined="1999-03-11"/>
+    <cosponsor id="400425" joined="1999-03-11"/>
+    <cosponsor id="400431" joined="1999-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-03-11">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1999-03-30">
+      <text>Referred to the Subcommittee on Finance and Hazardous Materials.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1999-10-29">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1999-11-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1999-11-02">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-03-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-03-15">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="2000-03-27T14:50:00-05:00">
+      <text>Reported (Amended) by the Committee on Commerce. H. Rept. 106-547.</text>
+    </action>
+    <calendar datetime="2000-03-27T14:52:00-05:00" calendar="Union" number="297">
+      <text>Placed on the Union Calendar, Calendar No. 297.</text>
+    </calendar>
+    <action datetime="2000-04-03T15:02:00-04:00">
+      <text>Mr. Gillmor moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-04-03T15:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1648-1651" label="consideration"/>
+    </action>
+    <action datetime="2000-04-03T15:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1089.</text>
+    </action>
+    <action datetime="2000-04-03T15:19:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-04-03T18:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1656-1657" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-04-03T18:26:00-04:00" how="roll" result="pass" roll="96" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 2 (Roll no. 96).</text>
+      <reference ref="CR H1649" label="text"/>
+    </vote>
+    <action datetime="2000-04-03T18:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-04-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF13" subcommittee="Finance and Hazardous Materials" name="House Commerce"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative procedure"/>
+    <term name="Commerce"/>
+    <term name="Consumer education"/>
+    <term name="Government operations and politics"/>
+    <term name="Income tax"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Investors"/>
+    <term name="Law"/>
+    <term name="Mutual funds"/>
+    <term name="Personal income tax"/>
+    <term name="Securities and Exchange Commission"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/2000--Passed House amended.
+Mutual Fund Tax Awareness Act of 2000 - Directs the Securities and Exchange Commission to revise regulations under the Securities Act of 1933 and the Investment Company Act of 1940 to require, consistent with the protection of investors and the public interest, improved disclosure in investment company prospectuses or annual reports of after-tax returns to investors (especially after-tax rates of returns for mutual funds).</summary>
+</bill>

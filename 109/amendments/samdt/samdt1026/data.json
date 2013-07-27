@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7404-7405, S7409-7411", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7405", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1026 proposed by Senator Sununu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7477, S7501-7509", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "references": [
+        {
+          "reference": "CR S7562-7567, S7568", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 164, 
+      "text": "Amendment SA 1026 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 164.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1026-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1026, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To prohibit the use of funds to plan, design, study, or construct certain forest development roads in the Tongass National Forest.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sununu, John E.", 
+    "state": "NH", 
+    "thomas_id": "01532", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-29", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

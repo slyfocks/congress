@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-09T14:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8025-8027, H8054", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8025", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-09T19:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 482, 
+      "text": "On agreeing to the Sessions amendment (A020) Failed by recorded vote: 130 - 282 (Roll no. 482).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt373-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2989-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2989
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 20, 
+  "introduced_at": "2003-09-09", 
+  "number": 373, 
+  "purpose": "An amendment numbered 24 printed in the Congressional Record to prohibit any funding of those Amtrak long-distance routes identified by a February 2002 report by the Amtrak Reform Council as unable to recoup 50 cents in revenue, including state subsidies, for each dollar spent to operate the route.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-09T19:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

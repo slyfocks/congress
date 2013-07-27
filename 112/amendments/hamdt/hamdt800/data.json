@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-23T11:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6434-6435, H6443-6444", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6434", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Latta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-23T12:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 738, 
+      "text": "On agreeing to the Latta amendment (A011) Agreed to by recorded vote: 227 - 192 (Roll no. 738).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt800-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2401-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires the EPA's administrator to consider the implementation costs and feasibility of compliance when setting National Ambient Air Quality Standards (NAAQS).", 
+  "house_number": 11, 
+  "introduced_at": "2011-09-23", 
+  "number": 800, 
+  "purpose": "An amendment numbered 11 printed in House Report 112-213 to update the Clean Air Act's criteria for what factors can be considered when promulgating National Ambient Air Quality Standards (NAAQS). Specifically, it would allow the EPA Administrator to consider feasibility and cost when setting these standards, which would negate the effect of a 2001 Supreme Court ruling that held implementation costs cannot be considered when setting NAAQS.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Latta, Robert E.", 
+    "state": "OH", 
+    "thomas_id": "01885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-09-23T12:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

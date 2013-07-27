@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-17", 
+      "references": [
+        {
+          "reference": "CR S13127-13128", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S13127", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2652 proposed by Senator Lincoln.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "references": [], 
+      "text": "Proposed amendment SA 2652 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2652-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2020-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-17", 
+  "number": 2652, 
+  "proposed_at": "2005-11-17", 
+  "purpose": "To modify the income threshold used to calculate the refundable portion of the child tax credit.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lincoln, Blanche L.", 
+    "state": "AR", 
+    "thomas_id": "01570", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-11-17", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

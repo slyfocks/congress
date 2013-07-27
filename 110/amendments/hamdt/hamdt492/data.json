@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-11T13:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7545-7555", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7545-7548", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. McKeon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-11T15:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 611, 
+      "text": "On agreeing to the McKeon amendment (A002) Failed by the Yeas and Nays: 189 - 231 (Roll no. 611).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt492-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2669-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2669
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment in the nature of a substitute sought to replace the language of the bill with the text of the \"Pell Grant Enhancement Act\".", 
+  "house_number": 2, 
+  "introduced_at": "2007-07-11", 
+  "number": 492, 
+  "purpose": "An amendment in the nature of a substitute printed in part B of House Report 110-224 to reduce subsidies in the loan programs an d invests the majority of the savings in the Pell Grant program by providing increases of $350 in 2008 and $100 each year thereafter. It also provides a plan for improved consumer information and public accountability with respect to college costs.", 
+  "sponsor": {
+    "district": "25", 
+    "name": "McKeon, Howard P. \"Buck\"", 
+    "state": "CA", 
+    "thomas_id": "00778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-11T15:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

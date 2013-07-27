@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-23T15:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8652-8653, H8668-8669", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8652", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-23T18:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 627, 
+      "text": "On agreeing to the Flake amendment (A015) Failed by recorded vote: 108 - 327 (Roll no. 627).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt377-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3288-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3288
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit $500,000 from being used for the Terminal Replacement project at Grand Forks International Airport in Grand Forks, North Dakota.", 
+  "house_number": 15, 
+  "introduced_at": "2009-07-23", 
+  "number": 377, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 111-219 to prohibit $500,000 from being used for the Terminal Replacement project at Grand Forks International Airport in Grand Forks, North Dakota, and reduces the amount of the bill by the same amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-23T18:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

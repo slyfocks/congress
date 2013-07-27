@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23T14:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5051-5053", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Peterson (PA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23T14:56:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Peterson (PA) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt345-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2005-06-23", 
+  "number": 345, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to increase the bill's appropriation for the Health Resources and Services Administration by $37,336,000. The amendment offsets this increase by cutting the bill's appropriation for the Occupational Safety and Health Administration by $37,336,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Peterson, John E.", 
+    "state": "PA", 
+    "thomas_id": "01512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

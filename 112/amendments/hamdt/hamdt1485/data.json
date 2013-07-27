@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-20T18:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6213-6214", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6214", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-21T10:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6248-6249", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 593, 
+      "text": "On agreeing to the Waxman amendment (A003) Failed by recorded vote: 178 - 229 (Roll no. 593).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1485-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3409-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3409
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike the language that would repeal EPA's scientific finding that carbon pollution endangers the public health and welfare.", 
+  "house_number": 3, 
+  "introduced_at": "2012-09-20", 
+  "number": 1485, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-680 to strike the language that would repeal EPA's scientific finding that carbon pollution endangers the public health and welfare.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-09-21T10:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

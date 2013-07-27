@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-10T23:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2895-2898", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2895", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Sweeney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-11T11:05:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2911", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2911", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 170, 
+      "text": "On agreeing to the Sweeney amendment (A013) Failed by recorded vote: 187 - 238 (Roll no. 170).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt694-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide local governments with the opportunity to object to projects listed in state and federal land acquisition plans under the Land and Water Conservation Fund.", 
+  "house_number": 13, 
+  "introduced_at": "2000-05-10", 
+  "number": 694, 
+  "purpose": "An amendment numbered 13 printed in House Report 106-612 to provide local governments with the opportunity to object to projects listed under state and Federal land acquisition plans under the LWCF.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Sweeney, John E.", 
+    "state": "NY", 
+    "thomas_id": "01591", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-11T11:05:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T20:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5011-5012, H5030-5031", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5011", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T23:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 317, 
+      "text": "On agreeing to the Scott amendment (A011) Failed by recorded vote: 184 - 226 (Roll no. 317).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt877-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide by transfer $122 million of Truth-in-Sentencing prison grant funds to Boys and Girls Clubs and drug court programs.", 
+  "house_number": 11, 
+  "introduced_at": "2000-06-22", 
+  "number": 877, 
+  "purpose": "An amendment numbered 36 printed in the Congressional Record to increase funds for the Boys and Girls Clubs in public housing (by $60.8 million) and for Drug Courts programs in the Office of Justice Assistance of the Department of Justice. Funding for the Violent Offender Incarceration and Truth in Sentencing Incentive Grants is reduced by $121.6 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-22T23:44:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

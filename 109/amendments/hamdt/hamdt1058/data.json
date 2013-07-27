@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T15:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4264-4265", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4264", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Granger.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T15:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Granger amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1058-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment deletes section 8057 which prohibits funds in the bill from being used to approve or license the sale of the F/A-22 advanced tactical fighter to any foreign government.", 
+  "house_number": 3, 
+  "introduced_at": "2006-06-20", 
+  "number": 1058, 
+  "purpose": "An amendment to strike section 8057 (relating to the sale of the F/A-22 advanced tactical fighter to foreign governments).", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Granger, Kay", 
+    "state": "TX", 
+    "thomas_id": "01487", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-20T15:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

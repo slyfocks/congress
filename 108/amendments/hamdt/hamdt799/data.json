@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-08T12:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8896-8898, H8907-8908", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8896", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T14:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 518, 
+      "text": "On agreeing to the Smith (NJ) amendment (A015) Failed by recorded vote: 197 - 219 (Roll no. 518).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt799-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike section 3007 of the bill which creates a special eligibility standard for asylum applicants who claim persecution on account of an accusation of involvement with a guerilla, militant, or terrorist organization.", 
+  "house_number": 15, 
+  "introduced_at": "2004-10-08", 
+  "number": 799, 
+  "purpose": "An amendment numbered 15 printed in House Report 108-751 to strike section 3007.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-10-08T14:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-10T17:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8152-8156, H8164", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8152", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-10T19:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 495, 
+      "text": "On agreeing to the Sanders amendment (A006) Failed by recorded vote: 142 - 272, 1 Present (Roll no. 495).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt389-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2622-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2622
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit credit card companies from raising annual percentage rates or introductory annual percentage rates except for reasons directly related to that credit card account or a late payment on another credit card or debt.", 
+  "house_number": 6, 
+  "introduced_at": "2003-09-10", 
+  "number": 389, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to insert provisions limiting the use of consumer reports.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-10T19:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

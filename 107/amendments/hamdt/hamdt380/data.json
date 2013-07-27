@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-24T14:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7260-7280", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7260-7268", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Rangel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-24T15:43:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A001) pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-24T16:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 402, 
+      "text": "On agreeing to the Rangel amendment (A001) Failed by the Yeas and Nays: 166 - 261 (Roll no. 402).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt380-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3090-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3090
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute contained a number of provisions and sought to provide a rebate of $600 for joint filers ($500 for heads-of-household, $300 for single filers); extend for one year all tax provisions that expire this year; provide tax provisions to create $11 billion in interest-free financing for school construction and repair; and provides a one-year expansion of unemployment benefits that would provide up to an additional 26 weeks of benefits to those exhausting their rights to regular benefits.", 
+  "house_number": 1, 
+  "introduced_at": "2001-10-24", 
+  "number": 380, 
+  "purpose": "Pursuant to the provisions of H. Res. 270, the amendment in the nature of a substitute seeks to add a complete new text.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-24T16:05:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

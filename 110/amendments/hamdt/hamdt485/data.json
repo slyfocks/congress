@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-28T14:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7380-7383, H7405-7406", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7380", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A032) offered by Mr. Jordan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-28T18:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 600, 
+      "text": "On agreeing to the Jordan amendment (A032) Failed by recorded vote: 149 - 276 (Roll no. 600).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt485-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 32, 
+  "introduced_at": "2007-06-28", 
+  "number": 485, 
+  "purpose": "An amendment numbered 31 printed in the Congressional Record to provide that each amount appropriated or otherwise made available by this Act that is not required to be appropriated or otherwise made available by a provision of law is reduced by 8.9 percent.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Jordan, Jim", 
+    "state": "OH", 
+    "thomas_id": "01868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-28T18:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

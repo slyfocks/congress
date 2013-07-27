@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30", 
+      "references": [
+        {
+          "reference": "CR 7/1/2005 S7785-7786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 7/1/2005 S7785", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1089 proposed by Senator Domenici for Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1089 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1089-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-30", 
+  "number": 1089, 
+  "proposed_at": "2005-06-30", 
+  "purpose": "To provide funds for sea lamprey barrier constrcution in the Great Lakes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-30", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

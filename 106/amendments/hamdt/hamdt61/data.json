@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-05T15:08:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. Watt (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-05T17:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 113, 
+      "text": "On agreeing to the Watt (NC) amendment (A008) Failed by recorded vote: 192 - 230 (Roll no. 113).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt61-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr833-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 833
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to require bankruptcy filers to provide copies of their tax returns with the court only when requested by a party of interest.", 
+  "house_number": 8, 
+  "introduced_at": "1999-05-05", 
+  "number": 61, 
+  "purpose": "An amendment to require bankruptcy filers to provide their tax returns to the court only at the request of a party of interest.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-05-05T17:16:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

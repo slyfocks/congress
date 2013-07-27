@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-26T14:58:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H7036-7037", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H7036", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Istook.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-26T15:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Istook amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1034-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4942-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4942
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment transfers $100,000 to Metrorail construction.", 
+  "house_number": 1, 
+  "introduced_at": "2000-07-26", 
+  "number": 1034, 
+  "purpose": "An amendment numbered 1 printed in House Report 106-790 to reduce funding by $100,000 for a study analyzing the District's tax structure and use the funds for an increase of the direct appropriation for Metrorail construction.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Istook, Ernest J., Jr.", 
+    "state": "OK", 
+    "thomas_id": "00586", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-26T15:03:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

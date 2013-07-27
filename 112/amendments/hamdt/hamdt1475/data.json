@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-08-02T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5676-5680", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5676-5677", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Ms. Slaughter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-02T15:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5678", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered on the amendment (A001) pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-02T15:46:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5678", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 550, 
+      "text": "On agreeing to the Slaughter amendment (A001) Failed by recorded vote: 176 - 246 (Roll no. 550).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1475-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6169-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 6169
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute sought to lay out Democratic principles for tax reforms that call for increased revenues to bring down the national debt and invest in economic growth; a progressive tax rate structure; protecting the vulnerable; repeal of the AMT; discouraging tax haven abuse; elimination of tax breaks that ship jobs and profits overseas; promotion of domestic manufacturing; and preserving incentives for education, retirement, healthcare, home ownership, and small businesses.", 
+  "house_number": 1, 
+  "introduced_at": "2012-08-02", 
+  "number": 1475, 
+  "purpose": "Printed in Part A of House Report 112-641 to lay out Democratic principles for tax reform that call for increased revenues to bring down our national debt and invest in economic growth; a progressive tax rate structure; protecting the vulnerable; repeal of the AMT; discouraging tax haven abuse; elimination of tax breaks that ship jobs and profits overseas; promotion of domestic manufacturing; and preserving incentives for education, retirement, healthcare, home ownership, and small business.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Slaughter, Louise McIntosh", 
+    "state": "NY", 
+    "thomas_id": "01069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-08-02T15:46:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

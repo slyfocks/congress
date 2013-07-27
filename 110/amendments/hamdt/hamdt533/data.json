@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T11:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8010-8011", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8010", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Ferguson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T11:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ferguson amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt533-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides $10 million for implementation of the Lifespan Respite Care Act.", 
+  "house_number": 24, 
+  "introduced_at": "2007-07-18", 
+  "number": 533, 
+  "purpose": "An amendment to redirect $10 million to the Departmental Management of the Office of the Secretary.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Ferguson, Mike", 
+    "state": "NJ", 
+    "thomas_id": "01659", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-18T11:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

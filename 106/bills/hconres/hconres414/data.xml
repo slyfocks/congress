@@ -1,0 +1,82 @@
+<bill session="106" type="hc" number="414" updated="2013-07-14T18:55:27-04:00">
+  <state datetime="2000-10-24T18:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-24T18:49:00-04:00"/>
+  </status>
+  <introduced datetime="2000-09-28"/>
+  <titles>
+    <title as="introduced" type="official">Relating to the reestablishment of representative government in Afghanistan.</title>
+  </titles>
+  <sponsor id="400573"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="2000-09-28"/>
+    <cosponsor id="400231" joined="2000-09-28"/>
+    <cosponsor id="400320" joined="2000-09-28"/>
+    <cosponsor id="400604" joined="2000-10-02"/>
+    <cosponsor id="400343" joined="2000-09-28"/>
+    <cosponsor id="400348" joined="2000-09-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-09-28">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2000-10-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-10-03">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="2000-10-24T15:57:00-04:00">
+      <text>Mr. Gilman moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2000-10-24T15:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H10644-10646" label="consideration"/>
+    </action>
+    <action datetime="2000-10-24T15:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 414.</text>
+    </action>
+    <action datetime="2000-10-24T16:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-10-24T18:34:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref=" CR H10701" label="consideration"/>
+    </action>
+    <action datetime="2000-10-24T18:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-24T18:49:00-04:00" how="roll" result="pass" roll="542" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 542).</text>
+      <reference ref=" CR H10644" label="text"/>
+    </vote>
+    <action datetime="2000-10-25">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="hc" number="411"/>
+    <bill relation="unknown" session="106" type="sc" number="150"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Afghanistan"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Peace"/>
+    <term name="South Asia"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>10/24/2000--Passed House amended.
+Declares that the United States supports: (1) democratic efforts that respect the human and political rights of all ethnic and religious groups in Afghanistan, including the effort to establish a "Loya Jirgah"(Grand Assembly) process that would lead to the Afghan people determining their own destiny; and (2) the continuing efforts of former King Mohammed Zahir Shah and other parties to convene a Loya Jirgah to reestablish a representative government that respects the rights of all ethnic groups, to bring freedom, peace, and stability, and to end terrorist activities, illicit drug production, and human rights abuses in Afghanistan.</summary>
+</bill>

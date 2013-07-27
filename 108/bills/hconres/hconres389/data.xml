@@ -1,0 +1,81 @@
+<bill session="108" type="hc" number="389" updated="2013-07-14T19:03:09-04:00">
+  <state datetime="2004-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2004-05-12"/>
+  </status>
+  <introduced datetime="2004-03-17"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the D.C. Special Olympics Law Enforcement Torch Run.</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2004-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-03-17">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2004-03-18">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2004-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-03-24">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2004-04-22T11:54:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 108-468.</text>
+    </action>
+    <calendar datetime="2004-04-22T11:55:00-04:00" calendar="House" number="168">
+      <text>Placed on the House Calendar, Calendar No. 168.</text>
+    </calendar>
+    <action datetime="2004-05-11T14:26:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-05-11T14:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2743" label="consideration"/>
+    </action>
+    <action datetime="2004-05-11T14:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 389.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-05-11T14:30:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="text as passed House CR H2743"/>
+    </vote>
+    <action datetime="2004-05-11T14:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2004-05-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5381" label="consideration"/>
+    </vote>
+    <action datetime="2004-05-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Law enforcement officers"/>
+    <term name="Olympic games"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Running"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2004--Passed Senate without amendment.
+Authorizes the 2004 District of Columbia Special Olympics Law Enforcement Torch Run to be run through the Capitol grounds on June 4, 2004.</summary>
+</bill>

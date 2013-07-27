@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T23:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7328-7331", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7328", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Souder.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-28T17:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7397-7398", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 589, 
+      "text": "On agreeing to the Souder amendment (A013) Failed by recorded vote: 208 - 216 (Roll no. 589).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt466-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2007-06-27", 
+  "number": 466, 
+  "purpose": "An amendment to prohibit the use of funds to be used for the Prevention Works or Whitman-Walker Clinic needle exchange programs.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Souder, Mark E.", 
+    "state": "IN", 
+    "thomas_id": "01089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-28T17:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

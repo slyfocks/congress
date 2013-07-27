@@ -1,0 +1,82 @@
+<bill session="108" type="hc" number="44" updated="2013-07-14T19:03:04-04:00">
+  <state datetime="2003-03-26T12:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-03-26T12:26:00-05:00"/>
+  </status>
+  <introduced datetime="2003-02-13"/>
+  <titles>
+    <title as="introduced" type="official">To express support for the celebration in 2004 of the 150th anniversary of the Grand Excursion of 1854.</title>
+  </titles>
+  <sponsor id="400236"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2003-02-13"/>
+    <cosponsor id="400126" joined="2003-02-13"/>
+    <cosponsor id="400164" joined="2003-02-13"/>
+    <cosponsor id="400218" joined="2003-02-13"/>
+    <cosponsor id="400234" joined="2003-02-13"/>
+    <cosponsor id="400252" joined="2003-02-13"/>
+    <cosponsor id="400259" joined="2003-02-13"/>
+    <cosponsor id="400298" joined="2003-02-13"/>
+    <cosponsor id="400299" joined="2003-02-13"/>
+    <cosponsor id="400354" joined="2003-02-13"/>
+    <cosponsor id="400381" joined="2003-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-02-13">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-02-28">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2003-03-26T12:12:00-05:00">
+      <text>Mr. Duncan moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-03-26T12:12:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H2327-2330" label="consideration"/>
+    </action>
+    <action datetime="2003-03-26T12:12:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 44.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-03-26T12:26:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref=" CR H2327" label="text"/>
+    </vote>
+    <action datetime="2003-03-26T12:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-03-27">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="sc" number="5"/>
+    <bill relation="unknown" session="108" type="sc" number="5"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="History"/>
+    <term name="Illinois"/>
+    <term name="Inland water transportation"/>
+    <term name="Iowa"/>
+    <term name="Minnesota"/>
+    <term name="Mississippi River"/>
+    <term name="Railroad passenger traffic"/>
+    <term name="Railroads"/>
+    <term name="Rivers"/>
+    <term name="Transportation and public works"/>
+    <term name="Travel"/>
+    <term name="Water resources development"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2003--Passed House without amendment.
+(This measure has not been amended since it was introduced in the House on February 13, 2003. The summary of that version is repeated here.)Supports the celebration in 2004 of the 150th anniversary of the Grand Excursion of 1854 (westward expansion of the railroad from the East Coast to the shores of the Mississippi River).</summary>
+</bill>

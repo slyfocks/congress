@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-15T10:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2870-2882, H2883-2884", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2870-2877", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) in the nature of a substitute offered by Mr. Garrett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-15T11:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 275, 
+      "text": "On agreeing to the Garrett amendment (A003) Failed by recorded vote: 119 - 136, 172 Present (Roll no. 275).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt258-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres34-112", 
+    "bill_type": "hconres", 
+    "congress": 112, 
+    "number": 34
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment in the nature of a substitute constitutes the alternative budget plan proposed by the Republican Study Committee and appears on page H2870 of the Congressional Record of April 15, 2011.", 
+  "house_number": 3, 
+  "introduced_at": "2011-04-15", 
+  "number": 258, 
+  "purpose": "An substitute amendment numbered 4 printed in House Report 112=62 to establish a Fiscal Year 2012 budget and set the appropriate budgetary levels for Fiscal Year 2011 through 2021.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-15T11:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

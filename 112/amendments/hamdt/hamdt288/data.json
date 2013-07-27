@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-12T15:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3251", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3251", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Rogers (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-13T10:02:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3288", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 323, 
+      "text": "On agreeing to the Rogers (MI) amendment Agreed to by recorded vote: 224 - 174 (Roll no. 323).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt288-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr754-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Manager's amendment clarifies that Section 411 of the bill, which relates to certain Defense Intelligence Agency expenditures, applies only to the National Intelligence Program funds; and strikes section 412 of the reported bill which provides for the establishment of certain accounts for intelligence funds.", 
+  "house_number": 1, 
+  "introduced_at": "2011-05-12", 
+  "number": 288, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-75 to clarify that Section 411 of the bill, which provides certain authorities for Defense Intelligence Agency Expenditures, applies only to National Intelligence Program funds. Would also strike Section 412 of the reported bill, providing for the establishment of certain transfer accounts for intelligence funds.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Rogers, Mike J.", 
+    "state": "MI", 
+    "thomas_id": "01651", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-13T10:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

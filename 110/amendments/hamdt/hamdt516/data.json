@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T18:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7941-7942", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7941", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T18:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Shays amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt516-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding for the National Labor Relations Board by $500,000.", 
+  "house_number": 7, 
+  "introduced_at": "2007-07-17", 
+  "number": 516, 
+  "purpose": "An amendment to reduce appropriations for Departmental Management (by transfer), and redirect $500,000 to the National Labor Relations Board.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-17T18:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

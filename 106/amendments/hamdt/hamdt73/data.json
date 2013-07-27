@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-06T16:08:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Ms. Pelosi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-06T16:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pelosi amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt73-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1664-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1664
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases humanitarian assistance funding by $67 million.", 
+  "house_number": 8, 
+  "introduced_at": "1999-05-06", 
+  "number": 73, 
+  "purpose": "An amendment to increase International Disaster Assistance funding by $67 million.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-05-06T16:34:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

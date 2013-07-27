@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-09T14:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6941-6942, H6953", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6941", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Stark.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-09T16:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 437, 
+      "text": "On agreeing to the Stark amendment (A023) Failed by recorded vote: 195 - 216 (Roll no. 437).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt738-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5006-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5006
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 23, 
+  "introduced_at": "2004-09-09", 
+  "number": 738, 
+  "purpose": "An amendment to reduce the funding for General Departmental Management of the Office of the Secretary of the Department of Health and Human Services by $84,500.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Stark, Fortney Pete", 
+    "state": "CA", 
+    "thomas_id": "01101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-09T16:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

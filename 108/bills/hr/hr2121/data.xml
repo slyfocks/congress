@@ -1,0 +1,78 @@
+<bill session="108" type="h" number="2121" updated="2013-07-14T19:01:24-04:00">
+  <state datetime="2004-12-08">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2004-12-08"/>
+  </status>
+  <introduced datetime="2003-05-15"/>
+  <titles>
+    <title as="introduced" type="short">Eisenhower Exchange Fellowship Program Trust Fund Enhancement Act of 2003</title>
+    <title as="passed house" type="short">Eisenhower Exchange Fellowship Program Trust Fund Enhancement Act of 2004</title>
+    <title as="passed senate" type="short">Eisenhower Exchange Fellowship Program Trust Fund Enhancement Act of 2004</title>
+    <title as="introduced" type="official">To amend the Eisenhower Exchange Fellowship Act of 1990 to authorize additional appropriations for the Eisenhower Exchange Fellowship Program Trust Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="400405"/>
+  <cosponsors>
+    <cosponsor id="400262" joined="2003-06-12"/>
+    <cosponsor id="400282" joined="2003-05-15"/>
+    <cosponsor id="400284" joined="2003-05-15"/>
+    <cosponsor id="400353" joined="2003-05-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-05-15">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2004-07-06T14:19:00-04:00">
+      <text>Mr. Flake moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2004-07-06T14:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5158-5159" label="consideration"/>
+    </action>
+    <action datetime="2004-07-06T14:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2121.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-07-06T14:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5159" label="text as passed House"/>
+    </vote>
+    <action datetime="2004-07-06T14:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-07-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="2004-12-08">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2004-12-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S12029" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2004-12-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational exchanges"/>
+    <term name="Federal aid to education"/>
+    <term name="Foreign leaders"/>
+    <term name="Government trust funds"/>
+    <term name="Higher education"/>
+    <term name="International education"/>
+    <term name="Scholarships"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4088"/>
+  </amendments>
+  <summary>12/8/2004--Passed Senate amended.
+Eisenhower Exchange Fellowship Program Trust Fund Enhancement Act of 2004 - Authorizes additional appropriations for the Eisenhower Exchange Fellowship Program Trust Fund.</summary>
+</bill>

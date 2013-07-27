@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15", 
+      "references": [
+        {
+          "reference": "CR S2724-2726", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2724", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 171 proposed by Senator Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2759, S2787-2793, S2806-2807", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 54, 
+      "text": "Amendment SA 171 agreed to in Senate by Yea-Nay Vote. 96 - 4. Record Vote Number: 54.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt171-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 171, 
+  "proposed_at": "2005-03-15", 
+  "purpose": "To increase veterans medical care by $410,000,000 in fiscal year 2006.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-16", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

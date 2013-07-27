@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-01T09:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3369, H3385", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3369", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-01T12:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 307, 
+      "text": "On agreeing to the King (IA) amendment (A003) Agreed to by recorded vote: 203 - 185 (Roll no. 307).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1172-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces the Fish and Wildlife account by $1 million and increases the Army Corps of Engineers Reserve Maintenance Account by $571,429 with the balance of $428,571 being applied to deficit reduction.", 
+  "house_number": 3, 
+  "introduced_at": "2012-06-01", 
+  "number": 1172, 
+  "purpose": "An amendment to reduce the Army Corps of Engineers Construction Account by $1 million and increase the Army Corps of Engineers Operation and Maintenance Account by $571,429.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-01T12:13:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-02T20:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9629-9631, H9639, CR 8/3/2007 H9644-9645", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9629", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Jordan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-02T21:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 808, 
+      "text": "On agreeing to the Jordan amendment (A008) Failed by recorded vote: 146 - 284 (Roll no. 808).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt736-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3161-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3161
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce discretionary funding in the bill by 5.5% across-the-board.", 
+  "house_number": 8, 
+  "introduced_at": "2007-08-02", 
+  "number": 736, 
+  "purpose": "An amendment numbered 7 printed in Part B of House Report 110-290 to reduce discretionary funding in the bill by 5.5% across-the-board.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Jordan, Jim", 
+    "state": "OH", 
+    "thomas_id": "01868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-08-02T21:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

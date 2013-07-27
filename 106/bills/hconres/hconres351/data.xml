@@ -1,0 +1,72 @@
+<bill session="106" type="hc" number="351" updated="2013-07-14T18:55:24-04:00">
+  <state datetime="2000-07-26">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2000-07-26"/>
+  </status>
+  <introduced datetime="2000-06-09"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing Heroes Plaza in the City of Pueblo, Colorado, as honoring recipients of the Medal of Honor.</title>
+  </titles>
+  <sponsor id="400265"/>
+  <cosponsors>
+    <cosponsor id="400126" joined="2000-07-10"/>
+    <cosponsor id="400504" joined="2000-06-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-06-09">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2000-06-19">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2000-07-25T11:00:00-04:00">
+      <text>Mr. Stump moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-07-25T11:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6791-6792" label="consideration"/>
+    </action>
+    <action datetime="2000-07-25T11:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 351.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-25T11:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref=" CR H6791" label="text"/>
+    </vote>
+    <action datetime="2000-07-25T11:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-25">
+      <text>Received in the Senate and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2000-07-26">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-07-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S7714" label="consideration"/>
+    </vote>
+    <action datetime="2000-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Colorado"/>
+    <term name="Congress"/>
+    <term name="Congressional Medal of Honor"/>
+    <term name="Monuments and memorials"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2000--Introduced.
+Recognizes Heroes Plaza in Pueblo, Colorado, for its September 2000 reunion of living Medal of Honor recipients.</summary>
+</bill>

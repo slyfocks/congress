@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-02T15:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H405-406, H413-414", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H405", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Peters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02T16:44:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 24, 
+      "text": "On agreeing to the Peters amendment (A001) Failed by recorded vote: 174 - 244 (Roll no. 24).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt914-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3582-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3582
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add a factual findings section addressing the macroeconomic impact of the tax cuts of 2001 and 2003.", 
+  "house_number": 1, 
+  "introduced_at": "2012-02-02", 
+  "number": 914, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 112-383 to add a findings section addressing the macroeconomic impact of the tax cuts of 2001 and 2003.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "thomas_id": "01929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-02T16:44:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

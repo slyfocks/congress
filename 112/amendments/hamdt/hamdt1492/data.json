@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-21T09:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6240-6242, H6251-6252", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6240-6241", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-21T11:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 598, 
+      "text": "On agreeing to the Markey amendment (A010) Failed by recorded vote: 160 - 250 (Roll no. 598).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1492-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3409-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3409
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add a new title creating a national renewable electricity and energy efficiency standard which would result in 25 percent of all energy in the United States being generated from renewables by the year 2035.", 
+  "house_number": 10, 
+  "introduced_at": "2012-09-21", 
+  "number": 1492, 
+  "purpose": "An amendment numbered 10 printed in House Report 112-680 to create a national renewable electricity and energy efficiency standard.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-09-21T11:23:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-15T14:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H403-404", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Larson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-15T14:30:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H403", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Larson amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt576-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2086-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires the National Science Foundation to study and report to Congress concerning the most effective and economical means of providing all public elementary and secondary schools and libraries with high-speed, large bandwith capacity access to the Internet.", 
+  "house_number": 4, 
+  "introduced_at": "2000-02-15", 
+  "number": 576, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to require the NSF and other federal agencies to report to Congress on 1) the most effective and economical means of providing all public elementary and secondary schools and libraries with high-speed, large bandwith capacity access to the Internet; 2) the effect that specific or regional circumstances may have on the appropriateness of using different methods and technologies to achieve the goal of providing Internet access to schools and libraries; and 3) the best methods of integrating technology and providing Internet access to public schools and libraries. The study must be completed within one year of enactment.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Larson, John B.", 
+    "state": "CT", 
+    "thomas_id": "01583", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-02-15T14:30:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

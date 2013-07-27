@@ -1,0 +1,78 @@
+<bill session="107" type="hc" number="435" updated="2013-07-14T18:59:02-04:00">
+  <state datetime="2002-09-17T18:52:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-09-17T18:52:00-04:00"/>
+  </status>
+  <introduced datetime="2002-07-08"/>
+  <titles>
+    <title as="passed house" type="short">Candace Newmaker Resolution of 2002</title>
+    <title as="introduced" type="official">Expressing the sense of the Congress that the therapeutic technique known as rebirthing is a dangerous and harmful practice and should be prohibited.</title>
+  </titles>
+  <sponsor id="400288"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="2002-07-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-07-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2002-07-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2002-09-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-09-05">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2002-09-17T14:32:00-04:00">
+      <text>Mr. Bilirakis moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-09-17T14:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6268-6269" label="consideration"/>
+    </action>
+    <action datetime="2002-09-17T14:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 435.</text>
+    </action>
+    <action datetime="2002-09-17T14:41:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-09-17T18:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6283-6284" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-09-17T18:52:00-04:00" how="roll" result="pass" roll="388" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 388).</text>
+      <reference ref="CR H6268" label="text"/>
+    </vote>
+    <action datetime="2002-09-17T18:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-09-18">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child mental health services"/>
+    <term name="Child safety"/>
+    <term name="Childbirth"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Psychotherapy"/>
+    <term name="State laws"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2002--Passed House without amendment.
+Candace Newmaker Resolution of 2002 - Expresses the sense of Congress that the therapeutic technique known as rebirthing, an attachment therapy used to try to forge new bonds between adoptive parents and their adopted children, is dangerous and harmful and that each State should enact a law that prohibits such technique.Defines rebirthing as a therapy to reenact the birthing process that includes restraint and the practice of which may cause physical harm to or kill a patient.</summary>
+</bill>

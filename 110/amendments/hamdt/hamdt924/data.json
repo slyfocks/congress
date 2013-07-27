@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-01-17T12:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H320-321, H328-329", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H320", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Neugebauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-01-17T13:36:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 13, 
+      "text": "On agreeing to the Neugebauer amendment (A002) Failed by recorded vote: 181 - 227 (Roll no. 13).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt924-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3524-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3524
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to apply the one-to-one replacement requirement for units demolished under a HOPE VI grant only to units that are occupied prior to demolition.", 
+  "house_number": 2, 
+  "introduced_at": "2008-01-17", 
+  "number": 924, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-509 to apply the one-to-one replacement requirement for units demolished under a HOPE VI grant only to units that are occupied prior to demolition.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-01-17T13:36:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

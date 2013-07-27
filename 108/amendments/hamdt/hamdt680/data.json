@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-13T15:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5583-5585, H5608", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5584", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Baca.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-13T18:06:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 366, 
+      "text": "On agreeing to the Baca amendment (A012) Failed by recorded vote: 205 - 209 (Roll no. 366).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt680-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4766-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for the Office of the Assistant Secretary for Civil Rights; tribal expansion grants; grants to socially disadvantaged farmers and ranchers; and Hispanic-serving institutions.", 
+  "house_number": 12, 
+  "introduced_at": "2004-07-13", 
+  "number": 680, 
+  "purpose": "An amendment to increase funds in the following accounts as specified: Office of the Secretary for Civil Rights, $250,000; Cooperative State Research, Education, and Extension Service--Research and Education Activities, $1.5 million.", 
+  "sponsor": {
+    "district": "43", 
+    "name": "Baca, Joe", 
+    "state": "CA", 
+    "thomas_id": "01614", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-13T18:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

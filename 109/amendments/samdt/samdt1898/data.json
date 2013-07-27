@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12778-12791", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12779", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1898 proposed by Senator Warner for Senator Santorum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1898 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1898-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-29", 
+  "number": 1898, 
+  "proposed_at": "2005-11-15", 
+  "purpose": "To authorize the disposal and sale to qualified entities of up to 8,000,000 pounds of tungsten ores and concentrates from the National Defense Stockpile.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-15", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

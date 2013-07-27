@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-12", 
+      "references": [
+        {
+          "reference": "CR S5711", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5711", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4208 proposed by Senator Warner for Senator Frist.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-13", 
+      "references": [
+        {
+          "reference": "CR S5740, S5744", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 168, 
+      "text": "Amendment SA 4208 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 168.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4208-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-12", 
+  "number": 4208, 
+  "proposed_at": "2006-06-12", 
+  "purpose": "To express the sense of Congress that the United States Armed Forces, the intelligence community, and other agencies, as well as the coalition partners of the United States and the Iraqi Security Forces should be commended for their actions that resulted in the death of Abu Musab al-Zarqawi, the leader of the al-Qaeda in Iraq terrorist organization and the most wanted terrorist in Iraq.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-13", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

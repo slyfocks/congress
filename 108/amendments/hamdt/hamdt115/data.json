@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-07T14:11:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3730", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H3730", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. E. B. Johnson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-07T14:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Johnson, E. B. amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt115-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr766-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment ensures that public input and outreach are integrated into nanotechnology research on societal and ethical concerns by the convening of regular and ongoing public discussions through mechanisms such as citizen panels, consensus panels, and educational events, as appropriate.", 
+  "house_number": 4, 
+  "introduced_at": "2003-05-07", 
+  "number": 115, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-05-07T14:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

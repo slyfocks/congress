@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-09T14:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4687-4691, H4704-4705, H4710-4714", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4687-4690", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR H4710-4713", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Thompson (MS).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-09T16:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 314, 
+      "text": "On agreeing to the Thompson (MS) amendment (A001) Agreed to by recorded vote: 216 - 209 (Roll no. 314).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-05-09T17:24:00-04:00", 
+      "references": [], 
+      "text": "Mr. Price (GA) demanded a separate vote on the Thompson (MS) amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-09T17:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 316, 
+      "text": "On agreeing to the Thompson (MS) amendment (A001) Agreed to by the Yeas and Nays: 212 - 209 (Roll no. 316).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt146-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1684-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1684
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Manager's amendment consists of the text of the amendment contained in House Report 110-136 and printed on pages H4687-H4690 in the Congressional Record for May 9, 2007.", 
+  "house_number": 1, 
+  "introduced_at": "2007-05-09", 
+  "number": 146, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-136 to add reporting requirements, revise annuitant provisions, and require a GAO report on law enforcement retirement systems. The amendment also adds a provision related to travel efficiency. The amendment also strikes some provisions of the bill.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-09T17:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

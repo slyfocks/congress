@@ -1,0 +1,53 @@
+<bill session="106" type="h" number="3065" updated="2013-07-14T18:54:15-04:00">
+  <state datetime="1999-10-13">REFERRED</state>
+  <status>
+    <introduced datetime="1999-10-13"/>
+  </status>
+  <introduced datetime="1999-10-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to remove the limit on amount of Medicaid disproportionate share hospital payment for hospitals in Ohio.</title>
+  </titles>
+  <sponsor id="400036"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2000-02-03"/>
+    <cosponsor id="400071" joined="2000-06-07"/>
+    <cosponsor id="400208" joined="2000-09-26"/>
+    <cosponsor id="400211" joined="1999-10-13"/>
+    <cosponsor id="400227" joined="2000-04-04"/>
+    <cosponsor id="400307" joined="1999-10-13"/>
+    <cosponsor id="400327" joined="1999-10-13"/>
+    <cosponsor id="400334" joined="1999-10-13"/>
+    <cosponsor id="400539" joined="1999-10-13"/>
+    <cosponsor id="400390" joined="1999-10-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-13">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1999-11-01">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="1728"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Hospital rates"/>
+    <term name="Hospitals"/>
+    <term name="Medicaid"/>
+    <term name="Medically uninsured"/>
+    <term name="Ohio"/>
+    <term name="Prospective payment systems (Medical care)"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1999--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to remove the limit on the amount of Medicaid disproportionate share hospital (DSH) payments for certain hospitals in Ohio.</summary>
+</bill>

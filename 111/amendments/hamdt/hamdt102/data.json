@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-30T13:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5031-5033", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5031", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Gutierrez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30T13:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gutierrez amendment (A013) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt102-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr627-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires card issuers to notify cardholders 30 days in advance before closing their accounts; provide the reason for the account closure; provide options for keeping the account open; make programs available to repay the balance; and provide the resulting impact on cardholders credit scores.", 
+  "house_number": 13, 
+  "introduced_at": "2009-04-30", 
+  "number": 102, 
+  "purpose": "An amendment numbered 13 printed in House Report 111-92 to require card issuers to notify cardholders 30 days before closing their accounts, the reason for the account closure, options to keep the account open, programs available to repay the balance, and the resulting impact on their credit score.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gutierrez, Luis V.", 
+    "state": "IL", 
+    "thomas_id": "00478", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-30T13:30:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

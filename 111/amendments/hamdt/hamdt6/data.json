@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-15T12:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H360-363, H366-367", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H361", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mrs. Bachmann.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-15T13:55:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 21, 
+      "text": "On agreeing to the Bachmann amendment (A005) Failed by recorded vote: 142 - 282 (Roll no. 21).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt6-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr384-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to eliminate changes and additional funding for the HOPE for Homeowners program.", 
+  "house_number": 5, 
+  "introduced_at": "2009-01-15", 
+  "number": 6, 
+  "purpose": "An amendment numbered 5 printed in House Report 111-3 to eliminate changes and additional funding for the HOPE for Homeowners program.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Bachmann, Michele", 
+    "state": "MN", 
+    "thomas_id": "01858", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-01-15T13:55:00-05:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

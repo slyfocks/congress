@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30T13:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5506-5509, H5513-5514", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5506", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A035) offered by Ms. DeLauro.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-30T14:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 351, 
+      "text": "On agreeing to the DeLauro amendment (A035) Failed by recorded vote: 190 - 231 (Roll no. 351).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt428-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 35, 
+  "introduced_at": "2005-06-30", 
+  "number": 428, 
+  "purpose": "An amendment to prohibit use of funds in the bill to enter into any contract with an incorporated entity where such entity's sealed bid or competitive proposal shows that such entity is incorporated or chartered in Bermuda, Barbados, the Cayman Islands, Antigua, or Panama.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "thomas_id": "00281", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-30T14:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

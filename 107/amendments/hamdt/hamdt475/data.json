@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-09T17:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2344-2349", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2344", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Tierney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-09T19:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 145, 
+      "text": "On agreeing to the Tierney amendment (A005) Failed by recorded vote: 159 - 253 (Roll no. 145).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt475-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4546-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4546
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "2002-05-09", 
+  "number": 475, 
+  "purpose": "An amendment numbered 4 printed in Part A of House Report 107-450 to prohibit funding for space-based national missile defense programs.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tierney, John F.", 
+    "state": "MA", 
+    "thomas_id": "01535", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-05-09T19:35:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

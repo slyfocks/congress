@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-29T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8564-8583", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8564-8571", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-29T16:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 505, 
+      "text": "On agreeing to the Miller, George amendment (A002) Failed by recorded vote: 206 - 216 (Roll no. 505).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt588-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3824-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3824
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute sought to replace the language in the bill with the text of the \"Threatened and Endangered Species Recovery Act of 2005\".", 
+  "house_number": 2, 
+  "introduced_at": "2005-09-29", 
+  "number": 588, 
+  "purpose": "An amendment in the nature of a substitute numbered 2 printed in House Report 109-240 to improve the use of science, providing certainty to landowners, providing flexibility on deadlines for listing species, creating a voluntary conservation program to promote species conservation on private lands, creating a technical assistance program to help small landowners, increasing the role of State and localities, ensuring accountability of the Department of Interior, ensuring that permit and license applicants fully participate in the consultations process, and requiring a balancing of risks in planning for species recovery. (60 minutes).", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-09-29T16:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

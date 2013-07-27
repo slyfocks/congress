@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-23T20:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8264-8267", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8264", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Mica.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-24T13:14:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8321", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 691, 
+      "text": "On agreeing to the Mica amendment (A002) Failed by recorded vote: 201 - 217 (Roll no. 691).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt598-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3074-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3074
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike language in the bill that requires the State departments of transportation to apply part of a rescission proportionately across all highway programs.", 
+  "house_number": 2, 
+  "introduced_at": "2007-07-23", 
+  "number": 598, 
+  "purpose": "An amendment to strike the proviso pertaining to the Highway Trust Fund account.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Mica, John L.", 
+    "state": "FL", 
+    "thomas_id": "00800", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-24T13:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

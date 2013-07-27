@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T20:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5010-5011", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5010", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T23:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 316, 
+      "text": "On agreeing to the Hinchey amendment (A010) Failed by recorded vote: 128 - 284 (Roll no. 316).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt876-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to transfer $49.5 million to the Economic Development Administration.", 
+  "house_number": 10, 
+  "introduced_at": "2000-06-22", 
+  "number": 876, 
+  "purpose": "An amendment numbered 22 printed in the Congressional Record to reduce funds for Local Law Enforcement Grants and Violent Offender Incarceration and Truth in Sentencing Incentive Grants and to increase funding for trade adjustment assistance under the Economic Development Administration by $49.5 million.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-22T23:34:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

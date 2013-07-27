@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T21:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3885-3886", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3885", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T13:32:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3932-3933", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 390, 
+      "text": "On agreeing to the Sessions amendment (A027) Agreed to by recorded vote: 218 - 204 (Roll no. 390).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt375-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes section 514 of the bill which prohibits use of funds for conduction of public-private competitions or to direct A-76 conversions for any program, project, or activity within DHS.", 
+  "house_number": 27, 
+  "introduced_at": "2011-06-01", 
+  "number": 375, 
+  "purpose": "An amendment to strike section 514.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T13:32:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

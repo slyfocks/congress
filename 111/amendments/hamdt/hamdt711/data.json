@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-06-24T14:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4817-4818, H4824", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4817", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-06-24T15:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 388, 
+      "text": "On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 57 - 369 (Roll no. 388).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt711-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5175-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5175
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to eliminate all limitations on federal election campaign contributions.", 
+  "house_number": 2, 
+  "introduced_at": "2010-06-24", 
+  "number": 711, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 111-514 to eliminate all limitations on federal election campaign contributions.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-06-24T15:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

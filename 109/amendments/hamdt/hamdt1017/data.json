@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-13T19:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3854-3855", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3854", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-13T19:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Inslee amendment (A011) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1017-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the Public Housing Capital Fund by $260 million.", 
+  "house_number": 11, 
+  "introduced_at": "2006-06-13", 
+  "number": 1017, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-13T19:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

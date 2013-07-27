@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-13T13:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6004-6006, H6020-6021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6004", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Bereuter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T15:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 399, 
+      "text": "On agreeing to the Bereuter amendment (A022) Agreed to by recorded vote: 298 - 125 (Roll no. 399).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1001-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits funds in the bill from being used to assume any liability for the cost of nuclear accidents in North Korea.", 
+  "house_number": 22, 
+  "introduced_at": "2000-07-13", 
+  "number": 1001, 
+  "purpose": "An amendment to limit the assumption by the United States Government of liability for nuclear accidents in North Korea.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bereuter, Doug", 
+    "state": "NE", 
+    "thomas_id": "00080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-13T15:35:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

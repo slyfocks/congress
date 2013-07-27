@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-27T19:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5254-5256, H5280", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5254", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Foley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-27T22:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 337, 
+      "text": "On agreeing to the Foley amendment (A007) Failed by recorded vote: 71 - 356 (Roll no. 337).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt921-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4733-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4733
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to transfer funds from the Nuclear Energy Reserve Initiative program to renewable energy research programs.", 
+  "house_number": 7, 
+  "introduced_at": "2000-06-27", 
+  "number": 921, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to eliminate the bill's $23 million in funding for the Energy Department's Nuclear Energy Reserve Initiative.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Foley, Mark", 
+    "state": "FL", 
+    "thomas_id": "00396", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-27T22:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

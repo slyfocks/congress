@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T14:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8028-8029, H8092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8028", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Westmoreland.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T21:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 657, 
+      "text": "On agreeing to the Westmoreland amendment (A031) Failed by recorded vote: 97 - 331 (Roll no. 657).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt540-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding in the Innovation and Improvement account by $23,533,000.", 
+  "house_number": 31, 
+  "introduced_at": "2007-07-18", 
+  "number": 540, 
+  "purpose": "An amendment numbered 50 printed in the Congressional Record to reduce the Innovation and Improvement account by $23,533,000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Westmoreland, Lynn A.", 
+    "state": "GA", 
+    "thomas_id": "01779", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T21:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

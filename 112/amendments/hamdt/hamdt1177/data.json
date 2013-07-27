@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-01T10:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3379-3380, H3386-3387", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3379", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Hultgren.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-01T12:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 309, 
+      "text": "On agreeing to the Hultgren amendment (A008) Failed by recorded vote: 130 - 256 (Roll no. 309).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1177-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Department of Energy, Energy Programs, Energy Efficiency and Renewable Energy Account by $30 million and increase the Science Administrative and Facility Account for National Laboratories by $15 million and to apply the savings to deficit reduction.", 
+  "house_number": 8, 
+  "introduced_at": "2012-06-01", 
+  "number": 1177, 
+  "purpose": "An amendment to reduce the Department of Energy, Energy Programs, Energy Efficiency and Renewable Energy Account by $30 million and increase the Science Administrative and Facility Account for National Laboratories by the same amount.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Hultgren, Randy", 
+    "state": "IL", 
+    "thomas_id": "02015", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-01T12:20:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

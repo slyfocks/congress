@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T15:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3298-3299", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3298", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T15:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Conyers amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1147-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5743-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5743
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2012-05-31", 
+  "number": 1147, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-504 to require the Director of National Intelligence to submit to the congressional intelligence committees a report containing an assessment of the consequences of a military strike against Iran within 60 days.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-31T15:15:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

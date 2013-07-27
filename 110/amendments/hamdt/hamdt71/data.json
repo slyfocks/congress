@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-28T15:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3225", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3225", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Skelton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28T15:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Skelton amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt71-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1538-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1538
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment is technical in nature.", 
+  "house_number": 2, 
+  "introduced_at": "2007-03-28", 
+  "number": 71, 
+  "purpose": "An amendment numbered 2 to make technical changes in section 101 to clarify the qualification of military officers who may supervise medical care case managers and in section 107 to require that the tracking system for reports to medical authorities regarding wounded warrior symptoms of post-traumatic stress disorder or suicidal tendencies be developed not later than 180 days after the date of enactment and that the results be included in the Congressional reporting requirement.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Skelton, Ike", 
+    "state": "MO", 
+    "thomas_id": "01064", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-28T15:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

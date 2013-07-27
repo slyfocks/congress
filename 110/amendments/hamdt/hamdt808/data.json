@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-20T13:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10682-10684", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10683", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Costello.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-20T13:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Costello amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt808-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2881-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2881
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment requires the Secretary of Transportation to issue regulations requiring air carriers to provide initial and annual recurring training for flight attendants and gate attendants regarding serving alcohol, dealing with disruptive passengers, and recognizing intoxicated persons.", 
+  "house_number": 6, 
+  "introduced_at": "2007-09-20", 
+  "number": 808, 
+  "purpose": "An amendment numbered 6 printed in Part C of House Report 110-335 to require the Secretary of Transportation to issue regulations requiring air carriers to provide initial and annual recurring training for flight attendants and gate attendants regarding serving alcohol, dealing with disruptive passengers, and recognizing intoxicated persons. The training must include situational training on methods of handling an intoxicated person who is belligerent.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Costello, Jerry F.", 
+    "state": "IL", 
+    "thomas_id": "00238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-20T13:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

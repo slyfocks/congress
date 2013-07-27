@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-17", 
+      "references": [
+        {
+          "reference": "CR S11404-11407", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11404", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2062 proposed by Senator Kyl.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-18", 
+      "references": [
+        {
+          "reference": "CR S11453, S11458-11460", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-18", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 256, 
+      "text": "Amendment SA 2062 agreed to in Senate by Yea-Nay. 92 - 6. Record Vote Number: 256.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2062-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-17", 
+  "number": 2062, 
+  "proposed_at": "2005-10-17", 
+  "purpose": "To provide that Members of Congress shall not receive a cost-of-living adjustment in pay during fiscal year 2006.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-18", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

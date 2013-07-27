@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T10:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8005", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8005", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T11:00:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Holt amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt529-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding for programs under the Help America Vote Act of 2002 by $21 million.", 
+  "house_number": 20, 
+  "introduced_at": "2007-07-18", 
+  "number": 529, 
+  "purpose": "An amendment numbered 34 printed in the Congressional Record to increase appropriations for Children and Family Services Programs, and reduce appropriations for the General Departmental Management of the Office of the Secretary.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-18T11:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

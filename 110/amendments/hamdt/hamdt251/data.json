@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-12T15:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6275-6277", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6275-6276", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-12T19:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 453, 
+      "text": "On agreeing to the Crowley amendment (A001) Agreed to by recorded vote: 244 - 174 (Roll no. 453).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt251-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding for the high-threat, high-density urban area program by $50 million.", 
+  "house_number": 1, 
+  "introduced_at": "2007-06-12", 
+  "number": 251, 
+  "purpose": "An amendment numbered 21 printed in the Congressional Record to increase funding, by transfer, the appropriation for state and local programs under Protection, Preparedness, Response and Recovery by $50,000,000.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-12T19:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

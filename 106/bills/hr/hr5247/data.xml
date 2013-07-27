@@ -1,0 +1,57 @@
+<bill session="106" type="h" number="5247" updated="2013-07-14T18:55:10-04:00">
+  <state datetime="2000-09-21">REFERRED</state>
+  <status>
+    <introduced datetime="2000-09-21"/>
+  </status>
+  <introduced datetime="2000-09-21"/>
+  <titles>
+    <title as="introduced" type="short">GAAP Act of 2000</title>
+    <title as="introduced" type="short">Greater Access to Affordable Pharmaceuticals Act</title>
+    <title as="introduced" type="official">To amend the Federal Food, Drug, and Cosmetic Act to provide greater access to affordable pharmaceuticals.</title>
+  </titles>
+  <sponsor id="400525"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2000-10-10"/>
+    <cosponsor id="400050" joined="2000-09-27"/>
+    <cosponsor id="400576" joined="2000-09-21"/>
+    <cosponsor id="400100" joined="2000-10-06"/>
+    <cosponsor id="400425" joined="2000-09-27"/>
+    <cosponsor id="400613" joined="2000-10-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-09-21">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="2000-10-20">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="3051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative procedure"/>
+    <term name="Commerce"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug approvals"/>
+    <term name="Drug industry"/>
+    <term name="Generic drugs"/>
+    <term name="Government operations and politics"/>
+    <term name="Intellectual property"/>
+    <term name="Law"/>
+    <term name="Patents"/>
+    <term name="Pharmaceutical research"/>
+    <term name="Prescription pricing"/>
+    <term name="Right of petition"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>9/21/2000--Introduced.
+Greater Access to Affordable Pharmaceuticals Act or GAAP Act of 2000 - Amends the Federal Food, Drug, and Cosmetic Act to include in a required abbreviated new drug application information concerning certification of each patent which claims any active ingredient for a listed drug (currently, only the listed drug itself), either alone or in combination with other active ingredients, or which claims the first approved use for such drug for which an applicant is seeking approval.States that the filing of a citizen petition review shall not cause the Secretary of Health and Human Services to delay review and approval of an abbreviated new drug application unless the petition demonstrates through substantial scientific proof that approval would pose a threat to public health and safety.Allows a drug to be considered a bioequivalent to a listed drug if the effects of such drug and the listed drug do not show a significant difference based on certain tests or studies.Provides for an accelerated date of approval of a generic drug application.Expresses the sense of Congress that measures should be taken to effectuate the purpose of the Drug Price Competition and Patent Term Restoration Act of 1984 to make generic drugs more available and accessible, thereby reducing health care costs.</summary>
+</bill>

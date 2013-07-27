@@ -1,0 +1,115 @@
+<bill session="106" type="h" number="661" updated="2013-07-14T18:53:07-04:00">
+  <state datetime="1999-03-03T11:52:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-03-03T11:52:00-05:00"/>
+  </status>
+  <introduced datetime="1999-02-10"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Transportation to prohibit the commercial operation of supersonic transport category aircraft that do not comply with stage 3 noise levels if the European Union adopts certain aircraft noise regulations.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1999-03-01"/>
+    <cosponsor id="400116" joined="1999-02-10"/>
+    <cosponsor id="400585" joined="1999-03-01"/>
+    <cosponsor id="400506" joined="1999-02-10"/>
+    <cosponsor id="400235" joined="1999-03-01"/>
+    <cosponsor id="400243" joined="1999-02-10"/>
+    <cosponsor id="400598" joined="1999-03-01"/>
+    <cosponsor id="400530" joined="1999-03-01"/>
+    <cosponsor id="400374" joined="1999-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1999-02-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E187-188"/>
+    </action>
+    <action state="REFERRED" datetime="1999-02-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-02-11">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-02-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-02-11">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1999-03-02T11:26:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-35.</text>
+    </action>
+    <calendar datetime="1999-03-02T11:26:00-05:00" calendar="Union" number="20">
+      <text>Placed on the Union Calendar, Calendar No. 20.</text>
+    </calendar>
+    <action datetime="1999-03-02T15:28:00-05:00">
+      <text>Rules Committee Resolution H. Res. 86 Reported to House. Rule provides for consideration of H.R. 661 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Points of Order for failure to comply with clause 4(a) of rule XIII are waived. After general debate, the bill shall be considered for amendment under the five-minute rule. The Chairman of the Committee of the Whole may accord priority to those who have printed their amendments in the Congressional Record. At the conclusion of consideration of the bill for amendment, the Committee shall rise and report the bill to the House with amendments as may have been adopted. Measure will be considered read. Bill is open to amendments.</text>
+    </action>
+    <action datetime="1999-03-03T10:50:00-05:00">
+      <text>Rule H. Res. 86 passed House.</text>
+    </action>
+    <action datetime="1999-03-03T11:19:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 86.</text>
+      <reference ref="CR H903-907" label="consideration"/>
+    </action>
+    <action datetime="1999-03-03T11:19:00-05:00">
+      <text>Rule provides for consideration of H.R. 661 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Points of Order for failure to comply with clause 4(a) of rule XIII are waived. After general debate, the bill shall be considered for amendment under the five-minute rule. The Chairman of the Committee of the Whole may accord priority to those who have printed their amendments in the Congressional Record. At the conclusion of consideration of the bill for amendment, the Committee shall rise and report the bill to the House with amendments as may have been adopted. Measure will be considered read. Bill is open to amendments.</text>
+    </action>
+    <action datetime="1999-03-03T11:20:00-05:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 86 and Rule XXIII.</text>
+    </action>
+    <action datetime="1999-03-03T11:20:00-05:00">
+      <text>The Speaker designated the Honorable Richard Burr to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="1999-03-03T11:20:00-05:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 661.</text>
+    </action>
+    <action datetime="1999-03-03T11:52:00-05:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 661.</text>
+    </action>
+    <action datetime="1999-03-03T11:52:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-03-03T11:52:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On passage Passed by voice vote.</text>
+    </vote>
+    <action datetime="1999-03-03T11:53:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-03-04">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="106" type="hr" number="86"/>
+    <bill relation="identical" session="106" type="s" number="405"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Airports"/>
+    <term name="Aviation agreements"/>
+    <term name="Commercial aircraft"/>
+    <term name="Environmental protection"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="International affairs"/>
+    <term name="Law"/>
+    <term name="Noise"/>
+    <term name="Nontariff trade barriers"/>
+    <term name="Supersonic aircraft"/>
+    <term name="Transport aircraft"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/1999--Introduced.
+Directs the Secretary of Transportation to prohibit the commercial operation of civil supersonic transport aircraft that do not comply with stage 3 noise levels to or from a U.S. airport if the European Union adopts Common Position (EC) No. 66-98 (relating to certain aircraft noise regulations) as a final regulation.</summary>
+</bill>

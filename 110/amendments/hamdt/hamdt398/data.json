@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-26T12:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7101-7102", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7101", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-26T12:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Weiner amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt398-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding for the National Park Service by $1 million.", 
+  "house_number": 4, 
+  "introduced_at": "2007-06-26", 
+  "number": 398, 
+  "purpose": "An amendment numbered 32 printed in the Congressional Record to increase $1,000,000 (by transfer) regarding Operation of the National Park System.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-26T12:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

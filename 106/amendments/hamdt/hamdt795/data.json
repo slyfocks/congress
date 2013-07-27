@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T20:13:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4300-4301, H4304-4305", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A037) offered by Mr. Young (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T21:23:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H4300", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 269, 
+      "text": "On agreeing to the Young (FL) amendment (A037) Failed by recorded vote: 186 - 236 (Roll no. 269).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt795-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to reduce all discretionary account levels by 0.617% across-the-board.", 
+  "house_number": 37, 
+  "introduced_at": "2000-06-13", 
+  "number": 795, 
+  "purpose": "An amendment to reduce all discretionary account levels by 0.617% across-the-board.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Young, C. W. Bill", 
+    "state": "FL", 
+    "thomas_id": "01255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-13T21:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

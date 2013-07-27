@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-13", 
+      "references": [
+        {
+          "reference": "CR S3515-3517, S3522-3523", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3516", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 367 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 93, 
+      "text": "Amendment SA 367 not agreed to in Senate by Yea-Nay. 27 - 71. Record Vote Number: 93.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt367-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 367, 
+  "proposed_at": "2005-04-13", 
+  "purpose": "To reduce by $36,000,000 the amount appropriated for \"Military Construction, Army\", with the amount of the reduction to be allocated to funds available under that heading for the Camp 6 Detention Facility at Guantanamo Bay, Cuba.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-13", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

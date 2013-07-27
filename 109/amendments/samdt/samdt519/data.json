@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3997", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3997", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 519 proposed by Senator Stevens for Senator Bunning.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3997", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 519 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt519-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-18", 
+  "number": 519, 
+  "proposed_at": "2005-04-20", 
+  "purpose": "To express the sense of the Senate that the Department of Defense should procure Rapid Wall Breaching Kits in Fiscal Year 2005 and request funding for the new devices in future fiscal years.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bunning, Jim", 
+    "state": "KY", 
+    "thomas_id": "00146", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

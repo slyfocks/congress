@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-23T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7472-7475, H7477", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7472", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Watt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-23T13:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 466, 
+      "text": "On agreeing to the Watt amendment (A002) Failed by recorded vote: 202 - 217 (Roll no. 466).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt775-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2028-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2028
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to preserve Supreme Court review of appeals related to the constitutionality of the Pledge of Allegiance.", 
+  "house_number": 2, 
+  "introduced_at": "2004-09-23", 
+  "number": 775, 
+  "purpose": "An amendment numbered two printed in House Report 108-693 to strike the following in section 1632 of title 28, United States Code, as added by section 2(a) of the bill: \", and the Supreme Court shall have no appellate jurisdiction,\".", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-23T13:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

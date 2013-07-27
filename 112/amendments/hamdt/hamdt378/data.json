@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T21:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3890-3892", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3890", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Carter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T13:39:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3933-3934", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 392, 
+      "text": "On agreeing to the Carter amendment (A030) Agreed to by recorded vote: 242 - 180 (Roll no. 392).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt378-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds made available by this Act to be used for the Climate Change Adaptation Task Force of the Department of Homeland Security.", 
+  "house_number": 30, 
+  "introduced_at": "2011-06-01", 
+  "number": 378, 
+  "purpose": "An amendment to prohibit the use of funds made available by this Act to be used for the Climate Change Adaptation Task Force of the Department of Homeland Security.", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Carter, John R.", 
+    "state": "TX", 
+    "thomas_id": "01752", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T13:39:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

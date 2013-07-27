@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7421-7422", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7421", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1061 proposed by Senator Dorgan for Senator Obama.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7478, S7511-7512", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1061 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1061-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1061, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "To provide that none of the funds made available in this Act may be used in contravention of 15 U.S.C. section 2682(c)(3) or to delay the implementation of that section.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Obama, Barack", 
+    "state": "IL", 
+    "thomas_id": "01763", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-28", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

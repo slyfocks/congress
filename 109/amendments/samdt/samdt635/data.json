@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5028-5029", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5028", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 635 proposed by Senator Byrd to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 635.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "references": [], 
+      "text": "Amendment SA 635 ruled non-germane by the chair by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt635-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 635, 
+  "proposed_at": "2005-05-12", 
+  "purpose": "To amend the Internal Revenue Code of 1986 to allow a credit for rural commuters.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-05-11", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

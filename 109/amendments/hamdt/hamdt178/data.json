@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-19T15:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3642-3644, H3650-3651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3642", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Obey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-19T17:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 194, 
+      "text": "On agreeing to the Obey amendment (A010) Failed by recorded vote: 186 - 235 (Roll no. 194).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt178-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for the Clean Water State Revolving Fund by $100 million.", 
+  "house_number": 10, 
+  "introduced_at": "2005-05-19", 
+  "number": 178, 
+  "purpose": "An amendment to increase funding in the Clean Water State Revolving Fund by $100 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-19T17:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-02T13:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2652-2667", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2652-2661", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Green (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-02T14:26:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 100, 
+      "text": "On agreeing to the Green (TX) amendment (A002) Failed by the Yeas and Nays: 196 - 228 (Roll no. 100).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt29-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr743-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 743
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to delete section 418 that requires state and local government employees to be covered by Social Security for their last 60 months of employment in order to be exempt from the Government Pension Offset.", 
+  "house_number": 2, 
+  "introduced_at": "2003-04-02", 
+  "number": 29, 
+  "purpose": "An amendment in the nature of a substitute printed in House Report 108-46 that is identical to the bill, except that it does not include the section of the bill that would require state and local employees to work for five years in a job covered by Social Security in order to avoid the application of the government pension offset.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Green, Gene", 
+    "state": "TX", 
+    "thomas_id": "00462", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-02T14:26:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

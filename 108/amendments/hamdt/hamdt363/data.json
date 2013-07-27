@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-04T18:27:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H7894-7899, H7921", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H7894", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-04T20:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 474, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A014) Failed by recorded vote: 188 - 222 (Roll no. 474).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt363-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2989-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2989
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike section 163 which restricts funding for a light rail system in Houston, Texas.", 
+  "house_number": 14, 
+  "introduced_at": "2003-09-04", 
+  "number": 363, 
+  "purpose": "An amendment that strikes Section 163 that prohibits the use of funds for a light rail system in Houston.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-04T20:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

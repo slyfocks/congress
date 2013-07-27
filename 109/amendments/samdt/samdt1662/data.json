@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-08", 
+      "references": [
+        {
+          "reference": "CR S9791-9795", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9791-9792", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1662 proposed by Senator Sarbanes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-09", 
+      "references": [
+        {
+          "reference": "CR S9865", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-12", 
+      "references": [
+        {
+          "reference": "CR S9899", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-13", 
+      "references": [
+        {
+          "reference": "CR S9948, S9976-9977", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9976-9977", 
+          "type": "text"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "references": [
+        {
+          "reference": "CR S10002, S10032", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1662 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1662-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-08", 
+  "number": 1662, 
+  "proposed_at": "2005-09-08", 
+  "purpose": "To assist the victims of the Hurricane Katrina with finding new housing, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sarbanes, Paul S.", 
+    "state": "MD", 
+    "thomas_id": "01017", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-14", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

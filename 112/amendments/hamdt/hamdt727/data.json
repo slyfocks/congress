@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T16:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5526, H5535", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5526", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Hanabusa.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T17:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 646, 
+      "text": "On agreeing to the Hanabusa amendment (A008) Failed by recorded vote: 168 - 260 (Roll no. 646).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt727-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1938-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1938
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that a Presidential Permit approving the construction and operation of the Keystone XL pipeline will not be issued unless the Secretary of Energy in consultation with the Pipeline and Hazardous Materials Safety Administration (PHMSA), certify that the applicant has calculated a worst-case oil spill scenario for the proposed pipeline and has demonstrated to the satisfaction of the Secretary and the PHMSA that the applicant possesses the capability and technology to respond immediately and effectively to such a worst-case scenario.", 
+  "house_number": 8, 
+  "introduced_at": "2011-07-26", 
+  "number": 727, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hanabusa, Colleen W.", 
+    "state": "HI", 
+    "thomas_id": "02010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T17:57:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

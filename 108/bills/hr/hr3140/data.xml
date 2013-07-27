@@ -1,0 +1,158 @@
+<bill session="108" type="h" number="3140" updated="2013-07-14T19:01:59-04:00">
+  <state datetime="2003-12-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2003-12-06"/>
+  </status>
+  <introduced datetime="2003-09-23"/>
+  <titles>
+    <title as="introduced" type="short">Fairness to Contact Lens Consumers Act</title>
+    <title as="enacted" type="short">Fairness to Contact Lens Consumers Act</title>
+    <title as="introduced" type="official">To provide for availability of contact lens prescriptions to patients, and for other purposes.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2003-09-23"/>
+    <cosponsor id="400039" joined="2003-09-24"/>
+    <cosponsor id="400068" joined="2003-10-07"/>
+    <cosponsor id="400094" joined="2003-10-02"/>
+    <cosponsor id="400110" joined="2003-09-23"/>
+    <cosponsor id="400148" joined="2003-09-23"/>
+    <cosponsor id="400175" joined="2003-10-07"/>
+    <cosponsor id="400255" joined="2003-09-23"/>
+    <cosponsor id="400320" joined="2003-09-24"/>
+    <cosponsor id="400342" joined="2003-09-23"/>
+    <cosponsor id="400360" joined="2003-09-23"/>
+    <cosponsor id="400365" joined="2003-09-23"/>
+    <cosponsor id="400373" joined="2003-09-24"/>
+    <cosponsor id="400387" joined="2003-09-23"/>
+    <cosponsor id="400397" joined="2003-09-23"/>
+    <cosponsor id="400409" joined="2003-09-23"/>
+    <cosponsor id="400425" joined="2003-09-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-09-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2003-09-24">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-09-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-09-24">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-10-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-10-01">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2003-10-15T19:09:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 108-318.</text>
+    </action>
+    <calendar datetime="2003-10-15T19:11:00-04:00" calendar="Union" number="192">
+      <text>Placed on the Union Calendar, Calendar No. 192.</text>
+    </calendar>
+    <action datetime="2003-11-19T14:52:00-05:00">
+      <text>Mr. Burr moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-11-19T14:52:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11561-11565" label="consideration"/>
+      <reference ref="CR H11561-11562" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2003-11-19T14:52:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3140.</text>
+    </action>
+    <action datetime="2003-11-19T15:12:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-11-19T19:00:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H11595" label="consideration"/>
+    </action>
+    <action datetime="2003-11-19T19:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-19T19:08:00-05:00" how="roll" result="pass" roll="644" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 12 (Roll no. 644).</text>
+    </vote>
+    <vote state="PASSED:BILL" datetime="2003-11-20" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15310" label="consideration"/>
+    </vote>
+    <topresident datetime="2003-11-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2003-11-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2003-11-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2003-12-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2003-12-06" type="public" number="108-164">
+      <text>Became Public Law No: 108-164.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="h" number="2221"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative procedure"/>
+    <term name="Advertising"/>
+    <term name="Business records"/>
+    <term name="Communication in medicine"/>
+    <term name="Competition"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Contact lenses"/>
+    <term name="Deceptive advertising"/>
+    <term name="Electronic commerce"/>
+    <term name="Electronic data interchange"/>
+    <term name="Electronic mail systems"/>
+    <term name="Eye care"/>
+    <term name="Facsimile transmission"/>
+    <term name="Federal Trade Commission"/>
+    <term name="Fees"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Governmental investigations"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Law"/>
+    <term name="Liability (Law)"/>
+    <term name="Manufacturing industries"/>
+    <term name="Medical fees"/>
+    <term name="Medical malpractice"/>
+    <term name="Medical records"/>
+    <term name="Medical tests"/>
+    <term name="Optometry"/>
+    <term name="Patients' rights"/>
+    <term name="Physicians"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Sales promotion"/>
+    <term name="Science, technology, communications"/>
+    <term name="State laws"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>12/6/2003--Public Law.
+Fairness to Contact Lens Consumers Act - (Sec. 2) Requires a contact lens prescriber (a person permitted under State law to issue prescriptions for contact lenses) to provide a patient with a copy of their contact lens prescription, whether or not requested by the patient, and verify the prescription's accuracy, or make necessary corrections, to a contact lens seller or any person designated by the patient. Prohibits a prescriber from: (1) requiring patients to purchase contact lenses from the prescriber; (2) charging an additional fee for a copy of the prescription; (3) requiring the patient to sign a waiver; and (4) disclaiming liability or responsibility for the accuracy of the eye examination. (Sec. 3) Allows a prescriber to withhold the contact lens prescription until the prescriber receives payment or proof of insurance coverage only if the prescriber also requires immediate payment from a patient not needing any ophthalmic goods. (Sec. 4) Allows a seller to fill a prescription for contact lenses only when: (1) a seller receives a contact lens prescription directly or by facsimile; (2) a seller verifies a prescription by direct communication with the prescriber; or (3) the prescriber fails to respond to the seller within eight business hours after being contacted by the seller with the prescription information. Requires a seller to maintain a record of all such communication with a patient or a prescriber. (Sec. 5) Declares that a contact lens prescription shall expire on the date specified by the law of the State in which it is written, but not less than one year after the issue date of the prescription. Permits an exception for a patient's ocular health. (Sec. 6) Prohibits advertising that represents that contact lenses may be obtained without a prescription. (Sec. 8) Requires the Federal Trade Commission (FTC) to prescribe rules to carry out this Act. (Sec. 9) States that any violation of this Act shall be treated as a violation of the Federal Trade Commission Act regarding unfair or deceptive acts or practices. (Sec. 10) Requires the FTC to report to Congress on: (1) exclusive relationships between prescribers or sellers and contact lens manufacturers and the impact such relationships have on competition; (2) differences between online and off-line sellers of contact lenses; (3) contact lens prescriptions that specify brand name and their impact on competition; (4) the FTC eyeglasses rule, its enforcement, and its impact on competition; and (5) any other issue that affects competition in the sale of contact lenses.</summary>
+</bill>

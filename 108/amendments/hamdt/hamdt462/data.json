@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-02-04T16:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H347-348", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H347", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-04T18:01:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 18, 
+      "text": "On agreeing to the Miller, George amendment (A004) Agreed to by recorded vote: 227 - 179 (Roll no. 18).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt462-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3030-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3030
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment authorizes an additional 6 months of extended unemployment compensation benefits through the Community Services Block Grant program.", 
+  "house_number": 4, 
+  "introduced_at": "2004-02-04", 
+  "number": 462, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to insert provisions extending unemployment benefits for 6 months through the CDBG program.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-02-04T18:01:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

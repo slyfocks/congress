@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-12T13:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5880-5881, H5885-5886", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5880", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. McCollum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-12T14:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 563, 
+      "text": "On agreeing to the McCollum amendment (A001) Failed by recorded vote: 201 - 213 (Roll no. 563).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1476-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5544-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5544
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to ensure that tribal treaty rights would be preserved and that tribes would be consulted.", 
+  "house_number": 1, 
+  "introduced_at": "2012-09-12", 
+  "number": 1476, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 112-660 to ensure tribal treaty rights are preserved and tribes are consulted.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCollum, Betty", 
+    "state": "MN", 
+    "thomas_id": "01653", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-09-12T14:22:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

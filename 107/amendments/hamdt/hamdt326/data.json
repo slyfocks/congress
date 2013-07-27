@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-03T14:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6234-6235", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6234", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. English.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-03T14:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the English amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt326-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment waives the requirement for the repayment of certain paid loan deficiency payments and marketing loan gains by a group of farmers in Erie County, Pennsylvania.", 
+  "house_number": 8, 
+  "introduced_at": "2001-10-03", 
+  "number": 326, 
+  "purpose": "An amendment numbered 20 printed in the Congressional Record to add a new section providing for producer retention of erroneously paid loan deficiency payments and marketing loan gains.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "English, Phil", 
+    "state": "PA", 
+    "thomas_id": "00347", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-03T14:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

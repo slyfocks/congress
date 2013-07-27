@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-11-06T14:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12522-12524, H12531-12532", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12522", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Dent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-06T16:05:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 872, 
+      "text": "On agreeing to the Dent amendment (A005) Failed by recorded vote: 193 - 236 (Roll no. 872).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt503-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2868-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike section 2111, which requires assessments and implementation of methods to reduce the consequences of a terrorist attack.", 
+  "house_number": 5, 
+  "introduced_at": "2009-11-06", 
+  "number": 503, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 111-327 to strike section 2111, which requires assessments and implementation of methods to reduce the consequences of a terrorist attack.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dent, Charles W.", 
+    "state": "PA", 
+    "thomas_id": "01799", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-11-06T16:05:00-05:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

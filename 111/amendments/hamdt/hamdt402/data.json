@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-30T12:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9091-9092, H9125-9126", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9091", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-30T13:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 668, 
+      "text": "On agreeing to the Flake amendment (A011) Failed by recorded vote: 78 - 348, 10 Present (Roll no. 668).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt402-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3326-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funding for AARGM Counter Air Defense Future Capabilities.", 
+  "house_number": 11, 
+  "introduced_at": "2009-07-30", 
+  "number": 402, 
+  "purpose": "An amendment numbered 439 printed in Part B of House Report 111-233 to prohibit funding for AARGM Counter Air Defense Future Capabilities.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-30T13:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

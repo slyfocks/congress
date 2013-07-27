@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15T18:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1496-1497", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1496", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16T11:19:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 75, 
+      "text": "On agreeing to the Markey amendment (A017) Agreed to by recorded vote: 420 - 2, 3 Present (Roll no. 75).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt60-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment prohibits funds in the bill from being used in contravention of certain laws enacted or regulations promulgated to implement the UN Contravention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.", 
+  "house_number": 17, 
+  "introduced_at": "2005-03-15", 
+  "number": 60, 
+  "purpose": "An amendment to add a new title prohibiting use of funds in the bill for contravention of laws enacted or promulgated to implement the UN Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-16T11:19:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

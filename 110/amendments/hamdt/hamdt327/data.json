@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T16:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6711-6712", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6711", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Porter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-20T17:23:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6786-6787", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6786", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 516, 
+      "text": "On agreeing to the Porter amendment (A012) Failed by recorded vote: 80 - 351 (Roll no. 516).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt327-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to delete funding for the Yucca Mountain nuclear waste disposal program.", 
+  "house_number": 12, 
+  "introduced_at": "2007-06-19", 
+  "number": 327, 
+  "purpose": "An amendment to strike the provisions in the bill for nuclear waste disposal activities.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Porter, Jon C.", 
+    "state": "NV", 
+    "thomas_id": "01739", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-20T17:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

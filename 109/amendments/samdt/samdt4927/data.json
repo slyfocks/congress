@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-11", 
+      "references": [
+        {
+          "reference": "CR S9287-9288", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4927 proposed by Senator Stevens for Senator DeMint to Amendment SA 4921.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-11", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4927 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-09-11", 
+      "references": [], 
+      "text": "Amendment SA 4927, previously agreed to, was modified by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4927-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt4921-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 4921
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-11", 
+  "number": 4927, 
+  "proposed_at": "2006-09-11", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeMint, Jim", 
+    "state": "SC", 
+    "thomas_id": "01605", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-11", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

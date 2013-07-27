@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T21:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3888-3890", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3888", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mrs. Lummis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T13:35:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3933", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 391, 
+      "text": "On agreeing to the Lummis amendment (A028) Agreed to by recorded vote: 238 - 177 (Roll no. 391).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt376-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes section 547 which provides border security funding for environmental mitigation along the southern United States border.", 
+  "house_number": 28, 
+  "introduced_at": "2011-06-01", 
+  "number": 376, 
+  "purpose": "An amendment to strike section 547.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lummis, Cynthia M.", 
+    "state": "WY", 
+    "thomas_id": "01960", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T13:35:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

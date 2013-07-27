@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-09T19:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4730", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4730", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Shuler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-10T11:26:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4768", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4768", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 320, 
+      "text": "On agreeing to the Shuler amendment (A003) Agreed to by recorded vote: 398 - 29 (Roll no. 320).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt165-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1873-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1873
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment extends small business procurement contracting goals to include overseas contracts.", 
+  "house_number": 3, 
+  "introduced_at": "2007-05-09", 
+  "number": 165, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-137 to extend small business contracting goals to overseas contracts.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Shuler, Heath", 
+    "state": "NC", 
+    "thomas_id": "01859", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-10T11:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

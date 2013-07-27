@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24T17:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3189-3190, H3211-3212", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3189", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Bishop (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24T22:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 202, 
+      "text": "On agreeing to the Bishop (NY) amendment (A013) Failed by recorded vote: 164 - 258, 1 Present (Roll no. 202).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt924-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5427-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2006-05-24", 
+  "number": 924, 
+  "purpose": "An amendment to prohibit any of the funds made available in the Act from being used by the Federal Energy Regulatory Commission to review the application for the Broadwater Energy proposal, dockets CP06-54-000, CP06-55-000, and CP06-56-000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24T22:02:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

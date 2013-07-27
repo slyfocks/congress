@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-19T14:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8145-8149, H8166-8167", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8145", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A083) offered by Mrs. Musgrave.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-19T17:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 682, 
+      "text": "On agreeing to the Musgrave amendment (A083) Failed by recorded vote: 177 - 245 (Roll no. 682).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt592-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 83, 
+  "introduced_at": "2007-07-19", 
+  "number": 592, 
+  "purpose": "An amendment numbered 23 printed in the Congressional Record to reduce spending amounts in the bill by .5% across-the-board.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Musgrave, Marilyn N.", 
+    "state": "CO", 
+    "thomas_id": "01711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-19T17:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

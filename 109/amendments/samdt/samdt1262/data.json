@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8453", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1262 proposed by Senator McConnell for Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8453", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1262 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1262-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-18", 
+  "number": 1262, 
+  "proposed_at": "2005-07-19", 
+  "purpose": "To provide that funds should be made available for law enforcement programs to combat the prevalence of violent gangs in Guatemala, Honduras, and El Salvador.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-19", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

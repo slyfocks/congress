@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T19:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2199-2200", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2199", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-01T11:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2233-2234", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 216, 
+      "text": "On agreeing to the Sessions amendment (A019) Failed by recorded vote: 183 - 238 (Roll no. 216).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt228-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit any funding in the bill for use in administering or enforcing the Davis-Bacon wage rate requirements.", 
+  "house_number": 19, 
+  "introduced_at": "2011-03-31", 
+  "number": 228, 
+  "purpose": "An amendment numbered 20 printed in House Report 112-46 to prevent any funds from this act to be used to administer or enforce Davis Bacon.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-01T11:53:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

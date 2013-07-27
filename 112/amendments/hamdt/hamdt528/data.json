@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T20:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4653", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4653", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T13:59:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4696", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 504, 
+      "text": "On agreeing to the Nadler amendment (A023) Failed by recorded vote: 174 - 251 (Roll no. 504).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt528-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to designate $15 million in funding to be used to insulate the shelters at forward operating bases in Afghanistan.", 
+  "house_number": 23, 
+  "introduced_at": "2011-07-06", 
+  "number": 528, 
+  "purpose": "An amendment to transfer funds with respect to Operation and Maintenance.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T13:59:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-28", 
+      "references": [
+        {
+          "reference": "CR S2440, S2441-2454, S2458-2459", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3176 proposed by Senator Collins to Amendment SA 2944.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 77, 
+      "text": "Amendment SA 3176 not agreed to in Senate by Yea-Nay Vote. 30 - 67. Record Vote Number: 77.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3176-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2944-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2944
+  }, 
+  "amends_bill": {
+    "bill_id": "s2349-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2349
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-28", 
+  "number": 3176, 
+  "proposed_at": "2006-03-28", 
+  "purpose": "To establish the Senate Office of Public Integrity.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-28", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

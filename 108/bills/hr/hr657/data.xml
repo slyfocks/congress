@@ -1,0 +1,88 @@
+<bill session="108" type="h" number="657" updated="2013-07-14T19:00:44-04:00">
+  <state datetime="2003-02-26T13:41:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-02-26T13:41:00-05:00"/>
+  </status>
+  <introduced datetime="2003-02-11"/>
+  <titles>
+    <title as="introduced" type="short">Emergency Securities Response Act of 2003</title>
+    <title as="reported to house" type="short">Emergency Securities Response Act of 2003</title>
+    <title as="passed house" type="short">Emergency Securities Response Act of 2003</title>
+    <title as="introduced" type="official">To amend the Securities Exchange Act of 1934 to augment the emergency authority of the Securities and Exchange Commission.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="2003-02-11"/>
+    <cosponsor id="400120" joined="2003-02-11"/>
+    <cosponsor id="400140" joined="2003-02-11"/>
+    <cosponsor id="400210" joined="2003-02-11"/>
+    <cosponsor id="400307" joined="2003-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-02-11">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2003-02-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-02-13">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2003-02-25T18:45:00-05:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 108-19.</text>
+    </action>
+    <calendar datetime="2003-02-25T18:45:00-05:00" calendar="Union" number="13">
+      <text>Placed on the Union Calendar, Calendar No. 13.</text>
+    </calendar>
+    <action datetime="2003-02-26T13:24:00-05:00">
+      <text>Mr. Garrett (NJ) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-02-26T13:24:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1341-1343" label="consideration"/>
+    </action>
+    <action datetime="2003-02-26T13:24:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 657.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-02-26T13:41:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1341" label="text of measure as passed House"/>
+    </vote>
+    <action datetime="2003-02-26T13:41:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-02-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative procedure"/>
+    <term name="Commerce"/>
+    <term name="Department of the Treasury"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Financial crises"/>
+    <term name="Futures trading"/>
+    <term name="Government operations and politics"/>
+    <term name="Government securities"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Investors"/>
+    <term name="Law"/>
+    <term name="Mutual funds"/>
+    <term name="Securities and Exchange Commission"/>
+    <term name="Securities industry"/>
+    <term name="Securities regulation"/>
+    <term name="Stock exchanges"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2003--Passed House amended.
+Emergency Securities Response Act of 2003 - (Sec. 2) Amends the Securities Exchange Act of 1934 to grant the Securities and Exchange Commission (SEC) powers, in an emergency, to reduce, eliminate, or prevent the substantial disruption by the emergency of: (1) securities markets, investment companies, or other significant portion of such markets; or (2) the transmission or processing of securities transactions.Permits such emergency to extend beyond 30 business days, but no more than 90 calendar days, if the SEC finds that the emergency still exists and determines that the continuation of the emergency order beyond 30 business days is necessary in the public interest and for the protection of investors. Redefines emergency to include a major disturbance that substantially disrupts, or threatens to substantially disrupt: (1) the functioning of securities markets, investment companies, or any other significant portion or segment of the securities markets; or (2) the transmission or processing of securities transactions.Requires the Commission to consult with and consider the views of the Secretary of the Treasury, Board of Governors of the Federal Reserve System, and the Commodity Futures Trading Commission, prior to taking action extending the time frame of its emergency powers unless such consultation is impracticable in light of the emergency.(Sec. 3) Grants the Secretary of the Treasury parallel authority to take any action with respect to a matter or action subject to regulation by the Secretary involving a government security or a market therein that the Commission may take with respect to securities transactions or a market therein.</summary>
+</bill>

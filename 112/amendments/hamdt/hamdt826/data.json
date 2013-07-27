@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-11T15:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6699-6700, H6722-6723", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6699", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Connolly (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-11T19:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 773, 
+      "text": "On agreeing to the Connolly (VA) amendment (A007) Failed by recorded vote: 168 - 250 (Roll no. 773).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt826-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2011-10-11", 
+  "number": 826, 
+  "purpose": "An amendment umbered 18 printed in the Congressional Record to add a section which directs the EPA Administrator to implement the rules included in this Act to reduce emissions from waste incinerators or industrial boilers at chemical facilities, oil refineries, or large manufacturing facilities if such emissions are causing respiratory and cardiovascular illness and deaths, including cases of heart attacks, asthma attacks, and bronchitis.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-11T19:22:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

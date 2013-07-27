@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24", 
+      "references": [
+        {
+          "reference": "CR S5050-5060, S5062", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4085 proposed by Senator McConnell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "references": [], 
+      "text": "Motion to table amendment SA 4085 rejected in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 143.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 4085.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "references": [], 
+      "text": "Amendment SA 4085 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4085-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-22", 
+  "number": 4085, 
+  "proposed_at": "2006-05-24", 
+  "purpose": "To implement the recommendation of the Carter-Baker Commission on Federal Election Reform to protect and secure the franchise of all United States citizens from ballots being cast illegally by non-United States citizens.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "thomas_id": "01395", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-05-22", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

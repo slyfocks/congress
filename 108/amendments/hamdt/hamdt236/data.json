@@ -1,0 +1,83 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-15T14:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6772-6785, H6790", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6772-6781", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-15T15:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hyde amendment (A002) as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-07-16T12:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6892-6902", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6893-6902", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Flake demanded a separate vote on the Hyde amendment (A002) as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-16T12:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 368, 
+      "text": "On agreeing to the Hyde amendment (A002) as amended Agreed to by the Yeas and Nays: 368 - 52 (Roll no. 368).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt236-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1950-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1950
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment, as amended, consisted of the text of H.R. 2441, the Millennium Challenge Account Authorization and Peace Corps Expansion Act of 2003.", 
+  "house_number": 2, 
+  "introduced_at": "2003-07-15", 
+  "number": 236, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-206 to authorize the establishment of a new program of foreign assistance for countries that meet and maintain certain eligibility criteria; authorize and expand the Peace Corps; and authorize funds for the Millenium Challenge Authorization Act.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-16T12:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-14T14:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4073-4089", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4073-4089", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-14T15:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 187, 
+      "text": "On agreeing to the Andrews amendment (A002) Failed by the Yeas and Nays: 193 - 236 (Roll no. 187).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt131-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1000-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1000
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to add the text of the Pension Fairness Act that, among other provisions, requires executive pensions to be subject to the same pension rules that apply to other employees, provides for investment advice from qualified, independent advisors, allows older employees to choose between a conversion to a cash balance plan or to maintain their current defined benefit pension plan, and requires disclosure to collective bargaining units on proposed changes to executive pensions, health or life insurance, or other substantial benefits.", 
+  "house_number": 2, 
+  "introduced_at": "2003-05-14", 
+  "number": 131, 
+  "purpose": "An amendment in the nature of a substitute that requires executive pensions to be subject to the same pension rules that apply to other workers. Changes provisions that allow special executive pension plans to escape taxation, to receive special protection against creditors, and to end-run pension laws that require wide employee participation at the company. Requires that executive plans be subject to the same uniform and fair vesting and contribution limits that apply to rank-and-file employees. Requires companies changing from traditional pension plans to cash balance plans to allow older workers the choice of remaining in the old plan or joining the new plan. Requires executive compensation packages including pensions to be approved by the board of directors. Gives employees greater protections when a company declares bankruptcy, and denies executives preferential protection against creditors. Imposes an excise tax on executive golden parachutes.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-05-14T15:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

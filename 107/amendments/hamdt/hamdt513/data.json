@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-27T12:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4111-4113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4111", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Spratt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-27T13:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "Recorded vote denied.", 
+          "type": null
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Spratt amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt513-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5010-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment reallocates $30 million from the space-based boost phase interceptor program to the airborne laser system program.", 
+  "house_number": 3, 
+  "introduced_at": "2002-06-27", 
+  "number": 513, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Spratt, John M., Jr.", 
+    "state": "SC", 
+    "thomas_id": "01092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-06-27T13:10:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-04-30T17:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2915-2918, H2919", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2915", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Wilson (SC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-30T18:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 231, 
+      "text": "On agreeing to the Wilson (SC) amendment (A002) Failed by recorded vote: 178 - 237, 1 Present (Roll no. 231).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1038-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5522-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 5522
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to direct OSHA to wait for the outcome of the Imperial Sugar investigation and findings from the combustible dust National Emphasis Program before deciding on whether to move forward with a standard.", 
+  "house_number": 2, 
+  "introduced_at": "2008-04-30", 
+  "number": 1038, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-613 to direct OSHA to wait for the outcome of the Imperial Sugar investigation and findings from the combustible dust National Emphasis Program before deciding on whether to move forward with a standard.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wilson, Joe", 
+    "state": "SC", 
+    "thomas_id": "01688", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-04-30T18:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-03T15:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2962-2963, H2978", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2962", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-03T17:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 281, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A001) Failed by recorded vote: 177 - 239 (Roll no. 281).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt260-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1213-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1213
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Secretary of Health and Human Services to post notice of rescission of funds and the amount of funds rescinded on the public website of the Department of Health and Human Services.", 
+  "house_number": 1, 
+  "introduced_at": "2011-05-03", 
+  "number": 260, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-70 to require the Secretary of Health and Human Services to post notice of rescission of funds and the amount rescinded on the public website of the Department of Health and Human Services.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-03T17:30:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

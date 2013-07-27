@@ -1,0 +1,45 @@
+<bill session="106" type="hc" number="1" updated="2013-07-14T18:55:19-04:00">
+  <state datetime="1999-01-14">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-01-14"/>
+  </status>
+  <introduced datetime="1999-01-06"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President.</title>
+  </titles>
+  <sponsor id="400551"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1999-01-06T18:08:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H218" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-01-06T18:08:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1999-01-06T18:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-01-07">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-01-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S252" label="consideration"/>
+    </vote>
+    <action datetime="1999-01-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1999--Introduced.
+Provides for a joint session of the Congress on January 19, 1999, to receive a message from the President.</summary>
+</bill>

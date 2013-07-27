@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-08T13:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4238-4242, H4260", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4238", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Rehberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T17:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 231, 
+      "text": "On agreeing to the Rehberg amendment Failed by recorded vote: 187 - 240 (Roll no. 231).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt232-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete section 757 which prohibited funds from being used for the implementation of Country of Origin Labeling for meat and meat products.", 
+  "house_number": 9, 
+  "introduced_at": "2005-06-08", 
+  "number": 232, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to strike section 759 from the bill relating to the delay in country of origin labeling for meat and meat products.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rehberg, Dennis R.", 
+    "state": "MT", 
+    "thomas_id": "01657", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-08T17:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

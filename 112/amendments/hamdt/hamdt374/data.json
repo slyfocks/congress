@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T20:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3882", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3882", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Honda.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T21:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Honda amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt374-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes language in the bill which targets immigrant integration grants.", 
+  "house_number": 26, 
+  "introduced_at": "2011-06-01", 
+  "number": 374, 
+  "purpose": "An amendment to prohibit the use of funds for immigrant intergration grants.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Honda, Michael M.", 
+    "state": "CA", 
+    "thomas_id": "01634", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-01T21:06:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

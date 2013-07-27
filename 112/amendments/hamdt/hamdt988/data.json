@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-22T10:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1505-1507, H1514-1515", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1505", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Bonamici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-22T11:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 123, 
+      "text": "On agreeing to the Bonamici amendment (A002) Failed by recorded vote: 179 - 228, 1 Present (Roll no. 123).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt988-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to delay the date of enactment until the Secretary of Health and Human Services submits to Congress a report on the potential effect of this title on health care premiums.", 
+  "house_number": 2, 
+  "introduced_at": "2012-03-22", 
+  "number": 988, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-416 to delay the date of enactment until the Secretary of Health and Human Services submits to Congress a report on the potential effect of this title on health care premiums.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bonamici, Suzanne", 
+    "state": "OR", 
+    "thomas_id": "02092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-22T11:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-29", 
+      "references": [
+        {
+          "reference": "CR S10685-10688, S10701", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10685", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1886 proposed by Senator Harkin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-29", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1886 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1886-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-29", 
+  "number": 1886, 
+  "proposed_at": "2005-09-29", 
+  "purpose": "To make available emergency funds for pandemic flu preparedness.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-29", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

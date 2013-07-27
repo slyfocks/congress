@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-15T16:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14029-14031, H14034-14035", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14029", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-15T17:32:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 1116, 
+      "text": "On agreeing to the McHenry amendment (A017) Failed by recorded vote: 168 - 245 (Roll no. 1116).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt914-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3915-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3915
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike Title III--High-Cost Mortgages from the bill.", 
+  "house_number": 17, 
+  "introduced_at": "2007-11-15", 
+  "number": 914, 
+  "purpose": "An amendment numbered 15 printed in House Report 110-450 to strike Title III--High-Cost Mortgages from the bill.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-11-15T17:32:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

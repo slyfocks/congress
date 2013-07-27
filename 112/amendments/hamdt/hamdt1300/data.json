@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20T20:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3904-3905", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3904", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-21T11:49:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3933-3934", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 396, 
+      "text": "On agreeing to the Rush amendment (A010) Failed by recorded vote: 164 - 255 (Roll no. 396).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1300-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4480-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4480
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to provide that Sections 205 and 206 shall cease to be effective if the Administrator of the Energy Information Administration determines that implementation of this title is not projected to lower gasoline prices and create jobs in the United States within 10 years.", 
+  "house_number": 10, 
+  "introduced_at": "2012-06-20", 
+  "number": 1300, 
+  "purpose": "An amendment numbered 11 printed in House Report 112-540 to provide that Sections 205 and 206 shall cease to be effective if the Administrator of the Energy Information Administration determines that implementation of this title is not projected to lower gasoline prices and create jobs in the United States within 10 years.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-21T11:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

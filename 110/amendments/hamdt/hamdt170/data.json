@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-09T20:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4734", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4734", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-09T20:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt170-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1873-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1873
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides that whenever there is a disagreement between the SBA and the contracting procurement agency, the appropriate House and Senate committees with jurisdiction over the matter be informed.", 
+  "house_number": 8, 
+  "introduced_at": "2007-05-09", 
+  "number": 170, 
+  "purpose": "An amendment numbered 8 printed in House Report 110-137 to require that, when the SBA and the contracting procurement agency fail to agree and the Administrator submits the matter to the head of the agency for a determination, a copy of the written response to the Administrator be sent to the Committee of the House and Senate that has jurisdiction over the agency concerned, in addition to the Committees on Small Business and Oversight & Government Reform.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-09T20:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

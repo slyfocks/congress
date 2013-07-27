@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-24T17:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4488-4492", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4488", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Ms. Pelosi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-24T18:21:00-04:00", 
+      "references": [], 
+      "text": "Mr. Kolbe raised a point of order against the Pelosi amendment (A016). The amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt218-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2506-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2506
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 16, 
+  "introduced_at": "2001-07-24", 
+  "number": 218, 
+  "purpose": "Amendment numbered 32 printed in the Congressional Record to provide $250 million in emergency funding to help El Salvador cope with last year's earthquake.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-07-24", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

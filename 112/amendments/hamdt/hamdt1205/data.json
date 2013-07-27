@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T20:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3458-3459", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3458", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T16:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3514-3515", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 326, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A036) Failed by recorded vote: 157 - 260 (Roll no. 326).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1205-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase the funds for the Energy Efficiency and Renewable Energy program by $10 million and to reduce the \"Atomic Energy Defense Activities-National Nuclear Security Administration-Weapons Activities' Account by a similar amount.", 
+  "house_number": 36, 
+  "introduced_at": "2012-06-05", 
+  "number": 1205, 
+  "purpose": "An amendment to increase the funds for the \"Department of Energy-Energy Programs-Energy Efficiency and Renewable Energy\" Account by $10 million and reduce the \"Atomic Energy Defense Activities-National Nuclear Security Administration-Weapons Activities' Account by the same amount.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T16:57:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

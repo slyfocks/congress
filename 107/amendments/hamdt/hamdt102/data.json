@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-21T13:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3400", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3400", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. Maloney (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-21T13:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Maloney (NY) amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt102-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2217-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2217
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment clarifies that the Mineral Management Service shall document the expected return in advance of any royalty-in-kind sales to assure that royalty income under the pilot program is equal to or greater than royalty income recognized under the existing royalty-in-value program.", 
+  "house_number": 4, 
+  "introduced_at": "2001-06-21", 
+  "number": 102, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-06-21T13:18:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

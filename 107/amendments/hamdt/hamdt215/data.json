@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-24T17:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4481-4484, H4527-4528", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4481", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-24T21:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 264, 
+      "text": "On agreeing to the Brown (OH) amendment (A013) Agreed to by recorded vote: 268 - 159 (Roll no. 264).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt215-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2506-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2506
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment increases Child Survival and Health Programs funding by $20 million for the prevention, treatment, and eradication of tuberculosis with offsets of $10 million from the contribution to the Multilateral Investment Guarantee Agency, and $10 million from the contribution to the Asian Development Fund.", 
+  "house_number": 13, 
+  "introduced_at": "2001-07-24", 
+  "number": 215, 
+  "purpose": "Amendment numbered 5 and printed in the Congressional Record to add $20 million (by offset) to fight tuberculosis within the Child Survival and Health Programs account.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-24T21:41:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

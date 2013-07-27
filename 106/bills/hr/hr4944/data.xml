@@ -1,0 +1,75 @@
+<bill session="106" type="h" number="4944" updated="2013-07-14T18:55:04-04:00">
+  <state datetime="2000-09-26T12:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-09-26T12:25:00-04:00"/>
+  </status>
+  <introduced datetime="2000-07-25"/>
+  <titles>
+    <title as="introduced" type="short">Export Working Capital Loan Improvement Act of 2000</title>
+    <title as="introduced" type="official">To amend the Small Business Act to permit the sale of guaranteed loans made for export purposes before the loans have been fully disbursed to borrowers.</title>
+  </titles>
+  <sponsor id="400252"/>
+  <cosponsors>
+    <cosponsor id="400614" joined="2000-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2000-07-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1313-1314"/>
+    </action>
+    <action state="REFERRED" datetime="2000-07-25">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2000-07-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-07-27">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Small Business"/>
+    </calendar>
+    <action datetime="2000-09-21T16:28:00-04:00">
+      <text>Reported by the Committee on Small Business. H. Rept. 106-880.</text>
+    </action>
+    <calendar datetime="2000-09-21T16:28:00-04:00" calendar="Union" number="531">
+      <text>Placed on the Union Calendar, Calendar No. 531.</text>
+    </calendar>
+    <action datetime="2000-09-26T12:12:00-04:00">
+      <text>Mr. Manzullo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-09-26T12:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8084-8086" label="consideration"/>
+    </action>
+    <action datetime="2000-09-26T12:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4944.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-26T12:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8084" label="text"/>
+    </vote>
+    <action datetime="2000-09-26T12:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup, Reporting"/>
+    <committee code="SSSB" name="Senate Small Business" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Export credit"/>
+    <term name="Export finance"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2000--Introduced.
+Export Working Capital Loan Improvement Act of 2000 - Amends the Small Business Act to authorize the sale of guaranteed loans made to small businesses for export purposes before such loans have been fully disbursed to borrowers.</summary>
+</bill>

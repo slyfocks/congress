@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-18T13:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5502-5513", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5502-5503", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Pomeroy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-18T14:51:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A001) and on the bill pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-18T15:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 287, 
+      "text": "On agreeing to the Pomeroy amendment (A001) Failed by the Yeas and Nays: 188 - 239 (Roll no. 287).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt171-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr8-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 8
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to increase the estate tax exemption to $3 million for individuals and $6 million for couples with the bill becoming effective on Jan. 1, 2004.", 
+  "house_number": 1, 
+  "introduced_at": "2003-06-18", 
+  "number": 171, 
+  "purpose": "An amendment in the nature of a substitute to immediately eliminate the estate tax for most estates; increase the estate tax exclusion to $3 million, effective January 1, 2004; partially offset the cost of increasing the exclusion by freezing existing estate tax rates, eliminatingthe ability to claim valuation discounts by holding property through partnerships, and restoring the prior law phaseout of the benefit of the graduated rates and exclusion; repeal the carryover basis rules contained in the 2001 tax bill, which would continue the favorable current law step-up in basis rules that eliminate capital gains taxes on increases in value before death.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pomeroy, Earl", 
+    "state": "ND", 
+    "thomas_id": "00922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-18T15:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-16T00:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR 2/15/2011 H903", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 2/15/2011 H903", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-16T00:22:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the McClintock amendment (A024) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt34-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to eliminate the funding for Solar R&D within EERE ($247 million) and to apply the amount to the spending reduction account.", 
+  "house_number": 24, 
+  "introduced_at": "2011-02-16", 
+  "number": 34, 
+  "purpose": "An amendment numbered 315 printed in the Congressional Record to eliminate the funding for Solar R&D within EERE ($247 million) and to apply the amount to the deficit reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-16T00:22:00-05:00", 
+  "updated_at": "2013-07-17T08:17:15-04:00"
+}

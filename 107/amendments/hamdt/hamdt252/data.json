@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-26T19:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4698-4699", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4698", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Evans.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-26T19:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Evans amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt252-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2620-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2620
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment prohibits the implementation of any administrative proposal that would require military retirees to make an \"irrevocable choice\" for any specified period of time between the Department of Veteran Affairs or military health care under the TRICARE for Life plan.", 
+  "house_number": 7, 
+  "introduced_at": "2001-07-26", 
+  "number": 252, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to prohibit the VA from using funds in the bill to force military retirees to permanently choose between the VA or military health care systems.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Evans, Lane", 
+    "state": "IL", 
+    "thomas_id": "00361", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-26T19:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

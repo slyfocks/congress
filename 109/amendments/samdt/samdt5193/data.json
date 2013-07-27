@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-16", 
+      "references": [
+        {
+          "reference": "CR S11097-11102", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11102", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5193 proposed by Senator Frist for Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5193 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5193-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres101-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 101
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-16", 
+  "number": 5193, 
+  "proposed_at": "2006-11-16", 
+  "purpose": "To make a clarification.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-11-16", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

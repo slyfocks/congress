@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-28T15:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1252-1269", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1252-1259", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) in the nature of a substitute offered by Mr. Spratt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-28T16:27:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 69, 
+      "text": "On agreeing to the Spratt amendment (A005) Failed by recorded vote: 183 - 243 (Roll no. 69).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt21-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres83-107", 
+    "bill_type": "hconres", 
+    "congress": 107, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute printed in Part B of H. Rept. 107-30 and numbered four was offered as the Democratic substitute.", 
+  "house_number": 5, 
+  "introduced_at": "2001-03-28", 
+  "number": 21, 
+  "purpose": "An amendment to extend the solvency of both the Medicare and Social Security programs and calls for giving the Medicare HI surplus the same off-budget status as the Social Security surplus and provides that Social Security and Medicare funds shall be used exclusively to fund benefits promised in current law. The amendment also divides the non-Social Security, non-Medicare surplus into thirds with one-third for tax relief costing $910 billion, one third for more debt reduction and new resources for Medicare and Social Security.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Spratt, John M., Jr.", 
+    "state": "SC", 
+    "thomas_id": "01092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-03-28T16:27:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

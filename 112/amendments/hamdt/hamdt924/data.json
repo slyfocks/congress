@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-06T19:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H499", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H499", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Connolly (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-07T13:52:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H529-530", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 36, 
+      "text": "On agreeing to the Connolly (VA) amendment (A002) Failed by recorded vote: 191 - 230 (Roll no. 36).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt924-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1734-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1734
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to protect the ability of federal agencies to work with local governments to preserve appropriate excess federal property as open space, eliminating federal maintenance expenses while preserving public benefits.", 
+  "house_number": 2, 
+  "introduced_at": "2012-02-06", 
+  "number": 924, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-385 to protect the ability of federal agencies to work with local governments to preserve appropriate excess federal property as open space, eliminating federal maintenance expenses while preserving public benefits.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-07T13:52:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T19:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4838-4839", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4838", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:29:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4881-4882", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 545, 
+      "text": "On agreeing to the Broun (GA) amendment (A023) Failed by recorded vote: 131 - 292 (Roll no. 545).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt602-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce energy efficiency and renewable energy funds by $26,510,000 and apply the savings to the spending reduction account.", 
+  "house_number": 23, 
+  "introduced_at": "2011-07-11", 
+  "number": 602, 
+  "purpose": "An amendment to reduce energy efficiency and renewable energy funds by $26,510,000 and increase the spending reduction account by the same amount.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-12T14:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

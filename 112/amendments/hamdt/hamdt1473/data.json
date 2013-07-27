@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-08-01T16:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5588-5589", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5588-5589", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-01T17:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5594", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered on the amendment (A001) pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-01T17:37:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5594", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 543, 
+      "text": "On agreeing to the Levin amendment (A001) Failed by the Yeas and Nays: 170 - 257 (Roll no. 543).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1473-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr8-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 8
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to extend for one year certain expired or expiring tax provisions that apply to middle-income taxpayers with income below $250,000 for married couples filing jointly, and below $200,000 for single filers, including, but not limited to, marginal rate reductions, capital gains and dividend rate preferences, alternative minimum tax relief, marriage penalty relief, and expanded tax relief for working families with children and college students.", 
+  "house_number": 1, 
+  "introduced_at": "2012-08-01", 
+  "number": 1473, 
+  "purpose": "An amendment in the nature of a substitute printed in Part B of House Report 112-641 to extend for one year certain expired or expiring tax provisions that apply to middle-income taxpayers with income below $250,000 for married couples filing jointly, and below $200,000 for single filers, including, but not limited to, marginal rate reductions, capital gains and dividend rate preferences, alternative minimum tax relief, marriage penalty relief, and expanded tax relief for working families with children and college students.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Levin, Sander M.", 
+    "state": "MI", 
+    "thomas_id": "00683", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-08-01T17:37:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

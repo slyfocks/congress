@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-04T15:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6210-6211", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6210", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Butterfield.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-04T15:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Butterfield amendment (A013) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt175-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2200-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2200
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires a study on the use of the combination of facial and iris recognition to rapidly identify individuals in security checkpoint lines. The study should focus on increased accuracy of facial and iris recognition and the possibility of using this advanced technology broadly for accurate identification of individuals.", 
+  "house_number": 13, 
+  "introduced_at": "2009-06-04", 
+  "number": 175, 
+  "purpose": "An amendmend numbered 13 printed in House Report 111-127 to require a study on the use of the combination of facial and iris recognition to rapidly identify individuals in security checkpoint lines. The study would focus on increased accuracy of facial and iris recognition and the possibility of using this advanced technology broadly for accurate identification of individuals.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Butterfield, G. K.", 
+    "state": "NC", 
+    "thomas_id": "01761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-06-04T15:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

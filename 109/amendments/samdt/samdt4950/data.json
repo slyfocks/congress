@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9567-9574", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4950 proposed by Senator Stevens for Senator Cantwell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9569", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4950 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4950-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-12", 
+  "number": 4950, 
+  "proposed_at": "2006-09-13", 
+  "purpose": "To establish an Intermodal Rail Radiation Detection Test Center.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-13", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

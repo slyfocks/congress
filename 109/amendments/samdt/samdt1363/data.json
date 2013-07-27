@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21", 
+      "references": [
+        {
+          "reference": "CR S8625-8631", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8625", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1363 proposed by Senator Graham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1363 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1363-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-21", 
+  "number": 1363, 
+  "proposed_at": "2005-07-21", 
+  "purpose": "To expand the eligibility of members of the Selected Reserve under the TRICARE program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "thomas_id": "00452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

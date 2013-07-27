@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-28T12:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2000", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2000", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Barrow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-28T12:06:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Barrow amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt17-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr556-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 556
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment includes in the reporting requirements Senators representing States and Members of Congress representing congressional districts that would be significantly affected by a covered transaction.", 
+  "house_number": 3, 
+  "introduced_at": "2007-02-28", 
+  "number": 17, 
+  "purpose": "An amendment numbered 12 printed in the Congressional Record to add language to section 7 (which deals with Oversight by the Congress) providing that Senators representing States and Members of Congress representing congressional districts that would be significantly affected by a covered transaction should be affected by the reporting requirements.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Barrow, John", 
+    "state": "GA", 
+    "thomas_id": "01780", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-28T12:06:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

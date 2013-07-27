@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-04-24T12:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1565-1567", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1565", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Sherman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24T12:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Sherman amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt456-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3763-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3763
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to establish capital standards for accounting companies that audit publicly traded companies; and require the SEC to set capital standards at a level no lower than half of the firm's annual audit revenues.", 
+  "house_number": 3, 
+  "introduced_at": "2002-04-24", 
+  "number": 456, 
+  "purpose": "An amendment numbered 3 printed in House Report 107-418 to require auditors of publicly-traded companies to meet a minimum net capital requirement of not less than one-half of the annual audit revenue received by the accountant from issuers registered with the SEC.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "thomas_id": "01526", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-04-24T12:48:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

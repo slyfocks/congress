@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-09T18:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4716-4718", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4716-4717", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Homeland Security.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-09T18:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Homeland Security amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt162-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1684-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1684
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 17, 
+  "introduced_at": "2007-05-09", 
+  "number": 162, 
+  "purpose": "An amendment offered pursuant to the instructions contained in the Dent motion to recommit previously adopted.", 
+  "sponsor": {
+    "committee_id": "hshm00", 
+    "name": "House Homeland Security", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-09T18:32:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

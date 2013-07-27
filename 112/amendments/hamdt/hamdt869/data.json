@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-16T15:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7672-7673, H7683", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7672", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. McCarthy (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-16T16:47:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 844, 
+      "text": "On agreeing to the McCarthy (NY) amendment (A002) Failed by recorded vote: 147 - 274 (Roll no. 844).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt869-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr822-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 822
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that States affirmatively pass legislation enacting provisions of the bill before the bill can go into effect in that State.", 
+  "house_number": 2, 
+  "introduced_at": "2011-11-16", 
+  "number": 869, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-283 to specify that the legislation can only go into effect in states that have passed legislation enacting the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCarthy, Carolyn", 
+    "state": "NY", 
+    "thomas_id": "01503", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-11-16T16:47:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

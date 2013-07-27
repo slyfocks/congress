@@ -1,0 +1,133 @@
+<bill session="106" type="h" number="409" updated="2013-07-14T18:52:59-04:00">
+  <state datetime="1999-02-24T14:30:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-02-24T14:30:00-05:00"/>
+  </status>
+  <introduced datetime="1999-01-19"/>
+  <titles>
+    <title type="popular">Federal Financial Assistance Improvement bill</title>
+    <title as="introduced" type="short">Federal Financial Assistance Management Improvement Act of 1999</title>
+    <title as="passed house" type="short">Federal Financial Assistance Management Improvement Act of 1999</title>
+    <title as="introduced" type="official">To improve the effectiveness and performance of Federal financial assistance programs, simplify Federal financial assistance application and reporting requirements, and improve the delivery of services to the public.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="1999-02-24"/>
+    <cosponsor id="400505" joined="1999-01-19"/>
+    <cosponsor id="400094" joined="1999-02-24"/>
+    <cosponsor id="400098" joined="1999-01-19"/>
+    <cosponsor id="400506" joined="1999-02-24"/>
+    <cosponsor id="400189" joined="1999-01-19"/>
+    <cosponsor id="400217" joined="1999-01-19"/>
+    <cosponsor id="400227" joined="1999-01-19"/>
+    <cosponsor id="400367" joined="1999-01-19"/>
+    <cosponsor id="400530" joined="1999-02-24"/>
+    <cosponsor id="300095" joined="1999-02-24"/>
+    <cosponsor id="400410" joined="1999-02-24"/>
+    <cosponsor id="400613" joined="1999-02-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-01-19">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="1999-01-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E86"/>
+    </action>
+    <action datetime="1999-02-03">
+      <text>Referred to the Subcommittee on Government Management, Information and Technology.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="1999-02-23T16:22:00-05:00">
+      <text>Rules Committee Resolution H. Res. 75 Reported to House. Rule provides for consideration of H.R. 409 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. After general debate the bill shall be considered for amendment under the five-minute rule. During consideration of the bill for amendment, the chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose. Measure will be read by section. Bill is open to amendments.</text>
+    </action>
+    <action datetime="1999-02-24T12:23:00-05:00">
+      <text>Rule H. Res. 75 passed House.</text>
+    </action>
+    <action datetime="1999-02-24T13:15:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 75.</text>
+      <reference ref="CR H749-758" label="consideration"/>
+    </action>
+    <action datetime="1999-02-24T13:15:00-05:00">
+      <text>Rule provides for consideration of H.R. 409 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. After general debate the bill shall be considered for amendment under the five-minute rule. During consideration of the bill for amendment, the chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose. Measure will be read by section. Bill is open to amendments.</text>
+    </action>
+    <action datetime="1999-02-24T13:15:00-05:00">
+      <text>The Speaker designated the Honorable Edward A. Pease to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="1999-02-24T13:15:00-05:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 75 and Rule XXIII.</text>
+    </action>
+    <action datetime="1999-02-24T13:15:00-05:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text>
+    </action>
+    <action datetime="1999-02-24T14:08:00-05:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 409.</text>
+    </action>
+    <action datetime="1999-02-24T14:09:00-05:00">
+      <text>The previous question was ordered without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-02-24T14:30:00-05:00" how="roll" result="pass" roll="26" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 426 - 0 (Roll no. 26).</text>
+    </vote>
+    <action datetime="1999-02-24T14:31:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-02-24T14:31:00-05:00">
+      <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 409.</text>
+    </action>
+    <action datetime="1999-02-25">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1999-03-08">
+      <text>Referred to Subcommittee on Oversight of Government Management.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO12" subcommittee="Government Management, Information and Technology" name="House Government Reform"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, Restructuring and the District of Columbia" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="106" type="hr" number="75"/>
+    <bill relation="unknown" session="106" type="s" number="468"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Administrative procedure"/>
+    <term name="Computers and government"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Depressed areas"/>
+    <term name="Economic development"/>
+    <term name="Electronic data interchange"/>
+    <term name="Federal aid programs"/>
+    <term name="Federal aid to housing"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Housing and community development"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Management information systems"/>
+    <term name="Performance measurement"/>
+    <term name="Planning-programming-budgeting"/>
+    <term name="Productivity in government"/>
+    <term name="Public meetings of administrative bodies"/>
+    <term name="Science, technology, communications"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments>
+    <amendment number="h10"/>
+    <amendment number="h11"/>
+    <amendment number="h12"/>
+    <amendment number="h13"/>
+    <amendment number="h14"/>
+  </amendments>
+  <summary>2/24/1999--Passed House amended.
+Federal Financial Assistance Management Improvement Act of 1999 - Directs each Federal agency to develop and implement a plan that, among other things, streamlines and simplifies the application, administrative, and reporting procedures for Federal financial assistance programs administered by the agency. Requires each agency to publish the plan in the Federal Register, receive public comment, and hold public forums on the plan. Requires the designated lead agency official to consult with the representatives of non-Federal entities during plan development and implementation. Requires each Federal agency to submit the plan developed to the Director of the Office of Management and Budget (OMB) and the Congress and report annually thereafter on plan implementation and agency performance in meeting goals and objectives. Directs the Department of Housing and Urban Development to develop and implement a plan that establishes policies and procedures regarding an applicant who has submitted an application for Federal financial assistance to the agency that includes a technical deficiency under which the applicant: (1) shall be notified of the deficiency and be permitted to submit information to correct the deficiency within seven days; and (2) shall continue to be considered by the agency during such period and after such period if the deficiency is corrected. Requires the Director to direct, coordinate and assist Federal agencies in establishing: (1) a common application or set of common applications wherein a non-Federal entity can apply for Federal financial assistance from multiple Federal programs; (2) a common system wherein a non-Federal entity can apply for, manage, and report on the use of funding from multiple Federal programs; (3) uniform administrative rules for Federal financial assistance programs across different agencies; and (4) an interagency process for addressing ways to streamline and simplify Federal financial assistance administrative procedures and reporting requirements for non-Federal entities, ways to improve interagency and intergovernmental coordination of information collection and data sharing pertaining to Federal financial assistance programs, and ways to improve the timeliness, completeness, and quality of information received from financial assistance recipients. Permits the Director to: (1) designate a lead agency to assist him or her and use interagency working groups to assist in carrying out such responsibilities; and (2) exempt any Federal agency or Federal financial assistance program from the requirements of this Act if the Director determines that the agency does not have a significant number of Federal financial assistance programs. Requires the Director to maintain a list of exempted agencies available to the public through OMB's Internet site. Requires the Director to submit to the Congress a report containing recommendations for changes in law to improve the effectiveness and performance of Federal financial assistance programs. Requires the Director or lead agency to contract with the National Academy of Public Administration to evaluate the effectiveness of this Act. Requires the evaluation to be submitted to the lead agency, the Director, and the Congress. Requires the evaluation to be performed with input from State, local, and tribal governments and nonprofit organizations. Terminates this Act five years after enactment. Expresses the sense of the Congress that Federal agencies, in providing Federal financial assistance for economic development, should focus on communities with high poverty and unemployment rates.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T17:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6600-6601, H6611", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6600", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Connolly (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 756, 
+      "text": "On agreeing to the Connolly (VA) amendment (A010) Failed by recorded vote: 176 - 248 (Roll no. 756).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt811-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2011-10-05", 
+  "number": 811, 
+  "purpose": "An amendment numbered 18 printed in the Congressional Record to add a new section entitled Protection from Respiratory and Cardiovascular Illness and Death.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

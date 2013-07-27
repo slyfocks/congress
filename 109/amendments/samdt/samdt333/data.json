@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-12", 
+      "references": [
+        {
+          "reference": "CR S3455-3456", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3455", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 333 proposed by Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "references": [
+        {
+          "reference": "CR S3513-3515, S3520-3521", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 333 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt333-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-11", 
+  "number": 333, 
+  "proposed_at": "2005-04-12", 
+  "purpose": "To extend the period of temporary continuation of basic allowance for housing for dependents of members of the Armed Forces who die on active duty.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-13", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

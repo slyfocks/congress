@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T18:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6613-6614", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6613", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T10:56:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6638-6639", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 760, 
+      "text": "On agreeing to the Cohen amendment (A014) Failed by recorded vote: 172 - 248, 1 Present (Roll no. 760).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt815-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to insert provisions requiring that the EPA Administrator consider the potential reductions in the number of illness-related absences from work when establishing a compliance date for the cement kiln rule.", 
+  "house_number": 14, 
+  "introduced_at": "2011-10-05", 
+  "number": 815, 
+  "purpose": "An amendment numbered 23 printed in the Congressional Record to study the impact of potential reductions in the number of illness-related absences from work due to respiratory or other illnesses.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T10:56:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

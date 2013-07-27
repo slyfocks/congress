@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-12-09", 
+      "references": [
+        {
+          "reference": "CR S11658-11673", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11658", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5237 proposed by Senator Frist to Amendment SA 5236.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-09", 
+      "references": [], 
+      "text": "SA 5237 fell when motion to concur in House amendment to Senate amendment with an amendment SA 5236 was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt5237-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt5236-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 5236
+  }, 
+  "amends_bill": {
+    "bill_id": "hr6111-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6111
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-12-08", 
+  "number": 5237, 
+  "proposed_at": "2006-12-08", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-12-08", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

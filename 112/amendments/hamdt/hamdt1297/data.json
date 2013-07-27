@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20T19:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3901", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Connolly (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-21T11:41:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3932-3933", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 394, 
+      "text": "On agreeing to the Connolly (VA) amendment (A007) Failed by recorded vote: 177 - 242 (Roll no. 394).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1297-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4480-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4480
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to define the term \"public health\" in the Clean Air Act.", 
+  "house_number": 7, 
+  "introduced_at": "2012-06-20", 
+  "number": 1297, 
+  "purpose": "An amendment numbered 8 printed in House Report 112-540 to define the term \"public health\" in the Clean Air Act.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-21T11:41:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

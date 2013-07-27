@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-12-15T19:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11845-11846", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11845", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Gingrey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-15T19:41:00-05:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Gingrey amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt643-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4437-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4437
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2005-12-15", 
+  "number": 643, 
+  "purpose": "An amendment numbered 6 printed in Part B of House Report 109-347 to suspend the Visa Waiver Program until the automated entry-exit program is operational and until ports of entry have functional biometric machine readers.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-12-15", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

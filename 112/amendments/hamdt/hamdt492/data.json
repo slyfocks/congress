@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-23T14:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4481-4482, H4498", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4481", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23T16:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 482, 
+      "text": "On agreeing to the Conyers amendment (A002) Failed by recorded vote: 105 - 316 (Roll no. 482).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt492-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to permit the conversion of the United States to a first-to-file system only upon a Presidential finding that other nations have adopted a similar one-year grace period.", 
+  "house_number": 2, 
+  "introduced_at": "2011-06-23", 
+  "number": 492, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 112-111 to insert language to move the United States to a first to file system only upon a Presidential finding that other major patent authorities have adopted a similar one-year grace period.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-23T16:40:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15T20:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1028", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1028", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T11:35:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1070-1071", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1070", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 50, 
+      "text": "On agreeing to the Foxx amendment (A016) Failed by recorded vote: 88 - 333 (Roll no. 50).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt716-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike funding for International Broadcasting Operations and Broadcasting Capital Improvements.", 
+  "house_number": 16, 
+  "introduced_at": "2006-03-15", 
+  "number": 716, 
+  "purpose": "An amendment to strike the section relating to International Broadcasting Operations.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16T11:35:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-14T15:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5054-5055", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5054", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A051) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-15T11:11:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5094-5095", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 584, 
+      "text": "On agreeing to the Cohen amendment (A051) Failed by recorded vote: 158 - 264 (Roll no. 584).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt654-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the appropriation for fossil energy research and development by $32 million and increase the funding for the Solar Energy program by $16 million.", 
+  "house_number": 51, 
+  "introduced_at": "2011-07-14", 
+  "number": 654, 
+  "purpose": "An amendment to reduce the appropriations for fossil energy research and development by $16,000,000.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-15T11:11:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-12-16T18:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8550-8551", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8550", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Ms. Slaughter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-16T18:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8550", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered on the amendment (A001) and on the resolution without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-16T19:17:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 643, 
+      "text": "On agreeing to the Slaughter amendment (A001) Agreed to by recorded vote: 230 - 186 (Roll no. 643).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt785-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres1766-111", 
+    "bill_type": "hres", 
+    "congress": 111, 
+    "number": 1766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment shifts initial consideration of the Senate amendment to the House amendment to the Senate amendment to H.R. 4853 into the Committee of the Whole and out of the full House.", 
+  "house_number": 1, 
+  "introduced_at": "2010-12-16", 
+  "number": 785, 
+  "purpose": "An amendment to insert a complete new text.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Slaughter, Louise McIntosh", 
+    "state": "NY", 
+    "thomas_id": "01069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-12-16T19:17:00-05:00", 
+  "updated_at": "2013-07-17T08:16:58-04:00"
+}

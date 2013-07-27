@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-02T12:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H183", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H183", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Terry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-02T12:09:00-05:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Terry amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt570-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2005-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2005
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2000-02-02", 
+  "number": 570, 
+  "purpose": "Amendment no. 4 printed in the Congressional Record to exempt durable goods that were not state-of-the-art at the time they were produced.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-02-02", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

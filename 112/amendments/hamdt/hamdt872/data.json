@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-16T15:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7676-7677, H7685", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7676", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Johnson (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-16T17:00:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 847, 
+      "text": "On agreeing to the Johnson (GA) amendment (A005) Failed by recorded vote: 144 - 281 (Roll no. 847).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt872-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr822-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 822
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that possession or carrying of a concealed loaded handgun in a State to be subject to that State's law regarding firearm safety training, including live-fire exercise.", 
+  "house_number": 5, 
+  "introduced_at": "2011-11-16", 
+  "number": 872, 
+  "purpose": "An amendment numbered 6 printed in House Report 112-283 to require the possession or carrying of a concealed handgun in a state to be subject to that state's law regarding concealed carry in regards to firearm safety training that includes live-fire exercise.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-11-16T17:00:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

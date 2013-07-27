@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-16T12:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H476-477", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hutchinson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-16T12:49:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H476", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Hutchinson amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt583-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2366-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2366
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment permits a court to exceed the punitive damages cap if the plaintiff establishes by clear and convincing evidence that the defendant acted with specific intent to cause the type of harm for which the action was brought.", 
+  "house_number": 1, 
+  "introduced_at": "2000-02-16", 
+  "number": 583, 
+  "purpose": "An amendment numbered 1 printed in House report 106-498 to permit a court to exceed the $250,000 cap on punitive damages if it finds by clear and convincing evidence that the defendant acted with specific intent to cause the type of harm for which the action was brought.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Hutchinson, Asa", 
+    "state": "AR", 
+    "thomas_id": "01493", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-02-16T12:49:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

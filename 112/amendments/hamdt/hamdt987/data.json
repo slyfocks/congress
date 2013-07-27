@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-22T10:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1504-1505, H1513-1514", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1504", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Woodall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-22T11:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 122, 
+      "text": "On agreeing to the Woodall amendment (A001) Agreed to by recorded vote: 234 - 173, 2 Present (Roll no. 122).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt987-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes the findings section of the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2012-03-22", 
+  "number": 987, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-416 to strike the findings in Title I.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Woodall, Rob", 
+    "state": "GA", 
+    "thomas_id": "02008", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-22T11:43:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

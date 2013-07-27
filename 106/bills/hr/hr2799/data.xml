@@ -1,0 +1,59 @@
+<bill session="106" type="h" number="2799" updated="2013-07-14T18:54:09-04:00">
+  <state datetime="2000-09-18T18:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-09-18T18:49:00-04:00"/>
+  </status>
+  <introduced datetime="1999-08-05"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Clear Creek County, Colorado, Public Lands Transfer Act of 1993 to provide additional time for Clear Creek County to dispose of certain lands transferred to the county under the Act.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1999-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1780"/>
+    </action>
+    <action state="REFERRED" datetime="1999-08-05">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-08-11">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2000-09-18T18:42:00-04:00">
+      <text>Mr. Hansen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-09-18T18:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7689-7690" label="consideration"/>
+    </action>
+    <action datetime="2000-09-18T18:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2799.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-09-18T18:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7689" label="text"/>
+    </vote>
+    <action datetime="2000-09-18T18:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-09-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1999--Introduced.
+Amends the Clear Creek County, Colorado, Public Lands Transfer Act of 1993 to provide that any of the lands transferred to such County under such Act which remain in the County's ownership on May 19, 2014 (currently, May 19, 2004), shall be retained by the County.</summary>
+</bill>

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T16:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1125-1131, H1143", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1125", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A080) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T19:03:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1143", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 88, 
+      "text": "On agreeing to the Frank (MA) amendment (A080) Failed by recorded vote: 160 - 270 (Roll no. 88).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt90-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the Securities and Exchange Commission and decrease funds for the operations of the Internal Revenue Service and the General Services Administration.", 
+  "house_number": 80, 
+  "introduced_at": "2011-02-17", 
+  "number": 90, 
+  "purpose": "An amendment numbered 458 printed in the Congressional Record to reduce the amount made available to the \"Department of the Treasury, Internal Revenue\" and the \"General Services Administration\" and increase the amount made available to the \"Independent Agencies, Securities and Exchange Commission, Salaries and Expenses\" by $131,000,000.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-17T19:03:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

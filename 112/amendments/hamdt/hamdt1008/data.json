@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-17T16:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1885", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Peters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-17T18:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 160, 
+      "text": "On agreeing to the Peters amendment (A004) Failed by recorded vote: 155 - 262 (Roll no. 160).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1008-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4089-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4089
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike title III of the bill which allows the importation of endangered polar bear trophies from Canada by hunters who killed the bears despite warnings that importation of the bears would likely be illegal.", 
+  "house_number": 4, 
+  "introduced_at": "2012-04-17", 
+  "number": 1008, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-444 to strike a provision in the underlying bill allowing the importation of endangered polar bear trophies from Canada by hunters who killed the bears despite warnings that importation of the bears would likely be illegal.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "thomas_id": "01929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-04-17T18:27:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

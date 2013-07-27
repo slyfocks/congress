@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T13:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7051-7054, H7076-7077", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Rahall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T20:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 383, 
+      "text": "On agreeing to the Rahall amendment (A013) Failed by recorded vote: 199 - 220 (Roll no. 383).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt264-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit any funds to kill, or assist others in killing, any Bison in the Yellowstone National Park herd.", 
+  "house_number": 13, 
+  "introduced_at": "2003-07-17", 
+  "number": 264, 
+  "purpose": "An amendment to restrict the use of funds from being used to kill, or assist others in killing, any Bison in the Yellowstone National Park herd.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Rahall, Nick J., II", 
+    "state": "WV", 
+    "thomas_id": "00940", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T20:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

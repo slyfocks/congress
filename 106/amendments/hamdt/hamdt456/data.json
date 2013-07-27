@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-14T18:05:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A007) offered by Mr. Calvert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-14T19:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 415, 
+      "text": "On agreeing to the Calvert amendment (A007) Failed by recorded vote: 179 - 248 (Roll no. 415).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt456-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr417-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 417
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to require that at least half of the contributions accepted by congressional candidates come from in-state residents.", 
+  "house_number": 7, 
+  "introduced_at": "1999-09-14", 
+  "number": 456, 
+  "purpose": "An amendment no. 7 printed in H.Rept. 106-311 to require the majority of contributions accepted by congeessional candidates to come from in-state residents.", 
+  "sponsor": {
+    "district": "43", 
+    "name": "Calvert, Ken", 
+    "state": "CA", 
+    "thomas_id": "00165", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-14T19:22:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

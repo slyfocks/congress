@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-18T10:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4523-4531, H4553", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4523", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Ms. DeLauro.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-18T15:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 268, 
+      "text": "On agreeing to the DeLauro amendment (A013) Failed by recorded vote: 182 - 221 (Roll no. 268).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt580-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4567-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit the Department of Homeland Security from spending any appropriated funds to carry out any contracts with an entity which qualifies as an inverted company or partnership under the law.", 
+  "house_number": 13, 
+  "introduced_at": "2004-06-18", 
+  "number": 580, 
+  "purpose": "An amendment which seeks to insert a new section at the end of the bill to require that none of the funds appropriated by this Act may be used to issue an order under a task and delivery order contract to entities not in compliance with section 835 of Public Law 107-296.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "thomas_id": "00281", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-18T15:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T18:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6664", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6664", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T18:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Inslee amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1018-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires the Inspector Generals of each agency funded in the bill to report to Congress on any agency activity taken to monitor individuals who access any Internet site of the agency.", 
+  "house_number": 7, 
+  "introduced_at": "2000-07-20", 
+  "number": 1018, 
+  "purpose": "An amendment to add a new section providing that a report shall be submitted to Congress by the IG of each agency funded under the bill regarding disclosure of lists of individuals who access any Internet site of said agencies.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-20T18:10:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

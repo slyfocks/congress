@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2227-2229, S2255-2256", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2227-2228", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3034 proposed by Senator Lieberman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 59, 
+      "text": "Amendment SA 3034 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 59.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3034-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres83-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 83
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-14", 
+  "number": 3034, 
+  "proposed_at": "2006-03-16", 
+  "purpose": "To protect the American people from terrorist attacks by providing $8 billion in additional funds for homeland security government-wide, by restoring cuts to vital first responder programs in the Departments of Homeland Security and Justice, by providing an additional $1.2 billion for first responders, $1.7 billion for the Coast Guard and port security, $150 million for chemical security, $1 billion for rail and transit security, $456 million for FEMA, $1 billion for health preparedness programs, and $752 million for aviation security.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lieberman, Joseph I.", 
+    "state": "CT", 
+    "thomas_id": "01385", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

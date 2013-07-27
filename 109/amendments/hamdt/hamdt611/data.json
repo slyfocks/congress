@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03T16:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9594-9595, H9602-9603", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9594", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Turner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03T17:40:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 566, 
+      "text": "On agreeing to the Turner amendment (A005) Failed by recorded vote: 56 - 357 (Roll no. 566).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt611-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4128-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4128
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to enumerate several harmful uses of land which constitute a threat to public health and safety and include such properties in the list of exceptions contained in the bill.", 
+  "house_number": 5, 
+  "introduced_at": "2005-11-03", 
+  "number": 611, 
+  "purpose": "An amendment numbered 6 printed in House Report 109-266 to enumerate several harmful uses of land which constitute a threat to public health andsafety including dilapidation, obsolescence, overcrowding, lack of ventilation, light and sanitary facilities, excessive land coverage, deleterious land use, obsolete subdivisions or that which constitutes a brownfield.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Turner, Michael R.", 
+    "state": "OH", 
+    "thomas_id": "01741", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-03T17:40:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

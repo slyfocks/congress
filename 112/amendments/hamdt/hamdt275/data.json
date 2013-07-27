@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-10T18:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3140-3141", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3140", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T14:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3181-3182", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 304, 
+      "text": "On agreeing to the Polis amendment (A006) Failed by recorded vote: 174 - 254 (Roll no. 304).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt275-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1229-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1229
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to lift timeline requirements if the administering agency or bureau of the Department of Interior lacks an adequate budget or lacks staff expertise to properly review permits.", 
+  "house_number": 6, 
+  "introduced_at": "2011-05-10", 
+  "number": 275, 
+  "purpose": "An amendment numbered 7 printed in Part A of House Report 112-73 to lift timeline requirements if the agency lacks an adequate budget or lacks staff expertise to properly review permits.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-11T14:07:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

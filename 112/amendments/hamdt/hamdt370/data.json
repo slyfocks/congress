@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T19:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3864-3867", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3864", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Clarke (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T13:28:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3931-3932", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 389, 
+      "text": "On agreeing to the Clarke (MI) amendment (A022) Agreed to by recorded vote: 273 - 150 (Roll no. 389).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt370-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes the proviso which limits the Urban Areas Security Initiative to the top 10 urban areas by risk.", 
+  "house_number": 22, 
+  "introduced_at": "2011-06-01", 
+  "number": 370, 
+  "purpose": "An amendment to strike language relating to the top 10 highest risk urban areas.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Clarke, Hansen", 
+    "state": "MI", 
+    "thomas_id": "02030", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T13:28:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

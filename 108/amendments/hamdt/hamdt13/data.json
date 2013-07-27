@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-20T17:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2176-2189", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2176-2182", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Hill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-20T18:36:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 78, 
+      "text": "On agreeing to the Hill amendment (A002) Failed by recorded vote: 174 - 254 (Roll no. 78).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt13-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres95-108", 
+    "bill_type": "hconres", 
+    "congress": 108, 
+    "number": 95
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute printed in Part B of H. Rept. 108-44 and numbered one was offered as the Blue Dog substitute.", 
+  "house_number": 2, 
+  "introduced_at": "2003-03-20", 
+  "number": 13, 
+  "purpose": "An amendment in the nature of a substitute numbered 1 printed in part B of House Report 108-44. Amendment provides for spending at the levels contained in the President's budget as estimated by CBO. Includes reconciliation instructions for a tax package which would provide immediate tax relief for all taxpayers; incentives for business; immediate and permanent estate tax relief; and other items. Tax relief is offset by deferring a portion of additional tax cuts for upper income taxpayers if the budget remains in deficit because of the campaign in Iraq, the war on terrorism, or other factors. Directs the Ways and Means Committee and Energy and Commerce Committee to report reconciliation legislation providing a Medicare prescription drug benefit of $400 billion. Establishes discretionary spending limits, pay as you go rules, and other budget enforcement measures in the House of Representatives. Provides for an increase in the debt limit of $150 billion, which is projected to cover obligations through September 30, 2003, but prohibits any further increase in the debt limit of more than $100 billion until CBO certifies that the budget is on path to balance by 2009, except for any increase necessary to finance the costs of a war in Iraq.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Hill, Baron P.", 
+    "state": "IN", 
+    "thomas_id": "01578", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-03-20T18:36:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

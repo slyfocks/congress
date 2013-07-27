@@ -1,0 +1,42 @@
+<bill session="106" type="h" number="651" updated="2013-07-14T18:53:06-04:00">
+  <state datetime="1999-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="1999-02-09"/>
+  </status>
+  <introduced datetime="1999-02-09"/>
+  <titles>
+    <title as="introduced" type="official">To prevent Members of Congress from receiving any automatic pay adjustment which might otherwise take effect in 1999.</title>
+  </titles>
+  <sponsor id="400528"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-09">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1999-02-09">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="1999-02-09">
+      <text>Referred to House Government Reform</text>
+    </action>
+    <action datetime="1999-02-19">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional salaries"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/1999--Introduced.
+Prohibits Members of Congress from receiving any automatic pay adjustment which would otherwise take effect in 1999 under the Legislative Reorganization Act of 1946.</summary>
+</bill>

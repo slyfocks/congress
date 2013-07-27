@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-01T11:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3381-3382, H3389", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3381", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Tonko.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-01T12:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 313, 
+      "text": "On agreeing to the Tonko amendment (A010) Failed by recorded vote: 148 - 236 (Roll no. 313).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1179-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the Weatherization Assistance Program and the State Energy Program by $180,440,000 and reduce the Atomic Energy Defense Activities, National Nuclear Security Administration, Weapons Activities Account by a similar amount.", 
+  "house_number": 10, 
+  "introduced_at": "2012-06-01", 
+  "number": 1179, 
+  "purpose": "An amendment to increase the the Department of Energy, Energy Programs, Energy Efficiency and Renewable Energy Account by $180,440,000 and reduce the Atomic Energy Defense Activities, National Nuclear Security Administration, Weapons Activities Account by the same amount.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Tonko, Paul", 
+    "state": "NY", 
+    "thomas_id": "01942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-01T12:34:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

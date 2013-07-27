@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-23T11:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5051-5053", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5052", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. English.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-23T11:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the English amendment (A021) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt887-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for the U.S. Trade Representative by $3 million.", 
+  "house_number": 21, 
+  "introduced_at": "2000-06-23", 
+  "number": 887, 
+  "purpose": "An amendment numbered 61 printed in the Congressional Record to increase the appropriation for the salaries and expenses of the Office of the USTR by $3,000,000 from $26,433,000 to $29.433,000.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "English, Phil", 
+    "state": "PA", 
+    "thomas_id": "00347", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-23T11:22:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

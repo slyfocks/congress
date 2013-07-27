@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-27T13:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7231-7235, H7256", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7231", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A050) offered by Mrs. Musgrave.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-27T16:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 572, 
+      "text": "On agreeing to the Musgrave amendment (A050) Failed by recorded vote: 193 - 238 (Roll no. 572).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt444-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2643-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2643
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 50, 
+  "introduced_at": "2007-06-27", 
+  "number": 444, 
+  "purpose": "An amendment numbered 27 printed in the Congressional Record to reduce each amount appropriated or otherwise made available in the bill that is not required to be appropriated or otherwise made available by a provision of law by 0.5 percent.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Musgrave, Marilyn N.", 
+    "state": "CO", 
+    "thomas_id": "01711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-27T16:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

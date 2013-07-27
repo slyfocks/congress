@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-12", 
+      "references": [
+        {
+          "reference": "CR S5054-5059", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5054", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 611 proposed by Senator Allen to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-13", 
+      "references": [
+        {
+          "reference": "CR S5189", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-16", 
+      "references": [
+        {
+          "reference": "CR S5197", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17", 
+      "references": [
+        {
+          "reference": "CR S5256-5257, S5264-5265", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 123, 
+      "text": "Amendment SA 611 not agreed to in Senate by Yea-Nay Vote. 14 - 86. Record Vote Number: 123.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt611-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-10", 
+  "number": 611, 
+  "proposed_at": "2005-05-12", 
+  "purpose": "To modify the eligibility requirements for States to receive a grant under section 405 of title 49, United States Code.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Allen, George", 
+    "state": "VA", 
+    "thomas_id": "00013", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-17", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

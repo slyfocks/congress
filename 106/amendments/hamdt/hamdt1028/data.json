@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T19:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6693-6694", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6694", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T20:00:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Nadler amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1028-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 17, 
+  "introduced_at": "2000-07-20", 
+  "number": 1028, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to remove requirements for the sale of Governors Island in New York.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-07-20", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

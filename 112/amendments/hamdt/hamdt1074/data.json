@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-09T16:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2503-2504, H2518-2519", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2503", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A041) offered by Mr. Garrett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T18:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 230, 
+      "text": "On agreeing to the Garrett amendment (A041) Agreed to by recorded vote: 238 - 185 (Roll no. 230).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1074-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 41, 
+  "introduced_at": "2012-05-09", 
+  "number": 1074, 
+  "purpose": "An amendment to prohibit the use of funds to be used by the Department of Justice to be a party to a single or multi-state court settlement where funds are removed from any residential mortgage-backed securitization trust.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-09T18:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

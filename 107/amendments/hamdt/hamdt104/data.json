@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-21T13:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3408-3411, H3419-3420", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3408", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-21T15:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 179, 
+      "text": "On agreeing to the DeFazio amendment (A006) Failed by recorded vote: 129 - 287 (Roll no. 179).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt104-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2217-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2217
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2001-06-21", 
+  "number": 104, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to strike section 312 from the bill. Section 312 provides for the Recreational Fee Demonstration Program.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-06-21T15:20:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

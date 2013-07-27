@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-14T14:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3942-3944, H3957", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3942", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A041) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14T17:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 282, 
+      "text": "On agreeing to the Frank (MA) amendment (A041) Failed by recorded vote: 214 - 214 (Roll no. 282).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1047-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds in the bill from being used to enforce a HUD regulation concerning replacing units under lease that are demolished.", 
+  "house_number": 41, 
+  "introduced_at": "2006-06-14", 
+  "number": 1047, 
+  "purpose": "An amendment to prohibit use of funds in the bill by the Department of Housing and Urban Development to implement, administer, or enforce the second sentence of section 6c of the Department's Notice PIH 2006-5 (HA), dated January 13, 2006.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-14T17:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21T14:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2431-2434, H2437-2438", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2431", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Castle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21T16:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 131, 
+      "text": "On agreeing to the Castle amendment (A031) Failed by recorded vote: 194 - 237 (Roll no. 131).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt99-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 320 concerning the siting of Liquified Natural Gas Terminals.", 
+  "house_number": 31, 
+  "introduced_at": "2005-04-21", 
+  "number": 99, 
+  "purpose": "An amendment numbered 30 printed in House Report 109-49 to strike language in the bill (section 320 of title III) which would preempt the authority of state and local governments to ensure that liquefied natural gas (LNG) facilities are sited in areas where they do not pose a threat to public safety, and the states' authority to ensure that such facilities are not sited in places where they pose a threat to sensitive coastal and ocean areas.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-21T16:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

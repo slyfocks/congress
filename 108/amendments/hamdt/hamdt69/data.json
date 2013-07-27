@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-10T19:01:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3251-3256, H3268-3269", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H3251", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-10T21:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 135, 
+      "text": "On agreeing to the Markey amendment (A005) Failed by recorded vote: 197 - 228 (Roll no. 135).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt69-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to strike sections in the bill that allows oil drilling in the Arctic National Wildlife Refuge.", 
+  "house_number": 5, 
+  "introduced_at": "2003-04-10", 
+  "number": 69, 
+  "purpose": "An amendment numbered 5 printed in House Report 108-69 to strike the provision in the bill authorizing the Interior Department to grant leases for oil and gas exploration, development, and production in the Arctic National Wildlife Refuge in Alaska.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-10T21:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

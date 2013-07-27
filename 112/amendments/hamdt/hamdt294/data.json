@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-12T16:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3256-3257", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3256", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Carney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-13T10:26:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3290", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 326, 
+      "text": "On agreeing to the Carney amendment (A007) Agreed to by recorded vote: 221 - 189 (Roll no. 326).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt294-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr754-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to express the sense of Congress that railway transportation should be included in transportation security plans for intelligence agencies.", 
+  "house_number": 7, 
+  "introduced_at": "2011-05-12", 
+  "number": 294, 
+  "purpose": "An amendment numbered 8 printed in House Report 112-75 to establish the sense of Congress that railway transportation should be included in transportation security plans for intelligence agencies.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carney, John C., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01999", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-13T10:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

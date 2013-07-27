@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-15T16:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8151-8152", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8151", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T13:55:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8332-8333", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8333", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 584, 
+      "text": "On agreeing to the Flake amendment (A015) Failed by recorded vote: 102 - 318 (Roll no. 584).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt334-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3183-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $500,000 earmark for the Ethanol from Agriculture project.", 
+  "house_number": 15, 
+  "introduced_at": "2009-07-15", 
+  "number": 334, 
+  "purpose": "An amendment numbered 4 printed in Part C of House Report 111-209 to strike $500,000 in funding for `Ethanol from Agriculture' and reduce the overall cost of the bill by a commensurate amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T13:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

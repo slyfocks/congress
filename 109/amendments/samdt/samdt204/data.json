@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2808-2817", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2811", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 204 proposed by Senator Bingaman for Senator Smith.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "references": [
+        {
+          "reference": "CR S2875, S2876-2886, S2919-2920, S2946-2947", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 58, 
+      "text": "Amendment SA 204 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 58.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt204-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 204, 
+  "proposed_at": "2005-03-16", 
+  "purpose": "To create a reserve fund for the establishment of a Bipartisan Medicaid Commission to consider and recommend appropriate reforms to the Medicaid program, and to strike Medicaid cuts to protect states and vulnerable populations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Smith, Gordon H.", 
+    "state": "OR", 
+    "thomas_id": "01549", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-17", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

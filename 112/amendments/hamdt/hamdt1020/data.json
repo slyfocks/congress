@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-26T15:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2169", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2169", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Pompeo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-26T15:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pompeo amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1020-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3523-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3523
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment makes clear that the liability protection in the bill extends only to the identification and acquisition of cyberthreat information and no further.", 
+  "house_number": 2, 
+  "introduced_at": "2012-04-26", 
+  "number": 1020, 
+  "purpose": "An amendment numbered 3 printed in House Report 112-454 to make clear in the bill's liability provision that the reference to the use of cybersecurity systems is the use of such systems to identify and obtain cyber threat information or the sharing of information are not exempt from potential civil liability.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Pompeo, Mike", 
+    "state": "KS", 
+    "thomas_id": "02022", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-26T15:51:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

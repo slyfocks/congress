@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-22", 
+      "references": [
+        {
+          "reference": "CR S4851-4860, S4873-4874, S4875", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4087 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23", 
+      "references": [
+        {
+          "reference": "CR S4924-4936", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4924-4927", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 138, 
+      "text": "Amendment SA 4087 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 138.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4087-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-22", 
+  "number": 4087, 
+  "proposed_at": "2006-05-22", 
+  "purpose": "To modify the conditions under which aliens who are unlawfully present in the United States are granted legal status.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-23", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

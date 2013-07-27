@@ -1,0 +1,92 @@
+<bill session="107" type="hc" number="80" updated="2013-07-14T18:58:56-04:00">
+  <state datetime="2001-06-06">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2001-06-06"/>
+  </status>
+  <introduced datetime="2001-03-22"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the city of Detroit and its residents on the occasion of the tricentennial of the city's founding.</title>
+  </titles>
+  <sponsor id="400217"/>
+  <cosponsors>
+    <cosponsor id="400526" joined="2001-03-22"/>
+    <cosponsor id="400527" joined="2001-03-22"/>
+    <cosponsor id="400058" joined="2001-03-22"/>
+    <cosponsor id="400080" joined="2001-03-22"/>
+    <cosponsor id="400110" joined="2001-03-22"/>
+    <cosponsor id="400119" joined="2001-03-22"/>
+    <cosponsor id="400182" joined="2001-03-22"/>
+    <cosponsor id="400216" joined="2001-03-22"/>
+    <cosponsor id="400225" joined="2001-03-22"/>
+    <cosponsor id="400238" joined="2001-03-22"/>
+    <cosponsor id="400528" joined="2001-03-22"/>
+    <cosponsor id="400342" joined="2001-03-22"/>
+    <cosponsor id="400382" joined="2001-03-22"/>
+    <cosponsor id="400391" joined="2001-03-22"/>
+    <cosponsor id="400414" joined="2001-03-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-03-22">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2001-04-16">
+      <text>Referred to the Subcommittee on the Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2001-05-22T17:20:00-04:00">
+      <text>Committee on Government Reform discharged.</text>
+    </action>
+    <action datetime="2001-05-22T17:20:00-04:00">
+      <text>Mr. LaTourette asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2001-05-22T17:21:00-04:00">
+      <text>RESERVATION OF OBJECTION - Mr. Davis of Illinois reserved the right to object to the motion and proceeded with a statement under his reservation to be followed by yielding time to other Members, also under his reservation. At the conclusion of Member statements, the reservation will be removed.</text>
+    </action>
+    <action datetime="2001-05-22T17:43:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H2543-2546" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-05-22T17:44:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H2546" label="text"/>
+    </vote>
+    <action datetime="2001-05-22T17:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-05-24">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2001-06-06">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S5884" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-06-06" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2001-06-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Economic development"/>
+    <term name="Economics and public finance"/>
+    <term name="Michigan"/>
+    <term name="Social life and customs"/>
+    <term name="Urban affairs"/>
+    <term name="Urban areas"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2001--Passed House without amendment.
+Congratulates the city of Detroit on the occasion of the tricentennial of its founding, and its residents for their important contributions to the economic, social, and cultural development of the United States.</summary>
+</bill>

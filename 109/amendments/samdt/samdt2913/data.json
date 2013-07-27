@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-07", 
+      "references": [
+        {
+          "reference": "CR S1815, S1826", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1815", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2913 proposed by Senator Frist for Senator Snowe to Amendment SA 2899.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-07", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 34, 
+      "text": "Amendment SA 2913 agreed to in Senate by Yea-Nay. 68 - 31. Record Vote Number: 34.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2913-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2899-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2899
+  }, 
+  "amends_bill": {
+    "bill_id": "s2320-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2320
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-07", 
+  "number": 2913, 
+  "proposed_at": "2006-03-07", 
+  "purpose": "To improve the distribution of funds to States under there Low-Income Home Energy Assistance Program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-07", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

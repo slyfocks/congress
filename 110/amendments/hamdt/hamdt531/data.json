@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T11:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8007-8008, H8041-8042", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8007", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T16:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 652, 
+      "text": "On agreeing to the Hensarling amendment (A022) Failed by recorded vote: 80 - 347 (Roll no. 652).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt531-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for Children and Families Services Programs by $5 million.", 
+  "house_number": 22, 
+  "introduced_at": "2007-07-18", 
+  "number": 531, 
+  "purpose": "An amendment numbered 42 printed in the Congressional Record to reduce appropriations for Children and Families Services Programs by $5 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T16:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

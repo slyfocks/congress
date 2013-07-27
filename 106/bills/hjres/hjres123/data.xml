@@ -1,0 +1,108 @@
+<bill session="106" type="hj" number="123" updated="2013-07-14T18:55:18-04:00">
+  <state datetime="2000-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-11-03"/>
+  </status>
+  <introduced datetime="2000-10-29"/>
+  <titles>
+    <title type="popular">Continuing Appropriation FY2001 (Thirteenth)</title>
+    <title as="introduced" type="official">Making further continuing appropriations for the fiscal year 2001, and for other purposes.</title>
+  </titles>
+  <sponsor id="400439"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-29">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+    <action datetime="2000-10-29T21:44:00-05:00">
+      <text>Rules Committee Resolution H. Res. 662 Reported to House. Rule provides for consideration of H.J. Res. 121, H.J. Res. 122, H.J. Res. 123 and H.J. Res. 12</text>
+    </action>
+    <action datetime="2000-11-02T18:03:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 662.</text>
+      <reference ref="CR H11784-11786" label="consideration"/>
+      <reference ref="CR H11784" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2000-11-02T18:03:00-05:00">
+      <text>Rule provides for consideration of H.J. Res. 121, H.J. Res. 122, H.J. Res. 123 and H.J. Res. 124.</text>
+    </action>
+    <action datetime="2000-11-02T18:03:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 123.</text>
+    </action>
+    <action datetime="2000-11-02T18:17:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-11-02T18:44:00-05:00" how="roll" result="pass" roll="592" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 310 - 7 (Roll no. 592).</text>
+    </vote>
+    <action datetime="2000-11-02T18:44:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-11-02" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11504" label="consideration"/>
+    </vote>
+    <action datetime="2000-11-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-11-02">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2000-11-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-11-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-11-03" type="public" number="106-426">
+      <text>Became Public Law No: 106-426.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="hr" number="662"/>
+    <bill relation="rule" session="106" type="hr" number="662"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Canada"/>
+    <term name="Census"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Continuing resolutions"/>
+    <term name="Democracy"/>
+    <term name="Earth resources satellites"/>
+    <term name="Education"/>
+    <term name="Educational exchanges"/>
+    <term name="Emergency management"/>
+    <term name="Europe"/>
+    <term name="Exchange of persons programs"/>
+    <term name="Federal libraries"/>
+    <term name="Finance and financial sector"/>
+    <term name="Flood insurance"/>
+    <term name="Free enterprise"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="Library of Congress"/>
+    <term name="Political leadership"/>
+    <term name="Presidential transitions"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Remote sensing"/>
+    <term name="Russia"/>
+    <term name="Space activities"/>
+    <term name="Treaties"/>
+    <term name="United Kingdom"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1061"/>
+  </amendments>
+  <summary>11/2/2000--Passed House amended.
+Extends the law making continuing appropriations for FY 2001 through November 3, 2000.Makes an amount available for obligation by the Administrator of General Services for expenses necessary to carry out the Presidential Transition Act of 1963.</summary>
+</bill>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T15:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H518-519", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Lipinski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-03T15:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lipinski amendment (A023) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt567-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 23, 
+  "introduced_at": "2010-02-03", 
+  "number": 567, 
+  "purpose": "An amendment numbered 23 printed in House Report 111-410 to direct the Comptroller General to submit a report examining weaknesses within the current cybersecurity infrastructure.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lipinski, Daniel", 
+    "state": "IL", 
+    "thomas_id": "01781", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-03T15:34:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

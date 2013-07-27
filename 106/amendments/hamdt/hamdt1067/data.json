@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-12-15T19:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12516", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12516", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Goodling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15T19:15:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Goodling amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1067-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres552-106", 
+    "bill_type": "hres", 
+    "congress": 106, 
+    "number": 552
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute adds language stating that the House of Representatives supports mentoring and enrichment programs.", 
+  "house_number": 1, 
+  "introduced_at": "2000-12-15", 
+  "number": 1067, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Goodling, William F.", 
+    "state": "PA", 
+    "thomas_id": "00447", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-12-15T19:15:00-05:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

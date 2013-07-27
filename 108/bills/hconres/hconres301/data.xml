@@ -1,0 +1,73 @@
+<bill session="108" type="hc" number="301" updated="2013-07-14T19:03:08-04:00">
+  <state datetime="2004-07-07T12:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-07-07T12:07:00-04:00"/>
+  </status>
+  <introduced datetime="2003-10-15"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of the World Year of Physics.</title>
+  </titles>
+  <sponsor id="400119"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2004-03-18"/>
+    <cosponsor id="400041" joined="2004-03-09"/>
+    <cosponsor id="400184" joined="2003-10-15"/>
+    <cosponsor id="400185" joined="2004-03-09"/>
+    <cosponsor id="400253" joined="2004-03-09"/>
+    <cosponsor id="400262" joined="2004-03-18"/>
+    <cosponsor id="400312" joined="2004-03-09"/>
+    <cosponsor id="400383" joined="2004-03-18"/>
+    <cosponsor id="400414" joined="2004-03-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-10-15">
+      <text>Referred to the House Committee on Science.</text>
+    </action>
+    <action datetime="2004-07-07T11:59:00-04:00">
+      <text>Mr. Ehlers moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-07-07T11:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5218-5219" label="consideration"/>
+    </action>
+    <action datetime="2004-07-07T11:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 301.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-07-07T12:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5218" label="text"/>
+    </vote>
+    <action datetime="2004-07-07T12:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-07-08">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2004-09-07">
+      <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="sc" number="121"/>
+    <bill relation="unknown" session="108" type="sc" number="121"/>
+    <bill relation="unknown" session="108" type="sc" number="121"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Physics"/>
+    <term name="Research"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="Special years"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2004--Passed House amended.
+Expresses support for the goals and ideals of the World Year of Physics, as designated by the General Assembly of the International Union of Pure and Applied Physics. Encourages: (1) the American people to observe such Year as a special occasion for giving impetus to education and research in physics as well as to the public's understanding of physics; (2) all science-related government agencies and nongovernmental organizations, the private sector, and the media to highlight and give enhanced recognition to the role of physics in social, cultural, and economic development as well as its positive impact and contributions to society; and (3) all those involved in physics education and research to take additional steps, including strengthening existing and emerging fields of physics research and promoting the public's understanding of physics, to ensure that support for physics continues and that physics studies at all levels continue to attract an adequate number of students.</summary>
+</bill>

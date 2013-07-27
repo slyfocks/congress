@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T14:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7882-7883", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7882", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A043) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T14:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Hensarling amendment (A043) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt507-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 43, 
+  "introduced_at": "2007-07-17", 
+  "number": 507, 
+  "purpose": "An amendment numbered 38 printed in the Congressional Record to prohibit use of funds for Roosevelt University Biology Laboratory Equipment.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-17T14:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

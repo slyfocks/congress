@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-30T00:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5643-5644, H5650-5651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5643", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Terry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-30T01:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 370, 
+      "text": "On agreeing to the Terry amendment (A004) Failed by recorded vote: 78 - 338 (Roll no. 370).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt955-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1304-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1304
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide that the antitrust exemption shall not apply to negotiations over fees.", 
+  "house_number": 4, 
+  "introduced_at": "2000-06-30", 
+  "number": 955, 
+  "purpose": "An amendment numbered 4 printed in House Report 106-709 to prevent doctors, or any health care professional covered in the bill, from using the language to negotiate fees.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-30T01:35:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-15T15:47:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H767-768", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H781-782", 
+          "type": null
+        }, 
+        {
+          "reference": "CR H767", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Eshoo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-15T18:10:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 55, 
+      "text": "On agreeing to the Eshoo amendment (A001) Failed by recorded vote: 173 - 249 (Roll no. 55).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt932-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3408-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3408
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Federal Energy Regulatory Commission to review the results of the Pipeline and Hazardous Materials Safety Administration (PHMSA) study, as required by the bipartisan pipeline safety bill (P.L. 112-90), before issuing a permit for the Keystone XL pipeline.", 
+  "house_number": 1, 
+  "introduced_at": "2012-02-15", 
+  "number": 932, 
+  "purpose": "An amendment numbered 1 printed in Part A of House Report 112-398 to require the Federal Energy Regulatory Commission to review the results of the Pipeline and Hazardous Materials Safety Administration (PHMSA) study, as required by the bipartisan pipeline safety bill (P.L. 112-90), before issuing a permit for the Keystone XL pipeline.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Eshoo, Anna G.", 
+    "state": "CA", 
+    "thomas_id": "00355", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-15T18:10:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

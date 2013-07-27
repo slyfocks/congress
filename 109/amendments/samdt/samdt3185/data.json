@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-29", 
+      "references": [
+        {
+          "reference": "CR S2499", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2499", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3185 proposed by Senator Lott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3185 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3185-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2349-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2349
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-29", 
+  "number": 3185, 
+  "proposed_at": "2006-03-29", 
+  "purpose": "To clarify that lobbying contacts for Congressional staff do not include seeking lobbying disclosure compliance information from the Clerk of the House of Representatives or the Secretary of the Senate.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lott, Trent", 
+    "state": "MS", 
+    "thomas_id": "00707", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-29", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

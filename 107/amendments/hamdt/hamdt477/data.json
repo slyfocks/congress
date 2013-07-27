@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-09T19:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2350-2352", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2350", 
+          "type": " text"
+        }
+      ], 
+      "text": "Substitute (A007) offered by Mr. Hunter to the Spratt amendment (A006).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-09T20:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hunter amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt477-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt476-107", 
+    "amendment_type": "hamdt", 
+    "congress": 107, 
+    "number": 476
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4546-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4546
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "See Spratt amendment (A006) for description.", 
+  "house_number": 7, 
+  "introduced_at": "2002-05-09", 
+  "number": 477, 
+  "purpose": "An amendment numbered 6 printed in part A of House Report 107-450 to transfer funds within the Missile Defense Agency to increase funds for PAC-3 missile procurement and the Arrow program.", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Hunter, Duncan", 
+    "state": "CA", 
+    "thomas_id": "00575", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-05-09T20:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

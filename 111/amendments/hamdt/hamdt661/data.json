@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-05-27T16:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4008-4011, CR 5/28/2010 H4062", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4008", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Pingree (ME).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-27T21:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 316, 
+      "text": "On agreeing to the Pingree (ME) amendment (A008) Failed by recorded vote: 193 - 231, 3 Present (Roll no. 316).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt661-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5136-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5136
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike funding for the Joint Strike Fighter's Alternate Engine Program.", 
+  "house_number": 8, 
+  "introduced_at": "2010-05-27", 
+  "number": 661, 
+  "purpose": "An amendment numbered 80 printed in House Report 111-498 to strike funding for the Joint Strike Fighter's Alternate Engine Program.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Pingree, Chellie", 
+    "state": "ME", 
+    "thomas_id": "01927", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-05-27T21:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

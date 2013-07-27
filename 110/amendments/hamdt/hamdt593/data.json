@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-19T15:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8149-8153, H8167", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8149", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A084) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-19T17:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 683, 
+      "text": "On agreeing to the Campbell (CA) amendment (A084) Failed by recorded vote: 177 - 245 (Roll no. 683).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt593-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 84, 
+  "introduced_at": "2007-07-19", 
+  "number": 593, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to reduce amounts appropriated in the bill by 0.25% across-the-board.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-19T17:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

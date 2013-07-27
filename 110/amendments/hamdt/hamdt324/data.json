@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T15:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6703-6705, H6720", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6703", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-19T18:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 510, 
+      "text": "On agreeing to the Stearns amendment (A009) Failed by recorded vote: 158 - 269 (Roll no. 510).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt324-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce and then increase funding for DOE nuclear energy activities by $20 million.", 
+  "house_number": 9, 
+  "introduced_at": "2007-06-19", 
+  "number": 324, 
+  "purpose": "An amendment to redirect $20 million in funding within the Nuclear Energy account.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-19T18:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

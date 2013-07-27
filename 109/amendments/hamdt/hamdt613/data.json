@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03T16:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9597-9598", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9598", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Gingrey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03T16:35:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gingrey amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt613-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4128-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4128
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment adds an additional section to the bill to ensure that religious and other nonprofit organizations are not penalized because of their tax exempt status.", 
+  "house_number": 7, 
+  "introduced_at": "2005-11-03", 
+  "number": 613, 
+  "purpose": "An amendment numbered 8 printed in House Report 109-266 to add a new section prohibiting a State or political subdivision of a State from the exercise of eminent domain over the property of a religious or other nonprofit organization by reason of the nonprofit or tax-exempt status of such organization if that State or political subdivision received Federal economic development funds during any fiscal year in which it does so and any violation of the provision will render the State or political subdivision ineligible to receive Federal economic development funds for a period of 2 fiscal years.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-03T16:35:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-04-23T17:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2613-2614", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2613", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Ehlers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-23T17:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ehlers amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1009-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5819-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 5819
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment struck section 102 which left the current set-asides for SBIR and STTR unchanged.", 
+  "house_number": 2, 
+  "introduced_at": "2008-04-23", 
+  "number": 1009, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-603 to strike section 102--doing so leaves the current set-asides for SBIR and STTR unchanged.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Ehlers, Vernon J.", 
+    "state": "MI", 
+    "thomas_id": "00339", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-04-23T17:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

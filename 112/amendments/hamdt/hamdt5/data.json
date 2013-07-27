@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-01-26T12:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H492-493, H496", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H492", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Peters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-26T13:35:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 23, 
+      "text": "On agreeing to the Peters amendment (A001) Agreed to by recorded vote: 396 - 7 (Roll no. 23).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt5-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr359-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 359
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment adds language to the bill stipulating that all amounts in the Presidential Election Campaign Fund after the date of the enactment of the legislation shall be transferred by the Secretary to the general fund of Treasury only if used to reduce the deficit.", 
+  "house_number": 1, 
+  "introduced_at": "2011-01-26", 
+  "number": 5, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to add language to the bill stipulating that all amounts in the Presidential Election Campaign Fund after the date of the enactment of the legislation shall be transferred by the Secretary to the general fund of Treasury only if used to reduce the deficit.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "thomas_id": "01929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-01-26T13:35:00-05:00", 
+  "updated_at": "2013-07-17T08:17:15-04:00"
+}

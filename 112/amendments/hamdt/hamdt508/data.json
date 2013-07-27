@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T14:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4597-4598, H4639-4640", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4597", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Connolly (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-06T19:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 497, 
+      "text": "On agreeing to the Connolly (VA) amendment (A003) Failed by recorded vote: 152 - 266 (Roll no. 497).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt508-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding for the Environmental Security Technology Certification program by $15 million offset by a reduction in funds for Army operation and maintenance by a similar amount.", 
+  "house_number": 3, 
+  "introduced_at": "2011-07-06", 
+  "number": 508, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to transfer $15,000,000 from Operation and Maintenance to Research, Development, Test and Evaluation.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-06T19:08:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

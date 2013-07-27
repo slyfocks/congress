@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-26T19:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4702-4703", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4702", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Kleczka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-26T19:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. Walsh raised a point of order against the Kleczka amendment (A009). The amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt254-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2620-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2620
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 9, 
+  "introduced_at": "2001-07-26", 
+  "number": 254, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to allow the VA to fill prescriptions for veterans that are written by private family doctors.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Kleczka, Gerald D.", 
+    "state": "WI", 
+    "thomas_id": "00637", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-07-26", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

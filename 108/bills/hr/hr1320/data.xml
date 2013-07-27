@@ -1,0 +1,142 @@
+<bill session="108" type="h" number="1320" updated="2013-07-14T19:00:58-04:00">
+  <state datetime="2003-06-11T13:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-06-11T13:29:00-04:00"/>
+  </status>
+  <introduced datetime="2003-03-18"/>
+  <titles>
+    <title as="introduced" type="short">Commercial Spectrum Enhancement Act</title>
+    <title as="reported to house" type="short">Commercial Spectrum Enhancement Act</title>
+    <title as="passed house" type="short">Commercial Spectrum Enhancement Act</title>
+    <title as="reported to senate" type="short">Commercial Spectrum Enhancement Act</title>
+    <title as="introduced" type="official">To amend the National Telecommunications and Information Administration Organization Act to facilitate the reallocation of spectrum from governmental to commercial users.</title>
+  </titles>
+  <sponsor id="400414"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2003-03-19"/>
+    <cosponsor id="400043" joined="2003-03-18"/>
+    <cosponsor id="400113" joined="2003-04-03"/>
+    <cosponsor id="400155" joined="2003-04-09"/>
+    <cosponsor id="400160" joined="2003-03-18"/>
+    <cosponsor id="400196" joined="2003-04-29"/>
+    <cosponsor id="400222" joined="2003-03-19"/>
+    <cosponsor id="400319" joined="2003-03-19"/>
+    <cosponsor id="400350" joined="2003-04-09"/>
+    <cosponsor id="400388" joined="2003-03-18"/>
+    <cosponsor id="400397" joined="2003-03-18"/>
+    <cosponsor id="400400" joined="2003-03-18"/>
+    <cosponsor id="400409" joined="2003-03-18"/>
+    <cosponsor id="400431" joined="2003-03-19"/>
+    <cosponsor id="400434" joined="2003-04-29"/>
+    <cosponsor id="400438" joined="2003-04-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-03-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2003-03-24">
+      <text>Referred to the Subcommittee on Telecommunications and the Internet.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-03-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-04-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-04-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2003-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-04-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2003-06-03T18:23:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 108-137.</text>
+    </action>
+    <calendar datetime="2003-06-03T18:23:00-04:00" calendar="Union" number="71">
+      <text>Placed on the Union Calendar, Calendar No. 71.</text>
+    </calendar>
+    <action datetime="2003-06-11T10:19:00-04:00">
+      <text>Mr. Upton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-06-11T10:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5179-5185" label="consideration"/>
+    </action>
+    <action datetime="2003-06-11T10:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1320.</text>
+    </action>
+    <action datetime="2003-06-11T10:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-06-11T13:20:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5198" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-06-11T13:29:00-04:00" how="roll" result="pass" roll="260" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 10 (Roll no. 260).</text>
+      <reference ref="CR H5180-5181" label="text"/>
+    </vote>
+    <action datetime="2003-06-11T13:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-06-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2003-06-26">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </calendar>
+    <action datetime="2003-10-17">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator McCain with an amendment. With written report No. 108-168. Additional views filed.</text>
+    </action>
+    <calendar datetime="2003-10-17" calendar="Senate Legislative" under="General Orders" number="314">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF16" subcommittee="Telecommunications and the Internet" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative procedure"/>
+    <term name="Auctions"/>
+    <term name="Commerce"/>
+    <term name="Competitive bidding"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Federal budgets"/>
+    <term name="Government and business"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government property"/>
+    <term name="Government spending reductions"/>
+    <term name="Government trust funds"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Radio frequency allocation"/>
+    <term name="Radio stations"/>
+    <term name="Relocation"/>
+    <term name="Small business"/>
+    <term name="Wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>10/17/2003--Reported to Senate amended.
+Commercial Spectrum Enhancement Act - (Sec. 2) Amends the National Telecommunications and Information Administration (NTIA) Organization Act to rewrite provisions concerning the reallocation of spectrum from governmental to commercial users. Mandates that any Federal entity that operates a Government station assigned within eligible frequencies and that incurs relocation costs due to reallocation to non-Federal use receive reimbursement from the Spectrum Relocation Fund established in this Act. Includes within eligible frequencies: (1) the 216-220, 1432-1435, 1710-1755, and 2385-2390 megahertz bands; and (2) any other band reallocated from Federal to non-Federal use after January 1, 2003, by competitive bidding, except for bands previously identified by NTIA in the Spectrum Reallocation Final Report. Requires NTIA to notify the Federal Communications Commission (FCC): (1) at least 18 months prior to the commencement of any auction of eligible frequencies; and (2) at least six months prior to any auction of estimated relocation costs and timelines. Requires NTIA to submit a copy of the estimated relocation costs and timelines to specified congressional committees and the Comptroller General (CG). Directs NTIA to: (1) ensure the timely relocation of Federal entities' spectrum-related operations from the eligible frequencies to frequencies or facilities of comparable quality; (2) terminate the entity's authority to operate on the former frequency; and (3) notify the FCC that the entity's relocation has been completed. (Sec. 3) Amends the Communications Act of 1934 to require the FCC: (1) in designing competitive bidding under such auctions, to have as an objective the recovery of 110 percent of the estimated relocation costs; (2) to prescribe methods to ensure that the total cash proceeds from any auction equals at least 110 percent of such costs; and (3) to prohibit the FCC from concluding any auction under which such goal is not reached. Authorizes the FCC to grant a license for the advance use of eligible frequencies pending an auction, on the condition that the licensee cannot cause harmful interference to the Federal entity until the entity's authorization has been terminated. (Sec. 4) Establishes the Spectrum Relocation Fund. Provides for: (1) the crediting of receipts from the spectrum auction to the Fund; and (2) the use of auction amounts to pay Federal entity costs of relocating from reallocated frequencies, under specified conditions, including submission of a plan from the Director of the Office of Management and Budget (OMB) to specified congressional committees and the CG detailing how such sums will be used to pay relocation costs and the timelines for such relocation. Allows a Federal entity to receive more than one transfer, but requires an explanation and CG review when the sum of a subsequent transfer exceeds ten percent of the original transfer. (Sec. 5) Revises the basis for loans or other extensions of credit made to small businesses from the Telecommunications Development Fund. (Sec. 7) Requires an annual report from NTIA to specified congressional committees and the CG on: (1) progress made in adhering to relocation timelines; and (2) estimated and actual relocation costs and amounts paid from the Fund. (Sec. 8) Requires a report from the NTIA Administrator to specified congressional committees on various policy options to compensate Federal entities for relocation costs when their frequencies are allocated by the FCC for unlicensed, public safety, shared, or non-commercial use. (Sec. 9) Amends the ORBIT Act to prohibit any license for fixed terrestrial services in the 12.2-12.7 gigahertz band from being used for the provision of mobile terrestrial telephony services.</summary>
+</bill>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-27T14:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10972-10973", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10972-10973", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27T14:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Frank (MA) amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt815-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3121-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3121
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Manager's amendment consists of the text of the amendment contained in House Report 110-351 and printed on pages H10972-H10973 in the Congressional Record for Sept. 27, 2007.", 
+  "house_number": 2, 
+  "introduced_at": "2007-09-27", 
+  "number": 815, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 110-351 to require that homes insured by wind/water policies comply with existing model building codes from the International Code Council pursuant to request from the National Association of Home Builders; (2) require that specific technologies be used for mapping floodplains (such as geospatial technologies); (3) add a professional mapping association to the Mapping A dvisory Council; (4) prohibit FEMA from enforcing a penalties assessed aga inst individual condo owners where the condo complex is underinsured regarding flood coverage; (5) direct FEMA to develop a plan to verify that the r ecipients of Homeowner Assistance Grants in Mississippi and Road Home Grants in Louisiana, funded by HUD Community Development Block Grants, maintain flood insurance on their properties as required as a condition of the grants; and (6) codify recommendations in a recently released GAO report (GAO 07-1078) with respect to the National Flood Insurance Program's payments to insurance companies for their administrative costs without requiring the companies to report their costs or to comply with the existing audit requirements.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-09-27T14:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

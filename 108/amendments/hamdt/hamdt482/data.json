@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-18T12:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1264", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1264", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-18T12:33:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Waters amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt482-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1375-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1375
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment deletes section 609 of the bill that provided for reducing the minimum waiting period that banks must wait before completing a proposed merger from 15 days to 5 days.", 
+  "house_number": 2, 
+  "introduced_at": "2004-03-18", 
+  "number": 482, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-439 to strike section 609 of the bill. Section 609 reduces the minimum waiting period from 15 calendar days to 5 calendar days for banks and bank holding companies to merge with or acquire other banks or bank holding companies after the Department of Justice has approved a bank merger. The amendment also preserves the existing 15 calendar day waiting period.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-03-18T12:33:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-27T20:25:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4651-4652", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4651", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mrs. Johnson (CT).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-27T20:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Johnson (CT) amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1105-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5672-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5672
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funds for the FBI's Innocent Images Program by $3.3 million.", 
+  "house_number": 8, 
+  "introduced_at": "2006-06-27", 
+  "number": 1105, 
+  "purpose": "An amendment to increase funds (by offset) for the FBI's Innocent Images Program by $3,300,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Johnson, Nancy L.", 
+    "state": "CT", 
+    "thomas_id": "00602", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-27T20:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

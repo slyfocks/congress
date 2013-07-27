@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-09T14:19:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A021) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-09T16:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 399, 
+      "text": "On agreeing to the Smith (MI) amendment (A021) Failed by recorded vote: 69 - 354 (Roll no. 399).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt441-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2684-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2684
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 21, 
+  "introduced_at": "1999-09-09", 
+  "number": 441, 
+  "purpose": "An amendment to increase FEMA Fire Administration funding by $2.5 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-09T16:09:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

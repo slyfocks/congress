@@ -1,0 +1,75 @@
+<bill session="106" type="h" number="5312" updated="2013-07-14T18:55:10-04:00">
+  <state datetime="2000-10-17T12:53:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-17T12:53:00-04:00"/>
+  </status>
+  <introduced datetime="2000-09-27"/>
+  <titles>
+    <title as="introduced" type="short">Protecting Our Children From Drugs Act of 2000</title>
+    <title as="introduced" type="official">To amend the Controlled Substances Act to protect children from drug traffickers.</title>
+  </titles>
+  <sponsor id="400596"/>
+  <cosponsors>
+    <cosponsor id="400273" joined="2000-09-27"/>
+    <cosponsor id="400292" joined="2000-09-27"/>
+    <cosponsor id="400605" joined="2000-09-27"/>
+    <cosponsor id="400367" joined="2000-09-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-09-27">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2000-09-27">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2000-09-27">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="2000-10-04">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2000-10-17T12:50:00-04:00">
+      <text>Mr. Canady moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-17T12:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9950-9951" label="consideration"/>
+    </action>
+    <action datetime="2000-10-17T12:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5312.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-17T12:53:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9950" label="text"/>
+    </vote>
+    <action datetime="2000-10-17T12:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-18">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="HSIF" name="House Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug abuse"/>
+    <term name="Drug traffic"/>
+    <term name="Drugs and youth"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Families"/>
+    <term name="Higher education"/>
+    <term name="Mandatory sentences"/>
+    <term name="Recidivists"/>
+    <term name="School security"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2000--Introduced.
+Protecting Our Children From Drugs Act of 2000 - Amends the Controlled Substances Act to increase mandatory minimum penalties for: (1) using minors to distribute drugs; (2) distributing drugs to minors; and (3) drug trafficking in or near a school or other protected location.</summary>
+</bill>

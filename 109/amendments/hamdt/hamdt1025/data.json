@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-13T20:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3872-3874", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3872", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-13T20:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Shays amendment (A019) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1025-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the Privacy and Civil Liberties Oversight Board by $750,000.", 
+  "house_number": 19, 
+  "introduced_at": "2006-06-13", 
+  "number": 1025, 
+  "purpose": "An amendment to increase funding for the Privacy and Civil Liberties Board by $750,000.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-13T20:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

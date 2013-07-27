@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-26T22:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4054-4055, H4059", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4054", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T23:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 419, 
+      "text": "On agreeing to the Capps amendment (A014) Failed by recorded vote: 184 - 218 (Roll no. 419).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1329-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5972-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5972
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funds for the Department of Housing and Urban Development Housing Counseling Assistance Program by $10 million and to reduce funds for the Department of Housing and Urban Development operations and management account by a similar amount.", 
+  "house_number": 14, 
+  "introduced_at": "2012-06-26", 
+  "number": 1329, 
+  "purpose": "An amendment to reduce funds for the salaries and expenses for the Department of Housing and Urban Development by $10 million and increase the funds available for Housing Counselor Programs by the same amount.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-26T23:00:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

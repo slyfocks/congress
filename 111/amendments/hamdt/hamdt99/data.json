@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-30T13:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5027-5029", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5028", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30T13:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Hensarling amendment (A010) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt99-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr627-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to allow creditors to use retroactive rate increases, universal default, and \"double cycle billing\" practices as long as they offer at least one card option that does not have those billing features to all of their existing customers.", 
+  "house_number": 10, 
+  "introduced_at": "2009-04-30", 
+  "number": 99, 
+  "purpose": "An amendment numbered 10 printed in House Report 111-92 to allow creditors to use retroactive rate increases, universal default, and \"double cycle billing\" practices as long as they offer at least one card option that does not have those billing features to all of their existing customers.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-04-30T13:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

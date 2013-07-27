@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-04T23:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10000", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10000", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-04T23:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Inslee amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt773-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3222-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3222
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment prohibits funds in the bill from being expended on specific elements of the National Security Personnel System.", 
+  "house_number": 6, 
+  "introduced_at": "2007-08-04", 
+  "number": 773, 
+  "purpose": "An amendment to prohibit the use of funds to be used to waive or modify regulations promulgated under chapter 43, 71, 75,or 77 of title 5, United States Code.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-08-04T23:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

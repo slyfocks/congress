@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-30T12:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8828", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8828", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Natural Resources.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-30T12:18:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Natural Resources amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt720-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2952-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2952
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment in the nature of a substitute is technical in nature.", 
+  "house_number": 1, 
+  "introduced_at": "2007-07-30", 
+  "number": 720, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsii00", 
+    "name": "House Natural Resources", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-30T12:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,123 @@
+<bill session="108" type="h" number="421" updated="2013-07-14T19:00:41-04:00">
+  <state datetime="2003-12-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2003-12-06"/>
+  </status>
+  <introduced datetime="2003-01-28"/>
+  <titles>
+    <title as="introduced" type="short">Environmental Policy and Conflict Resolution Advancement Act of 2003</title>
+    <title as="reported to house" type="short">Environmental Policy and Conflict Resolution Advancement Act of 2003</title>
+    <title as="passed house" type="short">Environmental Policy and Conflict Resolution Advancement Act of 2003</title>
+    <title as="passed senate" type="short">Environmental Policy and Conflict Resolution Advancement Act of 2003</title>
+    <title as="enacted" type="short">Environmental Policy and Conflict Resolution Advancement Act of 2003</title>
+    <title as="introduced" type="official">To reauthorize the United States Institute for Environmental Conflict Resolution, and for other purposes.</title>
+  </titles>
+  <sponsor id="400226"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2003-01-28"/>
+    <cosponsor id="400278" joined="2003-01-28"/>
+    <cosponsor id="400310" joined="2003-01-28"/>
+    <cosponsor id="400412" joined="2003-01-28"/>
+    <cosponsor id="400413" joined="2003-01-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-01-28">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2003-01-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2003-01-28">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2003-02-12">
+      <text>Executive Comment Requested from CEQ.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2003-02-21">
+      <text>Referred to the Subcommittee on Select Education.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+    <action datetime="2003-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-10-29">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Resources"/>
+    </calendar>
+    <action datetime="2003-11-17T20:30:00-05:00">
+      <text>Reported by the Committee on Resources. H. Rept. 108-371, Part I.</text>
+    </action>
+    <action datetime="2003-11-19T18:10:00-05:00">
+      <text>Mr. Greenwood moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-11-19T18:10:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11589-11591" label="consideration"/>
+    </action>
+    <action datetime="2003-11-19T18:10:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 421.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-19T18:17:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11589" label="text"/>
+    </vote>
+    <action datetime="2003-11-19T18:17:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-20">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2003-11-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15502" label="consideration"/>
+    </vote>
+    <topresident datetime="2003-11-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2003-11-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2003-11-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2003-12-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2003-12-06" type="public" number="108-160">
+      <text>Became Public Law No: 108-160.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and the Workforce"/>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="163"/>
+    <bill relation="unknown" session="108" type="s" number="163"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative remedies"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental assessment"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Foundations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Grants-in-aid"/>
+    <term name="Law"/>
+    <term name="Mediation"/>
+    <term name="Minorities"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>12/6/2003--Public Law.
+Environmental Policy and Conflict Resolution Advancement Act of 2003 - Amends the Morris K. Udall Scholarship and Excellence in National Environmental and Native American Public Policy Act of 1992 to authorize appropriations for FY 2004 through 2008 for the Environmental Dispute Resolution Fund. Requires a specified amount to be used for grants or other arrangements to pay for services provided in a neutral manner relating to, and to support the participation of non-Federal entities in, environmental conflict resolution proceedings involving Federal agencies.</summary>
+</bill>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T19:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7949-7950", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7949", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T19:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A014) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt523-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding for the National Cord Blood Stem Cell Program by $11 million.", 
+  "house_number": 14, 
+  "introduced_at": "2007-07-17", 
+  "number": 523, 
+  "purpose": "An amendment to increase appropriations for the National Cord Blood Stem Cell Program by $11,037,000.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-17T19:39:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,130 @@
+<bill session="108" type="h" number="4306" updated="2013-07-14T19:02:32-04:00">
+  <state datetime="2004-10-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2004-10-30"/>
+  </status>
+  <introduced datetime="2004-05-06"/>
+  <titles>
+    <title as="introduced" type="official">To amend section 274A of the Immigration and Nationality Act to improve the process for verifying an individual's eligibility for employment.</title>
+  </titles>
+  <sponsor id="400059"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2004-05-06"/>
+    <cosponsor id="400010" joined="2004-07-12"/>
+    <cosponsor id="400025" joined="2004-07-22"/>
+    <cosponsor id="400032" joined="2004-07-12"/>
+    <cosponsor id="400034" joined="2004-07-21"/>
+    <cosponsor id="400043" joined="2004-09-13"/>
+    <cosponsor id="400068" joined="2004-06-25"/>
+    <cosponsor id="400071" joined="2004-07-21"/>
+    <cosponsor id="400117" joined="2004-06-22"/>
+    <cosponsor id="400123" joined="2004-07-14"/>
+    <cosponsor id="400134" joined="2004-06-25"/>
+    <cosponsor id="400137" joined="2004-09-09"/>
+    <cosponsor id="400138" joined="2004-06-18"/>
+    <cosponsor id="400155" joined="2004-09-21"/>
+    <cosponsor id="400168" joined="2004-06-25"/>
+    <cosponsor id="400243" joined="2004-07-09"/>
+    <cosponsor id="400245" joined="2004-06-22"/>
+    <cosponsor id="400264" joined="2004-07-15"/>
+    <cosponsor id="400342" joined="2004-06-24"/>
+    <cosponsor id="400381" joined="2004-06-02"/>
+    <cosponsor id="400393" joined="2004-06-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-05-06">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2004-05-20">
+      <text>Referred to the Subcommittee on Immigration, Border Security, and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-09-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-09-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2004-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2004-10-05T20:00:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 108-731.</text>
+    </action>
+    <calendar datetime="2004-10-05T20:00:00-04:00" calendar="Union" number="451">
+      <text>Placed on the Union Calendar, Calendar No. 451.</text>
+    </calendar>
+    <action datetime="2004-10-06T14:20:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2004-10-06T14:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8235-8237" label="consideration"/>
+    </action>
+    <action datetime="2004-10-06T14:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4306.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-10-06T14:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8235" label="text"/>
+    </vote>
+    <action datetime="2004-10-06T14:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-10-07">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2004-10-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11271" label="consideration"/>
+    </vote>
+    <topresident datetime="2004-10-11">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2004-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2004-10-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2004-10-30">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2004-10-30" type="public" number="108-390">
+      <text>Became Public Law No: 108-390.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration, Border Security, and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Alien labor"/>
+    <term name="Aliens"/>
+    <term name="Business records"/>
+    <term name="Commerce"/>
+    <term name="Electronic data interchange"/>
+    <term name="Electronic government information"/>
+    <term name="Employee selection"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Identification devices"/>
+    <term name="Labor and employment"/>
+    <term name="Micrographics"/>
+    <term name="Oaths"/>
+    <term name="Recruiting of employees"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2004--Public Law.
+Amends the Immigration and Nationality Act to authorize both handwritten and electronic signatures on attestation forms required by the employment verification system. Authorizes the retention of paper, microfiche, microfilm, or electronic versions of such forms.</summary>
+</bill>

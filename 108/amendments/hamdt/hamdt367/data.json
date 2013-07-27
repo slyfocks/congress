@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-05T11:07:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H7966-7977, H7991-7992", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H7966", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Norton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-05T14:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 479, 
+      "text": "On agreeing to the Norton amendment (A001) Failed by recorded vote: 203 - 203 (Roll no. 479).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt367-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2765-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2765
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete $10 million appropriated for a District of Columbia scholarship program.", 
+  "house_number": 1, 
+  "introduced_at": "2003-09-05", 
+  "number": 367, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to strike the section of the bill that provides $10 million to fund a school voucher program in the District.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-09-05T14:02:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

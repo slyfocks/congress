@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-10T12:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H548-553, H558", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-10T13:52:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H548", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 28, 
+      "text": "On agreeing to the Nadler amendment (A004) Failed by recorded vote: 185 - 236 (Roll no. 28).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt8-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr418-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 418
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 101 entitled \"Preventing Terrorists from Obtaining Relief from Removal\" from the bill.", 
+  "house_number": 4, 
+  "introduced_at": "2005-02-10", 
+  "number": 8, 
+  "purpose": "An amendment numbered 4 printed in House Report 109-4 to strike section 101 and redesignate the succeeding sections of title I accordingly.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-02-10T13:52:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

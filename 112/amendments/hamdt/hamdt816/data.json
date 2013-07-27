@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T19:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6614-6615", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6614", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Keating.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T11:00:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6639-6640", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 761, 
+      "text": "On agreeing to the Keating amendment (A015) Failed by recorded vote: 162 - 257 (Roll no. 761).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt816-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to insert provisions which clarify that if the Administrator should determine that there was a compelling reason to extend the compliance date, such an extension could in no case go beyond the date which is 5 years after the effective date of such regulation.", 
+  "house_number": 15, 
+  "introduced_at": "2011-10-05", 
+  "number": 816, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to establish a date for compliance with standards and requirements in accordance with the Clean Air Act.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Keating, William R.", 
+    "state": "MA", 
+    "thomas_id": "02025", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T11:00:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

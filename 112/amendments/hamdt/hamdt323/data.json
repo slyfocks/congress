@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T20:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3650-3651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3650", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Buchanan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T13:03:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3724", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 357, 
+      "text": "On agreeing to the Buchanan amendment (A023) Agreed to by recorded vote: 246 - 173 (Roll no. 357).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt323-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires all foreign terrorists to be tried by military tribunals and not in the civilian court system.", 
+  "house_number": 23, 
+  "introduced_at": "2011-05-25", 
+  "number": 323, 
+  "purpose": "An amendment numbered 43 printed in House Report 112-88 to require all foreign terrorists, with links to terrorist networks, who attack the U.S. or the Government be considered enemy combatants to be tried by military tribunals, not in the civilian court system.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "thomas_id": "01840", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-26T13:03:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

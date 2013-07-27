@@ -1,0 +1,139 @@
+<bill session="108" type="h" number="659" updated="2013-07-14T19:00:44-04:00">
+  <state datetime="2003-10-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2003-10-03"/>
+  </status>
+  <introduced datetime="2003-02-11"/>
+  <titles>
+    <title as="introduced" type="short">Hospital Mortgage Insurance Act of 2003</title>
+    <title as="reported to house" type="short">Hospital Mortgage Insurance Act of 2003</title>
+    <title as="passed house" type="short">Hospital Mortgage Insurance Act of 2003</title>
+    <title as="passed senate" type="short">Hospital Mortgage Insurance Act of 2003</title>
+    <title as="enacted" type="short">Hospital Mortgage Insurance Act of 2003</title>
+    <title as="introduced" type="official">To amend section 242 of the National Housing Act regarding the requirements for mortgage insurance under such Act for hospitals.</title>
+  </titles>
+  <sponsor id="400293"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="2003-02-11"/>
+    <cosponsor id="400422" joined="2003-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-02-11">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2003-02-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-02-13">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2003-03-06T15:08:00-05:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 108-27.</text>
+    </action>
+    <calendar datetime="2003-03-06T15:08:00-05:00" calendar="Union" number="18">
+      <text>Placed on the Union Calendar, Calendar No. 18.</text>
+    </calendar>
+    <action datetime="2003-03-12T12:10:00-05:00">
+      <text>Mr. Miller, Gary moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2003-03-12T12:11:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H1755-1756" label="consideration"/>
+    </action>
+    <action datetime="2003-03-12T12:11:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 659.</text>
+    </action>
+    <action datetime="2003-03-12T12:16:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-03-12T13:24:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref=" CR H1774-1775" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-03-12T13:42:00-05:00" how="roll" result="pass" roll="56" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 56).</text>
+      <reference ref=" CR H1755" label="text"/>
+    </vote>
+    <action datetime="2003-03-12T13:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-03-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <calendar datetime="2003-07-31">
+      <text>Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Banking, Housing, and Urban Affairs"/>
+    </calendar>
+    <action datetime="2003-09-02">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2003-09-02">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S10986-10987" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2003-09-02" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2003-09-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2003-09-17T10:29:00-04:00">
+      <text>Mr. Ney moved that the House suspend the rules and agree to the Senate amendment.</text>
+    </action>
+    <action datetime="2003-09-17T10:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 659.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2003-09-17T10:38:00-04:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H8290-8292" label="consideration"/>
+      <reference ref="CR H8290" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2003-09-17T10:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2003-09-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2003-09-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2003-10-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2003-10-03" type="public" number="108-91">
+      <text>Became Public Law No: 108-91.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Access to health care"/>
+    <term name="Accreditation (Medical care)"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Economics and public finance"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Health"/>
+    <term name="Hospitals"/>
+    <term name="Housing and community development"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Local laws"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1546"/>
+  </amendments>
+  <summary>10/3/2003--Public Law.
+Hospital Mortgage Insurance Act of 2003 - Amends the National Housing Act to revise hospital need and feasibility standards for purposes of hospital mortgage insurance eligibility. Directs the Secretary of Housing and Urban Development to: (1) require satisfactory evidence that the hospital will be located in a State or political subdivision with reasonable minimum licensure and operating standards; and (2) establish the means for determining hospital need and feasibility, including following State procedures in States that have such official procedures. (Eliminates State certificate of need or feasibility study requirements.) Exempts critical access hospitals from such requirements through July 31, 2006. Directs the Secretary to conduct a study and report on the barriers to insured mortgage receipt by federally qualified health centers.</summary>
+</bill>

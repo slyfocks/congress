@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-01T16:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4300-4302", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4300", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Meeks (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-01T16:40:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Meeks (NY) amendment Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt65-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1664-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1664
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment exempts from compensation standards any institutions that receive TARP funding or payment agreements entered into before the enactment of the bill.", 
+  "house_number": 3, 
+  "introduced_at": "2009-04-01", 
+  "number": 65, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-71 to exempt from compensation standards any institutions that receive TARP funding or payment agreements entered into before the enactment of this bill.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Meeks, Gregory W.", 
+    "state": "NY", 
+    "thomas_id": "01506", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-04-01T16:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

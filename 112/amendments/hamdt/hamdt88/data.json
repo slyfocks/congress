@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T15:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1115-1121", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1115", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A078) offered by Mr. Carter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T18:56:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1142", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 86, 
+      "text": "On agreeing to the Carter amendment (A078) Agreed to by recorded vote: 250 - 177 (Roll no. 86).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt88-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 78, 
+  "introduced_at": "2011-02-17", 
+  "number": 88, 
+  "purpose": "An amendment numbered 165 printed in the Congressional Record to prohibit the use of funds to be used to implement, administer, or enforce the rule entitled \"National Emission Standards for Hazardous Air Pollutants From the Portland Cement Manufacturing Industry and Standards of Performance for Portland Cement Plants\" published by the Environmental Protection Agency on September 9, 2010.", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Carter, John R.", 
+    "state": "TX", 
+    "thomas_id": "01752", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T18:56:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

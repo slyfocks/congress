@@ -1,0 +1,86 @@
+<bill session="108" type="hc" number="250" updated="2013-07-14T19:03:07-04:00">
+  <state datetime="2004-10-05T15:35:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-10-05T15:35:00-04:00"/>
+  </status>
+  <introduced datetime="2003-07-23"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing community organization of public access defibrillation programs.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2003-11-17"/>
+    <cosponsor id="400062" joined="2003-11-17"/>
+    <cosponsor id="400178" joined="2003-11-17"/>
+    <cosponsor id="400257" joined="2003-11-17"/>
+    <cosponsor id="400268" joined="2003-11-17"/>
+    <cosponsor id="400388" joined="2003-11-17"/>
+    <cosponsor id="400409" joined="2003-11-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-07-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2003-08-08">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-09-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2004-10-05T15:27:00-04:00">
+      <text>Mr. Barton (TX) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-10-05T15:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8089-8091" label="consideration"/>
+    </action>
+    <action datetime="2004-10-05T15:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 250.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-10-05T15:35:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8089-8090" label="text"/>
+    </vote>
+    <action datetime="2004-10-05T15:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-10-06">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="sc" number="143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Cardiovascular diseases"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Community organization"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Cultural centers"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency management"/>
+    <term name="Emergency medicine"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Hotels, motels, etc."/>
+    <term name="Medical supplies"/>
+    <term name="Office buildings"/>
+    <term name="School health programs"/>
+    <term name="Sports and recreation"/>
+    <term name="Sports facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2004--Passed House without amendment.
+Recognizes the growing number of community activists, organizations, and municipal governments leading the national effort to establish public access defibrillation (PAD) programs. Encourages the continued development and implementation of PAD programs in schools, sports arenas, large hotels, concert halls, high-rise buildings, gated communities, buildings subject to high-security, and similar facilities to increase the survival rate for victims of cardiac arrest.</summary>
+</bill>

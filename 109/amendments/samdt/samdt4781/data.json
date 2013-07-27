@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-02", 
+      "references": [
+        {
+          "reference": "CR S8582-8585, S8598-8599", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8582", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S8584-8585", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 4781 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-02", 
+      "references": [], 
+      "text": "Motion to table amendment SA 4781 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 222.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4781-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4781, 
+  "proposed_at": "2006-08-02", 
+  "purpose": "To appropriate, with an offset, an additional $2,000,000 for Research, Development, Test and Evaluation, Army for the improvement of imaging for traumatic brain injuries.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-08-02", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

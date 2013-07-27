@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-05-27T14:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3986-3988", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3986-3987", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Smith (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-27T14:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (WA) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt656-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5136-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5136
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment ensures that the spouse, children and parents of a deployed or deploying member of the Armed Forces, who are not covered under the Family Medical Leave Act, have the ability to take at least two weeks of unpaid leave from their job in order to address issues that arise over the course of a deployment cycle.", 
+  "house_number": 3, 
+  "introduced_at": "2010-05-27", 
+  "number": 656, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-498 to ensure that the spouse, children and parents of a deployed or deploying member of the Armed Forces, who are not covered under the Family Medical Leave Act, have the ability to take at least two weeks of unpaid leave from their job in order to address issues that arise over the course of a deployment cycle.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Smith, Adam", 
+    "state": "WA", 
+    "thomas_id": "01528", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-05-27T14:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

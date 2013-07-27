@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-07T16:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4713-4714, H4729-4730", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4713", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A050) offered by Mr. Gohmert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T18:39:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 520, 
+      "text": "On agreeing to the Gohmert amendment (A050) Failed by recorded vote: 162 - 265 (Roll no. 520).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt555-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 50, 
+  "introduced_at": "2011-07-07", 
+  "number": 555, 
+  "purpose": "An amendment to prohibit the use of funds to be obligated, expended, or used in any manner to support military operations, including NATO or United Nations operations, in Libya or in Libya's airspace.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gohmert, Louie", 
+    "state": "TX", 
+    "thomas_id": "01801", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T18:39:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

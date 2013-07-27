@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T20:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7954-7955", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7954", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mrs. Musgrave.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T20:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Musgrave amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt526-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment reduces funding for the Global Fund by $175,000.", 
+  "house_number": 17, 
+  "introduced_at": "2007-07-17", 
+  "number": 526, 
+  "purpose": "An amendment reduce appropriations for the National Institute of Allergy and Infectious Diseases by $175,000.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Musgrave, Marilyn N.", 
+    "state": "CO", 
+    "thomas_id": "01711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-07-17T20:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T18:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3530-3531, H3567", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3530", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 346, 
+      "text": "On agreeing to the Broun (GA) amendment (A003) Failed by recorded vote: 140 - 273 (Roll no. 346).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1234-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce administrative salaries in the expense accounts by 3%, with the exception of the Coast Guard, and to apply the savings of $498,099,270 to the spending reduction account.", 
+  "house_number": 3, 
+  "introduced_at": "2012-06-06", 
+  "number": 1234, 
+  "purpose": "An amendment to reduce funding for various accounts and apply the savings of $498,099,270 to the spending reduction account.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T23:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

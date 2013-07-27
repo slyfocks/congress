@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-15T10:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4995-4998, H4526-4527", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4996", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15T14:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 251, 
+      "text": "On agreeing to the Weiner amendment (A016) Failed by recorded vote: 31 - 396 (Roll no. 251).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt263-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for Community Oriented Policing Services.", 
+  "house_number": 16, 
+  "introduced_at": "2005-06-15", 
+  "number": 263, 
+  "purpose": "An amendment to increase funds (by transfer) for the Community Oriented Policing Services (COPS) program in the amount of $126,152,000.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-15T14:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

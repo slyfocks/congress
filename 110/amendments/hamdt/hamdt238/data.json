@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-06T15:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6062", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6062", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Lantos.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-06T15:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lantos amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt238-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2446-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2446
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment makes a number of technical, clarifying, and clerical changes to the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2007-06-06", 
+  "number": 238, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-174 to make a number of technical, clarifying, and clerical changes to several provisions of H.R. 2446 as reported by the Committee on Foreign Affairs.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Lantos, Tom", 
+    "state": "CA", 
+    "thomas_id": "00663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-06T15:32:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

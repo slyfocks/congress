@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-10T17:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5146", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5146", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mrs. Kelly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-10T17:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kelly amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt157-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2143-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2143
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment adds a new section stating that no provision shall be construed as changing or affecting any law relating to gambling within the United States.", 
+  "house_number": 1, 
+  "introduced_at": "2003-06-10", 
+  "number": 157, 
+  "purpose": "An amendment numbered 1 printed in House Report 108-145, which adds a new section 5 to the end of the bill consisting of a rule of construction clarifying that the bill should be read as leaving intact the substantive law with respect to gambling in the United States. It confirms that the bill does not change Federal, State or Tribal law in this regard.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Kelly, Sue W.", 
+    "state": "NY", 
+    "thomas_id": "00624", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-06-10T17:37:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

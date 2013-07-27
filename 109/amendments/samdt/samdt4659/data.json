@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7478, S7478-7483, S7484-7485, S7487", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7485", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 4659 proposed by Senator Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 200, 
+      "text": "Amendment SA 4659 not agreed to in Senate by Yea-Nay Vote. 29 - 71. Record Vote Number: 200.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4659-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-13", 
+  "number": 4659, 
+  "proposed_at": "2006-07-13", 
+  "purpose": "To appropriate an additional $1,829,400,000 to construct double-layered fencing and vehicle barriers along the southwest border and to offset such increase by reducing all other discretionary amounts on a prorata basis.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sessions, Jeff", 
+    "state": "AL", 
+    "thomas_id": "01548", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

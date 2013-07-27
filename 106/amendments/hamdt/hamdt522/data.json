@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-13T14:55:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Sanford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-13T16:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 496, 
+      "text": "On agreeing to the Sanford amendment (A006) Failed by recorded vote: 104 - 323 (Roll no. 496).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt522-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1993-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1993
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to authorize OPIC for one year rather than four years as contained in the bill.", 
+  "house_number": 6, 
+  "introduced_at": "1999-10-13", 
+  "number": 522, 
+  "purpose": "Amendment no. 8 printed in the Congressional Record to authorize OPIC for one year instead of four.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Marshall (Mark)", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-10-13T16:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

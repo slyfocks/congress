@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-25T21:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5282-5283", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5282", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-26T12:09:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5316-5317", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 533, 
+      "text": "On agreeing to the Maloney amendment (A020) Failed by recorded vote: 173 - 243 (Roll no. 533).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1466-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4078-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to mandate that Title VI cannot take effect until the Chair of the SEC certifies that, in conducting the cost benefit analysis, no resources will be diverted away from the SEC's mission to protect investors, maintain efficient markets and promote access to capital.", 
+  "house_number": 20, 
+  "introduced_at": "2012-07-25", 
+  "number": 1466, 
+  "purpose": "An amendment numbered 21 printed in Part B of House Report 112-616 to mandate that Title VI cannot take effect until the Chair of the SEC certifies that in conducting the cost benefit analysis no resources will be diverted away from the SECs mission to protect investors, maintain efficient markets and promote access to capital.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-26T12:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

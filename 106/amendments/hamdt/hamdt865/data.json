@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T11:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4951-4952", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4951", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Camp.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T12:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Camp amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt865-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4516-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4516
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires that any unspent office funds at the end of the year be used for deficit or debt reduction.", 
+  "house_number": 2, 
+  "introduced_at": "2000-06-22", 
+  "number": 865, 
+  "purpose": "Amendment no. 2 printed in H. Rept. 106-685 to require that unspent office funds be used for deficit or debt reduction.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Camp, Dave", 
+    "state": "MI", 
+    "thomas_id": "00166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-22T12:06:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

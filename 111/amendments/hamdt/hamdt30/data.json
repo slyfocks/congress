@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-12T12:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3365-3366", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3365", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Markey (CO).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-12T12:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Markey (CO) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt30-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1262-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1262
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires states to use at least 15% (instead of 10% as required in the bill) of each capitalization grant for water pollution control to provide assistance to municipalities of less than 10,000 people to the extent that there are sufficient applications for assistance.", 
+  "house_number": 3, 
+  "introduced_at": "2009-03-12", 
+  "number": 30, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-36 to require states to use at least 15% (instead of 10% as required in the bill) of each capitalization grant for water pollution control to provide assistance to municipalities of less than 10,000 people to the extent that there are sufficient applications for assistance.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Markey, Betsy", 
+    "state": "CO", 
+    "thomas_id": "01911", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-03-12T12:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

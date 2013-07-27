@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-10T20:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14723-14726", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14723", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Kanjorski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-11T11:14:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H14762", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14762", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 960, 
+      "text": "On agreeing to the Kanjorski amendment (A011) Failed by recorded vote: 153 - 271 (Roll no. 960).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt527-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4173-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the provisions exempting public companies with less than $75 million in market capitalization from the requirements of the Sarbanes-Oxley Act relating to the external audit of internal controls.", 
+  "house_number": 11, 
+  "introduced_at": "2009-12-10", 
+  "number": 527, 
+  "purpose": "An amendment numbered 12 printed in House Report 111-370 to strike the provisions exempting public companies with less than $75 million in market capitalization from the requirements of the Sarbanes-Oxley Act related to the external audit of internal controls.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Kanjorski, Paul E.", 
+    "state": "PA", 
+    "thomas_id": "00615", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-12-11T11:14:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-28T12:13:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2001-2002, H2006", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2001", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. McCaul (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-28T13:23:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 107, 
+      "text": "On agreeing to the McCaul (TX) amendment (A005) Failed by recorded vote: 197 - 231 (Roll no. 107).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt19-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr556-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 556
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to require the President to include in a report to Congress information about burdensome regulation in the United States as it affects business.", 
+  "house_number": 5, 
+  "introduced_at": "2007-02-28", 
+  "number": 19, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record, to insert a new paragraph entitled Contents of Report Related to Barriers to Investment into the United States and specifies for inclusion in the report a detailed discussion of factors including the amount of burdensome regulation in the United States as compared to other countries that affect the number of filings, changes in the types of business sectors involved in filings, and changes in the number of investments originating from specific countries.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McCaul, Michael T.", 
+    "state": "TX", 
+    "thomas_id": "01804", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-02-28T13:23:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

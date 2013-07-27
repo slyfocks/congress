@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-21", 
+      "references": [
+        {
+          "reference": "CR S6204-6239", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6204-6205", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4320 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-22", 
+      "references": [
+        {
+          "reference": "CR S6324, S6335", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-22", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 182, 
+      "text": "Amendment SA 4320 not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 182.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4320-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-19", 
+  "number": 4320, 
+  "proposed_at": "2006-06-21", 
+  "purpose": "To state the sense of Congress on United States policy on Iraq.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-22", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

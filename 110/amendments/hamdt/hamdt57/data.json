@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-21T14:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2768-2769", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2768-2769", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Financial Services.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-21T14:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Financial Services amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt57-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1227-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1227
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to require the bill to be reported back to the House with an amendment inserting that such Housing Authority or other manager shall prevent a household from occupying such a dwelling unit, and shall provide priority for occupancy in such dwelling units.", 
+  "house_number": 8, 
+  "introduced_at": "2007-03-21", 
+  "number": 57, 
+  "purpose": "An amendment to require the bill to be reported back to the House with an amendment inserting that such Housing Authority or other manager shall prevent a household from occupying such a dwelling unit, and shall provide priority for occupancy in such dwelling units.", 
+  "sponsor": {
+    "committee_id": "hsba00", 
+    "name": "House Financial Services", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-21T14:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

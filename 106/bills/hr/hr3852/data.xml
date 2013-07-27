@@ -1,0 +1,92 @@
+<bill session="106" type="h" number="3852" updated="2013-07-14T18:54:38-04:00">
+  <state datetime="2000-05-22T18:24:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-05-22T18:24:00-04:00"/>
+  </status>
+  <introduced datetime="2000-03-08"/>
+  <titles>
+    <title as="introduced" type="official">To extend the deadline for commencement of construction of a hydroelectric project in the State of Alabama.</title>
+  </titles>
+  <sponsor id="400105"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-08">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="2000-03-16">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-03-30">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-04-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-04-12">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="2000-05-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-05-17">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="2000-05-19T14:53:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 106-629.</text>
+    </action>
+    <calendar datetime="2000-05-19T14:54:00-04:00" calendar="Union" number="344">
+      <text>Placed on the Union Calendar, Calendar No. 344.</text>
+    </calendar>
+    <action datetime="2000-05-22T14:29:00-04:00">
+      <text>Mr. Oxley moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-05-22T14:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3488" label="consideration"/>
+    </action>
+    <action datetime="2000-05-22T14:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3852.</text>
+    </action>
+    <action datetime="2000-05-22T14:33:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-05-22T18:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3493-3494" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-05-22T18:24:00-04:00" how="roll" result="pass" roll="211" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 354 - 0 (Roll no. 211).</text>
+      <reference ref="CR H3488" label="text"/>
+    </vote>
+    <action datetime="2000-05-22T18:24:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-05-22T18:25:00-04:00">
+      <text>Laid on the table. See S. 1836 for further action.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="s" number="1836"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alabama"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2000--Introduced.
+Directs the Federal Energy Regulatory Commission (FERC), at the request of a specified licensee, to extend for three consecutive two-year periods the period during which such licensee is required to commence construction of a hydroelectric project in the State of Alabama.Requires FERC to reinstate the project license if it has expired before enactment of this Act.</summary>
+</bill>

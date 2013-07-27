@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-26T19:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5140-5144, H5146", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5140", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A037) offered by Mr. Hostettler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-26T20:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 324, 
+      "text": "On agreeing to the Hostettler amendment (A037) Failed by recorded vote: 196 - 201 (Roll no. 324).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt905-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to add a new section which provides that no funds in the bill may be used to enforce, implement, or administer the provisions of the settlement document dated March 17, 2000, between Smith and Wesson and the Department of the Treasury.", 
+  "house_number": 37, 
+  "introduced_at": "2000-06-26", 
+  "number": 905, 
+  "purpose": "An amendment numbered 23 printed in the Congressional Record to add a new section which provides that no funds in the bill may be used to enforce, implement, or administer the provisions of the settlement document dated March 17, 2000, between Smith and Wesson and the Department of the Treasury.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hostettler, John N.", 
+    "state": "IN", 
+    "thomas_id": "00562", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-26T20:53:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

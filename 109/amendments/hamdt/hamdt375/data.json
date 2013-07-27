@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-28T16:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5307-5317, H5350", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5307", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28T21:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 329, 
+      "text": "On agreeing to the McGovern amendment (A005) Failed by recorded vote: 189 - 234 (Roll no. 329).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt375-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to reduce funding for the Andean Counterdrug Initiative by $100 million.", 
+  "house_number": 5, 
+  "introduced_at": "2005-06-28", 
+  "number": 375, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to reduce by $100 million, the bill's $735 million for the Andean Counterdrug Initiative (Plan Colombia).", 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-28T21:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

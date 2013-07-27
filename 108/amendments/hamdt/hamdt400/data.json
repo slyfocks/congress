@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-24T18:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8876-8877", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8876", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Kind.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-24T18:12:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Kind amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt400-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2557-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2557
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2003-09-24", 
+  "number": 400, 
+  "purpose": "Amendment numbered 2 printed in House Report 108-282.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2003-09-24", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

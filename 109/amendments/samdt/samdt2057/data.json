@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-07", 
+      "references": [
+        {
+          "reference": "CR S11332", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11332", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2057 proposed by Senator Stevens for Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-07", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2057 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2057-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3765-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3765
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-07", 
+  "number": 2057, 
+  "proposed_at": "2005-10-07", 
+  "purpose": "To modify the reauthorization period of a certain water resource program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-07", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

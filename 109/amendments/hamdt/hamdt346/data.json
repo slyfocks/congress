@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23T14:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5053-5059, H5071", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5053", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Owens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23T17:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 306, 
+      "text": "On agreeing to the Owens amendment (A004) Failed by recorded vote: 206 - 216 (Roll no. 306).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt346-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete language in the bill which prohibits funds in the bill from being used to conduct annual fit testing (after the initial fit testing) of respirators for occupational exposure to tuberculosis.", 
+  "house_number": 4, 
+  "introduced_at": "2005-06-23", 
+  "number": 346, 
+  "purpose": "An amendment to strike the proviso in the bill which prohibits funds in the bill from enforcing annual fit testing (after the initial fit testing) of respirators for occupational exposure to tuberculosis.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Owens, Major R.", 
+    "state": "NY", 
+    "thomas_id": "00883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-23T17:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-23T14:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4482-4484, H4499", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4482", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Baldwin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23T16:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 483, 
+      "text": "On agreeing to the Baldwin amendment (A003) Failed by recorded vote: 81 - 342 (Roll no. 483).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt493-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike section 5 in the America Invents Act which expanded the prior-user rights defense to apply to all patents with minimal exceptions.", 
+  "house_number": 3, 
+  "introduced_at": "2011-06-23", 
+  "number": 493, 
+  "purpose": "An amendment numbered 3 printed in Part B of House Report 112-111 to strike Section 5, the `prior user rights' language, and conform H.R. 1249 to H.R. 1908, as passed by the U.S. House of Representatives on September 7, 2007, and S. 23, as passed by the U.S. Senate on March 8, 2011.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Baldwin, Tammy", 
+    "state": "WI", 
+    "thomas_id": "01558", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-23T16:47:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

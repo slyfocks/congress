@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-31T14:54:00-04:00", 
+      "references": [
+        {
+          "reference": "H4917", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4917", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Judiciary.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-31T14:55:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Judiciary amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt283-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2505-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2505
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-07-31", 
+  "number": 283, 
+  "purpose": "Amendments printed in the bill and considered as adopted pursuant to the provisions of H. Res. 214.", 
+  "sponsor": {
+    "committee_id": "hsju00", 
+    "name": "House Judiciary", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-31T14:55:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

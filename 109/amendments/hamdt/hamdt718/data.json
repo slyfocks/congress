@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15T20:53:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1034-1035", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1034", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Jefferson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16T11:49:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1072-1073", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1072", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 52, 
+      "text": "On agreeing to the Jefferson amendment (A018) Failed by recorded vote: 174 - 248 (Roll no. 52).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt718-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for Community Planning and Development by $2 billion and reduce funding for the Federal Emergency Management Agency by the same amount.", 
+  "house_number": 18, 
+  "introduced_at": "2006-03-15", 
+  "number": 718, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to increase funding for Community Planning and Development by $2,000,000,000 and reducing funding for the Federal Emergency Management Agency by the same amount.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Jefferson, William J.", 
+    "state": "LA", 
+    "thomas_id": "00592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16T11:49:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

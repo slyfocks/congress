@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-07-31T17:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7693", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7693", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Bean.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-31T17:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bean amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1144-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1338-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1338
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment prevented the expansion of the Equal Pay Act from including job applicants.", 
+  "house_number": 1, 
+  "introduced_at": "2008-07-31", 
+  "number": 1144, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-807 to strike Section 3(b), \"Application of Provisions,\" from the bill.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Bean, Melissa L.", 
+    "state": "IL", 
+    "thomas_id": "01782", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-07-31T17:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

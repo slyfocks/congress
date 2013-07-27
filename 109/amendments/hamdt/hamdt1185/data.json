@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-13T15:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5191-5198, H5205-5206", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5191", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13T17:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 372, 
+      "text": "On agreeing to the King (IA) amendment (A004) Failed by recorded vote: 185 - 238 (Roll no. 372).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1185-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr9-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 9
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 7 of the bill which extends to 2032 provisions in law requiring bilingual ballots under certain circumstances, and to strike section 8 of the bill concerning the use of American Community Survey census data.", 
+  "house_number": 4, 
+  "introduced_at": "2006-07-13", 
+  "number": 1185, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-554 which seeks to strike sections 7 and 8 from the bill. Sections 7 and 8 relate to multilingual ballots and use of American Community Survey census data, and they would automatically expire in 2007.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-13T17:13:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

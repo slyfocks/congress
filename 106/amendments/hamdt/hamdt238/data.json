@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-24T15:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4869-4871", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4869", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mrs. Meek (FL) to the Hutchinson amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-24T15:33:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Meek (FL) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt238-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt237-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 237
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1658-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "1999-06-24", 
+  "number": 238, 
+  "purpose": "An amendment to permit civil asset forfeiture for any conveyance used in alien smuggling.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Meek, Carrie P.", 
+    "state": "FL", 
+    "thomas_id": "00789", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "1999-06-24", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

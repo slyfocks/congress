@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T19:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6615-6617", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6615", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Ms. Edwards.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T11:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6640", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 762, 
+      "text": "On agreeing to the Edwards amendment (A016) Failed by recorded vote: 165 - 258 (Roll no. 762).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt817-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add a new section on findings relating to health benefits by highlighting data which demonstrates that if rules repealed by the bill were to remain in effect, they would yield annual public health benefits of between $6.7 billion and $18 billion, at a cost of under $1 billion.", 
+  "house_number": 16, 
+  "introduced_at": "2011-10-05", 
+  "number": 817, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to add a new section on findings relating to health benifits.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Edwards, Donna F.", 
+    "state": "MD", 
+    "thomas_id": "01894", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T11:04:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

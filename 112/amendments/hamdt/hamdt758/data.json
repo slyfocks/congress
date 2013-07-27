@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-27T17:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5631-5632, H5634-5635", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5631", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A035) offered by Ms. Richardson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-27T18:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 662, 
+      "text": "On agreeing to the Richardson amendment (A035) Failed by recorded vote: 193 - 232 (Roll no. 662).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt758-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the EPA Buildings and Facilities account by $10 million and increase funding for the Diesel Emissions Reduction Act (DERA) by $5 million.", 
+  "house_number": 35, 
+  "introduced_at": "2011-07-27", 
+  "number": 758, 
+  "purpose": "An amendment numbered 23 printed in the Congressional Record to reduce the Buildings and Facilities account by $10 million and increase the State and Tribal Assistance Grants account by $10 million.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Richardson, Laura", 
+    "state": "CA", 
+    "thomas_id": "01883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-27T18:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

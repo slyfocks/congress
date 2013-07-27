@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T20:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6694-6698, H6708", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6694", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Sanford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T22:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 425, 
+      "text": "On agreeing to the Sanford amendment (A018) Agreed to by recorded vote: 232 - 186 (Roll no. 425).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1029-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits funds in the bill from being used to enforce regulations with respect to travel to Cuba.", 
+  "house_number": 18, 
+  "introduced_at": "2000-07-20", 
+  "number": 1029, 
+  "purpose": "An amendment numbered 14 printed in the Congressional Record to add provisions to the bill which prohibit the use of funds from being used to enforce part 515 of the Code of Federal Regulations (the Cuban Assets Control Regulations) with respect to any travel or travel related transaction.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Marshall (Mark)", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-20T22:16:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

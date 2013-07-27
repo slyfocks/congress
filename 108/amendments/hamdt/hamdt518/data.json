@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-22T14:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2330-2331", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2330", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-22T15:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Schiff amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt518-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2844-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2844
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to extend the amount of time for an action to be filed in court with regard to the Speaker's announcement of a vacancy; and modify the language concerning appeals of a court decision.", 
+  "house_number": 4, 
+  "introduced_at": "2004-04-22", 
+  "number": 518, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 108-466 to provide that any lawsuit challenging the Speaker's announcement that more than 100 vacancies exist must be filed with 7 days of the announcement. The amendment also permits any citizen of the district and any political party in the state to intervene in support of or opposition to the challenge.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-04-22T15:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

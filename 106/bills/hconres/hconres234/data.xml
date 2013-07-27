@@ -1,0 +1,43 @@
+<bill session="106" type="hc" number="234" updated="2013-07-14T18:55:23-04:00">
+  <state datetime="1999-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="1999-11-19"/>
+  </status>
+  <introduced datetime="1999-11-18"/>
+  <titles>
+    <title as="introduced" type="official">Tabling the bill (H.R. 2466) making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 2000, and for other purposes.</title>
+  </titles>
+  <sponsor/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1999-11-18T17:35:00-05:00">
+      <text>Pursuant to the provisions of H. Res. 386, H. Con. Res. 234 is considered passed House.</text>
+    </action>
+    <action datetime="1999-11-18">
+      <text>Received in the Senate.</text>
+    </action>
+    <action state="REFERRED" datetime="1999-11-19">
+      <text>Referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="2000-12-21">
+      <text>Enrolled (ENR) version of H.Con.Res. 234 published.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="106" type="hr" number="386"/>
+    <bill relation="unknown" session="106" type="hr" number="386"/>
+    <bill relation="unknown" session="106" type="h" number="2466"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Economics and public finance"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/1999--Introduced.
+Provides for the tabling of the enrolled copy of H.R. 2466 (Department of the Interior and related agencies appropriations).</summary>
+</bill>

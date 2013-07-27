@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25T21:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 5/26/2006 H3337-3338", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 5/26/2005 H3337", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25T22:06:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 222, 
+      "text": "On agreeing to the Tancredo amendment (A027) Failed by recorded vote: 134 - 284, 1 Present (Roll no. 222).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt962-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prevent the extension of the Temporary Protective Status Program for Guatemala, Honduras, and Nicaragua.", 
+  "house_number": 27, 
+  "introduced_at": "2006-05-25", 
+  "number": 962, 
+  "purpose": "An amendment to add a new section to prohibit funds in the bill to be used to administer any extension fo designation made under the Immigration and Nationality Act before the date of the enactment of this Act with respect to Guatemala, Honduras, or Nicaragua.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-25T22:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

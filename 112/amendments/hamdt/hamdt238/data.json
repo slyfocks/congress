@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T20:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2210", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2210", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-31T20:44:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Schiff amendment (A029) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt238-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment expresses the sense of Congress that the operator of Los Angeles International Airport (LAX) should consult with representatives of the community surrounding LAX regarding airport operations and expansion plans.", 
+  "house_number": 29, 
+  "introduced_at": "2011-03-31", 
+  "number": 238, 
+  "purpose": "An amendment numbered 31 printed in House Report 112-46 to include sense of Congress language that the operator of Los Angeles International Airport (LAX) should consult with representatives of the community surrounding LAX regarding airport operations and expansion plans.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-31T20:44:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

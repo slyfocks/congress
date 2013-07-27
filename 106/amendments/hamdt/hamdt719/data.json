@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-17T17:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3278", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3278", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T11:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3320-3321", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3320", 
+          "type": " text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 198, 
+      "text": "On agreeing to the Stearns amendment (A006) Agreed to by recorded vote: 426 - 0 (Roll no. 198).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt719-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires the Secretary of Defense conduct a study comparing the coverage and reimbursement for physical, speech, and occupational therapies for covered beneficiaries under the TRICARE program to coverage and reimbursement for such therapies under Medicare and the Federal Employee Health Benefits Program.", 
+  "house_number": 6, 
+  "introduced_at": "2000-05-17", 
+  "number": 719, 
+  "purpose": "An amendment numbered 13 printed in House Report 106-621 to make coverage and reimbursement for physical and occupational therapy by TRICARE comparable to other entities providing the same benefits.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-18T11:40:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

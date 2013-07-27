@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-25", 
+      "references": [
+        {
+          "reference": "CR S11804-11805", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11804-11805", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2226 proposed by Senator Salazar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2226 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2226-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-25", 
+  "number": 2226, 
+  "proposed_at": "2005-10-25", 
+  "purpose": "To provide that certain local educational agencies shall be eligible to receive a fiscal year 2005 payment under section 8002 or 8003 of the Elementary and Secondary Education Act of 1965.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Salazar, Ken", 
+    "state": "CO", 
+    "thomas_id": "01762", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-25", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

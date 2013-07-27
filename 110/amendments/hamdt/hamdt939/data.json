@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-02-07T14:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H758-760, H779-780", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H758", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Davis (IL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-02-07T17:34:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 38, 
+      "text": "On agreeing to the Davis (IL) amendment (A007) Failed by recorded vote: 179 - 236 (Roll no. 38).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt939-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4137-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 4137
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to restore protections to private student loan borrowers similar to those afforded other unsecured debtors by allowing the discharge of private student loans via bankruptcy.", 
+  "house_number": 7, 
+  "introduced_at": "2008-02-07", 
+  "number": 939, 
+  "purpose": "An amendment numbered 7 printed in House Report 110-523 to restore protections to private student loan borrowers similar to those afforded other unsecured debtors by allowing the discharge of private student loans via bankruptcy.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Davis, Danny K.", 
+    "state": "IL", 
+    "thomas_id": "01477", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-02-07T17:34:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

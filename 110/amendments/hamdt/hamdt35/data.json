@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-09T12:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2368-2370, H2373-2374", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2369", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Baker.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-09T13:12:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 133, 
+      "text": "On agreeing to the Baker amendment (A002) Failed by recorded vote: 140 - 280 (Roll no. 133).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt35-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr720-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 720
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to to strike the Davis-Bacon provision of the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2007-03-09", 
+  "number": 35, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 110-36 to strike the Davis-Bacon section of the bill.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Baker, Richard H.", 
+    "state": "LA", 
+    "thomas_id": "00047", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-09T13:12:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

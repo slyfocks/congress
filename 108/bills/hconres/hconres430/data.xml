@@ -1,0 +1,76 @@
+<bill session="108" type="hc" number="430" updated="2013-07-14T19:03:10-04:00">
+  <state datetime="2004-11-17T18:55:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-11-17T18:55:00-05:00"/>
+  </status>
+  <introduced datetime="2004-05-18"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the importance of early diagnosis, proper treatment, and enhanced public awareness of Tourette Syndrome and supporting the goals and ideals of National Tourette Syndrome Awareness Month.</title>
+  </titles>
+  <sponsor id="400439"/>
+  <cosponsors>
+    <cosponsor id="400118" joined="2004-07-14"/>
+    <cosponsor id="400122" joined="2004-06-14"/>
+    <cosponsor id="400198" joined="2004-10-05"/>
+    <cosponsor id="400215" joined="2004-09-15"/>
+    <cosponsor id="400266" joined="2004-07-14"/>
+    <cosponsor id="400293" joined="2004-06-21"/>
+    <cosponsor id="400306" joined="2004-06-14"/>
+    <cosponsor id="400312" joined="2004-07-14"/>
+    <cosponsor id="400321" joined="2004-06-14"/>
+    <cosponsor id="400334" joined="2004-06-21"/>
+    <cosponsor id="400367" joined="2004-06-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-05-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2004-05-21">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2004-11-17T18:47:00-05:00">
+      <text>Mr. Bilirakis moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-11-17T18:48:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9870-9872" label="consideration"/>
+    </action>
+    <action datetime="2004-11-17T18:48:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 430.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-11-17T18:55:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H9870" label="text"/>
+    </vote>
+    <action datetime="2004-11-17T18:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-11-18">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2004-12-08">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="sc" number="113"/>
+    <bill relation="unknown" session="108" type="sc" number="113"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Nervous system diseases"/>
+    <term name="Special months"/>
+    <term name="Syndromes"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2004--Passed House without amendment.
+Recognizes the impact that Tourette Syndrome can have on people living with the disorder, the importance of an early diagnosis and proper treatment of the disorder, and the need for enhanced public awareness of the disorder. Expresses support for the goals and ideals of National Tourette Syndrome Awareness Month (May 15 through June 15).</summary>
+</bill>

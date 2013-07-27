@@ -1,0 +1,127 @@
+<bill session="107" type="h" number="3764" updated="2013-07-14T18:58:17-04:00">
+  <state datetime="2002-06-26T17:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-06-26T17:04:00-04:00"/>
+  </status>
+  <introduced datetime="2002-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Securities and Exchange Commission Authorization Act of 2002</title>
+    <title as="reported to house" type="short">Securities and Exchange Commission Authorization Act of 2002</title>
+    <title as="passed house" type="short">Securities and Exchange Commission Authorization Act of 2002</title>
+    <title as="introduced" type="official">To authorize appropriations for the Securities and Exchange Commission.</title>
+  </titles>
+  <sponsor id="400307"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2002-02-14"/>
+    <cosponsor id="400012" joined="2002-02-14"/>
+    <cosponsor id="400023" joined="2002-02-14"/>
+    <cosponsor id="400036" joined="2002-02-14"/>
+    <cosponsor id="400060" joined="2002-02-14"/>
+    <cosponsor id="400070" joined="2002-02-14"/>
+    <cosponsor id="400083" joined="2002-02-14"/>
+    <cosponsor id="400132" joined="2002-02-14"/>
+    <cosponsor id="400139" joined="2002-02-14"/>
+    <cosponsor id="400150" joined="2002-02-14"/>
+    <cosponsor id="400159" joined="2002-02-14"/>
+    <cosponsor id="400168" joined="2002-02-14"/>
+    <cosponsor id="400209" joined="2002-02-14"/>
+    <cosponsor id="400213" joined="2002-02-14"/>
+    <cosponsor id="400235" joined="2002-02-14"/>
+    <cosponsor id="400508" joined="2002-04-17"/>
+    <cosponsor id="400252" joined="2002-02-14"/>
+    <cosponsor id="400293" joined="2002-02-14"/>
+    <cosponsor id="400304" joined="2002-02-14"/>
+    <cosponsor id="400342" joined="2002-02-14"/>
+    <cosponsor id="400533" joined="2002-02-14"/>
+    <cosponsor id="400368" joined="2002-02-14"/>
+    <cosponsor id="400370" joined="2002-03-12"/>
+    <cosponsor id="400406" joined="2002-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-02-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2002-03-04">
+      <text>Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2002-04-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2002-04-11">
+      <text>Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises Discharged.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-04-11">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2002-04-22T15:20:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 107-415.</text>
+    </action>
+    <calendar datetime="2002-04-22T15:20:00-04:00" calendar="Union" number="248">
+      <text>Placed on the Union Calendar, Calendar No. 248.</text>
+    </calendar>
+    <action datetime="2002-04-24T11:06:00-04:00">
+      <text>PERMISSION TO FILE REPORT - Mr. Oxley asked unanimous consent that the Committee on Financial Services be permitted to file a supplemental report on the bill H.R. 3764. Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-04-24T13:44:00-04:00">
+      <text>Supplemental report filed by the Committee on Financial Services, H. Rept. 107-415, Part II.</text>
+    </action>
+    <action datetime="2002-06-25T16:12:00-04:00">
+      <text>Mr. Oxley moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2002-06-25T16:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3905-3909" label="consideration"/>
+    </action>
+    <action datetime="2002-06-25T16:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3764.</text>
+    </action>
+    <action datetime="2002-06-25T16:43:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-06-26T16:57:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4020-4021" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-06-26T17:04:00-04:00" how="roll" result="pass" roll="265" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 4 (Roll no. 265).</text>
+      <reference ref="CR 6/25/2002 H3905" label="text"/>
+    </vote>
+    <action datetime="2002-06-26T17:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-06-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSBA16" subcommittee="Capital Markets, Insurance and Government Sponsored Enterprises" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Authorization"/>
+    <term name="Commerce"/>
+    <term name="Corporate collapse"/>
+    <term name="Corporate finance"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal employees"/>
+    <term name="Financial statements"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Position classification"/>
+    <term name="Salaries"/>
+    <term name="Securities and Exchange Commission"/>
+    <term name="Securities regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2002--Passed House amended.
+Securities and Exchange Commission Authorization Act of 2002 - Authorizes appropriations for the Securities and Exchange Commission (SEC) for FY 2003.Earmarks specified amounts for the Division of Corporate Finance, the Division of Enforcement, and to implement pay comparability requirements of the Investor and Capital Markets Fee Relief Act.Declares the sense of the Congress that the SEC should conduct a thorough annual review of the annual financial statements contained in the most recent periodic disclosures filed with it by the largest 500 reporting issuers, as determined by market capitalization and by other factors as it shall determine.</summary>
+</bill>

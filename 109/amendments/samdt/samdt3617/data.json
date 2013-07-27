@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-26", 
+      "references": [
+        {
+          "reference": "CR S3544", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3544", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3617 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27", 
+      "references": [
+        {
+          "reference": "CR S3639", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "references": [
+        {
+          "reference": "CR S3771", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-02", 
+      "references": [
+        {
+          "reference": "CR S3858, S3860-3863", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-02", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S3937", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 104, 
+      "text": "Amendment SA 3617 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 104.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3617-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3617, 
+  "proposed_at": "2006-04-26", 
+  "purpose": "To strike a provision providing $6 million to sugarcane growers in Hawaii, which was not included in the Administration's emergency supplemental request.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-02", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

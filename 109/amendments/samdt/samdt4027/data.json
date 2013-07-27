@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-16", 
+      "references": [
+        {
+          "reference": "CR S4605-4610", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4605-4606", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4027 proposed by Senator Kyl.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-17", 
+      "references": [
+        {
+          "reference": "CR S4648-4651", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 125, 
+      "text": "Amendment SA 4027 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 125.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4027-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-16", 
+  "number": 4027, 
+  "proposed_at": "2006-05-16", 
+  "purpose": "To make certain aliens ineligible for adjustment to lawful permanent resident status or Deferred Mandatory Departure status.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-17", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

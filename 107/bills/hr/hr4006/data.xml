@@ -1,0 +1,131 @@
+<bill session="107" type="h" number="4006" updated="2013-07-14T18:58:22-04:00">
+  <state datetime="2002-05-07T14:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-05-07T14:54:00-04:00"/>
+  </status>
+  <introduced datetime="2002-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 100 Federal Plaza in Central Islip, New York, as the "Alfonse M. D'Amato United States Courthouse".</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2002-03-19"/>
+    <cosponsor id="400003" joined="2002-03-19"/>
+    <cosponsor id="400035" joined="2002-03-19"/>
+    <cosponsor id="400047" joined="2002-03-19"/>
+    <cosponsor id="400063" joined="2002-03-19"/>
+    <cosponsor id="400543" joined="2002-03-19"/>
+    <cosponsor id="400087" joined="2002-03-19"/>
+    <cosponsor id="400122" joined="2002-03-19"/>
+    <cosponsor id="400132" joined="2002-03-19"/>
+    <cosponsor id="400139" joined="2002-03-19"/>
+    <cosponsor id="400536" joined="2002-03-19"/>
+    <cosponsor id="400535" joined="2002-03-19"/>
+    <cosponsor id="400178" joined="2002-03-19"/>
+    <cosponsor id="400188" joined="2002-03-19"/>
+    <cosponsor id="400195" joined="2002-03-19"/>
+    <cosponsor id="400213" joined="2002-03-19"/>
+    <cosponsor id="400537" joined="2002-03-19"/>
+    <cosponsor id="400228" joined="2002-03-19"/>
+    <cosponsor id="400236" joined="2002-03-19"/>
+    <cosponsor id="400246" joined="2002-03-19"/>
+    <cosponsor id="400249" joined="2002-03-19"/>
+    <cosponsor id="400251" joined="2002-03-19"/>
+    <cosponsor id="400257" joined="2002-03-19"/>
+    <cosponsor id="400264" joined="2002-03-19"/>
+    <cosponsor id="400268" joined="2002-03-19"/>
+    <cosponsor id="400271" joined="2002-03-19"/>
+    <cosponsor id="400291" joined="2002-03-19"/>
+    <cosponsor id="400302" joined="2002-03-19"/>
+    <cosponsor id="400306" joined="2002-03-19"/>
+    <cosponsor id="400329" joined="2002-03-19"/>
+    <cosponsor id="400333" joined="2002-03-19"/>
+    <cosponsor id="400338" joined="2002-03-19"/>
+    <cosponsor id="400339" joined="2002-03-19"/>
+    <cosponsor id="400366" joined="2002-03-19"/>
+    <cosponsor id="400370" joined="2002-03-19"/>
+    <cosponsor id="400378" joined="2002-03-19"/>
+    <cosponsor id="400393" joined="2002-03-19"/>
+    <cosponsor id="400409" joined="2002-03-19"/>
+    <cosponsor id="400416" joined="2002-03-19"/>
+    <cosponsor id="400420" joined="2002-03-19"/>
+    <cosponsor id="400426" joined="2002-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-19">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2002-03-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-04-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2002-04-24">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-04-24">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-05-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2002-05-02">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2002-05-02T13:26:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-430.</text>
+    </action>
+    <calendar datetime="2002-05-02T13:27:00-04:00" calendar="House" number="151">
+      <text>Placed on the House Calendar, Calendar No. 151.</text>
+    </calendar>
+    <action datetime="2002-05-07T14:33:00-04:00">
+      <text>Mr. Boozman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-05-07T14:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2117-2120" label="consideration"/>
+    </action>
+    <action datetime="2002-05-07T14:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4006.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-05-07T14:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2117" label="text"/>
+    </vote>
+    <action datetime="2002-05-07T14:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-05-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="s" number="2495"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Law"/>
+    <term name="Members of Congress (Senate)"/>
+    <term name="Names"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>5/2/2002--Reported to House without amendment.
+Designates the U.S. courthouse located at 100 Federal Plaza in Central Islip, New York, as the Alfonse M. D'Amato United States Courthouse.</summary>
+</bill>

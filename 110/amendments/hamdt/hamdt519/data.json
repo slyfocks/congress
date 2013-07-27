@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T18:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7944-7945, H7958", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7944", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T21:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 646, 
+      "text": "On agreeing to the Sessions amendment (A010) Failed by recorded vote: 173 - 251 (Roll no. 646).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt519-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike section 111 which prohibits funds from being used to carry out public-private competitions.", 
+  "house_number": 10, 
+  "introduced_at": "2007-07-17", 
+  "number": 519, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to prohibit the use of appropriated funds to be used to carry out a public-private competition or direct conversion under OMB Circular A-76 or any successor.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-17T21:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

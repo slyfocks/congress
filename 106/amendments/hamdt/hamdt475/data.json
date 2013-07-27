@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-22T12:54:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mr. Dooley to the Stenholm amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-22T13:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 431, 
+      "text": "On agreeing to the Dooley amendment (A003) Failed by recorded vote: 155 - 270 (Roll no. 431).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt475-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt474-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 474
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1402-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1402
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment to the Stenholm amendment (A002) sought to extend the forward pricing contract pilot program to include fluid milk.", 
+  "house_number": 3, 
+  "introduced_at": "1999-09-22", 
+  "number": 475, 
+  "purpose": "Amendment no. 3 printed in part B of H.Rept. 106-324 to extend the forward pricing contract pilot program to all classes of milk including fluid milk.", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Dooley, Calvin M.", 
+    "state": "CA", 
+    "thomas_id": "00306", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-22T13:40:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

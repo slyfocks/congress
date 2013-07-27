@@ -1,0 +1,95 @@
+<bill session="106" type="hc" number="319" updated="2013-07-14T18:55:24-04:00">
+  <state datetime="2000-09-15">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2000-09-15"/>
+  </status>
+  <introduced datetime="2000-05-04"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the Republic of Latvia on the 10th anniversary of the reestablishment of its independence from the rule of the former Soviet Union.</title>
+  </titles>
+  <sponsor id="400373"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="2000-06-29"/>
+    <cosponsor id="400057" joined="2000-05-04"/>
+    <cosponsor id="400083" joined="2000-05-04"/>
+    <cosponsor id="400225" joined="2000-06-28"/>
+    <cosponsor id="400227" joined="2000-05-04"/>
+    <cosponsor id="400231" joined="2000-06-09"/>
+    <cosponsor id="400343" joined="2000-05-04"/>
+    <cosponsor id="400348" joined="2000-05-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-05-04">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2000-06-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-06-29">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="2000-07-17T16:09:00-04:00">
+      <text>Mr. Bereuter moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-07-17T16:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6081-6083" label="consideration"/>
+    </action>
+    <action datetime="2000-07-17T16:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 319.</text>
+    </action>
+    <action datetime="2000-07-17T16:26:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-07-17T19:27:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6087" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-17T19:34:00-04:00" how="roll" result="pass" roll="402" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 402).</text>
+      <reference ref="CR H6081" label="text"/>
+    </vote>
+    <action datetime="2000-07-17T19:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2000-07-18" calendar="Senate Legislative" under="General Orders" number="687">
+      <text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 687.</text>
+    </calendar>
+    <vote state="PASSED:CONCURRENTRES" datetime="2000-09-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S8639" label="consideration"/>
+    </vote>
+    <action datetime="2000-09-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="sc" number="110"/>
+    <bill relation="unknown" session="106" type="sc" number="110"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Democracy"/>
+    <term name="Europe"/>
+    <term name="Free enterprise"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Latvia"/>
+    <term name="Regionalism (International organization)"/>
+    <term name="Sovereignty"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/2000--Introduced.
+Congratulates Latvia on the tenth anniversary of the reestablishment of its independence and the role it played in the disintegration of the former Soviet Union. Commends Latvia for its success in implementing political and economic reforms that may speed its integration into European and Western institutions.</summary>
+</bill>

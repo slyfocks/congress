@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T15:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5519-5520, H5531-5532", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T17:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 641, 
+      "text": "On agreeing to the Rush amendment (A002) Failed by recorded vote: 164 - 261, 1 Present (Roll no. 641).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt721-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1938-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1938
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike paragraph 15 of the findings section which says that analysis using EPA models shows that the Keystone XL pipeline will result in no significant change in total United States or global greenhouse gas emissions.", 
+  "house_number": 2, 
+  "introduced_at": "2011-07-26", 
+  "number": 721, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-181 to strike paragraph 15 of the findings section.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T17:37:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

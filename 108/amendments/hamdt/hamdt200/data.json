@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-08T12:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6298-6299", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6298", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Blumenauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-08T12:26:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Blumenauer amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt200-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2658-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2003-07-08", 
+  "number": 200, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2003-07-08", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-06-10T12:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4355-4356, H4361-4362", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4355", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Turner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-06-10T13:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 350, 
+      "text": "On agreeing to the Turner amendment (A009) Failed by recorded vote: 121 - 301 (Roll no. 350).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt688-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5072-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5072
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to repeal the emergency authority that allows the FHA to insure loans up to $720,000 in certain high cost areas. The amendment also sought to create a maximum loan limit of $500,000 for a single family unit and a percentage of the same ratio for 2-, 3- or 4-family residences.", 
+  "house_number": 9, 
+  "introduced_at": "2010-06-10", 
+  "number": 688, 
+  "purpose": "An amendment numbered 9 printed in House Report 111-503 to repeal the emergency authority that allows the FHA to insure loans up to $720,000 in certain high cost areas. The amendment would create a maximum loan limit of $500,000 for a single family unit and a percentage of the same ratio for 2-, 3- or 4-family residences.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Turner, Michael R.", 
+    "state": "OH", 
+    "thomas_id": "01741", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-06-10T13:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

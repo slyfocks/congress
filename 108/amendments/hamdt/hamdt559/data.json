@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-16T21:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4261-4263, H4266-4267", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4261", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-16T22:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 255, 
+      "text": "On agreeing to the Flake amendment (A012) Failed by recorded vote: 94 - 332 (Roll no. 255).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt559-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4568-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4568
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for the payments in lieu of taxes (PILT) program by $15 million.", 
+  "house_number": 12, 
+  "introduced_at": "2004-06-16", 
+  "number": 559, 
+  "purpose": "An amendment to increase (by transfer) the funding for the payments in lieu of taxes (PILT) program by $15 million.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-16T22:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

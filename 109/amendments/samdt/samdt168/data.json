@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15", 
+      "references": [
+        {
+          "reference": "CR S2716-2720", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2716", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 168 proposed by Senator Cantwell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2759, S2768-2787, S2795", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 52, 
+      "text": "Amendment SA 168 not agreed to in Senate by Yea-Nay. 49 - 51. Record Vote Number: 52.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt168-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 168, 
+  "proposed_at": "2005-03-15", 
+  "purpose": "To strike section 201(a)(4) relative to the Arctic National Wildlife Refuge.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-16", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

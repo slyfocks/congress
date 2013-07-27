@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T02:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6472-6473, H6496-6497", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6472", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A048) offered by Mr. Rogers (KY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T11:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 488, 
+      "text": "On agreeing to the Rogers (KY) amendment (A048) Failed by recorded vote: 145 - 277 (Roll no. 488).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt297-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit funds in the bill from being used to implement section 536 relating to Davis-Bacon provisions.", 
+  "house_number": 48, 
+  "introduced_at": "2007-06-15", 
+  "number": 297, 
+  "purpose": "An amendment to prohibit use of funds in the bill to implement section 536 relating to Davis-Bacon provisions.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Rogers, Harold", 
+    "state": "KY", 
+    "thomas_id": "00977", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T11:14:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

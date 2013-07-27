@@ -1,0 +1,83 @@
+<bill session="108" type="hr" number="669" updated="2013-07-14T19:00:17-04:00">
+  <state datetime="2004-06-14T19:02:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2004-06-14T19:02:00-04:00"/>
+  </status>
+  <introduced datetime="2004-06-09"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress with respect to the need to provide prostate cancer patients with meaningful access to information on treatment options, and for other purposes.</title>
+  </titles>
+  <sponsor id="400099"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2004-06-14"/>
+    <cosponsor id="400039" joined="2004-06-14"/>
+    <cosponsor id="400053" joined="2004-06-14"/>
+    <cosponsor id="400061" joined="2004-06-14"/>
+    <cosponsor id="400081" joined="2004-06-14"/>
+    <cosponsor id="400091" joined="2004-06-14"/>
+    <cosponsor id="400115" joined="2004-06-14"/>
+    <cosponsor id="400138" joined="2004-06-14"/>
+    <cosponsor id="400221" joined="2004-06-14"/>
+    <cosponsor id="400260" joined="2004-06-14"/>
+    <cosponsor id="400296" joined="2004-06-14"/>
+    <cosponsor id="400324" joined="2004-06-14"/>
+    <cosponsor id="400409" joined="2004-06-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-06-09">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2004-06-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2004-06-14T15:30:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-06-14T15:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3896-3897" label="consideration"/>
+    </action>
+    <action datetime="2004-06-14T15:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 669.</text>
+    </action>
+    <action datetime="2004-06-14T15:38:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2004-06-14T18:54:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3925-3926" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2004-06-14T19:02:00-04:00" how="roll" result="pass" roll="233" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 377 - 3 (Roll no. 233).</text>
+      <reference ref="CR H3896" label="text"/>
+    </vote>
+    <action datetime="2004-06-14T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="hc" number="405"/>
+    <bill relation="unknown" session="108" type="sr" number="389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Chemotherapy"/>
+    <term name="Communication in medicine"/>
+    <term name="Government operations and politics"/>
+    <term name="Health education"/>
+    <term name="Hormones"/>
+    <term name="Medical screening"/>
+    <term name="Medical tests"/>
+    <term name="Prostate cancer"/>
+    <term name="Radiotherapy"/>
+    <term name="Surgery"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/2004--Passed House without amendment.
+Commends national and community organizations and health care providers for supplying information concerning the importance of screening for prostate cancer and the treatment options. Declares that the Federal Government and the States should ensure that health care providers supply patients with appropriate information and tools necessary to receive readily understandable information about all medically efficacious treatments for prostate cancer.</summary>
+</bill>

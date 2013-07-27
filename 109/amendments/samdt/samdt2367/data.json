@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-02", 
+      "references": [
+        {
+          "reference": "CR S12189-12193", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12189", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2367 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12310-12311", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 295, 
+      "text": "Amendment SA 2367 not agreed to in Senate by Yea-Nay Vote. 14 - 85. Record Vote Number: 295.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2367-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-02", 
+  "number": 2367, 
+  "proposed_at": "2005-11-02", 
+  "purpose": "To replace title VIII of the bill with an amendment to section 214(c) of the Immigration and Nationality Act to impose a fee on employers who hire certain non-immigrants.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

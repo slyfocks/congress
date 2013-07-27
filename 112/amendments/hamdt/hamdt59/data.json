@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-16T22:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1020-1023", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1020", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A049) offered by Mrs. McMorris Rodgers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T10:54:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1084-1085", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 73, 
+      "text": "On agreeing to the McMorris Rodgers amendment (A049) Agreed to by recorded vote: 249 - 179 (Roll no. 73).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt59-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases funding for the part B program of IDEA by $557 million which restores funding to the FY 2010 levels.", 
+  "house_number": 49, 
+  "introduced_at": "2011-02-16", 
+  "number": 59, 
+  "purpose": "An amendment numbered 276 printed in the Congressional Record to increase IDEA state grants to FY 2010 levels and reduce school improvement grants and teacher quality grants by necessary amounts to fully offset outlays.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McMorris Rodgers, Cathy", 
+    "state": "WA", 
+    "thomas_id": "01809", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17T10:54:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

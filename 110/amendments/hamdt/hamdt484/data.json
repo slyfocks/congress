@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-28T14:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7375-7380, H7404-7405", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7375", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Pence.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-28T18:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 599, 
+      "text": "On agreeing to the Pence amendment (A031) Agreed to by recorded vote: 309 - 115, 1 Present (Roll no. 599).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt484-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 31, 
+  "introduced_at": "2007-06-28", 
+  "number": 484, 
+  "purpose": "An amendment to prohibit the use of funds to be used by the Federal Communications Commission to implement the Fairness Doctrine, as repealed in General Fairness Doctrine Obligations of Broadcast Licensees or any other regulations having the same substances.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pence, Mike", 
+    "state": "IN", 
+    "thomas_id": "01649", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-28T18:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

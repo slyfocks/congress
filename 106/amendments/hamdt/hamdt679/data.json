@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-10T12:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2803-2815", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H2817-2818", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Delahunt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-10T15:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2803", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 156, 
+      "text": "On agreeing to the Delahunt amendment (A002) Failed by recorded vote: 208 - 219 (Roll no. 156).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt679-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3709-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3709
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide for a 2-year rather than 5-year extension of the moratorium on state and local taxes on Internet commerce.", 
+  "house_number": 2, 
+  "introduced_at": "2000-05-10", 
+  "number": 679, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to provide a 2-year extension of the moratorium on state and local taxes on the Internet. The effect would continue the moratorium until October 21, 2003.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Delahunt, William D.", 
+    "state": "MA", 
+    "thomas_id": "01480", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-10T15:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

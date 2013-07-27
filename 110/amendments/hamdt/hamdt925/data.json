@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-01-17T12:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H321-322", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H321", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Mahoney (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-01-17T12:23:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Mahoney (FL) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt925-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3524-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3524
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment restores the set-aside for the Main Street grant program.", 
+  "house_number": 3, 
+  "introduced_at": "2008-01-17", 
+  "number": 925, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-509 to restore the set-aside for the Main Street grant program.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Mahoney, Tim", 
+    "state": "FL", 
+    "thomas_id": "01841", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-01-17T12:23:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8676-8677, S8678", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8676", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4784 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 4784.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "references": [], 
+      "text": "Defense of germaneness raised in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "references": [], 
+      "text": "Point of order withdrawn in Senate with respect to amendment SA 4784.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "references": [], 
+      "text": "Defense of germaneness withdrawn in Senate by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S8678", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4784 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4784-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4784, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To require the posting of certain reports of the Department of Defense on the Internet website of the Department of Defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

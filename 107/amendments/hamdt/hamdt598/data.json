@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-26T17:34:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5850-5853, H5869-5870", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H5850", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-26T20:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 364, 
+      "text": "On agreeing to the Davis, Tom amendment (A025) Failed by recorded vote: 195 - 233 (Roll no. 364).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt598-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5005-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5005
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to define the term \"covered Federal agency,\" for purposes of exemption from disclosure under the Freedom of Information Act, to mean the Department of Homeland Security and agencies with which the Department shares critical infrastructure information.", 
+  "house_number": 25, 
+  "introduced_at": "2002-07-26", 
+  "number": 598, 
+  "purpose": "An amendment numbered 25 printed in House Report 107-615 to expand the existing FOIA exemption in the homeland security legislation to other federal agencies as the Secretary of Homeland Security determines as appropriate.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-26T20:14:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

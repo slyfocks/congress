@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-01", 
+      "references": [
+        {
+          "reference": "CR S826-829", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S827", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1 proposed by Senator Durbin for Senator Leahy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-01", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s167-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 167
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-02-01", 
+  "number": 1, 
+  "proposed_at": "2005-02-01", 
+  "purpose": "Of a technical nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-02-01", 
+  "updated_at": "2013-07-17T08:16:07-04:00"
+}

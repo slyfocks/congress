@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T22:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5455-5458", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5455", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Brady (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-22T13:42:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5564-5565", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 389, 
+      "text": "On agreeing to the Brady (TX) amendment (A016) Failed by recorded vote: 163 - 260 (Roll no. 389).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt218-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to modify the allocation of funds from the affordable housing fund in order to provide 10 percent of such funds in the first year to Texas.", 
+  "house_number": 16, 
+  "introduced_at": "2007-05-17", 
+  "number": 218, 
+  "purpose": "An amendment numbered 34 printed in the Congressional Record to redistribute the affordable housing grants for use in disaster areas from a ratio of 75% for Louisiana and 25% for Mississippi to create 10% for Texas by taking 5% each from the allotment for Louisiana and Mississippi.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-22T13:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

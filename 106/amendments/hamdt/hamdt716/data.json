@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-17T15:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3268-3272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3268", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Dreier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T11:14:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3317-3318", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3317", 
+          "type": " text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 195, 
+      "text": "On agreeing to the Dreier amendment (A003) Agreed to by recorded vote: 415 - 8 (Roll no. 195).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt716-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment shortens the Congressional waiting period to review proposed adjustments of high performance computers for export purposes from 180 days to 60 days.", 
+  "house_number": 3, 
+  "introduced_at": "2000-05-17", 
+  "number": 716, 
+  "purpose": "An amendment numbered 3 printed in House Report 106-621 to shorten the waiting period from 180 days to 60 days for Congress to review a proposed adjustment in the performance level that defines high-speed computers and excludes any days in which the House or Senate is in sine die adjournment.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Dreier, David", 
+    "state": "CA", 
+    "thomas_id": "00317", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-18T11:14:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

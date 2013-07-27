@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-08-01T19:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5146-5148", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5146", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T19:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt293-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment earmarks $5 million annually for bioenergy training and education targeted to minority and socially disadvantaged farmers and ranchers.", 
+  "house_number": 8, 
+  "introduced_at": "2001-08-01", 
+  "number": 293, 
+  "purpose": "Part B amendment numbered 8 printed in House Report 107-178 to earmark $5 million annually for bioenergy training and education targeted to minority and socially disadvantaged farmers and ranchers.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-08-01T19:50:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

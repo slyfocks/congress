@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2795-2801, S2802-2806", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2795-2796", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 186 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 53, 
+      "text": "Amendment SA 186 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 53.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt186-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 186, 
+  "proposed_at": "2005-03-16", 
+  "purpose": "To fully reinstate the pay-as-you-go requirement.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-16", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-14", 
+      "references": [
+        {
+          "reference": "CR S9604-9605", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9604-9605", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5007 proposed by Senator Stevens for Senator DeMint to Amendment SA 4970.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5007 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5007-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt4970-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 4970
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-14", 
+  "number": 5007, 
+  "proposed_at": "2006-09-14", 
+  "purpose": "To prohibit the issuance of transportation security cards to individuals who have been convicted of certain crimes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeMint, Jim", 
+    "state": "SC", 
+    "thomas_id": "01605", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

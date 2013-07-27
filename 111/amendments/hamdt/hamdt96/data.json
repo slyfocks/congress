@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-30T12:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5023-5025", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5023-5024", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Jones.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30T12:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jones amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt96-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr627-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires the Federal Reserve Board, in consultation with the Federal Trade Commission and other agencies, to establish regulations that would allow estate administrators to resolve outstanding credit balances in a timely manner.", 
+  "house_number": 7, 
+  "introduced_at": "2009-04-30", 
+  "number": 96, 
+  "purpose": "An amendment numbered 7 printed in House Report 111-92 to require the Federal Reserve Board, in consultation with the Federal Trade Commission and other agencies, to establish regulations that would allow estate administrators to resolve outstanding credit balances in a timely manner.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-04-30T12:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

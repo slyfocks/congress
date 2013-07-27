@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-19T13:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5031-5034", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5031", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A043) offered by Mr. Brooks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-19T13:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brooks amendment (A043) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1420-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 43, 
+  "introduced_at": "2012-07-19", 
+  "number": 1420, 
+  "purpose": "An amendment to prohibit the use of funds to be used by the Department of Defense or a component thereof to provide the government of the Russian Federation with any information about the missile defense systems of the United States that is classified by the Department or component thereof.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Mo", 
+    "state": "AL", 
+    "thomas_id": "01987", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-07-19T13:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

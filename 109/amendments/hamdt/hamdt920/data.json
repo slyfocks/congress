@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24T17:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3185-3186, H3195-3196", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3185", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24T19:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 201, 
+      "text": "On agreeing to the Markey amendment (A009) Failed by recorded vote: 161 - 255 (Roll no. 201).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt920-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5427-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide that none of the funds in the bill be used to carry out subtitle J of title IX of the Energy Policy Act of 2005, concerning ultra-deepwater drilling.", 
+  "house_number": 9, 
+  "introduced_at": "2006-05-24", 
+  "number": 920, 
+  "purpose": "An amendment to prohibit any of the funds made available by the Act from being used to carry out subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.).", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24T19:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

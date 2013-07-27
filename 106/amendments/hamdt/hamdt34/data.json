@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-24T12:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1626-1631", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H1626", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Stenholm.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24T13:20:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 67, 
+      "text": "On agreeing to the Stenholm amendment (A002) Failed by recorded vote: 77 - 345, 2 Present (Roll no. 67).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt34-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1141-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1141
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to strike language that requires the entire additional amount for Farm Service Agency salaries and expenses to be designated by Congress as an emergency requirement.", 
+  "house_number": 2, 
+  "introduced_at": "1999-03-24", 
+  "number": 34, 
+  "purpose": "An amendment to strike language that requires the entire additional amount for Farm Service Agency salaries and expenses to be designated by the Congress as an emergency requirement.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Stenholm, Charles W.", 
+    "state": "TX", 
+    "thomas_id": "01110", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-03-24T13:20:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

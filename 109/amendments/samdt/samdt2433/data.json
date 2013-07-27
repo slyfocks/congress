@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-07", 
+      "references": [
+        {
+          "reference": "CR S12423-12426", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12423", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2433 proposed by Senator Chambliss.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "references": [
+        {
+          "reference": "CR S12472", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12560, S12569, S12573-12574, S12584-12586", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 314, 
+      "text": "Amendment SA 2433 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 314.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2433-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-07", 
+  "number": 2433, 
+  "proposed_at": "2005-11-07", 
+  "purpose": "To reduce the eligibility age for receipt of non-regular military service retired pay for members of the Ready Reserve in active federal status or on active duty for significant periods.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chambliss, Saxby", 
+    "state": "GA", 
+    "thomas_id": "00188", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-09", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

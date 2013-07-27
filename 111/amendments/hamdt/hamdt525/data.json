@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-10T19:53:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14718-14721, H14733", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14718", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Stupak.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-10T22:01:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 959, 
+      "text": "On agreeing to the Stupak amendment (A009) Failed by recorded vote: 150 - 279 (Roll no. 959).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt525-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4173-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to allow the Commodity Futures Trading Commission and the Securities and Exchange Commission the authority to ban abusive swaps; sought to amend any proposed commercial risk definition to disregard balance sheet risk; and sought to maintain that any illegal swap entered into after enactment of this Act would not be valid.", 
+  "house_number": 9, 
+  "introduced_at": "2009-12-10", 
+  "number": 525, 
+  "purpose": "An amendment numbered 9 printed in House Report 111-370 to allow the Commodity Futures Trading Commission and the Securities and Exchange Commission the authority to ban abusive swaps, amends any proposed commercial risk definition to disregard balance sheet risk, and maintains any illegal swap entered into after enactment of this Act will not be valid.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-12-10T22:01:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

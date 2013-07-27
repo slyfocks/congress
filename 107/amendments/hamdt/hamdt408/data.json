@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-28T20:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8547-8548", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8547", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-28T20:57:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hyde amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt408-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3338-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3338
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment prohibits any funding to provide support or assistance to the United Nations International Criminal Court or to any criminal investigation or other prosecutorial activity of the International Criminal Court.", 
+  "house_number": 17, 
+  "introduced_at": "2001-11-28", 
+  "number": 408, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-11-28T20:57:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

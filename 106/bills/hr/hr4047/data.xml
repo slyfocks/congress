@@ -1,0 +1,79 @@
+<bill session="106" type="h" number="4047" updated="2013-07-14T18:54:41-04:00">
+  <state datetime="2000-07-25T22:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-07-25T22:00:00-04:00"/>
+  </status>
+  <introduced datetime="2000-03-21"/>
+  <titles>
+    <title as="introduced" type="short">Two Strikes and You're Out Child Protection Act</title>
+    <title as="introduced" type="official">To amend title 18 of the United States Code to provide life imprisonment for repeat offenders who commit sex offenses against children.</title>
+  </titles>
+  <sponsor id="400159"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="2000-03-21"/>
+    <cosponsor id="400057" joined="2000-03-21"/>
+    <cosponsor id="400123" joined="2000-03-21"/>
+    <cosponsor id="400136" joined="2000-03-21"/>
+    <cosponsor id="400592" joined="2000-07-25"/>
+    <cosponsor id="400243" joined="2000-03-29"/>
+    <cosponsor id="400277" joined="2000-03-21"/>
+    <cosponsor id="400288" joined="2000-03-29"/>
+    <cosponsor id="400293" joined="2000-03-21"/>
+    <cosponsor id="400331" joined="2000-03-21"/>
+    <cosponsor id="400373" joined="2000-03-21"/>
+    <cosponsor id="400530" joined="2000-03-21"/>
+    <cosponsor id="400399" joined="2000-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-03-21">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-04-04">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-05-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-07-25T21:49:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-07-25T21:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6940-6942" label="consideration"/>
+    </action>
+    <action datetime="2000-07-25T21:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4047.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-25T22:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref=" CR H6940" label="text"/>
+    </vote>
+    <action datetime="2000-07-25T22:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child sexual abuse"/>
+    <term name="Families"/>
+    <term name="Life imprisonment"/>
+    <term name="Mandatory sentences"/>
+    <term name="Recidivists"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="Sex offenders"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2000--Introduced.
+Two Strikes and You're Out Child Protection Act - Amends the Federal criminal code to provide for mandatory life imprisonment (unless a death sentence is imposed) of a person convicted of a Federal sex offense in which a minor is the victim if the person has a prior sex conviction in which a minor was the victim.</summary>
+</bill>

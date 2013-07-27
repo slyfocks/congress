@@ -1,0 +1,78 @@
+<bill session="107" type="h" number="3504" updated="2013-07-14T18:58:14-04:00">
+  <state datetime="2001-12-20T11:33:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-12-20T11:33:00-05:00"/>
+  </status>
+  <introduced datetime="2001-12-17"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Public Health Service Act with respect to qualified organ procurement organizations.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="400308" joined="2001-12-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-12-17">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-12-18">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-12-19T19:07:00-05:00">
+      <text>Mr. Bilirakis moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-12-19T19:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10485-10487" label="consideration"/>
+    </action>
+    <action datetime="2001-12-19T19:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3504.</text>
+    </action>
+    <action datetime="2001-12-19T19:19:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Brown (OH) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2001-12-20T11:33:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H10937" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-20T11:33:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 11/19/2001 H10485" label="text"/>
+    </vote>
+    <action datetime="2001-12-20T11:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-12-20">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2002-01-23" calendar="Senate Legislative" under="General Orders" number="310">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="1833"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative procedure"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Donation of organs, tissues, etc."/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Government operations and politics"/>
+    <term name="Health planning"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Performance measurement"/>
+    <term name="Standards"/>
+    <term name="Transplantation of organs, tissues, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2001--Passed House without amendment.
+Amends the Public Health Service Act to state that a qualified organ procurement organization's certification or recertification in effect as of January 1, 2000, remains in effect at least through July 31, 2004, and is subject to subsequent recertification not more frequently than every four years.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-08T13:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6823-6826, H6845", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6823", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-08T16:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 425, 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A004) Failed by recorded vote: 112 - 305 (Roll no. 425).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt719-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5006-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5006
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for the National Center for Health Statistics surveys and the National Center on Minority Health and Health Disparities.", 
+  "house_number": 4, 
+  "introduced_at": "2004-09-08", 
+  "number": 719, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to increase funding for the National Center for Health Statistics, the National Center on Minority Health and Health Disparities and to decrease funding for the Children and Families Services Programs.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-08T16:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

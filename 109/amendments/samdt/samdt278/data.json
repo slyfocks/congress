@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-05", 
+      "references": [
+        {
+          "reference": "CR S3177-3185, S3189-3190", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3177", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 278 proposed by Senator Boxer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-05", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 83, 
+      "text": "Amendment SA 278 agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 83.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt278-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s600-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 600
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-05", 
+  "number": 278, 
+  "proposed_at": "2005-04-05", 
+  "purpose": "To prohibit the application of certain restrictive eligibility requirements to foreign nongovernmental organizations with respect to the provision of assistance under part I of the Foreign Assistance Act of 1961.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-05", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

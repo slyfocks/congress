@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "references": [
+        {
+          "reference": "CR S11615", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11615", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2158 proposed by Senator Ensign to Amendment SA 2133.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "references": [], 
+      "text": "SA 2158 fell when amendment SA 2077 withdrawn in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2158-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2133-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2133
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-20", 
+  "number": 2158, 
+  "proposed_at": "2005-10-20", 
+  "purpose": "To amend title 18, United States code, to prohibit taking minors across State lines in circumvention of laws requiring the involvement of parents in abortion decisions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-10-20", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

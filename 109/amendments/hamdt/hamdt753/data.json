@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-29T13:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1265-1266", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1265", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Porter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29T13:25:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Porter amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt753-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr609-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 609
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides for up to $5,000 in loan forgiveness for individuals that have completed a baccalaureate or an advanced degree and are willing to serve 5 consecutive years in public service.", 
+  "house_number": 3, 
+  "introduced_at": "2006-03-29", 
+  "number": 753, 
+  "purpose": "An amendment numbered 12 printed in House Report 109-399 to expand loan relief in areas of national need to include qualified public service employees.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Porter, Jon C.", 
+    "state": "NV", 
+    "thomas_id": "01739", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-29T13:25:00-05:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

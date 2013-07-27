@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-01", 
+      "references": [
+        {
+          "reference": "CR S1850-1852", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1850", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 26 proposed by Senator Leahy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02", 
+      "references": [
+        {
+          "reference": "CR S1892", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "references": [
+        {
+          "reference": "CR S1979", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-04", 
+      "references": [
+        {
+          "reference": "CR S2053", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2111", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2139-2143", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2139", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 26 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt26-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-01", 
+  "number": 26, 
+  "proposed_at": "2005-03-01", 
+  "purpose": "To restrict access to certain personal information in bankruptcy documents.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-07", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

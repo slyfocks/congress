@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-22T13:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1083", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1083", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Frank.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22T13:32:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Frank amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt10-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr247-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 247
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment authorizes $50 million for the purposes contained in the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2001-03-22", 
+  "number": 10, 
+  "purpose": "An amendment to provide $50,000,000 in assistance in FY 2002 only for activities pursuant to section 105 (a)(24) of the Housing and Community Development Act of 1974.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-03-22T13:32:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

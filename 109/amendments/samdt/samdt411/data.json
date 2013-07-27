@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-13", 
+      "references": [
+        {
+          "reference": "CR S3605", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3605", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 411 proposed by Senator Sessions for Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 411 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt411-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1134-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1134
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 411, 
+  "proposed_at": "2005-04-13", 
+  "purpose": "To amend the Internal Revenue Code of 1986 to provide for the proper tax treatment of certain disaster mitigation payments.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-13", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

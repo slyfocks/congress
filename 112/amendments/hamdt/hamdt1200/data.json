@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T19:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3452-3454", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3452", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T17:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3515-3516", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 328, 
+      "text": "On agreeing to the Kucinich amendment (A031) Failed by recorded vote: 136 - 282 (Roll no. 328).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1200-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to put a moratorium for FY 2013 on any new loan guarantees under the section 1703 loan gurantee program and reduces administrative costs which will not be necessary if the program is suspended by $33 million.", 
+  "house_number": 31, 
+  "introduced_at": "2012-06-05", 
+  "number": 1200, 
+  "purpose": "An amendment to prohibit the use of funds to be used to provide new loan guarantees under section 1703 of the Energy Policy Act of 2005.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T17:04:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

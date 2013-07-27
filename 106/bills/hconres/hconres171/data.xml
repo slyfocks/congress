@@ -1,0 +1,85 @@
+<bill session="106" type="hc" number="171" updated="2013-07-14T18:55:22-04:00">
+  <state datetime="1999-10-04T14:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-10-04T14:43:00-04:00"/>
+  </status>
+  <introduced datetime="1999-08-03"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the American Public Transit Association for 25 years of commendable service to the transit industry and the Nation.</title>
+  </titles>
+  <sponsor id="400374"/>
+  <cosponsors>
+    <cosponsor id="400299" joined="1999-08-03"/>
+    <cosponsor id="400318" joined="1999-08-03"/>
+    <cosponsor id="400331" joined="1999-08-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-08-03">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-08-04">
+      <text>Referred to the Subcommittee on Ground Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-08-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-08-04">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-08-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-08-05">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1999-09-13T16:59:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-314.</text>
+    </action>
+    <calendar datetime="1999-09-13T17:00:00-04:00" calendar="House" number="107">
+      <text>Placed on the House Calendar, Calendar No. 107.</text>
+    </calendar>
+    <action datetime="1999-10-04T14:32:00-04:00">
+      <text>Mr. Petri moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1999-10-04T14:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9251-9252" label="consideration"/>
+    </action>
+    <action datetime="1999-10-04T14:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 171.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-10-04T14:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-10-04T14:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-10-05">
+      <text>Received in the Senate and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW10" subcommittee="Ground Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Labor and employment"/>
+    <term name="Mass rapid transit"/>
+    <term name="Professional associations"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1999--Introduced.
+Congratulates the American Public Transit Association for 25 years of commendable service to the transit industry and the Nation.</summary>
+</bill>

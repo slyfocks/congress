@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-05", 
+      "references": [
+        {
+          "reference": "CR S2896", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2896", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3426 proposed by Senator Frist to Amendment SA 3425.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-06", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-07", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3426-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3425-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3425
+  }, 
+  "amends_bill": {
+    "bill_id": "s2454-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2454
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-05", 
+  "number": 3426, 
+  "proposed_at": "2006-04-05", 
+  "purpose": "Of a technical nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-04-05", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

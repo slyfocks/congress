@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-09T14:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H791", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-09T14:52:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H791", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt591-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres434-106", 
+    "bill_type": "hres", 
+    "congress": 106, 
+    "number": 434
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment provides for the consideration of the bill H.R. 3846, to amend the Fair Labor Standards Act of 1938 to increase the minimum wage, and for other purposes.", 
+  "house_number": 1, 
+  "introduced_at": "2000-03-09", 
+  "number": 591, 
+  "purpose": "An amendment which inserts a new section 2 into the resolution and which has the effect of striking section 5 of H.R. 3846.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-09T14:52:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

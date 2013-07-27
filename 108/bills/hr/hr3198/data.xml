@@ -1,0 +1,96 @@
+<bill session="108" type="h" number="3198" updated="2013-07-14T19:02:00-04:00">
+  <state datetime="2003-11-17T15:37:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-11-17T15:37:00-05:00"/>
+  </status>
+  <introduced datetime="2003-09-30"/>
+  <titles>
+    <title as="introduced" type="short">John F. Kennedy Center Reauthorization Act of 2003</title>
+    <title as="reported to house" type="short">John F. Kennedy Center Reauthorization Act of 2003</title>
+    <title as="passed house" type="short">John F. Kennedy Center Reauthorization Act of 2003</title>
+    <title as="introduced" type="official">To amend the John F. Kennedy Center Act to authorize appropriations for the John F. Kennedy Center for the Performing Arts, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="400235" joined="2003-09-30"/>
+    <cosponsor id="400295" joined="2003-09-30"/>
+    <cosponsor id="400299" joined="2003-09-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-09-30">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2003-10-01">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2003-10-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-10-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2003-10-15T19:13:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 108-319.</text>
+    </action>
+    <calendar datetime="2003-10-15T19:14:00-04:00" calendar="Union" number="193">
+      <text>Placed on the Union Calendar, Calendar No. 193.</text>
+    </calendar>
+    <action datetime="2003-11-17T15:31:00-05:00">
+      <text>Mr. Porter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-11-17T15:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11177-11179" label="consideration"/>
+    </action>
+    <action datetime="2003-11-17T15:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3198.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-17T15:37:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11178" label="text"/>
+    </vote>
+    <action datetime="2003-11-17T15:37:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2003-11-18" calendar="Senate Legislative" under="General Orders" number="396">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 396.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="h" number="5294"/>
+    <bill relation="unknown" session="108" type="s" number="1757"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Authorization"/>
+    <term name="Building construction"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Construction costs"/>
+    <term name="Cultural centers"/>
+    <term name="Department of Transportation"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to the arts and humanities"/>
+    <term name="Government operations and politics"/>
+    <term name="Infrastructure"/>
+    <term name="Maintenance and repair"/>
+    <term name="Security measures"/>
+    <term name="Smithsonian Institution"/>
+    <term name="Transportation and public works"/>
+    <term name="Transportation engineering"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2003--Passed House without amendment.
+John F. Kennedy Center Reauthorization Act of 2003 - Amends the John F. Kennedy Center Act to authorize appropriations for FY 2004 through 2006 to the Board of Trustees of the John F. Kennedy Center for the Performing Arts (Board) for: (1) maintenance, repair, and security; and (2) capital projects. Revises the John F. Kennedy Center Plaza Authorization Act of 2002 to direct the Secretary of Transportation to establish a Center Plaza Project Team consisting of the Secretary, the Administrator of General Services, the Chair of the Board, or their designees, and other individuals the Secretary considers appropriate. Requires the Board to consult with the Team on specified matters, including construction of buildings. Subjects to Team approval any Board decision that will significantly affect the scope, cost, schedule, or engineering feasibility of any element of the Project, other than buildings to be constructed on the Plaza. Directs the Comptroller General, until Project completion, to review management and oversight of construction of the Project by the Board and report periodically on review results to specified congressional committees.</summary>
+</bill>

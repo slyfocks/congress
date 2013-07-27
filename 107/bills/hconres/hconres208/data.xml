@@ -1,0 +1,44 @@
+<bill session="107" type="hc" number="208" updated="2013-07-14T18:58:58-04:00">
+  <state datetime="2001-08-03">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2001-08-03"/>
+  </status>
+  <introduced datetime="2001-08-02"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="400551"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2001-08-02T22:44:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H5316" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-08-02T22:45:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5316" label="text"/>
+    </vote>
+    <action datetime="2001-08-02T22:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-08-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8875-8876" label="consideration"/>
+      <reference ref="CR S8875-8876" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2001-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2001--Passed House without amendment.
+Provides for an adjournment of the House of Representatives from August 2 or 3, 2001, until September 5, 2001, and a recess or an adjournment of the Senate on any day between August 2 and 4, 2001, or between August 6 and 11, 2001, until September 4, 2001.</summary>
+</bill>

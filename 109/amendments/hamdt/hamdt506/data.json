@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-21T19:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6295-6297", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6295", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21T19:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Paul amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt506-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3199-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3199
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 18, 
+  "introduced_at": "2005-07-21", 
+  "number": 506, 
+  "purpose": "An amendment numbered 19 printed in part B of House Report 109-178 to express the sense of Congress that no American citizen should be the target of a federal investigation solely as a result of that person's political activities.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-21T19:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

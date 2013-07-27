@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T17:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3621-3622, H3634-3635", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3621", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-25T18:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 349, 
+      "text": "On agreeing to the Maloney amendment (A012) Failed by recorded vote: 176 - 248 (Roll no. 349).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt312-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require public disclosure of information submitted under Section 847 of this act.", 
+  "house_number": 12, 
+  "introduced_at": "2011-05-25", 
+  "number": 312, 
+  "purpose": "An amendment numbered 26 printed in House Report 112-88 to require public disclosure of information submitted under Section 847 of this act.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-25T18:56:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

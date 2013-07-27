@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-08T16:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H742-744", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H742-743", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Barton (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T16:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Barton (TX) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt680-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4167-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4167
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment clarifies that uniformity in notification requirements for warnings does not apply to dietary supplements; and ensures that States can set tolerance levels for substances in food when the Federal Government has not.", 
+  "house_number": 1, 
+  "introduced_at": "2006-03-08", 
+  "number": 680, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-386 to delete section (f) from 403B; insert in 403A a new clause clarifying when states may act to implement food adulteration standards in absence of a federal adulteration standard for a particular food. Under the amendment,if the FDA has established a federal adulteration or food tolerance standard the state must enforce that standard. If the FDA has considered and officially rejected a federal standard then states may not enforce requirements rejected by the Secretary. However, if the Secretary has not acted to establish a standard or rejected a standard then a state could establish its own adulteration or tolerance standard without having to petition or seek approval from the FDA. Also clarifies that uniformity in notification requirements for warnings does not apply to warnings related to dietary supplements.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-03-08T16:34:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

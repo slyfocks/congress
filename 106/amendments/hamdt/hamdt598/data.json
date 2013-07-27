@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-16T16:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1102-1111", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A003) in the nature of a substitute offered by Mr. Boehlert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-16T17:38:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1102", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 53, 
+      "text": "On agreeing to the Boehlert amendment (A003) Failed by recorded vote: 179 - 234 (Roll no. 53).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt598-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2372-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2372
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment in the nature of a substitute sought to limit takings claims to those involving the Federal government and eliminate language dealing with local zoning matters.", 
+  "house_number": 3, 
+  "introduced_at": "2000-03-16", 
+  "number": 598, 
+  "purpose": "An amendment in the nature of a substitute numbered 3 printed in House Report 106-525 to eliminate section 2 of the bill and retains Sections 3 and 4 of the bill which seek to expedite takings cases in which federal (as opposed to local) actions are at issue.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-16T17:38:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

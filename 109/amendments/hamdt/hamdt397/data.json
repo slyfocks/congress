@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-29T12:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5387-5397", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5387", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. LaTourette.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29T13:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the LaTourette amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt397-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3058-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the National Railroad Passenger Corporation.", 
+  "house_number": 4, 
+  "introduced_at": "2005-06-29", 
+  "number": 397, 
+  "purpose": "An amendment to increase funds (by transfer) for grants to the National Railroad Passenger Corporation by $626,248,000 to $1.176 billion.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "LaTourette, Steven C.", 
+    "state": "OH", 
+    "thomas_id": "00667", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-29T13:59:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

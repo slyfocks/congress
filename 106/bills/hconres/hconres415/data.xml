@@ -1,0 +1,68 @@
+<bill session="106" type="hc" number="415" updated="2013-07-14T18:55:27-04:00">
+  <state datetime="2000-10-18T18:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-18T18:42:00-04:00"/>
+  </status>
+  <introduced datetime="2000-10-02"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that there should be established a National Children's Memorial Day.</title>
+  </titles>
+  <sponsor id="400225"/>
+  <cosponsors>
+    <cosponsor id="400597" joined="2000-10-12"/>
+    <cosponsor id="400304" joined="2000-10-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-02">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2000-10-12">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2000-10-17T15:17:00-04:00">
+      <text>Mr. Ose moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2000-10-17T15:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9989-9990" label="consideration"/>
+    </action>
+    <action datetime="2000-10-17T15:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 415.</text>
+    </action>
+    <action datetime="2000-10-17T15:31:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until Oct. 18.</text>
+    </action>
+    <action datetime="2000-10-18T18:35:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H10081-10082" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-18T18:42:00-04:00" how="roll" result="pass" roll="532" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 532).</text>
+      <reference ref="CR 10/17/2000 H9989" label="text"/>
+    </vote>
+    <action datetime="2000-10-18T18:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-19">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Death"/>
+    <term name="Families"/>
+    <term name="Health"/>
+    <term name="Infant mortality"/>
+    <term name="Special days"/>
+    <term name="Youth"/>
+  </subjects>
+  <amendments/>
+  <summary>10/2/2000--Introduced.
+Expresses the sense of the Congress that a National Children's Memorial Day should be established.</summary>
+</bill>

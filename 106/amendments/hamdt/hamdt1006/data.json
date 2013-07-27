@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-13T14:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6015", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6015", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T14:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown (OH) amendment (A027) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1006-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits funds in the bill from being used in violation of existing laws against the importation of goods made by forced labor.", 
+  "house_number": 27, 
+  "introduced_at": "2000-07-13", 
+  "number": 1006, 
+  "purpose": "An amendment numbered 32 printed in the Congressional Record to prohibit funds in the bill from being used in violation of existing laws against the importation of goods made by forced labor.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-13T14:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

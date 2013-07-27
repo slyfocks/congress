@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-24T12:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4452-4453", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4452", 
+          "type": "text"
+        }
+      ], 
+      "text": "Substitute (A010) offered by Mr. Kolbe to the Crowley amendment (A009).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-24T12:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kolbe amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt212-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt211-107", 
+    "amendment_type": "hamdt", 
+    "congress": 107, 
+    "number": 211
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2506-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2506
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "See Crowley amendment (A009) for description.", 
+  "house_number": 10, 
+  "introduced_at": "2001-07-24", 
+  "number": 212, 
+  "purpose": "An amendment offered as a substitute for the Crowley amendment to increase (by transfer) the appropriation for International Disaster Assistance by $1,000,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Kolbe, Jim", 
+    "state": "AZ", 
+    "thomas_id": "00645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-24T12:43:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

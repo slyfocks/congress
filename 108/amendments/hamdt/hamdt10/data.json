@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-19T15:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2055", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2055", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Gutierrez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-19T15:20:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gutierrez amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt10-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr975-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 975
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment provides that section 1234, Involuntary Cases, shall apply with respect to cases commenced before, on, and after the date of enactment of the bill.", 
+  "house_number": 4, 
+  "introduced_at": "2003-03-19", 
+  "number": 10, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gutierrez, Luis V.", 
+    "state": "IL", 
+    "thomas_id": "00478", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-03-19T15:20:00-05:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-15T23:29:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4577", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H4577", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Mr. Udall (NM) to the Wilson amendment (A032).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-15T23:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Udall (NM) amendment (A033) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt828-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt827-106", 
+    "amendment_type": "hamdt", 
+    "congress": 106, 
+    "number": 827
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4578-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4578
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "See Wilson amendment (A032) for description.", 
+  "house_number": 33, 
+  "introduced_at": "2000-06-15", 
+  "number": 828, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-15T23:31:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-10T12:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1306", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1306", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Rogers (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-10T12:31:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rogers (MI) amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt35-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment makes it illegal to sell a traffic signal preemption transmitter to an unauthorized person.", 
+  "house_number": 16, 
+  "introduced_at": "2005-03-10", 
+  "number": 35, 
+  "purpose": "An amendment numbered 7 printed in House Report 109-15 to prohibit the sale or use of a traffic signal preemption transmitter (device that changes or alters a traffic signal's phase time or sequence) by a non-government approved user. Violators would be subject to a fine of up to $10,000 or one year imprisonment.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Rogers, Mike J.", 
+    "state": "MI", 
+    "thomas_id": "01651", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-10T12:31:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

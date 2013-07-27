@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-16", 
+      "references": [
+        {
+          "reference": "CR S13041", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S13041", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2585 proposed by Senator Isakson for Senator Dodd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2585 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2585-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres62-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 62
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-16", 
+  "number": 2585, 
+  "proposed_at": "2005-11-16", 
+  "purpose": "To make a technical correction.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dodd, Christopher J.", 
+    "state": "CT", 
+    "thomas_id": "00302", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-16", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

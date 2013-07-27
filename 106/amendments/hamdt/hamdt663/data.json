@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-06T13:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1917", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-06T13:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1917", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Paul amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt663-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1776-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1776
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits the use of Community Development Block Grant funding for the acquisition of church property unless the consent of the governing body of the church is obtained.", 
+  "house_number": 9, 
+  "introduced_at": "2000-04-06", 
+  "number": 663, 
+  "purpose": "An amendment numbered 9 printed in House Report 106-562 to amend the CDBG in order to prohibit the use of funds for \"activities involving the acquisition of church property\", unless the consent of the governing body of the church is obtained.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-04-06T13:56:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

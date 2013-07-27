@@ -1,0 +1,95 @@
+<bill session="107" type="h" number="2245" updated="2013-07-14T18:57:47-04:00">
+  <state datetime="2002-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2002-11-05"/>
+  </status>
+  <introduced datetime="2001-06-19"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Anisha Goveas Foti.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2001-06-19">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2001-06-29">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-04-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-04-17">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2002-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-07-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2002-07-16T16:12:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 107-579.</text>
+    </action>
+    <calendar datetime="2002-07-16T16:12:00-04:00" calendar="Private" number="8">
+      <text>Placed on the Private Calendar, Calendar No. 8.</text>
+    </calendar>
+    <action datetime="2002-09-17T14:03:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+    </action>
+    <action datetime="2002-09-17T14:03:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+      <reference ref="CR H6261" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-09-17T14:03:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H6261" label="text"/>
+    </vote>
+    <action datetime="2002-09-17T14:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-09-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2002-10-17">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S10771-10773" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2002-10-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2002-10-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2002-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2002-10-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2002-11-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2002-11-05" type="private" number="107-5">
+      <text>Became Private Law No: 107-5.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2001--Introduced.
+Declares Anisha Goveas Foti to be eligible for issuance of an immigrant visa or for adjustment of status to that of an alien lawfully admitted for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

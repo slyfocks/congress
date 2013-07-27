@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-19T18:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3664-3665, H3673-3674", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3664", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Hefley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-19T19:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 197, 
+      "text": "On agreeing to the Hefley amendment (A019) Failed by recorded vote: 90 - 326 (Roll no. 197).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt187-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment reduces the bill's total discretionary spending by 1 percent.", 
+  "house_number": 19, 
+  "introduced_at": "2005-05-19", 
+  "number": 187, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to reduce total appropriations in the bill by $261,591,250.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-19T19:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

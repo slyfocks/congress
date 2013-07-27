@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-12-11T22:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9192-9193", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9192", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Judiciary.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-11T22:11:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Judiciary amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt413-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1022-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1022
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-12-11", 
+  "number": 413, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsju00", 
+    "name": "House Judiciary", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-12-11T22:11:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

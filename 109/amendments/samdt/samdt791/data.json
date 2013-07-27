@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-16", 
+      "references": [
+        {
+          "reference": "CR S6673-6690, S6692-6693, S6700-6701", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 791 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 141, 
+      "text": "Amendment SA 791 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 141.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt791-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-16", 
+  "number": 791, 
+  "proposed_at": "2005-06-16", 
+  "purpose": "To establish a renewable portfolio standard.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-16", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

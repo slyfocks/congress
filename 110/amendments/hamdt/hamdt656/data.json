@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-25T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8451-8453, H8467-8468", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8451", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-25T18:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 726, 
+      "text": "On agreeing to the King (IA) amendment (A014) Failed by recorded vote: 19 - 389, 16 Present (Roll no. 726).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt656-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3093-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to redirect $1 million in funding within the Federal Bureau of Investigation.", 
+  "house_number": 14, 
+  "introduced_at": "2007-07-25", 
+  "number": 656, 
+  "purpose": "An amendment to redirect appropriations for the FBI by $1 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-25T18:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

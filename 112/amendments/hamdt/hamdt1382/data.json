@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-18T16:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4953-4954", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4953", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Blumenauer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-18T16:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Blumenauer amendment (A005) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1382-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to restore funding to current levels for cleanup of Formerly Utilized Defense Sites.", 
+  "house_number": 5, 
+  "introduced_at": "2012-07-18", 
+  "number": 1382, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to increase funding for the Formerly Utilized Defense Sites.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-18T16:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

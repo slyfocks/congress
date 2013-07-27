@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-16T19:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4244-4249, H4264", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4244", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Rahall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-16T22:19:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 252, 
+      "text": "On agreeing to the Rahall amendment (A006) Failed by recorded vote: 209 - 215 (Roll no. 252).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt553-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4568-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4568
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2004-06-16", 
+  "number": 553, 
+  "purpose": "An amendment to prohibit the use of funds in the bill to adversely affect the physical integrity of Indian Sacred Sites on certain Federal lands.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Rahall, Nick J., II", 
+    "state": "WV", 
+    "thomas_id": "00940", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-16T22:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

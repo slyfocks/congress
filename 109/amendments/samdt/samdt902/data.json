@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23", 
+      "references": [
+        {
+          "reference": "CR S7251-7262, S7263-7264", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 902 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 157, 
+      "text": "Amendment SA 902 not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 157.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt902-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 902, 
+  "proposed_at": "2005-06-23", 
+  "purpose": "To amend title 49, United States Code, to improve the system for enhancing automobile fuel efficiency, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

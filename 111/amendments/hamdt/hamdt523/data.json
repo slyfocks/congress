@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-10T19:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14714-14716, H14731-14732", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14714-14715", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-10T21:47:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 957, 
+      "text": "On agreeing to the Frank (MA) amendment (A007) Failed by recorded vote: 150 - 280 (Roll no. 957).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt523-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4173-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to create authority for the prudential regulators, the CFTC and the SEC, to set margin in swap and security-based swap transactions involving end users.", 
+  "house_number": 7, 
+  "introduced_at": "2009-12-10", 
+  "number": 523, 
+  "purpose": "An amendment numbered 7 printed in House Report 111-370 to create authority for the prudential regulators, the CFTC and the SEC, to set margin in swap and security-based swap transactions involving end users.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-12-10T21:47:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

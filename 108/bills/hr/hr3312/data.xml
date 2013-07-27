@@ -1,0 +1,47 @@
+<bill session="108" type="h" number="3312" updated="2013-07-14T19:02:05-04:00">
+  <state datetime="2003-10-16">REFERRED</state>
+  <status>
+    <introduced datetime="2003-10-16"/>
+  </status>
+  <introduced datetime="2003-10-16"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Agricultural Adjustment Act to add pears and cherries to the list of fruits and vegetables subject to regulation in a marketing order by grade, size, quality, or maturity, and for other purposes.</title>
+  </titles>
+  <sponsor id="400171"/>
+  <cosponsors>
+    <cosponsor id="400292" joined="2003-10-16"/>
+    <cosponsor id="400419" joined="2003-10-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2003-10-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2061"/>
+    </action>
+    <action state="REFERRED" datetime="2003-10-16">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2003-10-23">
+      <text>Referred to the Subcommittee on Livestock and Horticulture.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock and Horticulture" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="1969"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Fruit"/>
+    <term name="Import restrictions"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Marketing orders"/>
+  </subjects>
+  <amendments/>
+  <summary>10/16/2003--Introduced.
+Amends the Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement of 1937, to include pears and cherries within the category of fruits and vegetables for which imports must meet marketing order size, grade, quality, and maturity requirements.</summary>
+</bill>

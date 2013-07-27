@@ -1,0 +1,70 @@
+<bill session="107" type="h" number="807" updated="2013-07-14T18:57:15-04:00">
+  <state datetime="2001-07-17T10:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-07-17T10:05:00-04:00"/>
+  </status>
+  <introduced datetime="2001-02-28"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Rabon Lowry of Pembroke, North Carolina.</title>
+  </titles>
+  <sponsor id="400266"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2001-02-28">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2001-03-06">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-06-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-06-06">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-06-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2001-07-10T19:16:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 107-128.</text>
+    </action>
+    <calendar datetime="2001-07-10T19:16:00-04:00" calendar="Private" number="2">
+      <text>Placed on the Private Calendar, Calendar No. 2.</text>
+    </calendar>
+    <action datetime="2001-07-17T10:05:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+      <reference ref="CR H4028-4029"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-07-17T10:05:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H4029" label="text"/>
+    </vote>
+    <action datetime="2001-07-17T10:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-07-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2001--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to Rabon Lowry of Pembroke, North Carolina, for damages he incurred as a result of the breach of a certain Government contract by the Department of the Army.</summary>
+</bill>

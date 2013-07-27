@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-09", 
+      "references": [
+        {
+          "reference": "CR S926-927", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S927", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2753 proposed by Senator Frist for Senator Stevens.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2753 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2753-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s662-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 662
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-09", 
+  "number": 2753, 
+  "proposed_at": "2006-02-09", 
+  "purpose": "To modify contracts for the transportation of mail by air, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stevens, Ted", 
+    "state": "AK", 
+    "thomas_id": "01440", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-02-09", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

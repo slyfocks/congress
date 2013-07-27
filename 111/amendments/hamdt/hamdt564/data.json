@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T15:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H516-517", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H517", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Ms. Kilroy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-04T10:58:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H560", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H560", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 40, 
+      "text": "On agreeing to the Kilroy amendment (A020) Agreed to by recorded vote: 419 - 4 (Roll no. 40).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt564-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment changes the Federal Cyber Scholarship for Service program to include support for outreach activities that will improve the recruitment of high school and community college students into cybersecurity-related fields.", 
+  "house_number": 20, 
+  "introduced_at": "2010-02-03", 
+  "number": 564, 
+  "purpose": "An amendment numbered 20 printed in House Report 111-410 to amend the Federal Cyber Scholarship for Service program to include support for outreach activities that will improve the recruitment of high school and community college students into cybersecurity-related fields.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Kilroy, Mary Jo", 
+    "state": "OH", 
+    "thomas_id": "01948", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-04T10:58:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

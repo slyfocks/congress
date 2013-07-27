@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-18", 
+      "references": [
+        {
+          "reference": "CR S13285-13287", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S13285", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2672 proposed by Senator Harkin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 348, 
+      "text": "Amendment SA 2672 not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 348.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2672-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hjres72-109", 
+    "bill_type": "hjres", 
+    "congress": 109, 
+    "number": 72
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-18", 
+  "number": 2672, 
+  "proposed_at": "2005-11-18", 
+  "purpose": "To increase the amount appropriated to carry out under the Community Services Block Grant Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-11-18", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-07T19:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4736-4737", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4736", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A062) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-08T11:05:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4766-4767", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 526, 
+      "text": "On agreeing to the Flake amendment (A062) Failed by recorded vote: 118 - 295 (Roll no. 526).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt567-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 62, 
+  "introduced_at": "2011-07-07", 
+  "number": 567, 
+  "purpose": "An amendment to reduce by $3,577,192,676 the funding for the Overseas Contingency Operations Transfer Fund provided by title IX.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-08T11:05:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

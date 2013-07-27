@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-01", 
+      "references": [
+        {
+          "reference": "CR S1821-1828, S1854", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1821", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S1828", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 16 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-01", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 13, 
+      "text": "Amendment SA 16 not agreed to in Senate by Yea-Nay Vote. 38 - 58. Record Vote Number: 13.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt16-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-01", 
+  "number": 16, 
+  "proposed_at": "2005-03-01", 
+  "purpose": "To protect servicemembers and veterans from means testing in bankruptcy, to disallow certain claims by lenders charging usurious interest rates to servicemembers, and to allow servicemembers to exempt property based on the law of the State of their premilitary residence.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-01", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

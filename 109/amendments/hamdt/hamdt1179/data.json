@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-11T13:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4998-5001, H5005-5006", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4998", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Berkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-11T14:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 361, 
+      "text": "On agreeing to the Berkley amendment (A002) Failed by the Yeas and Nays: 114 - 297 (Roll no. 361).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1179-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4411-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4411
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to eliminate the exceptions to the bill's general prohibition against online gambling, thereby establishing a complete ban on all Internet gambling-related activities.", 
+  "house_number": 2, 
+  "introduced_at": "2006-07-11", 
+  "number": 1179, 
+  "purpose": "An amendment printed in House Report 109-551 to eliminate the exceptions to the bills general prohibition against online gambling, thereby establishing a complete ban on all internet gambling-related activities.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Berkley, Shelley", 
+    "state": "NV", 
+    "thomas_id": "01576", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-11T14:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

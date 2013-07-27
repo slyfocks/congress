@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-08-01T00:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7773-7775", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7773", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-08-01T10:12:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7797-7798", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 561, 
+      "text": "On agreeing to the King (IA) amendment (A018) Failed by recorded vote: 143 - 275 (Roll no. 561).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1167-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6599-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 6599
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit use of funds in the bill for enforcement of the Davis-Bacon Act.", 
+  "house_number": 18, 
+  "introduced_at": "2008-08-01", 
+  "number": 1167, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to prohibit the use of funds to enforce subchapter IV of Chapter 31 of title 40, United States Code (commonly referred to as the Davis-Bacon Act).", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-08-01T10:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

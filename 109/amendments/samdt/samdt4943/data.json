@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "references": [
+        {
+          "reference": "CR S9476-9477", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9476-9477", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4943 proposed by Senator Clinton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "references": [
+        {
+          "reference": "CR S9582", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "references": [], 
+      "text": "Amendment SA 4943 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt4943-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-12", 
+  "number": 4943, 
+  "proposed_at": "2006-09-13", 
+  "purpose": "To fund additional research to improve the detection of explosive materials at airport security checkpoints.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-09-12", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

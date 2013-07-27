@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-10T15:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6564-6568, H6578-6579", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6564", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Allen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-10T17:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 350, 
+      "text": "On agreeing to the Allen amendment (A006) Failed by recorded vote: 199 - 223 (Roll no. 350).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt219-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2660-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit the Department of Education from penalizing a school for failing to meet the requirements of the No Child Left Behind Act unless that school receives Federal aid at the full authorized level.", 
+  "house_number": 6, 
+  "introduced_at": "2003-07-10", 
+  "number": 219, 
+  "purpose": "An amendment regarding title I of the Elementary and Secondary Education Act.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Allen, Thomas H.", 
+    "state": "ME", 
+    "thomas_id": "01461", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-10T17:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

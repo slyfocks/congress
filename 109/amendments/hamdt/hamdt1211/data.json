@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-26T14:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7389", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7389", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment in the nature of a substitute reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-26T14:35:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7389", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1211-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2679-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2679
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2006-09-26", 
+  "number": 1211, 
+  "purpose": "An amendment in the Nature of a substitute considered as adopted pursuant to the provisions of H.Res. 1038.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-26T14:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:20-04:00"
+}

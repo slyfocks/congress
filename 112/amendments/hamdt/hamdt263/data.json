@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-03T15:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2966-2967", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2966", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Pallone.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-03T15:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Pallone amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt263-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1213-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1213
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require GAO to study the impacts of the exchange grants on allowing States to set up State-run exchanges, as opposed to having the Federal Government establish and operate the States' exchanges and then to submit a report to Congress.", 
+  "house_number": 4, 
+  "introduced_at": "2011-05-03", 
+  "number": 263, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-70 to require GAO to report on benefits of funding in setting up state run exchanges that reflect that state's marketplace, as opposed to state exchanges established and operated by the federal government.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pallone, Frank, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "00887", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-03T15:43:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

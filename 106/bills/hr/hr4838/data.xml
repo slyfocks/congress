@@ -1,0 +1,65 @@
+<bill session="106" type="h" number="4838" updated="2013-07-14T18:54:58-04:00">
+  <state datetime="2000-10-10T16:37:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-10T16:37:00-04:00"/>
+  </status>
+  <introduced datetime="2000-07-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to provide a waiver of the oath of renunciation and allegiance for naturalization of aliens having certain disabilities.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="400083" joined="2000-09-07"/>
+    <cosponsor id="400107" joined="2000-09-25"/>
+    <cosponsor id="400585" joined="2000-09-07"/>
+    <cosponsor id="400245" joined="2000-09-12"/>
+    <cosponsor id="400370" joined="2000-09-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-07-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-07-24">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-10-10T16:20:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-10-10T16:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9545-9548" label="consideration"/>
+    </action>
+    <action datetime="2000-10-10T16:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4838.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-10T16:37:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H9545" label="text"/>
+    </vote>
+    <action datetime="2000-10-10T16:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-10T16:39:00-04:00">
+      <text>Laid on the table. See S. 2812 for further action.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="2812"/>
+    <bill relation="supersedes" session="106" type="s" number="2812"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Disabled"/>
+    <term name="Government operations and politics"/>
+    <term name="Loyalty oaths"/>
+    <term name="Naturalization"/>
+  </subjects>
+  <amendments/>
+  <summary>10/10/2000--Passed House amended.
+Amends the Immigration and Nationality Act to authorize the Attorney General to waive the taking of the naturalization oath of renunciation and allegiance for an alien with a physical or developmental disability or mental impairment who is unable to understand or communicate an understanding of such oath.</summary>
+</bill>

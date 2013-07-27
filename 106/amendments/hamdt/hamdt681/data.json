@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-10T14:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2815-2816", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H2818", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Istook.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-10T15:13:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2815", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 157, 
+      "text": "On agreeing to the Istook amendment (A004) Agreed to by recorded vote: 289 - 138 (Roll no. 157).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt681-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3709-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3709
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment expresses the sense of Congress that the states should develop a streamlined, non-multiple and non-discriminatory tax system.", 
+  "house_number": 4, 
+  "introduced_at": "2000-05-10", 
+  "number": 681, 
+  "purpose": "An amendment to express the sense of the House that there should be a streamlined non-multiple and non-discriminatory tax system to be utilized by the states regarding the internet.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Istook, Ernest J., Jr.", 
+    "state": "OK", 
+    "thomas_id": "00586", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-10T15:13:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

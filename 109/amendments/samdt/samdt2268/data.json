@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11886", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11886", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2268 proposed by Senator Specter for Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2268 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2268-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-26", 
+  "number": 2268, 
+  "proposed_at": "2005-10-26", 
+  "purpose": "To amend section 316 of the Immigration and Nationality Act, to reduce the residency requirement and limit the adjudication period for the naturalization of aliens with extraordinary ability so that such aliens may represent the United States at international events.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-26", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

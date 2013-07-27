@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-14T15:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5051-5052", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5051", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A048) offered by Mr. Cole.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-15T11:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5094", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 583, 
+      "text": "On agreeing to the Cole amendment (A048) Agreed to by recorded vote: 249 - 169 (Roll no. 583).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt651-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 48, 
+  "introduced_at": "2011-07-14", 
+  "number": 651, 
+  "purpose": "An amendment numbered 26 printed in the Congressional Record to prohibit the use of funds to implement any rule, regulation, or executive order regarding the disclosure of political contributions that takes effect on or after the date of enactment of H.R. 2354.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Cole, Tom", 
+    "state": "OK", 
+    "thomas_id": "01742", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-15T11:06:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

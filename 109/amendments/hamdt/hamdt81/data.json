@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T20:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2370-2372, H2375-2376", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2370", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T21:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 116, 
+      "text": "On agreeing to the Kaptur amendment (A012) Failed by recorded vote: 186 - 239 (Roll no. 116).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt81-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide the Secretary of Energy the authority to include in the Strategic Fuels Reserve ethanol, biodiesel, and other alternative fuels.", 
+  "house_number": 12, 
+  "introduced_at": "2005-04-20", 
+  "number": 81, 
+  "purpose": "An amendment numbered 12 printed in House Report 109-49 to provide the Secretary of Energy the authority to include in the Strategic Petroleum Reserve alternative fuels, including ethanol and biodiesel and rename the reserve the \"Strategic Fuels Reserve\".", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-20T21:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

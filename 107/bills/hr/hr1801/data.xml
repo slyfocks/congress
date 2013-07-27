@@ -1,0 +1,79 @@
+<bill session="107" type="h" number="1801" updated="2013-07-14T18:57:39-04:00">
+  <state datetime="2001-05-21T18:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-05-21T18:01:00-04:00"/>
+  </status>
+  <introduced datetime="2001-05-10"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 501 West 10th Street in Fort Worth, Texas, as the "Eldon B. Mahon United States Courthouse".</title>
+  </titles>
+  <sponsor id="400157"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="2001-05-21"/>
+    <cosponsor id="400018" joined="2001-05-21"/>
+    <cosponsor id="400046" joined="2001-05-16"/>
+    <cosponsor id="400143" joined="2001-05-16"/>
+    <cosponsor id="400165" joined="2001-05-21"/>
+    <cosponsor id="400204" joined="2001-05-21"/>
+    <cosponsor id="400381" joined="2001-05-16"/>
+    <cosponsor id="400389" joined="2001-05-21"/>
+    <cosponsor id="400404" joined="2001-05-21"/>
+    <cosponsor id="400410" joined="2001-05-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-05-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2001-05-11">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-05-21T14:19:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-05-21T14:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2340-2341" label="consideration"/>
+    </action>
+    <action datetime="2001-05-21T14:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1801.</text>
+    </action>
+    <action datetime="2001-05-21T14:30:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-05-21T18:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2363" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-05-21T18:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2340" label="text"/>
+    </vote>
+    <action datetime="2001-05-21T18:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-05-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Government operations and politics"/>
+    <term name="Judges"/>
+    <term name="Law"/>
+    <term name="Names"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2001--Passed House without amendment.
+Designates the U.S. courthouse located at 501 West 10th Street in Fort Worth, Texas, as the Eldon B. Mahon United States Courthouse.</summary>
+</bill>

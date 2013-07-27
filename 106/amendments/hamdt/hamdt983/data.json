@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-12T22:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5933-5939", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5933-5934", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T12:25:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5995-5996", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5995", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 398, 
+      "text": "On agreeing to the Lee amendment (A004) Agreed to by recorded vote: 267 - 156 (Roll no. 398).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt983-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment adds $40 million to the child survival and disease fund to be allocated to the prevention and treatment of HIV/AIDS.", 
+  "house_number": 4, 
+  "introduced_at": "2000-07-12", 
+  "number": 983, 
+  "purpose": "An amendment to increase the account for Agency for International Development Child Survival and Disease Programs Fund by approximately $42 million. The additional funds would be directed to the prevention and treatment of HIV/AIDS.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-13T12:25:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

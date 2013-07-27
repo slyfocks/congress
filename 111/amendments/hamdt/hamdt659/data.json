@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-05-27T15:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4001-4003, H4014-4015", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H44001", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-27T17:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 312, 
+      "text": "On agreeing to the McGovern amendment (A006) Agreed to by recorded vote: 341 - 85 (Roll no. 312).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt659-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5136-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5136
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment includes a sense of Congress stating that hunger and obesity are impairing military recruitment and must be properly addressed.", 
+  "house_number": 6, 
+  "introduced_at": "2010-05-27", 
+  "number": 659, 
+  "purpose": "An amendment numbered 13 printed in House Report 111-498 to include a Sense of Congress stating that hunger and obesity are impairing military recruitment and must be properly addressed.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-05-27T17:20:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

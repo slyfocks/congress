@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-23T11:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6435-6436, H6444", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6435", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Ms. Richardson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-23T12:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 739, 
+      "text": "On agreeing to the Richardson amendment (A012) Failed by recorded vote: 181 - 237 (Roll no. 739).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt801-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2401-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike the offset provision of H.R. 2401, which would reduce funding to the Diesel Emission Reductions Act.", 
+  "house_number": 12, 
+  "introduced_at": "2011-09-23", 
+  "number": 801, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-213 to strike the offset provision of H.R. 2401, which would reduce funding to the Diesel Emission Reductions Act.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Richardson, Laura", 
+    "state": "CA", 
+    "thomas_id": "01883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-09-23T12:42:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-26T14:11:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5829-5836", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H5829-5830", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Turner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-26T15:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 359, 
+      "text": "On agreeing to the Turner amendment (A022) Failed by recorded vote: 214 - 215 (Roll no. 359).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt595-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5005-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5005
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to authorize the Secretary of Homeland Security to provide indemnification to the manufacturers of anti-terrorism products.", 
+  "house_number": 22, 
+  "introduced_at": "2002-07-26", 
+  "number": 595, 
+  "purpose": "An amendment numbered 22 and printed in House Report 107-615 to indemnify companies who sell anti-terrorism technologies to the federal government, as well as, state and local governments, in a manner similar to the protection afforded under P.L.85-804.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Turner, Jim", 
+    "state": "TX", 
+    "thomas_id": "01536", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-26T15:35:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

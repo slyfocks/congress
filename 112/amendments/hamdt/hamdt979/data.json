@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08T10:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1278-1279", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1278", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Miller (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-08T10:32:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Miller (NC) amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt979-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3606-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3606
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment increases the exception from SEC registration to 2,000 investors, provided that no more than 500 are not accredited investors.", 
+  "house_number": 12, 
+  "introduced_at": "2012-03-08", 
+  "number": 979, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-409 to increase the total number of investors and limit the number of non-accredited investors allowed to be holders of record before registration is required.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Brad", 
+    "state": "NC", 
+    "thomas_id": "01735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-08T10:32:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

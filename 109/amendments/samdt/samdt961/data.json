@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S7038-7042, S7047-7048", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7039-7040", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 961 proposed by Senator Alexander.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 150, 
+      "text": "Amendment SA 961 not agreed to in Senate by Yea-Nay. 32 - 63. Record Vote Number: 150.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt961-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-22", 
+  "number": 961, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To provide for local control for the sitting of windmills.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Alexander, Lamar", 
+    "state": "TN", 
+    "thomas_id": "01695", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

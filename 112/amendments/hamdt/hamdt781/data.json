@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-08T15:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6002", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6002", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-13T13:43:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6119", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 702, 
+      "text": "On agreeing to the Holt amendment (A007) Failed by recorded vote: 195 - 220 (Roll no. 702).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt781-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2218-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2218
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to encourage the Secretary of Education to include a priority for green school building practices in the application for states to ensure that federal investment in charter school facilities would be energy efficient and environmentally friendly.", 
+  "house_number": 7, 
+  "introduced_at": "2011-09-08", 
+  "number": 781, 
+  "purpose": "An amendment numbered 7 printed in Part A of House Report 112-200 to encourage the Secretary of Education to include a priority for green school building practices in the application for states to ensure that federal investment in charter school facilities would be energy efficient and environmentally friendly.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-09-13T13:43:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

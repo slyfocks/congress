@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-17T15:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4820-4821, H4847-4848", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4820", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-17T19:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 314, 
+      "text": "On agreeing to the Tancredo amendment (A008) Failed by recorded vote: 123 - 300 (Roll no. 314).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt538-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5093-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5093
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to transfer $50 million from the National Endowment for the Arts to the budget for the National Forest Service.", 
+  "house_number": 8, 
+  "introduced_at": "2002-07-17", 
+  "number": 538, 
+  "purpose": "An amendment numbered 16 printed in the Congressional Record to reduce the amount for the National Endowment on the Arts and Humanities by $50 milliion.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-17T19:08:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

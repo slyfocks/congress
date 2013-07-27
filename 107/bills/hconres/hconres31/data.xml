@@ -1,0 +1,121 @@
+<bill session="107" type="hc" number="31" updated="2013-07-14T18:58:55-04:00">
+  <state datetime="2001-03-07T14:02:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-03-07T14:02:00-05:00"/>
+  </status>
+  <introduced datetime="2001-02-13"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress regarding the importance of organ, tissue, bone marrow, and blood donation and supporting National Donor Day.</title>
+  </titles>
+  <sponsor id="400509"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2001-02-13"/>
+    <cosponsor id="400013" joined="2001-02-13"/>
+    <cosponsor id="400553" joined="2001-02-13"/>
+    <cosponsor id="400550" joined="2001-03-01"/>
+    <cosponsor id="400047" joined="2001-03-01"/>
+    <cosponsor id="400050" joined="2001-03-01"/>
+    <cosponsor id="400063" joined="2001-02-13"/>
+    <cosponsor id="400543" joined="2001-02-13"/>
+    <cosponsor id="400116" joined="2001-02-13"/>
+    <cosponsor id="400124" joined="2001-02-13"/>
+    <cosponsor id="400136" joined="2001-02-13"/>
+    <cosponsor id="400148" joined="2001-02-13"/>
+    <cosponsor id="400502" joined="2001-02-13"/>
+    <cosponsor id="400178" joined="2001-02-13"/>
+    <cosponsor id="400186" joined="2001-02-13"/>
+    <cosponsor id="400193" joined="2001-03-01"/>
+    <cosponsor id="400208" joined="2001-02-13"/>
+    <cosponsor id="400216" joined="2001-02-13"/>
+    <cosponsor id="400223" joined="2001-02-13"/>
+    <cosponsor id="400235" joined="2001-02-13"/>
+    <cosponsor id="400248" joined="2001-03-06"/>
+    <cosponsor id="400508" joined="2001-02-13"/>
+    <cosponsor id="400545" joined="2001-03-01"/>
+    <cosponsor id="400256" joined="2001-02-13"/>
+    <cosponsor id="400262" joined="2001-02-13"/>
+    <cosponsor id="400600" joined="2001-02-13"/>
+    <cosponsor id="400524" joined="2001-02-13"/>
+    <cosponsor id="400294" joined="2001-02-13"/>
+    <cosponsor id="400309" joined="2001-02-13"/>
+    <cosponsor id="400317" joined="2001-02-13"/>
+    <cosponsor id="400321" joined="2001-03-01"/>
+    <cosponsor id="400332" joined="2001-02-13"/>
+    <cosponsor id="400342" joined="2001-02-13"/>
+    <cosponsor id="400347" joined="2001-02-13"/>
+    <cosponsor id="400367" joined="2001-02-13"/>
+    <cosponsor id="400370" joined="2001-02-13"/>
+    <cosponsor id="400383" joined="2001-02-13"/>
+    <cosponsor id="400385" joined="2001-03-01"/>
+    <cosponsor id="400386" joined="2001-02-13"/>
+    <cosponsor id="400387" joined="2001-02-13"/>
+    <cosponsor id="400389" joined="2001-03-01"/>
+    <cosponsor id="400395" joined="2001-02-13"/>
+    <cosponsor id="400396" joined="2001-03-01"/>
+    <cosponsor id="400516" joined="2001-03-06"/>
+    <cosponsor id="400414" joined="2001-02-13"/>
+    <cosponsor id="400424" joined="2001-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-02-13">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2001-02-28">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2001-03-06T19:29:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 107-10.</text>
+    </action>
+    <calendar datetime="2001-03-06T19:29:00-05:00" calendar="House" number="5">
+      <text>Placed on the House Calendar, Calendar No. 5.</text>
+    </calendar>
+    <action datetime="2001-03-07T12:39:00-05:00">
+      <text>Mr. Bilirakis moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2001-03-07T12:39:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H668-672" label="consideration"/>
+    </action>
+    <action datetime="2001-03-07T12:39:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 31.</text>
+    </action>
+    <action datetime="2001-03-07T12:56:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-03-07T13:38:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H681-682" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-03-07T14:02:00-05:00" how="roll" result="pass" roll="30" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 30).</text>
+      <reference ref="CR H668" label="text"/>
+    </vote>
+    <action datetime="2001-03-07T14:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-03-08">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="hc" number="329"/>
+    <bill relation="identical" session="107" type="sc" number="12"/>
+    <bill relation="unknown" session="107" type="sc" number="12"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Blood donors"/>
+    <term name="Bone marrow transplantation"/>
+    <term name="Donation of organs, tissues, etc."/>
+    <term name="Health"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2001--Reported to House without amendment.
+Supports the goals and ideas of National Donor Day. Encourages all Americans to learn about the importance of organ, tissue, bone marrow, and blood donation and to discuss such donations with their families and friends.</summary>
+</bill>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-17T17:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7930-7931", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7930", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. McKeon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-17T17:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the McKeon amendment (A001) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt510-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding for the Reading First program.", 
+  "house_number": 1, 
+  "introduced_at": "2007-07-17", 
+  "number": 510, 
+  "purpose": "An amendment to reduce appropriations for the Employment and Training Administration by $43,746,000 and increase appropriations for education for the disadvantaged by $75,000,000.", 
+  "sponsor": {
+    "district": "25", 
+    "name": "McKeon, Howard P. \"Buck\"", 
+    "state": "CA", 
+    "thomas_id": "00778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-17T17:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

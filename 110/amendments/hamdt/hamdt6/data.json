@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-08T12:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1363-1364, H1384-1385", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1363", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Dent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T15:54:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 84, 
+      "text": "On agreeing to the Dent amendment (A005) Agreed to by recorded vote: 226 - 201 (Roll no. 84).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt6-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr547-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment directs the Secretary of Energy, in consultation with the National Institute of Standards and Technology, to consider the challenges for design, reforming storage, handling and dispensing hydrogen fuel from various feedstocks, including biomass.", 
+  "house_number": 5, 
+  "introduced_at": "2007-02-08", 
+  "number": 6, 
+  "purpose": "An amendment to add provisions which allow fuel distributors and retailers to transform their businesses by dispensing hydrogen, reformed on site from various feedstocks, or delivered by pipeline or tube trucks, resulting in new storage, handling, and equipment challenges necessary beyond that carried out under the Energy Policy Act of 2005.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dent, Charles W.", 
+    "state": "PA", 
+    "thomas_id": "01799", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-02-08T15:54:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

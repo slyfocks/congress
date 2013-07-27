@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-28T20:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8548-8549", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8548", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-28T21:04:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Davis, Tom amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt409-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3338-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3338
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment provides for a navigation project on the Occoquan River, Virginia.", 
+  "house_number": 18, 
+  "introduced_at": "2001-11-28", 
+  "number": 409, 
+  "purpose": "An amendment to authorize a project for navigation on the Occoquan River, Virginia.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-11-28T21:04:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

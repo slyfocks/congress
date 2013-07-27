@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-06T15:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3373-3374", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3373", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-06T15:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Price (GA) amendment (A038) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt973-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases FIRE grants program funding.", 
+  "house_number": 38, 
+  "introduced_at": "2006-06-06", 
+  "number": 973, 
+  "purpose": "An amendment regarding funding for limousine services and fire protection.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-06T15:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

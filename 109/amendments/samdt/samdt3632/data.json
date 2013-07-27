@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-26", 
+      "references": [
+        {
+          "reference": "CR S3553-3555", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3554", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3632 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-26", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3632 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3632-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-04-26", 
+  "number": 3632, 
+  "proposed_at": "2006-04-26", 
+  "purpose": "To ensure that a Federal employee who takes leave without pay in order to perform service as a member of the uniformed services or member of the National Guard shall continue to receive pay in an amount which, when taken together with the pay and allowances such individual is receiving for such service, will be no less than the basic pay such individual would then be receiving if no interruption in employment had occurred.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-04-26", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

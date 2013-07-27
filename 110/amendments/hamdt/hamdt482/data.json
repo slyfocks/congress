@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-28T13:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7370-7374, H7403", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7370-7371", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Campbell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-28T18:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 597, 
+      "text": "On agreeing to the Campbell (CA) amendment (A029) Failed by recorded vote: 48 - 372 (Roll no. 597).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt482-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2829-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2829
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike all earmark funding in the bill.", 
+  "house_number": 29, 
+  "introduced_at": "2007-06-28", 
+  "number": 482, 
+  "purpose": "An amendment to prohibit use of funds for a list of sundry projects contained in the bill.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-28T18:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

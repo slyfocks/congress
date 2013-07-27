@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "references": [
+        {
+          "reference": "CR S2762-2768, S2808", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2762", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 173 proposed by Senator Specter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 56, 
+      "text": "Amendment SA 173 agreed to in Senate by Yea-Nay Vote. 63 - 37. Record Vote Number: 56.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt173-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-16", 
+  "number": 173, 
+  "proposed_at": "2005-03-16", 
+  "purpose": "To increase discretionary health and education funding by $2,000,000,000.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Specter, Arlen", 
+    "state": "PA", 
+    "thomas_id": "01437", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-16", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

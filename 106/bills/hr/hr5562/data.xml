@@ -1,0 +1,64 @@
+<bill session="106" type="h" number="5562" updated="2013-07-14T18:55:14-04:00">
+  <state datetime="2000-12-15T19:08:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-12-15T19:08:00-05:00"/>
+  </status>
+  <introduced datetime="2000-10-26"/>
+  <titles>
+    <title as="introduced" type="short">Multidistrict Litigation Act of 2000</title>
+    <title as="passed house" type="short">Multidistrict Litigation Act of 2000</title>
+    <title as="introduced" type="official">To amend title 28, United States Code, to allow a judge to whom a case is transferred to retain jurisdiction over certain multidistrict litigation cases for trial.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-26">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-10-31">
+      <text>Referred to the Subcommittee on Courts and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-12-15T19:04:00-05:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="2000-12-15T19:04:00-05:00">
+      <text>Mr. McCollum asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2000-12-15T19:07:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H12513-12514" label="consideration"/>
+      <reference ref="CR H12513" label="text of measure as introduced"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-12-15T19:08:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="2000-12-15T19:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-12-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts and Intellectual Property" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Change of venue"/>
+    <term name="Civil procedure"/>
+    <term name="Damages"/>
+    <term name="District courts"/>
+    <term name="Judges"/>
+    <term name="Judicial districts"/>
+    <term name="Jurisdiction"/>
+    <term name="Pretrial procedure"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1065"/>
+  </amendments>
+  <summary>12/15/2000--Passed House amended.
+Multidistrict Litigation Act of 2000 - Amends the Federal judicial code to allow a civil action transferred for coordinated or consolidated pretrial proceedings to be transferred, for trial purposes, by the judge or judges of the transferee district to whom the action was assigned to the transferee or other district in the interest of justice and for the convenience of the parties and witnesses.Directs that any action so transferred be remanded by the panel for the determination of compensatory damages to the district court from which it was transferred unless the court to which the action was transferred for trial purposes also finds that the action should be retained for the determination of compensatory damages.</summary>
+</bill>

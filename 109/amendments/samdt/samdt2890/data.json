@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-15", 
+      "references": [
+        {
+          "reference": "CR S1371-1372", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1371-1372", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2890 proposed by Senator Frist for Senator Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2890 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2890-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1777-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1777
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-15", 
+  "number": 2890, 
+  "proposed_at": "2006-02-15", 
+  "purpose": "To provide a complete substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-02-15", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

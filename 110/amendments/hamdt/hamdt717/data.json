@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-27T12:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8771-8774, H8778-8779", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8771-8772", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR H8772-8773", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Cooper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-27T13:18:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 754, 
+      "text": "On agreeing to the Cooper amendment (A018) Failed by recorded vote: 175 - 250, 1 Present (Roll no. 754).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt717-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to add language to the bill to control crop insurance program costs.", 
+  "house_number": 18, 
+  "introduced_at": "2007-07-27", 
+  "number": 717, 
+  "purpose": "An amendment numbered 27 printed in Part B of House Report 110-261 to comprehensively reform the federal crop insurance program, including the Administration's farm bill crop insurance proposals. The amendment saves approximately $4 billion while adding resources to the Grassland Reserve Program.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Cooper, Jim", 
+    "state": "TN", 
+    "thomas_id": "00231", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-27T13:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

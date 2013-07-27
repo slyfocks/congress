@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-17", 
+      "references": [
+        {
+          "reference": "CR S13120-13121, S13130", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S13120-13121", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2625 proposed by Senator Nelson NE.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2625 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2625-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2020-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-17", 
+  "number": 2625, 
+  "proposed_at": "2005-11-17", 
+  "purpose": "To require the Secretary of the Treasury to establish a disability preference program for qualified tax collection contracts.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, E. Benjamin", 
+    "state": "NE", 
+    "thomas_id": "01627", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-17", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-15T12:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H355-357", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H355-356", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Matsui.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-15T12:14:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Matsui amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt3-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr384-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment expresses the sense of the Congress that financial institutions which receive future TARP funds should not foreclose on any principal homeowner until the new loan modification program in the bill is implemented and deemed fully operational.", 
+  "house_number": 2, 
+  "introduced_at": "2009-01-15", 
+  "number": 3, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-3 to provide a sense of Congress stating that TARP participants, who receive from future TARP funds, should not initiate a foreclosure proceeding or foreclosure sale on any principal homeowner until the new systematic loan modification plan is implemented and deemed fully operational by the Secretary and Chair of FDIC.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Matsui, Doris O.", 
+    "state": "CA", 
+    "thomas_id": "01814", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-01-15T12:14:00-05:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

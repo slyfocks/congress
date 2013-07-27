@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T18:47:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H425-429", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H425-426", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Watts (OK).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13T19:36:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 25, 
+      "text": "On agreeing to the Watts (OK) amendment (A007) Failed by recorded vote: 185 - 237 (Roll no. 25).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt421-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide an exemption for communications pertaining to civil rights and issues affecting minorities.", 
+  "house_number": 7, 
+  "introduced_at": "2002-02-13", 
+  "number": 421, 
+  "purpose": "Amendment numbered 31 printed in the Congressional Record February 12, 2002 exempting from the bill any communications/advertisement that consists of information or commentary about a person holding or seeking federal office on any matter pertaining to civil rights.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Watts, J. C., Jr.", 
+    "state": "OK", 
+    "thomas_id": "01208", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-02-13T19:36:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

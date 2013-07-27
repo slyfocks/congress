@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3886", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3886", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 555 proposed by Senator Kyl to Amendment SA 387.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 555 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt555-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt387-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 387
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-19", 
+  "number": 555, 
+  "proposed_at": "2005-04-19", 
+  "purpose": "To modify the criteria for excluding certain H-2B workers from the numerical limitations under section 214(g)(1)(B) of the Immigration and Nationality Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-19", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

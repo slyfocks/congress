@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-08", 
+      "references": [
+        {
+          "reference": "CR S1881", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1881", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2959 proposed by Senator Schumer to Amendment SA 2944.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-09", 
+      "references": [
+        {
+          "reference": "CR S1944", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-28", 
+      "references": [
+        {
+          "reference": "CR S2439-2440", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-28", 
+      "references": [], 
+      "text": "Proposed amendment SA 2959 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2959-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2944-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2944
+  }, 
+  "amends_bill": {
+    "bill_id": "s2349-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2349
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-08", 
+  "number": 2959, 
+  "proposed_at": "2006-03-08", 
+  "purpose": "To prohibit any foreign-government-owned or controlled company that recognized the Taliban as the legitimate government of Afghanistan during the Taliban's rule between 1996 - 2001, may own, lease, operate, or mange real property or facility at a United States port.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2006-03-28", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

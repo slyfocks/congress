@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-08T16:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H13350-13351, H13364-13365", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H13350", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Roskam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-08T18:41:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 1069, 
+      "text": "On agreeing to the Roskam amendment (A002) Failed by recorded vote: 168 - 249 (Roll no. 1069).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt886-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3355-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3355
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to insert clarifying language to the bill relating to best practices in building codes.", 
+  "house_number": 2, 
+  "introduced_at": "2007-11-08", 
+  "number": 886, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record to insert clarifying language to the bill relating to best practices in building codes.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Roskam, Peter J.", 
+    "state": "IL", 
+    "thomas_id": "01848", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-11-08T18:41:00-05:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

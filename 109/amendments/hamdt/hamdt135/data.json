@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-17T14:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3379-3381, H3401-3402", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3379", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17T17:12:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 176, 
+      "text": "On agreeing to the Menendez amendment (A008) Agreed to by recorded vote: 225 - 198 (Roll no. 176).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt135-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for State and local grant programs by $50 million in order to enhance the security of chemical plants.", 
+  "house_number": 8, 
+  "introduced_at": "2005-05-17", 
+  "number": 135, 
+  "purpose": "An amendment numbered 14 printed in the Congressional Record to increase funding (by transfer) by $50 million to state and local governments for the defense of chemical plants by first responders.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-17T17:12:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

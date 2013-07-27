@@ -1,0 +1,55 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-11T15:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2951", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A025) offered by the Committee on Resources.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-11T15:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2951", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Resources amendment (A025) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt706-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 25, 
+  "introduced_at": "2000-05-11", 
+  "number": 706, 
+  "purpose": "An amendment to prohibit the expenditure of funds that would diminish the benefit obligations of Social Security and Medicare.", 
+  "sponsor": {
+    "committee_id": "hsii00", 
+    "name": "House Resources", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-11T15:51:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

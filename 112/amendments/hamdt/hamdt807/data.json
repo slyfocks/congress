@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T16:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6596, H6608-6609", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6596", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 752, 
+      "text": "On agreeing to the Waxman amendment (A006) Failed by recorded vote: 169 - 254 (Roll no. 752).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt807-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought insert a finding into the bill which would state that EPA's cement kiln rules are expected to reduce mercury depositions in the eastern and western United States.", 
+  "house_number": 6, 
+  "introduced_at": "2011-10-05", 
+  "number": 807, 
+  "purpose": "An amendment numbered 16 printed in the Congressional Record to find that if the rules specified in section 3(b) remain in effect, they are expected to reduce the amount of mercury that deposits to land and water.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

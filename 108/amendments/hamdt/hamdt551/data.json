@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-16T18:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4241, H4263-4264", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4241", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-16T22:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 251, 
+      "text": "On agreeing to the Sanders amendment (A004) Failed by recorded vote: 199 - 227 (Roll no. 251).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt551-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4568-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4568
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to reallocate $1 million from within the Energy Conservation line item to the Energy Smart Schools account.", 
+  "house_number": 4, 
+  "introduced_at": "2004-06-16", 
+  "number": 551, 
+  "purpose": "An amendment to reallocate $1 million from within the Energy Conservation line item to the Energy Smart Schools account.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-16T22:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

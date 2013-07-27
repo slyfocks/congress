@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T16:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3425-3426", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3425", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Pearce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-05T16:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Pearce amendment (A025) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1194-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funds for the Office of the National Nuclear Security Administration Administrator by $88,923,000 and to increase funds for the Defense Environmental Cleanup Management Fund by a similar amount.", 
+  "house_number": 25, 
+  "introduced_at": "2012-06-05", 
+  "number": 1194, 
+  "purpose": "An amendment to reduce funds for Defense Nuclear Nonproliferation Office of the Administrator by $40 million and increse funds for Environmental and Other Defense Activities Defense Environmental Cleanup by $40 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-05T16:29:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

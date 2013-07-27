@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-16T20:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1007", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1007", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A045) offered by Mr. Bass (NH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T10:47:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1083", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 71, 
+      "text": "On agreeing to the Bass (NH) amendment (A045) Failed by recorded vote: 104 - 322, 2 Present (Roll no. 71).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt55-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funding by $50 million to the LIHEAP program.", 
+  "house_number": 45, 
+  "introduced_at": "2011-02-16", 
+  "number": 55, 
+  "purpose": "An amendment numbered 565 printed in the Congressional Record to reduce funding for the Substance Abuse and Mental Health Services Administration, Substance Abuse and Mental Health Services.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Bass, Charles F.", 
+    "state": "NH", 
+    "thomas_id": "00063", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-17T10:47:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

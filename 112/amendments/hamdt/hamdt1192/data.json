@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T15:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3420-3423", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3421", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T17:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3516", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 329, 
+      "text": "On agreeing to the Burgess amendment (A023) Failed by recorded vote: 168 - 249 (Roll no. 329).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1192-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Defense Nuclear Nonproliferation construction and expansion account by $100 million and to apply the savings to the spending reduction account.", 
+  "house_number": 23, 
+  "introduced_at": "2012-06-05", 
+  "number": 1192, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to reduce the Defense Nuclear Nonproliferation construction and expansion account by $100,000,000, and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T17:08:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

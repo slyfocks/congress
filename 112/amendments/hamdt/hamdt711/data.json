@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-22T09:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5379-5380, H5385-5386", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5379", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-22T11:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 627, 
+      "text": "On agreeing to the Holt amendment (A015) Failed by recorded vote: 176 - 235 (Roll no. 627).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt711-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2551-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2551
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 15, 
+  "introduced_at": "2011-07-22", 
+  "number": 711, 
+  "purpose": "An amendment numbered 12 printed in House Report 112-173 to provide $2.5 million for the congressional Office of Technology Assessment and reduce funding for the House Historic Buildings Revitalization Trust Fund by the same amount.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-22T11:01:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

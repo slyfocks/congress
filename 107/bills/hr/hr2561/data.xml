@@ -1,0 +1,127 @@
+<bill session="107" type="h" number="2561" updated="2013-07-14T18:57:52-04:00">
+  <state datetime="2001-12-20T11:32:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-12-20T11:32:00-05:00"/>
+  </status>
+  <introduced datetime="2001-07-18"/>
+  <titles>
+    <title as="introduced" type="short">Living American Hero Appreciation Act</title>
+    <title as="passed house" type="short">Living American Hero Appreciation Act</title>
+    <title as="introduced" type="official">To increase the rate of special pension for recipients of the medal of honor, to authorize those recipients to be furnished an additional medal for display purposes, to increase the criminal penalties associated with misuse or fraud relating to the medal of honor, and for other purposes.</title>
+    <title as="amended by house" type="official">To amend title 38, United States Code, to increase the rate of special pension for recipients of the Medal of Honor and to make that special pension effective from the date of the act for which the recipient is awarded the Medal of Honor and to amend title 18, United States Code, to increase the criminal penalties associated with misuse or fraud relating to the Medal of Honor.</title>
+  </titles>
+  <sponsor id="400428"/>
+  <cosponsors>
+    <cosponsor id="400525" joined="2001-09-19"/>
+    <cosponsor id="400522" joined="2001-09-14"/>
+    <cosponsor id="400126" joined="2001-07-18"/>
+    <cosponsor id="400536" joined="2001-07-18"/>
+    <cosponsor id="400176" joined="2001-09-25"/>
+    <cosponsor id="400201" joined="2001-09-14"/>
+    <cosponsor id="400521" joined="2001-09-24"/>
+    <cosponsor id="400264" joined="2001-07-18"/>
+    <cosponsor id="400286" joined="2001-07-18"/>
+    <cosponsor id="400365" joined="2001-07-18"/>
+    <cosponsor id="400377" joined="2001-07-18"/>
+    <cosponsor id="400380" joined="2001-07-18"/>
+    <cosponsor id="400399" joined="2001-09-14"/>
+    <cosponsor id="400418" joined="2001-09-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-07-18">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2001-07-18">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2001-07-18">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2001-07-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2001-08-06">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2001-08-13">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2001-08-13">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2001-08-15">
+      <text>Referred to the Subcommittee on Benefits.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2001-12-19T18:32:00-05:00">
+      <text>Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2001-12-19T18:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10480-10482" label="consideration"/>
+    </action>
+    <action datetime="2001-12-19T18:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2561.</text>
+    </action>
+    <action datetime="2001-12-19T18:44:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2001-12-20T11:32:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H10935, H10937" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-20T11:32:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 11/19/2001 H10480" label="text"/>
+    </vote>
+    <action datetime="2001-12-20T11:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-12-20T11:33:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-12-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR06" subcommittee="Benefits" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="2025"/>
+    <bill relation="unknown" session="107" type="s" number="2237"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional Medal of Honor"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Economics and public finance"/>
+    <term name="Families"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Fraud"/>
+    <term name="Labor and employment"/>
+    <term name="Married people"/>
+    <term name="Military dependents"/>
+    <term name="Military transportation"/>
+    <term name="Transportation and public works"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' organizations"/>
+    <term name="Veterans' pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2001--Passed House amended.
+Living American Hero Appreciation Act - Increases from $600 to $1,000 the monthly special pension for Medal of Honor (Medal) recipients, makes such award effective from the first day of the month that begins after the date of the act for which the Medal was awarded, and makes such amount subject to an annual cost-of-living adjustment. Directs the Secretary of Veterans Affairs to make a lump-sum payment to existing Medal recipients for any retroactive amounts due as a result of such increase.Provides criminal penalties for the unauthorized purchase or possession of a Medal or for false representation as a Medal recipient.</summary>
+</bill>

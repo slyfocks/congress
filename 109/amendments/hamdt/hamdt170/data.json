@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-19T13:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3620-3623", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3620", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. Cubin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-19T13:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cubin amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt170-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the Payments in Lieu of Taxes (PILT) program by $12 million.", 
+  "house_number": 2, 
+  "introduced_at": "2005-05-19", 
+  "number": 170, 
+  "purpose": "An amendment to decrease funding for management of the Department of the Interior by $13,000,000 and to increase funding to implement the Act of October 20, 2976, as amended (31 U.S.C. 6901-6907) by $12,000,000.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cubin, Barbara", 
+    "state": "WY", 
+    "thomas_id": "00254", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-05-19T13:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

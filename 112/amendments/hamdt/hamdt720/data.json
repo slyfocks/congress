@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T15:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5518-5519, H5531", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5518-5519", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Welch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T17:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 640, 
+      "text": "On agreeing to the Welch amendment (A001) Failed by recorded vote: 164 - 260 (Roll no. 640).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt720-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1938-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1938
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to add language describing an environmental finding which states that the Keystone XL pipeline would run through the Ogallala Aquifer and which would explain the risks involved with the proposed route.", 
+  "house_number": 1, 
+  "introduced_at": "2011-07-26", 
+  "number": 720, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-181 to add language to the findings section that states that the Keystone XL pipeline would run through the Ogallala Aquifer and explains the risk involved with this route.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "thomas_id": "01879", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T17:30:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

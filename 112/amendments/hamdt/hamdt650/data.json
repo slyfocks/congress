@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-13T21:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5014-5015", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5014", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A047) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-14T15:11:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5049-5050", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 582, 
+      "text": "On agreeing to the Broun (GA) amendment (A047) Failed by recorded vote: 187 - 239 (Roll no. 582).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt650-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to eliminate the $250,000 in funding for the Southeast Crescent Regional Commission and apply the savings to the spending reduction account.", 
+  "house_number": 47, 
+  "introduced_at": "2011-07-13", 
+  "number": 650, 
+  "purpose": "An amendment No. 47 printed in the Congressional Record to zero out the $250,000 appropriation for the Southeast Crescent Regional Commission and to apply the savings to the Spending Reduction Account.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-14T15:11:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

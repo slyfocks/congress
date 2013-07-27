@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-12-08", 
+      "references": [
+        {
+          "reference": "CR S11572", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11572", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5235 proposed by Senator Enzi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-08", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5235 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5235-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1245-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1245
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-12-08", 
+  "number": 5235, 
+  "proposed_at": "2006-12-08", 
+  "purpose": "To provide a complete substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Enzi, Michael B.", 
+    "state": "WY", 
+    "thomas_id": "01542", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-12-08", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,95 @@
+<bill session="106" type="h" number="5362" updated="2013-07-14T18:55:11-04:00">
+  <state datetime="2000-10-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-10-17"/>
+  </status>
+  <introduced datetime="2000-10-03"/>
+  <titles>
+    <title as="introduced" type="official">To increase the amount of fees charged to employers who are petitioners for the employment of H-1B non-immigrant workers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors>
+    <cosponsor id="400600" joined="2000-10-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-10-03">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2000-10-03">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-10-06">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-10-06T14:08:00-04:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="2000-10-06T14:08:00-04:00">
+      <text>Mr. Cannon asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2000-10-06T14:08:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9048-9052" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-06T14:25:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H9052" label="text"/>
+    </vote>
+    <action datetime="2000-10-06T14:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-10-10" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10155" label="consideration"/>
+    </vote>
+    <topresident datetime="2000-10-10">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-10-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-10-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-10-17">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-10-17" type="public" number="106-311">
+      <text>Became Public Law No: 106-311.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative fees"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Alien labor"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary schools"/>
+    <term name="High schools"/>
+    <term name="Higher education"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Research centers"/>
+    <term name="School personnel"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientists"/>
+    <term name="Secondary education"/>
+    <term name="Social scientists"/>
+    <term name="Social welfare"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/2000--Introduced.
+Amends the Immigration and Nationality Act to increase employer-paid H-1B alien petition filing fees. Revises and extends the fee exemption for educational and related employers.</summary>
+</bill>

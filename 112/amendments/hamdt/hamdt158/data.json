@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-18T23:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1319-1320, H1336-1337", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1319", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A148) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-19T02:02:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 136, 
+      "text": "On agreeing to the McKinley amendment (A148) Agreed to by recorded vote: 239 - 183 (Roll no. 136).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt158-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 148, 
+  "introduced_at": "2011-02-18", 
+  "number": 158, 
+  "purpose": "An amendment numbered 217 printed in the Congressional Record to prohibit the use of funds by EPA to develop, propose, finalize, implement, administer, or enforce any regulation that identifies or lists fossil fuel combustion waste as hazardous waste subject to regulation.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-19T02:02:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

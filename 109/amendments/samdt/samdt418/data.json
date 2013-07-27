@@ -1,0 +1,92 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3775-3779", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3775", 
+          "type": "text"
+        }, 
+        {
+          "reference": "CR S3775", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 418 proposed by Senator Chambliss.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-19", 
+      "references": [
+        {
+          "reference": "CR S3866, S3887-3888", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3887", 
+          "type": "text as further modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "references": [
+        {
+          "reference": "CR S3965, S4000", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S4000", 
+          "type": "text as further modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 418 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt418-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-14", 
+  "number": 418, 
+  "proposed_at": "2005-04-18", 
+  "purpose": "To prohibit the termination of the existing joint-service multiyear procurement contract for C/KC-130J aircraft.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chambliss, Saxby", 
+    "state": "GA", 
+    "thomas_id": "00188", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

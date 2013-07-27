@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T16:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5525-5526, H5534-5535", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5525", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Rush.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T17:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 645, 
+      "text": "On agreeing to the Rush amendment (A007) Failed by recorded vote: 161 - 265 (Roll no. 645).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt726-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1938-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1938
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow for 120 days after the final environmental impact statement or no later than January 1, 2012, for the President to issue a final decision on the Keystone XL pipeline.", 
+  "house_number": 7, 
+  "introduced_at": "2011-07-26", 
+  "number": 726, 
+  "purpose": "An amendment numbered 7 printed in House Report 112-181 to extend the deadline for permit decision to 120 days after final environmental impact statement or until January 1, 2012.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T17:53:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

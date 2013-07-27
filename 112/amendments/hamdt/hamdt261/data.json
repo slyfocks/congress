@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-03T15:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2963-2964, H2978-2979", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2963", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-03T17:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 282, 
+      "text": "On agreeing to the Waters amendment (A002) Failed by recorded vote: 178 - 242 (Roll no. 282).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt261-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1213-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1213
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require, within 6 months after enactment, the Secretary of Health and Human Services to submit to Congress a report on the extent to which states are expected to have difficulties establishing Health Benefit Exchanges without the federal assistance repealed and rescinded under this bill.", 
+  "house_number": 2, 
+  "introduced_at": "2011-05-03", 
+  "number": 261, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-70 to require, within 6 months after enactment, the Secretary of Health and Human Services to submit to Congress a report on the extent to which states are expected to have difficulties establishing Health Benefit Exchanges without the federal assistance repealed and rescinded under this bill.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-03T17:37:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T15:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6642-6645, H6705", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6642", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T21:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 421, 
+      "text": "On agreeing to the Vitter amendment (A002) Agreed to by recorded vote: 284 - 134 (Roll no. 421).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1013-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for the High Intensity Drug Trafficking Areas (HIDTA) program by $25 million.", 
+  "house_number": 2, 
+  "introduced_at": "2000-07-20", 
+  "number": 1013, 
+  "purpose": "An amendment to add $25 million to the High Intensity Drug Trafficking Areas (HIDTA) program and reduce funding fir the IRS Processing Assistance and Management account by $25 million.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-20T21:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

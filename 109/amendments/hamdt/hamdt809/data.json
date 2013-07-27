@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-10T18:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2468-2470", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2468", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Simmons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-10T18:52:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Simmons amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt809-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5122-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5122
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment temporarily prohibits the Department of Defense from allowing certain security clearances that have requested renewal to expire.", 
+  "house_number": 7, 
+  "introduced_at": "2006-05-10", 
+  "number": 809, 
+  "purpose": "An amendment numbered 7 printed in House Report 109-459 to prevent DoD from revoking expired security clearances from defense contractors until an investigation moratorium and backlog is eliminated; and does not change the security clearance investigation process or prevent the department from revoking security clearances for national security purposes.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Simmons, Rob", 
+    "state": "CT", 
+    "thomas_id": "01642", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-10T18:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

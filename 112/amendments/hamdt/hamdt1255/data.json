@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-06T22:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3559-3561, H3574-3575", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3559", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Bishop (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T23:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3574-3575", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 357, 
+      "text": "On agreeing to the Bishop (NY) amendment (A024) Failed by recorded vote: 166 - 245 (Roll no. 357).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1255-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the amount that DHS can spend on construction of laboratory facilities (specifically NBAF) by $75 million and to redirect those funds to the research, development, acquisitions, and operations account.", 
+  "house_number": 24, 
+  "introduced_at": "2012-06-06", 
+  "number": 1255, 
+  "purpose": "An amendment to redirect funding within the Science and Technology Research, Development, Acquistion, and Operations account by $75 million.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T23:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

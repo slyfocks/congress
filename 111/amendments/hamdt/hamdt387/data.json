@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-24T12:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8779-8782, H8788-8789", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8779", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Souder.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-24T14:07:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 642, 
+      "text": "On agreeing to the Souder amendment (A002) Failed by recorded vote: 211 - 218 (Roll no. 642).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt387-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3293-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3293
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funding for any program which distributes sterile needles or syringes for the hypodermic injection of any illegal drug.", 
+  "house_number": 2, 
+  "introduced_at": "2009-07-24", 
+  "number": 387, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-222 to prohibit funding for any program which distributes sterile needles or syringes for the hypodermic injection of any illegal drug.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Souder, Mark E.", 
+    "state": "IN", 
+    "thomas_id": "01089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-24T14:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

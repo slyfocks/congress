@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17T02:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1057-1058", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1057", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A062) offered by Mr. Heller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17T11:10:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1087-1088", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 78, 
+      "text": "On agreeing to the Heller amendment (A062) Failed by recorded vote: 190 - 241 (Roll no. 78).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt72-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the Multilateral Economic Assistance Account in the State Foreign Operations section of the bill by $211,244,700 and apply the savings to the spending reduction account.", 
+  "house_number": 62, 
+  "introduced_at": "2011-02-17", 
+  "number": 72, 
+  "purpose": "An amendment numbered 29 printed in the Congressional Record to reduce several multilateral accounts.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-02-17T11:10:00-05:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

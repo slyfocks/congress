@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T01:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6464-6465, H6492", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6464", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A041) offered by Mr. Poe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T10:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 482, 
+      "text": "On agreeing to the Poe amendment (A041) Failed by recorded vote: 89 - 331 (Roll no. 482).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt290-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "An amendment to prohibit funds to be used by the Secretary of Homeland Security to develop a plan that permits travel into the United States from foreign countries using any document other than a passport.", 
+  "house_number": 41, 
+  "introduced_at": "2007-06-15", 
+  "number": 290, 
+  "purpose": "An amendment numbered 28 printed in the Congressional Record to prohibit funds to be used by the Secretary of Homeland Security to develop a plan that permits travel into the United States from foreign countries using any document other than a passport.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T10:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

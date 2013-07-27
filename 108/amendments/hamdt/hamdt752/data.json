@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-14T17:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7135-7136", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7135", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Jefferson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-14T17:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Jefferson amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt752-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5025-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 5025
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to delete section 103 which provides that none of the funds in the bill may be used for engineering work related to an additional runway at Louis Armstrong New Orleans International Airport.", 
+  "house_number": 2, 
+  "introduced_at": "2004-09-14", 
+  "number": 752, 
+  "purpose": "An amendment which seeks to strike lines 11 through 14 on Page 13.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Jefferson, William J.", 
+    "state": "LA", 
+    "thomas_id": "00592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-14T17:58:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

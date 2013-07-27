@@ -1,0 +1,74 @@
+<bill session="107" type="hj" number="95" updated="2013-07-14T18:58:55-04:00">
+  <state datetime="2002-06-24T19:12:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-06-24T19:12:00-04:00"/>
+  </status>
+  <introduced datetime="2002-05-23"/>
+  <titles>
+    <title as="introduced" type="official">Designating an official flag of the Medal of Honor and providing for presentation of that flag to each recipient of that Medal of Honor.</title>
+    <title as="amended by house" type="official">Providing for the designation of a Medal of Honor Flag and for presentation of that flag to recipients of the Medal of Honor.</title>
+  </titles>
+  <sponsor id="400234"/>
+  <cosponsors>
+    <cosponsor id="400209" joined="2002-06-24"/>
+    <cosponsor id="400265" joined="2002-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-05-23">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2002-06-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2002-06-18">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2002-06-24T18:06:00-04:00">
+      <text>Mr. Schrock moved to suspend the rules and pass the resolution, as amended.</text>
+    </action>
+    <action datetime="2002-06-24T18:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3834-3836" label="consideration"/>
+    </action>
+    <action datetime="2002-06-24T18:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 95.</text>
+    </action>
+    <action datetime="2002-06-24T18:24:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-06-24T19:04:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3839" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-06-24T19:12:00-04:00" how="roll" result="pass" roll="252" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 252).</text>
+      <reference ref="CR H3834-3835" label="text"/>
+    </vote>
+    <action datetime="2002-06-24T19:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-06-24T19:12:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-06-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional Medal of Honor"/>
+    <term name="Flags"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2002--Passed House amended.
+Directs the: (1) Secretary of Defense to design and designate a Medal of Honor Flag, taking into account designs submitted by the general public; and (2) President to provide for the presentation of such Flag to each Medal recipient.</summary>
+</bill>

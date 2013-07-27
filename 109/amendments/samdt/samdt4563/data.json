@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-11", 
+      "references": [
+        {
+          "reference": "CR S7320-7325, S7326", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4563 proposed by Senator Akaka for Senator Clinton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-11", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 193, 
+      "text": "Amendment SA 4563 not agreed to in Senate by Yea-Nay Vote. 32 - 66. Record Vote Number: 193.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4563-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-11", 
+  "number": 4563, 
+  "proposed_at": "2006-07-11", 
+  "purpose": "To establish the Federal Emergency Management Agency as an independent agency, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-11", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

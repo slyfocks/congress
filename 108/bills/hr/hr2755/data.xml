@@ -1,0 +1,61 @@
+<bill session="108" type="h" number="2755" updated="2013-07-14T19:01:46-04:00">
+  <state datetime="2003-10-08T14:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2003-10-08T14:07:00-04:00"/>
+  </status>
+  <introduced datetime="2003-07-16"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the President to issue posthumously to the late William "Billy" Mitchell a commission as major general, United States Army.</title>
+  </titles>
+  <sponsor id="400019"/>
+  <cosponsors>
+    <cosponsor id="400091" joined="2003-07-25"/>
+    <cosponsor id="400191" joined="2003-07-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-07-16">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2003-08-15">
+      <text>Referred to the Subcommittee on Total Force.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2003-10-08T13:50:00-04:00">
+      <text>Mr. Hunter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-10-08T13:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H9322-9325" label="consideration"/>
+    </action>
+    <action datetime="2003-10-08T13:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2755.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-10-08T14:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref=" CR H9322" label="text"/>
+    </vote>
+    <action datetime="2003-10-08T14:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-10-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS27" subcommittee="Total Force" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="s" number="2380"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Army"/>
+    <term name="Military promotions"/>
+    <term name="Officer personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2003--Passed House without amendment.
+Authorizes the President to issue, posthumously, a commission as major general, United States Army, in the name of William Mitchell, a former colonel who resigned his commission on February 1, 1926.</summary>
+</bill>

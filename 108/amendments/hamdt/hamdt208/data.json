@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-09T13:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6379-6380", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6379", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Honda.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-09T13:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Honda amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt208-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2211-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2211
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment allows Partnership Grants to be used to establish teacher mentoring programs.", 
+  "house_number": 3, 
+  "introduced_at": "2003-07-09", 
+  "number": 208, 
+  "purpose": "An amendment numbered 3 printed in House Report 108-190 to provide for `Mentoring Programs' under allowable uses for Partnership Grants under section 203. Such programs would: establish and implement minimum qualifications for mentors; provide training and stipends for mentors; provide mentoring programs for teachers in their first three years of teaching; provide regular and ongoing opportunities for mentors and mentees to observe each other's teaching methods in classroom settings during the school day; establish an evaluation and accountability plan for activities; require a report to the Secretary on an annual basis regarding the partnership's progress.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Honda, Michael M.", 
+    "state": "CA", 
+    "thomas_id": "01634", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-09T13:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

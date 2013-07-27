@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-18T18:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4970-4971, H5000-5001", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4970", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Amash.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-18T22:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 478, 
+      "text": "On agreeing to the Amash amendment (A018) Failed by recorded vote: 186 - 233 (Roll no. 478).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1395-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike section 8039 from the bill. Section 8039 prohibits funds from being used to convert to contractor performance an activity or function performed by civilian employees, unless certain conditions are met.", 
+  "house_number": 18, 
+  "introduced_at": "2012-07-18", 
+  "number": 1395, 
+  "purpose": "An amendment to strike section 8039 from the bill.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Amash, Justin", 
+    "state": "MI", 
+    "thomas_id": "02029", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-18T22:03:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-09T10:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6030-6031", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6030", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Keating.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-09T10:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Keating amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt788-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1892-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment inserts sense of Congress language which encourages the Secretary of Homeland Security, in consultation with the Director of National Intelligence, to integrate the intelligence-sharing capabilities of fusion centers and leverage participation from all intelligence, law enforcement and homeland security agencies to prevent acts of terrorism against the United States in a manner consistent with the Constitution.", 
+  "house_number": 6, 
+  "introduced_at": "2011-09-09", 
+  "number": 788, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Keating, William R.", 
+    "state": "MA", 
+    "thomas_id": "02025", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-09-09T10:24:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-12T18:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5495-5496, H5497", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5495", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Hefley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-12T19:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 360, 
+      "text": "On agreeing to the Hefley amendment (A002) Failed by recorded vote: 87 - 278 (Roll no. 360).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt668-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4755-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4755
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2004-07-12", 
+  "number": 668, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-590 to provide that each amount appropriated or otherwise made available in the Act that is not required to be appropriated or otherwise made available by a provision of law is reduced by 1%.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-12T19:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

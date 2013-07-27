@@ -1,0 +1,70 @@
+<bill session="106" type="hc" number="19" updated="2013-07-14T18:55:19-04:00">
+  <state datetime="1999-02-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1999-02-12"/>
+  </status>
+  <introduced datetime="1999-02-02"/>
+  <titles>
+    <title as="introduced" type="official">Permitting the use of the Rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+  </titles>
+  <sponsor id="400401"/>
+  <cosponsors>
+    <cosponsor id="400585" joined="1999-02-02"/>
+    <cosponsor id="400536" joined="1999-02-02"/>
+    <cosponsor id="400189" joined="1999-02-02"/>
+    <cosponsor id="400231" joined="1999-02-02"/>
+    <cosponsor id="400235" joined="1999-02-02"/>
+    <cosponsor id="400334" joined="1999-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-02">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="1999-02-02T14:55:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="1999-02-02T14:55:00-05:00">
+      <text>Mr. Thomas asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="1999-02-02T14:56:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H291-293" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-02-02T15:12:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1999-02-02T15:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-02-04">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1999-02-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1660" label="consideration"/>
+    </vote>
+    <action datetime="1999-02-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congress"/>
+    <term name="Crime and law enforcement"/>
+    <term name="History"/>
+    <term name="International affairs"/>
+    <term name="Jewish holocaust (1939-1945)"/>
+    <term name="Special days"/>
+    <term name="Special weeks"/>
+    <term name="Victims of crimes"/>
+    <term name="War crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1999--Introduced.
+Authorizes use of the Rotunda of the Capitol on April 13, 1999, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</summary>
+</bill>

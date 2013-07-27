@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-23T21:44:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5301-5304, H5306", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H5301", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Rangel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-23T22:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 333, 
+      "text": "On agreeing to the Rangel amendment (A008) Failed by recorded vote: 204 - 226 (Roll no. 333).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt555-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5120-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5120
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to prohibit use of funds in the bill to implement, administer, or enforce the economic embargo of Cuba.", 
+  "house_number": 8, 
+  "introduced_at": "2002-07-23", 
+  "number": 555, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to prohibit use of funds in the bill to implement, administer, or enforce the economic embargo of Cuba.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-23T22:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

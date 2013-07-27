@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-06T13:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6652-6653, H6659-6660", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6652", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Hahn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06T14:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 768, 
+      "text": "On agreeing to the Hahn amendment (A003) Failed by recorded vote: 151 - 255 (Roll no. 768).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt822-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that the current boiler rules and regulations must stay in effect for the ten metropolitan areas of the United States with the worst air quality.", 
+  "house_number": 3, 
+  "introduced_at": "2011-10-06", 
+  "number": 822, 
+  "purpose": "An amendment numbered 15 printed in the Congressional Record to require the current boiler rules and regulations to stay in effect for the ten metropolitan areas of the United States with the worst air quality.", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Hahn, Janice", 
+    "state": "CA", 
+    "thomas_id": "02089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-06T14:41:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

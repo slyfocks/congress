@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-18T13:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4544-4550, H4556-4557", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4544", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-18T16:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 273, 
+      "text": "On agreeing to the Markey amendment (A022) Failed by recorded vote: 191 - 211 (Roll no. 273).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt589-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4567-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 22, 
+  "introduced_at": "2004-06-18", 
+  "number": 589, 
+  "purpose": "An amendment numbered ten printed in the Congressional Record to prohibit the use of finds in the bill to approve, renew or implement any aviation cargo security plan that permits the transportation of unscreened or uninspected cargo on passenger planes.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-18T16:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

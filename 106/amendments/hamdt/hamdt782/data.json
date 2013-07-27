@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T16:30:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4275-4276, H4279-4280", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Schaffer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T17:46:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H4275", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 264, 
+      "text": "On agreeing to the Schaffer amendment (A024) Failed by recorded vote: 103 - 315 (Roll no. 264).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt782-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for special education state grants by $42.2 million.", 
+  "house_number": 24, 
+  "introduced_at": "2000-06-13", 
+  "number": 782, 
+  "purpose": "An amendment numbered 205 printed in the Congressional Record to increase by transfer the amount for special education by $42,224,000.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Schaffer, Bob", 
+    "state": "CO", 
+    "thomas_id": "01524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-13T17:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

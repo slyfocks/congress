@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-23T10:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6427-6428, H6440-6441", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6427", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Hastings (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-23T12:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 734, 
+      "text": "On agreeing to the Hastings (FL) amendment (A007) Failed by recorded vote: 165 - 254 (Roll no. 734).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt796-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2401-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to exclude from the committee's jurisdiction all rules and regulations that undergo a cost-benefit analysis as a part of existing regulatory requirements.", 
+  "house_number": 7, 
+  "introduced_at": "2011-09-23", 
+  "number": 796, 
+  "purpose": "An amendment numbered 7 printed in House Report 112-213 to exclude from the committee's jurisdiction all rules and regulations that undergo a cost-benefit analysis as a part of existing regulatory requirements.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "thomas_id": "00511", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-09-23T12:23:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

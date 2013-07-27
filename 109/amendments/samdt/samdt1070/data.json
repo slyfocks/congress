@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-11", 
+      "references": [
+        {
+          "reference": "CR S7976", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7976", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1070 proposed by Senator Isakson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-11", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1070 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1070-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2360-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2360
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-29", 
+  "number": 1070, 
+  "proposed_at": "2005-07-11", 
+  "purpose": "Expressing the sense of the Senate relative to border protection and alien and drug smugglers' methods, routes, and modes of transportation.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Isakson, Johnny", 
+    "state": "GA", 
+    "thomas_id": "01608", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-11", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

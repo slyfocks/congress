@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-03T15:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7294-7295, H7311-7312", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7294", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Miller (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-03T18:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 826, 
+      "text": "On agreeing to the Miller (NC) amendment (A002) Failed by the Yeas and Nays: 190 - 234 (Roll no. 826).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt849-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2940-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2940
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require a disclosure that if there are going to be unregulated solicitations or advertisements seeking investments in certain companies, the advertisement or solicitation must disclose the existence of any compensation agreement or \"golden parachute\" severance package for executives that might result in redirection of any profits.", 
+  "house_number": 2, 
+  "introduced_at": "2011-11-03", 
+  "number": 849, 
+  "purpose": "An amendment printed in Part B of House Report 112-265 to require disclosure of bonus compensation structures and \"golden parachute\" arrangements in advertising materials associated with an exempted offering.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Brad", 
+    "state": "NC", 
+    "thomas_id": "01735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-11-03T18:24:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

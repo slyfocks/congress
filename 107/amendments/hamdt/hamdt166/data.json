@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-17T14:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4063-4068", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4063", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Watt (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-17T15:18:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A001) and on the joint resolution, pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-17T15:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 231, 
+      "text": "On agreeing to the Watt (NC) amendment (A001) Failed by the Yeas and Nays: 100 - 324 (Roll no. 231).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt166-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hjres36-107", 
+    "bill_type": "hjres", 
+    "congress": 107, 
+    "number": 36
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-07-17", 
+  "number": 166, 
+  "purpose": "An amendment to insert a complete new text which proposes an amendment to the Constitution giving Congress the power to prohibit the physical desecration of the flag of the United States as long as such action is not inconsistent with the first article of amendment to the Constitution.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-17T15:57:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

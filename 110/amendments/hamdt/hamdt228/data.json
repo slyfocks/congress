@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-23T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5652-5653", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5652", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Bishop (UT).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-23T14:23:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Bishop (UT) amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt228-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1100-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1100
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce from 110 acres to 5 acres the total amount of acreage which can be acquired for the Carl Sandburg Home National Historic Site.", 
+  "house_number": 2, 
+  "introduced_at": "2007-05-23", 
+  "number": 228, 
+  "purpose": "An amendment numbered 2 printed in House Report 110-165 to reduce the total amount of acreage which can be acquired for the Carl Sandburg Home National Historic Site form 115 acres to 5 (for use as a visitor center and parking lot).", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Rob", 
+    "state": "UT", 
+    "thomas_id": "01753", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-23T14:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

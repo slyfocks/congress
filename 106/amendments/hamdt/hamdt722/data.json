@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-18T13:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3347-3350, H3371", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3347", 
+          "type": " text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Ms. Sanchez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T16:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 203, 
+      "text": "On agreeing to the Sanchez amendment (A009) Failed by recorded vote: 195 - 221 (Roll no. 203).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt722-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to repeal the statutory prohibition on privately funded abortions in overseas military facilities.", 
+  "house_number": 9, 
+  "introduced_at": "2000-05-18", 
+  "number": 722, 
+  "purpose": "An amendment numbered 1 printed in House Report 106-624 to restore equal access to health services at overseas military hospitals to servicemen and women and their dependents stationed overseas.", 
+  "sponsor": {
+    "district": "46", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-18T16:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

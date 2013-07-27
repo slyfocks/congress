@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24", 
+      "references": [
+        {
+          "reference": "CR S5073-5075, S5077-5078, S5078-5080, S5092-5093", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5074-5075", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4101 proposed by Senator Hutchison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 148, 
+      "text": "Amendment SA 4101 not agreed to in Senate by Yea-Nay Vote. 31 - 67. Record Vote Number: 148.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4101-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-22", 
+  "number": 4101, 
+  "proposed_at": "2006-05-24", 
+  "purpose": "To enhance border security by creating a pilot SAFE Visa Program to grant visas to authorized nationals of a NAFTA or CAFTA-DR country who receive employment offers in job areas in the United States that have been certified by the Secretary of Labor as having a shortage of workers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hutchison, Kay Bailey", 
+    "state": "TX", 
+    "thomas_id": "01368", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

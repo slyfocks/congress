@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-15T13:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6534-6536, H6561-6562", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6535", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hayes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T16:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 492, 
+      "text": "On agreeing to the Hayes amendment (A001) Failed by recorded vote: 110 - 304 (Roll no. 492).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt301-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2642-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2642
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to increase funding, by offset, for the 2005 Department of Defense Base Closure Account by $30 million.", 
+  "house_number": 1, 
+  "introduced_at": "2007-06-15", 
+  "number": 301, 
+  "purpose": "An amendment to reduce appropriation for the North Atlantic Treaty Organization Security Investment Program by $30,000,000, and increase the Department of Defense Base Closure Account by $30,000,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hayes, Robin", 
+    "state": "NC", 
+    "thomas_id": "01600", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-15T16:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

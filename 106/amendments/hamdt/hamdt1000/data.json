@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-13T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6002-6004", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6002", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Kucinich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T13:16:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Kucinich amendment (A021) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1000-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit any funds to be made available for the Kosovo Protection Corps.", 
+  "house_number": 21, 
+  "introduced_at": "2000-07-13", 
+  "number": 1000, 
+  "purpose": "Amendment no. 13 printed in the Congressional Record to prohibit any funds to be made available for the Kosovo Protection Corps.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kucinich, Dennis J.", 
+    "state": "OH", 
+    "thomas_id": "01499", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-13T13:16:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

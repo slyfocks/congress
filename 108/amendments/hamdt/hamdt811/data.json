@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-11-20T12:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10096", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H10096", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Putnam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-11-20T12:32:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Putnam amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt811-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres866-108", 
+    "bill_type": "hres", 
+    "congress": 108, 
+    "number": 866
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2004-11-20", 
+  "number": 811, 
+  "purpose": "An amendment to add a new section at the end of the bill stating that upon the adoption of this resolution, the House shall be considered to have adopted House Concurrent Resolution 528.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Putnam, Adam H.", 
+    "state": "FL", 
+    "thomas_id": "01645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-11-20T12:32:00-05:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

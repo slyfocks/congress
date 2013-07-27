@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T17:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3626-3627, H3636-3637", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3626", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-25T19:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 352, 
+      "text": "On agreeing to the Andrews amendment (A015) Failed by recorded vote: 178 - 246 (Roll no. 352).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt315-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to temporarily suspend the implementation and enforcement of workforce management and sourcing policies pursuant to the DoD's efficiency initiative.", 
+  "house_number": 15, 
+  "introduced_at": "2011-05-25", 
+  "number": 315, 
+  "purpose": "An amendment numbered 32 printed in House Report 112-88 to temporarily suspend the implementation and enforcement of workforce management and sourcing policies pursuant to the DODs efficiency initiative.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-25T19:10:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

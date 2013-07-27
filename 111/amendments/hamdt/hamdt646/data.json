@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-05-12T17:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3404-3405", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3404", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Boccieri.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-13T11:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3453", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 267, 
+      "text": "On agreeing to the Boccieri amendment (A011) Agreed to by recorded vote: 248 - 171 (Roll no. 267).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt646-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5116-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5116
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases the authorization level for funding for Federal Loan Guarantees for Innovative Technologies in Manufacturing from $50 million to $100 million.", 
+  "house_number": 11, 
+  "introduced_at": "2010-05-12", 
+  "number": 646, 
+  "purpose": "An amendment numbered 34 printed in Part B of House Report 111-479 to increase the authorization level for funding for Federal Loan Guarantees for Innovative Technologies in Manufacturing from $50 million to $100 million.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Boccieri, John A.", 
+    "state": "OH", 
+    "thomas_id": "01949", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-05-13T11:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

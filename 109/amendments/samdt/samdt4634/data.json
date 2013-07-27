@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-12", 
+      "references": [
+        {
+          "reference": "CR S7399-7401, S7484-7485, S7485-7486", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7399", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 4634 proposed by Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "references": [
+        {
+          "reference": "CR S7455-7504", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 198, 
+      "text": "Amendment SA 4634 not agreed to in Senate by Yea-Nay Vote. 36 - 64. Record Vote Number: 198.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4634-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5441-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5441
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-12", 
+  "number": 4634, 
+  "proposed_at": "2006-07-12", 
+  "purpose": "To provide that appropriations under this Act may not be used for the purpose of providing certain grants, unless all such grants meet certain conditions for allocation.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-13", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6050-6052, H6073-6074", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6050", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19T17:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 389, 
+      "text": "On agreeing to the Smith (NJ) amendment (A011) Agreed to by recorded vote: 223 - 205 (Roll no. 389).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt464-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2601-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2601
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment provides funds for the treatment and prevention of obstetric fistula.", 
+  "house_number": 11, 
+  "introduced_at": "2005-07-19", 
+  "number": 464, 
+  "purpose": "An amendment numbered 12 printed in Part B of House Report 109-175 to expand activities to treat women suffering from obstetric fistula to include increased acces to emergency obstetrical care; to expand activities fr the prevention of fistula from providing access to contraceptive services to providing access to family planning services; to make these prevention activities discretionary rather than obligatory; and to increase the FY 2007 authorization from $5 million to $7.5 million.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-19T17:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

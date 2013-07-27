@@ -1,0 +1,70 @@
+<bill session="107" type="hj" number="60" updated="2013-07-14T18:58:53-04:00">
+  <state datetime="2001-12-04T16:20:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-12-04T16:20:00-05:00"/>
+  </status>
+  <introduced datetime="2001-09-06"/>
+  <titles>
+    <title as="introduced" type="official">Honoring Maureen Reagan on the occasion of her death and expressing condolences to her family, including her husband Dennis Revell and her daughter Rita Revell.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="400380" joined="2001-09-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-09-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2001-09-17">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2001-12-04T16:02:00-05:00">
+      <text>Mr. Bilirakis moved to suspend the rules and pass the resolution, as amended.</text>
+    </action>
+    <action datetime="2001-12-04T16:02:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8770-8772" label="consideration"/>
+    </action>
+    <action datetime="2001-12-04T16:03:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 60.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-04T16:20:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8770" label="text"/>
+    </vote>
+    <action datetime="2001-12-04T16:20:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-12-05">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="sj" number="24"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Alzheimer's disease"/>
+    <term name="Brain research"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Families"/>
+    <term name="Fund raising"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="History"/>
+    <term name="Medical research"/>
+    <term name="Presidential families"/>
+    <term name="Reagan Administration"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/2001--Passed House amended.
+Recognizes Maureen Reagan (daughter of former President Ronald Reagan) as one of the Nation's most beloved and forceful champions for action to cure Alzheimer's disease and treat those suffering from the illness. Expresses the condolences of the House of Representatives on Maureen Reagan's death to her family, including her husband Dennis Revell, and her daughter Rita Revell.</summary>
+</bill>

@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-30T11:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1604-1606, H1615-1616", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-30T13:35:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1604", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 91, 
+      "text": "On agreeing to the Stearns amendment (A026) Failed by recorded vote: 126 - 291 (Roll no. 91).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt640-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3908-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3908
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 26, 
+  "introduced_at": "2000-03-30", 
+  "number": 640, 
+  "purpose": "An amendment to provide for an across-the-board reduction of funds in the bill by 10%. The amendment provides exceptions for funds which are designated as emergency funds or any amount made available for the Department of Defense.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-30T13:35:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

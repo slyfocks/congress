@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-30T11:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9086-9087, H9123-9124", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9086", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-30T13:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 665, 
+      "text": "On agreeing to the Flake amendment (A007) Failed by recorded vote: 69 - 351, 10 Present (Roll no. 665).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt398-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3326-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit funding for Reduced Manning Situation Awareness.", 
+  "house_number": 7, 
+  "introduced_at": "2009-07-30", 
+  "number": 398, 
+  "purpose": "An amendment numbered 258 printed in Part B of House Report 111-233 to prohibit funding for Reduced Manning Situation Awareness.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-30T13:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

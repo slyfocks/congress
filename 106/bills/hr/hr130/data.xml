@@ -1,0 +1,90 @@
+<bill session="106" type="h" number="130" updated="2013-07-14T18:52:53-04:00">
+  <state datetime="1999-03-23T12:31:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-03-23T12:31:00-05:00"/>
+  </status>
+  <introduced datetime="1999-01-06"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Courthouse located at 40 Centre Street in New York, New York as the "Thurgood Marshall United States Courthouse".</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1999-02-09"/>
+    <cosponsor id="400213" joined="1999-02-09"/>
+    <cosponsor id="400251" joined="1999-02-09"/>
+    <cosponsor id="400289" joined="1999-02-09"/>
+    <cosponsor id="400333" joined="1999-02-09"/>
+    <cosponsor id="400409" joined="1999-02-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-01-06">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-01-19">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1999-03-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-03-11">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1999-03-16T15:36:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-56.</text>
+    </action>
+    <calendar datetime="1999-03-16T15:38:00-05:00" calendar="House" number="22">
+      <text>Placed on the House Calendar, Calendar No. 22.</text>
+    </calendar>
+    <action datetime="1999-03-23T12:16:00-05:00">
+      <text>Mr. Franks moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-03-23T12:16:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1493-1495" label="consideration"/>
+    </action>
+    <action datetime="1999-03-23T12:16:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 130.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-03-23T12:31:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-03-23T12:31:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-03-24">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Black judges"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Law"/>
+    <term name="Minorities"/>
+    <term name="Names"/>
+    <term name="New York City"/>
+    <term name="Supreme Court justices"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1999--Introduced.
+Designates the U.S. Courthouse located at 40 Centre Street in New York, New York, as the Thurgood Marshall United States Courthouse.</summary>
+</bill>

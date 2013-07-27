@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-04-05", 
+      "references": [
+        {
+          "reference": "CR S2850-2852", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2850", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3214 proposed by Senator Santorum to Amendment SA 3192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-06", 
+      "references": [
+        {
+          "reference": "CR S3167", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-07", 
+      "references": [
+        {
+          "reference": "CR S3348", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3214-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3192-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 3192
+  }, 
+  "amends_bill": {
+    "bill_id": "s2454-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2454
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-31", 
+  "number": 3214, 
+  "proposed_at": "2006-04-05", 
+  "purpose": "To designate Poland as a program country under the visa waiver program established under section 217 of the Immigration and Nationality Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-03-31", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

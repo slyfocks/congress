@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-16T13:06:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H479-485", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-16T14:10:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H479-480", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 24, 
+      "text": "On agreeing to the Conyers amendment (A004) Failed by recorded vote: 178 - 237 (Roll no. 24).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt586-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2366-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2366
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to 1) modify the definition of \"small business\" to include businesses that had revenues in each of the last two years of $5 million or less; 2) apply the bill's product liability protections only to small business retailers; 3) apply the bill's cap on punitive damages only to cases related to product liability; 4) revise the bill's definition of \"hate crimes\" to mean \"a crime in which the defendant intentionally selects a victim because of the actual or perceived race, color, religion, national origin, ethnicity, gender, disability, or sexual orientation of any person\"; and 5) allow states to opt out of the federal cap on punitive damages and product liability protections through legislation or voter initiative.", 
+  "house_number": 4, 
+  "introduced_at": "2000-02-16", 
+  "number": 586, 
+  "purpose": "An amendment numbered 4 printed in House report 106-498 to 1) modify the definition of \"small business\" to include businesses that had revenues in each of the last two years of $5 million or less; 2) apply the bill's product liability protections only to small business retailers; 3) apply the bill's cap on punitive damages only to cases related to product liability; 4) revise the bill's definition of \"hate crimes\" to mean \"a crime in which the defendant intentionally selects a victim because of the actual or perceived race, color, religion, national origin, ethnicity, gender, disability, or sexual orientation of any person\"; and 5) allow states to opt out of the federal cap on punitive damages and product liability protections through legislation or voter initiative.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-02-16T14:10:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-03T13:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6230-6234, H6236-6237", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6230", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-03T14:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 365, 
+      "text": "On agreeing to the Smith (MI) amendment (A007) Failed by recorded vote: 187 - 238 (Roll no. 365).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt325-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to provide an absolute limit on price support payments to producers.", 
+  "house_number": 7, 
+  "introduced_at": "2001-10-03", 
+  "number": 325, 
+  "purpose": "An amendment numbered 52 printed in the Congressional Record to add a new paragraph providing payment limitations regarding marketing assistance loans to cover all producer gains.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-03T14:50:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

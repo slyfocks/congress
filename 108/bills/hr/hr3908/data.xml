@@ -1,0 +1,79 @@
+<bill session="108" type="h" number="3908" updated="2013-07-14T19:02:26-04:00">
+  <state datetime="2004-09-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2004-09-24"/>
+  </status>
+  <introduced datetime="2004-03-04"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the conveyance of the real property located at 1081 West Main Street in Ravenna, Ohio.</title>
+  </titles>
+  <sponsor id="400352"/>
+  <cosponsors>
+    <cosponsor id="400235" joined="2004-05-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-03-04">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2004-03-29">
+      <text>Referred to the Subcommittee on 21st Century Competitiveness.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="2004-06-02T13:56:00-04:00">
+      <text>Mr. McKeon moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2004-06-02T13:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3642-3643" label="consideration"/>
+    </action>
+    <action datetime="2004-06-02T13:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3908.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-06-02T14:02:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3642" label="text"/>
+    </vote>
+    <action datetime="2004-06-02T14:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-06-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2004-09-10">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S9086" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2004-09-10" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2004-09-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2004-09-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2004-09-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2004-09-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2004-09-24" type="public" number="108-305">
+      <text>Became Public Law No: 108-305.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="21st Century Competitiveness" name="House Education and the Workforce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Ohio"/>
+  </subjects>
+  <amendments/>
+  <summary>9/24/2004--Public Law.
+Directs the Secretary of Labor to convey, without charge or consideration, to Portage County, Ohio, all right, title, and interest of the United States (including all Federal equity) in and to the parcel of real property located at 1081 West Main Street in Ravenna, Ohio, to the extent such right, title, or interest was acquired through grants to the State of Ohio under title III (Grants to States for Unemployment Compensation Administration) of the Social Security Act or the Wagner-Peyser Act or through funds distributed to the State under section 903 (Amounts Transferred to State Accounts) of IX (Employment Security Administrative Financing) of the Social Security Act.</summary>
+</bill>

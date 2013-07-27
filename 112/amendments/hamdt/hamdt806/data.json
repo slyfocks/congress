@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-05T16:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6595-6596, H6607-6608", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6595", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05T18:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 751, 
+      "text": "On agreeing to the Waxman amendment (A005) Failed by recorded vote: 167 - 254 (Roll no. 751).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt806-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2681-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Director of the Office of Management and Budget, in consultation with EPA's Chief Financial Officer and the Comptroller General of GAO and CBO, to determine whether the bill authorizes the appropriation of funds to implement its provisions and if so, whether the bill reduces an existing authorization of appropriations by an offsetting amount.", 
+  "house_number": 5, 
+  "introduced_at": "2011-10-05", 
+  "number": 806, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to add a new section at the end of the bill entitled Determination; Authorization.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-05T18:25:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-24T16:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3819-3820", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3819", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Gordon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-24T16:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gordon amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt104-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr362-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 362
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment establishes within the Robert Noyce Teacher Scholarship Program at the National Science Foundation a new model for recruiting professionals to a teaching career.", 
+  "house_number": 1, 
+  "introduced_at": "2007-04-24", 
+  "number": 104, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-105 to establish an additional type of award under NSF's Robert Noyce Teacher Scholarship program to recruit and train science, math and engineering professionals who are interested in becoming science or math teachers. The awards are for institutions of higher education that enter into partnerships with private sector entities and state or local government educational organizations. The awards support the development of specialized pedagogy courses for training students to teach science or math and provide for stipends of up to $10,000 per year for participants in the program. In exchange for the stipend, the participants are obligated to teach in a secondary school for four years. As a condition for receiving the NSF grant, the partnership must provide salary supplements, from non-Federal sources, to the graduates of the program during the period of their teaching commitment.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Gordon, Bart", 
+    "state": "TN", 
+    "thomas_id": "00448", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-04-24T16:18:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,86 @@
+<bill session="108" type="h" number="4345" updated="2013-07-14T19:02:33-04:00">
+  <state datetime="2004-06-23T15:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-06-23T15:41:00-04:00"/>
+  </status>
+  <introduced datetime="2004-05-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to increase the maximum amount of home loan guaranty available under the home loan guaranty program of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400051"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2004-06-15"/>
+    <cosponsor id="400028" joined="2004-05-20"/>
+    <cosponsor id="400045" joined="2004-06-02"/>
+    <cosponsor id="400097" joined="2004-05-12"/>
+    <cosponsor id="400167" joined="2004-06-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2004-05-12">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2004-05-12">
+      <text>Referred to the Subcommittee on Benefits.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2004-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2004-05-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2004-05-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-05-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2004-06-23T15:14:00-04:00">
+      <text>Mr. Brown (SC) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2004-06-23T15:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4818-4821" label="consideration"/>
+    </action>
+    <action datetime="2004-06-23T15:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4345.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-06-23T15:41:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4818" label="text"/>
+    </vote>
+    <action datetime="2004-06-23T15:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR06" subcommittee="Benefits" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="s" number="2522"/>
+    <bill relation="identical" session="108" type="s" number="2522"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Economics and public finance"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Housing and community development"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Mortgages"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' loans"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2004--Passed House without amendment.
+Amends Federal veterans' benefits law to revise the maximum amount of home loan guaranty available under the home loan guaranty program of the Department of Veterans Affairs, specifically the guaranty of any loan of more than $144,000. Replaces the current formula of the lesser of $60,000 or 25 percent of the loan with the lesser of a certain maximum guaranty amount or 25 percent of the loan. Defines maximum guaranty amount as the dollar amount equal to 25 percent of the Federal Home Loan Mortgage Corporation (Freddie Mac) conforming loan limit limitation determined under the Federal Home Loan Mortgage Corporation Act for a single-family residence, as adjusted for the year involved.</summary>
+</bill>

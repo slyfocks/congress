@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-18", 
+      "references": [
+        {
+          "reference": "CR 11/17/2005 S13282", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 11/17/2005 S13282", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2600 proposed by Senator Frist for Senator Shelby.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2600 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2600-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s467-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 467
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-17", 
+  "number": 2600, 
+  "proposed_at": "2005-11-17", 
+  "purpose": "To make a modification.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shelby, Richard C.", 
+    "state": "AL", 
+    "thomas_id": "01049", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-18", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

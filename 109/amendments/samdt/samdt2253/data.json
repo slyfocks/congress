@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-25", 
+      "references": [
+        {
+          "reference": "CR S11811-11812", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11811", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2253 proposed by Senator Gregg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26", 
+      "references": [
+        {
+          "reference": "CR S11857, S11889-11891", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11889", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 271, 
+      "text": "Amendment SA 2253 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 271.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2253-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-25", 
+  "number": 2253, 
+  "proposed_at": "2005-10-25", 
+  "purpose": "To increase appropriations for the Low-Income Home Energy Assistance Program by $1,276,000,000, with an across-the-board reduction.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gregg, Judd", 
+    "state": "NH", 
+    "thomas_id": "00466", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-10-26", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

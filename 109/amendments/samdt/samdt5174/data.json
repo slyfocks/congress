@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-16", 
+      "references": [
+        {
+          "reference": "CR S10998-11001, S11008-11009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10998", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5174 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 265, 
+      "text": "Amendment SA 5174 not agreed to in Senate by Yea-Nay Vote. 26 - 74. Record Vote Number: 265.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5174-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3709-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3709
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-16", 
+  "number": 5174, 
+  "proposed_at": "2006-11-16", 
+  "purpose": "To limit the waiver authority of the President.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-11-16", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-14T15:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6656", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6656", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-14T15:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kaptur amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt234-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2673-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2673
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases the funding for the biofuels program by $20 million with offsets from the Common Computing Environment account.", 
+  "house_number": 12, 
+  "introduced_at": "2003-07-14", 
+  "number": 234, 
+  "purpose": "An amendment to increase funds in the bill, by transfer, by $20 million for the renewable energy program account.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-14T15:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

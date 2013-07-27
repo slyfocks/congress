@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-22T16:29:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. Boehner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-22T18:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 435, 
+      "text": "On agreeing to the Boehner amendment (A008) Failed by recorded vote: 124 - 302 (Roll no. 435).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt480-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1402-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1402
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to terminate all existing Federal milk marketing orders on January 1, 2001.", 
+  "house_number": 8, 
+  "introduced_at": "1999-09-22", 
+  "number": 480, 
+  "purpose": "Amendment no. 8 printed in part B of H.Rept. 106-324 to terminate all existing Federal milk marketing orders on January 1, 2001.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Boehner, John A.", 
+    "state": "OH", 
+    "thomas_id": "00102", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-09-22T18:02:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

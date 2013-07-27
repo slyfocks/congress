@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-31T11:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4893-4894", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4893", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Rothman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-31T11:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rothman amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt281-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2647-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2647
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment allows funds to be used for the installation of compact fluorescent light bulbs in House office buildings.", 
+  "house_number": 1, 
+  "introduced_at": "2001-07-31", 
+  "number": 281, 
+  "purpose": "An amendment numbered 1 printed in House Report 107-171 to provide resources from existing funds to allow House Members to request the installation of energy efficient compact fluorescent light bulbs in their offices.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Rothman, Steven R.", 
+    "state": "NJ", 
+    "thomas_id": "01520", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-31T11:42:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

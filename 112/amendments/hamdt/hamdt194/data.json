@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16T16:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1880-1883", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1880", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Richardson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T16:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Richardson amendment (A005) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt194-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr861-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to amend the effective date of H.R. 861 as follows: (1) the date of the expiration of the 5-year period beginning on the date of the enactment of the Act; (2) the first date occurring after the date of the enactment of this Act on which both of the following conditions exist: (A) the percentage of existing mortgages on 1- to 4-family residential properties located in the United States and under which the outstanding principal balance exceeds the value of the property subject to the mortgage is 10 percent or less; (B) in the case of the State that, on such date, has the highest percentage, among all States, of existing mortgages on 1- to 4-family residential properties located in the State and under which the outstanding principal balance exceeds the value of the property subject to the mortgage, such percentage for such State is 15 percent or less.", 
+  "house_number": 5, 
+  "introduced_at": "2011-03-16", 
+  "number": 194, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 112-34 to amend the effective date of H.R. 861 to the sooner of: (1) 5 years from the date of enactment; or (2) the date when the national average of underwater mortgages on 1- to 4-family residential properties is 10 percent or less and the percentage of underwater mortgages relating to such properties in the state with the highest percentage of underwater residential properties is 15 percent or less.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Richardson, Laura", 
+    "state": "CA", 
+    "thomas_id": "01883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-16T16:41:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

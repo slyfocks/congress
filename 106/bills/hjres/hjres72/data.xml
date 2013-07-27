@@ -1,0 +1,116 @@
+<bill session="106" type="hj" number="72" updated="2013-07-14T18:55:17-04:00">
+  <state datetime="2000-10-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-10-10"/>
+  </status>
+  <introduced datetime="1999-10-19"/>
+  <titles>
+    <title as="introduced" type="official">Granting the consent of the Congress to the Red River Boundary Compact.</title>
+  </titles>
+  <sponsor id="400404"/>
+  <cosponsors>
+    <cosponsor id="400165" joined="1999-10-21"/>
+    <cosponsor id="400247" joined="1999-10-21"/>
+    <cosponsor id="400358" joined="1999-10-19"/>
+    <cosponsor id="400540" joined="1999-10-21"/>
+    <cosponsor id="400541" joined="1999-10-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-10-19">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-10-21">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-10-26">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-10-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-10-26">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2000-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-07-19">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2000-07-20T17:13:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 106-770.</text>
+    </action>
+    <calendar datetime="2000-07-20T17:14:00-04:00" calendar="House" number="265">
+      <text>Placed on the House Calendar, Calendar No. 265.</text>
+    </calendar>
+    <action datetime="2000-07-24T15:27:00-04:00">
+      <text>Mr. Gekas moved to suspend the rules and pass the resolution, as amended.</text>
+    </action>
+    <action datetime="2000-07-24T15:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6745-6747" label="consideration"/>
+    </action>
+    <action datetime="2000-07-24T15:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 72.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-07-24T15:41:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref=" CR H6745" label="text"/>
+    </vote>
+    <action datetime="2000-07-24T15:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-07-25">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2000-07-27">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2000-09-05" calendar="Senate Legislative" under="General Orders" number="785">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 785.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2000-09-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2000-09-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-09-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-09-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-10-10">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-10-10" type="public" number="106-288">
+      <text>Became Public Law No: 106-288.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Boundaries"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Interstate compacts"/>
+    <term name="Oklahoma"/>
+    <term name="Rivers"/>
+    <term name="Texas"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2000--Passed House amended.
+Grants the consent of Congress to the Red River Compact entered into between the States of Texas and Oklahoma and the new boundary established by the compact.Provides that the compact shall not alter: (1) any present or future rights and interests of the Kiowa, Comanche, and Apache Tribes, the Chickasaw Nation, and the Choctaw Nation of Oklahoma and their members or Indian successors-in-interest; (2) any tribal trust lands; (3) allotted lands that may be held in trust or lands subject to a Federal restriction against alienation; (4) any boundaries of lands owned by the tribes and nations, including such tribal and allotted lands that exist now or that may be established in the future; and (5) the sovereign rights, jurisdiction, or other governmental interests of such tribes and nations and their members or Indian successors in-interest presently existing or which may be acknowledged by Federal and tribal law.</summary>
+</bill>

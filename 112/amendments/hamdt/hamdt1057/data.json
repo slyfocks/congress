@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08T20:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2408-2409, H2434-2435", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2408", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Johnson (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T00:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 216, 
+      "text": "On agreeing to the Johnson (GA) amendment (A024) Failed by recorded vote: 96 - 314 (Roll no. 216).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1057-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase funds for the Equal Employment Opportunity Commission by $7,143,000, and to reduce funds for NASA by $26,000,000.", 
+  "house_number": 24, 
+  "introduced_at": "2012-05-08", 
+  "number": 1057, 
+  "purpose": "An amendment to increase funds for the Equal Employment Opportunity Commission by $7,143,000, and reduce funds for NASA by $26,000,000.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-09T00:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

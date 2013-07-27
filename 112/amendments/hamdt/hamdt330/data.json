@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T21:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3666-3668", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3666", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Chaffetz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T13:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3728-3729", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 364, 
+      "text": "On agreeing to the Chaffetz amendment (A030) Failed by recorded vote: 123 - 294 (Roll no. 364).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt330-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require U.S. ground troops to withdraw from Afghanistan, leaving just those who are involved in small, targeted counter-terrorism operations. The amendment would have further required the Secretary of Defense to submit a withdrawal plan to Congress within 60 days of enactment.", 
+  "house_number": 30, 
+  "introduced_at": "2011-05-25", 
+  "number": 330, 
+  "purpose": "An amendment numbered 56 printed in House Report 112-88 to require U.S. ground troops to withdraw from Afghanistan, leaving just those who are involved in small, targeted counter-terrorism operations. The amendment would further require the Secretary of Defense to submit a withdrawal plan to Congress within 60 days of enactment.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-26T13:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

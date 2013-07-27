@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-06T17:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2374-2375", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2374", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Quigley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-06T17:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Quigley amendment (A007) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt246-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr910-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 910
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require GAO to report to Congress the results of a study of health care costs in the U.S. as affected by the elimination of EPA regulation under this Act, as compared to health care costs in the U.S. as would be affected by the EPA proceeding under their regulating authority as determined in Massachusetts v. EPA.", 
+  "house_number": 7, 
+  "introduced_at": "2011-04-06", 
+  "number": 246, 
+  "purpose": "An amendment numbered 7 printed in House Report 112-54 to require GAO to report to Congress the results of a study of health care costs in the U.S. as affected by the elimination of EPA regulation under this Act, as compared to health care costs in the U.S. as would be affected by the EPA proceeding under their regulating authority as determined in Massachusetts v. EPA.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Quigley, Mike", 
+    "state": "IL", 
+    "thomas_id": "01967", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-06T17:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

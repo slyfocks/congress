@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-25T12:52:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4577-4585, H4595", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H4577", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-25T15:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 268, 
+      "text": "On agreeing to the Inslee amendment (A003) Failed by recorded vote: 141 - 285 (Roll no. 268).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt232-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2590-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to delete section 634 which consolidates the vice presidential residence utility costs at the Naval Observatory with other activities of the Department of the Navy.", 
+  "house_number": 3, 
+  "introduced_at": "2001-07-25", 
+  "number": 232, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to strike section 634 from the bill. Section 634 authorizes the Navy to pay the utility bills, including the electric bill, for the vice-president's residence.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-25T15:46:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

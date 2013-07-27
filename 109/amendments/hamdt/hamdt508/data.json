@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-22T10:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6357-6359", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6357-6358", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Boehlert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-22T10:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boehlert amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt508-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3070-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3070
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment makes technical and clarifying changes to the bill.", 
+  "house_number": 1, 
+  "introduced_at": "2005-07-22", 
+  "number": 508, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-179 to make a number of technical and clarifying changes to the bill H.R. 3070.", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-22T10:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

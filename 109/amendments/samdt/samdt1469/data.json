@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "references": [
+        {
+          "reference": "CR S12589-12595", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1469 proposed by Senator Warner for Senator Thomas.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12590", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1469 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1469-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1042-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-25", 
+  "number": 1469, 
+  "proposed_at": "2005-11-09", 
+  "purpose": "To renew the moratorium on the return of veterans memorial objects to foreign nations without specific authorization in law.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thomas, Craig", 
+    "state": "WY", 
+    "thomas_id": "01149", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-09", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

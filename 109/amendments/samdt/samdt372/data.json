@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-13", 
+      "references": [
+        {
+          "reference": "CR S3523-3532", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3523", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 372 proposed by Senator Cornyn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 94, 
+      "text": "Amendment SA 372 agreed to in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 94.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt372-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 372, 
+  "proposed_at": "2005-04-13", 
+  "purpose": "To express the sense of the Senate that Congress should not delay enactment of critical appropriations necessary to ensure the well-being of the men and women of the United States Armed Forces fighting in Iraq and elsewhere around the world, by attempting to conduct a debate about immigration reform while the supplemental appropriations bill is pending on the floor of the United States Senate.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-13", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T19:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3343-3344", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3343", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Runyan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T19:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Runyan amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1165-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5854-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5854
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2012-05-31", 
+  "number": 1165, 
+  "purpose": "An amendment to prohibit the use of funds to modify, maintain, or manage a structure, building, or barracks for a person, unit, or mission of the Armed Forces or Department of Defense outside of the normal tour or duty restationing or authorized base closure and realignment process.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Runyan, Jon", 
+    "state": "NJ", 
+    "thomas_id": "02039", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-31T19:38:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

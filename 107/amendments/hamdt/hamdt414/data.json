@@ -1,0 +1,56 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-12-12T13:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9276-9287", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9276-9287", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on House Administration.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-12T13:32:00-05:00", 
+      "references": [], 
+      "text": "House Administration amendment (A001) modified by unanimous consent. Modification printed in the report of the Committee on Rules accompanying H. Res. 311.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-12T13:32:00-05:00", 
+      "references": [], 
+      "text": "On agreeing to the House Administration amendment as modified Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt414-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3295-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 3295
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-12-12", 
+  "number": 414, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsha00", 
+    "name": "House House Administration", 
+    "type": "committee"
+  }, 
+  "status": "offered", 
+  "status_at": "2001-12-12", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

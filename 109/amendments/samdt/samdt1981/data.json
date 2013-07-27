@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-06", 
+      "references": [
+        {
+          "reference": "CR S11194-11196", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1981 proposed by Senator Stevens for Senator Chambliss.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-06", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1981 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1981-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2863-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2863
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-10-03", 
+  "number": 1981, 
+  "proposed_at": "2005-10-06", 
+  "purpose": "To make available, from funds appropriated for operation and maintenance, Defense-wide, up to $2,000,000 for the establishment, in consultation with the Reach Out and Read National Center, of a pilot project on pediatric early literacy on military installations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chambliss, Saxby", 
+    "state": "GA", 
+    "thomas_id": "00188", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-10-06", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

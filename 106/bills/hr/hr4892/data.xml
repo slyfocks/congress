@@ -1,0 +1,75 @@
+<bill session="106" type="h" number="4892" updated="2013-07-14T18:55:04-04:00">
+  <state datetime="2000-09-13T13:06:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2000-09-13T13:06:00-04:00"/>
+  </status>
+  <introduced datetime="2000-07-19"/>
+  <titles>
+    <title as="introduced" type="short">Scouting for All Act</title>
+    <title as="introduced" type="official">To repeal the Federal charter of the Boy Scouts of America.</title>
+  </titles>
+  <sponsor id="400436"/>
+  <cosponsors>
+    <cosponsor id="400237" joined="2000-07-19"/>
+    <cosponsor id="400251" joined="2000-09-07"/>
+    <cosponsor id="400513" joined="2000-07-19"/>
+    <cosponsor id="400289" joined="2000-07-19"/>
+    <cosponsor id="400295" joined="2000-07-20"/>
+    <cosponsor id="400347" joined="2000-09-07"/>
+    <cosponsor id="400387" joined="2000-07-19"/>
+    <cosponsor id="400416" joined="2000-07-19"/>
+    <cosponsor id="400240" joined="2000-07-19" withdrawn="2000-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2000-07-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6565"/>
+    </action>
+    <action state="REFERRED" datetime="2000-07-19">
+      <text>Referred to the House Committee on Judiciary.</text>
+    </action>
+    <action datetime="2000-07-25">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on Judiciary"/>
+    </action>
+    <action datetime="2000-09-12T20:03:00-04:00">
+      <text>Mr. Hutchinson moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-09-12T20:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7448-7455" label="consideration"/>
+    </action>
+    <action datetime="2000-09-12T20:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4892.</text>
+    </action>
+    <action datetime="2000-09-12T20:56:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until Sept. 13.</text>
+    </action>
+    <action datetime="2000-09-13T12:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7521-7522" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2000-09-13T13:06:00-04:00" how="roll" result="fail" roll="468" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 12 - 362, 51 Present (Roll no. 468).</text>
+      <reference ref="CR 9/12/2000 H7448" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Boy Scouts"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Discrimination"/>
+    <term name="Families"/>
+    <term name="Federal incorporation"/>
+    <term name="Gays"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2000--Introduced.
+Scouting for All Act - Repeals the Federal charter granted to the Boy Scouts of America.</summary>
+</bill>

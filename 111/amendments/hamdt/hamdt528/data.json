@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-10T20:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14726-14728", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14727", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. McCarthy (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-11T11:21:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H14762-14763", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14762", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 961, 
+      "text": "On agreeing to the McCarthy (CA) amendment (A012) Failed by recorded vote: 166 - 259 (Roll no. 961).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt528-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4173-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike section 6012 from the bill, which is increased liability language that would be a barrier to entry, inhibiting increased competition in the rating agency market.", 
+  "house_number": 12, 
+  "introduced_at": "2009-12-10", 
+  "number": 528, 
+  "purpose": "An amendment numbered 14 printed in House Report 111-370 to strike section 6012 (relating to Effect of Rule 436(G)). The amendment would strike increased liability language that would be a barrier to entry, inhibiting increased competition in the rating agency market.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "McCarthy, Kevin", 
+    "state": "CA", 
+    "thomas_id": "01833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-12-11T11:21:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

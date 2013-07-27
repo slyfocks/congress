@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2193-2195", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2193", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3131 proposed by Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2236", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 53, 
+      "text": "Amendment SA 3131 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 53.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3131-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hjres47-109", 
+    "bill_type": "hjres", 
+    "congress": 109, 
+    "number": 47
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-03-15", 
+  "number": 3131, 
+  "proposed_at": "2006-03-15", 
+  "purpose": "To require a study of debt held by foreigners.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-03-16", 
+  "updated_at": "2013-07-17T08:16:14-04:00"
+}

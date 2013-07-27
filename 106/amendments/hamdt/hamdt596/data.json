@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-16T15:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1098-1101", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Watt (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-16T15:54:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1098", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 52, 
+      "text": "On agreeing to the Watt (NC) amendment (A001) Failed by recorded vote: 170 - 251 (Roll no. 52).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt596-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2372-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2372
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to allow all section 1983 plaintiffs bringing actions for constitutional violations to use the bill's expedited access to Federal courts.", 
+  "house_number": 1, 
+  "introduced_at": "2000-03-16", 
+  "number": 596, 
+  "purpose": "An amendment numbered 1 printed in House Report 106-525 to ensure uniformity in the litigation of constitutional claims, including those claims involving the uses of property.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-03-16T15:54:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

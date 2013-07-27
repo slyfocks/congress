@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T20:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5012-5015", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5012", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T20:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Scott amendment (A012) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt878-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to transfer $10 million from truth-in-sentencing prison grant funding to the community-oriented police services crime identification technology program.", 
+  "house_number": 12, 
+  "introduced_at": "2000-06-22", 
+  "number": 878, 
+  "purpose": "Amendment no. 35 printed in the Congressional Record. to increase funding for the Criminal Identification Technology Program by $10 million with offsets from the truth-in- sentencing grant program.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-22T20:58:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-24T15:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3371-3386", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3371", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-25T13:49:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3431", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 338, 
+      "text": "On agreeing to the Foxx amendment (A003) Agreed to by recorded vote: 234 - 182 (Roll no. 338).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt298-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1216-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1216
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds in the bill to pay for elective abortions or to be given to organizations that discriminate against pro-life health care providers.", 
+  "house_number": 3, 
+  "introduced_at": "2011-05-24", 
+  "number": 298, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to to prohibit the use of funds provided for graduate medical education from being used to provide abortion or training in the provision of abortion. Additionally, funds would not be provided to a teaching health center if the institution discriminates against individual health care entities that refuse to provide abortion under go training in the provision of abortion, or offer referral for abortion services.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-25T13:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

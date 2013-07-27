@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-18T14:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8027-8028, H8091-8092", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8027", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Shadegg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-18T21:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 656, 
+      "text": "On agreeing to the Shadegg amendment (A030) Failed by recorded vote: 116 - 309 (Roll no. 656).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt539-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding in the Innovation and Improvement account by $10,695,000.", 
+  "house_number": 30, 
+  "introduced_at": "2007-07-18", 
+  "number": 539, 
+  "purpose": "An amendment numbered 49 printed in the Congressional Record to reduce the Innovation and Improvement account by $10,695,000.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Shadegg, John B.", 
+    "state": "AZ", 
+    "thomas_id": "01043", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-18T21:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

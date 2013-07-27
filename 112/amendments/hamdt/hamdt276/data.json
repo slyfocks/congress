@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-10T19:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3143-3144", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3143", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Hastings (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T14:11:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3182", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 305, 
+      "text": "On agreeing to the Hastings (FL) amendment (A007) Failed by recorded vote: 169 - 258 (Roll no. 305).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt276-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1229-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1229
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require a detailed description of the extent to which and by when any oil found on the leased property will decrease the price of crude oil and at the pump for hardworking Americans.", 
+  "house_number": 7, 
+  "introduced_at": "2011-05-10", 
+  "number": 276, 
+  "purpose": "An amendment numbered 8 printed in Part A of House Report 112-73 to require a detailed description of the extent to which and by when any oil found on the leased property will decrease the price of crude oil and at the pump for hardworking Americans.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "thomas_id": "00511", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-11T14:11:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

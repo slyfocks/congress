@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-02T19:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9624-9625, H9639, CR 8/3/2007 H9642-9643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9624", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-02T21:47:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 805, 
+      "text": "On agreeing to the Hensarling amendment (A005) Failed by recorded vote: 66 - 360 (Roll no. 805).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt733-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3161-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3161
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for the Broadband Grants program.", 
+  "house_number": 5, 
+  "introduced_at": "2007-08-02", 
+  "number": 733, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 110-290 to reduce funds in the bill for grants to finance broadband transmission in rural areas by $8,910,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-08-02T21:47:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

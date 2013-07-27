@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-09", 
+      "references": [
+        {
+          "reference": "CR S957-968", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S957-959", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2754 proposed by Senator Kyl to Amendment SA 2746.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-13", 
+      "references": [
+        {
+          "reference": "CR S1121", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-14", 
+      "references": [
+        {
+          "reference": "CR S1140", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2754-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2746-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2746
+  }, 
+  "amends_bill": {
+    "bill_id": "s852-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 852
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-09", 
+  "number": 2754, 
+  "proposed_at": "2006-02-09", 
+  "purpose": "To reduce the impact of the trust fund on smaller companies and to expand hardship adjustments.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2006-02-09", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

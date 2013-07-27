@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-10T15:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6564", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6564", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-10T15:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Tancredo amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt218-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2660-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases funding for school safety programs by $5 million.", 
+  "house_number": 5, 
+  "introduced_at": "2003-07-10", 
+  "number": 218, 
+  "purpose": "An amendment to provide funds by transfer for school safety programs.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-10T15:38:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

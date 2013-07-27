@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T21:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5021-5027, H5031-5032", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5021", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Ms. DeGette.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T23:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 318, 
+      "text": "On agreeing to the DeGette amendment (A016) Failed by recorded vote: 156 - 254 (Roll no. 318).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt882-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to strike section 103 which prohibits funds in the bill from being used for an abortion, except where the life of the mother would be endangered if the fetus were carried to term or in the case of rape.", 
+  "house_number": 16, 
+  "introduced_at": "2000-06-22", 
+  "number": 882, 
+  "purpose": "An amendment to strike section 103 from the bill. Section 103 prohibits funds in the bill from being available to pay for an abortion, except where the life of the mother would be endangered if the fetus were carried to termor in the case of rape. The section further provides that should the foregoing prohibition be declared unconstitutional by a court of competent jurisdiction, the section shall be null and void.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "DeGette, Diana", 
+    "state": "CO", 
+    "thomas_id": "01479", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-22T23:50:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T23:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3903-3904", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3903", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A045) offered by Mr. Cravaack.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T17:49:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3955", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 398, 
+      "text": "On agreeing to the Cravaack amendment (A045) Agreed to by recorded vote: 289 - 131 (Roll no. 398).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt393-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the use of funds by ICE to process the release of, or to administer alternative forms of detention to, illegal immigrants who committed a crime which mandated their incarceration.", 
+  "house_number": 45, 
+  "introduced_at": "2011-06-01", 
+  "number": 393, 
+  "purpose": "An amendment to prohibit the use of funds used in contravention of section 236(c) of the Immigration and Nationality Act.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Cravaack, Chip", 
+    "state": "MN", 
+    "thomas_id": "02031", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T17:49:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

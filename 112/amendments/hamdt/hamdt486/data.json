@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-22T16:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4405-4406, H4415", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4405", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Quigley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-22T18:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 472, 
+      "text": "On agreeing to the Quigley amendment (A006) Failed by recorded vote: 173 - 251 (Roll no. 472).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt486-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2021-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2021
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike a provision of the bill which removes the ability of the Environmental Appeals Board to remand or deny the issuance of clean air permits for offshore energy exploration and extraction.", 
+  "house_number": 6, 
+  "introduced_at": "2011-06-22", 
+  "number": 486, 
+  "purpose": "An amendment numbered 6 printed in Part A of House Report 112-111 to strike underlying text that eliminates the ability of the Environmental Appeals Board (EAB) to remand or deny the issuance of Clean Air Act permits for offshore energy exploration and extraction.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Quigley, Mike", 
+    "state": "IL", 
+    "thomas_id": "01967", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-22T18:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

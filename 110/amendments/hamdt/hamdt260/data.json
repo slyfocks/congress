@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-13T17:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6384-6394", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mrs. Drake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-15T09:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6482-6483", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 469, 
+      "text": "On agreeing to the Drake amendment (A010) Agreed to by recorded vote: 286 - 127 (Roll no. 469).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt260-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2638-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2638
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment increases funding, by offset, for the Office of Immigration and Customs Enforcement by $9,100,000.", 
+  "house_number": 10, 
+  "introduced_at": "2007-06-13", 
+  "number": 260, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to reduce appropriation for the Office of the Under Secretary for Management by $10,400,000, and increase appropriation for the Office of Immigration and Customs Enforcement by $9,100,000.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Drake, Thelma D.", 
+    "state": "VA", 
+    "thomas_id": "01808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-06-15T09:53:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

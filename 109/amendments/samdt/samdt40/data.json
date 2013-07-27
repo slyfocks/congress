@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-03", 
+      "references": [
+        {
+          "reference": "CR S1984-1985", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1984", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 40 proposed by Senator Pryor.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-04", 
+      "references": [
+        {
+          "reference": "CR S2053", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-07", 
+      "references": [
+        {
+          "reference": "CR S2111", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-08", 
+      "references": [
+        {
+          "reference": "CR S2200, S2216", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-08", 
+      "references": [], 
+      "text": "Proposed amendment SA 40 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt40-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s256-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 256
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-02", 
+  "number": 40, 
+  "proposed_at": "2005-03-03", 
+  "purpose": "To amend the Fair Credit Reporting Act to prohibit the use of any information in any consumer report by any credit card issuer that is unrelated to the transactions and experience of the card issuer with the consumer to increase the annual percentage rate applicable to credit extended to the consumer, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-03-08", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

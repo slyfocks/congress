@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-10T20:03:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3260-3263, H3270", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H3260-3261", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-10T21:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 137, 
+      "text": "On agreeing to the Brown (OH) amendment (A009) Failed by recorded vote: 173 - 252 (Roll no. 137).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt73-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to authorize a Gasoline Availability Stabilization (GAS) Reserve program with a total capacity of 20 million barrels of regular unleaded gasoline with reserve sites in California, the Midwest, the Northeast, and two additional sites as identified by the Secretary of Energy.", 
+  "house_number": 9, 
+  "introduced_at": "2003-04-10", 
+  "number": 73, 
+  "purpose": "An amendment numbered 9 printed in House Report 108-69 adds a new section authorizing a Gasoline Availability Stabilization (GAS) Reserve program modeled on the Strategic Petroleum Reserve (SPR). The amendment would require the establishment of three GAS reserves within two years of enactment; allows the creation of two additional reserves anywhere in the country; authorizes emergency sales from a GAS reserve only in response to a physical disruption, and authorizes maintenance transactions with safeguards to prevent price inflation and ensure product freshness.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-04-10T21:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-23T15:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4490-4491", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4490", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Ms. Speier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23T15:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Speier amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt500-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires the United States Patent Trade Office to provide rules for the exchange of relevant information during the derivation proceedings.", 
+  "house_number": 10, 
+  "introduced_at": "2011-06-23", 
+  "number": 500, 
+  "purpose": "An amendment numbered 10 printed in Part B of House Report 112-111 to direct the PTO to prescribe a requirement that parties provide sufficient evidence to prove and rebut a claim of derivation.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "thomas_id": "01890", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-23T15:22:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

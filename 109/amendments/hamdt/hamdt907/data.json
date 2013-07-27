@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-23T19:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3108-3109", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3108", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23T19:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Flake amendment (A038) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt907-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5384-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 38, 
+  "introduced_at": "2006-05-23", 
+  "number": 907, 
+  "purpose": "An amendment to prohibit use of funds in the bill for research and education activities for greenhouse nurseries in Ohio.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-23T19:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

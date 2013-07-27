@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-26T20:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6541-6544, H6548", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6541", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26T21:34:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 429, 
+      "text": "On agreeing to the Flake amendment (A002) Failed by recorded vote: 51 - 379 (Roll no. 429).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt516-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr22-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 22
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to allow the United States Postal Service to conduct a pilot program to test the feasibility and desirability of alternative methods for the delivery of postal services.", 
+  "house_number": 2, 
+  "introduced_at": "2005-07-26", 
+  "number": 516, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-184 toestablish a domestic pilot program to empower local postmasters to employ their experience and management expertise, absent the restrictions of the Postal Service's monopolies on first class mail delivery and the use of postal mailboxes, to test certain fundamental assumptions relating to the provisions of universal mail service in the United States.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-26T21:34:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

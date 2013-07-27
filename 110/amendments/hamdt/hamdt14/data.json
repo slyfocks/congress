@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-08T16:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1386-1387", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1386-1387", 
+          "type": "text"
+        }
+      ], 
+      "text": "Substitute (A013) offered by Mr. Ferguson to the Burgess amendment (A012).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08T16:14:00-05:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Ferguson amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt14-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt13-110", 
+    "amendment_type": "hamdt", 
+    "congress": 110, 
+    "number": 13
+  }, 
+  "amends_bill": {
+    "bill_id": "hr547-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 13, 
+  "introduced_at": "2007-02-08", 
+  "number": 14, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Ferguson, Mike", 
+    "state": "NJ", 
+    "thomas_id": "01659", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2007-02-08", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

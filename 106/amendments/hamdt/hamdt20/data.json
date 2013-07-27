@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-10T15:34:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1113-1131", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1114", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. George Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-10T18:08:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 39, 
+      "text": "On agreeing to the Miller, George amendment (A003) Failed by recorded vote: 196 - 228 (Roll no. 39).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt20-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr800-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to require States to develop a system to measure student performance from year to year.", 
+  "house_number": 3, 
+  "introduced_at": "1999-03-10", 
+  "number": 20, 
+  "purpose": "An amendment numbered 12 printed in the Congressional Record to require states to have developed a system to measure student performance from one school year to the next and established numerical performance standards for student achievement including an objective of improving the performance of all groups and narrowing the gaps in performance between the groups disaggregated by race, ethnicity, sex, English proficiency status, migrant status, and socioeconomic status before a waiver authority is granted.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-03-10T18:08:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

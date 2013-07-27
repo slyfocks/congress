@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-10T18:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14680-14682, H14729-14730", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14680", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-10T21:25:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 954, 
+      "text": "On agreeing to the Sessions amendment (A002) Failed by recorded vote: 172 - 257 (Roll no. 954).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt518-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4173-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the provisions creating a new private right of action against credit rating agencies.", 
+  "house_number": 2, 
+  "introduced_at": "2009-12-10", 
+  "number": 518, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-370 to strike provisions which create a new private right of action against credit rating agencies; the amendment contains enforcement of credit rating agencies to the SEC.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-12-10T21:25:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

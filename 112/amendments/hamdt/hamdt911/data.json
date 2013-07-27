@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-01T15:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H335-337, H350", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H335", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01T18:18:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 14, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A002) Failed by recorded vote: 157 - 264 (Roll no. 14).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt911-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1173-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require that the Secretary of Health and Human Services certify to the Congress that at least 60% of individuals in the United States who are 25 years of age or older have private long-term care insurance before the CLASS Act would be repealed.", 
+  "house_number": 2, 
+  "introduced_at": "2012-02-01", 
+  "number": 911, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to add a new section to ensure market penetration for private long-term care insurance.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-01T18:18:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

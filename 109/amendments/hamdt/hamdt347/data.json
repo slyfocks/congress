@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5059-5060, H5071-5072", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5059", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Bradley (NH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23T17:21:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 307, 
+      "text": "On agreeing to the Bradley (NH) amendment (A005) Failed by recorded vote: 161 - 262 (Roll no. 307).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt347-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for special education by $50 million.", 
+  "house_number": 5, 
+  "introduced_at": "2005-06-23", 
+  "number": 347, 
+  "purpose": "Amendment seeks to increase funding for Individuals with Disabilities Education Act by $50,000,000 for use as Part B grants to states and will be offset by taking administrative and program management funds from OSHA and the Department of Education.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bradley, Jeb", 
+    "state": "NH", 
+    "thomas_id": "01736", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-23T17:21:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

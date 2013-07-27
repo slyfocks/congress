@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-17T10:50:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H9635-9636, H9642-9643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H9635", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-17T12:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 558, 
+      "text": "On agreeing to the Weiner amendment (A028) Failed by recorded vote: 193 - 233 (Roll no. 558).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt432-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3289-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 28, 
+  "introduced_at": "2003-10-17", 
+  "number": 432, 
+  "purpose": "An amendment to prohibit any funds in the bill from being used for Ex-Im Bank programs or other loans for Cuba, Libya, North Korea, Iran, Saudi Arabia or Syria.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-10-17T12:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

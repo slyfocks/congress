@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-15T12:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2592-2593", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2592", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Matheson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-15T12:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Matheson amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt47-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1362-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1362
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides Congress with prior notice of any sole source contract expected to be awarded to a foreign-owned company that is based in or has majority operations in a country known to sponsor terrorist activity.", 
+  "house_number": 1, 
+  "introduced_at": "2007-03-15", 
+  "number": 47, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-49 to provide Congress with prior notice of any sole source contract expected to be awarded to a foreign-owned company that is based in or has majority operations in a country known to sponsor terrorist activity, with the intent of allowing Congress to review and comment on the proposed contract.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Matheson, Jim", 
+    "state": "UT", 
+    "thomas_id": "01671", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-15T12:54:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

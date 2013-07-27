@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-18T15:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2818, H2820, CR 5/19/2006 H2845", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2819", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Beauprez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-18T18:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 166, 
+      "text": "On agreeing to the Beauprez amendment (A012) Failed by recorded vote: 112 - 306 (Roll no. 166).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt845-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5386-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5386
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to reduce funding for the National Endowment for the Arts by $30 million and transfer those funds to the United States Forest Service to reduce the threat of catastrophic wildfires.", 
+  "house_number": 12, 
+  "introduced_at": "2006-05-18", 
+  "number": 845, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to reduce funding of the National Endowment of the Arts by $30 million and to increasefunding for Wildland Fire Management by $28.5 million.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Beauprez, Bob", 
+    "state": "CO", 
+    "thomas_id": "01712", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-18T18:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

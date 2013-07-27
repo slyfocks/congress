@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-26T16:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2173", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2173", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Pompeo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-26T16:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pompeo amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1026-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3523-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3523
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 8, 
+  "introduced_at": "2012-04-26", 
+  "number": 1026, 
+  "purpose": "An amendment numbered 11 printed in House Report 112-454 to clarify that nothing in the bill would alter existing authorities or provide new authority to any federal agency, including DOD, NSA, DHS or the Intelligence Community to install, employ, or otherwise use cybersecurity systems on private sector networks.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Pompeo, Mike", 
+    "state": "KS", 
+    "thomas_id": "02022", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-26T16:19:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,43 @@
+<bill session="108" type="h" number="509" updated="2013-07-14T19:00:42-04:00">
+  <state datetime="2003-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2003-01-29"/>
+  </status>
+  <introduced datetime="2003-01-29"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Lindita Idrizi Heath.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2003-01-29">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2003-03-06">
+      <text>Referred to the Subcommittee on Immigration, Border Security, and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2003-10-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2003-10-30">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration, Border Security, and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="s" number="103"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2003--Introduced.
+Declares Lindita Idrizi Heath to be eligible for issuance of an immigrant visa or for adjustment of status to that of an alien lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

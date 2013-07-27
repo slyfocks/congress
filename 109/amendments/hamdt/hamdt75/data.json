@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T18:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2344-2347, H2377-2378", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2344", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Rogers (MI) to the Johnson (CT) amendment (A005).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T21:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 119, 
+      "text": "On agreeing to the Rogers (MI) amendment Agreed to by recorded vote: 259 - 172 (Roll no. 119).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt75-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt74-109", 
+    "amendment_type": "hamdt", 
+    "congress": 109, 
+    "number": 74
+  }, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "See Johnson (CT) amendment (A005) for description.", 
+  "house_number": 6, 
+  "introduced_at": "2005-04-20", 
+  "number": 75, 
+  "purpose": "An amendment numbered 6 printed in House Report 109-49 to the amendment offered by Mrs. Johnson of Connecticut. The amendment directs the Administrator of the EPA to revise certain Federal vehicle fuel economy adjustment factors to take into consideration higher speed limits, faster acceleration rates, variations in temperature, use of air conditioning, shorter city test cycle lengths, and the use of other fuel depleting features to provide consumers with accurate fuel economy information on new vehicle labels.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Rogers, Mike J.", 
+    "state": "MI", 
+    "thomas_id": "01651", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20T21:42:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

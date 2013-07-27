@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T15:45:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4267-4269, H4277-4278", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Gary Miller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T17:23:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H4267", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 261, 
+      "text": "On agreeing to the Miller, Gary amendment (A021) Failed by recorded vote: 150 - 267 (Roll no. 261).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt779-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase the appropriation for special education state grants by $16 million and reduce by the same amount funds for the Ready-to-Learn television program.", 
+  "house_number": 21, 
+  "introduced_at": "2000-06-13", 
+  "number": 779, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to increase the bill's appropriation for special education state grants by $16 million by an offsetting cut of the same amount from the ready to learn television program.", 
+  "sponsor": {
+    "district": "41", 
+    "name": "Miller, Gary", 
+    "state": "CA", 
+    "thomas_id": "01584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-13T17:23:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

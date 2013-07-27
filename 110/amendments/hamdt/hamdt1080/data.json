@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-06-11T12:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5255-5257, H5260-5261", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5255", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-11T13:57:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 397, 
+      "text": "On agreeing to the Sessions amendment (A004) Failed by recorded vote: 150 - 275 (Roll no. 397).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1080-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6003-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 6003
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prohibit funds from being used for the long distance Amtrak route with the highest cost per seat/mile according to Amtrak's March 2008 monthly performance report unless the Secretary has transmitted a waiver for this route or a portion of it because the Secretary considers it critical to homeland security.", 
+  "house_number": 4, 
+  "introduced_at": "2008-06-11", 
+  "number": 1080, 
+  "purpose": "An amendment numbered 4 printed in House Report 110-703 to prohibit funds from being used for the long distance Amtrak route with the highest cost per seat/mile according to Amtrak's March 2008 monthly performance report unless the Secretary has transmitted a waiver for this route or a portion of it because the Secretary considers it critical to homeland security.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-06-11T13:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

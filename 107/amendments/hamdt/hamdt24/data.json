@@ -1,0 +1,50 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-04-04T12:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1426-1432", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment in the nature of a substitute reported by the House Committee on Ways and Means.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-04T12:21:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ways and Means amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt24-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr8-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 8
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2001-04-04", 
+  "number": 24, 
+  "purpose": "The amendment now printed in the bill, H. Rept. 107-37, considered as adopted pursuant to the rule, H. Res. 111.", 
+  "sponsor": {
+    "committee_id": "hswm00", 
+    "name": "House Ways and Means", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-04-04T12:21:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

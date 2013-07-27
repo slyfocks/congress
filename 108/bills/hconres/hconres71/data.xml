@@ -1,0 +1,98 @@
+<bill session="108" type="hc" number="71" updated="2013-07-14T19:03:04-04:00">
+  <state datetime="2003-11-22">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2003-11-22"/>
+  </status>
+  <introduced datetime="2003-02-27"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the importance of Ralph Bunche as one of the great leaders of the United States, the first African-American Nobel Peace Prize winner, an accomplished scholar, a distinguished diplomat, and a tireless campaigner of civil rights for people throughout the world.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400143" joined="2003-07-10"/>
+    <cosponsor id="400170" joined="2003-07-10"/>
+    <cosponsor id="400199" joined="2003-07-10"/>
+    <cosponsor id="400208" joined="2003-07-10"/>
+    <cosponsor id="400262" joined="2003-07-10"/>
+    <cosponsor id="400268" joined="2003-07-10"/>
+    <cosponsor id="400306" joined="2003-07-10"/>
+    <cosponsor id="400383" joined="2003-07-10"/>
+    <cosponsor id="400402" joined="2003-07-10"/>
+    <cosponsor id="400438" joined="2003-07-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-02-27">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-03-05">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2003-09-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2003-09-12">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2003-10-08T12:59:00-04:00">
+      <text>Mr. Platts moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2003-10-08T12:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9316-9318" label="consideration"/>
+    </action>
+    <action datetime="2003-10-08T12:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 71.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-10-08T13:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H9316-9317" label="text"/>
+    </vote>
+    <action datetime="2003-10-08T13:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-10-14">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2003-11-22">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S15570" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2003-11-22" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2003-11-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="108" type="sc" number="82"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Blacks"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="College teachers"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomats"/>
+    <term name="Education"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Human rights"/>
+    <term name="International affairs"/>
+    <term name="Minorities"/>
+    <term name="Minorities in government"/>
+    <term name="United Nations officials"/>
+  </subjects>
+  <amendments/>
+  <summary>11/22/2003--Passed Senate without amendment.
+Recognizes Ralph Bunche as a pivotal 20th century figure and fighter in the struggle for human rights on a global scale. Urges the President to take appropriate measures to encourage the celebration and remembrance of Ralph Bunche's many significant achievements.</summary>
+</bill>

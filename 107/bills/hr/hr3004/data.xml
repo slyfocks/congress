@@ -1,0 +1,255 @@
+<bill session="107" type="h" number="3004" updated="2013-07-14T18:58:01-04:00">
+  <state datetime="2001-10-17T11:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-10-17T11:25:00-04:00"/>
+  </status>
+  <introduced datetime="2001-10-03"/>
+  <titles>
+    <title as="introduced" type="short">Financial Anti-Terrorism Act of 2001</title>
+    <title as="reported to house" type="short">Financial Anti-Terrorism Act of 2001</title>
+    <title as="passed house" type="short">Financial Anti-Terrorism Act of 2001</title>
+    <title as="introduced" type="official">To combat the financing of terrorism and other financial crimes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400307"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2001-10-03"/>
+    <cosponsor id="400012" joined="2001-10-03"/>
+    <cosponsor id="400550" joined="2001-10-03"/>
+    <cosponsor id="400023" joined="2001-10-03"/>
+    <cosponsor id="400060" joined="2001-10-03"/>
+    <cosponsor id="400150" joined="2001-10-03"/>
+    <cosponsor id="400159" joined="2001-10-03"/>
+    <cosponsor id="400535" joined="2001-10-03"/>
+    <cosponsor id="400186" joined="2001-10-03"/>
+    <cosponsor id="400195" joined="2001-10-04"/>
+    <cosponsor id="400213" joined="2001-10-03"/>
+    <cosponsor id="400219" joined="2001-10-03"/>
+    <cosponsor id="400537" joined="2001-10-03"/>
+    <cosponsor id="400235" joined="2001-10-03"/>
+    <cosponsor id="400236" joined="2001-10-03"/>
+    <cosponsor id="400251" joined="2001-10-03"/>
+    <cosponsor id="400508" joined="2001-10-04"/>
+    <cosponsor id="400283" joined="2001-10-04"/>
+    <cosponsor id="400501" joined="2001-10-03"/>
+    <cosponsor id="400345" joined="2001-10-09"/>
+    <cosponsor id="400533" joined="2001-10-03"/>
+    <cosponsor id="400370" joined="2001-10-09"/>
+    <cosponsor id="400371" joined="2001-10-09"/>
+    <cosponsor id="400530" joined="2001-10-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-10-03">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2001-10-03">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2001-10-03">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2001-10-03">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2001-10-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-10-11">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 1.</text>
+      <committee name="House Financial Services"/>
+    </calendar>
+    <action datetime="2001-10-17T10:05:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 107-250, Part I.</text>
+      <reference ref="CR 10/16/2001 H6902-6915" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2001-10-17T10:06:00-04:00">
+      <text>House Committee on Judiciary Granted an extension for further consideration ending not later than Oct. 17, 2001.</text>
+    </action>
+    <action datetime="2001-10-17T10:07:00-04:00">
+      <text>House Committee on Ways and Means Granted an extension for further consideration ending not later than Oct. 17, 2001.</text>
+    </action>
+    <action datetime="2001-10-17T10:08:00-04:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="2001-10-17T10:09:00-04:00">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <calendar datetime="2001-10-17T10:10:00-04:00" calendar="Union" number="151">
+      <text>Placed on the Union Calendar, Calendar No. 151.</text>
+    </calendar>
+    <action datetime="2001-10-17T10:21:00-04:00">
+      <text>Mr. Oxley moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2001-10-17T10:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6924-6944" label="consideration"/>
+    </action>
+    <action datetime="2001-10-17T10:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3004.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-10-17T11:25:00-04:00" how="roll" result="pass" roll="390" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 390).</text>
+      <reference ref="CR H6924-6936" label="text"/>
+    </vote>
+    <action datetime="2001-10-17T11:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-10-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Discharged"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="includes" session="107" type="h" number="3162"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Actions and defenses"/>
+    <term name="Administrative procedure"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Affiliated corporations"/>
+    <term name="Aliens"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arms sales"/>
+    <term name="Arrest"/>
+    <term name="Bail"/>
+    <term name="Bank accounts"/>
+    <term name="Bank directors"/>
+    <term name="Bank employees"/>
+    <term name="Bank loans"/>
+    <term name="Bank records"/>
+    <term name="Bankers"/>
+    <term name="Barter"/>
+    <term name="Bribery"/>
+    <term name="Brokers"/>
+    <term name="Checks"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Coins and coinage"/>
+    <term name="Collection of accounts"/>
+    <term name="Commerce"/>
+    <term name="Commodity exchanges"/>
+    <term name="Common carriers"/>
+    <term name="Computer crimes"/>
+    <term name="Computers and government"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Correspondent banks"/>
+    <term name="Counterfeiting"/>
+    <term name="Counterintelligence"/>
+    <term name="Court records"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal aliens"/>
+    <term name="Criminal investigation"/>
+    <term name="Criminal justice information"/>
+    <term name="Criminal justice information systems"/>
+    <term name="Customs administration"/>
+    <term name="Data banks"/>
+    <term name="Department of the Treasury"/>
+    <term name="District courts"/>
+    <term name="Drug abuse"/>
+    <term name="Drug traffic"/>
+    <term name="EBB Terrorism"/>
+    <term name="Economics and public finance"/>
+    <term name="Electronic commerce"/>
+    <term name="Electronic funds transfers"/>
+    <term name="Electronic government information"/>
+    <term name="Embezzlement"/>
+    <term name="Employee selection"/>
+    <term name="Evidence (Law)"/>
+    <term name="Executive reorganization"/>
+    <term name="Exports"/>
+    <term name="Families"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Federal reserve system"/>
+    <term name="Finance and financial sector"/>
+    <term name="Financial institutions"/>
+    <term name="Financial services"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Firearms"/>
+    <term name="Foreign agents"/>
+    <term name="Foreign banks and banking"/>
+    <term name="Foreign exchange"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Forfeiture"/>
+    <term name="Fraud"/>
+    <term name="Fugitives from justice"/>
+    <term name="Gambling"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Governmental investigations"/>
+    <term name="Identification devices"/>
+    <term name="Immigration"/>
+    <term name="Imports"/>
+    <term name="Indian gambling operations"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Information storage and retrieval systems"/>
+    <term name="Injunctions"/>
+    <term name="International affairs"/>
+    <term name="International banking"/>
+    <term name="International competitiveness"/>
+    <term name="International cooperation"/>
+    <term name="Internet"/>
+    <term name="Interstate commerce"/>
+    <term name="Judicial officers"/>
+    <term name="Jurisdiction"/>
+    <term name="Labor and employment"/>
+    <term name="Larceny"/>
+    <term name="Law"/>
+    <term name="Law clerks"/>
+    <term name="Liability (Law)"/>
+    <term name="Loans"/>
+    <term name="Married people"/>
+    <term name="Minorities"/>
+    <term name="Money"/>
+    <term name="Money laundering"/>
+    <term name="Negotiations"/>
+    <term name="Nonbank banks"/>
+    <term name="Obstruction of justice"/>
+    <term name="Organized crime"/>
+    <term name="Parties to actions"/>
+    <term name="Personnel records"/>
+    <term name="Postage stamps"/>
+    <term name="Postal service"/>
+    <term name="Presidential appointments"/>
+    <term name="Printing"/>
+    <term name="Prosecution"/>
+    <term name="Public corruption"/>
+    <term name="Public-private partnerships"/>
+    <term name="Recidivists"/>
+    <term name="Right of privacy"/>
+    <term name="Sanctions (International law)"/>
+    <term name="Science, technology, communications"/>
+    <term name="Searches and seizures"/>
+    <term name="Securities"/>
+    <term name="Securities fraud"/>
+    <term name="Securities regulation"/>
+    <term name="Security measures"/>
+    <term name="Smuggling"/>
+    <term name="Sports and recreation"/>
+    <term name="State-sponsored terrorism"/>
+    <term name="Stockholders"/>
+    <term name="Subpoena"/>
+    <term name="Tax havens"/>
+    <term name="Tax returns"/>
+    <term name="Taxation"/>
+    <term name="Terrorism"/>
+    <term name="Transportation and public works"/>
+    <term name="Treaties"/>
+    <term name="Undercover operations"/>
+    <term name="Underground economy"/>
+    <term name="Violence"/>
+    <term name="Visas"/>
+    <term name="Warrants (Law)"/>
+    <term name="Web sites"/>
+  </subjects>
+  <amendments/>
+  <summary>10/17/2001--Passed House amended.
+Financial Anti-Terrorism Act of 2001 - Title I: Strengthening Law Enforcement - Amends Federal law governing monetary transactions and Federal criminal law to establish as a bulk cash smuggling offense the knowing concealment and attempted transport (or transfer) across U.S. borders of with intent to evade specified currency reporting requirements currency and monetary instruments in excess of $10,000.(Sec. 103) Subjects to Federal criminal penalties persons engaged in unlicensed money transmitting business transactions.(Sec. 104) Establishes Federal jurisdiction over foreign money launderers and over money laundered through a foreign bank.(Sec. 109) Increases civil penalties for structuring transactions to evade targeting orders and for violations of certain recordkeeping requirements.(Sec. 110) Amends the Immigration and Nationality Act to declare inadmissible into the United States: (1) aliens who have engaged in proscribed money laundering activities; and (2) their immediate family members who have benefitted from such illicit activities. Grants the Attorney General authority to waive the mandatory exclusion of such family members in exceptional circumstances.(Sec. 111) Authorizes Federal enforcement agencies to initiate forfeiture actions regarding funds deposited into a dollar-denominated account in a foreign bank that has a correspondent account in the United States. States that there is no requirement for the Federal Government to trace such funds.(Sec. 112) Prescribes procedural guidelines for the service of Federal subpoenas for records of funds in correspondent bank accounts.(Sec. 113) Amends the Controlled Substances Act regarding persons convicted of certain drug abuse violations to authorize a court to order a defendant to repatriate into the court's jurisdiction, for seizure and forfeiture, any property placed beyond that jurisdiction.(Sec. 114) Amends the Federal judicial code to authorize a court to disallow a claim filed in a forfeiture proceeding on behalf of a corporation if any majority shareholder or individual filing the claim on the corporation's behalf is a fugitive in a related criminal case.(Sec. 115) Amends the Federal judicial code with respect to enforcement of foreign judgments to prescribe procedural guidelines for the issuance of a restraining order to preserve the availability of property subject to a foreign forfeiture or confiscation judgment.(Sec. 116) Amends the Right to Financial Privacy Act of 1978, the Fair Credit Reporting Act, and other Federal law governing records and reports on monetary instruments transactions to mandate that agencies subject to them share customer financial information with Federal intelligence or counterintelligence agencies for use against international terrorism. Requires the Secretary to make such reports available, upon request, to a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission.Requires insured depository institutions to retain records with a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism. Authorizes the Secretary also to require uninsured banks or institutions to retain records for such purposes.(Sec. 117) Declares that the Financial Crimes Enforcement Network shall be a bureau in the Department of the Treasury, which shall: (1) advise the Under Secretary for Enforcement on financial intelligence and financial criminal activities; (2) maintain a Government-wide data access service; (3) maintain a financial crimes communications center for Federal intelligence agency use; (4) establish a special unit to assist law enforcement and regulatory authorities in combatting the use of informal, nonbank networks without records and without compliance with criminal and tax laws (including payment and barter mechanisms that permit the transfer of funds and fund equivalents); and (5) coordinate with financial intelligence units in other countries on anti-terrorism and anti-money laundering initiatives. (Sec. 118) Establishes criminal penalties for false statements regarding the identity of customers of financial institutions.(Sec. 119) Instructs the Secretary to prescribe regulations that would require financial institutions to maintain account holder identification and verification.Requires the Secretary to study and report to Congress on measures that would require foreign nationals to: (1) provide domestic financial institutions and agencies with information comparable to that required of United States nationals; (2) obtain an identification number as a prerequisite to opening an account with such entities; and (3) establish a system for such entities to review federally maintained information for purposes of verifying the identities of foreign nationals seeking to open accounts.(Sec. 120) Amends the Bank Holding Company Act of 1956 and the Federal Deposit Insurance Act to direct the oversight authorities, when reviewing acquisition or merger applications, to take into consideration the effectiveness of the anti-money laundering record of the companies or insured depository institutions involved. (Sec. 121) Redefines "financial institution" and " money transmitting business" to include any person who engages as a business in the transmission of funds (including through an informal value transfer banking system or network of people (hawala) facilitating the transfer of value domestically or internationally outside of the conventional financial institutions system), thus placing such transactions within the purview of Federal law governing recordkeeping requirements of monetary instruments transaction.(Sec. 122) Amends the Federal Reserve Act to empower the Board of Governors of the Federal Reserve System to authorize personnel to act as law enforcement officers to protect Board premises, grounds, property, personnel, including members of the Board, or any Federal reserve bank. Permits the Board to delegate to a Federal Reserve bank the authority to authorize such personnel. Authorizes such law enforcement designees, while on duty, to carry firearms and make warrantless arrests for any offense against the United States, or for any felony committed within the buildings and grounds of the Board or a reserve bank.(Sec. 123) Prescribes reporting requirements for coin and currency receipts exceeding $10,000 in a nonfinancial trade or business, except any transaction that occurs entirely outside the United States.Title II: Public-Private Cooperation - Directs the Secretary of the Treasury to: (1) establish a highly secure network in the Financial Crimes Enforcement Network that allows financial institutions to file reports of suspicious activities through the network and alerts them to suspicious activities; (2) submit status reports to Congress regarding: (a) data collection and analysis; (b) barriers to the exchange of financial crime information; and (c) private banking activities in the United States; and (3) publish and disseminate periodically to the financial services industry detailed analyses derived from law enforcement agencies identifying patterns of suspicious activity.(Sec. 204) Directs the Secretary to study and report to Congress on: (1) possible expansion of the statutory exemption system; and (2) methods for improving financial institution utilization of statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes.(Sec. 205) Amends the Annunzio-Wylie Anti-Money Laundering Act to direct the Secretary to provide for a public-private task force on terrorist financing issues.(Sec. 206) Instructs the Secretary to publish proposed regulations requiring registered brokers and dealers to submit suspicious activity reports. Authorizes the Secretary to prescribe regulations requiring submission of such reports by futures commission merchants, commodity trading advisors, and commodity pool operators.(Sec. 207) Grants a financial institution civil liability immunity for making such disclosures. Prohibits any officer or employee of the institution, or any Federal, State, or local government officer or employee, from notifying any person involved in a suspicious transaction that it has been reported.(Sec. 208) Amends the Federal Deposit Insurance Act to authorize the inclusion of suspicions of illegal activity in written employment references.(Sec. 209) Instructs the Secretary to: (1) encourage foreign governments to require the inclusion of the name of the originator in wire transfer instructions sent to the United States and other countries; (2) report annually to certain congressional committees on progress towards and impediments to international cooperation on the identification of originators of wire transfers; and (3) study the impact of any policy of the Board of Governors of the Federal Reserve System relating to the promotion of check electronification, through truncation or migration from paper checks.Title III: Combatting International Money Laundering - Authorizes the Secretary to require domestic financial institutions and domestic financial agencies to take one or more special measures if the Secretary finds that a jurisdiction outside the United States, one or more financial institutions operating outside the United States, one or more classes of transactions within or involving a jurisdiction outside the United States, or one or more types of accounts is of primary money laundering concern. Specifies such measures with respect to: (1) recordkeeping and reporting of certain financial transactions; (2) disclosures regarding beneficial ownership, certain payable-through and correspondent accounts; and (3) prohibitions and conditions upon certain correspondent or payable-through accounts opened by a domestic financial institution or agency on behalf of a foreign financial institution.(Sec. 302) Mandates specified due diligence procedures for U.S. private banking and correspondent accounts involving foreign persons.(Sec. 303) Prohibits U.S. depository institution correspondent accounts with foreign shell banks, including indirect service to such banks.(Sec. 304) Requires each financial institution to establish anti-money laundering programs.(Sec. 305) Authorizes the Secretary to prescribe regulations governing maintenance of concentration accounts by financial institutions in order to ensure that they are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner.(Sec. 306) Expresses the sense of Congress that the President should direct the Secretary of State, the Attorney General, or the Secretary of the Treasury to seek to enter into: (1) negotiations with financial supervisory agencies and other officials of any foreign country whose financial institutions do business with United States financial institutions, or which may be utilized by a foreign terrorist organization, any person who is a member or representative of any such organization, or any person engaged in money laundering or financial or other crimes; and (2) cooperative efforts, voluntary information exchanges, the use of letters rogatory, mutual legal assistance treaties, and international agreements to ensure that foreign banks and other financial institutions maintain adequate records of large U.S. currency transactions, and transaction and account information relating to any foreign terrorist organization, or any person engaged in money laundering or financial or other crimes, and establish a mechanism whereby such records may be made available to U.S. law enforcement officials and domestic financial institution supervisors.Title IV: Currency Protection - Amends the Federal criminal code to increase penalties for counterfeiting domestic and foreign currency and obligations. Includes counterfeiting by analog, digital, or electronic image.(Sec. 403) Authorizes the Secretary to engrave and print currency, postage stamps, and other security documents for foreign governments.</summary>
+</bill>

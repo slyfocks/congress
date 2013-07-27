@@ -1,0 +1,97 @@
+<bill session="107" type="h" number="2841" updated="2013-07-14T18:57:57-04:00">
+  <state datetime="2001-11-13T16:28:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2001-11-13T16:28:00-05:00"/>
+  </status>
+  <introduced datetime="2001-09-05"/>
+  <titles>
+    <title as="introduced" type="official">To designate the building located at 1 Federal Plaza in New York, New York, as the "James L. Watson United States Court of International Trade Building".</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400532" joined="2001-10-03"/>
+    <cosponsor id="400543" joined="2001-11-08"/>
+    <cosponsor id="400140" joined="2001-11-08"/>
+    <cosponsor id="400143" joined="2001-10-03"/>
+    <cosponsor id="400172" joined="2001-10-03"/>
+    <cosponsor id="400204" joined="2001-10-03"/>
+    <cosponsor id="400268" joined="2001-11-08"/>
+    <cosponsor id="400354" joined="2001-11-08"/>
+    <cosponsor id="400509" joined="2001-10-03"/>
+    <cosponsor id="400424" joined="2001-11-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-09-05">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2001-09-06">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-11-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-11-06">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2001-11-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2001-11-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2001-11-13T14:53:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 107-280.</text>
+    </action>
+    <calendar datetime="2001-11-13T14:54:00-05:00" calendar="House" number="94">
+      <text>Placed on the House Calendar, Calendar No. 94.</text>
+    </calendar>
+    <action datetime="2001-11-13T16:16:00-05:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2001-11-13T16:16:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8056-8057" label="consideration"/>
+    </action>
+    <action datetime="2001-11-13T16:16:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2841.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-11-13T16:28:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8056" label="text"/>
+    </vote>
+    <action datetime="2001-11-13T16:29:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2001-11-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="s" number="1721"/>
+    <bill relation="unknown" session="107" type="s" number="1721"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Courts of special jurisdiction"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Law"/>
+    <term name="Names"/>
+    <term name="New York City"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2001--Passed House without amendment.
+Designates the building located at 1 Federal Plaza in New York, New York, as the James L. Watson United States Court of International Trade Building.</summary>
+</bill>

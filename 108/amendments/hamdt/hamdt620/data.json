@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-24T20:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 6/25/2004 H5006-5011, H5014-5015", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 6/25/2004 H5006-5007", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) in the nature of a substitute offered by Mr. Spratt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-24T22:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 314, 
+      "text": "On agreeing to the Spratt amendment (A012) Failed by recorded vote: 179 - 233 (Roll no. 314).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt620-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4663-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4663
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to replace the bill with the text of the \"Budget Enforcement Act of 2004\".", 
+  "house_number": 12, 
+  "introduced_at": "2004-06-24", 
+  "number": 620, 
+  "purpose": "An amendment in the nature of a substitute numbered 15 printed in House Report 108-566 to restore the original Pay-As-You-Go (PAYGO) rules as they were originally established under the 1990 Budget Enforcement Act and extended in 1997. Additionally, the amendment requires that the net cost of all mandatory spending increases and all tax cuts enacted within a session be fully offset and discretionary spending limits are renewed.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Spratt, John M., Jr.", 
+    "state": "SC", 
+    "thomas_id": "01092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-24T22:00:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

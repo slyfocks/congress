@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-29T19:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6379-6381, CR 7/30/2010 H6416", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6379", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-29T22:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 497, 
+      "text": "On agreeing to the Flake amendment (A021) Failed by recorded vote: 165 - 258 (Roll no. 497).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt763-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5850-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5850
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to prohibit $1,000,000 from being made available for the restoration and improvements to the historical Darwin Martin House Home and complex in New York and reduce the overall cost of the bill by the same amount.", 
+  "house_number": 21, 
+  "introduced_at": "2010-07-29", 
+  "number": 763, 
+  "purpose": "An amendment numbered 10 printed in part B of House Report 111-578 to prohibit $1,000,000 from being made available for the restoration and improvements to the historical Darwin Martin House Home and complex in New York and reduce the overall cost of the bill by the same amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-07-29T22:36:00-04:00", 
+  "updated_at": "2013-07-17T08:16:58-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4605-4606, H4641", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4605", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Welch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-06T19:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 499, 
+      "text": "On agreeing to the Welch amendment (A011) Failed by recorded vote: 98 - 322 (Roll no. 499).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt516-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the funding for Research, Development, Test and Evaluation for the Air Force by $297,023,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 11, 
+  "introduced_at": "2011-07-06", 
+  "number": 516, 
+  "purpose": "An amendment to transfer $297,023,000 from Research, Development, Test and Evaluation to the Spending Reduction Account.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "thomas_id": "01879", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-06T19:20:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

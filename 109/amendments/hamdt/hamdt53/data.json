@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15T16:06:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1479-1481", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1479", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Tancredo.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15T16:19:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Tancredo amendment (A010) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt53-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to delete the funds provided for relief to the countries affected by the Indian Ocean tsunami.", 
+  "house_number": 10, 
+  "introduced_at": "2005-03-15", 
+  "number": 53, 
+  "purpose": "An amendment to prohibit funds being used to provide emergency relief, rehabilitation or reconstruction aid to the tsunami recovery and reconstruction fund.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-03-15T16:19:00-05:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

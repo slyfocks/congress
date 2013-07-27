@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-25T13:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1508-1522", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1508-1516", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) in the nature of a substitute offered by Mr. Stenholm.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-25T14:18:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 89, 
+      "text": "On agreeing to the Stenholm amendment (A002) Failed by recorded vote: 183 - 243 (Roll no. 89).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt488-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hconres393-108", 
+    "bill_type": "hconres", 
+    "congress": 108, 
+    "number": 393
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute printed in House Report 108-446 and numbered 2 was offered as the Blue Dog substitute.", 
+  "house_number": 2, 
+  "introduced_at": "2004-03-25", 
+  "number": 488, 
+  "purpose": "An amendment in the nature of a substitute numbered 1 printed in House Report 108-446 to provide for a balanced budget by 2012 and to cut the deficit in half in the next two years. The substitute includes spending restraint mechanisms, restructuring of enacted tax cuts and makes an extension of the tax cuts after 2010 subject to PAYGO rules.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Stenholm, Charles W.", 
+    "state": "TX", 
+    "thomas_id": "01110", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-03-25T14:18:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

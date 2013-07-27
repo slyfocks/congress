@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-04", 
+      "references": [
+        {
+          "reference": "CR S4010", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4010", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3729 proposed by Senator Cochran for Senator Chafee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-04", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3729 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3729-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4939-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4939
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-01", 
+  "number": 3729, 
+  "proposed_at": "2006-05-04", 
+  "purpose": "To direct the Secretary of the Army to assume responsibility for the annual operation and maintenance of the Fox Point Hurricane Barrier, Providence, Rhode Island.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chafee, Lincoln", 
+    "state": "RI", 
+    "thomas_id": "01612", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-04", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

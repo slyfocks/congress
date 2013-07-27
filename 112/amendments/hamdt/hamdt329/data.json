@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T21:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3665-3666", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3665", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T13:27:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3728", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 363, 
+      "text": "On agreeing to the Campbell amendment (A029) Failed by recorded vote: 98 - 321 (Roll no. 363).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt329-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the baseline number of civilian employees at the Department of Defense by 1% every year for the next five years.", 
+  "house_number": 29, 
+  "introduced_at": "2011-05-25", 
+  "number": 329, 
+  "purpose": "An amendment numbered 54 printed in House Report 112-88 to reduce the baseline number of civilian employees at the Department of Defense by 1% every year for the next five years.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-26T13:27:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

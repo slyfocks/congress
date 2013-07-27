@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-15T17:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8156-8157", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8156", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T14:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8335-8336", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8336", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 588, 
+      "text": "On agreeing to the Hensarling amendment (A019) Failed by recorded vote: 133 - 290 (Roll no. 588).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt338-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3183-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $500,000 earmark for the Energy Conservation and Efficiency Upgrade of HVAC Controls project in New York.", 
+  "house_number": 19, 
+  "introduced_at": "2009-07-15", 
+  "number": 338, 
+  "purpose": "An amendment numbered 1 printed in Part D of House Report 111-209 to strike $500,000 for the Energy Conservation and Efficiency Upgrade of HVAC project in New York and reduce the overall cost of the bill.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T14:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

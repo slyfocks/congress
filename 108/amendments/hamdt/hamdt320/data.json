@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-23T23:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 7/24/2003 H7435-7440, H7442-7443", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 7/24/2003 H7435", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Weiner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-24T01:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 428, 
+      "text": "On agreeing to the Weiner amendment (A019) Failed by recorded vote: 191 - 231 (Roll no. 428).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt320-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2800-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 19, 
+  "introduced_at": "2003-07-23", 
+  "number": 320, 
+  "purpose": "An amendment to add a new section to the bill relating to a prohibition against direct funding for certain countries.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-24T01:23:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

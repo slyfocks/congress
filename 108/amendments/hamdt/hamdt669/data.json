@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-13T11:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5552-5554", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5552", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-13T11:12:00-04:00", 
+      "references": [], 
+      "text": "Hyde amendment (A001) modified by unanimous consent. Modification makes technical and conforming changes to the amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-13T11:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5552", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "On agreeing to the Hyde amendment (A001) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt669-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4766-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment, as modified, changes the title of the \"John Ogonowski Farmer-to-Farmer Program\" to the \"Doug Bereuter and John Ogonowski Farmer-to-Farmer Program\".", 
+  "house_number": 1, 
+  "introduced_at": "2004-07-13", 
+  "number": 669, 
+  "purpose": "An amendment numbered 1 printed in House Report 108-591 to change the title of the \"John Ogonowski Farmer-to-Farmer Program\" to the \"Doug Bereuter and John Ogonowski Farmer-to-Farmer Program.\".", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2004-07-13", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

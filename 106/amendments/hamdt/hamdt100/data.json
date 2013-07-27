@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-19T12:02:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-19T12:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (MI) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt100-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1654-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 1654
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment requires NASA and the Department of Agriculture to inform farmers and other users about the use and availability of remote sensing products that may assist with agricultural and forestry applications.", 
+  "house_number": 3, 
+  "introduced_at": "1999-05-19", 
+  "number": 100, 
+  "purpose": "An amendment numbered 8 and printed in the Congressional Record to require a plan by NASA and the Department of Agriculture to inform farmers and other users about the use and availability of remote sensing products that may assist with agricultural and forestry applications.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-05-19T12:02:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

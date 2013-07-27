@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-10T11:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2115-2125, H2133-2134", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2115-2117", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. DeLay.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-10T13:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 106, 
+      "text": "On agreeing to the DeLay amendment (A001) Agreed to by recorded vote: 282 - 137, 1 Present (Roll no. 106).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt31-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 1646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment prohibits U.S. cooperation with the International Criminal Court (including restrictions on U.S. military participation in UN peacekeeping operations and the transfer of U.S. classified national security information, and the provision of U.S. military assistance, to the Court). The amendment also authorizes the President to use all means necessary to bring about the release of U.S. military personnel and certain other persons held captive by or on behalf of the Court.", 
+  "house_number": 1, 
+  "introduced_at": "2001-05-10", 
+  "number": 31, 
+  "purpose": "An Amendment numbered 1 printed in House Report 107-62 to provide legal protections to ensure that American citizens, especially U.S. military personnel, are not prosecuted by the International Criminal Court for actions undertaken by them on behalf of the U.S. government unless and until the Senate ratifies the treaty establishing the Court.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "DeLay, Tom", 
+    "state": "TX", 
+    "thomas_id": "00282", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-05-10T13:55:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

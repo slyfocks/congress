@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-13", 
+      "references": [
+        {
+          "reference": "CR S5744-5746", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5744-5745", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4211 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14", 
+      "references": [
+        {
+          "reference": "CR S5837, S5840-5845", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4211 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4211-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2766-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2766
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-06-13", 
+  "number": 4211, 
+  "proposed_at": "2006-06-13", 
+  "purpose": "To name the CVN-78 aircraft carrier the U.S.S. Gerald Ford.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, John", 
+    "state": "VA", 
+    "thomas_id": "01452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-06-14", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

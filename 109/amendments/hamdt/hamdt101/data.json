@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-27T17:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2607-2609, H2612-1613", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2607", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Scott (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-27T18:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 141, 
+      "text": "On agreeing to the Scott (VA) amendment (A001) Failed by recorded vote: 179 - 245 (Roll no. 141).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt101-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr748-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 748
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide an exception to certain provisions in the bill to taxicab drivers, bus drivers, nurses, medical providers or others in the business of professional transport.", 
+  "house_number": 1, 
+  "introduced_at": "2005-04-27", 
+  "number": 101, 
+  "purpose": "An amendment numbered 1 printed in House Report 109-56 to immunize taxicab drivers, bus drivers, others in the business of professional transport, doctors, nurses, and/or other medical providers or their staff from the transportation provision of the bill.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-04-27T18:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

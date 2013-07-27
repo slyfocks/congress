@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-08-01T00:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7766-7772", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7766-7768", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-08-01T10:05:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7794-7797", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 560, 
+      "text": "On agreeing to the Flake amendment (A016) Failed by recorded vote: 63 - 350, 1 Present (Roll no. 560).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1165-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6599-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 6599
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to insert a new section at the end of the bill for the elimination of military construction congressional earmarks.", 
+  "house_number": 16, 
+  "introduced_at": "2008-08-01", 
+  "number": 1165, 
+  "purpose": "An amendment numbered 4 printed in the Congressional Record to insert a new section at the end of the bill for the elimination of military construction congressional earmarks.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-08-01T10:05:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

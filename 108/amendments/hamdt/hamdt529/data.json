@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-05-18T12:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3108", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3108", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-05-18T12:24:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt529-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2728-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2004-05-18", 
+  "number": 529, 
+  "purpose": "An amendment considered as adopted for use as new text pursuant to H. Res. 645.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-05-18T12:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

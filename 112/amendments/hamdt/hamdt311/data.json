@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T16:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3619-3621, H3634", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3619", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Garamendi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-25T18:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 348, 
+      "text": "On agreeing to the Garamendi amendment (A011) Failed by recorded vote: 168 - 256 (Roll no. 348).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt311-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the Secretary to ensure that each contractor of the Department of Defense performing a prime contract at a military installation in the United States sets aside 40 percent, by dollar value, of its subcontracting work under the contract for local qualified subcontractors. For purposes of the preceding sentence, a subcontractor would be considered local if its headquarters are within 60 miles of the military installation.", 
+  "house_number": 11, 
+  "introduced_at": "2011-05-25", 
+  "number": 311, 
+  "purpose": "An amendment numbered 28 printed in House Report 112-88 to require the Secretary to ensure that each contractor of the Department of Defense performing a prime contract at a military installation in the United States to set aside 40 percent, by dollar value, of its subcontracting work under the contract for local qualified subcontractors. For purposes of the preceding sentence, a subcontractor shall be considered local if its headquarters is within 60 miles of the military installation.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Garamendi, John", 
+    "state": "CA", 
+    "thomas_id": "01973", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-25T18:52:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

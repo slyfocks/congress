@@ -1,0 +1,89 @@
+<bill session="106" type="h" number="462" updated="2013-07-14T18:53:02-04:00">
+  <state datetime="1999-10-18T15:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1999-10-18T15:01:00-04:00"/>
+  </status>
+  <introduced datetime="1999-02-02"/>
+  <titles>
+    <title as="introduced" type="official">To clarify that governmental pension plans of the possessions of the United States shall be treated in the same manner as State pension plans for purposes of the limitation on the State income taxation of pension income.</title>
+  </titles>
+  <sponsor id="400544"/>
+  <cosponsors>
+    <cosponsor id="400596" joined="1999-02-02"/>
+    <cosponsor id="400273" joined="1999-02-02"/>
+    <cosponsor id="400615" joined="1999-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-02">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1999-02-25">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-03-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-03-24">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1999-05-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-05-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1999-09-08T14:46:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 106-302.</text>
+    </action>
+    <calendar datetime="1999-09-08T14:48:00-04:00" calendar="Union" number="180">
+      <text>Placed on the Union Calendar, Calendar No. 180.</text>
+    </calendar>
+    <action datetime="1999-10-18T14:55:00-04:00">
+      <text>Mr. Gekas moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-10-18T14:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10137-10138" label="consideration"/>
+    </action>
+    <action datetime="1999-10-18T14:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 462.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-10-18T15:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1999-10-18T15:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-10-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Annuities"/>
+    <term name="Civil service pensions"/>
+    <term name="Government operations and politics"/>
+    <term name="Income tax"/>
+    <term name="Intergovernmental tax relations"/>
+    <term name="Labor and employment"/>
+    <term name="Personal income tax"/>
+    <term name="Residence requirements"/>
+    <term name="State taxation"/>
+    <term name="Tax exemption"/>
+    <term name="Territories (U.S.)"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1999--Introduced.
+Amends Federal law to require governmental pension plans of the U.S. possessions to be treated in the same manner as State pension plans for purposes of a specified limitation on the State income taxation of pension income.</summary>
+</bill>

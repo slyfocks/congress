@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13T19:38:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H429-432", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H429-430", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mrs. Capito.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13T19:52:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Capito amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt422-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2356-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2356
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment increases contribution limits for House candidates in response to personal expenditures by wealthy opponents.", 
+  "house_number": 8, 
+  "introduced_at": "2002-02-13", 
+  "number": 422, 
+  "purpose": "Amendment numbered 10 printed in the Congressions Record February 12, 2002 to triple hard money contribution limits and allow additional coordinated expenditures for House candidates facing wealthy self-financed opponents. The adjusted limits would be triggered when the wealthy opponent has spent more than $350,000 of personal wealth, taking into account as offsets both the personal wealth spent by the non-wealthy candidate and the accumulated campaign funds of both candidates.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Capito, Shelley Moore", 
+    "state": "WV", 
+    "thomas_id": "01676", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2002-02-13T19:52:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

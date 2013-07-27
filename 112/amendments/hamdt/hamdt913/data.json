@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-01T16:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H337-339, H351-352", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H337-338", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Deutch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01T18:28:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 16, 
+      "text": "On agreeing to the Deutch amendment (A004) Failed by recorded vote: 160 - 264 (Roll no. 16).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt913-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1173-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to propose adding a new section inserting language outlining CLASS program flexibility including a requirement that the Secretary shall develop 3 actuarially sound benefit plans as alternatives for consideration of implementation policy.", 
+  "house_number": 4, 
+  "introduced_at": "2012-02-01", 
+  "number": 913, 
+  "purpose": "An amendment numbered 5 printed in the Congressional Record to propose adding a new section for class program flexibility.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Deutch, Theodore E.", 
+    "state": "FL", 
+    "thomas_id": "01976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-01T18:28:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

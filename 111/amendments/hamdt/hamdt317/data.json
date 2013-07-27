@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-10T12:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7986-7987", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7986", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-10T12:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sessions amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt317-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3082-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment requires, not later than 60 days after the date of the enactment of this Act, that the Secretary of Veterans Affairs shall submit to Congress a report on the use of hyperbaric oxygen therapy (HBOT) in VA medical facilities. The report shall include the number of veterans being treated with HBOT, the types of conditions being treated with HBOT and their respective success rates, and the current inventory of hyperbaric chambers.", 
+  "house_number": 6, 
+  "introduced_at": "2009-07-10", 
+  "number": 317, 
+  "purpose": "An amendment numbered 5 printed in House Report 111-195 to require, not later than 60 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report detailing the current and planned use of Hyperbaric Oxygen Therapy (HBOT) in Department of Veterans Affairs medical facilities. Such report shall include the number of veterans being treated with HBOT, the types of conditions being treated with HBOT and their respective success rates, and the current inventory of hyperbaric chambers.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-07-10T12:37:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

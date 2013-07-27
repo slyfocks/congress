@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-24T18:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5177-5178", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5177", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-25T13:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5219-5220", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 506, 
+      "text": "On agreeing to the Markey amendment (A005) Failed by recorded vote: 189 - 232 (Roll no. 506).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1443-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6082-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 6082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to create a statutory requirement that new leases offered pursuant to the bill include drilling safety improvements in response to the BP Deepwater Horizon disaster.", 
+  "house_number": 5, 
+  "introduced_at": "2012-07-24", 
+  "number": 1443, 
+  "purpose": "An amendment numbered 5 printed in Part C of House Report 112-616 to create a statutory requirement that new leases offered pursuant to this act include drilling safety improvements in response to the BP Deepwater Horizon disaster.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-25T13:57:00-04:00", 
+  "updated_at": "2013-07-17T08:17:28-04:00"
+}

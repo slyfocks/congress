@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05T21:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3466-3467", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3466", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A047) offered by Ms. Jackson Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06T14:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3498-3499", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 324, 
+      "text": "On agreeing to the Jackson Lee (TX) amendment (A047) Failed by recorded vote: 150 - 260 (Roll no. 324).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1216-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to increase the funds available for the Texas Coastal Restoration by $10 million and to reduce the funds available for the modernization of the nuclear weapons stockpile by a similar amount.", 
+  "house_number": 47, 
+  "introduced_at": "2012-06-05", 
+  "number": 1216, 
+  "purpose": "An amendment to reduce the funds available for the \"Atomic Energy Defense Activities-National Nuclear Security Administration-Weapons Activities\" Account by $10 million and increase the funds available for the \"Corps of Engineers-Civil-Department of the Army-Construction\" Account by the same amount.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-06T14:06:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29T12:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5534-5535, H5596-5597", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5534", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Ney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29T19:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 359, 
+      "text": "On agreeing to the Ney amendment (A002) Failed by recorded vote: 94 - 326 (Roll no. 359).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt935-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase funding for North Appalachian Experimental Watershed Research Station risk assessments by $100,000 and decrease USDA administration, communications, and inspector general funding accordingly.", 
+  "house_number": 2, 
+  "introduced_at": "2000-06-29", 
+  "number": 935, 
+  "purpose": "An amendment numbered 18 printed in the Congressioinal Record to increase by $100,000 (from $957,000 to $1.1 million), the funding in the bill for the North Appalachian Experimental Watershed Research Station. The increase is offset by reducing funding for USDA departmental admininstration by $34,000; Office of Inspector General by $33,000; and Office of Communications by $33,000.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Ney, Robert W.", 
+    "state": "OH", 
+    "thomas_id": "00862", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-29T19:27:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

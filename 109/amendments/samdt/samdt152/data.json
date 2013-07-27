@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-15", 
+      "references": [
+        {
+          "reference": "CR S2686-2692", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2686-2687", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 152 proposed by Senator Graham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2691-2692", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 46, 
+      "text": "Amendment SA 152 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 46.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt152-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sconres18-109", 
+    "bill_type": "sconres", 
+    "congress": 109, 
+    "number": 18
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-03-15", 
+  "number": 152, 
+  "proposed_at": "2005-03-15", 
+  "purpose": "To express the sense of the Senate regarding the urgent need for legislation to ensure the long-term viability of the Social Security program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "thomas_id": "00452", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-03-15", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

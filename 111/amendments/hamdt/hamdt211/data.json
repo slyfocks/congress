@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-06-16T19:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6895-6896", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6895", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Mollohan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-16T19:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Mollohan amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-06-18T14:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Westmoreland demanded a separate vote on the Mollohan amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T14:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7000", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7000", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Mollohan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-18T14:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 384, 
+      "text": "On agreeing to the Mollohan amendment (A001) Agreed to by the Yeas and Nays: 405 - 1 (Roll no. 384).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt211-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2847-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2847
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment provides an additional $100,000,000 (by offset) for the State Criminal Alien Assistance Program, restoring it to the FY 2009 level of $400,000,000.", 
+  "house_number": 1, 
+  "introduced_at": "2009-06-18", 
+  "number": 211, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to increase funding for the State Criminal Alien Assistance Program to a level of $100,000,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Mollohan, Alan B.", 
+    "state": "WV", 
+    "thomas_id": "00824", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-06-18T14:54:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

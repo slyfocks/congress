@@ -1,0 +1,172 @@
+<bill session="107" type="h" number="5063" updated="2013-07-14T18:58:42-04:00">
+  <state datetime="2002-10-03">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2002-10-03"/>
+  </status>
+  <introduced datetime="2002-07-08"/>
+  <titles>
+    <title type="popular">Unemployment Benefits bill</title>
+    <title as="introduced" type="short">Armed Forces Tax Fairness Act of 2002</title>
+    <title as="passed house" type="short">Armed Forces Tax Fairness Act of 2002</title>
+    <title as="reported to senate" type="short">Armed Forces Tax Fairness Act of 2002</title>
+    <title as="passed senate" type="short">Armed Forces Tax Fairness Act of 2002</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide a special rule for members of the uniformed services in determining the exclusion of gain from the sale of a principal residence and to restore the tax exempt status of death gratuity payments to members of the uniformed services.</title>
+    <title as="amended by house" type="official">To make technical amendments to the Social Security Act and related Acts.</title>
+    <title as="amended by senate" type="official">An Act to amend the Internal Revenue Code of 1986 to improve tax equity for military personnel, and for other purposes.</title>
+  </titles>
+  <sponsor id="400188"/>
+  <cosponsors>
+    <cosponsor id="400137" joined="2002-07-08"/>
+    <cosponsor id="400544" joined="2002-07-08"/>
+    <cosponsor id="400206" joined="2002-07-08"/>
+    <cosponsor id="400209" joined="2002-07-08"/>
+    <cosponsor id="400319" joined="2002-07-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-07-08">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2002-07-09T12:47:00-04:00">
+      <text>Mr. Houghton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-07-09T12:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4365-4369, H4392-4393" label="consideration"/>
+    </action>
+    <action datetime="2002-07-09T12:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5063.</text>
+    </action>
+    <action datetime="2002-07-09T13:15:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-07-09T16:11:00-04:00" how="roll" result="pass" roll="286" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 286).</text>
+      <reference ref="CR H4365-4366" label="text"/>
+    </vote>
+    <action datetime="2002-07-09T16:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-07-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="2002-09-12">
+      <text>Committee on Finance. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Finance"/>
+    </calendar>
+    <action datetime="2002-09-17">
+      <text>Committee on Finance. Reported by Senator Baucus with an amendment in the nature of a substitute and an amendment to the title. With written report No. 107-283.</text>
+    </action>
+    <calendar datetime="2002-09-17" calendar="Senate Legislative" under="General Orders" number="603">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 603.</text>
+    </calendar>
+    <action datetime="2002-10-03">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S9915-9927" label="consideration"/>
+      <reference ref="CR S9915-9920" label="text of measure as reported in Senate"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2002-10-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+      <reference ref="CR S9923-9927" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2002-10-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2002-11-13T23:14:00-05:00">
+      <text>Rules Committee Resolution H. Res. 609 Reported to House. Rule provides for consideration of motion to H.R. 5063.</text>
+    </action>
+    <action datetime="2002-11-14T18:49:00-05:00">
+      <text>Rule H. Res. 609 passed House.</text>
+    </action>
+    <action datetime="2002-11-14T20:33:00-05:00">
+      <text>Pursuant to the provisions of H. Res. 609, the House moved to agree with amendments to the Senate amendments.</text>
+    </action>
+    <action datetime="2002-11-14T20:35:00-05:00">
+      <text>DEBATE - The House proceeded with thirty minutes of debate.</text>
+    </action>
+    <action datetime="2002-11-14T20:53:00-05:00">
+      <text>On motion that the House agree with amendments to the Senate amendments Agreed to by voice vote.</text>
+      <reference ref="CR H8794-8801" label="consideration"/>
+      <reference ref="CR H8794-8798" label="text as House agreed to Senate amendments"/>
+    </action>
+    <action datetime="2002-11-14T20:53:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-11-14">
+      <text>Message on House action received in Senate and at desk: House amendments to Senate amendments.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="107" type="hr" number="609"/>
+    <bill relation="unknown" session="107" type="h" number="3973"/>
+    <bill relation="unknown" session="107" type="h" number="5557"/>
+    <bill relation="unknown" session="107" type="s" number="2816"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agriculture and food"/>
+    <term name="Annuities"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Atmospheric research"/>
+    <term name="Capital gains tax"/>
+    <term name="Citizenship"/>
+    <term name="Day care"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Expatriation"/>
+    <term name="Families"/>
+    <term name="Federal employees"/>
+    <term name="Gifts"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Home ownership"/>
+    <term name="Housing and community development"/>
+    <term name="Housing finance"/>
+    <term name="Immigration"/>
+    <term name="Income tax"/>
+    <term name="Individual retirement accounts"/>
+    <term name="International affairs"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Military dependents"/>
+    <term name="Military operations"/>
+    <term name="Military pensions"/>
+    <term name="Military personnel"/>
+    <term name="Military training"/>
+    <term name="National Guard"/>
+    <term name="Oceanographic research"/>
+    <term name="Personal income tax"/>
+    <term name="Public health personnel"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Real estate appraisal"/>
+    <term name="Repatriation"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social security taxes"/>
+    <term name="Social welfare"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tax administration"/>
+    <term name="Tax exclusion"/>
+    <term name="Tax returns"/>
+    <term name="Tax treaties"/>
+    <term name="Tax-deferred compensation plans"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Transportation and public works"/>
+    <term name="Travel costs"/>
+    <term name="Trusts and trustees"/>
+    <term name="User charges"/>
+    <term name="Veterans' organizations"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4855"/>
+  </amendments>
+  <summary>10/3/2002--Passed Senate amended.
+Armed Forces Tax Fairness Act of 2002 - Title I: Improving Tax Equity for Military Personnel - Amends the Internal Revenue Code to exclude from gross income as a qualified military benefit the amount of the death gratuity payable under chapter 75 of title 10 of the United States Code, effective with respect to deaths occurring after September 10, 2001.(Sec. 102) Authorizes a member of the uniformed services or the Foreign Service serving on "qualified official extended duty" (any extended duty while serving at a duty station which is at least 50 miles from the principal residence or while residing under Government orders in Government quarters), to extend for ten years the five-year period utilized in determining full exclusion of gain from the sale of a principal residence.Defines "qualified extended duty"as any extended duty (in excess of 90 days or an indefinite period) while serving at a duty station which is at least 50 miles from the principal residence or while residing under Government orders in Government quarters.Includes among the uniformed services: (1) the armed forces; (2) the commissioned corps of the National Oceanic and Atmospheric Administration; and (3) the commissioned corps of the Public Health Service.Makes such provisions effective as if included in section 312 of the Taxpayer Relief Act of 1997.States that if a refund or credit resulting from this section is prevented before the close of the one-year period beginning on the date of the enactment of this Act by the operation of any law or rule of law (including res judicata), such refund or credit may be allowed if claimed before the close of such period.(Sec. 103) Exempts amounts received under the Homeowners Assistance Program from: (1) inclusion as gross income; and (2) consideration as wages for Federal Insurance Contributions Act (FICA) tax purposes (including Medicare).(Sec. 104) Extends combat zone filing rules to contingency operations.(Sec. 105) Provides a deduction for itemizers and non-itemizers for unreimbursed overnight travel, meals, and lodging expenses of National Guard and Reserve members who must travel away from home and stay overnight as part of their official duties.(Sec. 106) Includes ancestors or lineal descendants of past or present members of the armed forces or of cadets as qualifying members of veterans' organizations for purposes of such organizations' tax-exempt status determination.(Sec. 107) Includes dependent care assistance provided under a dependent care assistance program for a member of the uniformed services by reason of such member's status or service as an income-excludable qualified military benefit.Title II: Other Provisions - Amends the Code to revise repatriation tax provisions.States that all property of a "covered expatriate" (a U.S. citizen who relinquishes citizenship, or a long-term U.S. resident who ceases to be a lawful permanent resident or who commences foreign residency under the provisions of a tax treaty) shall be treated as sold on the day before the "expatriation date" for its fair market value, and that gain (in excess of $600,000) and loss shall be taken into account for the taxable year of the sale (with subsequent adjustment). Permits an individual to defer payments of the additional tax imposed by such deemed sale (but not beyond such person's death). Sets forth interest provisions. Requires provision of tax payment security.Exempts certain U.S. citizens from being treated as a covered expatriate who: (1) became a citizen of the United States and another country at birth; or (2) relinquished U.S. citizenship before reaching 18 Permits an individual to make an irrevocable decision to be taxed as a U.S. citizen with respect to all property otherwise covered by the expatriation provisions. Requires an individual to: (1) furnish tax payment security; and (2) waive any rights under U.S. treaties that would preclude assessment or collection of relevant tax.Excludes certain U.S. real property interests from the provisions of this Act. Subjects the following retirement plans to the provisions of this Act: (1) qualified retirement plans, including specified annuity plans and individual retirement accounts; (2) specified deferred compensation plans; and (3) foreign retirement or pension plans.Establishes special rules for covered expatriates' interests in trusts and qualified trusts.Includes in a recipient's gross income the value of property received by gift or bequest from a covered expatriate, with exceptions for transfers otherwise subject to estate or gift tax. Makes such provisions applicable to gifts and bequests received on or after September 12, 2002, from an individual whose expatriation date occurs after such date.Makes such expatriate tax provisions, unless otherwise provided for by this Act, effective on or after September 12, 2002.Amends the Immigration and Nationality Act to deny a former citizen reentry into the United States for noncompliance with the provisions of this title. (Current law denies reentry based upon tax-motivated expatriation.) Permits Internal Revenue Service (IRS)-INS information sharing for such purpose. Makes such provisions effective upon enactment of this Act.(Sec. 202) Amends the Code to establish IRS service user fee authority through September 30, 2012. Sets forth program criteria and average fee requirements.(Sec. 203) Authorizes IRS to enter into partial payment installment agreements with taxpayers. Requires review of such agreements at least every two years. Makes such provision effective for agreements entered into on or after the date of enactment of this Act.</summary>
+</bill>

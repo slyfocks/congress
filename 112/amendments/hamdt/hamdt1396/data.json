@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-18T18:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4971", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4971", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Baca.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-18T18:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Baca amendment (A019) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1396-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for Operation and Maintenance, Defense-Wide by $10 million and to increase funding for Research, Development, Test and Evaluation, Defense-Wide by a similar amount to assist in development of solutions to perchlorate contaminated water.", 
+  "house_number": 19, 
+  "introduced_at": "2012-07-18", 
+  "number": 1396, 
+  "purpose": "An amendment to reduce funding for Operation and Maintenance, Defense-Wide, by $10 million and to increase funding for Research, Development, Test and Evaluation, Defense-Wide, by a similar amount.", 
+  "sponsor": {
+    "district": "43", 
+    "name": "Baca, Joe", 
+    "state": "CA", 
+    "thomas_id": "01614", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-18T18:34:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-23T18:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2996-3008, H3025", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2996", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-23T22:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 202, 
+      "text": "On agreeing to the McGovern amendment (A005) Failed by recorded vote: 192 - 225 (Roll no. 202).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt496-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4775-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4775
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to delete language which allows fiscal year 2002 funds available to the Department of Defense for assistance to the Government of Colombia to be made available to support a unified campaign against narcotics trafficking, and against activities by certain organizations designated as terrorist organizations.", 
+  "house_number": 5, 
+  "introduced_at": "2002-05-23", 
+  "number": 496, 
+  "purpose": "An amendment numbered 2 and printed in the Congressional Record on May 20, 2002 to strike the bill's provision allowing counternarcotics funds provided for Columbia to be used as part of a wider cmapaign against terrorist groups in that country.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-05-23T22:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

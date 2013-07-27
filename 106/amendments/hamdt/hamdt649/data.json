@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-04T13:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1702-1711", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. LaHood.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-04T14:33:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1702", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 98, 
+      "text": "On agreeing to the LaHood amendment (A003) Failed by recorded vote: 160 - 260, 1 Present (Roll no. 98).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt649-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2418-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2418
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to subject the policies and rules established by the Network to review and approval by the Secretary of Health and Human Services; establish an advisory committee to provide recommendations to the Secretary on Network policies, rules, and other matters as appropriate; and specify that all polices shall be based on sound medical principles and valid scientific data.", 
+  "house_number": 3, 
+  "introduced_at": "2000-04-04", 
+  "number": 649, 
+  "purpose": "An amendment numbered 3 printed in House Report 106-557 to provide that the policies and rules established by the network shall be subject to review and approval by the Secretary of HHS; to require both HHS and its contractor to apply scientific principles to the development of organ allocation policies; and to ensure that data necessary to evaluate and improve the organ transplant system are provided to the public.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "LaHood, Ray", 
+    "state": "IL", 
+    "thomas_id": "00659", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-04-04T14:33:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-25T18:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5466, H5469", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5466", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Ms. Hochul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-25T19:02:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 636, 
+      "text": "On agreeing to the Hochul amendment (A007) Failed by recorded vote: 141 - 271 (Roll no. 636).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt719-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2584-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2584
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the amount in the Bureau of Land Management account available for the processing of applications for drilling permits by $4,452,000.", 
+  "house_number": 7, 
+  "introduced_at": "2011-07-25", 
+  "number": 719, 
+  "purpose": "An amendment to reduce the amount in the Bureau of Land Management account available for the processing of applications for drilling permits by $4,452,000.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Hochul, Kathleen C.", 
+    "state": "NY", 
+    "thomas_id": "02088", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-25T19:02:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

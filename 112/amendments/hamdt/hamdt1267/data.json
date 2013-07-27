@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-07T18:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3629-3630, H3646-3647", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3629", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-07T21:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 364, 
+      "text": "On agreeing to the Blackburn amendment (A034) Failed by recorded vote: 131 - 282 (Roll no. 364).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1267-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5855-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5855
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 34, 
+  "introduced_at": "2012-06-07", 
+  "number": 1267, 
+  "purpose": "An amendment to prohibit the use of funds to be used to provide a Transportation Security Officer, Behavior Detection Officer, or other employee of the Transportation Security Administration 1) a badge or shield; or 2) a uniform with epaulets or a badge tab.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-06-07T21:17:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

@@ -1,0 +1,135 @@
+<bill session="106" type="h" number="440" updated="2013-07-14T18:53:01-04:00">
+  <state datetime="1999-04-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1999-04-27"/>
+  </status>
+  <introduced datetime="1999-02-02"/>
+  <titles>
+    <title as="introduced" type="short">Microloan Program Technical Corrections Act of 1999</title>
+    <title as="passed house" type="short">Microloan Program Technical Corrections Act of 1999</title>
+    <title as="passed senate" type="short">Microloan Program Technical Corrections Act of 1999</title>
+    <title as="enacted" type="short">Microloan Program Technical Corrections Act of 1999</title>
+    <title as="introduced" type="official">To make technical corrections to the Microloan Program.</title>
+  </titles>
+  <sponsor id="300096"/>
+  <cosponsors>
+    <cosponsor id="400309" joined="1999-02-02"/>
+    <cosponsor id="400360" joined="1999-02-02"/>
+    <cosponsor id="400416" joined="1999-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-02-02">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="1999-02-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <calendar state="REPORTED" datetime="1999-02-08">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Small Business"/>
+    </calendar>
+    <action datetime="1999-02-08T15:50:00-05:00">
+      <text>Reported by the Committee on Small Business. H. Rept. 106-12.</text>
+    </action>
+    <calendar datetime="1999-02-08T15:50:00-05:00" calendar="Union" number="10">
+      <text>Placed on the Union Calendar, Calendar No. 10.</text>
+    </calendar>
+    <action datetime="1999-02-09T14:28:00-05:00">
+      <text>Mr. Talent moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1999-02-09T14:29:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H492-494" label="consideration"/>
+    </action>
+    <action datetime="1999-02-09T14:29:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1999-02-09T14:38:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1999-02-09T17:17:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H524-525" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-02-09T17:37:00-05:00" how="roll" result="pass" roll="12" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 12).</text>
+      <reference ref="CR H492" label="text"/>
+    </vote>
+    <action datetime="1999-02-09T17:37:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-02-11">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1999-02-22">
+      <text>Read twice and referred to the Committee on Small Business.</text>
+    </action>
+    <action datetime="1999-03-25">
+      <text>Senate Committee on Small Business discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1999-03-25">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S3554-3566" label="consideration"/>
+    </action>
+    <action datetime="1999-03-25">
+      <text>Amendment SP 248 proposed by Senator Enzi for Senator Kerry.</text>
+    </action>
+    <action datetime="1999-03-25">
+      <text>Amendment SP 248 agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="1999-03-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S3554-3566" label="consideration"/>
+    </vote>
+    <action datetime="1999-04-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1999-04-12T14:49:00-04:00">
+      <text>Mr. Pease moved that the House suspend the rules and agree to the Senate amendment.</text>
+    </action>
+    <action datetime="1999-04-12T14:50:00-04:00">
+      <text>The House proceeded with forty minutes of debate on the Senate amendment to H.R. 440.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1999-04-12T14:57:00-04:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H1817-1818" label="consideration"/>
+      <reference ref="CR H1817-1818" label="text"/>
+    </vote>
+    <action datetime="1999-04-12T14:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="1999-04-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1999-04-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1999-04-27">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1999-04-27" type="public" number="106-22">
+      <text>Became Public Law No: 106-22.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup, Reporting"/>
+    <committee code="SSSB" name="Senate Small Business" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government lending"/>
+    <term name="Loan defaults"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Small business"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments>
+    <amendment number="s248"/>
+  </amendments>
+  <summary>3/25/1999--Passed Senate amended.
+Microloan Program Technical Corrections Act of 1999 - Amends provisions of the Small Business Act relating to the Microloan Program (a program making loans to small businesses for startup or materials and equipment costs) to: (1) require the Small Business Administration (SBA) to make available for award under such Program to each State, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, and American Samoa an amount equal to the sum of the lesser of $800,000 or one fifty-fifth of the total amount of new loan funds available for such fiscal year plus such additional amount determined appropriate (authorizing a redistribution of unused funds among such States and territories and possessions); (2) revise the loan loss reserve fund levels required of loan intermediaries; (3) direct the SBA Administrator, after the first five years of an intermediary's participation in the Program, to review the annual loss rate of such intermediary; and (4) authorize the Administrator, under certain circumstances, to reduce the annual loan loss reserve requirement to reflect the average annual loan loss rate of an intermediary, except that no loan loss reserve shall be reduced to less than ten percent of the outstanding balance of the notes receivable owed to the intermediary.</summary>
+</bill>

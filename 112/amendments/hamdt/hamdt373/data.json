@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T20:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3881", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3881", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Ms. Richardson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-01T20:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Richardson amendment (A025) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt373-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment emphasizes expanded funding for support of response, rescue and recovery in the Disaster Relief Fund.", 
+  "house_number": 25, 
+  "introduced_at": "2011-06-01", 
+  "number": 373, 
+  "purpose": "An amendment to redirect a $100,000,000 with respect to the Disaster Relief fund.", 
+  "sponsor": {
+    "district": "37", 
+    "name": "Richardson, Laura", 
+    "state": "CA", 
+    "thomas_id": "01883", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-01T20:55:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

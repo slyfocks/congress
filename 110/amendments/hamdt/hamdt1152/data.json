@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-07-31T22:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 8/1/2008 H7749-7750", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 8/1/2008 H7749", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Garrett (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-08-01T09:48:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7793-7794", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 558, 
+      "text": "On agreeing to the Garrett (NJ) amendment (A003) Failed by recorded vote: 185 - 227 (Roll no. 558).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1152-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6599-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 6599
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce administrative expenses by $18.018 million and apply that amount as an increase in funds for State veterans homes.", 
+  "house_number": 3, 
+  "introduced_at": "2008-07-31", 
+  "number": 1152, 
+  "purpose": "An amendment numbered 11 printed in the Congressional Record to increase funding, by transfer, for the grants for construction of state extended care facilities account by $18,018,000.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2008-08-01T09:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

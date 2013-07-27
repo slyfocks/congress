@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-04T15:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2932-2935", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2932", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Rohrabacher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-04T15:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Rohrabacher amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt110-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1185-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1185
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to strike section 3 of the bill which provides for an increase in deposit insurance coverage and retains the current level of $100,000 per account.", 
+  "house_number": 4, 
+  "introduced_at": "2005-05-04", 
+  "number": 110, 
+  "purpose": "An amendment to strike section 3 of the bill (and redesignate the subsequent sections and any cross reference to any such section and conform the table of contents accordingly).", 
+  "sponsor": {
+    "district": "46", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-05-04T15:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

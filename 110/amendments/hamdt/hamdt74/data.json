@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-28T15:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3226-3227", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3226", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Brown, Corrine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28T15:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown, Corrine amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt74-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1538-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1538
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment ensures confidentiality to individuals who call the toll-free hotline provided for in the bill.", 
+  "house_number": 5, 
+  "introduced_at": "2007-03-28", 
+  "number": 74, 
+  "purpose": "An amendment numbered 5 printed in House Report 110-78 to ensure confidentiality for members of the military who call the hotline for help.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Brown, Corrine", 
+    "state": "FL", 
+    "thomas_id": "00132", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-03-28T15:19:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-21", 
+      "references": [
+        {
+          "reference": "CR S10280", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10280", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1796 proposed by Senator Bingaman for Senator Jeffords.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-22", 
+      "references": [
+        {
+          "reference": "CR S10327", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-22", 
+      "references": [], 
+      "text": "Proposed amendment SA 1796 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1796-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-21", 
+  "number": 1796, 
+  "proposed_at": "2005-09-21", 
+  "purpose": "To provide funds to carry out the historic barn preservation program, with an offset.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Jeffords, James M.", 
+    "state": "VT", 
+    "thomas_id": "00593", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-09-22", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

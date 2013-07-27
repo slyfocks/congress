@@ -1,0 +1,84 @@
+<bill session="106" type="h" number="1042" updated="2013-07-14T18:53:19-04:00">
+  <state datetime="2000-10-10T15:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-10-10T15:46:00-04:00"/>
+  </status>
+  <introduced datetime="1999-03-09"/>
+  <titles>
+    <title as="introduced" type="short">Drug Dealer Liability Act of 1999</title>
+    <title as="introduced" type="official">To amend the Controlled Substances Act to provide civil liability for illegal manufacturers and distributors of controlled substances for the harm caused by the use of those controlled substances.</title>
+  </titles>
+  <sponsor id="400234"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="1999-06-16"/>
+    <cosponsor id="400036" joined="1999-03-10"/>
+    <cosponsor id="300021" joined="1999-03-10"/>
+    <cosponsor id="400136" joined="1999-03-09"/>
+    <cosponsor id="400596" joined="1999-03-10"/>
+    <cosponsor id="400292" joined="1999-03-24"/>
+    <cosponsor id="400298" joined="1999-03-24"/>
+    <cosponsor id="400501" joined="1999-03-09"/>
+    <cosponsor id="400367" joined="1999-03-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-03-09">
+      <text>Referred to the Committee on Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1999-03-09">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1999-03-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1999-03-18">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="1999-03-30">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="2000-10-10T15:41:00-04:00">
+      <text>Mr. Bilirakis moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-10T15:41:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9535-9537" label="consideration"/>
+    </action>
+    <action datetime="2000-10-10T15:41:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1042.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-10T15:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9534" label="text"/>
+    </vote>
+    <action datetime="2000-10-10T15:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-11">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Drug abuse"/>
+    <term name="Actions and defenses"/>
+    <term name="Commerce"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug law enforcement"/>
+    <term name="Drug traffic"/>
+    <term name="Informers"/>
+    <term name="Law"/>
+    <term name="Liability (Law)"/>
+    <term name="Products liability"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1999--Introduced.
+Drug Dealer Liability Act of 1999 - Amends the Controlled Substances Act to provide that any person who manufactures or distributes a controlled substance in a felony violation of such Act shall be liable in a civil action to any party harmed, directly or indirectly, by the use of that substance. Prohibits an individual user of a controlled substance from bringing or maintaining such an action unless the individual personally discloses to narcotic enforcement authorities all of the information known to that individual regarding all his or her sources of illegal controlled substances.</summary>
+</bill>

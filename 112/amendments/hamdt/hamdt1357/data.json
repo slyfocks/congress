@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-27T21:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4140-4141", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4140", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A042) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-27T21:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4141", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Price (GA) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1357-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5972-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5972
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 42, 
+  "introduced_at": "2012-06-27", 
+  "number": 1357, 
+  "purpose": "An amendment to prohibit the use of funds to be used by PHMSA to require placement of line markers, other than at public road and railroad crossings.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-06-27", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

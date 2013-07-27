@@ -1,0 +1,105 @@
+<bill session="107" type="h" number="3971" updated="2013-07-14T18:58:21-04:00">
+  <state datetime="2002-07-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2002-07-24"/>
+  </status>
+  <introduced datetime="2002-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To provide for an independent investigation of Forest Service firefighter deaths that are caused by wildfire entrapment or burnover.</title>
+  </titles>
+  <sponsor id="400171"/>
+  <cosponsors>
+    <cosponsor id="400109" joined="2002-03-14"/>
+    <cosponsor id="400117" joined="2002-03-14"/>
+    <cosponsor id="400193" joined="2002-03-14"/>
+    <cosponsor id="400232" joined="2002-03-14"/>
+    <cosponsor id="400292" joined="2002-03-14"/>
+    <cosponsor id="400379" joined="2002-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-03-14">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2002-03-19">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2002-06-24T14:18:00-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2002-06-24T14:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3832-3833, H3838-3839" label="consideration"/>
+    </action>
+    <action datetime="2002-06-24T14:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3971.</text>
+    </action>
+    <action datetime="2002-06-24T14:29:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2002-06-24T18:58:00-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-06-24T19:04:00-04:00" how="roll" result="pass" roll="251" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 251).</text>
+      <reference ref="CR H3832" label="text"/>
+    </vote>
+    <action datetime="2002-06-24T19:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-06-25">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2002-06-26" calendar="Senate Legislative" under="General Orders" number="446">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 446.</text>
+    </calendar>
+    <action datetime="2002-07-08">
+      <text>Star Print ordered on the measure.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2002-07-10" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6592-6593" label="consideration"/>
+    </vote>
+    <topresident datetime="2002-07-10">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2002-07-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2002-07-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2002-07-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2002-07-24" type="public" number="107-203">
+      <text>Became Public Law No: 107-203.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="107" type="s" number="2471"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Death"/>
+    <term name="Department of Agriculture"/>
+    <term name="Federal employees"/>
+    <term name="Fire fighters"/>
+    <term name="Forest fires"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Health"/>
+    <term name="Inspectors general"/>
+    <term name="Labor and employment"/>
+    <term name="Occupational health and safety"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2002--Passed House without amendment.
+Requires the Inspector General of the Department of Agriculture to investigate (independent of any Forest Service investigation) and report to Congress and the Secretary of Agriculture on each fatality of a Forest Service officer or employee that occurs due to wildfire entrapment or burnover.</summary>
+</bill>

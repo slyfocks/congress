@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-27", 
+      "references": [
+        {
+          "reference": "CR S9114-9115", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9114", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1626 proposed by Senator Reed for Senator Kohl.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-28", 
+      "references": [
+        {
+          "reference": "CR S9217-9222", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 207, 
+      "text": "Amendment SA 1626 agreed to in Senate by Yea-Nay Vote. 70 - 30. Record Vote Number: 207.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1626-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s397-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 397
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-27", 
+  "number": 1626, 
+  "proposed_at": "2005-07-27", 
+  "purpose": "To amend chapter 44 of title 18, United States Code, to require the provision of a child safety lock in connection with the transfer of a handgun.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kohl, Herb", 
+    "state": "WI", 
+    "thomas_id": "01380", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-28", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

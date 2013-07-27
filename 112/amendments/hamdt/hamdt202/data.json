@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-29T16:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2009-2010", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2010", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Miller (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-29T16:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Miller (NC) amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt202-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr839-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 839
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to direct the Secretary, upon termination of the Home Affordable Modification Program, to undertake a study of the use of the program by covered homeowners, and also of the effectiveness of the program in assisting these homeowners. Following completion of that study, the Secretary would have been required to implement a new program to assist the same group of homeowners based on the study's findings.", 
+  "house_number": 4, 
+  "introduced_at": "2011-03-29", 
+  "number": 202, 
+  "purpose": "An amendment numbered 4 printed in Part A of House Report 112-34 to direct the Secretary, upon termination of the Home Affordable Modification Program, to undertake a study of the use of the program by covered homeowners, and also of the effectiveness of the program in assisting these homeowners. Following completion of that study, the Secretary would be required to implement a new program to assist the same group of homeowners based on the study's findings.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Brad", 
+    "state": "NC", 
+    "thomas_id": "01735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-03-29T16:13:00-04:00", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

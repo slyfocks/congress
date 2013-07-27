@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-06T18:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2383-2385, H2391", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2383-2384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) in the nature of a substitute offered by Mr. Kind.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-06T19:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 241, 
+      "text": "On agreeing to the Kind amendment (A012) Failed by recorded vote: 160 - 264 (Roll no. 241).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt251-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr910-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 910
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to insert a complete new text which codifies the EPA's Tailoring Rule in order to protect farms, small businesses, and small- and medium-sized stationary sources from greenhouse gas regulation.", 
+  "house_number": 12, 
+  "introduced_at": "2011-04-06", 
+  "number": 251, 
+  "purpose": "An amendment in the nature of a substitute numbered 12 printed in House Report 112-54 to codify the Environmental Protection Agency's Tailoring Rule in order to protect farms, small businesses, and small- and medium-sized stationary sources from greenhouse gas regulation.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-04-06T19:16:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-14", 
+      "references": [
+        {
+          "reference": "CR S10901-10902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 5131 proposed by Senator Hutchison for Senator Thune.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-14", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10902", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 5131 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5131-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5385-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5385
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-13", 
+  "number": 5131, 
+  "proposed_at": "2006-11-14", 
+  "purpose": "To increase by $750,000 the amount appropriated or otherwise made available for Military Construction, Air Force and available for the Air Force Financial Management Center, and to provide an offset.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-11-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

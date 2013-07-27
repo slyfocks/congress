@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-27T13:03:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A001) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-27T14:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 542, 
+      "text": "On agreeing to the Scott amendment (A001) Failed by recorded vote: 160 - 268 (Roll no. 542).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt545-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2260-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2260
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to delete section 101 which reinforces the existing standard for the legitimate use of controlled substances.", 
+  "house_number": 1, 
+  "introduced_at": "1999-10-27", 
+  "number": 545, 
+  "purpose": "Amt. no. 1 printed in H.Rept. 106-409 to strike sec. 101 that reinforces the standard for the use of controlled substances, prohibits their use for the purpose of causing death or assisting another person in causing death, and specifies that the Attorney General shall not enforce State laws that authorize or permit assisted suicide or euthanasia.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-10-27T14:37:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

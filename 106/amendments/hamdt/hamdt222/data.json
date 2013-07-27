@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-18T11:06:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. Goode.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-18T12:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 240, 
+      "text": "On agreeing to the Goode amendment (A008) Failed by recorded vote: 175 - 250, 2 Present (Roll no. 240).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt222-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2122-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2122
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to repeal a District of Columbia law that prohibits residents from possessing a firearm.", 
+  "house_number": 8, 
+  "introduced_at": "1999-06-18", 
+  "number": 222, 
+  "purpose": "An amendment no. 9 and printed in part B of H. Rept. 106-186 to repeal the law that prohibits Washington, D.C. residents from owning firearms.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Goode, Virgil H., Jr.", 
+    "state": "VA", 
+    "thomas_id": "01486", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-06-18T12:35:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

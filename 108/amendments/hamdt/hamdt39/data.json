@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-03T18:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2776-2777", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2776", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-03T18:07:00-05:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Flake amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt39-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1559-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1559
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2003-04-03", 
+  "number": 39, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2003-04-03", 
+  "updated_at": "2013-07-17T08:16:04-04:00"
+}

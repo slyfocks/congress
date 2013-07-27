@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-20T19:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2365-2366", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2365", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Dingell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-20T19:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Dingell amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt78-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment authorizes $20 million for installation of a photovoltaic solar electric system at the headquarters of the Department of Energy.", 
+  "house_number": 9, 
+  "introduced_at": "2005-04-20", 
+  "number": 78, 
+  "purpose": "An amendment numbered 10 printed in House Report 109-49 to authorize $20 million for the Administrator of GSA to proceed with the Sun Wall Design Project, the winning entry in a national design competition sponsored jointly by DOE and the National Renewable Energy Laboratory, to install a photovoltaic solar electric system on the headquarters building of DOE.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dingell, John D.", 
+    "state": "MI", 
+    "thomas_id": "00299", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-20T19:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

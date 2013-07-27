@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-01T13:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2082-2087, H2088-2089", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2082", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. McKeon.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-01T15:15:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 116, 
+      "text": "On agreeing to the McKeon amendment (A003) Failed by recorded vote: 173 - 256 (Roll no. 116).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt23-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr800-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment in the nature of a substitute sought to replace the language of the bill with the text of the \"Secret Ballot Protection Act''.", 
+  "house_number": 3, 
+  "introduced_at": "2007-03-01", 
+  "number": 23, 
+  "purpose": "An amendment numbered 3 printed in House Report 110-26 in the Nature of a Substitute. This amendment in the nature of a substitute would strike the underlying text and insert in its place the text of H.R. 866, the Secret Ballot Protection Act. The amendment would prohibit the recognition of unions via card check, and provide that a union may only be recognized and certified after a secret ballot election conducted by the National Labor Relations Board.", 
+  "sponsor": {
+    "district": "25", 
+    "name": "McKeon, Howard P. \"Buck\"", 
+    "state": "CA", 
+    "thomas_id": "00778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-01T15:15:00-05:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

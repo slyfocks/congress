@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-08T15:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5369-5370, H5376-5377", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5358", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Hefley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-08T16:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 343, 
+      "text": "On agreeing to the Hefley amendment (A027) Failed by recorded vote: 67 - 347 (Roll no. 343).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt658-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 27, 
+  "introduced_at": "2004-07-08", 
+  "number": 658, 
+  "purpose": "An amendment to limit the amount for the United States Court of Federal Claims to $7.5 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-08T16:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

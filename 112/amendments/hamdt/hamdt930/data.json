@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-08T15:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H613", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H613", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Ryan (WI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-08T15:23:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ryan (WI) amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt930-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3521-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3521
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment makes technical revisions to certain procedures and definitions; provides for a reduction in the time period for the introduction of an approval bill in the motion to proceed from 5 legislative days to 3 legislative days; clarifies that approval bills are described as discretionary bills only; and includes a procedure that provides for the consideration of an approval bill should the previous Congress end before an up-or-down vote.", 
+  "house_number": 2, 
+  "introduced_at": "2012-02-08", 
+  "number": 930, 
+  "purpose": "An amendment numbered 1 printed in House Report 112-389 to restore certain language from the Budget Committee reported bill by reducing certain time periods from five legislative days to three legislative days and indicating that the approval bill should be an appropriation bill.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Ryan, Paul", 
+    "state": "WI", 
+    "thomas_id": "01560", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-02-08T15:23:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-11-16", 
+      "references": [
+        {
+          "reference": "CR S11010-11016, S11020", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S11011", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5183 proposed by Senator Feingold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 268, 
+      "text": "Amendment SA 5183 not agreed to in Senate by Yea-Nay Vote. 25 - 71. Record Vote Number: 268.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5183-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3709-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3709
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-11-16", 
+  "number": 5183, 
+  "proposed_at": "2006-11-16", 
+  "purpose": "To require as a precondition to United States-India peaceful atomic energy cooperation determinations by the President that United States nuclear cooperation with India does nothing to assist, encourage, or induce India to manufacture or acquire nuclear weapons or other nuclear explosive devices.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feingold, Russell D.", 
+    "state": "WI", 
+    "thomas_id": "01331", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-11-16", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

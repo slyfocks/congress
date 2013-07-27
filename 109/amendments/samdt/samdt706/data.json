@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-16", 
+      "references": [
+        {
+          "reference": "CR S5205-5211", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5205", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 706 proposed by Senator Inhofe for Senator Snowe to Amendment SA 605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17", 
+      "references": [
+        {
+          "reference": "CR S5254", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 706 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt706-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt605-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 605
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-05-11", 
+  "number": 706, 
+  "proposed_at": "2005-05-16", 
+  "purpose": "To specify which portions of Interstate Routes 95, 195, 295, and 395 in the State of Maine are subject to certain vehicle weight limitations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2005-05-17", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

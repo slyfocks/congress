@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-03T17:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H801-803", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H801-802", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Sensenbrenner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-03T17:30:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sensenbrenner amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt466-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1561-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1561
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment creates a \"refund\" program to eliminate the potential incentive for diverting Patent and Trade Office (PTO) revenue to non-PTO programs; applies a 50 percent discount to all searches for small entities; prohibits commercial searches that apply to classified matters; prevents commercial entities from performing searches when they have a financial interest or other conflict at stake; caps the search fee after the 6th year; and requires a joint PTO and Small Business Administration study regarding the effects of the fee structure on small entities.", 
+  "house_number": 1, 
+  "introduced_at": "2004-03-03", 
+  "number": 466, 
+  "purpose": "An amendment made in order by a previous order of the House of today.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-03-03T17:30:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

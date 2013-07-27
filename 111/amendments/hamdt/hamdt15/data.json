@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-28T14:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H717-719", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H717", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Nadler (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-28T14:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Nadler (NY) amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt15-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases transit capital funding by $3 billion to a total of $12 billion. The additional funds provide for $1.5 billion for the Transit Capital Formula Program and $1.5 billion for the New Starts program.", 
+  "house_number": 4, 
+  "introduced_at": "2009-01-28", 
+  "number": 15, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 111-9 to increase transit capital funding by $3 billion.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-01-28T14:34:00-05:00", 
+  "updated_at": "2013-07-17T08:16:54-04:00"
+}

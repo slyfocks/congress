@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-13", 
+      "references": [
+        {
+          "reference": "CR S3542", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3542", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 402 proposed by Senator Cochran for Senator McConnell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 402 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt402-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-13", 
+  "number": 402, 
+  "proposed_at": "2005-04-13", 
+  "purpose": "To address the avian flu influenza virus in Asia.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "thomas_id": "01395", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-13", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

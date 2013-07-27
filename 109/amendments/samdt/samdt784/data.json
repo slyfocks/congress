@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-15", 
+      "references": [
+        {
+          "reference": "CR S6620-6641", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6620-6621", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 784 proposed by Senator Cantwell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-16", 
+      "references": [
+        {
+          "reference": "CR S6671, S6690-6692, S6693-6699, S6700", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-16", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S6690", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 140, 
+      "text": "Amendment SA 784 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 140.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt784-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-15", 
+  "number": 784, 
+  "proposed_at": "2005-06-15", 
+  "purpose": "To improve the energy security of the United States and reduce United States dependence on foreign oil imports by 40 percent by 2025.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-16", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-04-22T12:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2292", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2292", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Boehlert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-22T12:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Boehlert amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt50-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr999-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 999
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment clarifies that State criteria for pathogens or pathogen indicators for coastal recreation waters must be as protective of human health as EPA's criteria; clarifies that the information database is intended to be information on exceedances of water quality standards in coastal recreation waters only; and clarifies the situation where EPA may implement a monitoring and notification program.", 
+  "house_number": 1, 
+  "introduced_at": "1999-04-22", 
+  "number": 50, 
+  "purpose": "An amendment to clarify and make technical changes to specify that water quality criteria are as protective of human health as EPA criteria for pathogens and pathogen indicators; include Indian tribes in bill provisions; specify that EPA is authorized not mandated to make grants if appropriated funds are not available; clarify that the information database is for exceedances of standards for pathogens and that EPA need not implement a monitoring and notification program in states where they exist.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1999-04-22T12:28:00-04:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

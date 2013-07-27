@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-22T13:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1084", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1084", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. LaFalce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22T13:37:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the LaFalce amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt12-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr247-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 247
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires the tornado or storm shelters authorized by the bill to be located in a neighborhood consisting predominantly of persons of low- and moderate-income.", 
+  "house_number": 3, 
+  "introduced_at": "2001-03-22", 
+  "number": 12, 
+  "purpose": "An amendment to provide that a shelter assisted with amounts made available in the bill shall be located in a neighborhood consisting predominantly of persons of low and moderate income.", 
+  "sponsor": {
+    "district": "29", 
+    "name": "LaFalce, John J.", 
+    "state": "NY", 
+    "thomas_id": "00657", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-03-22T13:37:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

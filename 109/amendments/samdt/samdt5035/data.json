@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-22", 
+      "references": [
+        {
+          "reference": "CR S10012-10013", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10012-10013", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5035 proposed by Senator McConnell for Senator Shelby.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 5035 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5035-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3850-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3850
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-22", 
+  "number": 5035, 
+  "proposed_at": "2006-09-22", 
+  "purpose": "To amend the bill.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shelby, Richard C.", 
+    "state": "AL", 
+    "thomas_id": "01049", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-22", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

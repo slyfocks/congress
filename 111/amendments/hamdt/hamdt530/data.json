@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-11T09:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14747-14748", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H14747", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-11T09:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cohen amendment (A014) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt530-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4173-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4173
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment strikes language that would permit FINRA to regulate investment advisers that are associated with broker dealers.", 
+  "house_number": 14, 
+  "introduced_at": "2009-12-11", 
+  "number": 530, 
+  "purpose": "An amendment numbered 15 printed in House Report 111-370 to strike language that would permit FINRA to regulate investment advisers that are associated with broker dealers.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-12-11T09:28:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

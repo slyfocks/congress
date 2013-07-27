@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-19T15:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8154-8157, H8167-8168", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8154", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A085) offered by Mr. Pence.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-19T17:39:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 684, 
+      "text": "On agreeing to the Pence amendment (A085) Failed by recorded vote: 189 - 231 (Roll no. 684).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt594-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3043-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3043
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 85, 
+  "introduced_at": "2007-07-19", 
+  "number": 594, 
+  "purpose": "An amendment numbered 67 printed in the Congressional Record to prohibit use of funds in the bill for Planned Parenthood.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pence, Mike", 
+    "state": "IN", 
+    "thomas_id": "01649", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-19T17:39:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-07-24T11:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8309-8312, H8353", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8309", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Westmoreland.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-24T17:41:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 696, 
+      "text": "On agreeing to the Westmoreland amendment (A009) Failed by recorded vote: 116 - 307 (Roll no. 696).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt605-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3074-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3074
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to eliminate funding for the Native Hawaiian Housing Block Grant program.", 
+  "house_number": 9, 
+  "introduced_at": "2007-07-24", 
+  "number": 605, 
+  "purpose": "An amendment numbered 14 printed in the Congressional Record to strike the Native Hawaiin Housing Block Grant program.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Westmoreland, Lynn A.", 
+    "state": "GA", 
+    "thomas_id": "01779", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-07-24T17:41:00-04:00", 
+  "updated_at": "2013-07-17T08:16:32-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-23", 
+      "references": [
+        {
+          "reference": "CR S7236-7244, S7247-7249", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7240", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 810 proposed by Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-23", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 154, 
+      "text": "Amendment SA 810 agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 154.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt810-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-21", 
+  "number": 810, 
+  "proposed_at": "2005-06-23", 
+  "purpose": "To strike a provision relating to medical isotope production.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-23", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

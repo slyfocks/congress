@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-13T13:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6009-6011, H6016", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6009", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T14:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Traficant amendment (A025) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1004-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit use of funds in the bill for aid to the Palestinian Authority.", 
+  "house_number": 25, 
+  "introduced_at": "2000-07-13", 
+  "number": 1004, 
+  "purpose": "An amendment numbered 23 printed in the Congressional Record to prohibit use of funds in the bill for aid to the Palestinian Authority.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-13T14:43:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

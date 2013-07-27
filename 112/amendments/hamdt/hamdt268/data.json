@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-05T12:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3088-3089, H3091", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3088", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-05T13:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 295, 
+      "text": "On agreeing to the Holt amendment (A001) Failed by recorded vote: 174 - 240 (Roll no. 295).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt268-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1230-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1230
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike provisions in the bill that would \"deem\" the safety and environmental review done in 2007, prior to the BP spill, sufficient for new offshore oil and gas leasing. The amendment would have allowed lease sales to go forward, but would require new environmental and safety reviews for the period following the BP spill.", 
+  "house_number": 1, 
+  "introduced_at": "2011-05-05", 
+  "number": 268, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 112-73 to remove provisions in the bill that would `deem' the safety and environmental review done in 2007, prior to the BP spill, sufficient for new offshore oil and gas leasing. The amendment would allow lease sales to go forward, but require new environmental and safety reviews, following the BP spill.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-05-05T13:05:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

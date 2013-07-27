@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-17T23:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5461-5462", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5461", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Doolittle.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-22T13:51:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5565-5566", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 391, 
+      "text": "On agreeing to the Doolittle amendment (A021) Agreed to by recorded vote: 217 - 205 (Roll no. 391).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt223-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1427-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment prevents government-sponsored enterprises from purchasing any mortgage from a lender where the person who received the mortgage did not use a valid Social Security number.", 
+  "house_number": 21, 
+  "introduced_at": "2007-05-17", 
+  "number": 223, 
+  "purpose": "An amendment numbered 19 printed in the Congressional Record to prohibit all three mortgage lending government-sponsored enterprises (GSE's) from obtaining primary residential mortgages being granted to any person who does not have a valid Social Security number.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Doolittle, John T.", 
+    "state": "CA", 
+    "thomas_id": "00307", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-22T13:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

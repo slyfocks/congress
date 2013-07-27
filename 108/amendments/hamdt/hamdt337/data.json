@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-25T15:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7692-7693", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7692", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T15:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Nadler amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt337-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2861-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2861
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases funding for the Housing Opportunities for Persons with AIDS program by $5 million.", 
+  "house_number": 12, 
+  "introduced_at": "2003-07-25", 
+  "number": 337, 
+  "purpose": "An amendment to increase the funding for the HOPA program by $5 million.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-07-25T15:28:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

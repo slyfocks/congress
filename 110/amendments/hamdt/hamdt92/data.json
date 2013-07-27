@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-18T18:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3541-3544", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3541", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-20T10:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3706-3707", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 236, 
+      "text": "On agreeing to the Sessions amendment (A005) Failed by recorded vote: 177 - 222 (Roll no. 236).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt92-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1257-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1257
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to add language to require the disclosure of funding designed to influence shareholder votes.", 
+  "house_number": 5, 
+  "introduced_at": "2007-04-18", 
+  "number": 92, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to add a requirement for disclosure of activities to influence votes.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-04-20T10:44:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

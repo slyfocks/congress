@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-13T13:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6007-6009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6007-6008", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T13:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gilman raised a point of order against the Paul amendment (A024). Mr. Gilman stated that the amendment violated clause 2c of rule XXI and constituted authorizations in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13T13:54:00-04:00", 
+      "references": [], 
+      "text": "Mr. Callahan raised a point of order against the Paul amendment (A024). Mr. Callahan stated that the amendment sought to impose new duties not required by existing law and as such, constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1003-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4811-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4811
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 24, 
+  "introduced_at": "2000-07-13", 
+  "number": 1003, 
+  "purpose": "Amendment no. 17 printed in the Congressional Record to prohibit the use of funding for abortion, family planning, or population control efforts.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-07-13", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-24T15:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5761-5762", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5761", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Terry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-24T16:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Terry amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt179-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2555-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2555
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment increases funding for first responders by $20 million with $10 million for grants to State and local law enforcement for terrorism prevention activities and $10 million for firefighter assistance grants with offsets of $20 million from the Transportation Security Administration.", 
+  "house_number": 4, 
+  "introduced_at": "2003-06-24", 
+  "number": 179, 
+  "purpose": "An amendment to increase (by transfer) the funds for first responders by $20 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2003-06-24T16:06:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

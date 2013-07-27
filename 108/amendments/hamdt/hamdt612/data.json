@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-24T17:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 6/25/2004 H4980-4986, H4990", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 6/25/2004 H4980-4984", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Hensarling.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-24T18:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 308, 
+      "text": "On agreeing to the Hensarling amendment (A004) Failed by recorded vote: 96 - 317 (Roll no. 308).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt612-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4663-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4663
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to impose a cap on the growth of mandatory spending whereby mandatory spending would grow by either CPI, the consumer price index, or the program inflator, plus new enrollees.", 
+  "house_number": 4, 
+  "introduced_at": "2004-06-24", 
+  "number": 612, 
+  "purpose": "An amendment numbered 4 printed in House Report 108-566 to impose an entitlement cap under which the total level of direct spending is limited to inflation and the growth in a given program's beneficiary population. Under the amendment, inflation will be the higher of either the CPI or whatever inflator (if any) is currently applicable to each program.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hensarling, Jeb", 
+    "state": "TX", 
+    "thomas_id": "01749", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-24T18:56:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

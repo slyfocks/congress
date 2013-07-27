@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-15T22:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H893-894", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H893", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Olson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-15T23:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Olson amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt28-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 18, 
+  "introduced_at": "2011-02-15", 
+  "number": 28, 
+  "purpose": "An amendment numbered 78 printed in the Congressional Record to decrease/increase the amount available for NASA Space Operations by $517 million.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Olson, Pete", 
+    "state": "TX", 
+    "thomas_id": "01955", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-02-15", 
+  "updated_at": "2013-07-17T08:17:15-04:00"
+}

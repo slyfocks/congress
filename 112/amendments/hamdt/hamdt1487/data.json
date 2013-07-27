@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-20T19:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6216-6217", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6216", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-21T11:08:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6249", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 595, 
+      "text": "On agreeing to the Markey amendment (A005) Failed by recorded vote: 164 - 246 (Roll no. 595).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1487-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3409-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3409
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to allow the Environmental Protection Agency to take any action using its authority under the Clean Air Act if such action would increase North American energy independence by reducing demand for oil.", 
+  "house_number": 5, 
+  "introduced_at": "2012-09-20", 
+  "number": 1487, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-680 to allow the Environmental Protection Agency to take any action using its authority under the Clean Air Act if such action would increase North American energy independence by reducing demand for oil.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-09-21T11:08:00-04:00", 
+  "updated_at": "2013-07-17T08:17:29-04:00"
+}

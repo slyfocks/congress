@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-16T14:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8234-8235, H8255-8256", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8234", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16T17:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 555, 
+      "text": "On agreeing to the Price (GA) amendment (A003) Failed by recorded vote: 146 - 279 (Roll no. 555).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt343-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3170-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3170
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $4.2 million appropriation for the President's Council of Economic Advisers.", 
+  "house_number": 3, 
+  "introduced_at": "2009-07-16", 
+  "number": 343, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-208 to strike funding for the President's Council of Economic Advisers ($4.2 million).", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-16T17:46:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

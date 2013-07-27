@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-04T12:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7371-7373, H7379-7380", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7371-7372", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Bishop (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-04T14:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 835, 
+      "text": "On agreeing to the Bishop (NY) amendment (A006) Failed by recorded vote: 174 - 225 (Roll no. 835).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt861-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2838-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2838
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to provide states the authority to impose more protective operational requirements on the discharge of ballast water within state resource waters.", 
+  "house_number": 6, 
+  "introduced_at": "2011-11-04", 
+  "number": 861, 
+  "purpose": "An amendment numbered 7 printed in House Report 112-267 to provide states the authority to impose more protective operational requirements on the discharge of ballast water within state resource waters.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-11-04T14:03:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

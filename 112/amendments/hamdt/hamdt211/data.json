@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31T16:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2176", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2176", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-31T16:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2176", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Waters amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt211-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr658-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 658
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2011-03-31", 
+  "number": 211, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-46 to require airport operators, as a condition for receiving grants under the Airport Improvement Program, to consult with representatives of the community surrounding the airport regarding airport operations and their impact on the community.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-03-31", 
+  "updated_at": "2013-07-17T08:17:16-04:00"
+}

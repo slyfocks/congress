@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-14T12:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3927-3929, H3939-3940", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3927", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-14T14:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 278, 
+      "text": "On agreeing to the Flake amendment (A033) Failed by recorded vote: 73 - 353, 1 Present (Roll no. 278).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1039-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5576-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5576
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 33, 
+  "introduced_at": "2006-06-14", 
+  "number": 1039, 
+  "purpose": "An amendment to prohibit the use of funds from being used by the city of Weirton, West Virginia, for planning and design, construction, renovation, and build out of facilities.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-14T14:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

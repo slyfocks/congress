@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-07T16:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5259-5260", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5259", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T16:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Crowley amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt635-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment provides funds to the Public Safety Officers Benefits Program to be used to issue the Public Safety Officers Medal of Valor posthumously to the 414 public safety officers who lost their lives on September 11, 2001.", 
+  "house_number": 4, 
+  "introduced_at": "2004-07-07", 
+  "number": 635, 
+  "purpose": "An amendment to increase funds for Public Safety Officers Benefits by $50,000 and reducing funds by the same amount for general administration salaries and expenses.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-07-07T16:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

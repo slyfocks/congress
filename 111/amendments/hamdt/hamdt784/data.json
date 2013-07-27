@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-12-02T17:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7897-7898", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7897", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Butterfield.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-02T17:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7897", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered on the amendment (A001) and on the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-02T17:35:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 606, 
+      "text": "On agreeing to the Butterfield amendment (A001) Failed by recorded vote: 146 - 267 (Roll no. 606).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt784-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres1737-111", 
+    "bill_type": "hres", 
+    "congress": 111, 
+    "number": 1737
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to reduce the recommendation contained in the resolution from censure to reprimand.", 
+  "house_number": 1, 
+  "introduced_at": "2010-12-02", 
+  "number": 784, 
+  "purpose": "An amendment to change the recommendation of censure contained in the resoluttion to that of reprimand.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Butterfield, G. K.", 
+    "state": "NC", 
+    "thomas_id": "01761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2010-12-02T17:35:00-05:00", 
+  "updated_at": "2013-07-17T08:16:58-04:00"
+}

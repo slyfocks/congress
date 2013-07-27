@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-22T15:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4969-4977", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4969", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Serrano.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22T16:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Serrano amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt867-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4690-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4690
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment increases funding for the Legal Services Corporation by $134 million.", 
+  "house_number": 1, 
+  "introduced_at": "2000-06-22", 
+  "number": 867, 
+  "purpose": "An amendment to add $134 million for the Legal Services Corporation.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Serrano, Jose E.", 
+    "state": "NY", 
+    "thomas_id": "01042", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-22T16:25:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

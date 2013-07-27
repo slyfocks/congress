@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-29T16:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1070-1072, H1076", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11070", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-29T17:58:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 89, 
+      "text": "On agreeing to the Markey amendment (A008) Failed by recorded vote: 180 - 244 (Roll no. 89).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt964-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1837-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1837
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to replace provisions in H.R. 1837 that override state law with a provision upholding state law and requiring use of the best available science.", 
+  "house_number": 8, 
+  "introduced_at": "2012-02-29", 
+  "number": 964, 
+  "purpose": "An amendment numbered 8 printed in House Report 112-405 to replace provisions in H.R. 1837 that override state law with a provision upholding state law and requiring use of the best available science.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-29T17:58:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

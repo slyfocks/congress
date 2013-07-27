@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-19T15:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5043-5047, H5067", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5043-5044", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A049) offered by Mr. Coffman (CO).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-19T18:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 492, 
+      "text": "On agreeing to the Coffman (CO) amendment (A049) Failed by recorded vote: 123 - 292 (Roll no. 492).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1426-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5856-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment requires the Department of Defense to follow through with the withdrawal of two brigade combat teams from Europe and denies the Defense Department the ability to reverse the decision at a later time.", 
+  "house_number": 49, 
+  "introduced_at": "2012-07-19", 
+  "number": 1426, 
+  "purpose": "An amendment numbered 18 printed in the Congressional Record to prohibit use of funds to continue the deployment, beyond FY 2013, of the 170th Infantry Brigade in Baumholder and the 172nd Infantry Brigade in Grafenwohr, except pursuant to Article 5 of the North Atlantic Treaty.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coffman, Mike", 
+    "state": "CO", 
+    "thomas_id": "01912", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-07-19T18:33:00-04:00", 
+  "updated_at": "2013-07-17T08:17:27-04:00"
+}

@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-08T21:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7819-7820", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7819", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-09T11:30:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7847", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H7847", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 502, 
+      "text": "On agreeing to the Blackburn amendment (A007) Failed by recorded vote: 185 - 248 (Roll no. 502).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt299-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2997-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 2997
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to make an across-the-board cut of 5 percent to all discretionary funding accounts in the bill.", 
+  "house_number": 7, 
+  "introduced_at": "2009-07-08", 
+  "number": 299, 
+  "purpose": "An amendment numbered 1 printed in part B of House Report 111-191 to make an across-the-board cut of 5 percent to all discretionary funding accounts in the bill.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-09T11:30:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

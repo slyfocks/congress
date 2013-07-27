@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-02-03T13:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H504-505, H521-522", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H504", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-02-03T16:22:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 35, 
+      "text": "On agreeing to the Flake amendment (A003) Agreed to by recorded vote: 396 - 31 (Roll no. 35).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt547-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4061-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 4061
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2010-02-03", 
+  "number": 547, 
+  "purpose": "An amendment numbered 3 printed in House Report 111-410 to prohibit the earmarking of funds authorized for grants in the bill.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-02-03T16:22:00-05:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

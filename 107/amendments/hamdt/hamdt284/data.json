@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-31T16:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4930", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4930", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-31T16:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Scott amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt284-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2505-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2505
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires the General Accounting Office to conduct a study to assess the need (if any) for amendment of the prohibition on human cloning, as defined in section 301 of title 18, United States Code, as added by this Act with such study transmitted to Congress within 4 years of enactment of this Act.", 
+  "house_number": 2, 
+  "introduced_at": "2001-07-31", 
+  "number": 284, 
+  "purpose": "An amendment numbered 1 printed in House Report 107-172 to provide for a study, conducted by the GAO, to be reported to Congress within 4 years of enactment, to assess the need (if any) for amendment of the prohibition on human cloning; and provides that the study should include a discussion of new developments in medical technology, the possibility of medical advances, public attitudes, and ethical views.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-31T16:11:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

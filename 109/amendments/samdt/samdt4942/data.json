@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-14", 
+      "references": [
+        {
+          "reference": "CR S9604-9605, S9606-9607", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4942 proposed by Senator Stevens for Senator Lautenberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-14", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9605", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 4942 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4942-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4954-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-12", 
+  "number": 4942, 
+  "proposed_at": "2006-09-14", 
+  "purpose": "To require the Secretary of Homeland Security to implement a threat assessment screening program for port truck drivers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lautenberg, Frank R.", 
+    "state": "NJ", 
+    "thomas_id": "01381", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-09-14", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-04-20T09:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3703-3706, H3711-3712", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3703-3704", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-20T11:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 242, 
+      "text": "On agreeing to the Price (GA) amendment (A011) Failed by recorded vote: 162 - 242 (Roll no. 242).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt103-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1257-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1257
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to condition implementation of the bill to 90 days after submission to Congress by the the Securities and Exchange Commission of a study to determine the effect of the bill's separate vote requirements on the ability of issuers to recruit and retain executives.", 
+  "house_number": 11, 
+  "introduced_at": "2007-04-20", 
+  "number": 103, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to insert conditional implementation provisions.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-04-20T11:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

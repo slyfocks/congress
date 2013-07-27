@@ -1,0 +1,105 @@
+<bill session="106" type="h" number="2863" updated="2013-07-14T18:54:11-04:00">
+  <state datetime="2000-04-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-04-28"/>
+  </status>
+  <introduced datetime="1999-09-14"/>
+  <titles>
+    <title as="introduced" type="official">To clarify the legal effect on the United States of the acquisition of a parcel of land in the Red Cliffs Desert Reserve in the State of Utah.</title>
+  </titles>
+  <sponsor id="400552"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1999-09-14">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1999-09-22">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1999-11-16T12:27:00-05:00">
+      <text>Mr. Hansen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1999-11-16T12:27:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12006" label="consideration"/>
+    </action>
+    <action datetime="1999-11-16T12:27:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2863.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1999-11-16T12:30:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H12006" label="text"/>
+    </vote>
+    <action datetime="1999-11-16T12:30:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1999-11-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1999-11-19">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2000-02-10">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2000-02-23">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2000-03-09">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Murkowski without amendment. With written report No. 242.</text>
+    </action>
+    <calendar datetime="2000-03-09" calendar="Senate Legislative" under="General Orders" number="458">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2000-04-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2796" label="consideration"/>
+      <reference ref="CR S2796" label="text"/>
+    </vote>
+    <topresident datetime="2000-04-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-04-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-04-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-04-28">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-04-28" type="public" number="106-190">
+      <text>Became Public Law No: 106-190.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="106" type="s" number="1664"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Desert conservation"/>
+    <term name="Endangered animals"/>
+    <term name="Environmental protection"/>
+    <term name="Government liability"/>
+    <term name="Habitat conservation"/>
+    <term name="Land transfers"/>
+    <term name="Landfills"/>
+    <term name="Law"/>
+    <term name="Liability for environmental damages"/>
+    <term name="Natural areas"/>
+    <term name="Turtles"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1999--Introduced.
+Declares that, in support of the habitat conservation plan of Washington County, Utah, for the protection of the desert tortoise and surrounding habitat, the transfer to the United States of certain land located within the Red Cliffs Desert Reserve in the County that was formerly used as a landfill by St.George, Utah, shall convey no liability on the United States that did not already exist with the United States on the transfer date.</summary>
+</bill>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-20T20:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4308-4309, H4312", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4308", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T21:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 304, 
+      "text": "On agreeing to the Flake amendment (A024) Failed by recorded vote: 62 - 363 (Roll no. 304).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1079-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 24, 
+  "introduced_at": "2006-06-20", 
+  "number": 1079, 
+  "purpose": "An amendment to prohibit the use of funds from being made available for the Leonard Wood Research Institute.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-06-20T21:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-17T20:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7082-7083, H7101-7102", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H7082", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-17T23:15:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 386, 
+      "text": "On agreeing to the Inslee amendment (A018) Failed by recorded vote: 185 - 234 (Roll no. 386).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt269-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2691-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2691
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to prohibit any funds to be used to propose, finalize, or implement any change to subpart B of part 294 of title 36, Code of Federal Regulations, entitled Protection of Inventoried Roadless Areas.", 
+  "house_number": 18, 
+  "introduced_at": "2003-07-17", 
+  "number": 269, 
+  "purpose": "An amendment to restrict the use of funds to propose, finalize, or implement any change to subpart B of part 294 of title 36, Code of Federal Regulations, entitled Protection of Inventoried Roadless Areas.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-17T23:15:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

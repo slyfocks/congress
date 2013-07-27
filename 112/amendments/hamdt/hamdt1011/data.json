@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-17T16:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1888-1889, H1893-1894", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1888", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Heinrich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-17T18:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 161, 
+      "text": "On agreeing to the Heinrich amendment (A007) Failed by recorded vote: 176 - 244 (Roll no. 161).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1011-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4089-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4089
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2012-04-17", 
+  "number": 1011, 
+  "purpose": "An amendment numbered 7 printed in House Report 112-444 to preserve hunting, fishing and recreational shooting in wilderness areas by specifying that the underlying bill will not allow development and motorized recreation in wilderness.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Heinrich, Martin", 
+    "state": "NM", 
+    "thomas_id": "01937", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-04-17T18:31:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

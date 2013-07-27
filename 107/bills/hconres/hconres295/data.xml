@@ -1,0 +1,42 @@
+<bill session="107" type="hc" number="295" updated="2013-07-14T18:59:00-04:00">
+  <state datetime="2001-12-20">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2001-12-20"/>
+  </status>
+  <introduced datetime="2001-12-20"/>
+  <titles>
+    <title as="introduced" type="official">Providing for the sine die adjournment of the first session of the One Hundred Seventh Congress.</title>
+  </titles>
+  <sponsor id="400551"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2001-12-20T11:01:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H10934-10935" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2001-12-20T11:01:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H10934-10935" label="text"/>
+    </vote>
+    <action datetime="2001-12-20T11:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2001-12-20" how="roll" result="pass" roll="379" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Yea-Nay Vote. 56 - 40. Record Vote Number: 379.</text>
+      <reference ref="CR S13830-13831" label="consideration"/>
+      <reference ref="CR S13831" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2001-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2001--Passed House without amendment.
+Provides for the sine die adjournment of the House of Representatives and the Senate on either December 20 or 21, 2001.</summary>
+</bill>

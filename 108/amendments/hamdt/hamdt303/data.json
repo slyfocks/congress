@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-23T17:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 7/24/2003 H7383-7393, H7440-7441", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 7/24/2003 H7383", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Kilpatrick.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-24T01:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 425, 
+      "text": "On agreeing to the Kilpatrick amendment (A002) Failed by recorded vote: 192 - 228 (Roll no. 425).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt303-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2800-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for HIV/AIDS, tuberculosis and malaria programs by $300 million with offsets from the Millennium Challenge Account.", 
+  "house_number": 2, 
+  "introduced_at": "2003-07-23", 
+  "number": 303, 
+  "purpose": "An amendment to increase funding by $300,000,000 for HIV/AIDS.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Kilpatrick, Carolyn C.", 
+    "state": "MI", 
+    "thomas_id": "01497", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-24T01:01:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

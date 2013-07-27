@@ -1,0 +1,52 @@
+<bill session="107" type="h" number="2276" updated="2013-07-14T18:57:47-04:00">
+  <state datetime="2001-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="2001-06-21"/>
+  </status>
+  <introduced datetime="2001-06-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 to extend the deadline for aliens to present a border crossing card that contains a biometric identifier matching the appropriate biometric characteristic of the alien.</title>
+  </titles>
+  <sponsor id="400544"/>
+  <cosponsors>
+    <cosponsor id="400133" joined="2001-09-10"/>
+    <cosponsor id="400310" joined="2001-10-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2001-06-21">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2001-06-25">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-06-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2001-06-27">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="107" type="s" number="1400"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Boundaries"/>
+    <term name="Health"/>
+    <term name="Human biology"/>
+    <term name="Identification devices"/>
+    <term name="International affairs"/>
+    <term name="Statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/2001--Introduced.
+Amends the Illegal Reform and Immigrant Responsibility Act of 1996 to extend the deadline requiring aliens to present a border crossing identification card that contains a biometric identifier.</summary>
+</bill>

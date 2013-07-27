@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-07T20:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5300-5306, H5320", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5300", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Farr.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T23:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 334, 
+      "text": "On agreeing to the Farr amendment (A015) Failed by recorded vote: 148 - 268 (Roll no. 334).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt646-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 15, 
+  "introduced_at": "2004-07-07", 
+  "number": 646, 
+  "purpose": "An amendment numbered 6 printed in the Congressional Record prohibit the use of funds in the bill to prevent the states of Alaska, California, Colorado, Hawaii, Maine, Maryland, Oregon, Vermont or Washington from imlementing state laws authorizing the use of medical marijuana.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Farr, Sam", 
+    "state": "CA", 
+    "thomas_id": "00368", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-07T23:03:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

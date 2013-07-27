@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-09-27T12:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8273-8275", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8273", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by the Committee on Commerce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-27T13:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Commerce amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1049-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3100-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3100
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2000-09-27", 
+  "number": 1049, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsif00", 
+    "name": "House Commerce", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-09-27T13:09:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

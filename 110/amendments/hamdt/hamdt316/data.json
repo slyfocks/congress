@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-19T12:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6679-6682, H6714-6715", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6679", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Westmoreland.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-19T17:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 502, 
+      "text": "On agreeing to the Westmoreland amendment (A001) Failed by recorded vote: 84 - 341 (Roll no. 502).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt316-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2641-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2641
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to reduce funding for Corps of Engineers investigations by $30 million.", 
+  "house_number": 1, 
+  "introduced_at": "2007-06-19", 
+  "number": 316, 
+  "purpose": "An amendment to reduce funding for Investigations including recession of funds by $30 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Westmoreland, Lynn A.", 
+    "state": "GA", 
+    "thomas_id": "01779", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-06-19T17:30:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

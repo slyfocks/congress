@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T14:41:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4258-4260, H4276-4277", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Bass.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T17:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H4258", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 259, 
+      "text": "On agreeing to the Bass amendment (A018) Failed by recorded vote: 98 - 319 (Roll no. 259).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt776-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase IDEA funding by $200 million and reduce funding for the GEAR UP program by $200 million.", 
+  "house_number": 18, 
+  "introduced_at": "2000-06-13", 
+  "number": 776, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to increase the appropriation for IDEA funding by $200 million from $500 million to $700 million by cutting the appropriation for GEAR UP by $200 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Bass, Charles F.", 
+    "state": "NH", 
+    "thomas_id": "00063", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-13T17:07:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

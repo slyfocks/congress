@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-13T19:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2311-2317", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Barrett (WI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-13T20:15:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2311", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 129, 
+      "text": "On agreeing to the Barrett (WI) amendment (A001) Failed by recorded vote: 142 - 245 (Roll no. 129).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt672-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3439-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3439
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to allow the FCC to modify the rules to eliminate or reduce the minimum distance separations for third-adjacent channels six months after the Commission submits a study to Congress that examines whether low-power FM radio stations result in harmful interference to existing stations.", 
+  "house_number": 1, 
+  "introduced_at": "2000-04-13", 
+  "number": 672, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to provide a 6-month period before the provisions of the bill take effect.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Barrett, Thomas M.", 
+    "state": "WI", 
+    "thomas_id": "00058", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-04-13T20:15:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

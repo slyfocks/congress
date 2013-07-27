@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25", 
+      "references": [
+        {
+          "reference": "CR S5141-5146", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5141", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4131 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-25", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 152, 
+      "text": "Amendment SA 4131 agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 152.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4131-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2611-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 2611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-05-23", 
+  "number": 4131, 
+  "proposed_at": "2006-05-25", 
+  "purpose": "To limit the total number of aliens, including spouses and children, granted employment-based legal permanent resident status to 650,000 during any fiscal year.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-25", 
+  "updated_at": "2013-07-17T08:16:15-04:00"
+}

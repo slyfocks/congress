@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-16T13:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2567-2590", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "H2591-2592", 
+          "type": null
+        }, 
+        {
+          "reference": " CR H2567-2579", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Cardin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-16T15:16:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A001) and on the bill pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-16T15:38:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 168, 
+      "text": "On agreeing to the Cardin amendment (A001) Failed by the Yeas and Nays: 198 - 222 (Roll no. 168).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt483-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4737-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4737
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to expand state flexibility to provide training and education to welfare recipients, increase mandatory funding for child care by $11 billion over the next five years, and remove various barriers to serving legal immigrants.", 
+  "house_number": 1, 
+  "introduced_at": "2002-05-16", 
+  "number": 483, 
+  "purpose": "An amendment in the nature of a substitute printed in House Report 107-466 to expand state flexibility to provide training and education to welfare recipients (such activities would count for up to 24 months against a state's participation requirement); increase to 70 percent the number of welfare recipients that are required to be engaged in work-related activities; provide states with an employment credit that would reduce a state's participation requirement according to the number of welfare recipients that have left welfare for work over the last six months maintain the current-law requirement on total participation hours (30 per week with a State option to go higher) with a requirement that 24 hours be in certain activities; maintain the current 20-hour requirement for mother with young children; maintain the current five-year time limit on TANF benefits; increase mandatory funding for child care by $11 billion over the next five years and increase TANF for inflation; remove various barriers to serving local immigrants, including the current ban on states providing Federally-funded TANF benefits to immigrant families; and to include reducing poverty and increasing self-sufficiency as a new purpose of the TANF program and provide financial bonuses to states reducing child poverty.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-05-16T15:38:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

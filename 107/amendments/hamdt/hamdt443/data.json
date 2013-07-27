@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-03-14T11:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H918-920", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H918", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-14T11:21:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Scott amendment (A001) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt443-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2146-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2146
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to delete language which provides for a mandatory life sentence for a violation of section 2243(a) as a second sex offense against a minor; and add language which increases the maximum possible term for a second offense to a term up to life imprisonment.", 
+  "house_number": 1, 
+  "introduced_at": "2002-03-14", 
+  "number": 443, 
+  "purpose": "An amendment to add a new section providing for a life imprisonment maximum for certain repeat sex offenders against children.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-03-14T11:21:00-05:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

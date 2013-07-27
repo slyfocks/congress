@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-28", 
+      "references": [
+        {
+          "reference": "CR S10369-10378, S10396-10397", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10369-10370", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 5095 proposed by Senator Rockefeller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 256, 
+      "text": "Amendment SA 5095 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 256.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt5095-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3930-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 3930
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-09-28", 
+  "number": 5095, 
+  "proposed_at": "2006-09-28", 
+  "purpose": "To provide for congressional oversight of certain Central Intelligence Agency programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-09-28", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

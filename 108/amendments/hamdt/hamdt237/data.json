@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-15T14:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6785", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6785", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Kennedy (MN) to the Hyde amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-15T14:44:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Kennedy (MN) amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt237-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt236-108", 
+    "amendment_type": "hamdt", 
+    "congress": 108, 
+    "number": 236
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1950-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1950
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2003-07-15", 
+  "number": 237, 
+  "purpose": "An amendment numbered 3 printed in House Report 108-206 to clarify that both public and private sector expenditures should be taken into account when considering eligibility for the Millenium Challenge Account, not solely government spending.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kennedy, Mark R.", 
+    "state": "MN", 
+    "thomas_id": "01652", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2003-07-15", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

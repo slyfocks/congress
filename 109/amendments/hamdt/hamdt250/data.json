@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-14T13:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4441-4445, H4467-4468", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4441-4442", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Terry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-14T16:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 245, 
+      "text": "On agreeing to the Terry amendment (A003) Failed by recorded vote: 175 - 252 (Roll no. 245).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt250-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to increase funding for State and Local Law Enforcement Assistance.", 
+  "house_number": 3, 
+  "introduced_at": "2005-06-14", 
+  "number": 250, 
+  "purpose": "An amendment numbered 20 printed in the Congressional Record to increase funding for Edward Byrne Memorial Justice Assistance Grants. The increase is offset by making an across-the-board cut in discretionary spending of 0.448%.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-14T16:31:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

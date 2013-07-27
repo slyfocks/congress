@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-21T09:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3920-3921, H3939", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3920", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Wittman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-21T12:16:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3939", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 404, 
+      "text": "On agreeing to the Wittman amendment (A018) Agreed to by recorded vote: 256 - 161 (Roll no. 404).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1308-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4480-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 4480
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment streamlines the process for the Bureau of Ocean Energy Management (BOEM) to approve temporary infrastructure, such as towers or buoys, to test and develop offshore wind power in the Outer Continental Shelf.", 
+  "house_number": 18, 
+  "introduced_at": "2012-06-21", 
+  "number": 1308, 
+  "purpose": "An amendment numbered 19 printed in House Report 112-540 to streamline the process for the Bureau of Ocean Energy Management (BOEM) to approve temporary infrastructure, such as towers or buoys, to test and develop offshore wind power in the Outer Continental Shelf.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wittman, Robert J.", 
+    "state": "VA", 
+    "thomas_id": "01886", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-21T12:16:00-04:00", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-15T14:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H401-402", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-15T14:18:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H401", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (MI) amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt574-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2086-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 2086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment allows the United States Geological Survey to participate in the Networking and Information Technology Research and Development Grant Program established by the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2000-02-15", 
+  "number": 574, 
+  "purpose": "An amendment numbered 5 printed in the Conressional Record to allow the USGS to participate in or support the research programs authorized by the bill.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-02-15T14:18:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T18:52:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4291-4293, H4304", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T21:15:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H4291", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 268, 
+      "text": "On agreeing to the Sanders amendment (A033) Agreed to by recorded vote: 313 - 109 (Roll no. 268).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt791-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits the use of NIH funding to grant an exclusive or partially exclusive license pursuant to chapter 18 of title 35, USC, except in accordance with section 209 of such title (relating to the availability to the public of an invention and its benefits on reasonable terms).", 
+  "house_number": 33, 
+  "introduced_at": "2000-06-13", 
+  "number": 791, 
+  "purpose": "An amendment to prohibit the use of NIH funding to grant an exclusive or partially exclusive license pursuant to chapter 18 of title 35, USC, except in accordance with section 209 of such title (relating to the availability to the public of an invention and its benefits on reasonable terms).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-06-13T21:15:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

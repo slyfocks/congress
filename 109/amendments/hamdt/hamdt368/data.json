@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-24T15:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5150-5151, H5155-5156", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5150", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-24T16:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 319, 
+      "text": "On agreeing to the Hinchey amendment (A026) Failed by recorded vote: 192 - 210 (Roll no. 319).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt368-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3010-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3010
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to prohibit funds in the bill from being used to distribute the personal information of Medicare and Medicaid beneficiaries to private companies for marketing Medicare prescription drug plans.", 
+  "house_number": 26, 
+  "introduced_at": "2005-06-24", 
+  "number": 368, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to prohibit funds from being used to carry out section 1860D-1(b)(4) of the Social Security Act.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-24T16:16:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

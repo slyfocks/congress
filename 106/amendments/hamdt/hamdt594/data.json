@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-09T20:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H894-899", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Traficant.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-09T21:08:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H894", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 43, 
+      "text": "On agreeing to the Traficant amendment (A002) Agreed to by recorded vote: 246 - 179 (Roll no. 43).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt594-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3846-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 3846
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment provides for increasing the minimum wage by $1 over a 2-year period.", 
+  "house_number": 2, 
+  "introduced_at": "2000-03-09", 
+  "number": 594, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-516 to provide for the increase in the minimum wage to occur over a 2-year period as opposed to a 3-year period as provided in the bill.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-03-09T21:08:00-05:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

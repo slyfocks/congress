@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-02T16:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4363-4364, H4373-4374", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4363", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Putnam.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-02T18:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 281, 
+      "text": "On agreeing to the Putnam amendment Failed by recorded vote: 161 - 262 (Roll no. 281).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt122-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1429-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1429
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to strike the development and implementation of the application review system, including the expert panel provision contained in the bill; and would have required all Head Start providers to face open competition at renewal time.", 
+  "house_number": 7, 
+  "introduced_at": "2007-05-02", 
+  "number": 122, 
+  "purpose": "An amendment numbered 7 printed in House Report 110-116 to strike the deve lopment and implementation of the application review system, including the expert panel provision. In addition, the amendment strikes designation when no entity has priority and instead designates competition--calling for the automatic recompetition for agency designation every five years, regardless of performance.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Putnam, Adam H.", 
+    "state": "FL", 
+    "thomas_id": "01645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-02T18:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-21T11:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2407-2409", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2407", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Davis, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-21T11:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Davis, Tom amendment (A021) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt90-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment strikes section 978 which expanded the number of Assistant Secretaries in the Department of Energy to eight.", 
+  "house_number": 21, 
+  "introduced_at": "2005-04-21", 
+  "number": 90, 
+  "purpose": "An amendment numbered 21 printed in House Report 109-49 to strike section 978, which would create 2 new, Senate-confirmed assistant secretary positions within the Department of Energy.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-21T11:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

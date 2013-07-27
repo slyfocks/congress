@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-06T15:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1187-1188", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1187", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. Napolitano.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-07T14:03:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1231-1232", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 98, 
+      "text": "On agreeing to the Napolitano amendment (A002) Failed by recorded vote: 168 - 253 (Roll no. 98).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt966-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2842-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2842
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike the exemption of the NEPA waiver for small conduits on Federal land from the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2012-03-06", 
+  "number": 966, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to strike the exemption for small conduit hydropower development from the National Environmental Policy Act of 1969.", 
+  "sponsor": {
+    "district": "38", 
+    "name": "Napolitano, Grace F.", 
+    "state": "CA", 
+    "thomas_id": "01602", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-07T14:03:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

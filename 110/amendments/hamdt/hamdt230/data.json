@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-24T13:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR S5749", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5749", 
+          "type": "text as reported in House"
+        }
+      ], 
+      "text": "Amendment reported by the House Committee on Judiciary.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-24T13:27:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Judiciary amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt230-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2317-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 2317
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2007-05-24", 
+  "number": 230, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsju00", 
+    "name": "House Judiciary", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-05-24T13:27:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

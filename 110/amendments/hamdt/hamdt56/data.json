@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-21T11:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2759-2760, H2762-2763, H2764", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2759", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Price (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-21T13:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 169, 
+      "text": "On agreeing to the Price (GA) amendment (A007) Failed by recorded vote: 98 - 333 (Roll no. 169).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt56-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1227-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1227
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to prevent the use of Community Development Block grant funds for local matching requirements.", 
+  "house_number": 7, 
+  "introduced_at": "2007-03-21", 
+  "number": 56, 
+  "purpose": "An amendment numbered 7 printed in Part B of House Report 110-53 to strike section 103 of the bill. Section 103 eliminates the prohibition of use for match requirement.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-03-21T13:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

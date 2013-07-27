@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-10T14:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H959-961, H969-970", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H959", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Andrews.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-10T16:00:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 50, 
+      "text": "On agreeing to the Andrews amendment (A004) Failed by recorded vote: 129 - 285 (Roll no. 50).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt472-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr339-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 339
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to permit civil liability suits to be brought in cases related to a food that contains a genetically engineered material unless the labeling for such food bears a statement providing that the food contains such material and the labeling indicates which of the ingredients of the food are or contain such material.", 
+  "house_number": 4, 
+  "introduced_at": "2004-03-10", 
+  "number": 472, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to permit civil liability suits to be brought in cases related to foods that contain genetically engineered material unless the labeling for such food includes a statement that the food contains genetically engineered material.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Andrews, Robert E.", 
+    "state": "NJ", 
+    "thomas_id": "00021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-03-10T16:00:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

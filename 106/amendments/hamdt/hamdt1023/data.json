@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20T18:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6685-6688", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "text CR H6685", 
+          "type": null
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Rangel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20T22:07:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 424, 
+      "text": "On agreeing to the Rangel amendment (A012) Failed by recorded vote: 174 - 241 (Roll no. 424).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1023-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4871-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4871
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to prohibit funds in the bill from being used to enforce the economic embargo of Cuba.", 
+  "house_number": 12, 
+  "introduced_at": "2000-07-20", 
+  "number": 1023, 
+  "purpose": "An amendment to add provisions to the bill prohibiting funds from being used to implement Public Law 104-114 which codifies the economic embargo of Cuba, as in effect on March 1, 1996.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-07-20T22:07:00-04:00", 
+  "updated_at": "2013-07-17T08:15:44-04:00"
+}

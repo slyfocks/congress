@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-15T23:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4578-4582", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4578", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mr. Weldon (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-16T00:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 289, 
+      "text": "On agreeing to the Weldon (FL) amendment (A034) Failed by recorded vote: 167 - 205 (Roll no. 289).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt829-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4578-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4578
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to restrict the Department of the Interior from issuing certain gaming regulations.", 
+  "house_number": 34, 
+  "introduced_at": "2000-06-15", 
+  "number": 829, 
+  "purpose": "An amendment numbered 48 printed in the Congressional Record to ensure that the case regading Indian gaming brought by Florida and Alabama against the Department of the Interior is fully adjudicated before the Secretary of the Interior is permitted to publish the procedures that would allow tribes to establish casinos under regulations that by-pass tribal-state compacts.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Weldon, Dave", 
+    "state": "FL", 
+    "thomas_id": "01215", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-16T00:29:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

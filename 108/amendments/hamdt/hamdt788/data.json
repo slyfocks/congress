@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-08T09:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8863-8864, H8890-8891", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8863", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Kirk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T11:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 512, 
+      "text": "On agreeing to the Kirk amendment Agreed to by recorded vote: 414 - 0 (Roll no. 512).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt788-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment requires the President to submit a report to Congress on the practicality of integrating the Drug Enforcement Administration into the intelligence community.", 
+  "house_number": 4, 
+  "introduced_at": "2004-10-08", 
+  "number": 788, 
+  "purpose": "An amendment numbered four printed in House Report 108-751 to require the President to submit a report to the congressional intelligence and judiciary committees on the practicality of integrating the Drug Enforcement Administration into the intelligence community. Although DEA Agents are gathering intelligence on al Qaeda's involvement in narcoterrorism, currently they are not officially part of the intelligence community.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-10-08T11:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

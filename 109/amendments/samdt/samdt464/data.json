@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-18", 
+      "references": [
+        {
+          "reference": "CR S3786-3794", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3787-3788", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 464 proposed by Senator Byrd.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-18", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 96, 
+      "text": "Amendment SA 464 agreed to in Senate by Yea-Nay Vote. 61 - 31. Record Vote Number: 96.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt464-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-15", 
+  "number": 464, 
+  "proposed_at": "2005-04-18", 
+  "purpose": "To express the sense of the Senate on future requests for funding for military operations in Afghanistan and Iraq.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Byrd, Robert C.", 
+    "state": "WV", 
+    "thomas_id": "01299", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-18", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

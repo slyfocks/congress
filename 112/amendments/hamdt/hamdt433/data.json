@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-14T23:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4180-4181", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4180", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15T16:30:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4229-4230", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 427, 
+      "text": "On agreeing to the Broun (GA) amendment (A015) Failed by recorded vote: 107 - 318 (Roll no. 427).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt433-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce the account for Agricultural Marketing Services by $7,750,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 15, 
+  "introduced_at": "2011-06-14", 
+  "number": 433, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to reduce the account for Agricultural Marketing Services by $7,750,000 (10 percent) and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-15T16:30:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

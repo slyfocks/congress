@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-03T16:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7301-7302", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7301-7302", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-03T16:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McHenry amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt850-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2930-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2930
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Manager's amendment makes sundry technical and conforming changes.", 
+  "house_number": 1, 
+  "introduced_at": "2011-11-03", 
+  "number": 850, 
+  "purpose": "An amendment numbered 1 printed in Part A of House Report 112-265 to make technical corrections. It also requires the issuer to state a target offering amount and a deadline to reach the target offering amount. It requires that the Securities and Exchange Commission is provided a notice upon completion of the offering, which shall include the aggregate offering amount and the number of purchasers. Clarifies the disqualification provision to ensure that both issuers and intermediaries, as well as their predecessors, affiliates, officers, directors, or persons fulfilling similar roles, are disqualified from the exemption established in this bill should they have a history of committing securities fraud.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-03T16:33:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

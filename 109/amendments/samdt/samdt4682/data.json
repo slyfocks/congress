@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-19", 
+      "references": [
+        {
+          "reference": "CR S7824-7839", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4682 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-19", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 209, 
+      "text": "Amendment SA 4682 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 209.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4682-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s728-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-07-19", 
+  "number": 4682, 
+  "proposed_at": "2006-07-19", 
+  "purpose": "To modify a section relating to independent reviews.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-07-19", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

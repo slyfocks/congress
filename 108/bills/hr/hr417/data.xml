@@ -1,0 +1,103 @@
+<bill session="108" type="h" number="417" updated="2013-07-14T19:00:41-04:00">
+  <state datetime="2004-05-19">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2004-05-19"/>
+  </status>
+  <introduced datetime="2003-01-28"/>
+  <titles>
+    <title as="introduced" type="official">To revoke a Public Land Order with respect to certain lands erroneously included in the Cibola National Wildlife Refuge, California.</title>
+  </titles>
+  <sponsor id="400191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2003-01-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E84"/>
+    </action>
+    <action state="REFERRED" datetime="2003-01-28">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2003-02-12">
+      <text>Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2003-03-19T10:25:00-05:00">
+      <text>Mr. Pombo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2003-03-19T10:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1962-1963" label="consideration"/>
+    </action>
+    <action datetime="2003-03-19T10:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 417.</text>
+    </action>
+    <action datetime="2003-03-19T10:31:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2003-03-19T13:36:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1989-1990" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-03-19T13:44:00-05:00" how="roll" result="pass" roll="69" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 69).</text>
+      <reference ref="CR H1962" label="text"/>
+    </vote>
+    <action datetime="2003-03-19T13:44:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-03-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2003-06-04">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2004-02-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2004-03-09">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 108-241.</text>
+    </action>
+    <calendar datetime="2004-03-09" calendar="Senate Legislative" under="General Orders" number="451">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.</text>
+    </calendar>
+    <action datetime="2004-05-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5847" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2004-05-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2004-05-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Boundaries"/>
+    <term name="California"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Land transfers"/>
+    <term name="Maps"/>
+    <term name="National forests"/>
+    <term name="Signs and signboards"/>
+    <term name="Surveying"/>
+    <term name="Vermont"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3217"/>
+  </amendments>
+  <summary>5/19/2004--Passed Senate amended.
+Revokes Public Land Order 3442, dated August 21, 1964, insofar as it applies to specified lands in Imperial County, California (lands included in Cibola National Wildlife Refuge). Directs the Secretary of the Interior to resurvey and publish the new boundaries of the Refuge. Expands the boundaries of the Green Mountain National Forest, Vermont, to include specified parcels of land. Directs that federally owned lands added to the Forest by this Act continue to be managed in accordance with the laws applicable to the National Forest System. Declares that, for the purposes of the Land and Water Conservation Fund in the Land and Water Conservation Fund Act of 1965, the boundaries of the Forest, as adjusted by this Act, shall be considered to be the boundaries as of January 1, 1965.</summary>
+</bill>

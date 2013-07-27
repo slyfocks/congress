@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-10T17:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5146-5148", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5146", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-10T17:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt158-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2143-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2143
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to remove credit card transactions from categories of prohibited financial transactions under the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2003-06-10", 
+  "number": 158, 
+  "purpose": "An amendment numbered 2 printed in House Report 108-145, which removes credit cards from the list of bank instruments banned under the bill. The reasoning for removing credit cards is that the age requirements necessary for obtaining a credit card provide a means of preventing minor'suse of Internet gambling websites.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-10T17:48:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

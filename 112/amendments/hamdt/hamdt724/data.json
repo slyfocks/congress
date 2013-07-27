@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-26T15:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5522-5523, H5533", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5522", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-26T17:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 643, 
+      "text": "On agreeing to the Cohen amendment (A005) Failed by recorded vote: 155 - 272 (Roll no. 643).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt724-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1938-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1938
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to strike finding 16 and replaces it with language that outlines TransCanada's recent pipeline safety issues with the Keystone pipeline.", 
+  "house_number": 5, 
+  "introduced_at": "2011-07-26", 
+  "number": 724, 
+  "purpose": "An amendment numbered 5 printed in House Report 112-181 to strike finding 16 and replaces it with language that outlines TransCanada's recent pipeline safety issues with the Keystone pipeline.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-26T17:45:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

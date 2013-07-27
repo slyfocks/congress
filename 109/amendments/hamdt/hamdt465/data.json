@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19T15:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6052-6056", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6052-6054", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-19T16:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hyde amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt465-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2601-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2601
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment adds to the bill the text of the \"East Asia Security Act of 2005\" which seeks to deter arms transfers by foreign countries to the People's Republic of China.", 
+  "house_number": 12, 
+  "introduced_at": "2005-07-19", 
+  "number": 465, 
+  "purpose": "An amendment numbered 13 printed in Part B of House Report 109-175 to authorize measures to deter arms transfers by foreign countries to the People's Republic of China.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-19T16:07:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

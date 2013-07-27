@@ -1,0 +1,149 @@
+<bill session="106" type="h" number="4386" updated="2013-07-14T18:54:48-04:00">
+  <state datetime="2000-10-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-10-24"/>
+  </status>
+  <introduced datetime="2000-05-04"/>
+  <titles>
+    <title as="introduced" type="short">Breast and Cervical Cancer Prevention and Treatment Act of 2000</title>
+    <title as="passed house" type="short">Breast and Cervical Cancer Prevention and Treatment Act of 2000</title>
+    <title as="enacted" type="short">Breast and Cervical Cancer Prevention and Treatment Act of 2000</title>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to provide medical assistance for certain women screened and found to have breast or cervical cancer under a federally funded screening program, to amend the Public Health Service Act and the Federal Food, Drug, and Cosmetic Act with respect to surveillance and information concerning the relationship between cervical cancer and the human papillomavirus (HPV), and for other purposes.</title>
+  </titles>
+  <sponsor id="400288"/>
+  <cosponsors>
+    <cosponsor id="400578" joined="2000-05-04"/>
+    <cosponsor id="400594" joined="2000-05-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-05-04">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="2000-05-09T13:12:00-04:00">
+      <text>Mr. Lazio moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2000-05-09T13:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2687-2698" label="consideration"/>
+    </action>
+    <action datetime="2000-05-09T13:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4386.</text>
+    </action>
+    <action datetime="2000-05-09T14:03:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2000-05-09T16:47:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2735" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-05-09T16:56:00-04:00" how="roll" result="pass" roll="151" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 151).</text>
+      <reference ref="CR H2687-2689" label="text"/>
+    </vote>
+    <action datetime="2000-05-09T16:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-05-10">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2000-05-11" calendar="Senate Legislative" under="General Orders" number="542">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 542.</text>
+    </calendar>
+    <action datetime="2000-10-04">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S9821-9823" label="consideration"/>
+    </action>
+    <action datetime="2000-10-04">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 662 amended.</text>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2000-10-04" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate in lieu of S. 662 with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2000-10-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2000-10-11T21:23:00-04:00">
+      <text>Rules Committee Resolution H. Res. 628 Reported to House. Rule provides for consideration of Sen. amendment with amemdment to H.R. 4386 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.</text>
+    </action>
+    <action datetime="2000-10-12T15:11:00-04:00">
+      <text>Rule H. Res. 628 passed House.</text>
+    </action>
+    <action datetime="2000-10-12T15:12:00-04:00">
+      <text>Mr. Bilirakis moved that the House agree to the Senate amendment.</text>
+    </action>
+    <action datetime="2000-10-12T15:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 628, the House proceeded with one hour of debate on the motion.</text>
+    </action>
+    <action datetime="2000-10-12T15:38:00-04:00">
+      <text>The previous question was ordered without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-10-12T15:38:00-04:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H9847-9852" label="consideration"/>
+      <reference ref="CR H9847-9848" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2000-10-12T15:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2000-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2000-10-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-10-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-10-24" type="public" number="106-354">
+      <text>Became Public Law No: 106-354.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="106" type="hr" number="628"/>
+    <bill relation="supersedes" session="106" type="s" number="662"/>
+    <bill relation="unknown" session="106" type="s" number="662"/>
+    <bill relation="included-in" session="106" type="s" number="662"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Breast cancer"/>
+    <term name="Cervical cancer"/>
+    <term name="Commerce"/>
+    <term name="Condoms"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government publications"/>
+    <term name="Government publicity"/>
+    <term name="Government statistics"/>
+    <term name="Health education"/>
+    <term name="Health surveys"/>
+    <term name="Herpes"/>
+    <term name="Human behavior"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Mammography"/>
+    <term name="Medicaid"/>
+    <term name="Medical research"/>
+    <term name="Medical screening"/>
+    <term name="Medical statistics"/>
+    <term name="Poor women"/>
+    <term name="Preventive medicine"/>
+    <term name="Product safety"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Social welfare"/>
+    <term name="Virus diseases"/>
+    <term name="Virus research"/>
+    <term name="Warning labels"/>
+    <term name="Welfare eligibility"/>
+    <term name="Women"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/2000--Public Law.
+Breast and Cervical Cancer Prevention and Treatment Act of 2000 - Amends title XIX (Medicaid) of the Social Security Act to give States the option of making medical assistance for breast and cervical cancer-related treatment services available during a presumptive eligibility period to certain low-income women without creditable coverage who have already been screened for such cancers under the Centers for Disease Control and Prevention breast and cervical cancer early detection program, and need treatment. Provides for an enhanced match with regard to such Medicaid treatment services.</summary>
+</bill>

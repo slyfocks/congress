@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T22:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3894-3895", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3894", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A035) offered by Mr. Price (NC).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T13:43:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3934-3935", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 393, 
+      "text": "On agreeing to the Price (NC) amendment (A035) Agreed to by recorded vote: 264 - 157 (Roll no. 393).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt383-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment waives requirements attached to Fire Grants and SAFER grants and also contains a provision waiving certain budgetary requirements which local fire departments must fill in order to receive a grant.", 
+  "house_number": 35, 
+  "introduced_at": "2011-06-01", 
+  "number": 383, 
+  "purpose": "An amendment to prohibit the use of funds to enforce the requirements in section 34(a)(1)(A) of the Federal Fire Prevention and Control Act of 1974.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Price, David E.", 
+    "state": "NC", 
+    "thomas_id": "00930", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-02T13:43:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13T12:57:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4245-4246", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Hoekstra.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-13T13:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H4245", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "text": "On agreeing to the Hoekstra amendment (A014) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt772-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4577-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4577
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to increase IDEA funding by $383 million by transfering funds from other specified accounts.", 
+  "house_number": 14, 
+  "introduced_at": "2000-06-13", 
+  "number": 772, 
+  "purpose": "An amendment numbered 202 printed in the Congressional Record to increase the funding for IDEA by $383 million by transfer of funds from other specified accounts.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hoekstra, Peter", 
+    "state": "MI", 
+    "thomas_id": "00547", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-06-13T13:09:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

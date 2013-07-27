@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-18T15:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4905-4909", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4905", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Moran (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-18T15:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 320, 
+      "text": "On agreeing to the Moran (VA) amendment (A001) Failed by recorded vote: 206 - 213 (Roll no. 320).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt547-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5121-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 5121
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to reduce funding for the Joint Committee on Taxation by $590,000.", 
+  "house_number": 1, 
+  "introduced_at": "2002-07-18", 
+  "number": 547, 
+  "purpose": "An amendment printed in House Report 107-586 to reduce the funding for the Joint Committee on Taxation by $590,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Moran, James P.", 
+    "state": "VA", 
+    "thomas_id": "00832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-07-18T15:59:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

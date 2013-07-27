@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-10T16:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5684-5685", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5684", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Brown (OH).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-10T16:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown (OH) amendment (A019) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt958-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment makes available $3 million to the FDA Center for Veterinary Medicine for research on antibiotic resistance related to animal drugs.", 
+  "house_number": 19, 
+  "introduced_at": "2000-07-10", 
+  "number": 958, 
+  "purpose": "An amendment numbered 38 printed in the Congressional Record to direct the FDA to allocate $3 million for the Center for Veterinary Medicine from its total funding for FY 2001.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-07-10T16:24:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

@@ -1,0 +1,100 @@
+<bill session="106" type="h" number="1405" updated="2013-07-14T18:53:29-04:00">
+  <state datetime="2000-05-03T14:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2000-05-03T14:34:00-04:00"/>
+  </status>
+  <introduced datetime="1999-04-14"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building located at 143 West Liberty Street, Medina, Ohio, as the "Donald J. Pease Federal Building".</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1999-05-04"/>
+    <cosponsor id="400035" joined="1999-05-04"/>
+    <cosponsor id="400527" joined="1999-05-11"/>
+    <cosponsor id="400543" joined="1999-05-04"/>
+    <cosponsor id="400140" joined="2000-03-14"/>
+    <cosponsor id="400143" joined="1999-05-04"/>
+    <cosponsor id="400538" joined="1999-04-14"/>
+    <cosponsor id="400178" joined="2000-03-14"/>
+    <cosponsor id="400180" joined="1999-04-14"/>
+    <cosponsor id="400208" joined="2000-03-14"/>
+    <cosponsor id="400211" joined="1999-04-14"/>
+    <cosponsor id="400227" joined="1999-04-14"/>
+    <cosponsor id="400235" joined="1999-04-14"/>
+    <cosponsor id="400268" joined="2000-03-14"/>
+    <cosponsor id="400293" joined="1999-04-14"/>
+    <cosponsor id="400307" joined="1999-04-14"/>
+    <cosponsor id="400327" joined="1999-05-04"/>
+    <cosponsor id="400539" joined="1999-04-14"/>
+    <cosponsor id="400383" joined="2000-03-14"/>
+    <cosponsor id="400390" joined="1999-04-14"/>
+    <cosponsor id="400509" joined="1999-05-04"/>
+    <cosponsor id="400611" joined="1999-04-14"/>
+    <cosponsor id="400425" joined="2000-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1999-04-14">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1999-04-19">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-04-11">
+      <text>Subcommittee on Economic Development, Public Buildings, Hazardous Materials and Pipeline T Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2000-04-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2000-04-11">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2000-04-13T18:02:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 106-589.</text>
+    </action>
+    <calendar datetime="2000-04-13T18:02:00-04:00" calendar="House" number="212">
+      <text>Placed on the House Calendar, Calendar No. 212.</text>
+    </calendar>
+    <action datetime="2000-05-03T14:28:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-05-03T14:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2458-2459" label="consideration"/>
+    </action>
+    <action datetime="2000-05-03T14:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1405.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-05-03T14:34:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2458" label="text"/>
+    </vote>
+    <action datetime="2000-05-03T14:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-05-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW08" subcommittee="Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal office buildings"/>
+    <term name="Names"/>
+    <term name="Ohio"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/1999--Introduced.
+Designates the Federal building located at 143 West Liberty Street, Medina, Ohio, as the Donald J. Pease Federal Building.</summary>
+</bill>

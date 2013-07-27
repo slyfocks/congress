@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-13T12:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3531", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3531", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Matsui.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-13T13:40:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment (A001) and on the bill pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-13T14:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 228, 
+      "text": "On agreeing to the Matsui amendment (A001) Failed by the Yeas and Nays: 198 - 213, 1 Present (Roll no. 228).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt503-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4019-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 4019
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment in the nature of a substitute sought to provide that the provisions in the bill that make marriage penalty relief provisions permanent shall not take effect unless, during calendar year 2010, the Director of the Office of Management and Budget certifies that there will be sufficient non-social security surpluses during the 10-fiscal year period beginning with fiscal year 2011 so that, during such 10-fiscal year period, such provisions would not result in a raid on the social security trust funds (or increase the size of a raid on such funds).", 
+  "house_number": 1, 
+  "introduced_at": "2002-06-13", 
+  "number": 503, 
+  "purpose": "An amendment to add a complete new text.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Matsui, Robert T.", 
+    "state": "CA", 
+    "thomas_id": "00748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2002-06-13T14:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:55-04:00"
+}

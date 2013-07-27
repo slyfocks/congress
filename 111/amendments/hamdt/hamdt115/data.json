@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-05-07T13:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5359-5360, H5368", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5359", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-07T15:11:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 241, 
+      "text": "On agreeing to the McHenry amendment (A009) Failed by recorded vote: 171 - 255 (Roll no. 241).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt115-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1728-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 1728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike title III of the bill which deals with high-cost mortgages.", 
+  "house_number": 9, 
+  "introduced_at": "2009-05-07", 
+  "number": 115, 
+  "purpose": "An amendment numbered 9 printed in House Report 111-98 to strike title III from the bill relating to high-cost mortgages.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-05-07T15:11:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

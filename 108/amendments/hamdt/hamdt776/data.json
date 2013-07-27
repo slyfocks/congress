@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-09-23T13:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7475-7477", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7475", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Jackson-Lee (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-23T13:35:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Jackson-Lee (TX) amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt776-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2028-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2028
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to provide an exception to the preclusion provisions of the bill for instances alleging coerced or madatory recitation of the Pledge of Allegiance in violation of the First Amendment.", 
+  "house_number": 3, 
+  "introduced_at": "2004-09-23", 
+  "number": 776, 
+  "purpose": "An amendment numbered three printed in House Report 108-693 to insert the following after \"recitation\" in section 1632 of title 28, United States Code, as added by section 2(a) of the bill: \", except in a case in which the claim involved alleges coerced or mandatory recitation of the Pledge of Allegiance, including coercion in violation of the protection of the free exercise of religion, such as that held to be in violation of the First Amendment in West Virginia State Board of Education v. Barnett, 319 U.S. 624, 638 (1943) and Circle School v. Pappert (No. 03-3285; 3rd Circuit, August 19, 2004)\".", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson-Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-09-23T13:35:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

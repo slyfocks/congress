@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-23T13:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3058", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3058", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Butterfield.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-23T13:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Butterfield amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt873-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5384-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5384
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment increases funding for the Rural Community Advancement Program account by $5 millon.", 
+  "house_number": 3, 
+  "introduced_at": "2006-05-23", 
+  "number": 873, 
+  "purpose": "An amendment to increase funding (by offset) for Rural Community Advancement Program account by $5 millon.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Butterfield, G. K.", 
+    "state": "NC", 
+    "thomas_id": "01761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-05-23T13:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

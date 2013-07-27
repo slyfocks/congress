@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-31T19:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3342-3343", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3342", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Poe (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T19:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3343", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Poe (TX) amendment (A010) modified by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-31T19:34:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Poe (TX) amendment (A010) as modified Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1163-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5854-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5854
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2012-05-31", 
+  "number": 1163, 
+  "purpose": "An amendment to prohibit the use of funds to hire a director of a national cemetery who is not a veteran.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-05-31", 
+  "updated_at": "2013-07-17T08:17:21-04:00"
+}

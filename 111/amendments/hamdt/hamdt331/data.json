@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-15T15:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8147-8148", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8147", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Campbell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-17T13:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8330-8331", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8330", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 581, 
+      "text": "On agreeing to the Campbell amendment (A012) Failed by recorded vote: 121 - 303 (Roll no. 581).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt331-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3183-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike the $1 million earmark for the Housatonic River Museum in Pittsfield, MA.", 
+  "house_number": 12, 
+  "introduced_at": "2009-07-15", 
+  "number": 331, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 111-209 to strike the $1,000,000 earmark for the Housatonic River Net-Zero Energy Building and reduce the overall cost of the bill by $1,000,000.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Campbell, John", 
+    "state": "CA", 
+    "thomas_id": "01816", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-07-17T13:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

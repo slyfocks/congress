@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-09-18T12:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8427-8429", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8416-8419", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment in the nature of a substitute reported by the House Committee on Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-18T12:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rules amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1172-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6604-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 6604
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment offered in the nature of a substitute.", 
+  "house_number": 1, 
+  "introduced_at": "2008-09-18", 
+  "number": 1172, 
+  "purpose": "Pursuant to the provisions of H.Res. 1449, the Amendment in the Nature of a Substitute printed in House Report 110-859 is adopted.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-09-18T12:25:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

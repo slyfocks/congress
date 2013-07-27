@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24T20:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3206-3208, H3213-3214", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3206", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24T22:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 205, 
+      "text": "On agreeing to the Flake amendment (A024) Failed by recorded vote: 46 - 372 (Roll no. 205).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt935-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5427-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 24, 
+  "introduced_at": "2006-05-24", 
+  "number": 935, 
+  "purpose": "An amendment to prohibit the use of funds from being made available for Juniata Ultra Low Emission Locomotive Demonstration, PA.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24T22:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

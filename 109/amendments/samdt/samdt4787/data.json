@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-08-03", 
+      "references": [
+        {
+          "reference": "CR S8675-8676, S8681-8682", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8675", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4787 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "references": [], 
+      "text": "Motion to table amendment SA 4787 made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "references": [], 
+      "text": "Motion to table amendment SA 4787 rejected in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 223.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-08-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4787 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4787-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5631-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5631
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-08-02", 
+  "number": 4787, 
+  "proposed_at": "2006-08-03", 
+  "purpose": "To limit the funds available to the Department of Defense for expenses relating to conferences.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-08-03", 
+  "updated_at": "2013-07-17T08:16:16-04:00"
+}

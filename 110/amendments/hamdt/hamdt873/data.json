@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-10-30T13:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H12185-12186", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H12185", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Lampson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-30T13:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lampson amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt873-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3867-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 3867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": null, 
+  "house_number": 10, 
+  "introduced_at": "2007-10-30", 
+  "number": 873, 
+  "purpose": "An amendment numbered 10 printed in House Report 110-407 to prohibit the use of any funds for first-class or business-class airline travel by agency employees when carrying out the provisions of H.R. 3867. The amendment includes exceptions provided by the Code of Federal Regulations 301-10.122 to 10.124, as applicable to federal agency employees.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Lampson, Nick", 
+    "state": "TX", 
+    "thomas_id": "01500", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2007-10-30T13:26:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

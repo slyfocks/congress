@@ -1,0 +1,106 @@
+<bill session="108" type="hc" number="257" updated="2013-07-14T19:03:07-04:00">
+  <state datetime="2004-07-06T19:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2004-07-06T19:08:00-04:00"/>
+  </status>
+  <introduced datetime="2003-07-24"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress that the President should posthumously award the Presidential Medal of Freedom to Harry W. Colmery.</title>
+  </titles>
+  <sponsor id="400353"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="2004-05-18"/>
+    <cosponsor id="400048" joined="2004-05-11"/>
+    <cosponsor id="400049" joined="2003-10-16"/>
+    <cosponsor id="400052" joined="2004-05-11"/>
+    <cosponsor id="400114" joined="2004-05-13"/>
+    <cosponsor id="400126" joined="2003-07-24"/>
+    <cosponsor id="400162" joined="2004-05-18"/>
+    <cosponsor id="400163" joined="2004-06-01"/>
+    <cosponsor id="400168" joined="2004-03-16"/>
+    <cosponsor id="400208" joined="2003-10-21"/>
+    <cosponsor id="400237" joined="2004-05-13"/>
+    <cosponsor id="400245" joined="2004-05-18"/>
+    <cosponsor id="400279" joined="2004-03-03"/>
+    <cosponsor id="400284" joined="2003-07-24"/>
+    <cosponsor id="400287" joined="2004-06-01"/>
+    <cosponsor id="400333" joined="2004-06-01"/>
+    <cosponsor id="400380" joined="2003-07-24"/>
+    <cosponsor id="400405" joined="2003-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2003-07-24">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2003-08-25">
+      <text>Referred to the Subcommittee on Civil Service and Agency Organization.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-06-03">
+      <text>Subcommittee on Civil Service and Agency Organization Discharged.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <action datetime="2004-06-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2004-06-03">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2004-07-06T14:51:00-04:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2004-07-06T14:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5162-5165" label="consideration"/>
+    </action>
+    <action datetime="2004-07-06T14:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 257.</text>
+    </action>
+    <action datetime="2004-07-06T14:59:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2004-07-06T18:51:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5165-5166" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2004-07-06T19:08:00-04:00" how="roll" result="pass" roll="327" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 381 - 1 (Roll no. 327).</text>
+      <reference ref="CR H5162" label="text as passed House"/>
+    </vote>
+    <action datetime="2004-07-06T19:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2004-07-07">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSGO18" subcommittee="Civil Service and Agency Organization" name="House Government Reform"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="108" type="sc" number="117"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Kansas"/>
+    <term name="Law"/>
+    <term name="Lawyers"/>
+    <term name="Legislation"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' education"/>
+    <term name="Veterans' organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/6/2004--Passed House without amendment.
+Urges the President to posthumously award the Presidential Medal of Freedom to Harry W. Colmery of Topeka, Kansas, who played a significant role in drafting the GI Bill of Rights.</summary>
+</bill>

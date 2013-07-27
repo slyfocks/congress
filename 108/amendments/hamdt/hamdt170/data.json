@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-12T13:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5299-5303, H5304-5405", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5299-5300", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) in the nature of a substitute offered by Mr. Sandlin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-12T14:45:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 270, 
+      "text": "On agreeing to the Sandlin amendment (A005) Failed by recorded vote: 170 - 255 (Roll no. 270).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt170-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1115-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 1115
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment in the nature of a substitute sought to insert the text of the Class Action Improvement Act.", 
+  "house_number": 5, 
+  "introduced_at": "2003-06-12", 
+  "number": 170, 
+  "purpose": "An amendment in the nature of a substitute numbered 4 printed in House Report 108-148. Section 1 of the amendment contains a short title, reference, and table of contents. Section 2 establishes improved procedures for certain class actions, including provisions for the use of coupon settlements, court approval of settlements, sealing of class action documents, and interlocutory appeals. Section 3 enacts the recommendations of the U. S. Judicial Conference with respect to notice to class members. Section 4 establishes a state court multi-district litigation panel for class actions. The panel allows for the consolidation of class actions pending in different state courts for pretrial proceedings. Section 5 of the amendment authorizes the National Center for State Courts to develop and implement a procedure by which state courts or the state court multi-district litigation panel may transfer certain class actions to federal courts.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sandlin, Max", 
+    "state": "TX", 
+    "thomas_id": "01523", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-06-12T14:45:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

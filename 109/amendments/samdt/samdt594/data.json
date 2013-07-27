@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-28", 
+      "references": [
+        {
+          "reference": "CR S4475", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4475", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 594 proposed by Senator Gregg for Senator Isakson to Amendment SA 567.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-28", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 594 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt594-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt567-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 567
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-28", 
+  "number": 594, 
+  "proposed_at": "2005-04-28", 
+  "purpose": "To require the Secretary of Transportation to approve a certain construction project in the State of Georgia, provide for the reservation of Federal funds for the project, and clarify that the project meets certain requirements.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Isakson, Johnny", 
+    "state": "GA", 
+    "thomas_id": "01608", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-28", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

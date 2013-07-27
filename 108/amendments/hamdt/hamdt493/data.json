@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01T14:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1983-1984", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1983-1984", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. E. B. Johnson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-04-01T14:27:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Johnson, E. B. amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt493-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3550-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3550
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment requires the Department of Transportation to make its annual report to Congress available to the public in a user-friendly format via the Internet.", 
+  "house_number": 2, 
+  "introduced_at": "2004-04-01", 
+  "number": 493, 
+  "purpose": "An amendment numbered 2 printed in part B of House Report 108-456 to require the Transportation Department to make its report on how federal surface transportation funds are allocated available to the public via the Internet in a user-friendly format.", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2004-04-01T14:27:00-05:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

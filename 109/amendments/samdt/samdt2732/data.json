@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-02", 
+      "references": [
+        {
+          "reference": "CR S492-493", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S492-493", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2732 proposed by Senator Grassley to Amendment SA 2707.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "references": [], 
+      "text": "Point of order raised in Senate with respect to amendment SA 2732.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "references": [], 
+      "text": "Motion to waive the Budget Act with respect to amendment SA 2732 (for the consideration of the pending amendment and for the inclusion of the language of the pending amendment in the consideration of an amendment between the Houses) agreed to in Senate by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2732 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2732-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2707-109", 
+    "amendment_type": "samdt", 
+    "congress": 109, 
+    "number": 2707
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4297-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4297
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2006-02-02", 
+  "number": 2732, 
+  "proposed_at": "2006-02-02", 
+  "purpose": "To support the health needs of our veterans and military personnel.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2006-02-02", 
+  "updated_at": "2013-07-17T08:16:13-04:00"
+}

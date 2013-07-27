@@ -1,0 +1,134 @@
+<bill session="107" type="hc" number="408" updated="2013-07-14T18:59:02-04:00">
+  <state datetime="2002-07-15T15:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2002-07-15T15:45:00-04:00"/>
+  </status>
+  <introduced datetime="2002-05-22"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the American Zoo and Aquarium Association and its accredited member institutions for their continued service to animal welfare, conservation education, conservation research, and wildlife conservation programs.</title>
+  </titles>
+  <sponsor id="400149"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2002-06-12"/>
+    <cosponsor id="400033" joined="2002-06-19"/>
+    <cosponsor id="400035" joined="2002-06-24"/>
+    <cosponsor id="400542" joined="2002-06-26"/>
+    <cosponsor id="400062" joined="2002-06-17"/>
+    <cosponsor id="400064" joined="2002-06-19"/>
+    <cosponsor id="400074" joined="2002-06-17"/>
+    <cosponsor id="400091" joined="2002-06-17"/>
+    <cosponsor id="400093" joined="2002-06-17"/>
+    <cosponsor id="400094" joined="2002-06-12"/>
+    <cosponsor id="400097" joined="2002-07-09"/>
+    <cosponsor id="400133" joined="2002-06-24"/>
+    <cosponsor id="400194" joined="2002-06-05"/>
+    <cosponsor id="400223" joined="2002-06-05"/>
+    <cosponsor id="400529" joined="2002-06-21"/>
+    <cosponsor id="400258" joined="2002-06-05"/>
+    <cosponsor id="400259" joined="2002-06-24"/>
+    <cosponsor id="400264" joined="2002-07-09"/>
+    <cosponsor id="400299" joined="2002-06-17"/>
+    <cosponsor id="400362" joined="2002-06-24"/>
+    <cosponsor id="400366" joined="2002-07-09"/>
+    <cosponsor id="400409" joined="2002-07-09"/>
+    <cosponsor id="400421" joined="2002-06-05"/>
+    <cosponsor id="400437" joined="2002-06-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2002-05-22">
+      <text>Referred to the Committee on Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2002-05-22">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2002-05-22">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2002-06-03">
+      <text>Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2002-06-04">
+      <text>Referred to the Subcommittee on Livestock and Horticulture.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2002-06-12">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2002-06-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2002-06-20">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2002-06-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2002-06-26">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Resources"/>
+    </calendar>
+    <action datetime="2002-07-11T17:19:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 107-565, Part I.</text>
+    </action>
+    <action datetime="2002-07-11T17:21:00-04:00">
+      <text>House Committee on Agriculture Granted an extension for further consideration ending not later than July 11, 2002.</text>
+    </action>
+    <action datetime="2002-07-11T17:22:00-04:00">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <calendar datetime="2002-07-11T17:23:00-04:00" calendar="House" number="189">
+      <text>Placed on the House Calendar, Calendar No. 189.</text>
+    </calendar>
+    <action datetime="2002-07-15T15:39:00-04:00">
+      <text>Mr. Gilchrest moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2002-07-15T15:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4598" label="consideration"/>
+    </action>
+    <action datetime="2002-07-15T15:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 408.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2002-07-15T15:45:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4598" label="text"/>
+    </vote>
+    <action datetime="2002-07-15T15:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2002-07-16">
+      <text>Received in the Senate and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock and Horticulture" name="House Agriculture"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Animals"/>
+    <term name="Aquariums"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Habitat conservation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Protection of animals"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Trade associations"/>
+    <term name="Wildlife conservation"/>
+    <term name="Zoos"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2002--Reported to House without amendment.
+Recognizes and honors the American Zoo and Aquarium Association and its member institutions of zoological parks and aquariums for their dedicated service in animal welfare, conservation education, conservation research, and wildlife conservation programs.</summary>
+</bill>

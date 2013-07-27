@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24T17:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3187-3188", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3187", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24T17:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the King (IA) amendment (A011) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt922-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5427-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 11, 
+  "introduced_at": "2006-05-24", 
+  "number": 922, 
+  "purpose": "An amendment to prohibit any of the funds made available in the Act from being used for the Corps of Engineers to implement the Spring Rise, also known as the bimodal spring pulse releases, on the Missouri River.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "thomas_id": "01724", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24T17:51:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

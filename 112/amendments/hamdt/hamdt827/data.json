@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-11T15:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6700-6702, H6723-6724", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6700", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-11T19:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 774, 
+      "text": "On agreeing to the Markey amendment (A008) Failed by recorded vote: 166 - 252 (Roll no. 774).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt827-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2250-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2250
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 8, 
+  "introduced_at": "2011-10-11", 
+  "number": 827, 
+  "purpose": "An amendment numbered 7 printed in the Congressional Record to insert a section stating that the Administrator shall not delay actions to reduce emissions from waste incinerators or industrial boilers at chemical facilities, oil refineries, or large manufacturing facilities if such emissions are increasing the risk of cancer.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-10-11T19:27:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

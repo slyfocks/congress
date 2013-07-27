@@ -1,0 +1,98 @@
+<bill session="106" type="h" number="3621" updated="2013-07-14T18:54:32-04:00">
+  <state datetime="2000-11-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2000-11-13"/>
+  </status>
+  <introduced datetime="2000-02-10"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the posthumous promotion of William Clark of the Commonwealth of Virginia and the Commonwealth of Kentucky, co-leader of the Lewis and Clark Expedition, to the grade of captain in the Regular Army.</title>
+  </titles>
+  <sponsor id="400023"/>
+  <cosponsors>
+    <cosponsor id="400568" joined="2000-03-01"/>
+    <cosponsor id="400569" joined="2000-02-10"/>
+    <cosponsor id="400571" joined="2000-02-10"/>
+    <cosponsor id="400033" joined="2000-02-10"/>
+    <cosponsor id="400578" joined="2000-03-01"/>
+    <cosponsor id="400152" joined="2000-03-28"/>
+    <cosponsor id="400153" joined="2000-02-10"/>
+    <cosponsor id="400177" joined="2000-03-01"/>
+    <cosponsor id="400587" joined="2000-02-10"/>
+    <cosponsor id="400213" joined="2000-03-01"/>
+    <cosponsor id="400241" joined="2000-02-10"/>
+    <cosponsor id="400291" joined="2000-03-01"/>
+    <cosponsor id="400294" joined="2000-02-10"/>
+    <cosponsor id="400323" joined="2000-02-10"/>
+    <cosponsor id="400520" joined="2000-03-01"/>
+    <cosponsor id="400377" joined="2000-03-01"/>
+    <cosponsor id="400386" joined="2000-03-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2000-02-10">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2000-02-22">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2000-02-22">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2000-10-10T21:56:00-04:00">
+      <text>Mr. Bartlett moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2000-10-10T21:56:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9601-9602" label="consideration"/>
+    </action>
+    <action datetime="2000-10-10T21:56:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3621.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2000-10-10T22:05:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9601" label="text"/>
+    </vote>
+    <action datetime="2000-10-10T22:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2000-10-11">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2000-10-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11272" label="consideration"/>
+    </vote>
+    <topresident datetime="2000-10-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2000-10-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2000-11-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2000-11-13">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2000-11-13" type="public" number="106-507">
+      <text>Became Public Law No: 106-507.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Army personnel"/>
+    <term name="History"/>
+    <term name="Military promotions"/>
+    <term name="Officer personnel"/>
+    <term name="West (U.S.)"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2000--Introduced.
+Deems William Clark, co-leader of the Lewis and Clark Expedition of 1804-1806, to have held the grade of captain (currently, lieutenant) in the Regular Army from March 26, 1804, until February 27, 1807.</summary>
+</bill>

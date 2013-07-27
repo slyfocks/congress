@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-18T14:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3357-3362, H3372-3373", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3357", 
+          "type": " text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Cox.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T17:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 205, 
+      "text": "On agreeing to the Cox amendment (A011) Agreed to by recorded vote: 334 - 85 (Roll no. 205).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt724-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment prohibits any contract or arrangement which would make the United States liable for nuclear accidents occurring in North Korea.", 
+  "house_number": 11, 
+  "introduced_at": "2000-05-18", 
+  "number": 724, 
+  "purpose": "An amendment numbered 3 printed in House Report 106-624 to block any U.S. government entity from entering into arrangements to accept liability or extend an indemnity for nuclear accidents occurring in North Korea.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Cox, Christopher", 
+    "state": "CA", 
+    "thomas_id": "00242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2000-05-18T17:04:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

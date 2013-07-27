@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-10T18:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1132-1136", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1132", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Scott of Virginia.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-11T10:46:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR  H1176", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1176", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 40, 
+      "text": "On agreeing to the Scott amendment (A005) Failed by recorded vote: 195 - 223 (Roll no. 40).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt22-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr800-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to provide that only schools in which at least 35 percent of the students come from low-income families may seek a waiver to use their Title I funds to operate school-wide projects.", 
+  "house_number": 5, 
+  "introduced_at": "1999-03-10", 
+  "number": 22, 
+  "purpose": "An amendment numbered 21 and printed in the Congressional Record to authorize a waiver in the case of a school that participates in a Title I program if the school serves more than thirty-five percent of children from low-income families.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1999-03-11T10:46:00-05:00", 
+  "updated_at": "2013-07-17T08:15:42-04:00"
+}

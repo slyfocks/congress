@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-02T16:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4361-4362, H4373", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4361", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Mica.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-02T18:04:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 280, 
+      "text": "On agreeing to the Mica amendment (A005) Failed by recorded vote: 137 - 286 (Roll no. 280).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt120-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1429-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 1429
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment sought to amend section 18 of the bill to require a certification that at least 50 percent of all Head Start teachers nationwide meet certain degree requirements by September 30, 2011, two years earlier than required by the bill.", 
+  "house_number": 5, 
+  "introduced_at": "2007-05-02", 
+  "number": 120, 
+  "purpose": "An amendment numbered 5 printed in House Report 110-116 to amend Section 18 of the bill to require that the Secretary certify that at least 50 percent of all Head Start teachers nationwide meet certain degree requirements by September 30, 2011, two years earlier than required under the current legislation.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Mica, John L.", 
+    "state": "FL", 
+    "thomas_id": "00800", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2007-05-02T18:04:00-04:00", 
+  "updated_at": "2013-07-17T08:16:31-04:00"
+}

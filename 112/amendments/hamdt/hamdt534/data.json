@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06T21:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4659-4660", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4659", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-07T14:18:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4699-4700", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 509, 
+      "text": "On agreeing to the Cohen amendment (A029) Failed by recorded vote: 119 - 306 (Roll no. 509).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt534-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2219-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to reduce funding for the Afghanistan security forces by $4 billion and to apply the savings to the spending reduction account.", 
+  "house_number": 29, 
+  "introduced_at": "2011-07-06", 
+  "number": 534, 
+  "purpose": "An amendment to strike $4,000,000,000 from the Afghanistan Security Forces Fund and apply the same amount to the Spending Reduction Account.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-07-07T14:18:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-04T19:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6344-6346", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6344", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Dooley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-04T20:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Dooley amendment (A030) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt348-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2646-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2646
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to direct $100 million into a USDA program for competitive research grants.", 
+  "house_number": 30, 
+  "introduced_at": "2001-10-04", 
+  "number": 348, 
+  "purpose": "An amendment numbered 19 printed in the Congressional Record to redirect $100 million from fixed (or AMTA) payments to the Initiative for Future Agriculture and Food Systems account for use as grants to land grant institutions.", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Dooley, Calvin M.", 
+    "state": "CA", 
+    "thomas_id": "00306", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-10-04T20:08:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

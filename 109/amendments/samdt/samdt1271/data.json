@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-19", 
+      "references": [
+        {
+          "reference": "CR S8454-8455", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8454", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1271 proposed by Senator Chambliss.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "references": [
+        {
+          "reference": "CR S8510, S8529-8530", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 196, 
+      "text": "Amendment SA 1271 agreed to in Senate by Yea-Nay Vote. 86 - 12. Record Vote Number: 196.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1271-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3057-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 3057
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-07-19", 
+  "number": 1271, 
+  "proposed_at": "2005-07-19", 
+  "purpose": "To prevent funds from being made available to provide assistance to a country which has refused to extradite certain individuals to the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Chambliss, Saxby", 
+    "state": "GA", 
+    "thomas_id": "00188", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-07-20", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-18T14:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4551-4552, H4557-4558", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4551", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-18T16:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 274, 
+      "text": "On agreeing to the Velazquez amendment (A025) Failed by recorded vote: 201 - 205 (Roll no. 274).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt592-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4567-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4567
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 25, 
+  "introduced_at": "2004-06-18", 
+  "number": 592, 
+  "purpose": "Amendment seeks to prohibit the use of funds from being used by the Federal Protective Service to replace any existing contract for security guard services with statewide contracts for security guard services.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "thomas_id": "01184", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-06-18T16:17:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-28T18:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6245", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6245", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Peters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28T18:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Peters amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt740-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5822-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 5822
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment directs the VA to implement a program that would re-label prescription drugs used in VA hospitals to be sent home with discharged patients for outpatient use. Currently, veterans often have to go right to the pharmacy to refill what was discarded.", 
+  "house_number": 12, 
+  "introduced_at": "2010-07-28", 
+  "number": 740, 
+  "purpose": "An amendment numbered 12 printed in House Report 111-570 to decrease the Veteran's Administration General Operating Expense account by $50,000, then increase it by $50,000, for the purpose of directing the VA to implement a program that would re-label prescription drugs used in VA hospitals to be sent home with discharged patients for outpatient use. Currently, veterans often have to go right to the pharmacy to refill what was discarded.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Peters, Gary C.", 
+    "state": "MI", 
+    "thomas_id": "01929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2010-07-28T18:24:00-04:00", 
+  "updated_at": "2013-07-17T08:16:57-04:00"
+}

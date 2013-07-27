@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-03", 
+      "references": [
+        {
+          "reference": "CR S12320-12321", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12320", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2419 proposed by Senator Santorum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2419 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2419-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1932-109", 
+    "bill_type": "s", 
+    "congress": 109, 
+    "number": 1932
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-11-03", 
+  "number": 2419, 
+  "proposed_at": "2005-11-03", 
+  "purpose": "To amend title XVIII of the Social Security Act to make a technical correction regarding purchase agreements for power-driven wheelchairs under the Medicare program, to provide for coverage of ultrasound screening for abdominal aortic aneurysms under part B of such program, to improve patient access to, and utilization of, the colorectal cancer screening benefit under such program, and to provide for the coverage of marriage and family therapist services and mental health counselor services under part B of such title.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Santorum, Rick", 
+    "state": "PA", 
+    "thomas_id": "01015", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-11-03", 
+  "updated_at": "2013-07-17T08:16:12-04:00"
+}

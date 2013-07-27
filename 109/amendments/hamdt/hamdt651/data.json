@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-12-16T15:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11942-11943", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H11942", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Filner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-16T15:33:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Filner amendment (A014) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt651-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4437-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4437
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment adds distribution of fraudulent immigration documents to the list of criminal offenses.", 
+  "house_number": 14, 
+  "introduced_at": "2005-12-16", 
+  "number": 651, 
+  "purpose": "An amendment numbered 2 printed in House Report 109-350 to make technical changes to the current statue governing the distribution of fraudulent documents.", 
+  "sponsor": {
+    "district": "51", 
+    "name": "Filner, Bob", 
+    "state": "CA", 
+    "thomas_id": "00381", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-12-16T15:33:00-05:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

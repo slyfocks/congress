@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-25T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H4599-4604, H4607", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Substitute (A012) offered by Mr. Flake to the Smith (NJ) amendment (A011).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-25T18:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 270, 
+      "text": "On agreeing to the Flake amendment Agreed to by recorded vote: 240 - 186 (Roll no. 270).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt241-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt240-107", 
+    "amendment_type": "hamdt", 
+    "congress": 107, 
+    "number": 240
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2590-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "See Smith (NJ) amendment (A011) for description.", 
+  "house_number": 12, 
+  "introduced_at": "2001-07-25", 
+  "number": 241, 
+  "purpose": "Amendment to prohibit funding to administer the Cuban Assets Control Regulations with respect to any travel or travel related transaction.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-07-25T18:16:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

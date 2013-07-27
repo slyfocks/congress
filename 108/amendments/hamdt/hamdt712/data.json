@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-20T13:24:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6014-6016, H6020", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H6014", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mrs. Maloney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-20T14:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 395, 
+      "text": "On agreeing to the Maloney amendment (A003) Failed by recorded vote: 114 - 308 (Roll no. 395).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt712-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3574-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 3574
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2004-07-20", 
+  "number": 712, 
+  "purpose": "An amendment numbered three printed in House Report 108-616 to preserve the authority of the Securities and Exchange Commission (SEC) to establish accounting principles or standards on its own initiative as the SEC deems necessary in the public interest or for the protection of investors. It is intended to preserve the SEC's ability to prescribe the contents of public filings.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Maloney, Carolyn B.", 
+    "state": "NY", 
+    "thomas_id": "00729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-20T14:33:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

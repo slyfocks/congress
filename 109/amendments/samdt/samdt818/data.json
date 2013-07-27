@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-22", 
+      "references": [
+        {
+          "reference": "CR S7056-7061", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7057", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 818 proposed by Senator Frist for Senator Jeffords.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 818 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt818-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 6
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-21", 
+  "number": 818, 
+  "proposed_at": "2005-06-22", 
+  "purpose": "To commission a study for the roof of the Dirksen Senate Office Building in a manner that facilitates the incorporation of energy efficient technology and amends the Master Plan for the Capitol complex.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Jeffords, James M.", 
+    "state": "VT", 
+    "thomas_id": "00593", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-22", 
+  "updated_at": "2013-07-17T08:16:09-04:00"
+}

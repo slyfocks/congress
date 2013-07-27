@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-07T21:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5315-5316, H5320-5321", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5315", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T23:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 335, 
+      "text": "On agreeing to the Paul amendment (A017) Failed by recorded vote: 83 - 335 (Roll no. 335).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt648-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4754-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4754
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 17, 
+  "introduced_at": "2004-07-07", 
+  "number": 648, 
+  "purpose": "An amendment numbered 10 printed in the Congressional Record to prohibit use of funds to pay any United States contribution to the United Nations or any affiliated agency of the United Nations.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-07T23:10:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-09-16T18:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9630-9632", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9630", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Hoekstra.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-17T12:50:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H9693", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H9693", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 710, 
+      "text": "On agreeing to the Hoekstra amendment (A002) Failed by recorded vote: 161 - 262 (Roll no. 710).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt425-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3221-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3221
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment sought to strike Title III of the bill which authorizes $6.6 billion in new mandatory spending to create three Federal school construction programs for elementary and secondary public schools and institutions of higher education and to apply the savings toward reducing the Federal deficit.", 
+  "house_number": 2, 
+  "introduced_at": "2009-09-16", 
+  "number": 425, 
+  "purpose": "An amendment.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hoekstra, Peter", 
+    "state": "MI", 
+    "thomas_id": "00547", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2009-09-17T12:50:00-04:00", 
+  "updated_at": "2013-07-17T08:16:56-04:00"
+}

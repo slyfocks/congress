@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-01T22:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3898-3899", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3898", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Mr. Scalise.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-02T17:34:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3953", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 396, 
+      "text": "On agreeing to the Scalise amendment (A040) Failed by recorded vote: 207 - 213 (Roll no. 396).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt388-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to prohibit the use of funds to implement or enforce Executive Order 13502 which mandates project labor agreements (PLA's) on projects that are worth $25 million or more.", 
+  "house_number": 40, 
+  "introduced_at": "2011-06-01", 
+  "number": 388, 
+  "purpose": "An amendment to prohibit the use of funds to implement or enforce Executive Order 13502, the FAR Council supporting regulations FAR Rule 2009-005, or any agency memorandum, bulletin, or contracting policy that derives its authority for Executive Order 13502 or FAR Rule 2009-005.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "thomas_id": "01892", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-06-02T17:34:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

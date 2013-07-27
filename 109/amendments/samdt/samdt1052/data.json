@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-27", 
+      "references": [
+        {
+          "reference": "CR S7419-7420", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7420", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1052 proposed by Senator Byrd for Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "references": [
+        {
+          "reference": "CR S7478, S7486-7487, S7489-7491, S7498-7500, S7509-7511", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "references": [
+        {
+          "reference": "CR S7587", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 166, 
+      "text": "Amendment SA 1052 agreed to in Senate by Yea-Nay. 96 - 0. Record Vote Number: 166.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1052-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2361-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2361
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-06-27", 
+  "number": 1052, 
+  "proposed_at": "2005-06-27", 
+  "purpose": "Making emergency supplemental appropriations for the fiscal year ending September 30, 2005, for the Veterans Health Administration.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-06-29", 
+  "updated_at": "2013-07-17T08:16:10-04:00"
+}

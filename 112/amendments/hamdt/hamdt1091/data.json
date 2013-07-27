@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-09T21:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2538-2539", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2538", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A058) offered by Mr. Denham.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T21:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Denham amendment (A058) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1091-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5326-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5326
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prohibits the premature reintroduction of an endangered salmon species in an uninhabitable river such as the San Joaquin River.", 
+  "house_number": 58, 
+  "introduced_at": "2012-05-09", 
+  "number": 1091, 
+  "purpose": "An amendment numbered 26 printed in the Congressional Record to prohibit the use of funds to be used to reintroduce California Central Valley Spring Run Chinook salmon.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Denham, Jeff", 
+    "state": "CA", 
+    "thomas_id": "01995", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-09T21:26:00-04:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

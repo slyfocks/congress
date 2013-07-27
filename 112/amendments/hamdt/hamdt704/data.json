@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-21T20:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5365-5367", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5365", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Stutzman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-22T10:50:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5384-5385", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 625, 
+      "text": "On agreeing to the Stutzman amendment (A008) Agreed to by recorded vote: 218 - 194 (Roll no. 625).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt704-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2551-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2551
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment reduces GPO funding by $4,946,140.80 and apply the savings to the spending reduction account.", 
+  "house_number": 8, 
+  "introduced_at": "2011-07-21", 
+  "number": 704, 
+  "purpose": "An amendment numbered 8 printed in House Report 112-173 to reduce the GPO funding by $4,946,140.80 by transferring $3,414,150.29 from GPO, Congressional Printing and Binding and $1,531,990.51 from GPO, Office of Superintendent of Documents, to the spending reduction account.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Stutzman, Marlin A.", 
+    "state": "IN", 
+    "thomas_id": "01981", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-22T10:50:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

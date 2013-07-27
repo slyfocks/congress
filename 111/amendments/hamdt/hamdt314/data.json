@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-10T12:11:00-04:00", 
+      "references": [
+        {
+          "reference": "H7984-7985", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7984", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Filner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-10T12:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Filner amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt314-111", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3082-111", 
+    "bill_type": "hr", 
+    "congress": 111, 
+    "number": 3082
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "111", 
+  "description": "Amendment increases the level of funding by offset for the United States Olympic Committee's Paralympic Veterans Program by $3.5 million.", 
+  "house_number": 3, 
+  "introduced_at": "2009-07-10", 
+  "number": 314, 
+  "purpose": "An amendment numbered 2 printed in House Report 111-195 to increase the level of funding for the Department of Veterans Affairs, Office of National Veterans' Sports Programs and Special Events by $3,500,000. Would decrease funding for the VA's Medical Support and Compliance account by $3,500,000.", 
+  "sponsor": {
+    "district": "51", 
+    "name": "Filner, Bob", 
+    "state": "CA", 
+    "thomas_id": "00381", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2009-07-10T12:22:00-04:00", 
+  "updated_at": "2013-07-17T08:16:55-04:00"
+}

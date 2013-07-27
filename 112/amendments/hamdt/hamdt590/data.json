@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-11T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4810-4812", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4810", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T14:05:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4877-4878", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 539, 
+      "text": "On agreeing to the Sessions amendment (A011) Agreed to by recorded vote: 224 - 196 (Roll no. 539).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt590-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment strikes section 102 of the bill which prohibits the use of funds to be used to implement any competitive sourcing actions under OMB Circular A-76 or High Performing Organizations for the Army Corps of Engineers.", 
+  "house_number": 11, 
+  "introduced_at": "2011-07-11", 
+  "number": 590, 
+  "purpose": "An amendment to strike section 102 of the bill, which prohibits the use of funds to be used to implement any competitive sourcing actions under OMB Circular A-76 or High Performing Organizations for the Army Corps of Engineers.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-07-12T14:05:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-25T19:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3638-3639", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3638", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26T12:56:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3722-3723", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 355, 
+      "text": "On agreeing to the Flake amendment (A020) Agreed to by recorded vote: 246 - 172 (Roll no. 355).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt320-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1540-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1540
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment repeals the authorization for the National Drug Intelligence Center.", 
+  "house_number": 20, 
+  "introduced_at": "2011-05-25", 
+  "number": 320, 
+  "purpose": "An amendment numbered 40 printed in House Report 112-88 to repeal the establishment of the National Drug Intelligence Center.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-26T12:56:00-04:00", 
+  "updated_at": "2013-07-17T08:17:17-04:00"
+}

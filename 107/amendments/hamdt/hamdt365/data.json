@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-05T11:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6404-6405", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6404", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Wolf.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-05T11:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wolf amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt365-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2883-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2883
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment requires the CIA Director to implement, within 90 days of enactment, the recommended changes in counterterrorism policy contained in the report submitted to the President and Congress by the National Commission on Terrorism.", 
+  "house_number": 5, 
+  "introduced_at": "2001-10-05", 
+  "number": 365, 
+  "purpose": "An amendment numbered 9 printed in the Congressional Record to require the CIA Director to implement, within 90 days of enactment, the recommended changes in counterterorism policy contained in the report submitted to the president and Congress by the June 2000 National Commission on Terrorism.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Wolf, Frank R.", 
+    "state": "VA", 
+    "thomas_id": "01238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2001-10-05T11:50:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

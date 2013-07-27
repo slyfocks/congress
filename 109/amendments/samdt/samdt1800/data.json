@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-21", 
+      "references": [
+        {
+          "reference": "CR S10271-10272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S10271", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1800 proposed by Senator Bennett for Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1800 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1800-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2744-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2744
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-09-21", 
+  "number": 1800, 
+  "proposed_at": "2005-09-21", 
+  "purpose": "To express the sense of the Senate regarding public sector funding of agricultural research and development.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-09-21", 
+  "updated_at": "2013-07-17T08:16:11-04:00"
+}

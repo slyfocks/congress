@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-22T20:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7302-7311", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7302", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Hinchey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-23T14:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7354-7355", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7354", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 420, 
+      "text": "On agreeing to the Hinchey amendment (A012) Failed by recorded vote: 152 - 273 (Roll no. 420).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt297-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2799-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2799
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2003-07-22", 
+  "number": 297, 
+  "purpose": "An amendment to prohibit use of funds in the bill to prevent the States of Alaska, Arizona, California, Colorado, Hawaii, Maine, Maryland, Nevada, Oregon, or Washington from implementing State laws authorizing the use of medical marijuana in those States.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hinchey, Maurice D.", 
+    "state": "NY", 
+    "thomas_id": "00541", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-23T14:57:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

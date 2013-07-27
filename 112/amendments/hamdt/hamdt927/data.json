@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-07T15:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H544-545", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H544", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Dold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-07T15:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H545", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Dold amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt927-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3581-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 3581
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2012-02-07", 
+  "number": 927, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-388 to require the OMB Director to prepare all budgets submitted to the President according to both accrual-basis and cash-basis GAAP accounting standards.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Dold, Robert J.", 
+    "state": "IL", 
+    "thomas_id": "02013", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-02-07", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

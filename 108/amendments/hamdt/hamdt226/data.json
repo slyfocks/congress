@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-14T13:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6640-6648, H6676-6677", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6640", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Rehberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-14T18:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 354, 
+      "text": "On agreeing to the Rehberg amendment Failed by recorded vote: 193 - 208 (Roll no. 354).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt226-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2673-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 2673
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment hat sought to strike section 743 that prohibits funding to implement country of origin labeling for meat or meat products.", 
+  "house_number": 4, 
+  "introduced_at": "2003-07-14", 
+  "number": 226, 
+  "purpose": "An amendment to strike section 743 of the bill which prohibits use of funds for the implementation of Country of Origin Labeling for meat or meat products.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rehberg, Dennis R.", 
+    "state": "MT", 
+    "thomas_id": "01657", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2003-07-14T18:55:00-04:00", 
+  "updated_at": "2013-07-17T08:16:05-04:00"
+}

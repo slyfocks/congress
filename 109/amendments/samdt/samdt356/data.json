@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-12", 
+      "references": [
+        {
+          "reference": "CR S3470-3473", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3470", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 356 proposed by Senator Durbin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "references": [
+        {
+          "reference": "CR S3509, S3513, S3518-3520", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "references": [], 
+      "text": "Motion to table amendment SA 356 rejected in Senate by Yea-Nay Vote. 39 - 61. Record Vote Number: 91.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 356 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt356-109", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1268-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 1268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "109", 
+  "description": null, 
+  "introduced_at": "2005-04-12", 
+  "number": 356, 
+  "proposed_at": "2005-04-12", 
+  "purpose": "To ensure that a Federal employee who takes leave without pay in order to perform service as a member of the uniformed services or member of the National Guard shall continue to receive pay in an amount which when taken together with the pay and allowances such individual is receiving for such service, will be no less than the basic pay such individual would then be receiving if no interruption in employment had occurred.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2005-04-13", 
+  "updated_at": "2013-07-17T08:16:08-04:00"
+}

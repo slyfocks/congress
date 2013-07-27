@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-17T13:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2677-2679, H2688-2689", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2677", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Inslee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-17T15:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 149, 
+      "text": "On agreeing to the Inslee amendment (A003) Failed by recorded vote: 191 - 231 (Roll no. 149).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt826-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4200-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 4200
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 3, 
+  "introduced_at": "2006-05-17", 
+  "number": 826, 
+  "purpose": "An amendment numbered 3 printed in House Report 109-467 to exempt any provision in the underlying bill from being applicable to any inventoried roadless area within the National Forest System set forth in the maps contained in the Forest Service Roadless Area Conservation, Final Environmental Impact Statement, Volume 2, dated November 2000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Inslee, Jay", 
+    "state": "WA", 
+    "thomas_id": "00584", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-17T15:29:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}

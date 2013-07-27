@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-24T19:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3865-3866", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3865", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mrs. Biggert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-24T19:12:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Biggert amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt198-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2419-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2419
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 5, 
+  "introduced_at": "2005-05-24", 
+  "number": 198, 
+  "purpose": "An amendment to strike sections 311 and 312 from the bill.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Biggert, Judy", 
+    "state": "IL", 
+    "thomas_id": "01577", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2005-05-24", 
+  "updated_at": "2013-07-17T08:16:17-04:00"
+}

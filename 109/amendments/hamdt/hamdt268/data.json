@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-15T12:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4511-4512", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4511", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Ms. Moore (WI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-15T12:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Moore (WI) amendment (A021) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt268-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2862-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 2862
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment sought to provide $30 million in debenture guarantees and $5 million for operational assistance to fund grants under the New Market Venture Capital program.", 
+  "house_number": 21, 
+  "introduced_at": "2005-06-15", 
+  "number": 268, 
+  "purpose": "An amendment to designate $5 million in funds for operational assistance grants and $30 million for guarantees of debentures under the Small Business Investment Act.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "thomas_id": "01811", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-06-15T12:08:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

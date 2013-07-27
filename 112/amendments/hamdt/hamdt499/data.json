@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-23T15:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4489-4490", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4489", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23T16:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4500", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23T16:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 485, 
+      "text": "On agreeing to the Conyers amendment (A009) Agreed to by recorded vote: 223 - 198 (Roll no. 485).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt499-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment clarifies the deadline for filing patent term extension applications covering drug products that must be approved by the FDA.", 
+  "house_number": 9, 
+  "introduced_at": "2011-06-23", 
+  "number": 499, 
+  "purpose": "An amendment numbered 9 printed in Part B of House Report 112-111 to restore language for calculation of 60-day period for application of patent term extension that the managers amendment strikes.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-23T16:58:00-04:00", 
+  "updated_at": "2013-07-17T08:17:18-04:00"
+}

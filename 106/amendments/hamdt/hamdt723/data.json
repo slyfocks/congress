@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-18T13:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3350-3357, H3371-3372", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3350-3351", 
+          "type": " text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Moakley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-18T16:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 204, 
+      "text": "On agreeing to the Moakley amendment (A010) Failed by recorded vote: 204 - 214 (Roll no. 204).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt723-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4205-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4205
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to require the Army to close the United States Army School of the Americas.", 
+  "house_number": 10, 
+  "introduced_at": "2000-05-18", 
+  "number": 723, 
+  "purpose": "An amendment numbered 2 printed in House Report 106-624 to repeal the authority for the School of Americas and to authorize a Congressional task force to critically assess training of Latin American soldiers by the U.S. and report its findings to Congress.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Moakley, John Joseph", 
+    "state": "MA", 
+    "thomas_id": "00820", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-18T16:54:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

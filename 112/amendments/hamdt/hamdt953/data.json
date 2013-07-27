@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-28T14:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H989", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H989", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Foxx.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-28T14:30:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Foxx amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt953-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2117-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2117
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment prevents the Federal Government from reinterpreting a State's laws or regulations to require credit-hour programs to convert back to clock-hour programs.", 
+  "house_number": 2, 
+  "introduced_at": "2012-02-28", 
+  "number": 953, 
+  "purpose": "An amendment numbered 2 printed in House Report 112-404 to repeal a section of the credit hour regulation impacting clock hour programs.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-02-28T14:30:00-05:00", 
+  "updated_at": "2013-07-17T08:17:20-04:00"
+}

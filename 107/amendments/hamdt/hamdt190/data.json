@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-18T18:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4175-4177, H4196-4197", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4175", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-18T21:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 245, 
+      "text": "On agreeing to the Paul amendment (A024) Failed by recorded vote: 62 - 364 (Roll no. 245).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt190-107", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-107", 
+    "bill_type": "hr", 
+    "congress": 107, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "107", 
+  "description": "Amendment sought to prohibit use of funds for any U.S. contribution to the UN or any affiliated agency of the UN.", 
+  "house_number": 24, 
+  "introduced_at": "2001-07-18", 
+  "number": 190, 
+  "purpose": "An amendment to prohibit use of funds for any U.S. contribution to the UN or any affiliated agency of the UN.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2001-07-18T21:26:00-04:00", 
+  "updated_at": "2013-07-17T08:15:54-04:00"
+}

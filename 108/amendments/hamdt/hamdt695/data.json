@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-15T13:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5846-5851, H5859", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5846", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Lantos.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-15T16:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 381, 
+      "text": "On agreeing to the Lantos amendment (A004) Failed by recorded vote: 131 - 287 (Roll no. 381).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt695-108", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4818-108", 
+    "bill_type": "hr", 
+    "congress": 108, 
+    "number": 4818
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "108", 
+  "description": "Amendment sought to increase funding for economic assistance to Egypt.", 
+  "house_number": 4, 
+  "introduced_at": "2004-07-15", 
+  "number": 695, 
+  "purpose": "An amendment numbered 13 printed in the Congressional Record to transfer $570 million in military assistance for Egypt to economic aid for Egypt.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Lantos, Tom", 
+    "state": "CA", 
+    "thomas_id": "00663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2004-07-15T16:16:00-04:00", 
+  "updated_at": "2013-07-17T08:16:06-04:00"
+}

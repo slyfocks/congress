@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-26T16:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6497-6506", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6497-6499", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) in the nature of a substitute offered by Mr. Kind.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26T17:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 424, 
+      "text": "On agreeing to the Kind amendment (A001) Failed by the Yeas and Nays: 197 - 230 (Roll no. 424).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt514-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr525-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 525
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": "Amendment in the nature of a substitute sought to replace the bill with the text of the \"Small Business Affordable Health Insurance Act of 2005\".", 
+  "house_number": 1, 
+  "introduced_at": "2005-07-26", 
+  "number": 514, 
+  "purpose": "An amendment in nature of a substitute to require the Department of Labor to establish a Small Employer Health Benefits Plan similar to the Federal Employees Health Benefits Plan. Requires the Secretary to widely disseminate information about SEHB through the media, internet, public service announcements, and other employer and employee directed communications. Employers with fewer than 100 employees during the previous calendar year shall be eligible to apply for coverage under SEHB.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2005-07-26T17:52:00-04:00", 
+  "updated_at": "2013-07-17T08:16:18-04:00"
+}

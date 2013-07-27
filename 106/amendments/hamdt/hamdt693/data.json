@@ -1,0 +1,67 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-10T23:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2891-2894", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2891", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Hastings (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-11T10:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2910-2911", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2910", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 169, 
+      "text": "On agreeing to the Hastings (WA) amendment (A012) Failed by recorded vote: 169 - 256 (Roll no. 169).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt693-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr701-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 701
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": "Amendment sought to require that 50 percent of the federal share of the Land and Water Conservation Fund be used to maintain and manage lands already in Federal ownership.", 
+  "house_number": 12, 
+  "introduced_at": "2000-05-10", 
+  "number": 693, 
+  "purpose": "An amendment numbered 12 printed in House Report 106-612 require that 50% of the federal share of the funding for the Land and Water Conservation Fund provided in the bill be used to maintain and manage lands already in federal ownership.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hastings, Doc", 
+    "state": "WA", 
+    "thomas_id": "00512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2000-05-11T10:57:00-04:00", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

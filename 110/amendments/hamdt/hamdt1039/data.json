@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-05-07T21:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3166-3167, H3168-3169", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3166-3167", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-07T21:40:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 293, 
+      "text": "On agreeing to the Waters amendment (A001) Agreed to by recorded vote: 256 - 157 (Roll no. 293).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1039-110", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5818-110", 
+    "bill_type": "hr", 
+    "congress": 110, 
+    "number": 5818
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "110", 
+  "description": "Amendment provides for direct allocations to qualified metropolitan cities and qualified urban counties; makes the definition of operating expenses consistent with other HUD programs; and caps purchase price under the loan program at the current appraised value of the foreclosed property.", 
+  "house_number": 1, 
+  "introduced_at": "2008-05-07", 
+  "number": 1039, 
+  "purpose": "An amendment numbered 1 printed in House Report 110-621 to provide for direct allocations to qualified metropolitan cities and qualified urban counties, makes the definition of operating expenses consistent with other HUD programs, and caps purchase price under the loan program at the current appraised value of the foreclosed property.", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2008-05-07T21:40:00-04:00", 
+  "updated_at": "2013-07-17T08:16:33-04:00"
+}

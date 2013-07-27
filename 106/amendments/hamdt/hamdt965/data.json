@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-10T18:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5701", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5701", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Royce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-10T18:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Skeen raised a point of order against the Royce amendment (A026). Mr. Skeen stated that the amendment numbered 52 printed in the Congressional Record sought to strike a portion of the bill already stricken and as such, was not in order. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt965-106", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4461-106", 
+    "bill_type": "hr", 
+    "congress": 106, 
+    "number": 4461
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "106", 
+  "description": null, 
+  "house_number": 26, 
+  "introduced_at": "2000-07-10", 
+  "number": 965, 
+  "purpose": "An amendment numbered 52 printed in the Congressional Record.", 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2000-07-10", 
+  "updated_at": "2013-07-17T08:15:43-04:00"
+}

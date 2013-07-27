@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-23T09:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6423-6425, H6438-6439", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6423", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mrs. Capps.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-23T12:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 731, 
+      "text": "On agreeing to the Capps amendment (A004) Failed by recorded vote: 195 - 221 (Roll no. 731).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt793-112", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2401-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2401
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "112", 
+  "description": "Amendment sought to require the committee to include in its analyses an estimate of the incidence of birth and developmental defects and infant mortality that would result from a delay to covered rules and covered actions under the bill.", 
+  "house_number": 4, 
+  "introduced_at": "2011-09-23", 
+  "number": 793, 
+  "purpose": "An amendment numbered 4 printed in House Report 112-213 to require the committee to include in its analyses an estimate of the incidence of birth and developmental defects and infant mortality that would result from a delay to covered rules and covered actions under the bill.", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-09-23T12:09:00-04:00", 
+  "updated_at": "2013-07-17T08:17:19-04:00"
+}

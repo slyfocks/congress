@@ -1,0 +1,55 @@
+<bill session="108" type="hc" number="339" updated="2013-07-14T19:03:08-04:00">
+  <state datetime="2003-11-25T15:23:00-05:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="2003-11-25T15:23:00-05:00"/>
+  </status>
+  <introduced datetime="2003-11-21"/>
+  <titles>
+    <title as="introduced" type="official">Providing for the sine die adjournment of the first session of the One Hundred Eighth Congress.</title>
+  </titles>
+  <sponsor id="400104"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2003-11-22T06:22:00-05:00">
+      <text>Considered as privileged matter.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2003-11-22T06:22:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2003-11-22T06:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2003-11-22">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2003-11-25">
+      <text>Measure laid before Senate.</text>
+      <reference ref="CR S15927" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2003-11-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S15927" label="text"/>
+    </vote>
+    <action datetime="2003-11-25T15:23:00-05:00">
+      <text>PRIVILEGED MESSAGE FROM THE SENATE - The Chair laid before the House a message from the Senate on H. Con. Res. 339.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2003-11-25T15:23:00-05:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+      <reference ref="CR H12316" label="consideration"/>
+    </vote>
+    <action datetime="2003-11-25T15:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2217"/>
+  </amendments>
+  <summary>11/25/2003--Passed Senate amended.
+Provides that when the House of Representatives adjourns on any legislative day from November 25, 2003, and the Senate recesses or adjourns at the close of business on any day from November 24, 2003, through the remainder of the first session of the 108th Congress, they stand adjourned sine die, or stand recessed or adjourned until such day and time as may be specified by the respective Majority Leader or his designee.</summary>
+</bill>

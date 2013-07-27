@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-24T19:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3198-3199, H3212", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3198", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Hefley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24T22:09:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 203, 
+      "text": "On agreeing to the Hefley amendment (A018) Failed by recorded vote: 87 - 338 (Roll no. 203).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt929-109", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5427-109", 
+    "bill_type": "hr", 
+    "congress": 109, 
+    "number": 5427
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "109", 
+  "description": null, 
+  "house_number": 18, 
+  "introduced_at": "2006-05-24", 
+  "number": 929, 
+  "purpose": "An amendment numbered 2 printed in the Congressional Record to reduce by 1 percent each amount appropriated or otherwise made available by the Act that is not required to be appropriated or otherwise made available by a provision of law.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2006-05-24T22:09:00-04:00", 
+  "updated_at": "2013-07-17T08:16:19-04:00"
+}
