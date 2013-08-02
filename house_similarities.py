@@ -3,6 +3,7 @@ import simplejson as json
 import fnmatch
 import os
 import numpy as np
+from unidecode import unidecode
 
 
 #returns list of bills and committees for any congress number from 106 to 113
@@ -40,13 +41,21 @@ def vote_tally(congress_num):
             continue
         #silly data uses two synonymous pairs for Yes and No...
         if 'No' in data['votes']:
-            nays = [member['display_name'] for member in data['votes']['No']]
-            yeas = [member['display_name'] for member in data['votes']['Aye']]
+            #some names that had home state didn't have them other times. be gone, home state!
+            #also, a couple of names had inconsistent accenting of letters. be gone, accented e!
+            nays = [unidecode(member['display_name'].split(' ')[0]) + ' ' + member['party']
+                    for member in data['votes']['No']]
+            yeas = [unidecode(member['display_name'].split(' ')[0]) + ' ' + member['party']
+                    for member in data['votes']['Aye']]
         else:
-            nays = [member['display_name'] for member in data['votes']['Nay']]
-            yeas = [member['display_name'] for member in data['votes']['Yea']]
-        not_voting = [member['display_name'] for member in data['votes']['Not Voting']]
-        presents = [member['display_name'] for member in data['votes']['Present']]
+            nays = [unidecode(member['display_name'].split(' ')[0]) + ' ' + member['party']
+                    for member in data['votes']['Nay']]
+            yeas = [unidecode(member['display_name'].split(' ')[0]) + ' ' + member['party']
+                    for member in data['votes']['Yea']]
+        not_voting = [unidecode(member['display_name'].split(' ')[0]) + ' ' + member['party']
+                      for member in data['votes']['Not Voting']]
+        presents = [unidecode(member['display_name'].split(' ')[0]) + ' ' + member['party']
+                    for member in data['votes']['Present']]
         for member in nays:
             member_votes.setdefault(member, []).append(-1)
         for member in yeas:
@@ -55,7 +64,9 @@ def vote_tally(congress_num):
             member_votes.setdefault(member, []).append(0)
         #for committee in bill_committees(congress_num)[bill_id]:
             #committee_votes.update({committee: member_votes})
-    return member_votes
+    #a handful of trivial "members" of congress had only "0" values, so we remove them to avoid ValueError
+    nonzero_member_votes = {key: value for key, value in member_votes.items() if np.vdot(value, value) != 0}
+    return nonzero_member_votes
 
 
 def cos_similarity(x, y):
@@ -85,14 +96,17 @@ def votes(congress_num):
 
 def make_similarity_array(congress_num):
     vote_list = votes(congress_num)
-    arr = np.zeros((435, 435))
-    for i in range(435):
-        for j in range(435):
+    num_of_congressmen = len(members(congress_num))
+    arr = np.zeros((num_of_congressmen, num_of_congressmen))
+    for i in range(num_of_congressmen):
+        for j in range(num_of_congressmen):
             arr[i][j] = cos_similarity(vote_list[i], vote_list[j])
     return arr
+
+
 def main():
     #set congress_num variable to any integer in [106,113]
-    CONGRESS_NUM = 112
+    CONGRESS_NUM = 111
     np.savetxt('array' + str(CONGRESS_NUM) + '.txt', make_similarity_array(CONGRESS_NUM))
 
 if __name__ == "__main__":
