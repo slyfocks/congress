@@ -1,0 +1,134 @@
+<bill session="105" type="h" number="2920" updated="2013-07-14T18:50:38-04:00">
+  <state datetime="1998-07-30">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="1998-07-30"/>
+  </status>
+  <introduced datetime="1997-11-07"/>
+  <titles>
+    <title as="passed senate" type="short">Border Improvement and Immigration Act of 1998</title>
+    <title as="introduced" type="official">To amend the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 to modify the requirements for implementation of an entry-exit control system.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors>
+    <cosponsor id="400007" joined="1997-11-07"/>
+    <cosponsor id="400525" joined="1997-11-07"/>
+    <cosponsor id="400058" joined="1997-11-07"/>
+    <cosponsor id="400575" joined="1997-11-07"/>
+    <cosponsor id="300030" joined="1997-11-07"/>
+    <cosponsor id="400171" joined="1997-11-07"/>
+    <cosponsor id="400587" joined="1997-11-07"/>
+    <cosponsor id="400188" joined="1997-11-08"/>
+    <cosponsor id="400537" joined="1997-11-07"/>
+    <cosponsor id="400264" joined="1997-11-07"/>
+    <cosponsor id="400598" joined="1997-11-07"/>
+    <cosponsor id="400292" joined="1997-11-07"/>
+    <cosponsor id="400299" joined="1997-11-07"/>
+    <cosponsor id="408553" joined="1997-11-07"/>
+    <cosponsor id="400323" joined="1997-11-07"/>
+    <cosponsor id="400329" joined="1997-11-07"/>
+    <cosponsor id="400381" joined="1997-11-07"/>
+    <cosponsor id="400414" joined="1997-11-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-11-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-11-08">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-11-09T23:33:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1997-11-09T23:33:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9932-9937" label="consideration"/>
+    </action>
+    <action datetime="1997-11-09T23:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-11-09T23:50:00-05:00">
+      <text>DEBATE - The House resumed debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-11-10T00:55:00-05:00" how="roll" result="pass" roll="627" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 325 - 90 (Roll no. 627).</text>
+      <reference ref="CR H10571-10574" label="consideration"/>
+    </vote>
+    <action datetime="1997-11-10T00:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-11-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1997-11-13">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1998-05-15">
+      <text>Referred to Subcommittee on Immigration.</text>
+      <committee name="Committee on Judiciary"/>
+    </action>
+    <action datetime="1998-07-30">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S9510" label="consideration"/>
+    </action>
+    <action datetime="1998-07-30">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 1360 amended.</text>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="1998-07-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="1998-07-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="supersedes" session="105" type="s" number="1360"/>
+    <bill relation="included-in" session="105" type="s" number="1360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative fees"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Aliens"/>
+    <term name="Authorization"/>
+    <term name="Border patrols"/>
+    <term name="Boundaries"/>
+    <term name="Canada"/>
+    <term name="Canadians"/>
+    <term name="Commerce"/>
+    <term name="Computers and government"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Customs administration"/>
+    <term name="Data banks"/>
+    <term name="Department of Justice"/>
+    <term name="Department of the Treasury"/>
+    <term name="Economics and public finance"/>
+    <term name="Families"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Fees"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Identification devices"/>
+    <term name="International affairs"/>
+    <term name="Latin America"/>
+    <term name="Law"/>
+    <term name="Mexicans"/>
+    <term name="Mexico"/>
+    <term name="Science, technology, communications"/>
+    <term name="Technological innovations"/>
+    <term name="Tourism"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/1998--Passed Senate amended.
+Border Improvement and Immigration Act of 1998 - Amends the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 with respect to the automated entry-exit control system to exempt from required recordkeeping: (1) land border crossings; and (2) permanent resident and certain other aliens. (Sec. 3) Requires the Attorney General to report: (1) on the feasibility of implementing an automated entry-exit control system that would include land border arrivals and departures; and (2) annually on the development status of the automated entry-exit control system, and on visa overstays identified through such system. Requires integration of overstay information into Department of State and Immigration and Naturalization Service (INS) databases. (Sec. 5) Authorizes the Secretary of State or the Attorney General to waive all or part of any fee for issuance of a combined border crossing identification card and nonimmigrant tourist or business visa where the application is made in Mexico on behalf of a Mexican national who is less than 15 years old. States that such visa shall expire on the earlier of: (1) ten years after issuance; or (2) when the child becomes 15 years old. Authorizes a parent or guardian to request a regular visa with a fee which shall expire as normally provided for such tourist and business visas. States that related fees may be set at a level that provides full recovery of the costs of providing machine readable visas and border crossing cards. Modifies the border crossing restriction implementation schedule. Requires tourist and business visitor visas to continue to be processed at least until October 1, 2000, in the Mexican border cities of Nogales, Nuevo Laredo, Ciudad Acuna, Piedras Negras, Agua Prieta, and Reynosa. (Sec. 6) Authorizes appropriations for INS and United States Customs Service border control and enforcement activities. Sets forth specified set-asides for FY 1999 and subsequent fiscal years. Authorizes: (1) use of equipment funds for new technologies; and (2) transfer up to ten percent of FY 1999 set-asides for other equipment uses. Sets aside specified FY 1999 and 2000 funds for peak hours and investigative resource enhancement. Provides for increased numbers of full-time Immigration and Naturalization and Customs inspectors at U.S. land borders, with at least half of such inspectors to be assigned to the northern border.</summary>
+</bill>

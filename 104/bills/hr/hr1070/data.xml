@@ -1,0 +1,89 @@
+<bill session="104" type="h" number="1070" updated="2013-07-14T18:47:25-04:00">
+  <state datetime="1995-06-15T15:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-06-15T15:40:00-04:00"/>
+  </status>
+  <introduced datetime="1995-02-28"/>
+  <titles>
+    <title as="introduced" type="official">To designate the reservoir created by Trinity Dam in the Central Valley project, California, as "Trinity Lake".</title>
+  </titles>
+  <sponsor id="400176"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-02-28">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1995-03-02">
+      <text>Referred to the Subcommittee on Water and Power Resources.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-03-02">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-05-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-05-24">
+      <text>Subcommittee on Water and Power Resources Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-05-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-05-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1995-06-07T13:13:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 104-134.</text>
+    </action>
+    <calendar datetime="1995-06-07T13:13:00-04:00" calendar="House" number="55">
+      <text>Placed on the House Calendar, Calendar No. 55.</text>
+    </calendar>
+    <action datetime="1995-06-15T15:37:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6022" label="consideration"/>
+    </action>
+    <action datetime="1995-06-15T15:37:00-04:00">
+      <text>Mr. Dooley asked unanimous consent consider.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-06-15T15:40:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1995-06-15T15:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-06-20">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1995-06-21">
+      <text>Referred to Subcommittee on Forests and Public Lands.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power Resources" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Forests and Public Land Management" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="1231"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Central Valley Reclamation Project (California)"/>
+    <term name="Commemorations"/>
+    <term name="Infrastructure"/>
+    <term name="Lakes"/>
+    <term name="Names"/>
+    <term name="Reservoirs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/1995--Introduced.
+Redesignates Clair Engle Lake, the reservoir created by Trinity Dam in the Central Valley project, California, as Trinity Lake.</summary>
+</bill>

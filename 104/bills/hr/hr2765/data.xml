@@ -1,0 +1,53 @@
+<bill session="104" type="h" number="2765" updated="2013-07-14T18:48:03-04:00">
+  <state datetime="1996-05-21T14:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-05-21T14:02:00-04:00"/>
+  </status>
+  <introduced datetime="1995-12-12"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Rocco A. Trecosta.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-12-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-12-13">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-05-01T17:35:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 104-547.</text>
+    </action>
+    <calendar state="REPORTED" datetime="1996-05-01T17:36:00-04:00" calendar="Private" number="5">
+      <text>Placed on the Private Calendar, Calendar No. 5.</text>
+    </calendar>
+    <action datetime="1996-05-21T14:02:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-05-21T14:02:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1996-05-21T14:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-05-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/1995--Introduced.
+Directs the Secretary of Defense to pay a specified amount to a named individual in full satisfaction of all claims against the United States for back pay in connection with his service as a teacher in the Department of Defense Overseas Dependent Schools.</summary>
+</bill>

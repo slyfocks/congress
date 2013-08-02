@@ -1,0 +1,52 @@
+<bill session="105" type="h" number="4519" updated="2013-07-14T18:51:05-04:00">
+  <state datetime="1998-10-14T11:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-10-14T11:25:00-04:00"/>
+  </status>
+  <introduced datetime="1998-08-06"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the President to consent to third party transfer of the ex-USS Bowman County to the USS LST Ship Memorial, Inc.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1998-08-06">
+      <text>Referred to the House Committee on National Security.</text>
+    </action>
+    <action datetime="1998-09-15">
+      <text>Referred to the Subcommittee on Military Procurement.</text>
+      <committee name="House Committee on National Security"/>
+    </action>
+    <action datetime="1998-10-14T11:18:00-04:00">
+      <text>Mr. Hunter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-10-14T11:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10848-10849" label="consideration"/>
+    </action>
+    <action datetime="1998-10-14T11:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-14T11:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-10-14T11:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House National Security" activity="Referral"/>
+    <committee activity="Referral" code="HSAS20" subcommittee="Military Procurement" name="House National Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Ships"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1998--Introduced.
+Authorizes the President to consent to the retransfer by the Government of Greece of HS Rodos (which is the ex-USS Bowman County, LST 391) to the USS LST Ship Memorial, Inc., if the Memorial: (1) uses the vessel for public, nonprofit, museum-related purposes; and (2) demonstrates financial capability to comply with applicable law, including requirements related to monitoring and mitigating potential environmental hazards associated with aging vessels.</summary>
+</bill>

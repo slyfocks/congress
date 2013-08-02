@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-06-19T16:40:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A001) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-06-19T17:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 214, 
+      "text": "On agreeing to the Sanders amendment (A001) Failed by recorded vote: 89 - 332 (Roll no. 214).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt184-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1119-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1119
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "1997-06-19", 
+  "number": 184, 
+  "purpose": "An amendment to reduce by 5% the total amount authorized in the bill for the Department of Defense, Military Construction, and the Department of Energy National Security programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-06-19T17:36:00-04:00", 
+  "updated_at": "2013-07-17T07:51:36-04:00"
+}

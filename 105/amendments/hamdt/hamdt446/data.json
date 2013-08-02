@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-29T20:38:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. Gibbons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-30T16:31:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 554, 
+      "text": "On agreeing to the Gibbons amendment (A008) Failed by recorded vote: 67 - 357 (Roll no. 554).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt446-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1270-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1270
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to delete the current 1 mill per kilowatt hour fee and permit the Secretary of Energy to assess a fee on existing nuclear energy plants to reflect the amount of funding needed in a given year to cover the cost of operations.", 
+  "house_number": 8, 
+  "introduced_at": "1997-10-29", 
+  "number": 446, 
+  "purpose": "An amendment to eliminate the cap on the user fee that may be collected. Under the bill, the limit is 1.5 mill or 15 hundredths of a cent per kilowatt hour.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Gibbons, Jim", 
+    "state": "NV", 
+    "thomas_id": "01485", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-10-30T16:31:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

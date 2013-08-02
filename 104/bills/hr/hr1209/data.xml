@@ -1,0 +1,67 @@
+<bill session="104" type="h" number="1209" updated="2013-07-14T18:47:28-04:00">
+  <state datetime="1995-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1995-03-10"/>
+  </status>
+  <introduced datetime="1995-03-10"/>
+  <titles>
+    <title as="introduced" type="short">Great Lakes Federal Effectiveness Act</title>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act to coordinate and promote Great Lakes activities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400329"/>
+  <cosponsors>
+    <cosponsor id="405560" joined="1996-05-07"/>
+    <cosponsor id="400235" joined="1995-03-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-03-10">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-03-10">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="1995-03-10">
+      <text>Referred to House Science</text>
+    </action>
+    <action datetime="1995-03-16">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Science"/>
+    </action>
+    <action datetime="1995-03-23">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSSY" name="House Science" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY18" subcommittee="Energy and Environment" name="House Science"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="541"/>
+    <bill relation="unknown" session="104" type="s" number="541"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Data banks"/>
+    <term name="Department of Commerce"/>
+    <term name="Ecological research"/>
+    <term name="Ecosystem management"/>
+    <term name="Environmental research"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Freshwater ecology"/>
+    <term name="Government operations and politics"/>
+    <term name="Great Lakes"/>
+    <term name="International affairs"/>
+    <term name="International environmental cooperation"/>
+    <term name="Science, technology, communications"/>
+    <term name="Water pollution control"/>
+    <term name="Water quality"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1995--Introduced.
+Great Lakes Federal Effectiveness Act - Amends the Federal Water Pollution Control Act to replace provisions regarding the Great Lakes Research Office of the National Oceanic and Atmospheric Administration with those establishing an interagency Great Lakes Research Council. Directs the Council to: (1) promote the coordination of Federal Great Lakes research activities to avoid duplication and ensure effectiveness in achieving protection of the Great Lakes ecosystem through the Great Lakes Water Quality Agreement; (2) prepare a document that assesses research activities and Federal expertise in such activities needed to fulfill Agreement goals; (3) identify topics for and participate in workshops and conferences on Great Lakes research issues; (4) make recommendations for the uniform collection of data for enhancing research and management protocols relating to the Great Lakes ecosystem; (5) advise in improving the integration of multimedia data concerning the ecosystem and in efforts to establish a multimedia data base for the ecosystem; and (6) ensure that findings and information regarding such research are disseminated in a timely manner.</summary>
+</bill>

@@ -1,0 +1,95 @@
+<bill session="105" type="hc" number="98" updated="2013-07-14T18:51:14-04:00">
+  <state datetime="1997-07-30">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1997-07-30"/>
+  </status>
+  <introduced datetime="1997-06-12"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol grounds for the SAFE KIDS Buckle Up Car Seat Safety Check.</title>
+  </titles>
+  <sponsor id="400524"/>
+  <cosponsors>
+    <cosponsor id="400121" joined="1997-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1997-06-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1206"/>
+    </action>
+    <action state="REFERRED" datetime="1997-06-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1997-06-26">
+      <text>Referred to the Subcommittee on Public Buildings and Economic Development.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1997-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1997-07-22">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1997-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-07-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1997-07-24T19:15:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 105-200.</text>
+    </action>
+    <calendar datetime="1997-07-24T19:16:00-04:00" calendar="House" number="68">
+      <text>Placed on the House Calendar, Calendar No. 68.</text>
+    </calendar>
+    <action datetime="1997-07-28T14:51:00-04:00">
+      <text>Mr. Kim moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1997-07-28T14:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5838-5840" label="consideration"/>
+    </action>
+    <action datetime="1997-07-28T14:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-07-28T14:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1997-07-28T14:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="1997-07-29" calendar="Senate Legislative" under="General Orders" number="132">
+      <text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.</text>
+    </calendar>
+    <vote state="PASSED:CONCURRENTRES" datetime="1997-07-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8383" label="consideration"/>
+    </vote>
+    <action datetime="1997-07-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Public Buildings and Economic Development" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="sc" number="33"/>
+    <bill relation="unknown" session="105" type="sc" number="33"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Child safety"/>
+    <term name="Congress"/>
+    <term name="Families"/>
+    <term name="Seat belts"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/1997--Introduced.
+Permits the National SAFE KIDS Campaign to sponsor a public event, the SAFE KIDS Buckle Up Car Seat Safety Check, on the Capitol grounds on August 27 and 28, 1997.</summary>
+</bill>

@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-11-30T12:12:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mrs. Collins (IL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-11-30T13:08:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 830, 
+      "text": "On agreeing to the Collins (IL) amendment (A004) Failed by recorded vote: 164 - 239 (Roll no. 830).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt913-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1788-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1788
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to delete language that places a limit of $250,000 for non-economic damages awarded to victims of passenger rail accidents.", 
+  "house_number": 4, 
+  "introduced_at": "1995-11-30", 
+  "number": 913, 
+  "purpose": "An amendment to delete the provisions of the bill which would place a limit of $250,000 for non-economic damages awarded to victims of passenger rail accidents.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Collins, Cardiss", 
+    "state": "IL", 
+    "thomas_id": "00220", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-11-30T13:08:00-05:00", 
+  "updated_at": "2013-07-17T07:50:52-04:00"
+}

@@ -1,0 +1,148 @@
+<bill session="104" type="h" number="729" updated="2013-07-14T18:47:15-04:00">
+  <state datetime="1995-02-08T20:43:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-02-08T20:43:00-05:00"/>
+  </status>
+  <introduced datetime="1995-01-30"/>
+  <titles>
+    <title type="popular">Anti-Crime bill</title>
+    <title type="popular">Contract with America bill</title>
+    <title as="introduced" type="short">Effective Death Penalty Act of 1995</title>
+    <title as="passed house" type="short">Effective Death Penalty Act of 1995</title>
+    <title as="introduced" type="official">To control crime by a more effective death penalty.</title>
+  </titles>
+  <sponsor id="400596"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1995-02-06"/>
+    <cosponsor id="400549" joined="1995-02-06"/>
+    <cosponsor id="400123" joined="1995-02-06"/>
+    <cosponsor id="400348" joined="1995-02-07"/>
+    <cosponsor id="400429" joined="1995-02-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-30">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-02-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-02-01">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 10.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1995-02-08T12:04:00-05:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 104-23.</text>
+    </action>
+    <calendar datetime="1995-02-08T12:05:00-05:00" calendar="Union" number="10">
+      <text>Placed on the Union Calendar, Calendar No. 10.</text>
+    </calendar>
+    <action datetime="1995-02-08T15:40:00-05:00">
+      <text>Consideration initiated previous special order.</text>
+    </action>
+    <action datetime="1995-02-08T15:41:00-05:00">
+      <text>Considered previous special order.</text>
+      <reference ref="CR H1400-1434" label="consideration"/>
+    </action>
+    <action datetime="1995-02-08T15:41:00-05:00">
+      <text>The House resolved into Committee of the Whole on the state of the Union pursuant to the special order of Tuesday, February 7, 1995.</text>
+    </action>
+    <action datetime="1995-02-08T15:42:00-05:00">
+      <text>The Speaker designated the Honorable David Dreier to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="1995-02-08T15:42:00-05:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text>
+    </action>
+    <action datetime="1995-02-08T18:34:00-05:00">
+      <text>DEBATE - By unanimous consent, debate on the Cox amendment and all amendments thereto will be limited to 20 minutes equally divided and controlled.</text>
+    </action>
+    <action datetime="1995-02-08T19:23:00-05:00">
+      <text>LIMITATION ON DEBATE - Mr. Fields asked unanimous consent that the time for debate on the Fields amendment, and all amendments thereto, be limited to not to exceed 10 minutes. Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-02-08T19:24:00-05:00">
+      <text>DEBATE - The Committee of the Whole proceeded with 10 minutes of debate on the Fields amendment.</text>
+    </action>
+    <action datetime="1995-02-08T19:53:00-05:00">
+      <text>LIMITAION ON DEBATE - Mr. Smith asked unanimous consent that the time for debate on the Smith amendment, and all amendments thereto, be limited to not to exceed 10 minutes. Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-02-08T19:55:00-05:00">
+      <text>DEBATE - The Committee of the Whole proceeded with ten minutes of debate.</text>
+    </action>
+    <action datetime="1995-02-08T20:23:00-05:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 729.</text>
+    </action>
+    <action datetime="1995-02-08T20:24:00-05:00">
+      <text>The previous question was ordered pursuant to the order of the House of February 7, 1995</text>
+    </action>
+    <action datetime="1995-02-08T20:24:00-05:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-02-08T20:43:00-05:00" how="roll" result="pass" roll="109" type="vote" where="h">
+      <text>On passage Passed by recorded vote: 297 - 132 (Roll no. 109).</text>
+    </vote>
+    <action datetime="1995-02-08T20:43:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-02-08T20:43:00-05:00">
+      <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 665.</text>
+    </action>
+    <action datetime="1995-02-08T20:43:00-05:00">
+      <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 729.</text>
+    </action>
+    <action datetime="1995-02-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1996-04-18">
+      <text>For Further Action See S.735.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="s" number="735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Criminal procedure"/>
+    <term name="Appellate courts"/>
+    <term name="Appellate procedure"/>
+    <term name="Capital punishment"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Constitutional law"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Economics and public finance"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Government operations and politics"/>
+    <term name="Habeas corpus"/>
+    <term name="Injunctions"/>
+    <term name="Juries"/>
+    <term name="Jurisdiction"/>
+    <term name="Law"/>
+    <term name="Lawyers"/>
+    <term name="Legal fees"/>
+    <term name="Limitation of actions"/>
+    <term name="Prisoners"/>
+    <term name="Prosecution"/>
+    <term name="Right to counsel"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="Standards"/>
+    <term name="State courts"/>
+    <term name="Supreme Court"/>
+    <term name="Supreme Court decisions"/>
+  </subjects>
+  <amendments>
+    <amendment number="h107"/>
+    <amendment number="h108"/>
+    <amendment number="h109"/>
+    <amendment number="h110"/>
+    <amendment number="h111"/>
+    <amendment number="h112"/>
+  </amendments>
+  <summary>2/8/1995--Passed House amended.
+TABLE OF CONTENTS: Title I: Effective Death Penalty Subtitle A: Post Conviction Petitions: General Habeas Corpus Reform Subtitle B: Special Procedures for Collateral Proceedings in Capital Cases Subtitle C: Funding for Litigation of Federal Habeas Corpus Petitions in Capital Cases Title II: Federal Death Penalty Procedures Reform Effective Death Penalty Act of 1995 - Title I: Effective Death Penalty - Subtitle A: Post Conviction Petitions: General Habeas Corpus Reform - Amends the Federal judicial code to establish a one- year statute of limitations for habeas corpus actions brought by State prisoners, running from the latest of the time at which: (1) the judgment became final by the conclusion of direct review or the expiration of the time for seeking such review; (2) the impediment to filing an application created by State action in violation of the Constitution or laws of the United States is removed, where the applicant was prevented from filing by such State action; (3) the Federal right asserted was initially recognized by the Supreme Court, where the right has been newly recognized by the Court and is retroactively applicable; and (4) the factual predicate of the claim or claims presented could have been discovered through the exercise of reasonable diligence. Specifies that time that passes during the pendency of a properly filed application for State review with respect to the pertinent judgment or claim shall not be counted toward any period of limitation. (Sec. 102) Vests authority to issue certificates of probable cause for appeal of habeas corpus orders exclusively in the courts of appeals. Permits a certificate of probable cause to issue only if the petitioner has made a substantial showing of the denial of a Federal right. Specifies that such certificate must indicate which specific issue or issues satisfy this standard. (Sec. 104) Permits the denial of a habeas corpus petition on the merits notwithstanding the failure of the applicant to exhaust State court remedies. Specifies that a State shall not be deemed to have waived the exhaustion requirement or estopped from reliance upon the requirement unless through its counsel it expressly waives the requirement. Prohibits an application for a writ of habeas corpus on behalf of a person in custody pursuant to the judgment of a State court from being granted with respect to any claim that was decided on the merits in State proceedings unless the adjudication of the claim resulted in a decision that was based on an arbitrary or unreasonable: (1) interpretation of clearly established Federal law as articulated in U.S. Supreme Court decisions; (2) application to the facts of clearly established Federal law as articulated in such decisions; or (3) determination of the facts in light of the evidence presented in the State proceeding. (Sec. 105) Imposes a two-year period of limitation for filing for collateral relief by Federal prisoners, running from the latest of the time at which: (1) the judgment of conviction becomes final; (2) the impediment to making a motion created by governmental action in violation of the Constitution or laws of the United States is removed, where the movant was prevented from making a motion by such governmental action; (3) the right asserted was initially recognized by the Supreme Court, where the right has been newly recognized by the Court and is retroactively applicable; and (4) the factual predicate of the claim presented could have been discovered through the exercise of reasonable diligence. Subtitle B: Special Procedures for Collateral Proceedings in Capital Cases - Amends the Federal judicial code to set forth special habeas corpus procedures in capital cases, including provisions regarding: (1) the appointment of counsel; (2) stays of execution, limits on stays, and successive petitions; and (3) time requirements and tolling rules. Directs the district court, whenever a State prisoner under capital sentence files a petition for habeas corpus relief to which this subtitle applies, to consider only claims that have been raised and decided on the merits in the State courts, unless the failure to raise the claim properly is: (1) the result of State action in violation of the Constitution or laws of the United States; (2) the result of the Supreme Court recognition of a new Federal right that is retroactively applicable; or (3) based on a factual predicate that could not have been discovered through the exercise of reasonable diligence in time to present the claim for State or Federal post- conviction review. Prohibits an appeal from being taken to the court of appeals from the final order of a district court denying relief in a habeas corpus proceeding that is subject to this subtitle unless a circuit justice or judge issues a certificate of probable cause. Specifies that such a certificate may only be issued if the petitioner has made a substantial showing of the denial of a Federal right and must indicate which specific issue or issues satisfy this standard. Sets forth provisions regarding limitation periods for determining petitions. Requires the Administrative Office of the U.S. Courts to report annually to the Congress on court compliance with the time limits established by this Act. Subtitle C: Funding for Litigation of Federal Habeas Corpus Petitions in Capital Cases - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to require the Director of the Bureau of Justice Assistance to provide grants to the States to support litigation pertaining to Federal habeas corpus petitions in capital cases. Title II: Federal Death Penalty Procedures Reform - Revises provisions of the Violent Crime Control and Law Enforcement Act of 1994 regarding the conduct of a special hearing to determine whether a death sentence is justified, to require the jury (or if there is no jury, the court) to consider whether the aggravating factors found to exist outweigh any mitigating factors and to recommend such sentence if it unanimously finds at least one aggravating factor and no mitigating factor, or one or more aggravating factors which outweigh any mitigating factors. Directs that the jury be instructed that: (1) it must avoid any influence of sympathy, sentiment, passion, prejudice, or other arbitrary factors in its decision and should make such a recommendation as the information warrants; and (2) its recommendation is to be based on the aggravating factors and any mitigating factors which have been found, but that the final decision concerning the balance of aggravating and mitigating factors is a matter for the jury's judgement.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="105" type="h" number="4012" updated="2013-07-14T18:50:57-04:00">
+  <state datetime="1998-06-05">REFERRED</state>
+  <status>
+    <introduced datetime="1998-06-05"/>
+  </status>
+  <introduced datetime="1998-06-05"/>
+  <titles>
+    <title as="introduced" type="short">Honest Balanced Budget Act of 1998</title>
+    <title as="introduced" type="official">To guarantee honesty in budgeting.</title>
+  </titles>
+  <sponsor id="400388"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="1998-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-06-05">
+      <text>Referred to the Committee on the Budget, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1998-06-05">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="1998-06-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="1998-06-10">
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="1998-06-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1087"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="s" number="1634"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits"/>
+    <term name="Budget surpluses"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Government trust funds"/>
+    <term name="Income tax"/>
+    <term name="Off-budget expenditures"/>
+    <term name="Public debt"/>
+    <term name="Social security finance"/>
+    <term name="Social welfare"/>
+    <term name="Tax cuts"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/1998--Introduced.
+Honest Balanced Budget Act of 1998 - Declares that the receipts and disbursements of the social security trust funds included in the gross Federal debt shall not be: (1) included in the Federal budget baseline for any fiscal year; and (2) counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of offsetting any tax decrease and any spending increase.</summary>
+</bill>

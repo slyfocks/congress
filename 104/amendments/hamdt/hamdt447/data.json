@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-06-21T12:39:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A002) offered by Mr. Castle to the Neumann amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-06-21T13:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 402, 
+      "text": "On agreeing to the Castle amendment (A002) Failed by recorded vote: 213 - 215 (Roll no. 402).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt447-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt446-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 446
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1854-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1854
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment offered as a substitute to the Neumann amendment (A001) sought to reduce the appropriation for Members' Representational Allowances by $4.6 million.", 
+  "house_number": 2, 
+  "introduced_at": "1995-06-21", 
+  "number": 447, 
+  "purpose": "An amendment, printed as amendment No. 2 in House Rept. 104-146, as a substitute to the Neumann amendment to reduce funds appropriated in the bill for Members official mail expenses by $4.6 million.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-06-21T13:13:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

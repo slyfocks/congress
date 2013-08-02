@@ -1,0 +1,98 @@
+<bill session="105" type="h" number="3046" updated="2013-07-14T18:50:40-04:00">
+  <state datetime="1998-10-10T17:19:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-10-10T17:19:00-04:00"/>
+  </status>
+  <introduced datetime="1997-11-13"/>
+  <titles>
+    <title as="introduced" type="short">Police, Fire, and Emergency Officers Educational Assistance Act of 1998</title>
+    <title as="passed house" type="short">Police, Fire, and Emergency Officers Educational Assistance Act of 1998</title>
+    <title as="introduced" type="official">To provide for financial assistance for higher education to the dependents of Federal, State, and local public safety officers who are killed or permanently and totally disabled as the result of a traumatic injury sustained in the line of duty.</title>
+  </titles>
+  <sponsor id="404280"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="1997-11-13"/>
+    <cosponsor id="400010" joined="1997-11-13"/>
+    <cosponsor id="400536" joined="1997-11-13"/>
+    <cosponsor id="400213" joined="1998-10-07"/>
+    <cosponsor id="400221" joined="1997-11-13"/>
+    <cosponsor id="400329" joined="1997-11-13"/>
+    <cosponsor id="400332" joined="1997-11-13"/>
+    <cosponsor id="400359" joined="1997-11-13"/>
+    <cosponsor id="400380" joined="1997-11-13"/>
+    <cosponsor id="400428" joined="1997-11-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-11-13">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-11-24">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1998-09-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1998-09-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1998-10-10T16:55:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1998-10-10T16:56:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10459-10461" label="consideration"/>
+    </action>
+    <action datetime="1998-10-10T16:56:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-10T17:19:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-10-10T17:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-10T17:21:00-04:00">
+      <text>Laid on the table. See S. 1525 for further action.</text>
+      <reference ref="CR  H10461" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="h" number="2755"/>
+    <bill relation="supersedes" session="105" type="s" number="1525"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Disability retirement"/>
+    <term name="Disabled"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Emergency management"/>
+    <term name="Emergency medical personnel"/>
+    <term name="Families"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Federal aid to vocational education"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Fire fighters"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Higher education"/>
+    <term name="Labor and employment"/>
+    <term name="Law enforcement officers"/>
+    <term name="Local employees"/>
+    <term name="Married people"/>
+    <term name="Scholarships"/>
+    <term name="State employees"/>
+    <term name="Survivors' benefits"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>10/10/1998--Passed House amended.
+Police, Fire, and Emergency Officers Educational Assistance Act of 1998 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to provide financial assistance for higher education to the dependents of Federal, State, and local public safety officers (currently, only the dependents of Federal public safety officers) who are killed or permanently and totally disabled as the result of a traumatic injury sustained in the line of duty.</summary>
+</bill>

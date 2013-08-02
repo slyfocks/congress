@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-02T15:35:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mr. Porter to the Canady amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-02T18:29:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 191, 
+      "text": "On agreeing to the Porter amendment (A003) Failed by recorded vote: 186 - 241 (Roll no. 191).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt249-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt247-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 247
+  }, 
+  "amends_bill": {
+    "bill_id": "hr925-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 925
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Canady substitute amendment (A001) sought to require agencies to do a private property impact assessment before issuing a regulation or taking agency action; and would have required that the public have access to that assessment.", 
+  "house_number": 3, 
+  "introduced_at": "1995-03-02", 
+  "number": 249, 
+  "purpose": "An amendment (numbered 17 as printed in the Congressional Record) to provide that compensation would not be paid if the agency involved has prepared a \"private property impact assessment\" for the particular regulation or other agency action, prior to taking the action. Such analyses would consist of a written statement including an assessment of the action's likely effect on private property values, whether it would result in a taking of private property under the Fifth Amendment, alternatives that would achieve the same objective without affecting private property values, and other information. The amendment, in effect, would write into law Executive Order #12630 except that, under the amendment, the agency analyses would be made available to the public. The amendment specifies that property owners still could seek compensation through the courts under the Fifth Amendment.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Porter, John Edward", 
+    "state": "IL", 
+    "thomas_id": "00923", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-02T18:29:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

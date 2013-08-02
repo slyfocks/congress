@@ -1,0 +1,131 @@
+<bill session="104" type="hc" number="180" updated="2013-07-14T18:48:42-04:00">
+  <state datetime="1996-09-26T11:03:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-09-26T11:03:00-04:00"/>
+  </status>
+  <introduced datetime="1996-05-22"/>
+  <titles>
+    <title as="introduced" type="official">Commending the Americans who served the United States during the period known as the Cold War.</title>
+  </titles>
+  <sponsor id="400594"/>
+  <cosponsors>
+    <cosponsor id="400104" joined="1996-05-22"/>
+    <cosponsor id="400123" joined="1996-07-12"/>
+    <cosponsor id="404280" joined="1996-09-11"/>
+    <cosponsor id="300047" joined="1996-07-12"/>
+    <cosponsor id="400180" joined="1996-09-11"/>
+    <cosponsor id="400506" joined="1996-07-12"/>
+    <cosponsor id="400213" joined="1996-07-12"/>
+    <cosponsor id="400219" joined="1996-07-12"/>
+    <cosponsor id="400243" joined="1996-07-12"/>
+    <cosponsor id="407141" joined="1996-09-11"/>
+    <cosponsor id="400268" joined="1996-07-12"/>
+    <cosponsor id="408476" joined="1996-05-22"/>
+    <cosponsor id="400377" joined="1996-07-12"/>
+    <cosponsor id="410147" joined="1996-07-12"/>
+    <cosponsor id="400610" joined="1996-05-22"/>
+    <cosponsor id="400504" joined="1996-05-22"/>
+    <cosponsor id="400541" joined="1996-07-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-05-22">
+      <text>Referred to the Committee on National Security, and in addition to the Committees on International Relations, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1996-05-22">
+      <text>Referred to House National Security</text>
+    </action>
+    <action datetime="1996-05-22">
+      <text>Referred to House International Relations</text>
+    </action>
+    <action datetime="1996-05-22">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="1996-06-03">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House National Security"/>
+    </action>
+    <action datetime="1996-06-03">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House National Security"/>
+    </action>
+    <action datetime="1996-08-19">
+      <text>Favorable Executive Comment Received from DOD.</text>
+      <committee name="House National Security"/>
+    </action>
+    <action datetime="1996-09-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House National Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-09-12">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House National Security"/>
+    </calendar>
+    <action datetime="1996-09-17T19:52:00-04:00">
+      <text>Reported (Amended) by the Committee on National Security. H. Rept. 104-804, Part I.</text>
+    </action>
+    <action datetime="1996-09-17T20:06:00-04:00">
+      <text>House Committee on International Relations Granted an extension for further consideration ending not later than Sept. 17, 1996.</text>
+    </action>
+    <action datetime="1996-09-17T20:06:00-04:00">
+      <text>House Committee on Intelligence (Permanent) Granted an extension for further consideration ending not later than Sept. 17, 1996.</text>
+    </action>
+    <action datetime="1996-09-17T20:07:00-04:00">
+      <text>Committee on International Relations discharged.</text>
+    </action>
+    <action datetime="1996-09-17T20:07:00-04:00">
+      <text>Committee on Intelligence (Permanent) discharged.</text>
+    </action>
+    <calendar datetime="1996-09-17T20:07:00-04:00" calendar="House" number="278">
+      <text>Placed on the House Calendar, Calendar No. 278.</text>
+    </calendar>
+    <action datetime="1996-09-26T10:34:00-04:00">
+      <text>Mr. Dornan moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1996-09-26T10:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11235-11239" label="consideration"/>
+    </action>
+    <action datetime="1996-09-26T10:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-26T11:03:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-26T11:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-26T11:03:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-26">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House National Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House National Security"/>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Discharged"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="sc" number="61"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Cold War"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Federal employees"/>
+    <term name="Foreign service"/>
+    <term name="Government operations and politics"/>
+    <term name="Intelligence officers"/>
+    <term name="International affairs"/>
+    <term name="Military personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1996--Passed House amended.
+Commends and expresses gratitude and appreciation for the service and sacrifices of the members of the armed forces and civilian Government personnel who contributed to the historic victory in the Cold War.</summary>
+</bill>

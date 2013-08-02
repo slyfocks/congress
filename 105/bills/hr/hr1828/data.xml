@@ -1,0 +1,40 @@
+<bill session="105" type="h" number="1828" updated="2013-07-14T18:50:21-04:00">
+  <state datetime="1997-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="1997-06-06"/>
+  </status>
+  <introduced datetime="1997-06-06"/>
+  <titles>
+    <title as="introduced" type="official">To limit the total number of political appointees allowable.</title>
+  </titles>
+  <sponsor id="404375"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="1998-06-25"/>
+    <cosponsor id="400529" joined="1998-06-24"/>
+    <cosponsor id="408459" joined="1998-06-25"/>
+    <cosponsor id="400606" joined="1997-11-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-06-06">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1997-06-11">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform and Oversight"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Layoffs"/>
+    <term name="Presidential appointments"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/1997--Introduced.
+Directs the President to ensure that the number of full-time executive branch political appointments does not, during any fiscal year beginning after September 30, 1997, exceed 2,000, using reductions in force if needed.</summary>
+</bill>

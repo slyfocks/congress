@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-01-31T16:13:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A049) offered by Mr. Cooley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-31T16:50:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 75, 
+      "text": "On agreeing to the Cooley amendment (A049) Failed by recorded vote: 146 - 287 (Roll no. 75).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt60-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to delete language that exempts legislation reauthorizing certain laws from the point of order provisions contained in the bill.", 
+  "house_number": 49, 
+  "introduced_at": "1995-01-31", 
+  "number": 60, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Cooley, Wes", 
+    "state": "OR", 
+    "thomas_id": "00230", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-01-31T16:50:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

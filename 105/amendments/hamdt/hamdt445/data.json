@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-29T20:13:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A007) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-30T16:21:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 553, 
+      "text": "On agreeing to the Markey amendment (A007) Failed by recorded vote: 151 - 273 (Roll no. 553).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt445-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1270-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1270
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to delete language that prevents EPA from setting radiation protection standards.", 
+  "house_number": 7, 
+  "introduced_at": "1997-10-29", 
+  "number": 445, 
+  "purpose": "An amendment to permit the EPA to promulgate radiation standards.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-10-30T16:21:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-05-30T18:00:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A020) offered by Ms. Lofgren.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-30T19:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 207, 
+      "text": "On agreeing to the Lofgren amendment (A020) Failed by recorded vote: 197 - 211 (Roll no. 207).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1106-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3322-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 3322
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to delete language which prohibits the EPA from using funds for the Climate Change Action Plan.", 
+  "house_number": 20, 
+  "introduced_at": "1996-05-30", 
+  "number": 1106, 
+  "purpose": "An amendment to strike the bill's provision which prohibits EPA from funding the Climate Change Action Plan.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Lofgren, Zoe", 
+    "state": "CA", 
+    "thomas_id": "00701", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-05-30T19:01:00-04:00", 
+  "updated_at": "2013-07-17T07:50:55-04:00"
+}

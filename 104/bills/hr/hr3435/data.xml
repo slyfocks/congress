@@ -1,0 +1,89 @@
+<bill session="104" type="h" number="3435" updated="2013-07-14T18:48:15-04:00">
+  <state datetime="1996-07-29T14:30:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-07-29T14:30:00-04:00"/>
+  </status>
+  <introduced datetime="1996-05-10"/>
+  <titles>
+    <title as="introduced" type="short">Lobbying Disclosure Technical Amendments Act of 1996</title>
+    <title as="passed house" type="short">Lobbying Disclosure Technical Amendments Act of 1996</title>
+    <title as="introduced" type="official">To make technical amendments to the Lobbying Disclosure Act of 1995.</title>
+  </titles>
+  <sponsor id="400574"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1996-05-10"/>
+    <cosponsor id="400414" joined="1996-07-11"/>
+    <cosponsor id="412001" joined="1996-07-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-05-10">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1996-05-29">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-05-29">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-05-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-05-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-07-16">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 0.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1996-07-24T19:14:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 104-699.</text>
+    </action>
+    <calendar datetime="1996-07-24T19:14:00-04:00" calendar="Union" number="368">
+      <text>Placed on the Union Calendar, Calendar No. 368.</text>
+    </calendar>
+    <action datetime="1996-07-29T14:24:00-04:00">
+      <text>Mr. Hoke moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1996-07-29T14:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8613-8614" label="consideration"/>
+    </action>
+    <action datetime="1996-07-29T14:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-07-29T14:30:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-07-29T14:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-07-31">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Federal officials"/>
+    <term name="Foreign agents"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="International affairs"/>
+    <term name="Lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1996--Passed House amended.
+Lobbying Disclosure Technical Amendments Act of 1996 - Makes technical amendments to the Lobbying Disclosure Act of 1995. Amends the Foreign Agents Registration Act of 1938 to exempt from its requirements a foreign agent if the agent has engaged in lobbying activities and has registered under the Lobbying Disclosure Act of 1995.</summary>
+</bill>

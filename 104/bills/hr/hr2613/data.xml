@@ -1,0 +1,33 @@
+<bill session="104" type="h" number="2613" updated="2013-07-14T18:48:00-04:00">
+  <state datetime="1995-11-09">REFERRED</state>
+  <status>
+    <introduced datetime="1995-11-09"/>
+  </status>
+  <introduced datetime="1995-11-09"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Rabon Lowry.</title>
+  </titles>
+  <sponsor id="409400"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-11-09">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-11-20">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>11/9/1995--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual for damages he incurred as a result of the breach of a certain Government contract by the Department of the Army.</summary>
+</bill>

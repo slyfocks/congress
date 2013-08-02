@@ -1,0 +1,110 @@
+<bill session="104" type="hc" number="172" updated="2013-07-14T18:48:42-04:00">
+  <state datetime="1996-06-12T19:05:00-04:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="1996-06-12T19:05:00-04:00"/>
+  </status>
+  <introduced datetime="1996-05-07"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the 1996 Summer Olympic Torch Relay to be run through the Capitol Grounds, and for other purposes.</title>
+  </titles>
+  <sponsor id="404587"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1996-05-07">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1996-05-20">
+      <text>Referred to the Subcommittee on Public Buildings and Economic Development.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-05-23">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-05-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-05-23">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-06-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-06-06">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1996-06-06T17:45:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 104-608.</text>
+    </action>
+    <calendar datetime="1996-06-06T17:46:00-04:00" calendar="House" number="236">
+      <text>Placed on the House Calendar, Calendar No. 236.</text>
+    </calendar>
+    <action datetime="1996-06-10T14:19:00-04:00">
+      <text>Mr. Gilchrest moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1996-06-10T14:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6044-6045" label="consideration"/>
+    </action>
+    <action datetime="1996-06-10T14:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-06-10T14:28:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-06-10T14:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-06-11">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1996-06-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6110" label="consideration"/>
+    </action>
+    <action datetime="1996-06-11">
+      <text>Amendment SP 4044 proposed by Senator Specter for Senator Ford.</text>
+    </action>
+    <action datetime="1996-06-11">
+      <text>Amendment SP 4044 agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1996-06-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="1996-06-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1996-06-12T19:03:00-04:00">
+      <text>Mr. Gilchrest asked unanimous consent that the House agree to the Senate amendment.</text>
+      <reference ref="CR H6247" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="1996-06-12T19:05:00-04:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+    </vote>
+    <action datetime="1996-06-12T19:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW08" subcommittee="Public Buildings and Economic Development" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Georgia"/>
+    <term name="Infrastructure"/>
+    <term name="Olympic games"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4044"/>
+  </amendments>
+  <summary>6/11/1996--Passed Senate amended.
+Permits the 1996 Summer Olympic Torch Relay to be run through the Capitol Grounds as part of the ceremony of the Centennial Olympic Games to be held in Atlanta, Georgia.</summary>
+</bill>

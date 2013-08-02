@@ -1,0 +1,87 @@
+<bill session="104" type="hc" number="91" updated="2013-07-14T18:48:40-04:00">
+  <state datetime="1995-12-19T11:02:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-12-19T11:02:00-05:00"/>
+  </status>
+  <introduced datetime="1995-08-02"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that the United States should participate in Expo '98 in Lisbon, Portugal.</title>
+  </titles>
+  <sponsor id="400322"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="1995-08-02"/>
+    <cosponsor id="400570" joined="1995-08-02"/>
+    <cosponsor id="400050" joined="1995-11-14"/>
+    <cosponsor id="400140" joined="1995-08-02"/>
+    <cosponsor id="400536" joined="1995-11-20"/>
+    <cosponsor id="404996" joined="1995-11-14"/>
+    <cosponsor id="406277" joined="1995-08-02"/>
+    <cosponsor id="400215" joined="1995-08-02"/>
+    <cosponsor id="406343" joined="1995-11-07"/>
+    <cosponsor id="400245" joined="1995-11-14"/>
+    <cosponsor id="400252" joined="1995-12-07"/>
+    <cosponsor id="407226" joined="1995-08-02"/>
+    <cosponsor id="400269" joined="1995-08-02"/>
+    <cosponsor id="400272" joined="1995-08-02"/>
+    <cosponsor id="400600" joined="1995-08-02"/>
+    <cosponsor id="400308" joined="1995-08-02"/>
+    <cosponsor id="300081" joined="1995-08-02"/>
+    <cosponsor id="409205" joined="1995-11-14"/>
+    <cosponsor id="400615" joined="1995-11-20"/>
+    <cosponsor id="400348" joined="1995-10-12"/>
+    <cosponsor id="400387" joined="1995-08-02"/>
+    <cosponsor id="300156" joined="1995-08-02"/>
+    <cosponsor id="400428" joined="1995-10-12"/>
+    <cosponsor id="412001" joined="1995-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-08-02">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1995-12-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-12-14">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1995-12-19T10:55:00-05:00">
+      <text>Mr. Gilman moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1995-12-19T10:55:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15103-15104" label="consideration"/>
+    </action>
+    <action datetime="1995-12-19T10:56:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-19T11:02:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-12-19T11:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-19T11:03:00-05:00">
+      <text>Laid on the table. See S. Con. Res. 22 for further action.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="sc" number="22"/>
+    <bill relation="unknown" session="104" type="sc" number="22"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Europe"/>
+    <term name="Exhibitions"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Ocean"/>
+    <term name="Portugal"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1995--Introduced.
+Provides that the United States should fully participate in Expo '98 in Lisbon, Portugal, and encourages the private sector to support this undertaking.</summary>
+</bill>

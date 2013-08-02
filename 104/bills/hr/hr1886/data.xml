@@ -1,0 +1,57 @@
+<bill session="104" type="h" number="1886" updated="2013-07-14T18:47:40-04:00">
+  <state datetime="1996-09-17T14:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-09-17T14:04:00-04:00"/>
+  </status>
+  <introduced datetime="1995-06-16"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of John Wesley Davis.</title>
+  </titles>
+  <sponsor id="400438"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-06-16">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-06-19">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-07-23T12:52:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 104-696.</text>
+    </action>
+    <calendar state="REPORTED" datetime="1996-07-23T12:53:00-04:00" calendar="Private" number="8">
+      <text>Placed on the Private Calendar, Calendar No. 8.</text>
+    </calendar>
+    <action datetime="1996-09-17T14:03:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+    </action>
+    <action datetime="1996-09-17T14:03:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-17T14:04:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1996-09-17T14:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-18">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1386"/>
+  </amendments>
+  <summary>6/16/1995--Introduced.
+Waives time limitations with respect to a claim by a named individual for amounts due to him by the Department of Veterans Affairs, the Department of the Navy, the Department of the Treasury, and the District of Columbia, for certain checks received but not negotiated by such individual.</summary>
+</bill>

@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-08T19:53:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Smith (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-08T20:23:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 108, 
+      "text": "On agreeing to the Smith (TX) amendment (A006) Agreed to by recorded vote: 241 - 189 (Roll no. 108).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt112-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr729-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 729
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment provides that the provisions of the bill requiring an automatic stay of execution shall terminate upon the completion of a State court review, unless a substantial showing of a violation of a Federal right can be established.", 
+  "house_number": 6, 
+  "introduced_at": "1995-02-08", 
+  "number": 112, 
+  "purpose": "An amendment stating that the provisions of the bill requiring an automatic stay of execution shall terminate upon the completion of state court review, unless a substantial showing of a violation of a federal right can be established.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-02-08T20:23:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

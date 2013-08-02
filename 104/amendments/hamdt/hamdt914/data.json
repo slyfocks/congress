@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-11-30T13:10:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-11-30T13:50:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 831, 
+      "text": "On agreeing to the Nadler amendment (A005) Failed by recorded vote: 161 - 249 (Roll no. 831).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt914-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1788-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1788
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to allow Amtrak to negotiate lease track rights with any rail freight carrier, regardless of existing legal or contractual provisions.", 
+  "house_number": 5, 
+  "introduced_at": "1995-11-30", 
+  "number": 914, 
+  "purpose": "An amendment, printed as amendment No. 3 in the Congressional Record of November 29, 1995, to allow Amtrak to negotiate lease track rights to any rail freight carrier, regardless of any existing legal or contractual provisions.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-11-30T13:50:00-05:00", 
+  "updated_at": "2013-07-17T07:50:52-04:00"
+}

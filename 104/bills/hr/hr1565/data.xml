@@ -1,0 +1,130 @@
+<bill session="104" type="h" number="1565" updated="2013-07-14T18:47:34-04:00">
+  <state datetime="1995-06-27T12:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-06-27T12:57:00-04:00"/>
+  </status>
+  <introduced datetime="1995-05-03"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to extend through December 31, 1997, the period during which the Secretary of Veterans Affairs is authorized to provide priority health care to certain veterans exposed to Agent Orange, ionizing radiation, or environmental hazards.</title>
+  </titles>
+  <sponsor id="300151"/>
+  <cosponsors>
+    <cosponsor id="400514" joined="1995-06-15"/>
+    <cosponsor id="400028" joined="1995-06-15"/>
+    <cosponsor id="400048" joined="1995-06-15"/>
+    <cosponsor id="402858" joined="1995-06-15"/>
+    <cosponsor id="400114" joined="1995-06-15"/>
+    <cosponsor id="400118" joined="1995-05-03"/>
+    <cosponsor id="400126" joined="1995-06-15"/>
+    <cosponsor id="400133" joined="1995-06-15"/>
+    <cosponsor id="400545" joined="1995-06-15"/>
+    <cosponsor id="407838" joined="1995-05-03"/>
+    <cosponsor id="400293" joined="1995-06-15"/>
+    <cosponsor id="400380" joined="1995-06-15"/>
+    <cosponsor id="400388" joined="1995-06-15"/>
+    <cosponsor id="400504" joined="1995-05-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-05-03">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1995-05-09">
+      <text>Referred to the Subcommittee on Hospitals and Health Care.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1995-05-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1995-05-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1995-05-15">
+      <text>Executive Comment Requested from Veterans' Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1995-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-06-15">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 0.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="1995-06-26T13:33:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 104-158.</text>
+    </action>
+    <calendar datetime="1995-06-26T13:33:00-04:00" calendar="Union" number="75">
+      <text>Placed on the Union Calendar, Calendar No. 75.</text>
+    </calendar>
+    <action datetime="1995-06-27T12:32:00-04:00">
+      <text>Mr. Stump moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1995-06-27T12:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6319-6323" label="consideration"/>
+    </action>
+    <action datetime="1995-06-27T12:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-06-27T12:57:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-06-27T12:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-06-27T12:57:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-06-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1996-02-13">
+      <text>See H.R.2353.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1996-06-13">
+      <text>See H.R.3643.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="h" number="2353"/>
+    <bill relation="unknown" session="104" type="h" number="3643"/>
+    <bill relation="unknown" session="104" type="h" number="3643"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Agent Orange"/>
+    <term name="Ambulatory care"/>
+    <term name="Atomic bomb"/>
+    <term name="Cancer"/>
+    <term name="East Asia"/>
+    <term name="Environmental protection"/>
+    <term name="Health"/>
+    <term name="Herbicides"/>
+    <term name="History"/>
+    <term name="Hospital care"/>
+    <term name="Ionizing radiation"/>
+    <term name="Japan"/>
+    <term name="Leukemia"/>
+    <term name="Medical research"/>
+    <term name="Nuclear weapons"/>
+    <term name="Nursing homes"/>
+    <term name="Peer review organizations (Medicine)"/>
+    <term name="Radiation victims"/>
+    <term name="Science, technology, communications"/>
+    <term name="Veterans' medical care"/>
+    <term name="Vietnam veterans"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/1995--Passed House amended.
+Makes a veteran exposed to herbicides in Vietnam during the Vietnam era eligible for hospital and nursing home care for any disease for which the National Academy of Sciences (NAS), in a report issued under the Agent Orange Act of 1991, has determined that: (1) there is sufficient evidence to conclude a positive association between the occurrence of the disease and exposure to a herbicide; (2) there is evidence suggestive of such an association, though the evidence is limited; or (3) available studies are insufficient to permit such a conclusion. Makes such veterans eligible for such care also for a disease for which the Secretary of Veterans Affairs, pursuant to a recommendation of the Under Secretary for Health based on peer-reviewed research studies published after the most recent NAS report, determines that there is credible evidence suggestive of an association between disease occurrence and herbicide exposure. Makes a veteran exposed to radiation during a period of active duty for training or inactive duty training eligible for hospital and nursing home care for: (1) any diseases currently listed in Federal provisions which presume a relation between such disease and a veteran's disability; or (2) any disease for which the Secretary determines there is credible evidence of a positive association between the occurrence of such disease and exposure to ionizing radiation. Extends through December 31, 1997, the authorized period for the provision of hospital, nursing home, and outpatient care for certain veterans, including those herbicide- or radiation-exposed veterans described in this Act.</summary>
+</bill>

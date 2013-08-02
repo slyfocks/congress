@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-29T19:32:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Gibbons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-30T16:03:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 551, 
+      "text": "On agreeing to the Gibbons amendment (A005) Failed by recorded vote: 112 - 312 (Roll no. 551).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt443-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1270-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1270
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to require that the Governor of each State with nuclear waste routes must certify that emergency response teams exist and can properly manage any nuclear accident before any transportation plan can be implemented by the Secretary.", 
+  "house_number": 5, 
+  "introduced_at": "1997-10-29", 
+  "number": 443, 
+  "purpose": "An amendment to require the Governor of each State with nuclear waste routes to certify that the State has prepared an emergency response plan capable of managing any accident that may occur during transport.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Gibbons, Jim", 
+    "state": "NV", 
+    "thomas_id": "01485", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-10-30T16:03:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

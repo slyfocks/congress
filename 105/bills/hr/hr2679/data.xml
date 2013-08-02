@@ -1,0 +1,45 @@
+<bill session="105" type="h" number="2679" updated="2013-07-14T18:50:35-04:00">
+  <state datetime="1997-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1997-10-21"/>
+  </status>
+  <introduced datetime="1997-10-21"/>
+  <titles>
+    <title as="introduced" type="official">To restore the traditional day of observance of Memorial Day.</title>
+  </titles>
+  <sponsor id="400148"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1997-10-21">
+      <text>Referred to the Committee on Government Reform and Oversight, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1997-10-21">
+      <text>Referred to House Government Reform and Oversight</text>
+    </action>
+    <action datetime="1997-10-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1997-10-27">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="1997-10-29">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Government Reform and Oversight"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform and Oversight"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Memorial Day"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1997--Introduced.
+Restores the observance of Memorial Day from the last Monday in May to May 30 of each year.</summary>
+</bill>

@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-02T14:01:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Ms. Pelosi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-02T14:07:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Pelosi amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt80-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment provides that no special message submitted by the President may change any prohibition or limitation of discretionary budget authority set forth in any appropriation Act.", 
+  "house_number": 3, 
+  "introduced_at": "1995-02-02", 
+  "number": 80, 
+  "purpose": "An amendment (numbered 18 as printed in the Congressional Record) to include provisions for a new limitation on the use of the line-item veto which states that no special message submitted by the President may change any prohibition or limitation of discretionary budget authority set forth in any appropriation Act.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-02-02T14:07:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

@@ -1,0 +1,45 @@
+<bill session="104" type="h" number="764" updated="2013-07-14T18:47:16-04:00">
+  <state datetime="1995-01-31">REFERRED</state>
+  <status>
+    <introduced datetime="1995-01-31"/>
+  </status>
+  <introduced datetime="1995-01-31"/>
+  <titles>
+    <title as="introduced" type="short">Fair Labor Standards Amendments of 1995</title>
+    <title as="introduced" type="official">To amend the Fair Labor Standards Act of 1938 to increase the minimum wage.</title>
+  </titles>
+  <sponsor id="400438"/>
+  <cosponsors>
+    <cosponsor id="402762" joined="1995-09-20"/>
+    <cosponsor id="400160" joined="1995-02-03"/>
+    <cosponsor id="400595" joined="1995-02-03"/>
+    <cosponsor id="400513" joined="1995-04-05"/>
+    <cosponsor id="400295" joined="1995-05-10"/>
+    <cosponsor id="400354" joined="1995-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1995-01-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H599"/>
+    </action>
+    <action state="REFERRED" datetime="1995-01-31">
+      <text>Referred to the House Committee on Economic and Educational Opportunities.</text>
+    </action>
+    <action datetime="1995-02-17">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Committee on Economic and Educational Opportunities"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Economic and Educational Opportunities" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Economic and Educational Opportunities"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Minimum wages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/1995--Introduced.
+Fair Labor Standards Amendments of 1995 - Amends the Fair Labor Standards Act of 1938 to increase the minimum wage to: (1) $4.25 an hour during the period ending six months after the date of enactment of this Act; (2) $4.50 an hour during the succeeding year; (3) $4.75 during the succeeding year; (4) $5.00 during the succeeding year; and (5) $5.25 thereafter.</summary>
+</bill>

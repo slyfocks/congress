@@ -1,0 +1,92 @@
+<bill session="105" type="hc" number="61" updated="2013-07-14T18:51:14-04:00">
+  <state datetime="1997-05-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1997-05-01"/>
+  </status>
+  <introduced datetime="1997-04-15"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the lifetime achievements of Jackie Robinson.</title>
+  </titles>
+  <sponsor id="400541"/>
+  <cosponsors>
+    <cosponsor id="300014" joined="1997-04-15"/>
+    <cosponsor id="400593" joined="1997-04-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-04-15">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1997-04-15">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1997-04-16T14:15:00-04:00">
+      <text>Mr. Horn moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1997-04-16T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1576-1580, H1582" label="consideration"/>
+    </action>
+    <action datetime="1997-04-16T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-04-16T14:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1997-04-16T15:13:00-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-04-16T15:22:00-04:00" how="roll" result="pass" roll="81" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 81).</text>
+    </vote>
+    <action datetime="1997-04-16T15:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-04-17">
+      <text>Received in the Senate and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1997-05-01">
+      <text>Senate Committee on Commerce discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1997-05-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3929" label="consideration"/>
+    </vote>
+    <action datetime="1997-05-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform and Oversight"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="sc" number="23"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Bankers"/>
+    <term name="Baseball"/>
+    <term name="Black athletes"/>
+    <term name="Black businesses"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil rights movements"/>
+    <term name="Civil rights workers"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foundations"/>
+    <term name="Minorities"/>
+    <term name="New York City"/>
+    <term name="Professional sports"/>
+    <term name="Segregation"/>
+    <term name="Social welfare"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/1997--Introduced.
+Honors the achievements and contributions of Jackie Robinson.</summary>
+</bill>

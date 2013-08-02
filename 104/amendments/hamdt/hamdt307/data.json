@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-16T12:00:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A015) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-16T12:38:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 249, 
+      "text": "On agreeing to the Stearns amendment (A015) Failed by recorded vote: 168 - 260 (Roll no. 249).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt307-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1158-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1158
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to increase the rescission of funds for the National Endowment for the Arts by $10 million.", 
+  "house_number": 15, 
+  "introduced_at": "1995-03-16", 
+  "number": 307, 
+  "purpose": "An amendment to rescind 10% of the funding for the NEA. (The bill rescinds $5 million of the total $168 million appropriated for the NEA in 1995.)", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-16T12:38:00-05:00", 
+  "updated_at": "2013-07-17T07:50:46-04:00"
+}

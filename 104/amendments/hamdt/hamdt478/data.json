@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-06-28T16:07:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A020) offered by Mrs. Meyers to the Smith (NJ) amendment (A019).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-06-28T18:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 432, 
+      "text": "On agreeing to the Meyers amendment (A020) Failed by recorded vote: 201 - 229 (Roll no. 432).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt478-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt477-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 477
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1868-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Smith (NJ) amendment (A019) sought to delete language that prohibits any Federal funding to any private, nongovernmental, or multilateral organization that directly or indirectly performs abortions in a foreign country except in special cases.", 
+  "house_number": 20, 
+  "introduced_at": "1995-06-28", 
+  "number": 478, 
+  "purpose": "An amendment to the Smith (NJ) amendment that would delete the provisions pertaining to the prohibition on funding nongovernmental organizations that directly or indirectly perform abortions. The provisions of the Smith (NJ) amendment pertaining to the prohibition on funds for the UN Fund for Population Activities would be retained.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Meyers, Jan", 
+    "state": "KS", 
+    "thomas_id": "00794", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-06-28T18:01:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

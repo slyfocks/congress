@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-11-16T23:04:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Weller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-11-28T19:41:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 827, 
+      "text": "On agreeing to the Weller amendment (A005) Failed by recorded vote: 193 - 233 (Roll no. 827).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt906-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2564-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2564
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to require registered lobbyists to disclose any honoraria they pay to members of the media.", 
+  "house_number": 5, 
+  "introduced_at": "1995-11-16", 
+  "number": 906, 
+  "purpose": "An amendment not preprinted in the Congressional Record, to require registered lobbyists to disclose any honoraria they pay to members of the media.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Weller, Jerry", 
+    "state": "IL", 
+    "thomas_id": "01216", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-11-28T19:41:00-05:00", 
+  "updated_at": "2013-07-17T07:50:52-04:00"
+}

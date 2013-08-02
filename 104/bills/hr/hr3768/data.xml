@@ -1,0 +1,75 @@
+<bill session="104" type="h" number="3768" updated="2013-07-14T18:48:22-04:00">
+  <state datetime="1996-07-30T12:33:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-07-30T12:33:00-04:00"/>
+  </status>
+  <introduced datetime="1996-07-10"/>
+  <titles>
+    <title as="introduced" type="official">To designate a United States Post Office to be located in Groton, Massachusetts, as the "Augusta 'Gusty' Hornblower United States Post Office".</title>
+  </titles>
+  <sponsor id="401547"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1996-07-18"/>
+    <cosponsor id="406277" joined="1996-07-18"/>
+    <cosponsor id="400253" joined="1996-07-18"/>
+    <cosponsor id="400269" joined="1996-07-11"/>
+    <cosponsor id="400600" joined="1996-07-18"/>
+    <cosponsor id="400291" joined="1996-07-18"/>
+    <cosponsor id="400301" joined="1996-07-18"/>
+    <cosponsor id="410496" joined="1996-07-18"/>
+    <cosponsor id="410887" joined="1996-07-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-07-10">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1996-07-12">
+      <text>Referred to the Subcommittee on Postal Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1996-07-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-07-25">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1996-07-30T12:28:00-04:00">
+      <text>Mr. McHugh moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1996-07-30T12:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8757-8758" label="consideration"/>
+    </action>
+    <action datetime="1996-07-30T12:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-07-30T12:33:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-07-30T12:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-07-31">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSGO11" subcommittee="Postal Service" name="House Government Reform and Oversight"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorations"/>
+    <term name="Infrastructure"/>
+    <term name="Massachusetts"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/1996--Introduced.
+Designates the U.S. Post Office to be located at 80 Boston Road in Groton, Massachusetts, as the Augusta "Gusty" Hornblower United States Post Office.</summary>
+</bill>

@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-06T20:04:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Conyers to the Hoke amendment (A004).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-06T20:14:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Conyers amendment (A005) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt262-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt261-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 261
+  }, 
+  "amends_bill": {
+    "bill_id": "hr988-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 988
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Hoke amendment (A004) sought to impose the same contingency fee limitations on the attorneys of both the plaintiff and defendant.", 
+  "house_number": 5, 
+  "introduced_at": "1995-03-06", 
+  "number": 262, 
+  "purpose": "An amendment to the Hoke amendment which would impose the same fee limitations on the attorneys of both the plaintiff and defendant.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-06T20:14:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

@@ -1,0 +1,121 @@
+<bill session="105" type="h" number="4166" updated="2013-07-14T18:50:59-04:00">
+  <state datetime="1998-10-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1998-10-27"/>
+  </status>
+  <introduced datetime="1998-06-25"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Idaho Admission Act regarding the sale or lease of school land.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="400575" joined="1998-06-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-06-25">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1998-07-06">
+      <text>Referred to the Subcommittee on National Parks and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1998-08-05">
+      <text>Subcommittee on National Parks and Public Lands Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1998-08-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-08-05">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <calendar datetime="1998-09-11T12:30:00-04:00" calendar="Union" number="400">
+      <text>Placed on the Union Calendar, Calendar No. 400.</text>
+    </calendar>
+    <action datetime="1998-09-11T12:30:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 105-705.</text>
+    </action>
+    <action datetime="1998-09-15T16:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1998-09-15T16:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7760-7761" label="consideration"/>
+    </action>
+    <action datetime="1998-09-15T16:09:00-04:00">
+      <text>Mr. Hansen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-09-15T16:18:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-09-15T16:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-09-16">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="1998-09-23">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="1998-09-25">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Murkowski without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1998-09-25" calendar="Senate Legislative" under="General Orders" number="644">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="1998-10-07" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11823" label="consideration"/>
+    </vote>
+    <topresident datetime="1998-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1998-10-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1998-10-09">
+      <text>By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 105-393.</text>
+    </action>
+    <topresident datetime="1998-10-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1998-10-27">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1998-10-27" type="public" number="105-296">
+      <text>Became Public Law No: 105-296.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="National Parks and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="s" number="2226"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational finance"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Foundations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Idaho"/>
+    <term name="Investment of public funds"/>
+    <term name="Land banking"/>
+    <term name="Land transfers"/>
+    <term name="Leases"/>
+    <term name="Public schools"/>
+    <term name="Social welfare"/>
+    <term name="State finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1998--Introduced.
+Amends the Idaho Admission Act regarding school land lease or sale to provide for: (1) establishment of an earnings reserve fund; (2) authorization of a land bank fund for additional land purchases; and (3) elimination of land lease-time restrictions.</summary>
+</bill>

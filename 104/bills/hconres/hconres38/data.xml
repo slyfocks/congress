@@ -1,0 +1,82 @@
+<bill session="104" type="hc" number="38" updated="2013-07-14T18:48:38-04:00">
+  <state datetime="1995-06-28">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1995-06-28"/>
+  </status>
+  <introduced datetime="1995-03-10"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400283" joined="1995-03-10"/>
+    <cosponsor id="400524" joined="1995-03-10"/>
+    <cosponsor id="400295" joined="1995-03-10"/>
+    <cosponsor id="400435" joined="1995-03-10"/>
+    <cosponsor id="400438" joined="1995-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1995-03-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E574"/>
+    </action>
+    <action state="REFERRED" datetime="1995-03-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure. for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-03-23">
+      <text>Referred to the Subcommittee on Public Buildings and Economic Development.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-06-14">
+      <text>Subcommittee on Public Buildings and Economic Development Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-06-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-06-14">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1995-06-21T17:27:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 104-150.</text>
+    </action>
+    <calendar datetime="1995-06-21T17:28:00-04:00" calendar="House" number="61">
+      <text>Placed on the House Calendar, Calendar No. 61.</text>
+    </calendar>
+    <action datetime="1995-06-27T21:14:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6377-6378" label="consideration"/>
+    </action>
+    <action datetime="1995-06-27T21:14:00-04:00">
+      <text>Mr. Gilchrest asked unanimous consent to consider.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-06-27T21:19:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1995-06-27T21:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1995-06-28" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+      <reference ref="CR S9323" label="consideration"/>
+    </vote>
+    <action datetime="1995-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW08" subcommittee="Public Buildings and Economic Development" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1995--Introduced.
+Permits the Greater Washington Soap Box Derby Association to sponsor a free public event, soap box derby races, on the Capitol grounds on July 15, 1995.</summary>
+</bill>

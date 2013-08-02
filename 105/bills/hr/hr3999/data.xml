@@ -1,0 +1,105 @@
+<bill session="105" type="h" number="3999" updated="2013-07-14T18:50:56-04:00">
+  <state datetime="1998-09-09T15:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-09-09T15:01:00-04:00"/>
+  </status>
+  <introduced datetime="1998-06-05"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Postal Service building located at 5209 Greene Street, Philadelphia, Pennsylvania, as the "David P. Richardson, Jr., Post Office Building.</title>
+  </titles>
+  <sponsor id="400130"/>
+  <cosponsors>
+    <cosponsor id="400542" joined="1998-07-15"/>
+    <cosponsor id="400047" joined="1998-07-15"/>
+    <cosponsor id="400543" joined="1998-07-15"/>
+    <cosponsor id="400114" joined="1998-07-15"/>
+    <cosponsor id="400123" joined="1998-07-15"/>
+    <cosponsor id="404280" joined="1998-07-15"/>
+    <cosponsor id="400544" joined="1998-07-15"/>
+    <cosponsor id="400586" joined="1998-07-15"/>
+    <cosponsor id="400161" joined="1998-07-15"/>
+    <cosponsor id="400183" joined="1998-07-15"/>
+    <cosponsor id="400210" joined="1998-07-15"/>
+    <cosponsor id="400591" joined="1998-07-15"/>
+    <cosponsor id="400545" joined="1998-07-15"/>
+    <cosponsor id="407400" joined="1998-07-15"/>
+    <cosponsor id="407465" joined="1998-07-15"/>
+    <cosponsor id="400286" joined="1998-07-15"/>
+    <cosponsor id="400317" joined="1998-07-15"/>
+    <cosponsor id="400320" joined="1998-07-15"/>
+    <cosponsor id="400374" joined="1998-07-15"/>
+    <cosponsor id="400428" joined="1998-07-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-06-05">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1998-06-11">
+      <text>Referred to the Subcommittee on Postal Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-07-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1998-09-09T14:57:00-04:00">
+      <text>Mr. Sessions moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-09-09T14:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7465" label="consideration"/>
+    </action>
+    <action datetime="1998-09-09T14:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-09-09T15:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-09-09T15:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-09-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1998-09-24">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </calendar>
+    <action datetime="1998-09-25">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Thompson without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1998-09-25" calendar="Senate Legislative" under="General Orders" number="655">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 655.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSGO11" subcommittee="Postal Service" name="House Government Reform and Oversight"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Names"/>
+    <term name="Pennsylvania"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/1998--Introduced.
+Designates the U.S. Postal Service building located at 5209 Greene Street, in Philadelphia, Pennsylvania, as the David P. Richardson, Jr., Post Office Building.</summary>
+</bill>

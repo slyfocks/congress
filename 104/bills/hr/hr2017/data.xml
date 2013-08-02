@@ -1,0 +1,153 @@
+<bill session="104" type="h" number="2017" updated="2013-07-14T18:47:44-04:00">
+  <state datetime="1995-08-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1995-08-04"/>
+  </status>
+  <introduced datetime="1995-07-12"/>
+  <titles>
+    <title as="introduced" type="short">District of Columbia Emergency Highway Relief Act</title>
+    <title as="passed house" type="short">District of Columbia Emergency Highway Relief Act</title>
+    <title as="enacted" type="short">District of Columbia Emergency Highway Relief Act</title>
+    <title as="introduced" type="official">To authorize an increased Federal share of the costs of certain transportation projects in the District of Columbia for fiscal years 1995 and 1996, and for other purposes.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="1995-07-12"/>
+    <cosponsor id="400580" joined="1995-07-12"/>
+    <cosponsor id="400283" joined="1995-07-12"/>
+    <cosponsor id="400524" joined="1995-07-12"/>
+    <cosponsor id="400435" joined="1995-07-12"/>
+    <cosponsor id="400438" joined="1995-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1995-07-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1426"/>
+    </action>
+    <action state="REFERRED" datetime="1995-07-12">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Government Reform and Oversight, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-07-12">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="1995-07-12">
+      <text>Referred to House Government Reform and Oversight</text>
+    </action>
+    <action datetime="1995-07-17">
+      <text>Referred to the Subcommittee on District of Columbia.</text>
+      <committee name="House Government Reform and Oversight"/>
+    </action>
+    <action datetime="1995-07-24">
+      <text>Referred to the Subcommittee on Surface Transportation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-07-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-07-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-07-27">
+      <text>Ordered to be Reported (Amended).</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1995-07-27">
+      <text>Subcommittee on Surface Transportation Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-07-31T13:58:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 104-217, Part I.</text>
+    </action>
+    <action datetime="1995-07-31T13:59:00-04:00">
+      <text>House Committee on Government Reform Granted an extension for further consideration ending not later than July 31, 1995.</text>
+    </action>
+    <action datetime="1995-07-31T14:01:00-04:00">
+      <text>Committee on Government Reform discharged.</text>
+    </action>
+    <calendar datetime="1995-07-31T14:03:00-04:00" calendar="Union" number="113">
+      <text>Placed on the Union Calendar, Calendar No. 113.</text>
+    </calendar>
+    <action datetime="1995-07-31T14:04:00-04:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1995-07-31T14:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8010-8014" label="consideration"/>
+    </action>
+    <action datetime="1995-07-31T14:05:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-07-31T14:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-07-31T14:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="1995-07-31" calendar="Senate Legislative" under="General Orders" number="161">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="1995-07-31" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S11038" label="consideration"/>
+    </vote>
+    <topresident datetime="1995-07-31">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1995-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1995-08-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1995-08-04">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1995-08-04" type="public" number="104-21">
+      <text>Became Public Law No: 104-21.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSPW03" subcommittee="Surface Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSGO10" subcommittee="District of Columbia" name="House Government Reform and Oversight"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="s" number="1023"/>
+    <bill relation="unknown" session="104" type="s" number="1023"/>
+    <bill relation="unknown" session="104" type="s" number="1023"/>
+  </relatedbills>
+  <subjects>
+    <term name="Roads and highways"/>
+    <term name="Auditing"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Federal aid highway program"/>
+    <term name="Federal-city relations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Gasoline tax"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Highway engineering"/>
+    <term name="Highway finance"/>
+    <term name="Highway maintenance"/>
+    <term name="Highway planning"/>
+    <term name="Highway use tax"/>
+    <term name="Infrastructure"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Planning-programming-budgeting"/>
+    <term name="Revolving funds"/>
+    <term name="Taxation"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/1995--Passed House amended.
+District of Columbia Emergency Highway Relief Act - Requires the Federal share of the costs of certain highway projects within the District of Columbia during FY 1995 and 1996 to be up to 100 percent, as requested by the District. Includes as eligible a project for a route proposed for inclusion in, or designated as part of, the National Highway System or of regional significance for which the United States is or, before September 30, 1996, becomes obligated to pay the Federal share and with respect to which the District of Columbia certifies that sufficient funds are not available to pay the full non-Federal share of costs. (Sec. 3) Requires the District, by December 31, 1995, to establish a dedicated highway fund (separate from its general fund) to pay the cost-sharing requirements under the Federal-aid highway program and to repay the increased Federal share of costs of eligible projects paid pursuant to this Act. Provides that such fund shall be comprised of receipts from motor fuel taxes and, if necessary, motor vehicle taxes and fees collected by the District. Requires the District to make repayments, by the end of each of FY 1996 through 1998, of the increased Federal share paid for such project or the Secretary of Transportation shall not approve any federal-aid highway project in the District. Requires the Comptroller General to audit and report to the Congress each year on the financial condition and operations of the fund. (Sec. 4) Requires the District to: (1) expeditiously process and execute contracts to implement the Federal-aid highway program in the District; (2) establish an independent revolving fund account for Federal-aid highway projects for the prompt payment of contractors completing Federal-aid highway projects in the District; and (3) ensure that necessary expertise and resources are available for planning, design, and construction of such projects. Authorizes the Secretary to require administrative and programmatic reforms by the District to ensure efficient management of the Federal-aid highway program in the District. Requires the Comptroller General to review and report to the Congress on the implementation of the requirements of this section.</summary>
+</bill>

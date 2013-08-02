@@ -1,0 +1,134 @@
+<bill session="105" type="hj" number="92" updated="2013-07-14T18:51:12-04:00">
+  <state datetime="1997-11-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1997-11-20"/>
+  </status>
+  <introduced datetime="1997-07-31"/>
+  <titles>
+    <title as="introduced" type="short">Alabama-Coosa-Tallapoosa River Basin Compact</title>
+    <title as="reported to house" type="short">Alabama-Coosa-Tallapoosa River Basin Compact</title>
+    <title as="passed house" type="short">Alabama-Coosa-Tallapoosa River Basin Compact</title>
+    <title as="enacted" type="short">Alabama-Coosa-Tallapoosa River Basin Compact</title>
+    <title as="introduced" type="official">Granting the consent of Congress to the Alabama-Coosa-Tallapoosa River Basin Compact.</title>
+  </titles>
+  <sponsor id="400500"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="1997-07-31"/>
+    <cosponsor id="400010" joined="1997-07-31"/>
+    <cosponsor id="400514" joined="1997-07-31"/>
+    <cosponsor id="400030" joined="1997-07-31"/>
+    <cosponsor id="300021" joined="1997-07-31"/>
+    <cosponsor id="400078" joined="1997-07-31"/>
+    <cosponsor id="400084" joined="1997-07-31"/>
+    <cosponsor id="400099" joined="1997-07-31"/>
+    <cosponsor id="400127" joined="1997-07-31"/>
+    <cosponsor id="404587" joined="1997-07-31"/>
+    <cosponsor id="400502" joined="1997-07-31"/>
+    <cosponsor id="400221" joined="1997-07-31"/>
+    <cosponsor id="400240" joined="1997-07-31"/>
+    <cosponsor id="400242" joined="1997-07-31"/>
+    <cosponsor id="400296" joined="1997-07-31"/>
+    <cosponsor id="400501" joined="1997-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-07-31">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-08-07">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-10-23">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-10-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-10-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-10-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1997-10-31T16:16:00-05:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 105-370.</text>
+    </action>
+    <calendar datetime="1997-10-31T16:16:00-05:00" calendar="House" number="124">
+      <text>Placed on the House Calendar, Calendar No. 124.</text>
+    </calendar>
+    <action datetime="1997-11-04T14:12:00-05:00">
+      <text>Mr. Gekas moved to suspend the rules and pass the resolution, as amended.</text>
+    </action>
+    <action datetime="1997-11-04T14:14:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9895-9900" label="consideration"/>
+    </action>
+    <action datetime="1997-11-04T14:14:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-11-04T14:16:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Nadler objected to the Yea - Nay vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="1997-11-04T22:32:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9983" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-11-04T22:32:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1997-11-04T22:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-11-05">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1997-11-07" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11923" label="consideration"/>
+    </vote>
+    <action datetime="1997-11-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1997-11-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1997-11-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1997-11-20">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1997-11-20" type="public" number="105-105">
+      <text>Became Public Law No: 105-105.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Alabama"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Georgia"/>
+    <term name="Interstate compacts"/>
+    <term name="Planning"/>
+    <term name="River basin commissions"/>
+    <term name="Water allocation (Policy)"/>
+    <term name="Water resources development"/>
+    <term name="Watershed management"/>
+  </subjects>
+  <amendments/>
+  <summary>11/4/1997--Passed House amended.
+Interstate Compact - Alabama-Coosa-Tallapoosa River Basin Compact - Grants the consent of the Congress to the Alabama-Coosa-Tallapoosa River Basin Compact between Alabama and Georgia to promote interstate comity, remove causes of controversies, apportion surface waters, engage in water planning, and develop and share common data bases. Conditions the consent of the Congress to, and participation of the United States in, the Compact on specified conditions and reservations with respect to participation of Federal agencies during the development of the allocation formula used to determine an equitable apportionment of surface water between the two States. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="104" type="hc" number="64" updated="2013-07-14T18:48:38-04:00">
+  <state datetime="1995-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1995-05-12"/>
+  </status>
+  <introduced datetime="1995-05-01"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the 1995 Special Olympics Torch Relay to be run through the Capitol Grounds.</title>
+  </titles>
+  <sponsor id="400149"/>
+  <cosponsors>
+    <cosponsor id="400611" joined="1995-05-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-05-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1995-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-05-03">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1995-05-09T14:40:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 104-113.</text>
+    </action>
+    <calendar datetime="1995-05-09T14:40:00-04:00" calendar="House" number="44">
+      <text>Placed on the House Calendar, Calendar No. 44.</text>
+    </calendar>
+    <action datetime="1995-05-09T15:03:00-04:00">
+      <text>Mr. Gilchrest asked unanimous consent to consider the resolution.</text>
+    </action>
+    <action datetime="1995-05-09T15:03:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H4562-4563" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-05-09T15:06:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1995-05-09T15:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-05-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1995-05-12" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S6643" label="consideration"/>
+    </vote>
+    <action datetime="1995-05-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Disabled"/>
+    <term name="Olympic games"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/1995--Introduced.
+Permits the 1995 Special Olympics Torch Relay to be run through the Capitol Grounds.</summary>
+</bill>

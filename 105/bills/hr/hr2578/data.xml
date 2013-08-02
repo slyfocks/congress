@@ -1,0 +1,109 @@
+<bill session="105" type="h" number="2578" updated="2013-07-14T18:50:33-04:00">
+  <state datetime="1998-03-25T17:28:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-03-25T17:28:00-05:00"/>
+  </status>
+  <introduced datetime="1997-09-30"/>
+  <titles>
+    <title type="popular">Visa Waiver Pilot Program Extension bill</title>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to extend the visa waiver pilot program, and to provide for the collection of data with respect to the number of non-immigrants who remain in the United States after the expiration of the period of stay authorized by the Attorney General.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1997-09-30">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-09-30">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-10-01">
+      <text>Subcommittee on Immigration and Claims Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-10-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-10-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1997-11-07T12:43:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 105-387.</text>
+    </action>
+    <calendar datetime="1997-11-07T12:44:00-05:00" calendar="Union" number="227">
+      <text>Placed on the Union Calendar, Calendar No. 227.</text>
+    </calendar>
+    <action datetime="1998-03-24T18:25:00-05:00">
+      <text>Rules Committee Resolution H. Res. 391 Reported to House. Rule provides for consideration of H.R. 2578 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments. After passage of H.R. 2578, it shall be in order to consider in the House S. 1178. It shall be in order to move that the House strike all after the enacting clause of the Senate bill and insert in lieu thereof the provisions of H.R. 2578 as passed by the House.</text>
+    </action>
+    <action datetime="1998-03-25T14:33:00-05:00">
+      <text>Rule H. Res. 391 passed House.</text>
+    </action>
+    <action datetime="1998-03-25T14:33:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 391.</text>
+      <reference ref="CR H1484-1503" label="consideration"/>
+    </action>
+    <action datetime="1998-03-25T14:33:00-05:00">
+      <text>Rule provides for consideration of H.R. 2578 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments. After passage of H.R. 2578, it shall be in order to consider in the House S. 1178. It shall be in order to move that the House strike all after the enacting clause of the Senate bill and insert in lieu thereof the provisions of H.R. 2578 as passed by the House.</text>
+    </action>
+    <action datetime="1998-03-25T14:33:00-05:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 391 and Rule XXIII.</text>
+    </action>
+    <action datetime="1998-03-25T14:33:00-05:00">
+      <text>The Speaker designated the Honorable John E. Sununu to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="1998-03-25T14:33:00-05:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text>
+    </action>
+    <action datetime="1998-03-25T17:03:00-05:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2578.</text>
+    </action>
+    <action datetime="1998-03-25T17:04:00-05:00">
+      <text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-03-25T17:28:00-05:00" how="roll" result="pass" roll="71" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 407 - 0 (Roll No. 71).</text>
+    </vote>
+    <action datetime="1998-03-25T17:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-03-25T17:28:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-03-25T17:29:00-05:00">
+      <text>Laid on the table. See S. 1178 for further action.</text>
+      <reference ref="CR  H1503" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="105" type="hr" number="391"/>
+    <bill relation="supersedes" session="105" type="s" number="1178"/>
+    <bill relation="unknown" session="105" type="s" number="1178"/>
+    <bill relation="unknown" session="105" type="s" number="1517"/>
+    <bill relation="unknown" session="105" type="s" number="1519"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Aliens"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Illegal aliens"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments>
+    <amendment number="h534"/>
+    <amendment number="h535"/>
+  </amendments>
+  <summary>3/25/1998--Passed House amended.
+Amends the Immigration and Nationality Act with respect to the visa waiver pilot program to: (1) extend the program through September 30, 2000; and (2) permit program eligibility for a country whose nationals had a nonimmigrant visa refusal rate of less than three percent for the previous full fiscal year. Directs the Attorney General to implement an annual data collection and reporting program of nonimmigrant category overstay rates.</summary>
+</bill>

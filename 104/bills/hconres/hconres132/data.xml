@@ -1,0 +1,81 @@
+<bill session="104" type="hc" number="132" updated="2013-07-14T18:48:41-04:00">
+  <state datetime="1996-09-25">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1996-09-25"/>
+  </status>
+  <introduced datetime="1996-01-05"/>
+  <titles>
+    <title as="introduced" type="official">Relating to the extradition of Martin Pang from Brazil to the United States.</title>
+  </titles>
+  <sponsor id="400117"/>
+  <cosponsors>
+    <cosponsor id="400109" joined="1996-01-25"/>
+    <cosponsor id="400171" joined="1996-01-25"/>
+    <cosponsor id="400262" joined="1996-01-25"/>
+    <cosponsor id="400598" joined="1996-01-25"/>
+    <cosponsor id="400292" joined="1996-01-25"/>
+    <cosponsor id="410067" joined="1996-01-25"/>
+    <cosponsor id="410636" joined="1996-01-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-01-05">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1996-01-25">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1996-09-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-09-17">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1996-09-24T16:22:00-04:00">
+      <text>Mr. Gilman moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1996-09-24T16:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10909-10911" label="consideration"/>
+    </action>
+    <action datetime="1996-09-24T16:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-24T16:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-24T16:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-24T16:26:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1996-09-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11328-11329" label="consideration"/>
+    </vote>
+    <action datetime="1996-09-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere" name="House International Relations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arson"/>
+    <term name="Brazil"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Extradition"/>
+    <term name="Latin America"/>
+    <term name="Murder"/>
+    <term name="Prosecution"/>
+  </subjects>
+  <amendments/>
+  <summary>9/24/1996--Passed House amended.
+Calls for the Government of Brazil to grant its consent to prosecution of Martin Pang for arson and felony murder.</summary>
+</bill>

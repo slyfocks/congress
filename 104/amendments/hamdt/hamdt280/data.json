@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-09T13:45:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-09T14:29:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 220, 
+      "text": "On agreeing to the Schumer amendment (A004) Failed by recorded vote: 184 - 243 (Roll no. 220).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt280-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr956-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 956
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to make open to the public all records in product liability cases, except under special circumstances.", 
+  "house_number": 4, 
+  "introduced_at": "1995-03-09", 
+  "number": 280, 
+  "purpose": "An amendment to prohibit sealing court records of product liability law suits, except under limited circumstances. The amendment would allow court records to be sealed only by a court order and only if the information to be sealed would not restrict information relevant to public health or safety; or if the need to maintain confidentiality would substantially outweigh the public interest in disclosing potential health or safety hazards.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-09T14:29:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-06-27T22:04:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A001) offered by Mr. Oberstar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-06-28T00:28:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 288, 
+      "text": "On agreeing to the Oberstar amendment (A001) Failed by recorded vote: 193 - 212 (Roll no. 288).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1234-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3675-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 3675
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to increase funding for the Federal Aviation Administration by $1 million and decrease funding for the Department of Transportation Inspector General by $1 million.", 
+  "house_number": 1, 
+  "introduced_at": "1996-06-27", 
+  "number": 1234, 
+  "purpose": "An amendment to transfer $1 million in funds appropriated in the bill for salaries and expenses of the Department of Transportation, Office of the Inspector General, to the Federal Aviation Administration for operations and research activities. The intent of the amendment is to increase funding for aircraft inspection training within the FAA.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Oberstar, James L.", 
+    "state": "MN", 
+    "thomas_id": "00876", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-06-28T00:28:00-04:00", 
+  "updated_at": "2013-07-17T07:50:56-04:00"
+}

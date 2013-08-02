@@ -1,0 +1,51 @@
+<bill session="105" type="h" number="3674" updated="2013-07-14T18:50:51-04:00">
+  <state datetime="1998-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="1998-04-01"/>
+  </status>
+  <introduced datetime="1998-04-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 46, United States Code, to clarify that the Secretary of Transportation does not have authority to collect user fees for navigational assistance services, including icebreaking.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="1998-06-03"/>
+    <cosponsor id="400548" joined="1998-04-01"/>
+    <cosponsor id="406047" joined="1998-04-28"/>
+    <cosponsor id="400264" joined="1998-06-25"/>
+    <cosponsor id="400300" joined="1998-05-11"/>
+    <cosponsor id="400391" joined="1998-06-25"/>
+    <cosponsor id="400611" joined="1998-06-25"/>
+    <cosponsor id="400417" joined="1998-05-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-04-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1998-04-13">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1998-10-21">
+      <text>See H.R.2204.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="h" number="2204"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Economics and public finance"/>
+    <term name="Ice breaking operations"/>
+    <term name="Navigational aids"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/1998--Introduced.
+Amends Federal shipping law to prohibit the Secretary of Transportation from collecting a fee or charge for any navigational assistance service, including icebreaking.</summary>
+</bill>

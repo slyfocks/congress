@@ -1,0 +1,111 @@
+<bill session="105" type="h" number="424" updated="2013-07-14T18:49:53-04:00">
+  <state datetime="1998-02-24T17:36:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-02-24T17:36:00-05:00"/>
+  </status>
+  <introduced datetime="1997-01-09"/>
+  <titles>
+    <title type="popular">Mandatory Minimum Sentences for Criminals Possessing Firearms bill</title>
+    <title as="introduced" type="official">To provide for increased mandatory minimum sentences for criminals possessing firearms, and for other purposes.</title>
+  </titles>
+  <sponsor id="400288"/>
+  <cosponsors>
+    <cosponsor id="400523" joined="1997-04-15"/>
+    <cosponsor id="400136" joined="1997-01-21"/>
+    <cosponsor id="400536" joined="1997-01-09"/>
+    <cosponsor id="300047" joined="1997-01-09"/>
+    <cosponsor id="400506" joined="1997-02-05"/>
+    <cosponsor id="400213" joined="1997-09-08"/>
+    <cosponsor id="400318" joined="1997-04-15"/>
+    <cosponsor id="400365" joined="1997-01-09"/>
+    <cosponsor id="410147" joined="1997-01-09"/>
+    <cosponsor id="300096" joined="1997-01-21"/>
+    <cosponsor id="400430" joined="1997-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-01-09">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-01-28">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-07-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-07-16">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-09-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-09-09">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 8.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1997-10-24T14:18:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 105-344.</text>
+    </action>
+    <calendar datetime="1997-10-24T14:18:00-04:00" calendar="Union" number="199">
+      <text>Placed on the Union Calendar, Calendar No. 199.</text>
+    </calendar>
+    <action datetime="1998-02-24T16:36:00-05:00">
+      <text>Mr. McCollum moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1998-02-24T16:37:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H530-536" label="consideration"/>
+    </action>
+    <action datetime="1998-02-24T16:37:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1998-02-24T17:13:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1998-02-24T17:14:00-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-02-24T17:36:00-05:00" how="roll" result="pass" roll="18" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 59 (Roll no. 18).</text>
+    </vote>
+    <action datetime="1998-02-24T17:36:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-02-25">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU08" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="s" number="43"/>
+    <bill relation="unknown" session="105" type="s" number="191"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault"/>
+    <term name="Bombs"/>
+    <term name="Capital punishment"/>
+    <term name="Drug abuse"/>
+    <term name="Drug traffic"/>
+    <term name="Emergency management"/>
+    <term name="Explosives"/>
+    <term name="Firearms"/>
+    <term name="Machine guns"/>
+    <term name="Mandatory sentences"/>
+    <term name="Murder"/>
+    <term name="Recidivists"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="Violence"/>
+    <term name="Weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1998--Passed House amended.
+Amends Federal criminal code provisions prescribing mandatory additional sentences for use of a firearm in furtherance of a crime of violence or drug trafficking crime. Requires additional sentences of: (1) 10 years for possessing a firearm (current law requires 5 years for using or carrying a firearm), 15 years for brandishing a firearm, and 20 years for discharging a firearm during and in relation to any such crime; and (2) 20 years, 25 years, and 30 years for second or subsequent convictions of such offenses, respectively.</summary>
+</bill>

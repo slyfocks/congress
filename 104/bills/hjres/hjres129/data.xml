@@ -1,0 +1,93 @@
+<bill session="104" type="hj" number="129" updated="2013-07-14T18:48:36-04:00">
+  <state datetime="1996-03-19T15:04:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-03-19T15:04:00-05:00"/>
+  </status>
+  <introduced datetime="1995-11-30"/>
+  <titles>
+    <title as="introduced" type="official">Granting the consent of Congress to the Vermont-New Hampshire Interstate Public Water Supply Compact.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="1995-11-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-11-30">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-12-11">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-02-29">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-02-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-02-29">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1996-03-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-03-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1996-03-18T15:42:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 104-485.</text>
+    </action>
+    <calendar datetime="1996-03-18T15:43:00-05:00" calendar="House" number="194">
+      <text>Placed on the House Calendar, Calendar No. 194.</text>
+    </calendar>
+    <action datetime="1996-03-19T14:56:00-05:00">
+      <text>Mr. Gekas moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="1996-03-19T14:57:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2339-2341" label="consideration"/>
+    </action>
+    <action datetime="1996-03-19T14:57:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-03-19T15:04:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-03-19T15:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-03-19T15:05:00-05:00">
+      <text>Laid on the table. See S.J. Res. 38 for further action.</text>
+      <reference ref="CR H2342" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="sj" number="38"/>
+    <bill relation="unknown" session="104" type="sj" number="38"/>
+  </relatedbills>
+  <subjects>
+    <term name="Interstate compacts"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Government operations and politics"/>
+    <term name="Infrastructure"/>
+    <term name="New Hampshire"/>
+    <term name="Vermont"/>
+    <term name="Water resources development"/>
+    <term name="Water storage"/>
+    <term name="Water supply"/>
+    <term name="Water treatment plants"/>
+  </subjects>
+  <amendments/>
+  <summary>11/30/1995--Introduced.
+Interstate Compact - Grants congressional consent to the Vermont-New Hampshire Interstate Public Water Supply Compact entered into between the States of Vermont and New Hampshire to erect and maintain joint public water supply facilities.</summary>
+</bill>

@@ -1,0 +1,77 @@
+<bill session="104" type="h" number="2361" updated="2013-07-14T18:47:50-04:00">
+  <state datetime="1995-11-20T14:58:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-11-20T14:58:00-05:00"/>
+  </status>
+  <introduced datetime="1995-09-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend the commencement dates of certain temporary Federal judgeships.</title>
+  </titles>
+  <sponsor id="407899"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-09-19">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-10-02">
+      <text>Referred to the Subcommittee on Courts and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-10-17">
+      <text>Subcommittee on Courts and Intellectual Property Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-10-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-10-17">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1995-11-13T13:46:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 104-334.</text>
+    </action>
+    <calendar datetime="1995-11-13T13:46:00-05:00" calendar="Union" number="179">
+      <text>Placed on the Union Calendar, Calendar No. 179.</text>
+    </calendar>
+    <action datetime="1995-11-20T14:51:00-05:00">
+      <text>Mr. Moorhead moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-11-20T14:51:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13362-13363" label="consideration"/>
+    </action>
+    <action datetime="1995-11-20T14:51:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-11-20T14:58:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-11-20T14:58:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-11-20T14:59:00-05:00">
+      <text>Laid on the table. See S. 1328 for further action.</text>
+      <reference ref="CR H13364" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU03" subcommittee="Courts and Intellectual Property" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="1328"/>
+    <bill relation="unknown" session="104" type="s" number="1328"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="District courts"/>
+    <term name="Judges"/>
+    <term name="Judicial districts"/>
+    <term name="Michigan"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/1995--Introduced.
+Amends the Judicial Improvements Act of 1990 to provide that the first vacancy in the office of district judge occurring in the western district of Michigan after December 1, 1995, or in each of other specified judicial districts five years or more after the confirmation date of the judge named to fill a temporary judgeship created by such Act, shall not be filled.</summary>
+</bill>

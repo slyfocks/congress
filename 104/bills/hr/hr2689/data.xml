@@ -1,0 +1,83 @@
+<bill session="104" type="h" number="2689" updated="2013-07-14T18:48:02-04:00">
+  <state datetime="1995-12-18T14:01:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-12-18T14:01:00-05:00"/>
+  </status>
+  <introduced datetime="1995-11-29"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Courthouse located at 301 West Main Street in Benton, Illinois, as the "James L. Foreman United States Courthouse".</title>
+  </titles>
+  <sponsor id="408839"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-11-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1995-12-11">
+      <text>Referred to the Subcommittee on Public Buildings and Economic Development.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-12-13">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-12-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-12-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-12-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-12-14">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1995-12-18T12:00:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 104-410.</text>
+    </action>
+    <calendar datetime="1995-12-18T12:01:00-05:00" calendar="House" number="153">
+      <text>Placed on the House Calendar, Calendar No. 153.</text>
+    </calendar>
+    <action datetime="1995-12-18T13:54:00-05:00">
+      <text>Mr. Gilchrest moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-12-18T13:54:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H14982-14983" label="consideration"/>
+    </action>
+    <action datetime="1995-12-18T13:55:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-18T14:01:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-12-18T14:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-18">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW08" subcommittee="Public Buildings and Economic Development" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorations"/>
+    <term name="Courthouses"/>
+    <term name="Illinois"/>
+    <term name="Law"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>11/29/1995--Introduced.
+Designates the U.S. Courthouse at 301 West Main Street, Benton, Illinois, as the James L. Foreman United States Courthouse.</summary>
+</bill>

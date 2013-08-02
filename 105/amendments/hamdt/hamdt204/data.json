@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-06-24T17:35:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A020) offered by Mr. Hilleary to the Buyer amendment (A019).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-06-24T18:32:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 233, 
+      "text": "On agreeing to the Hilleary amendment (A020) Failed by recorded vote: 196 - 231 (Roll no. 233).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt204-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt203-105", 
+    "amendment_type": "hamdt", 
+    "congress": 105, 
+    "number": 203
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1119-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1119
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Substitute amendment to the Buyer amendment (A019) sought to prohibit funding for the deployment of U.S. Armed Forces in the Republic of Bosnia and Herzegovina after December 31, 1997; allow an extension of up to 180 days by the President if he transmits a report to Congress requesting an extension and a joint resolution is then enacted specifically approving the request; prohibit funding for law enforcement activities in Bosnia and Herzegovina after enactment; and require a Presidential report on the deployment on the ground of U.S. forces not later than October 31, 1997.", 
+  "house_number": 20, 
+  "introduced_at": "1997-06-24", 
+  "number": 204, 
+  "purpose": "An amendment, offered as a substitute to the Buyer amendment, to prohibit any funds authorized in the bill to be obligated for the deployment of U.S. ground troops in Bosnia after December 15, 1997, unless the President requests the deployment extended until June 30, 1998. The amendment would require Congress to approve the request by joint resolution. The amendment would require the administration to report to Congress by October 31, 1997, concerning the role of the U.S. in preparing its European allies to assume control over the peacekeeping mission in Bosnia, as well as providing information on the goals of the Stabilization Force, the possible risks to the safety of U.S. troops, and the planned U.S. exit strategy.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hilleary, Van", 
+    "state": "TN", 
+    "thomas_id": "00538", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-06-24T18:32:00-04:00", 
+  "updated_at": "2013-07-17T07:51:36-04:00"
+}

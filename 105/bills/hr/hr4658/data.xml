@@ -1,0 +1,86 @@
+<bill session="105" type="h" number="4658" updated="2013-07-14T18:51:07-04:00">
+  <state datetime="1998-10-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1998-10-15"/>
+  </status>
+  <introduced datetime="1998-10-01"/>
+  <titles>
+    <title as="introduced" type="official">To extend the date by which an automated entry-exit control system must be developed.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1998-10-01">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1998-10-01">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1998-10-01T17:25:00-04:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="1998-10-01T17:25:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9204" label="consideration"/>
+    </action>
+    <action datetime="1998-10-01T17:25:00-04:00">
+      <text>Mr. Smith (TX) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-01T17:26:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1998-10-01T17:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-01">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1998-10-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S12056" label="consideration"/>
+    </vote>
+    <topresident datetime="1998-10-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1998-10-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1998-10-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1998-10-15">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1998-10-15" type="public" number="105-259">
+      <text>Became Public Law No: 105-259.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="s" number="2540"/>
+    <bill relation="unknown" session="105" type="s" number="2540"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Aliens"/>
+    <term name="Boundaries"/>
+    <term name="Commerce"/>
+    <term name="Computer matching"/>
+    <term name="Computers and government"/>
+    <term name="Data banks"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Identification devices"/>
+    <term name="International affairs"/>
+    <term name="Science, technology, communications"/>
+    <term name="Tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/1998--Introduced.
+Amends the Omnibus Appropriations Act, 1997 to extend until October 15, 1998, the deadline for the Attorney General to develop an automated entry and exit control system (that will collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States and enable the Attorney General to identify lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General).</summary>
+</bill>

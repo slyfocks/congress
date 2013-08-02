@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-07-19T12:54:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Gilchrest to the Duncan amendment (A003).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-07-19T13:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 527, 
+      "text": "On agreeing to the Gilchrest amendment (A004) Failed by recorded vote: 185 - 240 (Roll no. 527).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt568-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt567-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 567
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2020-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2020
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Duncan amendment (A003) sought to specify that the funding reductions called for in the Duncan amendment shall not apply with respect to the new FDA construction project in Montgomery and Prince Georges Counties in Maryland, if a prospectus is approved pursuant to the Public Buildings Act.", 
+  "house_number": 4, 
+  "introduced_at": "1995-07-19", 
+  "number": 568, 
+  "purpose": "An amendment, not preprinted in the Congressional Record, to specify that the funding reductions called for in the Duncan amendment shall not apply with respect to the new FDA construction project in Montgomery and Prince Georges Counties in Maryland, if a prospectus is approved pursuant to the Public Buildings Act.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gilchrest, Wayne T.", 
+    "state": "MD", 
+    "thomas_id": "00438", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-07-19T13:49:00-04:00", 
+  "updated_at": "2013-07-17T07:50:48-04:00"
+}

@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-01-31T17:27:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A054) offered by Mr. Moakley to the Dreier amendment (A053).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-31T17:31:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Moakley amendment (A054) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt65-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt64-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 64
+  }, 
+  "amends_bill": {
+    "bill_id": "hr5-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Dreier amendment (A053) for description.", 
+  "house_number": 54, 
+  "introduced_at": "1995-01-31", 
+  "number": 65, 
+  "purpose": "An amendment to the Dreier amendment to require any member raising a point of order against proposed legislation to specify the precise language in the bill to which the point of order is asserted.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Moakley, John Joseph", 
+    "state": "MA", 
+    "thomas_id": "00820", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-01-31T17:31:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

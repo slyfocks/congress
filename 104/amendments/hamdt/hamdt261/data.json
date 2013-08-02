@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-06T19:57:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Hoke.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-06T21:05:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 203, 
+      "text": "On agreeing to the Hoke amendment (A004) Failed by recorded vote: 71 - 347 (Roll no. 203).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt261-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr988-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 988
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to limit the contingency fees attorneys can receive (when a qualifying settlement offer is made and accepted) to the lesser of the previously agreed-to hourly rate for work performed plus expenses or 10 percent of the amount of the settlement offer; and limit the contingency fees (when a qualifying settlement offer is made but rejected) to the total of no more than 33 percent of the difference between the final recovery and the settlement offer, the previously agreed-to hourly rate for work performed, and the attorney's actual expenses.", 
+  "house_number": 4, 
+  "introduced_at": "1995-03-06", 
+  "number": 261, 
+  "purpose": "An amendment to prohibit contingent fees compensation for attorneys if the plaintiff in a suit accepts a settlement offer of the defendant, if the offer is made within two months of the filing of the complaint. The attorney for the plaintiff would be paid an hourly rate for work performed, limited to 10% of the amount of the settlement. If a settlement offer is rejected, the plaintiff's attorney would be awarded an hourly rate for work performed up until the time the offer was made, plus a percentage of the amount of the judgement in excess of the original settlement offer.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Hoke, Martin R.", 
+    "state": "OH", 
+    "thomas_id": "00549", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-06T21:05:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

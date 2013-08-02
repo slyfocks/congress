@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-07-09T19:01:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-07-09T21:20:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 255, 
+      "text": "On agreeing to the Frank (MA) amendment (A006) Failed by recorded vote: 182 - 238 (Roll no. 255).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt217-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1775-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1775
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to reduce by 0.7 percent the total amount authorized to be appropriated for intelligence activities with the CIA Retirement and Disability Fund excepted from this reduction.", 
+  "house_number": 6, 
+  "introduced_at": "1997-07-09", 
+  "number": 217, 
+  "purpose": "An amendment to reduce the authorized funding provided in the bill by .7%.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-07-09T21:20:00-04:00", 
+  "updated_at": "2013-07-17T07:51:36-04:00"
+}

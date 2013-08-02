@@ -1,0 +1,75 @@
+<bill session="104" type="h" number="3991" updated="2013-07-14T18:48:26-04:00">
+  <state datetime="1996-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1996-08-02"/>
+  </status>
+  <introduced datetime="1996-08-02"/>
+  <titles>
+    <title as="introduced" type="short">Prescription Drug Benefit Equity Act of 1996</title>
+    <title as="introduced" type="official">To assure equitable treatment in health care coverage of prescription drugs.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="1996-09-25"/>
+    <cosponsor id="400532" joined="1996-09-28"/>
+    <cosponsor id="400143" joined="1996-09-25"/>
+    <cosponsor id="400502" joined="1996-09-25"/>
+    <cosponsor id="400333" joined="1996-09-25"/>
+    <cosponsor id="400528" joined="1996-09-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-08-02">
+      <text>Referred to the Committee on Commerce, and in addition to the Committees on Ways and Means, and Economic and Educational Opportunities, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1996-08-02">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1996-08-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="1996-08-02">
+      <text>Referred to House Economic and Educational Opportunities</text>
+    </action>
+    <action datetime="1996-08-13">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1996-09-06">
+      <text>Referred to the Subcommittee on Employer-Employee Relations.</text>
+      <committee name="House Economic and Educational Opportunities"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Economic and Educational Opportunities" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Employer-Employee Relations" name="House Economic and Educational Opportunities"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commerce"/>
+    <term name="Drugs"/>
+    <term name="Drugstores"/>
+    <term name="Employee health benefits"/>
+    <term name="Federal preemption"/>
+    <term name="Finance and financial sector"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Government operations and politics"/>
+    <term name="Health insurance"/>
+    <term name="Health maintenance organizations"/>
+    <term name="Insurance companies"/>
+    <term name="Labor and employment"/>
+    <term name="Mail-order business"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Public assistance programs"/>
+    <term name="Social welfare"/>
+    <term name="State laws"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1996--Introduced.
+Prescription Drug Benefit Equity Act of 1996 - Prohibits a health plan from providing mail-order prescription drug coverage without also providing non-mail-order prescription drug coverage meeting benefit and cost-sharing requirements. Provides for enforcement.</summary>
+</bill>

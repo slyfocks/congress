@@ -1,0 +1,112 @@
+<bill session="104" type="h" number="558" updated="2013-07-14T18:47:12-04:00">
+  <state datetime="1995-09-19T12:16:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="1995-09-19T12:16:00-04:00"/>
+  </status>
+  <introduced datetime="1995-01-18"/>
+  <titles>
+    <title as="introduced" type="short">Texas Low-Level Radioactive Waste Disposal Compact Consent Act</title>
+    <title as="introduced" type="official">To grant the consent of the Congress to the Texas Low-Level Radioactive Waste Disposal Compact.</title>
+  </titles>
+  <sponsor id="404068"/>
+  <cosponsors>
+    <cosponsor id="400567" joined="1995-02-07"/>
+    <cosponsor id="400525" joined="1995-01-23"/>
+    <cosponsor id="400018" joined="1995-02-13"/>
+    <cosponsor id="400550" joined="1995-03-28"/>
+    <cosponsor id="400104" joined="1995-01-18"/>
+    <cosponsor id="400160" joined="1995-03-23"/>
+    <cosponsor id="400165" joined="1995-01-18"/>
+    <cosponsor id="406625" joined="1995-01-18"/>
+    <cosponsor id="406922" joined="1995-01-23"/>
+    <cosponsor id="400389" joined="1995-02-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1995-01-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E120"/>
+    </action>
+    <action state="REFERRED" datetime="1995-01-18">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1995-02-21">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-05-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-05-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-05-16">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-05-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-05-24">
+      <text>Ordered to be Reported by the Yeas and Nays: 41 - 2.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="1995-06-20T19:16:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 104-148.</text>
+    </action>
+    <calendar datetime="1995-06-20T19:17:00-04:00" calendar="Union" number="68">
+      <text>Placed on the Union Calendar, Calendar No. 68.</text>
+    </calendar>
+    <action datetime="1995-09-18T17:35:00-04:00">
+      <text>Mr. Schaefer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-09-18T17:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9104" label="consideration"/>
+    </action>
+    <action datetime="1995-09-18T17:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1995-09-18T18:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed until Sept. 19.</text>
+    </action>
+    <action datetime="1995-09-19T12:08:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9104-9115" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="1995-09-19T12:16:00-04:00" how="roll" result="fail" roll="669" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 176 - 243 (Roll no. 669).</text>
+    </vote>
+    <action datetime="1995-12-19T18:54:00-05:00">
+      <text>Rules Committee Resolution H. Res. 313 Reported to House. Rule provides for consideration of H.R. 558 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Bill is open to amendments. During consideration of the bill for amendment, the Chairman may accord priority in recognition to those Members who have had their amendments printed in the Record.</text>
+    </action>
+    <action datetime="1995-12-20T14:13:00-05:00">
+      <text>Rule H. Res. 313 passed House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="104" type="hr" number="313"/>
+    <bill relation="unknown" session="104" type="s" number="419"/>
+  </relatedbills>
+  <subjects>
+    <term name="Interstate compacts"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental protection"/>
+    <term name="Government operations and politics"/>
+    <term name="Interstate commissions"/>
+    <term name="Maine"/>
+    <term name="Radioactive wastes"/>
+    <term name="Texas"/>
+    <term name="Vermont"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/1995--Introduced.
+Texas Low-Level Radioactive Waste Disposal Compact Consent Act - Grants the consent of the Congress to the Texas Low-Level Radioactive Waste Disposal Compact entered into by the States of Maine, Texas, and Vermont.</summary>
+</bill>

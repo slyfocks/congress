@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-07-12T12:57:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A002) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-12T13:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 314, 
+      "text": "On agreeing to the Frank (MA) amendment (A002) Failed by recorded vote: 103 - 311 (Roll no. 314).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1286-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3396-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 3396
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to suspend the application of the Federal definition of marriage when a State provides for a definition different than that which is provided in the bill.", 
+  "house_number": 2, 
+  "introduced_at": "1996-07-12", 
+  "number": 1286, 
+  "purpose": "An amendment to suspend the federal definition of marriage contained in the bill when a state, through normal democratic procedures, establishes a different definition.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-07-12T13:37:00-04:00", 
+  "updated_at": "2013-07-17T07:50:56-04:00"
+}

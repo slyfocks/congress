@@ -1,0 +1,117 @@
+<bill session="104" type="h" number="1384" updated="2013-07-14T18:47:30-04:00">
+  <state datetime="1995-10-10T15:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-10-10T15:22:00-04:00"/>
+  </status>
+  <introduced datetime="1995-04-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to exempt certain full-time health-care professionals of the Department of Veterans Affairs from restrictions on remunerated outside professional activities.</title>
+  </titles>
+  <sponsor id="300151"/>
+  <cosponsors>
+    <cosponsor id="400514" joined="1995-06-15"/>
+    <cosponsor id="400028" joined="1995-06-15"/>
+    <cosponsor id="400048" joined="1995-06-15"/>
+    <cosponsor id="402858" joined="1995-06-15"/>
+    <cosponsor id="400114" joined="1995-06-15"/>
+    <cosponsor id="400118" joined="1995-04-04"/>
+    <cosponsor id="400126" joined="1995-06-15"/>
+    <cosponsor id="400133" joined="1995-06-15"/>
+    <cosponsor id="404142" joined="1995-06-27"/>
+    <cosponsor id="400538" joined="1995-07-13"/>
+    <cosponsor id="400223" joined="1995-05-02"/>
+    <cosponsor id="400545" joined="1995-06-15"/>
+    <cosponsor id="400310" joined="1995-07-25"/>
+    <cosponsor id="400329" joined="1995-06-27"/>
+    <cosponsor id="400331" joined="1995-07-21"/>
+    <cosponsor id="400528" joined="1995-07-20"/>
+    <cosponsor id="400365" joined="1995-04-04"/>
+    <cosponsor id="400380" joined="1995-06-15"/>
+    <cosponsor id="400388" joined="1995-06-15"/>
+    <cosponsor id="400504" joined="1995-06-15"/>
+    <cosponsor id="400509" joined="1995-07-19"/>
+    <cosponsor id="411314" joined="1995-07-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-04-04">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1995-04-05">
+      <text>Referred to the Subcommittee on Hospitals and Health Care.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1995-05-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1995-05-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1995-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-06-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="1995-08-02T18:20:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 104-226.</text>
+    </action>
+    <calendar datetime="1995-08-02T18:21:00-04:00" calendar="Union" number="118">
+      <text>Placed on the Union Calendar, Calendar No. 118.</text>
+    </calendar>
+    <action datetime="1995-10-10T15:02:00-04:00">
+      <text>Mr. Stump moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1995-10-10T15:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9759-9761" label="consideration"/>
+    </action>
+    <action datetime="1995-10-10T15:03:00-04:00">
+      <text>DEBATE - The House proceeded with up to forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-10-10T15:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-10-10T15:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-10-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1996-09-28">
+      <text>For Further Action See H.R.3118.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="h" number="3118"/>
+    <bill relation="unknown" session="104" type="h" number="3118"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Dental care"/>
+    <term name="Dentists"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Labor and employment"/>
+    <term name="Nurses"/>
+    <term name="Paramedical personnel"/>
+    <term name="Physicians' assistants"/>
+    <term name="Supplementary employment"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>10/10/1995--Passed House amended.
+Exempts under certain circumstances registered nurses, physician's assistants, and expanded-duty dental auxiliaries of the Veterans Health Administration (VHA) of the Department of Veterans Affairs from Federal provisions prohibiting VHA employees from assuming responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility.</summary>
+</bill>

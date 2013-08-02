@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-06-14T17:34:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A010) offered by Mr. Berman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-06-14T19:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 377, 
+      "text": "On agreeing to the Berman amendment (A010) Failed by recorded vote: 152 - 276 (Roll no. 377).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt432-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1530-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1530
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to delete provisions establishing a new Defense Export Loan Guarantee Program.", 
+  "house_number": 10, 
+  "introduced_at": "1995-06-14", 
+  "number": 432, 
+  "purpose": "An amendment to strike provisions establishing a new Defense Export Loan Guarantee Program, under which DOD would guarantee loans made by private lenders for defense related purchases by NATO member countries and other U.S. allies.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Berman, Howard L.", 
+    "state": "CA", 
+    "thomas_id": "00082", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-06-14T19:01:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

@@ -1,0 +1,104 @@
+<bill session="105" type="hc" number="31" updated="2013-07-14T18:51:13-04:00">
+  <state datetime="1997-03-05T13:52:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-03-05T13:52:00-05:00"/>
+  </status>
+  <introduced datetime="1997-03-03"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress regarding the display of the Ten Commandments by Judge Roy S. Moore, a judge on the circuit court of the State of Alabama.</title>
+  </titles>
+  <sponsor id="400004"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="1997-03-04"/>
+    <cosponsor id="400514" joined="1997-03-03"/>
+    <cosponsor id="400500" joined="1997-03-04"/>
+    <cosponsor id="400574" joined="1997-03-03"/>
+    <cosponsor id="400575" joined="1997-03-04"/>
+    <cosponsor id="400576" joined="1997-03-04"/>
+    <cosponsor id="400084" joined="1997-03-05"/>
+    <cosponsor id="400085" joined="1997-03-04"/>
+    <cosponsor id="400579" joined="1997-03-05"/>
+    <cosponsor id="400127" joined="1997-03-04"/>
+    <cosponsor id="400154" joined="1997-03-04"/>
+    <cosponsor id="400547" joined="1997-03-04"/>
+    <cosponsor id="400187" joined="1997-03-05"/>
+    <cosponsor id="400649" joined="1997-03-05"/>
+    <cosponsor id="400197" joined="1997-03-04"/>
+    <cosponsor id="400319" joined="1997-03-04"/>
+    <cosponsor id="400501" joined="1997-03-03"/>
+    <cosponsor id="400605" joined="1997-03-04"/>
+    <cosponsor id="400353" joined="1997-03-04"/>
+    <cosponsor id="400608" joined="1997-03-05"/>
+    <cosponsor id="400507" joined="1997-03-05"/>
+    <cosponsor id="400541" joined="1997-03-04"/>
+    <cosponsor id="400427" joined="1997-03-05"/>
+    <cosponsor id="400432" joined="1997-03-04"/>
+    <cosponsor id="400435" joined="1997-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-03-03">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1997-03-03">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1997-03-03">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="1997-03-03">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="1997-03-04T14:10:00-05:00">
+      <text>Mr. Canady moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1997-03-04T14:10:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H715-721" label="consideration"/>
+    </action>
+    <action datetime="1997-03-04T14:10:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-03-04T14:56:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed until March 5.</text>
+    </action>
+    <action datetime="1997-03-05T13:40:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H738-739" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-03-05T13:52:00-05:00" how="roll" result="pass" roll="31" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 295 - 125 (Roll no. 31).</text>
+    </vote>
+    <action datetime="1997-03-05T13:53:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-03-06">
+      <text>Received in the Senate and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="sc" number="13"/>
+  </relatedbills>
+  <subjects>
+    <term name="Religion"/>
+    <term name="Bible"/>
+    <term name="Church and state"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Courthouses"/>
+    <term name="Ethics"/>
+    <term name="Government operations and politics"/>
+    <term name="Infrastructure"/>
+    <term name="Law"/>
+    <term name="Religious liberty"/>
+    <term name="Signs and symbols"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1997--Introduced.
+Expresses the sense of the Congress that: (1) the Ten Commandments are a declaration of fundamental principles that are the cornerstones of a fair and just society; and (2) the public display of the Ten Commandments, including in government offices and courthouses, should be permitted.</summary>
+</bill>

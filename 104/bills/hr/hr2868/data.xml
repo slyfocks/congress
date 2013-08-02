@@ -1,0 +1,51 @@
+<bill session="104" type="h" number="2868" updated="2013-07-14T18:48:05-04:00">
+  <state datetime="1996-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="1996-01-23"/>
+  </status>
+  <introduced datetime="1996-01-23"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to make permanent alternative teacher certification programs.</title>
+  </titles>
+  <sponsor id="410695"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="1996-01-23"/>
+    <cosponsor id="405560" joined="1996-06-19"/>
+    <cosponsor id="407838" joined="1996-01-23"/>
+    <cosponsor id="400422" joined="1996-01-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-01-23">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1996-02-01">
+      <text>Referred to the Subcommittee on Education, Training, Employment and Housing.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1996-04-18">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1996-06-19">
+      <text>See H.R.3674.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR07" subcommittee="Education, Training, Employment and Housing" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="h" number="3674"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Teacher education"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/1996--Introduced.
+Makes permanent the inclusion within the definition of "educational institution" for purposes of veterans educational assistance provisions of entities that provide training required for the completion of any State-approved alternative teacher certification program.</summary>
+</bill>

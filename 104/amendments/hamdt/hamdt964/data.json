@@ -1,0 +1,55 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-03-19T21:20:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. McCollum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-20T12:05:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. McCollum.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-20T12:15:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 72, 
+      "text": "On agreeing to the McCollum amendment (A004) Failed by recorded vote: 191 - 221 (Roll no. 72).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt964-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2202-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2202
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to authorize such sums as may be necessary to secure Social Security cards against counterfeiting and fraud; and require the Social Security Administration to make improvements in the design and materials of Social Security cards to render them more difficult to counterfeit.", 
+  "house_number": 4, 
+  "introduced_at": "1996-03-19", 
+  "number": 964, 
+  "purpose": "An amendment, printed in House Report 104-483 as amendment No. 4, to direct the Commissioner of the Social Security Administration to make such improvements as necessary to the Social Security account number card to secure against counterfeiting and fraudulent use.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "McCollum, Bill", 
+    "state": "FL", 
+    "thomas_id": "00761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-03-20T12:15:00-05:00", 
+  "updated_at": "2013-07-17T07:50:52-04:00"
+}

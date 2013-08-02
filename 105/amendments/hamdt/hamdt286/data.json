@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-07-28T19:17:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mr. Klug.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-07-28T20:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 333, 
+      "text": "On agreeing to the Klug amendment (A003) Failed by recorded vote: 170 - 242 (Roll no. 333).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt286-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2209-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2209
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to reduce staffing at the Government Printing Office by 350 positions.", 
+  "house_number": 3, 
+  "introduced_at": "1997-07-28", 
+  "number": 286, 
+  "purpose": "An amendment to reduce the number of full-time personnel in the Government Printing Office by 10%.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Klug, Scott L.", 
+    "state": "WI", 
+    "thomas_id": "00641", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-07-28T20:08:00-04:00", 
+  "updated_at": "2013-07-17T07:51:36-04:00"
+}

@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-09-07T15:50:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A022) offered by Mrs. Schroeder.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-07T16:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Schroeder amendment (A022) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1995-09-07T18:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Skaggs demanded a separate vote on the Schroeder amendment (A022).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-07T18:23:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 645, 
+      "text": "On agreeing to the Schroeder amendment (A022) Failed by recorded vote: 182 - 238 (Roll no. 645).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt767-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2126-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2126
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment prohibits defense contractors from using Federal funds for political advocacy. \\   The amendment was subsequently rejected on a separate vote in the full House. See Roll No. 645.", 
+  "house_number": 22, 
+  "introduced_at": "1995-09-07", 
+  "number": 767, 
+  "purpose": "An amendment preprinted in the Congressional Record of September 6 as amendment No. 85, to prohibit defense contractors from using Federal funds to lobby government agencies; and prohibits contractors from using more than 5% of their own funds on lobbying or political activities.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Schroeder, Patricia", 
+    "state": "CO", 
+    "thomas_id": "01033", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-09-07T18:23:00-04:00", 
+  "updated_at": "2013-07-17T07:50:48-04:00"
+}

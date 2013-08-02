@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-29T19:07:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-30T15:52:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 550, 
+      "text": "On agreeing to the Ensign amendment (A004) Failed by recorded vote: 135 - 290 (Roll no. 550).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt442-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1270-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1270
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to ensure that a risk assessment study and cost benefit analysis are conducted prior to action being taken under the Act.", 
+  "house_number": 4, 
+  "introduced_at": "1997-10-29", 
+  "number": 442, 
+  "purpose": "An amenement to require that a risk assessment and cost benefit analysis be conducted before and Department of Energy can carry out any provision in the bill.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-10-30T15:52:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

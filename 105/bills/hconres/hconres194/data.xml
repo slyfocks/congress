@@ -1,0 +1,51 @@
+<bill session="105" type="hc" number="194" updated="2013-07-14T18:51:18-04:00">
+  <state datetime="1997-11-13">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1997-11-13"/>
+  </status>
+  <introduced datetime="1997-11-09"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1997-11-10T01:48:00-05:00">
+      <text>Pursuant to the provisions of H. Res. 311, H. Con. Res. 194 is considered passed House.</text>
+    </action>
+    <action datetime="1997-11-10T01:48:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 311.</text>
+      <reference ref="11/9/1997 CR H10575-10577" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-11-10T01:48:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1997-11-10T01:48:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-11-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1997-11-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S12676" label="consideration"/>
+    </vote>
+    <action datetime="1997-11-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="hr" number="311"/>
+    <bill relation="unknown" session="105" type="hr" number="311"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>11/9/1997--Introduced.
+Provides for a joint session of Congress on January 27, 1998, to receive a message from the President.</summary>
+</bill>

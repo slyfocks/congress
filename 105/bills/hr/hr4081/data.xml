@@ -1,0 +1,99 @@
+<bill session="105" type="h" number="4081" updated="2013-07-14T18:50:57-04:00">
+  <state datetime="1998-10-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1998-10-26"/>
+  </status>
+  <introduced datetime="1998-06-18"/>
+  <titles>
+    <title as="introduced" type="official">To extend the deadline under the Federal Power Act applicable to the construction of a hydroelectric project in the State of Arkansas.</title>
+  </titles>
+  <sponsor id="400588"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1998-06-18">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1998-06-29">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1998-09-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1998-09-17">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1998-09-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-09-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="1998-09-25T19:50:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 105-748.</text>
+    </action>
+    <calendar datetime="1998-09-25T19:50:00-04:00" calendar="Union" number="429">
+      <text>Placed on the Union Calendar, Calendar No. 429.</text>
+    </calendar>
+    <action datetime="1998-09-28T13:20:00-04:00">
+      <text>Mr. Schaefer, Dan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-09-28T13:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9104-9105" label="consideration"/>
+    </action>
+    <action datetime="1998-09-28T13:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-09-28T13:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-09-28T13:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-01">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1998-10-07" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11828" label="consideration"/>
+    </vote>
+    <topresident datetime="1998-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1998-10-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1998-10-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1998-10-26">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1998-10-26" type="public" number="105-283">
+      <text>Became Public Law No: 105-283.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="s" number="2171"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Arkansas"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1998--Introduced.
+Directs the Federal Energy Regulatory Commission, upon request of a specified licensee, to extend the time required for commencement of construction of a specified hydroelectric project in Arkansas for a maximum of three consecutive two-year periods.</summary>
+</bill>

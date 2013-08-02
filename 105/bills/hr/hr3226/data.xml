@@ -1,0 +1,83 @@
+<bill session="105" type="h" number="3226" updated="2013-07-14T18:50:43-04:00">
+  <state datetime="1998-04-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1998-04-24"/>
+  </status>
+  <introduced datetime="1998-02-12"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of Agriculture to convey certain lands and improvements in the State of Virginia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1998-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E161"/>
+    </action>
+    <action state="REFERRED" datetime="1998-02-12">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1998-02-24">
+      <text>Referred to the Subcommittee on Forestry, Resource Conservation and Research.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1998-02-24">
+      <text>Executive Comment Requested from USDA.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1998-03-24T15:28:00-05:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-03-24T15:29:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1400-1402" label="consideration"/>
+    </action>
+    <action datetime="1998-03-24T15:29:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-03-24T15:35:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-03-24T15:35:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-03-25">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1998-04-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3236" label="consideration"/>
+    </vote>
+    <topresident datetime="1998-04-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1998-04-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1998-04-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1998-04-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1998-04-24" type="public" number="105-171">
+      <text>Became Public Law No: 105-171.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG27" subcommittee="Forestry, Resource Conservation and Research" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/1998--Introduced.
+Authorizes the Secretary of Agriculture to convey certain lands in Virginia for other lands or, if amounts are received through sale, to deposit receipts in a specified fund to be used for acquisition of lands in Virginia and acquisition or construction of administrative improvements in the George Washington and Jefferson National Forests.</summary>
+</bill>

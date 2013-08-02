@@ -1,0 +1,112 @@
+<bill session="104" type="h" number="2122" updated="2013-07-14T18:47:45-04:00">
+  <state datetime="1996-09-04T13:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-09-04T13:59:00-04:00"/>
+  </status>
+  <introduced datetime="1995-07-26"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Lake Tahoe Basin National Forest in the States of California and Nevada to be administered by the Secretary of Agriculture, and for other purposes.</title>
+  </titles>
+  <sponsor id="411178"/>
+  <cosponsors>
+    <cosponsor id="400113" joined="1995-07-26"/>
+    <cosponsor id="300040" joined="1996-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-07-26">
+      <text>Referred to the Committee on Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-07-26">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="1995-07-26">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="1995-07-28">
+      <text>Referred to the Subcommittee on National Parks, Forests and Lands.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="1995-07-28">
+      <text>Executive Comment Requested from USDA.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="1995-07-28">
+      <text>Referred to the Subcommittee on Resource Conservation, Research and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="1996-06-06">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="1996-06-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="1996-06-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="1996-07-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-07-17">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Resources"/>
+    </calendar>
+    <action datetime="1996-09-04T13:56:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 104-772, Part I.</text>
+    </action>
+    <action datetime="1996-09-04T13:56:00-04:00">
+      <text>House Committee on Agriculture Granted an extension for further consideration ending not later than Sept. 4, 1996.</text>
+    </action>
+    <action datetime="1996-09-04T13:56:00-04:00">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <calendar datetime="1996-09-04T13:57:00-04:00" calendar="Union" number="416">
+      <text>Placed on the Union Calendar, Calendar No. 416.</text>
+    </calendar>
+    <action datetime="1996-09-04T13:58:00-04:00">
+      <text>Mr. Doolittle moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1996-09-04T13:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9961" label="consideration"/>
+    </action>
+    <action datetime="1996-09-04T13:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-04T13:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-04T13:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1996-09-06">
+      <text>Referred to Subcommittee on Forests and Public Lands.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII10" subcommittee="National Parks, Forests, and Lands" name="House Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAG27" subcommittee="Resource Conservation, Research and Forestry" name="House Agriculture"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Forests and Public Land Management" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Forests and forestry"/>
+    <term name="California"/>
+    <term name="National forests"/>
+    <term name="Nevada"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>9/4/1996--Passed House amended.
+Designates the Lake Tahoe Basin National Forest in California and Nevada as a unit of the National Forest System. Modifies the boundaries of the Tahoe, Eldorado, and Toiyabe National Forests to exclude lands within its boundaries.</summary>
+</bill>

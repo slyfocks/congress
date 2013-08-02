@@ -1,0 +1,111 @@
+<bill session="104" type="h" number="3348" updated="2013-07-14T18:48:13-04:00">
+  <state datetime="1996-09-18T11:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-09-18T11:46:00-04:00"/>
+  </status>
+  <introduced datetime="1996-04-29"/>
+  <titles>
+    <title as="introduced" type="short">Snow Removal Policy Act of 1996</title>
+    <title as="passed house" type="short">Snow Removal Policy Act of 1996</title>
+    <title as="introduced" type="official">To direct the President to establish standards and criteria for the provision of major disaster and emergency assistance in response to snow-related events.</title>
+  </titles>
+  <sponsor id="400329"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1996-05-14"/>
+    <cosponsor id="401547" joined="1996-04-29"/>
+    <cosponsor id="400035" joined="1996-04-29"/>
+    <cosponsor id="402657" joined="1996-04-29"/>
+    <cosponsor id="400123" joined="1996-05-07"/>
+    <cosponsor id="404280" joined="1996-05-09"/>
+    <cosponsor id="400536" joined="1996-04-29"/>
+    <cosponsor id="400586" joined="1996-04-29"/>
+    <cosponsor id="400178" joined="1996-04-29"/>
+    <cosponsor id="400183" joined="1996-04-29"/>
+    <cosponsor id="400213" joined="1996-04-29"/>
+    <cosponsor id="400215" joined="1996-04-29"/>
+    <cosponsor id="400216" joined="1996-04-29"/>
+    <cosponsor id="400219" joined="1996-04-29"/>
+    <cosponsor id="400246" joined="1996-04-29"/>
+    <cosponsor id="400545" joined="1996-04-29"/>
+    <cosponsor id="400295" joined="1996-09-11"/>
+    <cosponsor id="400318" joined="1996-04-29"/>
+    <cosponsor id="400333" joined="1996-04-29"/>
+    <cosponsor id="400357" joined="1996-05-29"/>
+    <cosponsor id="410147" joined="1996-04-29"/>
+    <cosponsor id="400391" joined="1996-04-29"/>
+    <cosponsor id="410887" joined="1996-04-29"/>
+    <cosponsor id="400409" joined="1996-04-29"/>
+    <cosponsor id="400611" joined="1996-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-04-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1996-05-13">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-09-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-09-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-09-12">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1996-09-12">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-09-17T13:26:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 104-792.</text>
+    </action>
+    <calendar datetime="1996-09-17T13:27:00-04:00" calendar="Union" number="430">
+      <text>Placed on the Union Calendar, Calendar No. 430.</text>
+    </calendar>
+    <action datetime="1996-09-18T11:26:00-04:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1996-09-18T11:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10543-10546" label="consideration"/>
+    </action>
+    <action datetime="1996-09-18T11:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-18T11:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-18T11:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-19">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Disasters"/>
+    <term name="Administrative procedure"/>
+    <term name="Disaster relief"/>
+    <term name="Emergency management"/>
+    <term name="Federal Emergency Management Agency"/>
+    <term name="Government operations and politics"/>
+    <term name="Highway snow and ice control"/>
+    <term name="Law"/>
+    <term name="Standards"/>
+    <term name="Storms"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/1996--Passed House amended.
+Snow Removal Policy Act of 1996 - Requires the President, through the Director of the Federal Emergency Management Agency, to promulgate standards and criteria for declaring a major disaster or emergency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act in response to a snow-related event and for providing assistance under the Act for such an event, including reimbursement for snow and debris removal and emergency protective measures.</summary>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="104" type="hc" number="150" updated="2013-07-14T18:48:42-04:00">
+  <state datetime="1996-05-07T15:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-05-07T15:09:00-04:00"/>
+  </status>
+  <introduced datetime="1996-03-07"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for an event sponsored by the Specialty Equipment Market Association.</title>
+  </titles>
+  <sponsor id="402524"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1996-03-07">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1996-03-21">
+      <text>Referred to the Subcommittee on Public Buildings and Economic Development.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-05-07T14:36:00-04:00">
+      <text>Mr. Gilchrest moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1996-05-07T14:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4442-4446" label="consideration"/>
+    </action>
+    <action datetime="1996-05-07T14:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-05-07T15:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-05-07T15:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-05-07T15:10:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-05-08">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1996-05-09">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW08" subcommittee="Public Buildings and Economic Development" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="sc" number="44"/>
+    <bill relation="unknown" session="104" type="sc" number="44"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advertising"/>
+    <term name="Automobile industry"/>
+    <term name="Automobiles"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commerce"/>
+    <term name="Exhibitions"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Motor vehicles"/>
+    <term name="Photography"/>
+    <term name="Sports and recreation"/>
+    <term name="Trade associations"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/1996--Passed House amended.
+Authorizes use of the Capitol grounds on May 16, 1996, for a free public event displaying racing, restored, and customized motor vehicles and transporters. Allows the event only after the Architect of the Capitol and the Capitol Police Board enter into an agreement that prohibits the sponsor and the vehicle owners and manufacturers from using any photograph taken at the event for commercial purposes.</summary>
+</bill>

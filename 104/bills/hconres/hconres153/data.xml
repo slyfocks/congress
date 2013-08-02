@@ -1,0 +1,89 @@
+<bill session="104" type="hc" number="153" updated="2013-07-14T18:48:42-04:00">
+  <state datetime="1996-06-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1996-06-21"/>
+  </status>
+  <introduced datetime="1996-03-22"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="1996-03-22"/>
+    <cosponsor id="400283" joined="1996-03-22"/>
+    <cosponsor id="400524" joined="1996-03-22"/>
+    <cosponsor id="400295" joined="1996-03-22"/>
+    <cosponsor id="400435" joined="1996-03-22"/>
+    <cosponsor id="400438" joined="1996-03-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-03-22">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1996-03-28">
+      <text>Referred to the Subcommittee on Public Buildings and Economic Development.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-03-28">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-03-28">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1996-05-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-05-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1996-05-21T20:03:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 104-589.</text>
+    </action>
+    <calendar datetime="1996-05-21T20:03:00-04:00" calendar="House" number="229">
+      <text>Placed on the House Calendar, Calendar No. 229.</text>
+    </calendar>
+    <action datetime="1996-06-10T14:28:00-04:00">
+      <text>Mr. Gilchrest moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1996-06-10T14:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6045-6047" label="consideration"/>
+    </action>
+    <action datetime="1996-06-10T14:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-06-10T14:44:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-06-10T14:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-06-11">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1996-06-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6672" label="consideration"/>
+    </vote>
+    <action datetime="1996-06-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Public Buildings and Economic Development" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/22/1996--Introduced.
+Permits the Greater Washington Soap Box Derby Association to sponsor a free public event, soap box derby races, on the Capitol grounds on July 13, 1996.</summary>
+</bill>

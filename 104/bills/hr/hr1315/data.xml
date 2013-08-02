@@ -1,0 +1,51 @@
+<bill session="104" type="h" number="1315" updated="2013-07-14T18:47:30-04:00">
+  <state datetime="1995-12-19T10:06:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-12-19T10:06:00-05:00"/>
+  </status>
+  <introduced datetime="1995-03-23"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Kris Murty.</title>
+  </titles>
+  <sponsor id="402750"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1995-03-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E674-675"/>
+    </action>
+    <action state="REFERRED" datetime="1995-03-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-11-28T18:32:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 104-360.</text>
+    </action>
+    <calendar state="REPORTED" datetime="1995-11-28T18:32:00-05:00" calendar="Private" number="3">
+      <text>Placed on the Private Calendar, Calendar No. 3.</text>
+    </calendar>
+    <action datetime="1995-12-19T10:05:00-05:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-19T10:06:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1995-12-19T10:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1995--Introduced.
+Deems the relocation of a named employee by the Department of the Army a transfer from one official station to another for purposes of permitting reimbursement of relocation expenses to such individual.</summary>
+</bill>

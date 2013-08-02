@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-08T11:59:00-05:00", 
+      "references": [], 
+      "text": "Substitute (A004) offered by Mr. Cox to the Eshoo amendment (A003).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-08T13:05:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 210, 
+      "text": "On agreeing to the Cox amendment (A004) Agreed to by recorded vote: 252 - 173, 1 Present (Roll no. 210).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt269-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt268-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 268
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1058-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Eshoo amendment (A003) for description.", 
+  "house_number": 4, 
+  "introduced_at": "1995-03-08", 
+  "number": 269, 
+  "purpose": "An amendment to modify the bill's definition of recklessness by inserting language which states that a situation in which an individual deliberately refrains from taking steps to discover whether one's statements are false or misleading constitutes recklessness, but if the failure to investigate was not deliberate, such conduct shall not be considered to be reckless.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Cox, Christopher", 
+    "state": "CA", 
+    "thomas_id": "00242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-03-08T13:05:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

@@ -1,0 +1,124 @@
+<bill session="104" type="h" number="101" updated="2013-07-14T18:47:05-04:00">
+  <state datetime="1995-02-01T17:49:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-02-01T17:49:00-05:00"/>
+  </status>
+  <introduced datetime="1995-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To transfer a parcel of land to the Taos Pueblo Indians of New Mexico.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="409633" joined="1995-02-01"/>
+    <cosponsor id="400534" joined="1995-02-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-04">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1995-01-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E54-55"/>
+    </action>
+    <action datetime="1995-01-12">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-01-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-01-18">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1995-01-27T13:57:00-05:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 104-7.</text>
+    </action>
+    <calendar datetime="1995-01-27T13:58:00-05:00" calendar="Union" number="2">
+      <text>Placed on the Union Calendar, Calendar No. 2.</text>
+    </calendar>
+    <action datetime="1995-01-31T19:50:00-05:00">
+      <text>Rules Committee Resolution H. Res. 51 Reported to House. Rule provides for consideration of H.R. 101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Bill is open to amendments.</text>
+    </action>
+    <action datetime="1995-02-01T16:56:00-05:00">
+      <text>Rule H. Res. 51 passed House.</text>
+    </action>
+    <action datetime="1995-02-01T17:42:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 51.</text>
+      <reference ref="CR H1021-1022" label="consideration"/>
+    </action>
+    <action datetime="1995-02-01T17:42:00-05:00">
+      <text>Rule provides for consideration of H.R. 101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be read by section. Bill is open to amendments.</text>
+    </action>
+    <action datetime="1995-02-01T17:42:00-05:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 51 and Rule XXIII.</text>
+    </action>
+    <action datetime="1995-02-01T17:42:00-05:00">
+      <text>The Speaker designated the Honorable J. Dennis Hastert to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="1995-02-01T17:43:00-05:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate.</text>
+    </action>
+    <action datetime="1995-02-01T17:48:00-05:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 101.</text>
+    </action>
+    <action datetime="1995-02-01T17:49:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="1995-02-01T17:49:00-05:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-02-01T17:49:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On passage Passed by voice vote.</text>
+    </vote>
+    <action datetime="1995-02-01T17:49:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-02-02">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1995-02-03">
+      <text>Referred to Subcommittee on Forests and Public Lands.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="1995-03-29">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="1995-05-11">
+      <text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, and Office of Management and Budget.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="1995-05-19">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Murkowski without amendment. With written report No. 104-85.</text>
+    </action>
+    <calendar datetime="1995-05-19" calendar="Senate Legislative" under="General Orders" number="113">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Forests and Public Land Management" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="104" type="hr" number="51"/>
+    <bill relation="unknown" session="104" type="s" number="166"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands"/>
+    <term name="Land transfers"/>
+    <term name="Minorities"/>
+    <term name="National forests"/>
+    <term name="New Mexico"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments>
+    <amendment number="h76"/>
+  </amendments>
+  <summary>2/1/1995--Passed House amended.
+Transfers certain land to the Taos Pueblo Indians of New Mexico. Makes conforming boundary adjustments to Carson National Forest and Wheeler Peak Wilderness.</summary>
+</bill>

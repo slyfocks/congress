@@ -1,0 +1,44 @@
+<bill session="104" type="hj" number="101" updated="2013-07-14T18:48:36-04:00">
+  <state datetime="1995-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="1995-07-13"/>
+  </status>
+  <introduced datetime="1995-07-13"/>
+  <titles>
+    <title as="introduced" type="official">Disapproving the recommendations of the Defense Base Closure and Realignment Commission.</title>
+  </titles>
+  <sponsor id="404013"/>
+  <cosponsors>
+    <cosponsor id="400113" joined="1995-07-13"/>
+    <cosponsor id="400176" joined="1995-07-13"/>
+    <cosponsor id="400256" joined="1995-07-13"/>
+    <cosponsor id="400322" joined="1995-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-07-13">
+      <text>Referred to the House Committee on National Security.</text>
+    </action>
+    <action datetime="1995-07-17">
+      <text>Referred to the Subcommittee on Military Installations and Facilities.</text>
+      <committee name="House Committee on National Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House National Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS04" subcommittee="Military Installations and Facilities" name="House National Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="hj" number="102"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congress and military policy"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Military base closures"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/1995--Introduced.
+Disapproves the recommendations of the Defense Base Closure and Realignment Commission as submitted by the President on July 13, 1995.</summary>
+</bill>

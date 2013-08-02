@@ -1,0 +1,103 @@
+<bill session="104" type="hc" number="117" updated="2013-07-14T18:48:41-04:00">
+  <state datetime="1995-12-12T20:31:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-12-12T20:31:00-05:00"/>
+  </status>
+  <introduced datetime="1995-12-05"/>
+  <titles>
+    <title as="introduced" type="official">Concerning writer, political philosopher, human rights advocate, and Nobel Peace Prize nominee Wei Jingsheng.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1995-12-05"/>
+    <cosponsor id="400055" joined="1995-12-12"/>
+    <cosponsor id="400083" joined="1995-12-05"/>
+    <cosponsor id="400124" joined="1995-12-12"/>
+    <cosponsor id="400585" joined="1995-12-05"/>
+    <cosponsor id="400536" joined="1995-12-05"/>
+    <cosponsor id="400191" joined="1995-12-12"/>
+    <cosponsor id="400231" joined="1995-12-05"/>
+    <cosponsor id="400314" joined="1995-12-05"/>
+    <cosponsor id="400604" joined="1995-12-12"/>
+    <cosponsor id="400343" joined="1995-12-05"/>
+    <cosponsor id="410147" joined="1995-12-05"/>
+    <cosponsor id="400435" joined="1995-12-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-12-05">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1995-12-06">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1995-12-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1995-12-06">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1995-12-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-12-07">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules (Amended), by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1995-12-12T19:05:00-05:00">
+      <text>Mr. Gilman moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1995-12-12T19:05:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H14342-14348, H14350-14351" label="consideration"/>
+    </action>
+    <action datetime="1995-12-12T19:06:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1995-12-12T19:44:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-12T20:31:00-05:00" how="roll" result="pass" roll="848" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays (2/3 required): 409 - 0 (Roll No. 848).</text>
+    </vote>
+    <action datetime="1995-12-12T20:31:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-13">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asia and the Pacific" name="House International Relations"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="sj" number="43"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="China"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure"/>
+    <term name="Diplomacy"/>
+    <term name="Dissenters"/>
+    <term name="East Asia"/>
+    <term name="Fair trial and free press"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Law"/>
+    <term name="Political prisoners"/>
+    <term name="Right to counsel"/>
+    <term name="Trials"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/1995--Passed House amended.
+Urges: (1) the immediate and unconditional release of Wei Jingsheng; and (2) if he is not immediately released, that he be afforded all internationally recognized human rights and that his trial be open to the domestic and foreign press, diplomatic observers, and international human rights monitors; and (3) the State Department to make his release and the protection of his rights a particularly important objective in relations with the Government of China and to raise these issues in every relevant bilateral and multilateral forum. Recognizes that the efforts of Wei Jingsheng once again merit careful consideration for the Nobel Peace Prize in 1996.</summary>
+</bill>

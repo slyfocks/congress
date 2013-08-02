@@ -1,0 +1,89 @@
+<bill session="105" type="h" number="2623" updated="2013-07-14T18:50:33-04:00">
+  <state datetime="1998-09-09T14:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-09-09T14:46:00-04:00"/>
+  </status>
+  <introduced datetime="1997-10-07"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Post Office located at 16250 Highway 603 in Kiln, Mississippi, as the "Ray J. Favre Post Office Building".</title>
+  </titles>
+  <sponsor id="400399"/>
+  <cosponsors>
+    <cosponsor id="408476" joined="1998-06-24"/>
+    <cosponsor id="400319" joined="1998-06-24"/>
+    <cosponsor id="400402" joined="1998-06-24"/>
+    <cosponsor id="400432" joined="1998-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-10-07">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1997-10-10">
+      <text>Referred to the Subcommittee on Postal Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-07-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1998-09-09T14:35:00-04:00">
+      <text>Mr. Sessions moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-09-09T14:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7462-7463" label="consideration"/>
+    </action>
+    <action datetime="1998-09-09T14:36:00-04:00">
+      <text>DEBATE - The House proceeded with one forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-09-09T14:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-09-09T14:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-09-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1998-09-24">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </calendar>
+    <action datetime="1998-09-25">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Thompson without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1998-09-25" calendar="Senate Legislative" under="General Orders" number="649">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSGO11" subcommittee="Postal Service" name="House Government Reform and Oversight"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Mississippi"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/1997--Introduced.
+Designates the United States Post Office located at 16250 Highway 603 in Kiln, Mississippi, as the Ray J. Favre Post Office Building.</summary>
+</bill>

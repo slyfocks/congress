@@ -1,0 +1,134 @@
+<bill session="104" type="h" number="1642" updated="2013-07-14T18:47:35-04:00">
+  <state datetime="1996-09-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-09-25"/>
+  </status>
+  <introduced datetime="1995-05-16"/>
+  <titles>
+    <title as="introduced" type="official">To extend nondiscriminatory treatment (most-favored-nation treatment) to the products of Cambodia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors>
+    <cosponsor id="404996" joined="1995-05-23"/>
+    <cosponsor id="400333" joined="1995-05-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-05-16">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1995-05-18">
+      <text>Referred to the Subcommittee on Trade.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <action datetime="1995-05-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <action datetime="1995-05-18">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <action datetime="1995-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-06-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </calendar>
+    <action datetime="1995-06-27T20:44:00-04:00">
+      <text>Reported by the Committee on Ways and Means. H. Rept. 104-160.</text>
+    </action>
+    <calendar datetime="1995-06-27T20:44:00-04:00" calendar="Union" number="77">
+      <text>Placed on the Union Calendar, Calendar No. 77.</text>
+    </calendar>
+    <action datetime="1995-07-10T15:42:00-04:00">
+      <text>Mr. Crane moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-07-10T15:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6705-6706" label="consideration"/>
+    </action>
+    <action datetime="1995-07-10T15:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1995-07-10T15:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1995-07-10T15:47:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Gibbons objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="1995-07-11T12:23:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6755" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-07-11T12:24:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-07-11T12:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-07-12">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="1996-05-08">
+      <text>Committee on Finance. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Finance"/>
+    </calendar>
+    <action datetime="1996-05-09">
+      <text>Committee on Finance. Reported to Senate by Senator Roth with an amendment in the nature of a substitute. With written report No. 104-264.</text>
+    </action>
+    <calendar datetime="1996-05-09" calendar="Senate Legislative" under="General Orders" number="398">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.</text>
+    </calendar>
+    <vote state="PASS_BACK:SENATE" datetime="1996-07-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S8930-8931" label="consideration"/>
+    </vote>
+    <action datetime="1996-07-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1996-09-12T11:52:00-04:00">
+      <text>Mr. Crane asked unanimous consent that the House agree to the Senate amendment.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1996-09-12T11:54:00-04:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+      <reference ref="CR H10344-10345" label="consideration"/>
+    </vote>
+    <action datetime="1996-09-12T11:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="1996-09-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1996-09-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-09-25">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-09-25" type="public" number="104-203">
+      <text>Became Public Law No: 104-203.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Cambodia"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="East Asia"/>
+    <term name="International affairs"/>
+    <term name="Most favored nation principle"/>
+    <term name="Reciprocity"/>
+    <term name="Trade agreements"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/1996--Passed Senate amended.
+Amends the Harmonized Tariff Schedule of the United States to extend nondiscriminatory treatment (most-favored-nation treatment) to the products of Cambodia. Requires the President to report to the Congress within 18 months on the trade relations between the United States and Cambodia pursuant to the trade agreement described in this Act.</summary>
+</bill>

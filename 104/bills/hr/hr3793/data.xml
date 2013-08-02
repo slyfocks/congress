@@ -1,0 +1,85 @@
+<bill session="104" type="h" number="3793" updated="2013-07-14T18:48:22-04:00">
+  <state datetime="1996-09-04T17:13:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-09-04T17:13:00-04:00"/>
+  </status>
+  <introduced datetime="1996-07-11"/>
+  <titles>
+    <title as="introduced" type="short">50 States Commemorative Coin Program Act</title>
+    <title as="passed house" type="short">50 States Commemorative Coin Program Act</title>
+    <title as="introduced" type="official">To provide for a 10-year circulating commemorative coin program to commemorate each of the 50 States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400070"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1996-09-04"/>
+    <cosponsor id="400553" joined="1996-07-18"/>
+    <cosponsor id="400123" joined="1996-07-18"/>
+    <cosponsor id="404139" joined="1996-07-11"/>
+    <cosponsor id="400143" joined="1996-07-18"/>
+    <cosponsor id="400247" joined="1996-07-11"/>
+    <cosponsor id="400607" joined="1996-07-18"/>
+    <cosponsor id="400414" joined="1996-07-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-07-11">
+      <text>Referred to the House Committee on Banking and Financial Services.</text>
+    </action>
+    <action datetime="1996-07-26">
+      <text>Referred to the Subcommittee on Domestic and International Monetary Policy.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1996-07-31">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1996-07-31">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1996-07-31">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1996-09-04T17:01:00-04:00">
+      <text>Mr. Castle moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1996-09-04T17:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9981-9983" label="consideration"/>
+    </action>
+    <action datetime="1996-09-04T17:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-04T17:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-04T17:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking and Financial Services" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA08" subcommittee="Domestic and International Monetary Policy" name="House Banking and Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Money"/>
+    <term name="Coins and coinage"/>
+    <term name="Commemorations"/>
+    <term name="Copper"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Silver"/>
+    <term name="State history"/>
+  </subjects>
+  <amendments/>
+  <summary>9/4/1996--Passed House amended.
+50 States Commemorative Coin Program Act - Amends Federal law to: (1) mandate redesign of quarter-dollar coins issued between January 1, 1997, and January 1, 2007, to commemorate each of the 50 States (including any additional State admitted into the Union before the end of such ten-year period); and (2) set fixed, four-year terms for members of the Citizens Commemorative Coin Advisory Committee.</summary>
+</bill>

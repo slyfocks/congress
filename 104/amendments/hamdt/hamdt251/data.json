@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-02T18:55:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Goss to the Canady amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-02T19:47:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 192, 
+      "text": "On agreeing to the Goss amendment (A005) Failed by recorded vote: 210 - 211 (Roll no. 192).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt251-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt247-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 247
+  }, 
+  "amends_bill": {
+    "bill_id": "hr925-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 925
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Canady substitute amendment (A001) sought to increase the threshold for payment of compensation from a 10 percent to a 30 percent loss in property value.", 
+  "house_number": 5, 
+  "introduced_at": "1995-03-02", 
+  "number": 251, 
+  "purpose": "An amendment to raise the minimum threshold for payment of compensation under the bill from a 10% to 30% loss in property value.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Goss, Porter J.", 
+    "state": "FL", 
+    "thomas_id": "00450", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-02T19:47:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

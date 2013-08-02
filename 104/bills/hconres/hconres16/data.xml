@@ -1,0 +1,42 @@
+<bill session="104" type="hc" number="16" updated="2013-07-14T18:48:37-04:00">
+  <state datetime="1995-01-23">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1995-01-23"/>
+  </status>
+  <introduced datetime="1995-01-23"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President on the State of the Union.</title>
+  </titles>
+  <sponsor id="400104"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1995-01-23T14:02:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H482" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-01-23T14:02:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1995-01-23T14:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1995-01-23" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+      <reference ref="CR S1384" label="consideration"/>
+    </vote>
+    <action datetime="1995-01-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/1995--Introduced.
+Provides for a joint session of the Congress on January 24, 1995, for a message from the President on the State of the Union.</summary>
+</bill>

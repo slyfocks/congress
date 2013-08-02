@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-15T18:12:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Castle to the Porter amendment (A005).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-15T18:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Castle amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt298-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt297-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 297
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1158-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1158
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Porter amendment (A005) for description.", 
+  "house_number": 6, 
+  "introduced_at": "1995-03-15", 
+  "number": 298, 
+  "purpose": "An amendment further reduce funding for the Eisenhower program by an additional $10 million up to $100 million and to restore $10 million to the drug free schools programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-03-15T18:34:00-05:00", 
+  "updated_at": "2013-07-17T07:50:46-04:00"
+}

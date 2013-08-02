@@ -1,0 +1,63 @@
+<bill session="104" type="h" number="345" updated="2013-07-14T18:47:09-04:00">
+  <state datetime="1995-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="1995-01-04"/>
+  </status>
+  <introduced datetime="1995-01-04"/>
+  <titles>
+    <title as="introduced" type="short">Language of Government Act of 1995</title>
+    <title as="introduced" type="official">To amend title 4, United States Code, to declare English as the official language of the Government of the United States and to amend the Immigration and Nationality Act to provide that public ceremonies for the admission of new citizens shall be considered solely in English.</title>
+  </titles>
+  <sponsor id="400603"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1995-04-05"/>
+    <cosponsor id="405939" joined="1996-02-27"/>
+    <cosponsor id="410396" joined="1995-03-06"/>
+    <cosponsor id="401774" joined="1995-03-06" withdrawn="1995-04-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-04">
+      <text>Referred to the Committee on Economic and Educational Opportunities, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-01-04">
+      <text>Referred to House Economic and Educational Opportunities</text>
+    </action>
+    <action datetime="1995-01-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1995-01-25">
+      <text>Referred to the Subcommittee on Early Childhood, Youth and Families.</text>
+      <committee name="House Economic and Educational Opportunities"/>
+    </action>
+    <action datetime="1995-01-25">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Economic and Educational Opportunities" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED11" subcommittee="Early Childhood, Youth and Families" name="House Economic and Educational Opportunities"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Actions and defenses"/>
+    <term name="Citizenship"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Discrimination"/>
+    <term name="English language"/>
+    <term name="Federal preemption"/>
+    <term name="Government operations and politics"/>
+    <term name="Immigration"/>
+    <term name="Law"/>
+    <term name="Naturalization"/>
+    <term name="Oaths"/>
+    <term name="Parties to actions"/>
+    <term name="State laws"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/1995--Introduced.
+Language of Government Act of 1995 - Amends Federal law to declare English as the official language of the Government. Amends the Immigration and Nationality Act to require all public ceremonies in which the citizenship oath is administered to be conducted solely in English.</summary>
+</bill>

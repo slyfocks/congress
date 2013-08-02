@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-03T12:29:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A011) offered by Mr. Watt (NC) to the Canady amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-03T13:14:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 196, 
+      "text": "On agreeing to the Watt (NC) amendment (A011) Failed by recorded vote: 127 - 299 (Roll no. 196).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt257-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt247-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 247
+  }, 
+  "amends_bill": {
+    "bill_id": "hr925-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 925
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Canady substitute amendment (A001) sought to strike the provision requiring compensation payments to come out of the responsible agency's appropriation for that fiscal year.", 
+  "house_number": 11, 
+  "introduced_at": "1995-03-03", 
+  "number": 257, 
+  "purpose": "An amendment to strike the provisions of the bill designating a source of payments for takings under the bill. The thrust of the amendment strikes the specification that any compensation required under the measure would be paid from annual appropriations available to the federal agency involved.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Watt, Melvin L.", 
+    "state": "NC", 
+    "thomas_id": "01207", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-03T13:14:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

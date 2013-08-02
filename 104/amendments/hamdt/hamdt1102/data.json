@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-05-30T16:02:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A016) offered by Mr. Roemer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-30T17:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 205, 
+      "text": "On agreeing to the Roemer amendment (A016) Failed by recorded vote: 127 - 286 (Roll no. 205).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1102-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3322-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 3322
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to eliminate the authorization of funding for the space station.", 
+  "house_number": 16, 
+  "introduced_at": "1996-05-30", 
+  "number": 1102, 
+  "purpose": "An amendment, printed as amendment No. 16 in the Congressional Record of May 8, 1996, to eliminate the authorization in the bill for funding of the international space station.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Roemer, Tim", 
+    "state": "IN", 
+    "thomas_id": "00976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-05-30T17:05:00-04:00", 
+  "updated_at": "2013-07-17T07:50:55-04:00"
+}

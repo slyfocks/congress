@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-05-08T13:23:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-05-08T14:16:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 114, 
+      "text": "On agreeing to the Scott amendment (A004) Failed by recorded vote: 101 - 321 (Roll no. 114).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt77-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 3
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to delete language that authorizes the use of juvenile accountability block grants for building, expanding, and operating juvenile correction or detention facilities.", 
+  "house_number": 4, 
+  "introduced_at": "1997-05-08", 
+  "number": 77, 
+  "purpose": "An amendment to strike language in the bill which allows states to use crime assistance funds for building, operation, or expansion of prisons and detention centers.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-05-08T14:16:00-04:00", 
+  "updated_at": "2013-07-17T07:51:33-04:00"
+}

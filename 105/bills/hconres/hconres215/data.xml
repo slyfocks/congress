@@ -1,0 +1,91 @@
+<bill session="105" type="hc" number="215" updated="2013-07-14T18:51:19-04:00">
+  <state datetime="1998-04-28T15:36:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-04-28T15:36:00-04:00"/>
+  </status>
+  <introduced datetime="1998-02-11"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the people of the Co-operative Republic of Guyana for holding multiparty elections.</title>
+  </titles>
+  <sponsor id="400312"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="1998-02-11"/>
+    <cosponsor id="400036" joined="1998-03-04"/>
+    <cosponsor id="400128" joined="1998-03-04"/>
+    <cosponsor id="400502" joined="1998-03-04"/>
+    <cosponsor id="400201" joined="1998-03-04"/>
+    <cosponsor id="400240" joined="1998-04-01"/>
+    <cosponsor id="400330" joined="1998-03-04"/>
+    <cosponsor id="400383" joined="1998-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-02-11">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1998-02-20">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1998-03-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1998-03-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1998-04-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-04-01">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1998-04-28T15:26:00-04:00">
+      <text>Mr. Gallegly moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1998-04-28T15:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2361-2362" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-04-28T15:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-04-28T15:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-04-29">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA07" subcommittee="Western Hemisphere" name="House International Relations"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Caribbean area"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Election administration"/>
+    <term name="Foreign leaders"/>
+    <term name="Government operations and politics"/>
+    <term name="Guyana"/>
+    <term name="Human rights"/>
+    <term name="International agencies"/>
+    <term name="Latin America"/>
+    <term name="Opposition (Political science)"/>
+    <term name="Peace"/>
+    <term name="Presidential elections"/>
+    <term name="Proportional representation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1998--Passed House amended.
+Congratulates the people of Guyana for holding multiparty presidential elections. Supports the audit of the elections by the Caribbean Community. Calls on all parties to respect the outcome of the audit as the final decision and to make a vow to peace and stability in Guyana. Calls on the newly elected president and the opposition leadership to respect the rule of law and human rights.</summary>
+</bill>

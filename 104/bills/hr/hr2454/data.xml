@@ -1,0 +1,42 @@
+<bill session="104" type="h" number="2454" updated="2012-11-01T22:44:44-05:00">
+  <state datetime="1995-10-10">REFERRED</state>
+  <status>
+    <introduced datetime="1995-10-10"/>
+  </status>
+  <introduced datetime="1995-10-10"/>
+  <titles>
+    <title as="introduced" type="short">Congressional COLA Elimination Act of 1995</title>
+    <title as="introduced" type="official">To eliminate automatic pay adjustments for Members of Congress.</title>
+  </titles>
+  <sponsor id="400404"/>
+  <cosponsors>
+    <cosponsor id="400385" joined="1995-11-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-10-10">
+      <text>Referred to the Committee on House Oversight, and in addition to the Committee on Government Reform and Oversight, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-10-10">
+      <text>Referred to House Government Reform and Oversight</text>
+    </action>
+    <action datetime="1995-10-10">
+      <text>Referred to House Oversight</text>
+    </action>
+    <action datetime="1995-10-12">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Government Reform and Oversight"/>
+    </action>
+  </actions>
+  <committees>
+    <committee activity="Referral, In Committee" code="HSGO" name="House Government Reform and Oversight"/>
+    <committee activity="Referral" code="HSGO09" name="House Government Reform and Oversight" subcommittee="Civil Service"/>
+    <committee activity="Referral, In Committee" code="HSHA" name="House Oversight"/>
+  </committees>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Cost of living adjustments"/>
+  </subjects>
+  <summary>10/10/1995--Introduced.
+Congressional COLA Elimination Act of 1995 - Repeals provisions of the Legislative Reorganization Act of 1946 which provided automatic pay adjustments for Members of Congress. Makes this Act effective on the day after the date of the first election of Representatives occurring after this Act's enactment.</summary>
+</bill>

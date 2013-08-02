@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-30T12:37:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mr. Klug to the Vento amendment (A003).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-30T13:44:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 546, 
+      "text": "On agreeing to the Klug amendment (A004) Failed by recorded vote: 205 - 219 (Roll no. 546).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt451-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt450-105", 
+    "amendment_type": "hamdt", 
+    "congress": 105, 
+    "number": 450
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2493-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2493
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment to the Vento amendment (A003) sought to stipulate that the basic fee for each animal unit month (AUM) in a grazing fee year shall be equal to the rate charged by the States for grazing on State lands.", 
+  "house_number": 4, 
+  "introduced_at": "1997-10-30", 
+  "number": 451, 
+  "purpose": "An amendment to the Vento amendment to stipulate that the basic fee for each animal unit month (AUM) in a grazing fee year shall be equal to the rate charged for grazing on State lands in the State in which the Federal lands covered by the grazing permit or lease are located.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Klug, Scott L.", 
+    "state": "WI", 
+    "thomas_id": "00641", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-10-30T13:44:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

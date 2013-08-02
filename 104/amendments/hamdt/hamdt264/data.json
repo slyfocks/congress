@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-07T12:44:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A007) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-07T13:47:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 205, 
+      "text": "On agreeing to the Conyers amendment (A007) Failed by recorded vote: 194 - 229 (Roll no. 205).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt264-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr988-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 988
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to exempt civil rights cases, religious cases, and gender cases from the bill in terms of attorney sanctions and payments.", 
+  "house_number": 7, 
+  "introduced_at": "1995-03-07", 
+  "number": 264, 
+  "purpose": "An amendment to exempt civil rights cases from the mandatory sanctions on attorneys for making frivolous arguments. Under the amendment, therefore, sanctions on attorneys for making frivolous arguments in civil rights cases would be left to the discretion of the courts, as under current law.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-07T13:47:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

@@ -1,0 +1,130 @@
+<bill session="104" type="h" number="562" updated="2013-07-14T18:47:13-04:00">
+  <state datetime="1995-03-14T17:47:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-03-14T17:47:00-05:00"/>
+  </status>
+  <introduced datetime="1995-01-18"/>
+  <titles>
+    <title as="introduced" type="short">Walnut Canyon National Monument Boundary Modification Act of 1995</title>
+    <title as="reported to house" type="short">Walnut Canyon National Monument Boundary Modification Act of 1995</title>
+    <title as="passed house" type="short">Walnut Canyon National Monument Boundary Modification Act of 1995</title>
+    <title as="introduced" type="official">To modify the boundaries of Walnut Canyon National Monument in the State of Arizona.</title>
+  </titles>
+  <sponsor id="400173"/>
+  <cosponsors>
+    <cosponsor id="400226" joined="1995-02-13"/>
+    <cosponsor id="400310" joined="1995-02-13"/>
+    <cosponsor id="400606" joined="1995-02-13"/>
+    <cosponsor id="400368" joined="1995-02-13"/>
+    <cosponsor id="400504" joined="1995-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-18">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1995-01-23">
+      <text>Referred to the Subcommittee on National Parks, Forests and Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-01-23">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-01-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-01-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-01-26">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-02-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-02-15">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1995-02-28T17:13:00-05:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 104-60.</text>
+    </action>
+    <calendar datetime="1995-02-28T17:14:00-05:00" calendar="Union" number="33">
+      <text>Placed on the Union Calendar, Calendar No. 33.</text>
+    </calendar>
+    <action datetime="1995-03-14T14:57:00-05:00">
+      <text>Mr. Hayworth moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1995-03-14T14:57:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3103-3104, H3116-3117" label="consideration"/>
+    </action>
+    <action datetime="1995-03-14T14:57:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1995-03-14T15:02:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1995-03-14T17:37:00-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-03-14T17:47:00-05:00" how="roll" result="pass" roll="232" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 371 - 49 (Roll No. 232).</text>
+    </vote>
+    <action datetime="1995-03-14T17:47:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-03-15">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1995-03-16">
+      <text>Referred to Subcommittee on Parks, Preservation and Recreation.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="1995-10-13">
+      <text>Committee on Energy and Natural Resources requested executive comment from Department of Agriculture, Department of the Interior, and Office of Management and Budget.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="1995-11-09">
+      <text>Subcommittee on Parks, Preservation and Recreation. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="1995-12-06">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="1995-12-22">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Murkowski without amendment. With written report No. 104-199.</text>
+    </action>
+    <calendar datetime="1995-12-22" calendar="Senate Legislative" under="General Orders" number="303">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 303.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII10" subcommittee="National Parks, Forests, and Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Parks, Historic Preservation, and Recreation" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="s" number="231"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="Archaeology"/>
+    <term name="Arizona"/>
+    <term name="Commemorations"/>
+    <term name="History"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="National monuments"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/1995--Passed House amended.
+Walnut Canyon National Monument Boundary Modification Act of 1995 - Modifies the boundaries of the Walnut Canyon National Monument in Arizona. Authorizes the Secretary of the Interior to acquire lands and interests in lands within the Monument. Transfers Federal property: (1) within the boundaries of the Monument (as modified by this Act) to the administrative jurisdiction of the Secretary of the Interior for management as part of the Monument; and (2) excluded from the Monument (pursuant to the boundary modification) to the administrative jurisdiction of the Secretary of Agriculture to be managed as part of the Coconino National Forest. Requires the Secretary of the Interior, acting through the Director of the National Park Service, to manage the Monument as a unit of the National Park Service. Authorizes appropriations.</summary>
+</bill>

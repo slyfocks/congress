@@ -1,0 +1,129 @@
+<bill session="105" type="h" number="2233" updated="2013-07-14T18:50:27-04:00">
+  <state datetime="1997-11-13T22:18:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-11-13T22:18:00-05:00"/>
+  </status>
+  <introduced datetime="1997-07-23"/>
+  <titles>
+    <title as="introduced" type="short">Coral Reef Conservation Act of 1997</title>
+    <title as="reported to house" type="short">Coral Reef Conservation Act of 1997</title>
+    <title as="passed house" type="short">Coral Reef Conservation Act of 1997</title>
+    <title as="introduced" type="official">To assist in the conservation of coral reefs.</title>
+  </titles>
+  <sponsor id="400359"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="1997-07-23"/>
+    <cosponsor id="400570" joined="1997-09-11"/>
+    <cosponsor id="400106" joined="1997-09-11"/>
+    <cosponsor id="400128" joined="1997-09-18"/>
+    <cosponsor id="400129" joined="1997-09-11"/>
+    <cosponsor id="400156" joined="1997-09-11"/>
+    <cosponsor id="400161" joined="1997-09-11"/>
+    <cosponsor id="400213" joined="1997-09-11"/>
+    <cosponsor id="400278" joined="1997-09-11"/>
+    <cosponsor id="400516" joined="1997-09-11"/>
+    <cosponsor id="400436" joined="1997-09-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-07-23">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1997-07-24">
+      <text>Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1997-07-31">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1997-07-31">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1997-09-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-09-17">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1997-09-29T12:47:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 105-277.</text>
+    </action>
+    <calendar datetime="1997-09-29T12:47:00-04:00" calendar="Union" number="157">
+      <text>Placed on the Union Calendar, Calendar No. 157.</text>
+    </calendar>
+    <action datetime="1997-09-29T12:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8066-8067" label="consideration"/>
+    </action>
+    <action datetime="1997-09-29T12:47:00-04:00">
+      <text>Mr. Porter moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1997-09-29T12:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-09-29T12:52:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Condit objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="1997-10-01T13:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8293-8294" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="1997-10-01T14:04:00-04:00" how="roll" result="fail" roll="485" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by recorded vote (2/3 required): 230 - 181 (Roll no. 485).</text>
+      <reference ref="CR H8294" label="consideration"/>
+    </vote>
+    <action datetime="1997-11-13T22:18:00-05:00">
+      <text>Mr. Armey moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1997-11-13T22:18:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10943-10944" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-11-13T22:18:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to without objection.</text>
+    </vote>
+    <action datetime="1997-11-13T22:19:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-01-27">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Coral reef conservation"/>
+    <term name="Coral reefs"/>
+    <term name="Ecological research"/>
+    <term name="Economics and public finance"/>
+    <term name="Ecosystem management"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental education"/>
+    <term name="Environmental monitoring"/>
+    <term name="Environmental protection"/>
+    <term name="Gifts"/>
+    <term name="Government trust funds"/>
+    <term name="Grants-in-aid"/>
+    <term name="Habitat conservation"/>
+    <term name="International affairs"/>
+    <term name="International environmental cooperation"/>
+    <term name="Loans"/>
+    <term name="Marine ecology"/>
+    <term name="Marine resources conservation"/>
+    <term name="Nongovernmental organizations"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sustainable development"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/1997--Passed House amended.
+Coral Reef Conservation Act of 1997 - Directs the Secretary of Commerce to use amounts in the Coral Reef Conservation Fund (established by this Act) to provide grants for the conservation of coral reefs. Allows any relevant natural resource management authority of a State or U.S. territory or other governmental jurisdiction with coral reefs whose activities affect coral reefs, or any nongovernmental organization or individual with demonstrated expertise in the conservation of coral reefs, to submit a proposal. Requires grant priority for projects promoting sustainable development and ensuring long-term coral reef conservation. Requires matching funds of at least 50 percent of the total project cost. Establishes the Coral Reef Conservation Fund, consisting of monetary donations and amounts appropriated to the Fund. Authorizes appropriations.</summary>
+</bill>

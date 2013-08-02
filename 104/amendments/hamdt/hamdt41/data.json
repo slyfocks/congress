@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-01-31T12:36:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A031) offered by Mr. Burton to the Schiff amendment (A030).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-31T12:39:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Burton amendment (A031) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt41-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt40-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 40
+  }, 
+  "amends_bill": {
+    "bill_id": "hr5-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Schiff amendment (A030) for description.", 
+  "house_number": 31, 
+  "introduced_at": "1995-01-31", 
+  "number": 41, 
+  "purpose": "An amendment to the Schiff amendment to direct the Advisory Commission on Intergovernmental Relations to study the effects of unfunded mandates on the private sector.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Burton, Dan", 
+    "state": "IN", 
+    "thomas_id": "00154", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-01-31T12:39:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

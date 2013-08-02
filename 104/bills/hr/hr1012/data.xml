@@ -1,0 +1,57 @@
+<bill session="104" type="h" number="1012" updated="2013-07-14T18:47:24-04:00">
+  <state datetime="1995-02-22">REFERRED</state>
+  <status>
+    <introduced datetime="1995-02-22"/>
+  </status>
+  <introduced datetime="1995-02-22"/>
+  <titles>
+    <title as="introduced" type="short">Family Health Care Coverage Act</title>
+    <title as="introduced" type="official">To require equal coverage under a health plan for all children under the age of 27 of an individual who enrolls in the plan under a family class of enrollment.</title>
+  </titles>
+  <sponsor id="401081"/>
+  <cosponsors>
+    <cosponsor id="400235" joined="1995-02-22"/>
+    <cosponsor id="400510" joined="1995-02-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-02-22">
+      <text>Referred to the Committee on Commerce, and in addition to the Committees on Economic and Educational Opportunities, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-02-22">
+      <text>Referred to House Economic and Educational Opportunities</text>
+    </action>
+    <action datetime="1995-02-22">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1995-02-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1995-02-27">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1995-03-10">
+      <text>Referred to the Subcommittee on Employer-Employee Relations.</text>
+      <committee name="House Economic and Educational Opportunities"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Economic and Educational Opportunities" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Employer-Employee Relations" name="House Economic and Educational Opportunities"/>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Families"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Health insurance"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>2/22/1995--Introduced.
+Family Health Care Coverage Act - Requires health plans that provide a family class of enrollment to offer and provide equal coverage to any child of an eligible individual who is less than 27 years of age, has never been married, has no dependents, and has a parent-child relationship with such individual.</summary>
+</bill>

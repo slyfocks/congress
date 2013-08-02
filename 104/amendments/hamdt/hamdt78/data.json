@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-02T13:50:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A001) offered by Mr. Blute.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-02T13:51:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Blute amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt78-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment is technical in nature.", 
+  "house_number": 1, 
+  "introduced_at": "1995-02-02", 
+  "number": 78, 
+  "purpose": "An amendment to correct a technical drafting error.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blute, Peter I.", 
+    "state": "MA", 
+    "thomas_id": "00100", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-02-02T13:51:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

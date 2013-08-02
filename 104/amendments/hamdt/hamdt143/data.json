@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-10T14:50:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Burr to the Foley amendment (A005).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-10T14:50:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Burr amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt143-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt142-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 142
+  }, 
+  "amends_bill": {
+    "bill_id": "hr668-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 668
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Foley amendment (A005) for description.", 
+  "house_number": 6, 
+  "introduced_at": "1995-02-10", 
+  "number": 143, 
+  "purpose": "An amendment to the Foley amendment to specify that the Justice Department could not deport early those convicted of alien smuggling.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Burr, Richard", 
+    "state": "NC", 
+    "thomas_id": "00153", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-02-10T14:50:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

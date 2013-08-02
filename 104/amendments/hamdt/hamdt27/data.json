@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-01-30T18:52:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A018) offered by Mr. Volkmer to the Borski amendment (A017).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-30T19:12:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 60, 
+      "text": "On agreeing to the Volkmer amendment (A018) Failed by recorded vote: 114 - 312 (Roll no. 60).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt27-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt26-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 26
+  }, 
+  "amends_bill": {
+    "bill_id": "hr5-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Borski amendments (A017) sought add \"reproductive disorders\" the list list of health effects contained in the Borski amendments.", 
+  "house_number": 18, 
+  "introduced_at": "1995-01-30", 
+  "number": 27, 
+  "purpose": "An amendment to add reproductive disorders to the list of provisions incorporated into the Borski amendments.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Volkmer, Harold L.", 
+    "state": "MO", 
+    "thomas_id": "01189", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-01-30T19:12:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

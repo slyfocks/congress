@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-01-30T22:49:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A027) offered by Ms. Pelosi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-30T23:15:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 70, 
+      "text": "On agreeing to the Pelosi amendment (A027) Failed by recorded vote: 159 - 260 (Roll no. 70).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt36-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to exempt from the provisions of the bill Federal laws which establish a minimum wage.", 
+  "house_number": 27, 
+  "introduced_at": "1995-01-30", 
+  "number": 36, 
+  "purpose": "An amendment to provide that the bill does not apply to any laws or regulations which relate to the establishment of a minimum wage.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-01-30T23:15:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

@@ -1,0 +1,101 @@
+<bill session="105" type="h" number="1476" updated="2013-07-14T18:50:11-04:00">
+  <state datetime="1997-11-13T22:19:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-11-13T22:19:00-05:00"/>
+  </status>
+  <introduced datetime="1997-04-29"/>
+  <titles>
+    <title as="introduced" type="short">Miccosukee Settlement Act of 1997</title>
+    <title as="reported to house" type="short">Miccosukee Settlement Act of 1997</title>
+    <title as="passed house" type="short">Miccosukee Settlement Act of 1997</title>
+    <title as="introduced" type="official">To settle certain Miccosukee Indian land takings claims within the State of Florida.</title>
+  </titles>
+  <sponsor id="400107"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1997-04-29">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1997-05-06">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1997-09-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-09-17">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1997-09-29T12:52:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 105-278.</text>
+    </action>
+    <calendar datetime="1997-09-29T12:52:00-04:00" calendar="Union" number="158">
+      <text>Placed on the Union Calendar, Calendar No. 158.</text>
+    </calendar>
+    <action datetime="1997-09-29T13:04:00-04:00">
+      <text>Mr. Thornberry moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1997-09-29T13:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8069-8070" label="consideration"/>
+    </action>
+    <action datetime="1997-09-29T13:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-09-29T13:06:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Condit objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="1997-10-01T14:34:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8296-8297" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="1997-10-01T14:44:00-04:00" how="roll" result="fail" roll="488" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 229 - 176 (Roll no. 488).</text>
+    </vote>
+    <action datetime="1997-11-13T22:19:00-05:00">
+      <text>Mr. Armey moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1997-11-13T22:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10943-10944" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-11-13T22:19:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to without objection.</text>
+    </vote>
+    <action datetime="1997-11-13T22:19:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-01-27">
+      <text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Minorities"/>
+    <term name="Civil procedure"/>
+    <term name="Eminent domain"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Florida"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="Highway engineering"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands"/>
+    <term name="Infrastructure"/>
+    <term name="Land transfers"/>
+    <term name="Law"/>
+    <term name="Public lands and natural resources"/>
+    <term name="State government-Indian relations"/>
+    <term name="Transportation and public works"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1997--Introduced.
+Miccosukee Settlement Act of 1997 - Directs the Secretary of the Interior, as trustee for the Miccosukee Tribe, to assist in the fulfillment of the settlement agreement concerning the transfer of: (1) certain Miccosukee tribal land to the Florida Department of Transportation; and (2) certain Florida land to the United States to be received and accepted in trust for the use and benefit of the Miccosukee Tribe, constituting thereby Indian Reservation lands of the Miccosukee Tribe.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="105" type="h" number="3090" updated="2013-07-14T18:50:41-04:00">
+  <state datetime="1998-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1998-01-27"/>
+  </status>
+  <introduced datetime="1998-01-27"/>
+  <titles>
+    <title as="introduced" type="official">To require the withdrawal of the United States from the International Monetary Fund.</title>
+  </titles>
+  <sponsor id="400311"/>
+  <cosponsors>
+    <cosponsor id="400514" joined="1998-02-11"/>
+    <cosponsor id="400575" joined="1998-01-27"/>
+    <cosponsor id="400343" joined="1998-01-27"/>
+    <cosponsor id="400611" joined="1998-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-01-27">
+      <text>Referred to the House Committee on Banking and Financial Services.</text>
+    </action>
+    <action datetime="1998-02-20">
+      <text>Referred to the Subcommittee on Domestic and International Monetary Policy.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking and Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA08" subcommittee="Domestic and International Monetary Policy" name="House Banking and Financial Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="American economic assistance"/>
+    <term name="Foreign loans"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="International monetary system"/>
+    <term name="Negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1998--Introduced.
+Instructs the Secretary of the Treasury to: (1) immediately withdraw the United States from the International Monetary Fund; and (2) seek to negotiate an agreement on the method of settling accounts with the International Monetary Fund.</summary>
+</bill>

@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-15T21:59:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. Dellums to the Montgomery substitute (A007).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-15T22:31:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Dellums amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt170-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt169-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 169
+  }, 
+  "amends_bill": {
+    "bill_id": "hr7-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 7
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Montgomery amendment (A007) for description.", 
+  "house_number": 8, 
+  "introduced_at": "1995-02-15", 
+  "number": 170, 
+  "purpose": "An amendment to add military housing to those factors which would require full funding before missile defense funding could exceed 1995 levels.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Dellums, Ronald V.", 
+    "state": "CA", 
+    "thomas_id": "00284", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-02-15T22:31:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

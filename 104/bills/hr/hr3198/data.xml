@@ -1,0 +1,129 @@
+<bill session="104" type="h" number="3198" updated="2013-07-14T18:48:11-04:00">
+  <state datetime="1996-07-30T10:47:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-07-30T10:47:00-04:00"/>
+  </status>
+  <introduced datetime="1996-03-29"/>
+  <titles>
+    <title as="introduced" type="short">National Geologic Mapping Reauthorization Act of 1996</title>
+    <title as="introduced" type="official">To reauthorize and amend the National Geologic Mapping Act of 1992, and for other purposes.</title>
+  </titles>
+  <sponsor id="400057"/>
+  <cosponsors>
+    <cosponsor id="400144" joined="1996-05-21"/>
+    <cosponsor id="400173" joined="1996-05-21"/>
+    <cosponsor id="400243" joined="1996-05-21"/>
+    <cosponsor id="400524" joined="1996-05-21"/>
+    <cosponsor id="400331" joined="1996-05-21"/>
+    <cosponsor id="400357" joined="1996-05-21"/>
+    <cosponsor id="411178" joined="1996-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-03-29">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1996-04-04">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-04-04">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-04-23">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-06-19">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-06-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-06-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1996-07-11T18:17:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 104-668.</text>
+    </action>
+    <calendar datetime="1996-07-11T18:17:00-04:00" calendar="Union" number="342">
+      <text>Placed on the Union Calendar, Calendar No. 342.</text>
+    </calendar>
+    <action datetime="1996-07-30T10:41:00-04:00">
+      <text>Mr. Calvert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1996-07-30T10:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8680-8682" label="consideration"/>
+    </action>
+    <action datetime="1996-07-30T10:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-07-30T10:47:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-07-30T10:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-07-31">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1996-08-01">
+      <text>Referred to Subcommittee on Forests and Public Lands.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="1996-09-12">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="1996-09-13">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Murkowski without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1996-09-13" calendar="Senate Legislative" under="General Orders" number="597">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 597.</text>
+    </calendar>
+    <action datetime="1996-10-01">
+      <text>By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 104-395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Forests and Public Land Management" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="1731"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Authorization"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Curricula"/>
+    <term name="Data banks"/>
+    <term name="Department of the Interior"/>
+    <term name="Earth sciences"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational policy"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal-state relations"/>
+    <term name="Geology"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Maps"/>
+    <term name="Professional associations"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Scientific education"/>
+    <term name="Standards"/>
+    <term name="Surveying"/>
+  </subjects>
+  <amendments/>
+  <summary>3/29/1996--Introduced.
+National Geologic Mapping Reauthorization Act of 1996 - Amends the National Geologic Mapping Act of 1992 to establish a national cooperative geologic mapping program between the U.S. Geological Survey and State geological surveys. Establishes a geologic mapping advisory committee to advise the Director of the U.S. Geological Survey on planning and implementation of the geological mapping program. Authorizes appropriations.</summary>
+</bill>

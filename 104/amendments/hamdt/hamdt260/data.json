@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-06T18:21:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mr. Berman to the McHale amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-06T19:44:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 201, 
+      "text": "On agreeing to the Berman amendment (A003) Failed by recorded vote: 186 - 235 (Roll no. 201).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt260-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt259-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 259
+  }, 
+  "amends_bill": {
+    "bill_id": "hr988-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 988
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the McHale amendment (A002) sought to delete section 2 of the bill which provides for the awarding of costs and attorney's fees in Federal civil diversity litigation after an offer of settlement, and insert the language of the McHale amendment which deals with actions in the case of frivilous lawsuits.", 
+  "house_number": 3, 
+  "introduced_at": "1995-03-06", 
+  "number": 260, 
+  "purpose": "An amendment to delete section 2 of the bill, as amended by the Goodlatte amendment, relating to \"loser pays,\" and replace those provisions with the text of the McHale amendment. The text of the McHale amendment would be unaffected.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Berman, Howard L.", 
+    "state": "CA", 
+    "thomas_id": "00082", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-06T19:44:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

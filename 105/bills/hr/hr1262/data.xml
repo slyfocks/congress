@@ -1,0 +1,112 @@
+<bill session="105" type="h" number="1262" updated="2013-07-14T18:50:08-04:00">
+  <state datetime="1997-11-13T22:20:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-11-13T22:20:00-05:00"/>
+  </status>
+  <introduced datetime="1997-04-09"/>
+  <titles>
+    <title as="introduced" type="short">Securities and Exchange Commission Authorization Act of 1997</title>
+    <title as="reported to house" type="short">Securities and Exchange Commission Authorization Act of 1997</title>
+    <title as="passed house" type="short">Securities and Exchange Commission Authorization Act of 1997</title>
+    <title as="introduced" type="official">To authorize appropriations for the Securities and Exchange Commission for fiscal years 1998 and 1999, and for other purposes.</title>
+  </titles>
+  <sponsor id="400307"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1997-04-09"/>
+    <cosponsor id="400110" joined="1997-04-09"/>
+    <cosponsor id="407141" joined="1997-04-09"/>
+    <cosponsor id="400253" joined="1997-04-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-04-09">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1997-04-24">
+      <text>Referred to the Subcommittee on Finance and Hazardous Materials.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1997-05-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1997-05-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1997-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-07-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="1997-09-26T15:04:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 105-274.</text>
+    </action>
+    <calendar datetime="1997-09-26T15:05:00-04:00" calendar="Union" number="154">
+      <text>Placed on the Union Calendar, Calendar No. 154.</text>
+    </calendar>
+    <action datetime="1997-09-29T13:34:00-04:00">
+      <text>Mr. Oxley moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1997-09-29T13:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8084-8086" label="consideration"/>
+    </action>
+    <action datetime="1997-09-29T13:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-09-29T13:41:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1997-10-01T14:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8297-8298" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="1997-10-01T14:53:00-04:00" how="roll" result="fail" roll="489" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 230 - 170 (Roll no. 489).</text>
+    </vote>
+    <action datetime="1997-11-13T22:19:00-05:00">
+      <text>Mr. Armey moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1997-11-13T22:20:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10943-10944" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-11-13T22:20:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to without objection.</text>
+    </vote>
+    <action datetime="1997-11-13T22:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-01-27">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF13" subcommittee="Finance and Hazardous Materials" name="House Commerce"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Authorization"/>
+    <term name="Conferences"/>
+    <term name="Economics and public finance"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="International cooperation"/>
+    <term name="Securities and Exchange Commission"/>
+    <term name="Securities regulation"/>
+    <term name="Stock exchanges"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1997--Introduced.
+Securities and Exchange Commission Authorization Act of 1997 - Amends the Securities Exchange Act of 1934 to authorize appropriations for the Securities and Exchange Commission for FY 1998 and 1999. Itemizes certain miscellaneous expenses for which the funds may be used.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="105" type="h" number="1546" updated="2013-07-14T18:50:12-04:00">
+  <state datetime="1997-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="1997-05-07"/>
+  </status>
+  <introduced datetime="1997-05-07"/>
+  <titles>
+    <title as="introduced" type="short">Government Secrecy Act of 1997</title>
+    <title as="introduced" type="official">To provide for a system to classify information in the interests of national security and a system to declassify such information.</title>
+  </titles>
+  <sponsor id="404996"/>
+  <cosponsors>
+    <cosponsor id="400079" joined="1997-05-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-05-07">
+      <text>Referred to the Committee on Government Reform and Oversight, and in addition to the Committees on Intelligence (Permanent Select), and National Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1997-05-07">
+      <text>Referred to House Government Reform and Oversight</text>
+    </action>
+    <action datetime="1997-05-07">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="1997-05-07">
+      <text>Referred to House National Security</text>
+    </action>
+    <action datetime="1997-05-13">
+      <text>Referred to the Subcommittee on National Security, International Affairs and Criminal Justice.</text>
+      <committee name="House Government Reform and Oversight"/>
+    </action>
+    <action datetime="1997-05-20">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House National Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="National Security, International Affairs and Criminal Justice" name="House Government Reform and Oversight"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House National Security" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="s" number="712"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Classified defense information"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Freedom of information"/>
+    <term name="Law"/>
+    <term name="Presidential powers"/>
+    <term name="Security classification (Government documents)"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/1997--Introduced.
+Government Secrecy Act of 1997 - States that it is the purpose of this Act to promote the effective protection of classified information and the disclosure of information where there is not a well-founded basis for protection or where the costs of maintaining a secret outweigh the benefits. (Sec. 4) Authorizes the President, in accordance with this Act, to protect from unauthorized disclosure, information in the possession and control of the executive branch, when there is a demonstrable need to do so in order to protect the national security of the United States. Directs the President to ensure that the amount of information classified is the minimum necessary to protect the national security. Sets forth requirements for the establishment of standards and procedures for classifying and declassifying information. Requires each head of an agency that is responsible for the classification and declassification of information to submit to the Congress each year a report that describes the application of the classification and declassification standards and procedures of that agency during the preceding fiscal year. (Sec. 5) Directs the President to establish within an existing agency a National Declassification Center to: (1) coordinate and oversee the declassification policies and practices of the Federal Government; and (2) provide technical assistance to agencies in implementing such policies and practices, in accordance with this Act. Establishes the National Declassification Advisory Committee to provide advice to the Center and make recommendations concerning declassification priorities and activities. Mandates annual reports by the Center to the President and the Congress on its activities during the preceding fiscal year, and on the implementation of agency declassification practices and its efforts to coordinate those practices.</summary>
+</bill>

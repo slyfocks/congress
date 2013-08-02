@@ -1,0 +1,65 @@
+<bill session="104" type="h" number="1574" updated="2013-07-14T18:47:34-04:00">
+  <state datetime="1995-12-12T19:04:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-12-12T19:04:00-05:00"/>
+  </status>
+  <introduced datetime="1995-05-03"/>
+  <titles>
+    <title as="introduced" type="short">Bank Insurance Fund and Depositor Protection Act of 1995</title>
+    <title as="introduced" type="official">To amend the Federal Deposit Insurance Act to exclude certain bank products from the definition of a deposit.</title>
+  </titles>
+  <sponsor id="400533"/>
+  <cosponsors>
+    <cosponsor id="402524" joined="1995-12-12"/>
+    <cosponsor id="400210" joined="1995-05-03"/>
+    <cosponsor id="400596" joined="1995-05-03"/>
+    <cosponsor id="400612" joined="1995-05-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-05-03">
+      <text>Referred to the House Committee on Banking and Financial Services.</text>
+    </action>
+    <action datetime="1995-05-05">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1995-12-12T18:52:00-05:00">
+      <text>Mrs. Roukema moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-12-12T18:52:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H14340-14342" label="consideration"/>
+    </action>
+    <action datetime="1995-12-12T18:52:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-12T19:04:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-12-12T19:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking and Financial Services" activity="Referral"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Banking and Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Annuities"/>
+    <term name="Bank deposits"/>
+    <term name="Deposit insurance"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Tax-deferred compensation plans"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/1995--Introduced.
+Bank Insurance Fund and Depositor Protection Act of 1995 - Amends the Federal Deposit Insurance Act to exclude from its definition of "deposit" any liability of an insured depository institution that arises under an annuity contract, the income on which is tax deferred (thus excluding such liabilities from Federal deposit insurance coverage).</summary>
+</bill>

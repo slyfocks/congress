@@ -1,0 +1,107 @@
+<bill session="105" type="h" number="1197" updated="2013-07-14T18:50:06-04:00">
+  <state datetime="1998-10-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1998-10-27"/>
+  </status>
+  <introduced datetime="1997-03-20"/>
+  <titles>
+    <title as="introduced" type="short">Plant Patent Amendments Act of 1997</title>
+    <title as="passed house" type="short">Plant Patent Amendments Act of 1998</title>
+    <title as="passed senate" type="short">Plant Patent Amendments Act of 1998</title>
+    <title as="enacted" type="short">Plant Patent Amendment Act of 1998</title>
+    <title as="introduced" type="official">To amend title 35, United States Code, to protect patent owners against the unauthorized sale of plant parts taken from plants illegally reproduced, and for other purposes.</title>
+  </titles>
+  <sponsor id="410084"/>
+  <cosponsors>
+    <cosponsor id="400129" joined="1998-10-07"/>
+    <cosponsor id="400317" joined="1998-10-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-03-20">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-03-31">
+      <text>Referred to the Subcommittee on Courts and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1998-10-09T12:59:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-10-09T13:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10259-10261" label="consideration"/>
+    </action>
+    <action datetime="1998-10-09T13:03:00-04:00">
+      <text>DEBATE - The House proceeded forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-09T13:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-10-09T13:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-09">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="1998-10-15">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S12630-12631" label="consideration"/>
+    </action>
+    <action datetime="1998-10-15">
+      <text>Amendment SP 3830 proposed by Senator Craig for Senator Leahy.</text>
+    </action>
+    <action datetime="1998-10-15">
+      <text>Amendment SP 3830 agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="1998-10-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="1998-10-16T13:22:00-04:00">
+      <text>Mr. Coble moved that the House suspend the rules and agree to the Senate amendment.</text>
+    </action>
+    <action datetime="1998-10-16T13:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1998-10-16T13:28:00-04:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H11028-11029" label="consideration"/>
+    </vote>
+    <action datetime="1998-10-16T13:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="1998-10-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1998-10-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1998-10-27">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1998-10-27" type="public" number="105-289">
+      <text>Became Public Law No: 105-289.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts and Intellectual Property" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Intellectual property"/>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Patents"/>
+    <term name="Plant breeding"/>
+    <term name="Plant genetics"/>
+    <term name="Plant protection"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3830"/>
+  </amendments>
+  <summary>10/15/1998--Passed Senate amended.
+Plant Patent Amendments Act of 1998 - Amends Federal patent law with respect to the right in the grant of a plant patent to exclude others from asexually reproducing such plant. Adds the right to exclude others from using, offering for sale, selling, or importing asexually reproduced plants and plant parts. Directs the United States Patent and Trademark Office to develop and implement computer networks with remote library sites in requesting rural States such that citizens will have enhanced access to information in their State's patent and trademark depository library.</summary>
+</bill>

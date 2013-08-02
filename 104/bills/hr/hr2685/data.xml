@@ -1,0 +1,129 @@
+<bill session="104" type="h" number="2685" updated="2013-07-14T18:48:02-04:00">
+  <state datetime="1996-10-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-10-02"/>
+  </status>
+  <introduced datetime="1995-11-29"/>
+  <titles>
+    <title as="introduced" type="official">To repeal the Medicare and Medicaid Coverage Data Bank.</title>
+  </titles>
+  <sponsor id="400401"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1995-11-29"/>
+    <cosponsor id="400579" joined="1996-01-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-11-29">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-11-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="1995-11-29">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1995-11-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-11-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Ways and Means"/>
+    </calendar>
+    <action datetime="1995-12-05">
+      <text>Referred to the Subcommittee on Health and Environment, for a period to be subsequently determined by the Chairman.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1995-12-11T12:57:00-05:00">
+      <text>Reported by the Committee on Ways and Means. H. Rept. 104-394, Part I.</text>
+    </action>
+    <action datetime="1995-12-22T13:17:00-05:00">
+      <text>House Committee on Commerce Granted an extension for further consideration ending not later than Dec. 22, 1995.</text>
+    </action>
+    <action datetime="1995-12-22T13:17:00-05:00">
+      <text>Committee on Commerce discharged.</text>
+    </action>
+    <calendar datetime="1995-12-22T13:17:00-05:00" calendar="Union" number="215">
+      <text>Placed on the Union Calendar, Calendar No. 215.</text>
+    </calendar>
+    <calendar datetime="1995-12-22T13:19:00-05:00" calendar="Corrections" number="13">
+      <text>Placed on the Corrections Calendar, Calendar No. 13.</text>
+    </calendar>
+    <action datetime="1996-01-04T15:17:00-05:00">
+      <text>Discharged from Corrections Calendar.</text>
+    </action>
+    <calendar datetime="1996-03-06T17:04:00-05:00" calendar="Corrections" number="14">
+      <text>Placed on the Corrections Calendar, Calendar No. 14.</text>
+    </calendar>
+    <action datetime="1996-03-12T14:15:00-05:00">
+      <text>Called up from the Corrections Calendar for consideration.</text>
+    </action>
+    <action datetime="1996-03-12T14:16:00-05:00">
+      <text>Considered from the Corrections Calendar.</text>
+      <reference ref="CR H2041-2048" label="consideration"/>
+    </action>
+    <action datetime="1996-03-12T14:16:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate.</text>
+    </action>
+    <action datetime="1996-03-12T15:18:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-03-12T15:18:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On passage Passed by voice vote.</text>
+    </vote>
+    <action datetime="1996-03-12T15:18:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-03-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1996-09-25">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1996-09-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11329" label="consideration"/>
+    </vote>
+    <topresident datetime="1996-09-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1996-09-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1996-09-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-10-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-10-02" type="public" number="104-226">
+      <text>Became Public Law No: 104-226.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Business records"/>
+    <term name="Commerce"/>
+    <term name="Data banks"/>
+    <term name="Employee health benefits"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Health insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Personnel records"/>
+    <term name="Public assistance programs"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>11/29/1995--Introduced.
+Amends the Social Security Act to repeal the mandate for the Medicare and Medicaid Coverage Data Bank (added by the Omnibus Budget Reconciliation Act of 1993).</summary>
+</bill>

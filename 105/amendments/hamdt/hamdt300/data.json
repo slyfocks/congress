@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-07-29T14:45:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A013) offered by Mr. Shays.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-07-29T16:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 337, 
+      "text": "On agreeing to the Shays amendment (A013) Failed by recorded vote: 137 - 290 (Roll no. 337).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt300-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2266-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2266
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to limit new budget authority for the Department of Defense to the FY 1997 level.", 
+  "house_number": 13, 
+  "introduced_at": "1997-07-29", 
+  "number": 300, 
+  "purpose": "An amendment to reduce the overall amount of funds appropriated in the bill by $4.3 billion.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-07-29T16:13:00-04:00", 
+  "updated_at": "2013-07-17T07:51:36-04:00"
+}

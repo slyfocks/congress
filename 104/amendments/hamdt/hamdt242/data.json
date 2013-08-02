@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-01T15:37:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A013) offered by Mr. Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-01T16:46:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 185, 
+      "text": "On agreeing to the Reed amendment (A013) Failed by recorded vote: 159 - 266 (Roll no. 185).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt242-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr926-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 926
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to change the definition of a \"major rule\", which triggers the requirement for a Regulatory Impact Analysis, to a rule likely to result in an economic impact of at least $100 million annually, rather than the $50 million threshold provided in the bill.", 
+  "house_number": 13, 
+  "introduced_at": "1995-03-01", 
+  "number": 242, 
+  "purpose": "An amendment to change the definition of a \"major rule\"--triggering the requirement of a Regulatory Impact Analysis--to a rule likely to result in an economic impact of at least $100 million annually. (The bill calls for a threshhold of $50 million annually.)", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-01T16:46:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

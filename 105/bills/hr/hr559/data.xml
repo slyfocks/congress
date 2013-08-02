@@ -1,0 +1,79 @@
+<bill session="105" type="h" number="559" updated="2013-07-14T18:49:55-04:00">
+  <state datetime="1998-10-14T14:48:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-10-14T14:48:00-04:00"/>
+  </status>
+  <introduced datetime="1997-02-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to add bronchiolo-alveolar carcinoma to the list of diseases presumed to be service-connected for certain radiation-exposed veterans.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="1997-05-22"/>
+    <cosponsor id="400126" joined="1997-05-22"/>
+    <cosponsor id="404280" joined="1997-04-10"/>
+    <cosponsor id="400213" joined="1997-04-10"/>
+    <cosponsor id="400528" joined="1997-04-10"/>
+    <cosponsor id="400541" joined="1997-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-02-04">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1997-02-24">
+      <text>Referred to the Subcommittee on Benefits.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="1998-10-14T11:36:00-04:00">
+      <text>Mr. Stump moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-10-14T11:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10849-10850, H10869-10870" label="consideration"/>
+    </action>
+    <action datetime="1998-10-14T11:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1998-10-14T11:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1998-10-14T14:38:00-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-14T14:48:00-04:00" how="roll" result="pass" roll="531" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll No. 531).</text>
+    </vote>
+    <action datetime="1998-10-14T14:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR06" subcommittee="Benefits" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Atomic bomb"/>
+    <term name="Disability evaluation"/>
+    <term name="Disabled"/>
+    <term name="East Asia"/>
+    <term name="Environmental protection"/>
+    <term name="Health"/>
+    <term name="History"/>
+    <term name="Ionizing radiation"/>
+    <term name="Japan"/>
+    <term name="Lung cancer"/>
+    <term name="Nuclear weapons"/>
+    <term name="Radiation victims"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' medical care"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1997--Introduced.
+Includes bronchiolo-alveolar carcinoma in the list of diseases presumed to be service-connected, in the case of exposure to ionizing radiation, and therefore compensable for purposes of veterans' disability compensation and medical care.</summary>
+</bill>

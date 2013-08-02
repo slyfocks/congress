@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-01-31T12:49:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A032) offered by Mr. Riggs to the Schiff amendment (A030).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-31T12:53:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Riggs amendment (A032) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt43-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt40-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 40
+  }, 
+  "amends_bill": {
+    "bill_id": "hr5-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Schiff amendment (A030) for description.", 
+  "house_number": 32, 
+  "introduced_at": "1995-01-31", 
+  "number": 43, 
+  "purpose": "An amendment to the Schiff amendment, to require the advisory commission to give the highest priority to investigating, reviewing, and making recommendations regarding unfunded federal mandates which are the subject of litigation between the Federal Government and state, local, or tribal governments.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Riggs, Frank", 
+    "state": "CA", 
+    "thomas_id": "00962", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-01-31T12:53:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

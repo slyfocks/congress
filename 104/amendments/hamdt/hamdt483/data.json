@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-06-28T22:35:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A025) offered by Ms. Pelosi to the Goss amendment (A023).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-06-28T23:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 440, 
+      "text": "On agreeing to the Pelosi amendment (A025) Failed by recorded vote: 186 - 233, 1 Present (Roll no. 440).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt483-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt481-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 481
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1868-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Goss amendment (A023) sought to allow continued assistance to Haiti if it is made known to the President that the democratic process is becoming strengthened in Haiti.", 
+  "house_number": 25, 
+  "introduced_at": "1995-06-28", 
+  "number": 483, 
+  "purpose": "An amendment to the Goss amendment prohibiting the funds expenditure of funds appropriated in the bill for Hatian assistance, except when it is made known to the President that the democratic process is becoming strengthened in that country.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pelosi, Nancy", 
+    "state": "CA", 
+    "thomas_id": "00905", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-06-28T23:50:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

@@ -1,0 +1,157 @@
+<bill session="104" type="h" number="1743" updated="2013-07-14T18:47:38-04:00">
+  <state datetime="1996-05-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-05-24"/>
+  </status>
+  <introduced datetime="1995-06-06"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Water Resources Research Act of 1984 to extend the authorizations of appropriations through fiscal year 2000, and for other purposes.</title>
+  </titles>
+  <sponsor id="400113"/>
+  <cosponsors>
+    <cosponsor id="400070" joined="1995-09-07"/>
+    <cosponsor id="400575" joined="1995-09-07"/>
+    <cosponsor id="402858" joined="1995-09-07"/>
+    <cosponsor id="400100" joined="1995-09-07"/>
+    <cosponsor id="404298" joined="1995-09-07"/>
+    <cosponsor id="400178" joined="1995-09-07"/>
+    <cosponsor id="300151" joined="1995-09-07"/>
+    <cosponsor id="300068" joined="1995-09-07"/>
+    <cosponsor id="400278" joined="1995-09-07"/>
+    <cosponsor id="400322" joined="1995-09-07"/>
+    <cosponsor id="400330" joined="1995-09-07"/>
+    <cosponsor id="400534" joined="1995-09-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-06-06">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1995-06-08">
+      <text>Referred to the Subcommittee on Water and Power Resources.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-06-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-07-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-07-13">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-08-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-08-02">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1995-09-08T14:04:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 104-242.</text>
+    </action>
+    <calendar datetime="1995-09-08T14:05:00-04:00" calendar="Union" number="131">
+      <text>Placed on the Union Calendar, Calendar No. 131.</text>
+    </calendar>
+    <action datetime="1995-10-17T15:54:00-04:00">
+      <text>Mr. Doolittle moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1995-10-17T15:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10110-10111" label="consideration"/>
+    </action>
+    <action datetime="1995-10-17T15:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-10-17T15:58:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-10-17T15:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-10-18">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="1996-03-28">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="1996-04-16">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Chafee with an amendment in the nature of a substitute. With written report No. 104-252.</text>
+    </action>
+    <calendar datetime="1996-04-16" calendar="Senate Legislative" under="General Orders" number="366">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 366.</text>
+    </calendar>
+    <vote state="PASS_BACK:SENATE" datetime="1996-05-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4685-4686" label="consideration"/>
+    </vote>
+    <action datetime="1996-05-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1996-05-14T15:09:00-04:00">
+      <text>Mr. Doolittle asked unanimous consent that the House agree to the Senate amendment.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1996-05-14T15:10:00-04:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+      <reference ref="CR H4919-4920" label="consideration"/>
+    </vote>
+    <action datetime="1996-05-14T15:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="1996-05-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1996-05-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-05-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-05-24" type="public" number="104-147">
+      <text>Became Public Law No: 104-147.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII13" subcommittee="Water and Power Resources" name="House Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Authorization"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational policy"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Federal preemption"/>
+    <term name="Government internships"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Interstate relations"/>
+    <term name="Planning"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Research"/>
+    <term name="Research centers"/>
+    <term name="Research grants"/>
+    <term name="Scholarships"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="States' rights"/>
+    <term name="Water quality"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/1996--Passed Senate amended.
+Amends the Water Resources Research Act of 1984 to: (1) add as a purpose of such Act to encourage long-term planning and research to meet future water management, quality, and supply challenges; (2) require, in grants made under such Act, that non-Federal funds match grants on at least a two-to-one basis; (3) authorize appropriations for State water resources research and technology institutes through FY 2000, including for research focused on water problems of an interstate nature; (4) direct the Secretary of the Interior to encourage other Federal departments, agencies, and instrumentalities to take advantage of the expertise and capabilities of the State water resources research institutes and to facilitate cooperation with other Federal water resources programs; (5) authorize the Secretary to support an internship program for undergraduate and graduate students; and (6) direct the Secretary to report annually to the Congress on coordination efforts. Specifies that nothing in such Act shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.</summary>
+</bill>

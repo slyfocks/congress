@@ -1,0 +1,61 @@
+<bill session="104" type="h" number="332" updated="2013-07-14T18:47:09-04:00">
+  <state datetime="1995-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="1995-01-04"/>
+  </status>
+  <introduced datetime="1995-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to provide for transportation by the Department of Defense of certain children requiring specialized medical services in the United States.</title>
+  </titles>
+  <sponsor id="400554"/>
+  <cosponsors>
+    <cosponsor id="400128" joined="1995-05-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-04">
+      <text>Referred to the House Committee on National Security.</text>
+    </action>
+    <action datetime="1995-01-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on National Security"/>
+    </action>
+    <action datetime="1995-01-18">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Committee on National Security"/>
+    </action>
+    <action datetime="1995-05-23">
+      <text>Re-referred to the Subcommittee on Military Readiness.</text>
+      <committee name="House Committee on National Security"/>
+    </action>
+    <action datetime="1995-07-05">
+      <text>Unfavorable Executive Comment Received from DOD.</text>
+      <committee name="House Committee on National Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House National Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House National Security"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Military Readiness" name="House National Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="660"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aliens"/>
+    <term name="Child health"/>
+    <term name="Disabled"/>
+    <term name="Families"/>
+    <term name="Hawaii"/>
+    <term name="Health"/>
+    <term name="Hospitals"/>
+    <term name="International affairs"/>
+    <term name="Military aviation"/>
+    <term name="Military transportation"/>
+    <term name="Pacific area"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/1995--Introduced.
+Authorizes the Secretary of Defense to provide round-trip air transportation to Hawaii to: (1) minor children residing in the Pacific Rim region who have been admitted for necessary medical treatment at a medical facility in Honolulu, Hawaii, that specializes in the care of crippled children at no cost to the patient but who are unable to afford the cost of transportation to Hawaii; and (2) one adult attendant for each child. Provides conditions.</summary>
+</bill>

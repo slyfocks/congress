@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-06-27T18:20:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A011) offered by Mr. Wilson to the Miller (FL) amendment (A010).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-06-27T19:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wilson amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt469-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt468-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 468
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1868-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Miller (FL) amendment (A010) for description.", 
+  "house_number": 11, 
+  "introduced_at": "1995-06-27", 
+  "number": 469, 
+  "purpose": "An amendment, offered as a substitute to the Miller (FL) amendment to reduce funds appropriated for the former Soviet states by $15 million, from $595 million to $580 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wilson, Charles", 
+    "state": "TX", 
+    "thomas_id": "01232", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-06-27T19:25:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

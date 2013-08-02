@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-03-04T19:11:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A007) offered by Mr. Stearns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-04T21:06:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 33, 
+      "text": "On agreeing to the Stearns amendment (A007) Failed by recorded vote: 28 - 384 (Roll no. 33).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt507-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr856-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to to require a run-off referendum, not later than 90 days after the first, between the 2 options which received the most votes.", 
+  "house_number": 7, 
+  "introduced_at": "1998-03-04", 
+  "number": 507, 
+  "purpose": "An amendment to strike the provision authorizing a referendum every ten years and to propose that in the referenda process, not later than 90 days after the first referendum, there shall be a second referendum if none of the options available received 50 percent-plus-one of the vote on the initial process. Such subsequent referendum would consist of the top two options receiving the most votes and would appear on the ballot using the same language and in the same manner as they were presented in the first referendum.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1998-03-04T21:06:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

@@ -1,0 +1,70 @@
+<bill session="105" type="hc" number="74" updated="2013-07-14T18:51:14-04:00">
+  <state datetime="1997-07-28T15:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-07-28T15:41:00-04:00"/>
+  </status>
+  <introduced datetime="1997-05-06"/>
+  <titles>
+    <title as="introduced" type="official">Concerning the situation between the Democratic People's Republic of Korea and the Republic of Korea.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1997-05-06">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1997-05-20">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1997-07-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1997-07-24">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1997-07-28T15:25:00-04:00">
+      <text>Mr. Kim moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1997-07-28T15:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5845-5847" label="consideration"/>
+    </action>
+    <action datetime="1997-07-28T15:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-07-28T15:41:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1997-07-28T15:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-07-29">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asia and the Pacific" name="House International Relations"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Armistices"/>
+    <term name="China"/>
+    <term name="East Asia"/>
+    <term name="History"/>
+    <term name="Korean War, 1950-1953"/>
+    <term name="North Korea"/>
+    <term name="Peace negotiations"/>
+    <term name="South Korea"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1997--Passed House amended.
+Supports: (1) U.S. troops who have faithfully served the interests of the United States by ensuring stability on the Korean Peninsula; (2) good faith efforts by South Korea to resolve the conflict between North and South Korea; and (3) four-way talks between the United States, China, South Korea, and North Korea to peacefully and permanently resolve the conflict.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="105" type="hc" number="21" updated="2013-07-14T18:51:13-04:00">
+  <state datetime="1997-02-13">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1997-02-13"/>
+  </status>
+  <introduced datetime="1997-02-13"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment of the two Houses.</title>
+  </titles>
+  <sponsor id="400156"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1997-02-13T13:07:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H551-552" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-02-13T13:08:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1997-02-13T13:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1997-02-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1417-1418" label="consideration"/>
+    </vote>
+    <action datetime="1997-02-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="105" type="sc" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/1997--Introduced.
+Provides for an adjournment of the House of Representatives from February 13 until February 25, 1997, and an adjournment or recess of the Senate from February 13 until February 24, 1997.</summary>
+</bill>

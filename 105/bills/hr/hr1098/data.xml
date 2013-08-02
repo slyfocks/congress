@@ -1,0 +1,39 @@
+<bill session="105" type="h" number="1098" updated="2013-07-14T18:50:04-04:00">
+  <state datetime="1997-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1997-03-18"/>
+  </status>
+  <introduced datetime="1997-03-18"/>
+  <titles>
+    <title as="introduced" type="short">Save the Greenback Act</title>
+    <title as="introduced" type="official">To require the continued availability of $1 Federal reserve notes for circulation.</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400121" joined="1997-03-18"/>
+    <cosponsor id="400283" joined="1997-03-18"/>
+    <cosponsor id="400301" joined="1997-03-18"/>
+    <cosponsor id="300096" joined="1997-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-03-18">
+      <text>Referred to the House Committee on Banking and Financial Services.</text>
+    </action>
+    <action datetime="1997-03-28">
+      <text>Referred to the Subcommittee on Domestic and International Monetary Policy.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking and Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA08" subcommittee="Domestic and International Monetary Policy" name="House Banking and Financial Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Money"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1997--Introduced.
+Save the Greenback Act - Instructs the Secretary of the Treasury and the Board of Governors of the Federal Reserve System to take action to ensure that the number of Federal reserve one-dollar notes in circulation does not decrease below the number in circulation as of the date of the enactment of this Act.</summary>
+</bill>

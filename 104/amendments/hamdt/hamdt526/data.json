@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-07-13T13:43:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A003) offered by Mr. Gilchrest to the Regula amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-07-13T15:00:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 500, 
+      "text": "On agreeing to the Gilchrest amendment (A003) Agreed to by recorded vote: 256 - 168 (Roll no. 500).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt526-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt525-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 525
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1977-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1977
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Regula amendment (A002) for description.", 
+  "house_number": 3, 
+  "introduced_at": "1995-07-13", 
+  "number": 526, 
+  "purpose": "An amendment, offered as a substitute to the Regula amendment, which would allow the U.S. Geological Survey to continue to use funds to administer volunteers, provided that the volunteers are properly trained and that the information gathered is carefully verified.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gilchrest, Wayne T.", 
+    "state": "MD", 
+    "thomas_id": "00438", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-07-13T15:00:00-04:00", 
+  "updated_at": "2013-07-17T07:50:48-04:00"
+}

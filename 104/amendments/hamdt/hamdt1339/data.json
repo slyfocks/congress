@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-07-24T12:00:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A027) offered by Mr. Frank (MA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-24T14:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 348, 
+      "text": "On agreeing to the Frank (MA) amendment (A027) Failed by recorded vote: 16 - 408 (Roll no. 348).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1339-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3814-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 3814
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": null, 
+  "house_number": 27, 
+  "introduced_at": "1996-07-24", 
+  "number": 1339, 
+  "purpose": "An amendment, printed as amendment No. 6 in the Congressional Record of July 16, 1996, to prohibit funds appropriated in the bill for the Federal Communications Commission from being used to assign licenses for advanced television services.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-07-24T14:50:00-04:00", 
+  "updated_at": "2013-07-17T07:50:56-04:00"
+}

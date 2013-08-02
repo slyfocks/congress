@@ -1,0 +1,84 @@
+<bill session="105" type="hc" number="263" updated="2013-07-14T18:51:21-04:00">
+  <state datetime="1998-05-13">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1998-05-13"/>
+  </status>
+  <introduced datetime="1998-04-28"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the seventeenth annual National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="406343"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1998-04-28">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1998-04-30">
+      <text>Referred to the Subcommittee on Public Buildings and Economic Development.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1998-04-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1998-04-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1998-05-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-05-06">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1998-05-06T20:37:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 105-514.</text>
+    </action>
+    <calendar datetime="1998-05-06T20:38:00-04:00" calendar="House" number="179">
+      <text>Placed on the House Calendar, Calendar No. 179.</text>
+    </calendar>
+    <action datetime="1998-05-12T17:37:00-04:00">
+      <text>Mr. Kim moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1998-05-12T17:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3062-3063" label="consideration"/>
+    </action>
+    <action datetime="1998-05-12T17:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-05-12T17:42:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-05-12T17:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1998-05-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4842" label="consideration"/>
+    </vote>
+    <action datetime="1998-05-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW08" subcommittee="Public Buildings and Economic Development" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement officers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Police"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1998--Passed House amended.
+Permits the National Fraternal Order of Police and its auxiliary to sponsor a free, public event, the 17th annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 1998.</summary>
+</bill>

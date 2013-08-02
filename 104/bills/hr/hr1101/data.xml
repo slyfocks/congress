@@ -1,0 +1,58 @@
+<bill session="104" type="h" number="1101" updated="2013-07-14T18:47:25-04:00">
+  <state datetime="1995-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="1995-03-01"/>
+  </status>
+  <introduced datetime="1995-03-01"/>
+  <titles>
+    <title as="introduced" type="official">To abolish the Board of Review of the Metropolitan Washington Airports Authority, and for other purposes.</title>
+  </titles>
+  <sponsor id="400283"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="1995-03-01"/>
+    <cosponsor id="400524" joined="1995-03-01"/>
+    <cosponsor id="400435" joined="1995-03-14"/>
+    <cosponsor id="400438" joined="1995-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1995-02-09">
+      <text>Hearings Held by the Subcommittee on Aviation Prior to Introduction and Referral.</text>
+    </action>
+    <action state="REFERRED" datetime="1995-03-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1995-03-01">
+      <text>See H.R.1036.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-03-13">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="h" number="1036"/>
+    <bill relation="identical" session="104" type="s" number="496"/>
+    <bill relation="unknown" session="104" type="s" number="496"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airports"/>
+    <term name="Aviation policy"/>
+    <term name="Commerce"/>
+    <term name="District of Columbia"/>
+    <term name="Government operations and politics"/>
+    <term name="Infrastructure"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Law"/>
+    <term name="Leases"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/1995--Introduced.
+Amends the Metropolitan Washington Airports Act of 1986 to abolish the Board of Review of the Metropolitan Washington Airports Authority. Requires certain Airports Authority decisions to remain in effect and not be set aside solely by reason of a judicial order invalidating certain functions of the Board of Review.</summary>
+</bill>

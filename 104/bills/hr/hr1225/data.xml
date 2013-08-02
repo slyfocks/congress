@@ -1,0 +1,113 @@
+<bill session="104" type="h" number="1225" updated="2013-07-14T18:47:28-04:00">
+  <state datetime="1995-09-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1995-09-06"/>
+  </status>
+  <introduced datetime="1995-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Court Reporter Fair Labor Amendments of 1995</title>
+    <title as="reported to house" type="short">Court Reporter Fair Labor Amendments of 1995</title>
+    <title as="enacted" type="short">Court Reporter Fair Labor Amendments of 1995</title>
+    <title as="introduced" type="official">To amend the Fair Labor Standards Act of 1938 to exempt employees who perform certain court reporting duties from the compensatory time requirements applicable to certain public agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="404009"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="1995-03-14"/>
+    <cosponsor id="400568" joined="1995-03-14"/>
+    <cosponsor id="402516" joined="1995-03-14"/>
+    <cosponsor id="400182" joined="1995-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1995-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E588-589"/>
+    </action>
+    <action state="REFERRED" datetime="1995-03-14">
+      <text>Referred to the House Committee on Economic and Educational Opportunities.</text>
+    </action>
+    <action datetime="1995-03-31">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Committee on Economic and Educational Opportunities"/>
+    </action>
+    <action datetime="1995-07-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Economic and Educational Opportunities"/>
+    </action>
+    <action datetime="1995-07-20">
+      <text>Subcommittee on Workforce Protections Discharged.</text>
+      <committee name="House Committee on Economic and Educational Opportunities"/>
+    </action>
+    <action datetime="1995-07-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Economic and Educational Opportunities"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-07-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Economic and Educational Opportunities"/>
+    </calendar>
+    <action datetime="1995-08-01T11:25:00-04:00">
+      <text>Reported (Amended) by the Committee on Economic and Educational. H. Rept. 104-219.</text>
+    </action>
+    <calendar datetime="1995-08-01T11:25:00-04:00" calendar="Union" number="115">
+      <text>Placed on the Union Calendar, Calendar No. 115.</text>
+    </calendar>
+    <action datetime="1995-08-01T16:46:00-04:00">
+      <text>Mr. Fawell asked unanimous consent to consider.</text>
+    </action>
+    <action datetime="1995-08-01T16:51:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H8122-8123" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-08-01T16:52:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1995-08-01T16:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-08-03">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1995-08-05" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S11709-11710" label="consideration"/>
+    </vote>
+    <topresident datetime="1995-08-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1995-08-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1995-08-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1995-09-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1995-09-06" type="public" number="104-26">
+      <text>Became Public Law No: 104-26.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Economic and Educational Opportunities" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSED10" subcommittee="Workforce Protections" name="House Economic and Educational Opportunities"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="190"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Court reporting"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Local officials and employees"/>
+    <term name="Overtime"/>
+    <term name="State courts"/>
+    <term name="State officials and employees"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments>
+    <amendment number="h709"/>
+  </amendments>
+  <summary>8/1/1995--Passed House amended.
+Court Reporter Fair Labor Amendments of 1995 - Amends the Fair Labor Standards Act of 1938 to allow an exemption from certain Federal wage and hour requirements for public agency employees while they are performing court reporting transcript preparation duties, if: (1) such employee is paid at a per-page rate which is not less than the maximum rate established by State law or local ordinance for that jurisdiction or otherwise established by a judicial or administrative officer and in effect on July 1, 1995, or the rate freely negotiated between the employee and the party requesting the transcript, other than the presiding judge; and (2) the hours spent performing such duties are outside those during which the employee performs other work (including hours for which the agency requires the employee's attendance) pursuant to the employment relationship with such public agency.</summary>
+</bill>

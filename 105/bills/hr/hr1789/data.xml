@@ -1,0 +1,106 @@
+<bill session="105" type="h" number="1789" updated="2013-07-14T18:50:20-04:00">
+  <state datetime="1997-10-21T14:51:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-10-21T14:51:00-04:00"/>
+  </status>
+  <introduced datetime="1997-06-04"/>
+  <titles>
+    <title as="introduced" type="official">To reauthorize the dairy indemnity program.</title>
+  </titles>
+  <sponsor id="400389"/>
+  <cosponsors>
+    <cosponsor id="400322" joined="1997-06-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-06-04">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1997-06-10">
+      <text>Executive Comment Requested from USDA.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1997-06-10">
+      <text>Referred to the Subcommittee on Livestock, Dairy and Poultry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1997-06-25">
+      <text>Favorable Executive Comment Received from USDA.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1997-06-26">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1997-06-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1997-06-26">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1997-09-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-09-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="1997-10-02T12:28:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 105-294.</text>
+    </action>
+    <calendar datetime="1997-10-02T12:29:00-04:00" calendar="Union" number="168">
+      <text>Placed on the Union Calendar, Calendar No. 168.</text>
+    </calendar>
+    <action datetime="1997-10-21T14:45:00-04:00">
+      <text>Mr. Pombo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1997-10-21T14:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8868" label="consideration"/>
+    </action>
+    <action datetime="1997-10-21T14:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-10-21T14:51:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1997-10-21T14:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-10-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural chemicals"/>
+    <term name="Appropriations"/>
+    <term name="Authorization"/>
+    <term name="Claims"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Dairy industry"/>
+    <term name="Dairy products"/>
+    <term name="Department of Agriculture"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Food contamination"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Milk"/>
+    <term name="Radioactive contamination of food"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/1997--Introduced.
+Amends Federal law to extend the dairy indemnity program. Permits payment of not fully paid FY 1997 claims with FY 1998 appropriations. Directs the Secretary of Agriculture to identify and evaluate alternative financing options for the program.</summary>
+</bill>

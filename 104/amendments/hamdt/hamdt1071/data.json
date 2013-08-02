@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-05-22T11:50:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A007) offered by Mr. Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-22T14:39:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 185, 
+      "text": "On agreeing to the Sanders amendment (A007) Failed by recorded vote: 115 - 311 (Roll no. 185).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1071-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3259-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 3259
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to cut the intelligence budget by 10 percent from the level authorized for fiscal year 1996.", 
+  "house_number": 7, 
+  "introduced_at": "1996-05-22", 
+  "number": 1071, 
+  "purpose": "An amendment to cut the bill's total authorization by 10% from the previous year's level.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-05-22T14:39:00-04:00", 
+  "updated_at": "2013-07-17T07:50:54-04:00"
+}

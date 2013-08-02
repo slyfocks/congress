@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-28T18:37:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A012) offered by Mr. Brown (CA) to the Walker amendment (A011).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-28T19:00:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 181, 
+      "text": "On agreeing to the Brown (CA) amendment (A012) Failed by recorded vote: 157 - 263 (Roll no. 181).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt229-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt228-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 228
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1022-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1022
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Walker amendment (A011) sought to exempt from the provisions of the bill situations that the head of an agency considers to be an emergency or in situations reasonably expected to cause death or serious injury or illness to humans.", 
+  "house_number": 12, 
+  "introduced_at": "1995-02-28", 
+  "number": 229, 
+  "purpose": "An amendment to provide that the provisions of the bill do not apply in situations that the head of an agency considers to be an emergency or in situations reasonably expected to cause death or serious injury or illness to humans.", 
+  "sponsor": {
+    "district": "42", 
+    "name": "Brown, George E., Jr.", 
+    "state": "CA", 
+    "thomas_id": "00134", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-02-28T19:00:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

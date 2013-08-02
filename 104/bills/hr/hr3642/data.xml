@@ -1,0 +1,93 @@
+<bill session="104" type="h" number="3642" updated="2013-07-14T18:48:19-04:00">
+  <state datetime="1996-09-10T16:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-09-10T16:06:00-04:00"/>
+  </status>
+  <introduced datetime="1996-06-13"/>
+  <titles>
+    <title as="introduced" type="short">California Indian Land Transfer Act</title>
+    <title as="introduced" type="official">To provide for the transfer of public lands to certain California Indian Tribes.</title>
+  </titles>
+  <sponsor id="400144"/>
+  <cosponsors>
+    <cosponsor id="400128" joined="1996-06-24"/>
+    <cosponsor id="400278" joined="1996-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-06-13">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1996-06-19">
+      <text>Referred to the Subcommittee on National Parks, Forests and Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-06-19">
+      <text>Referred to the Subcommittee on Native American and Insular Affairs.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-06-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-06-19">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1996-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-08-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1996-09-04T17:15:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 104-767.</text>
+    </action>
+    <calendar datetime="1996-09-04T17:16:00-04:00" calendar="Union" number="412">
+      <text>Placed on the Union Calendar, Calendar No. 412.</text>
+    </calendar>
+    <action datetime="1996-09-10T16:03:00-04:00">
+      <text>Mr. Gallegly moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1996-09-10T16:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10144-10145" label="consideration"/>
+    </action>
+    <action datetime="1996-09-10T16:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-10T16:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-10T16:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests, and Lands" name="House Resources"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII14" subcommittee="Native American and Insular Affairs" name="House Resources"/>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Agriculture and food"/>
+    <term name="California"/>
+    <term name="Commerce"/>
+    <term name="Grazing"/>
+    <term name="Indian lands"/>
+    <term name="Land transfers"/>
+    <term name="Mining royalties"/>
+    <term name="Minorities"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Rent"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/1996--Introduced.
+California Indian Land Transfer Act - Transfers all right, title, and interest of the U.S. in and to specified lands to certain California Indian tribes to be held in trust by the U.S. for the benefit of such Indian tribes. Terminates grazing privileges on the lands two years after the date of enactment of this Act.</summary>
+</bill>

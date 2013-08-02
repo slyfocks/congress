@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-09-27T17:12:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A002) offered by Mr. Moran.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-27T18:36:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 689, 
+      "text": "On agreeing to the Moran amendment (A002) Failed by recorded vote: 195 - 228 (Roll no. 689).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt823-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr743-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 743
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to require that employee representatives participating in workplace involvement groups be chosen by fellow employees and be elected by secret ballot.", 
+  "house_number": 2, 
+  "introduced_at": "1995-09-27", 
+  "number": 823, 
+  "purpose": "An amendment to require that employee representatives participating in workplace involvement groups be chosen by fellow employees and elected by secret ballot.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Moran, James P.", 
+    "state": "VA", 
+    "thomas_id": "00832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-09-27T18:36:00-04:00", 
+  "updated_at": "2013-07-17T07:50:49-04:00"
+}

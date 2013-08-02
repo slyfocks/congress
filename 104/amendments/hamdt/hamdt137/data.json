@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-10T12:34:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A025) offered by Mr. Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-10T13:07:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 115, 
+      "text": "On agreeing to the Scott amendment (A025) Failed by recorded vote: 155 - 268 (Roll no. 115).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt137-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr667-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 667
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to decrease the authorization for prison grants by $2.5 billion.", 
+  "house_number": 25, 
+  "introduced_at": "1995-02-10", 
+  "number": 137, 
+  "purpose": "An amendment (printed as amendment No. 36 in the Congressional Record of February 9, 1995) to decrease the authorization in the bill for prison grants by $2.5 billion, from $10.5 billion over five years to $8 billion.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-02-10T13:07:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

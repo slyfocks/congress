@@ -1,0 +1,109 @@
+<bill session="104" type="h" number="2567" updated="2013-07-14T18:47:59-04:00">
+  <state datetime="1996-01-23T15:05:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-01-23T15:05:00-05:00"/>
+  </status>
+  <introduced datetime="1995-11-01"/>
+  <titles>
+    <title as="reported to house" type="short">Constructed Water Conveyances Reform Act of 1995</title>
+    <title as="passed house" type="short">Constructed Water Conveyances Reform Act of 1995</title>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act relating to standards for constructed water conveyances.</title>
+  </titles>
+  <sponsor id="400505"/>
+  <cosponsors>
+    <cosponsor id="400112" joined="1995-11-20"/>
+    <cosponsor id="400113" joined="1995-11-20"/>
+    <cosponsor id="403864" joined="1995-11-20"/>
+    <cosponsor id="404013" joined="1995-11-14"/>
+    <cosponsor id="405258" joined="1995-12-14"/>
+    <cosponsor id="400173" joined="1995-12-14"/>
+    <cosponsor id="406625" joined="1995-11-20"/>
+    <cosponsor id="400256" joined="1995-11-01"/>
+    <cosponsor id="410396" joined="1995-11-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-11-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1995-11-13">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-12-14">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1995-12-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-12-14">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1995-12-21T13:41:00-05:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 104-433.</text>
+    </action>
+    <calendar datetime="1995-12-21T13:42:00-05:00" calendar="Union" number="208">
+      <text>Placed on the Union Calendar, Calendar No. 208.</text>
+    </calendar>
+    <calendar datetime="1995-12-22T13:19:00-05:00" calendar="Corrections" number="12">
+      <text>Placed on the Corrections Calendar, Calendar No. 12.</text>
+    </calendar>
+    <action datetime="1996-01-23T14:23:00-05:00">
+      <text>Called up from the Corrections Calendar for consideration.</text>
+    </action>
+    <action datetime="1996-01-23T14:24:00-05:00">
+      <text>Considered from the Corrections Calendar.</text>
+      <reference ref="CR H750-757" label="consideration"/>
+    </action>
+    <action datetime="1996-01-23T14:25:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate.</text>
+    </action>
+    <action datetime="1996-01-23T15:04:00-05:00">
+      <text>The previous question was ordered on the amendment and the bill.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-01-23T15:05:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On passage Passed by voice vote.</text>
+    </vote>
+    <action datetime="1996-01-23T15:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-01-24">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aquatic ecology"/>
+    <term name="Canals"/>
+    <term name="Fishery management"/>
+    <term name="Government operations and politics"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Outdoor recreation"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Recreation areas"/>
+    <term name="Sports and recreation"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="Transportation and public works"/>
+    <term name="Water conservation"/>
+    <term name="Water pollution control"/>
+    <term name="Water quality"/>
+    <term name="Water resources development"/>
+    <term name="Water supply"/>
+    <term name="Water use"/>
+    <term name="Waterways"/>
+  </subjects>
+  <amendments>
+    <amendment number="h929"/>
+  </amendments>
+  <summary>1/23/1996--Passed House amended.
+Constructed Water Conveyances Reform Act of 1995 - Amends the Federal Water Pollution Control Act to provide that a State that exercises jurisdiction over constructed (manmade) water conveyances, in establishing standards for such conveyances: (1) shall consider any water quality impacts resulting from any return flow from such a conveyance to navigable waters and the need to protect downstream uses; and (2) may consider the existing and planned uses of the transported water, management practices necessary to maintain the conveyances, State or regional water resources management and water conservation plans, and the intended purposes for the conveyance. Provides that if a State adopts or reviews water quality standards for such conveyances, it shall not be required to establish recreational, aquatic life, or fish consumption uses for such systems if such uses: (1) are not existing or reasonably foreseeable; or (2) interfere with the intended purpose of the system.</summary>
+</bill>

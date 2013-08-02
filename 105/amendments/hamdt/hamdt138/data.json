@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-06-04T18:17:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A010) offered by Mr. Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-06-04T19:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 163, 
+      "text": "On agreeing to the Paul amendment (A010) Failed by recorded vote: 54 - 369 (Roll no. 163).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt138-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1757-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1757
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to provide for the withdrawal of the United States from the United Nations.", 
+  "house_number": 10, 
+  "introduced_at": "1997-06-04", 
+  "number": 138, 
+  "purpose": "An amendment to require the United States to withdraw from the United Nations.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Paul, Ron", 
+    "state": "TX", 
+    "thomas_id": "00900", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-06-04T19:56:00-04:00", 
+  "updated_at": "2013-07-17T07:51:35-04:00"
+}

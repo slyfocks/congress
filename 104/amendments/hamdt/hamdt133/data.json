@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-10T10:36:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A021) offered by Mr. Cardin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-10T11:18:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 113, 
+      "text": "On agreeing to the Cardin amendment (A021) Failed by recorded vote: 129 - 295 (Roll no. 113).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt133-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr667-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 667
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to reduce by $36 million over 5 years the authorization for prison grants.", 
+  "house_number": 21, 
+  "introduced_at": "1995-02-10", 
+  "number": 133, 
+  "purpose": "An amendment to reduce by $7.2 million each year for five years the total authorization for prison grants. The total reduction would amount to $36 million.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-02-10T11:18:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

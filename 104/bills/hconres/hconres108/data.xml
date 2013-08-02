@@ -1,0 +1,51 @@
+<bill session="104" type="hc" number="108" updated="2013-07-14T18:48:40-04:00">
+  <state datetime="1995-10-17T14:21:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-10-17T14:21:00-04:00"/>
+  </status>
+  <introduced datetime="1995-10-17"/>
+  <titles>
+    <title as="introduced" type="official">To correct technical errors in the enrollment of the bill H.R. 1594.</title>
+  </titles>
+  <sponsor id="400586"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1995-10-17T14:20:00-04:00">
+      <text>Mr. Goodling asked unanimous consent to consider as introduced.</text>
+    </action>
+    <action datetime="1995-10-17T14:20:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10089" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-10-17T14:21:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1995-10-17T14:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-10-19">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1995-10-23">
+      <text>Referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1995-10-24">
+      <text>Star Print ordered on the concurrent resolution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="104" type="h" number="1594"/>
+  </relatedbills>
+  <subjects>
+    <term name="House of Representatives"/>
+    <term name="Congress"/>
+    <term name="Labor and employment"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/17/1995--Introduced.
+Makes technical corrections in the enrollment of H.R. 1594 (restrictions on the promotion by Federal agencies of economically targeted investments in connection with employee benefit plans).</summary>
+</bill>

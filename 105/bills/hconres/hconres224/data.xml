@@ -1,0 +1,100 @@
+<bill session="105" type="hc" number="224" updated="2013-07-14T18:51:19-04:00">
+  <state datetime="1998-10-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1998-10-21"/>
+  </status>
+  <introduced datetime="1998-02-25"/>
+  <titles>
+    <title as="introduced" type="official">Urging international cooperation in recovering children abducted in the United States and taken to other countries.</title>
+  </titles>
+  <sponsor id="400026"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="1998-07-20"/>
+    <cosponsor id="400057" joined="1998-04-30"/>
+    <cosponsor id="400522" joined="1998-02-25"/>
+    <cosponsor id="400084" joined="1998-02-25"/>
+    <cosponsor id="400103" joined="1998-03-11"/>
+    <cosponsor id="400579" joined="1998-02-25"/>
+    <cosponsor id="400125" joined="1998-04-30"/>
+    <cosponsor id="400136" joined="1998-02-25"/>
+    <cosponsor id="400584" joined="1998-02-25"/>
+    <cosponsor id="400143" joined="1998-02-25"/>
+    <cosponsor id="404375" joined="1998-02-25"/>
+    <cosponsor id="400536" joined="1998-09-10"/>
+    <cosponsor id="400588" joined="1998-02-25"/>
+    <cosponsor id="400229" joined="1998-02-25"/>
+    <cosponsor id="400256" joined="1998-02-25"/>
+    <cosponsor id="400265" joined="1998-02-25"/>
+    <cosponsor id="400309" joined="1998-02-25"/>
+    <cosponsor id="400316" joined="1998-03-11"/>
+    <cosponsor id="400344" joined="1998-04-30"/>
+    <cosponsor id="400358" joined="1998-02-25"/>
+    <cosponsor id="409633" joined="1998-02-25"/>
+    <cosponsor id="400370" joined="1998-06-19"/>
+    <cosponsor id="400371" joined="1998-07-21"/>
+    <cosponsor id="400380" joined="1998-09-10"/>
+    <cosponsor id="400383" joined="1998-02-25"/>
+    <cosponsor id="400410" joined="1998-02-25"/>
+    <cosponsor id="400436" joined="1998-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-02-25">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-07-21">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1998-09-14T13:51:00-04:00">
+      <text>Mr. Bereuter moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1998-09-14T13:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7658-7660" label="consideration"/>
+    </action>
+    <action datetime="1998-09-14T13:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-09-14T14:05:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-09-14T14:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-09-15">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1998-10-21">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1998-10-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S12946" label="consideration"/>
+    </vote>
+    <action datetime="1998-10-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aliens"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Families"/>
+    <term name="International cooperation"/>
+    <term name="Kidnapping"/>
+    <term name="Parental kidnapping"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1998--Introduced.
+Urges international cooperation in working to resolve cases in which children in the United States are abducted by family members who are foreign nationals and taken to foreign countries, and in seeing that justice is served by holding the abductors accountable for criminal law violations.</summary>
+</bill>

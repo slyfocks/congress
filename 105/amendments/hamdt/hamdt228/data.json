@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-07-10T20:30:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A007) offered by Mr. Dicks to the Porter amendment (A006).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-07-10T22:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 262, 
+      "text": "On agreeing to the Dicks amendment (A007) Agreed to by recorded vote: 211 - 209 (Roll no. 262).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt228-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt227-105", 
+    "amendment_type": "hamdt", 
+    "congress": 105, 
+    "number": 227
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2107-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2107
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "See Porter amendment (A006) for description.", 
+  "house_number": 7, 
+  "introduced_at": "1997-07-10", 
+  "number": 228, 
+  "purpose": "An amendment to the Porter amendment to to reduce the Forest Service construction account for forest road building by $5,600,000, rather than $41,500,000, and reduce the authorization for the Timber Purchaser Credit Program, which provides credits timber to companies as payment for building new forest roads) from $50 million to $25 million, rather than $1 million.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Dicks, Norman D.", 
+    "state": "WA", 
+    "thomas_id": "00297", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1997-07-10T22:58:00-04:00", 
+  "updated_at": "2013-07-17T07:51:36-04:00"
+}

@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-28T14:00:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Smith (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-28T14:05:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (MI) amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt223-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1022-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1022
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment requires Federal agencies to make existing databases and information developed under the Act available to other Federal agencies.", 
+  "house_number": 6, 
+  "introduced_at": "1995-02-28", 
+  "number": 223, 
+  "purpose": "An amendment to require federal agencies to make existing databases and information, developed under the bill's provisions, available to other federal agencies. It also requires the president, within 15 months of enactment, to issue guidelines governing these information-sharing efforts.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Smith, Nick", 
+    "state": "MI", 
+    "thomas_id": "01080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-02-28T14:05:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

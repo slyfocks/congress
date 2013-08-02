@@ -1,0 +1,112 @@
+<bill session="104" type="h" number="629" updated="2013-07-14T18:47:13-04:00">
+  <state datetime="1995-10-17T15:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-10-17T15:54:00-04:00"/>
+  </status>
+  <introduced datetime="1995-01-23"/>
+  <titles>
+    <title as="introduced" type="short">Fall River Visitor Center Act of 1995</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to participate in the operation of certain visitor facilities associated with, but outside the boundaries of, Rocky Mountain National Park in the State of Colorado.</title>
+  </titles>
+  <sponsor id="300003"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-23">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="1995-01-26">
+      <text>Referred to the Subcommittee on National Parks, Forests and Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-01-26">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-05-18">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-06-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-06-27">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="1995-07-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-07-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="1995-07-28T13:16:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 104-211.</text>
+    </action>
+    <calendar datetime="1995-07-28T13:17:00-04:00" calendar="Union" number="110">
+      <text>Placed on the Union Calendar, Calendar No. 110.</text>
+    </calendar>
+    <action datetime="1995-10-17T15:51:00-04:00">
+      <text>Mr. Allard moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-10-17T15:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10109-10110" label="consideration"/>
+    </action>
+    <action datetime="1995-10-17T15:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-10-17T15:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-10-17T15:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-10-18">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1995-10-19">
+      <text>Referred to Subcommittee on Parks, Preservation and Recreation.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="1995-11-09">
+      <text>Subcommittee on Parks, Preservation and Recreation. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="1995-12-21">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="1996-01-05">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 104-203.</text>
+    </action>
+    <calendar datetime="1996-01-05" calendar="Senate Legislative" under="General Orders" number="305">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII10" subcommittee="National Parks, Forests, and Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Parks, Historic Preservation, and Recreation" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="364"/>
+    <bill relation="unknown" session="104" type="s" number="364"/>
+  </relatedbills>
+  <subjects>
+    <term name="Parks"/>
+    <term name="Colorado"/>
+    <term name="Commerce"/>
+    <term name="Gifts"/>
+    <term name="Government operations and politics"/>
+    <term name="National parks"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Tourist trade"/>
+  </subjects>
+  <amendments/>
+  <summary>1/5/1996--Reported to Senate amended.
+Authorizes the Secretary of the Interior to collect and expend donated funds and expend appropriated funds for the operation and maintenance of a visitor center to be constructed with private funds on lands located outside the boundary of the Rocky Mountain National Park, Colorado, for visitors to, and for administration of, the Park.</summary>
+</bill>

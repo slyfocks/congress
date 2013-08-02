@@ -1,0 +1,79 @@
+<bill session="104" type="h" number="2670" updated="2013-07-14T18:48:01-04:00">
+  <state datetime="1996-08-01T17:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-08-01T17:09:00-04:00"/>
+  </status>
+  <introduced datetime="1995-11-20"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the release of the reversionary interest held by the United States in certain property located in the County of Iosco, Michigan.</title>
+  </titles>
+  <sponsor id="400526"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-11-20">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1995-11-27">
+      <text>Referred to the Subcommittee on Resource Conservation, Research and Forestry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1996-05-30">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1996-05-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1996-05-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="1996-06-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-06-19">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="1996-06-27T20:41:00-04:00">
+      <text>Reported (Amended) by the Committee on Agriculture. H. Rept. 104-644.</text>
+    </action>
+    <calendar datetime="1996-06-27T20:41:00-04:00" calendar="Union" number="324">
+      <text>Placed on the Union Calendar, Calendar No. 324.</text>
+    </calendar>
+    <action datetime="1996-08-01T17:05:00-04:00">
+      <text>Mr. Allard asked unanimous consent to discharge the Union Calendar and consider.</text>
+    </action>
+    <action datetime="1996-08-01T17:08:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9774-9775" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-08-01T17:09:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1996-08-01T17:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-08-02">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG27" subcommittee="Resource Conservation, Research and Forestry" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Michigan"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1377"/>
+  </amendments>
+  <summary>8/1/1996--Passed House amended.
+Requires the Secretary of Agriculture to release the reversionary interest of the United States in a specified parcel of real property conveyed to the County of Iosco, Michigan, in 1960.</summary>
+</bill>

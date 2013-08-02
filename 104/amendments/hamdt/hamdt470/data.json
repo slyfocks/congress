@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-06-27T18:22:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A012) offered by Mr. Hefley to the Wilson substitute (A011).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-06-27T19:25:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 425, 
+      "text": "On agreeing to the Hefley amendment (A012) Failed by recorded vote: 104 - 320 (Roll no. 425).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt470-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt469-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 469
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1868-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Wilson substitute amendment (A011) to the Miller (FL) amendment (A010) sought to reduce funding to the new independent states of the former Soviet Union by $327 million.", 
+  "house_number": 12, 
+  "introduced_at": "1995-06-27", 
+  "number": 470, 
+  "purpose": "An amendment to the Wilson substitute amendment, to reduce funds for the former Soviet states by $296.8 million, to $298.2 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-06-27T19:25:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

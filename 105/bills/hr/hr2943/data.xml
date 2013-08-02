@@ -1,0 +1,89 @@
+<bill session="105" type="h" number="2943" updated="2013-07-14T18:50:38-04:00">
+  <state datetime="1998-10-05T15:19:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-10-05T15:19:00-04:00"/>
+  </status>
+  <introduced datetime="1997-11-08"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 5, United States Code, to increase the amount of leave time available to a Federal employee in any year in connection with serving as an organ donor, and for other purposes.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="400574" joined="1997-11-13"/>
+    <cosponsor id="400138" joined="1998-01-27"/>
+    <cosponsor id="400170" joined="1998-01-27"/>
+    <cosponsor id="400502" joined="1998-01-27"/>
+    <cosponsor id="400600" joined="1998-01-27"/>
+    <cosponsor id="400295" joined="1997-11-08"/>
+    <cosponsor id="400378" joined="1998-02-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-11-08">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1997-11-17">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-07-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1998-09-28T13:01:00-04:00">
+      <text>Reported by the Committee on Government Reform. H. Rept. 105-752.</text>
+    </action>
+    <calendar datetime="1998-09-28T13:01:00-04:00" calendar="Union" number="431">
+      <text>Placed on the Union Calendar, Calendar No. 431.</text>
+    </calendar>
+    <action datetime="1998-10-05T15:03:00-04:00">
+      <text>Mrs. Morella moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-10-05T15:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9438-9440" label="consideration"/>
+    </action>
+    <action datetime="1998-10-05T15:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-05T15:19:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-10-05T15:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-06">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSGO09" subcommittee="Civil Service" name="House Government Reform and Oversight"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Blood diseases"/>
+    <term name="Bone marrow transplantation"/>
+    <term name="Donation of organs, tissues, etc."/>
+    <term name="Federal employees"/>
+    <term name="Health"/>
+    <term name="Labor and employment"/>
+    <term name="Leave of absence"/>
+    <term name="Sick leave"/>
+  </subjects>
+  <amendments/>
+  <summary>11/8/1997--Introduced.
+Amends Federal law (relating to the absence of a Federal employee in connection with serving as a bone-marrow or organ donor) to permit an employee, in any calendar year, to use not to exceed: (1) seven days of paid leave to serve as a bone-marrow donor; and (2) 30 days of paid leave to serve as an organ donor.</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="105" type="hc" number="331" updated="2013-07-14T18:51:23-04:00">
+  <state datetime="1998-10-09T11:51:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="1998-10-09T11:51:00-04:00"/>
+  </status>
+  <introduced datetime="1998-10-01"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress concerning the inadequacy of sewage infrastructure facilities in Tijuana, Mexico.</title>
+  </titles>
+  <sponsor id="400570"/>
+  <cosponsors>
+    <cosponsor id="400371" joined="1998-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-10-01">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1998-10-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-10-02">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1998-10-08T21:51:00-04:00">
+      <text>Mr. Gilman moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1998-10-08T21:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10169-10180" label="consideration"/>
+    </action>
+    <action datetime="1998-10-08T21:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1998-10-08T22:35:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Becerra objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="1998-10-09T11:47:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H10241" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="1998-10-09T11:51:00-04:00" how="roll" result="fail" roll="508" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Failed by recorded vote (2/3 required): 250 - 174 (Roll No. 508).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Environmental protection"/>
+    <term name="Environmental risk assessment"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Infrastructure"/>
+    <term name="International environmental cooperation"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Sanctions (International law)"/>
+    <term name="Sewage treatment"/>
+    <term name="Sewage treatment plants"/>
+    <term name="Sewerage"/>
+    <term name="Trade agreements"/>
+    <term name="Transboundary pollution"/>
+    <term name="Treaties"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/1998--Introduced.
+Expresses the sense of the Congress that: (1) if the Government of Mexico does not take actions to recognize and mitigate the inadequacy of sewage infrastructure facilities in Mexico and the adverse environmental and economic impacts of sewage from Mexico on U.S. cities, the United States should review its obligations with Mexico under treaties and other international agreements and take actions to ensure that the Government of Mexico shares in the burdens caused by its sewage infrastructure problems; and (2) any measurement of the responsiveness of the Government of Mexico to requests to mitigate its sewage treatment problems should be based on risk assessment procedures developed in consultation with the San Diego County Health Officer.</summary>
+</bill>

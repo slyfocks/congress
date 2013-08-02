@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-06-04T17:24:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-06-04T17:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-06-11T13:49:00-04:00", 
+      "references": [], 
+      "text": "Mr. Serrano demanded a separate vote on the Smith (NJ) amendment (A005).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-06-11T13:59:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 182, 
+      "text": "On agreeing to the Smith (NJ) amendment (A005) Agreed to by recorded vote: 354 - 72 (Roll no. 182).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt133-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1757-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1757
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment increases the authorization for Radio Free Asia by $40 million in order to provide for 24-hour broadcasting.", 
+  "house_number": 5, 
+  "introduced_at": "1997-06-04", 
+  "number": 133, 
+  "purpose": "An amendment to express the sense of the Congress that the United States broadcasting through Radio Free Asia and Voice of America increase to continuous, 24-hour broadcasting in Mandarin, Cantonese, Tibetan, and that broadcasting in additional Chinese dialects be increased.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1997-06-11T13:59:00-04:00", 
+  "updated_at": "2013-07-17T07:51:35-04:00"
+}

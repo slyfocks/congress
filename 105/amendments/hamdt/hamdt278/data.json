@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-07-24T22:34:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A002) offered by Mr. Klug.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-07-25T11:35:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 326, 
+      "text": "On agreeing to the Klug amendment (A002) Failed by recorded vote: 97 - 328 (Roll no. 326).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt278-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2203-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2203
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to reduce funding for the Appalachian Regional Commission by $90 million.", 
+  "house_number": 2, 
+  "introduced_at": "1997-07-24", 
+  "number": 278, 
+  "purpose": "An amendment to reduce funds appropriated for the Appalachia Regional Commission for road development projects by $90 million.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Klug, Scott L.", 
+    "state": "WI", 
+    "thomas_id": "00641", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-07-25T11:35:00-04:00", 
+  "updated_at": "2013-07-17T07:51:36-04:00"
+}

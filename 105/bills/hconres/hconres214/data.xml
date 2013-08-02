@@ -1,0 +1,83 @@
+<bill session="105" type="hc" number="214" updated="2013-07-14T18:51:19-04:00">
+  <state datetime="1998-10-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1998-10-12"/>
+  </status>
+  <introduced datetime="1998-02-11"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the contributions of the cities of Bristol, Tennessee, and Bristol, Virginia, and their people to the origins and development of Country Music, and for other purposes.</title>
+  </titles>
+  <sponsor id="400202"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1998-05-14"/>
+    <cosponsor id="400043" joined="1998-02-11"/>
+    <cosponsor id="400549" joined="1998-03-25"/>
+    <cosponsor id="400548" joined="1998-03-17"/>
+    <cosponsor id="400098" joined="1998-05-14"/>
+    <cosponsor id="400116" joined="1998-05-14"/>
+    <cosponsor id="400138" joined="1998-05-07"/>
+    <cosponsor id="400153" joined="1998-05-07"/>
+    <cosponsor id="400547" joined="1998-04-29"/>
+    <cosponsor id="400283" joined="1998-05-07"/>
+    <cosponsor id="400603" joined="1998-05-21"/>
+    <cosponsor id="400609" joined="1998-05-21"/>
+    <cosponsor id="400395" joined="1998-03-25"/>
+    <cosponsor id="400421" joined="1998-03-27"/>
+    <cosponsor id="400435" joined="1998-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-02-11">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="1998-03-16">
+      <text>Referred to the Subcommittee on Early Childhood, Youth and Families.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="1998-10-09T14:18:00-04:00">
+      <text>Mr. Goodling moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1998-10-09T14:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10275-10276" label="consideration"/>
+    </action>
+    <action datetime="1998-10-09T14:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-09T14:23:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-10-09T14:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1998-10-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S12383" label="consideration"/>
+    </vote>
+    <action datetime="1998-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED11" subcommittee="Early Childhood, Youth and Families" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Housing and community development"/>
+    <term name="Music"/>
+    <term name="Tennessee"/>
+    <term name="Urban affairs"/>
+    <term name="Urban areas"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1998--Introduced.
+Acknowledges and commends the cities of Bristol, Tennessee, and Bristol, Virginia, as the birthplace of country music.</summary>
+</bill>

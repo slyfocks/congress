@@ -1,0 +1,101 @@
+<bill session="105" type="hc" number="130" updated="2013-07-14T18:51:17-04:00">
+  <state datetime="1997-11-13T15:15:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-11-13T15:15:00-05:00"/>
+  </status>
+  <introduced datetime="1997-07-29"/>
+  <titles>
+    <title as="introduced" type="official">Concerning the situation in Kenya.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1997-10-09"/>
+    <cosponsor id="400272" joined="1997-10-08"/>
+    <cosponsor id="400312" joined="1997-10-08"/>
+    <cosponsor id="400348" joined="1997-10-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-07-29">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1997-08-21">
+      <text>Referred to the Subcommittee on Africa.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1997-10-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1997-10-01">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1997-10-08">
+      <text>Executive Comment Requested from State.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="1997-10-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-10-09">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1997-11-13T15:07:00-05:00">
+      <text>Mr. Royce moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="1997-11-13T15:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10880-10882" label="consideration"/>
+    </action>
+    <action datetime="1997-11-13T15:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-11-13T15:15:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1997-11-13T15:15:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-11-13">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA08" subcommittee="Africa" name="House International Relations"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa (Sub-Saharan)"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Clergy"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Democracy"/>
+    <term name="Destruction of property"/>
+    <term name="Election law"/>
+    <term name="Foreign leaders"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="International cooperation"/>
+    <term name="Kenya"/>
+    <term name="Law"/>
+    <term name="Legislation"/>
+    <term name="Opposition (Political science)"/>
+    <term name="Peace"/>
+    <term name="Political persecution"/>
+    <term name="Political violence"/>
+    <term name="Public demonstrations"/>
+    <term name="Religion"/>
+    <term name="Violence"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/1997--Passed House amended.
+Recognizes those Kenyans who have demonstrated their love of peace, law, and order and condemns those who are inciting others to violence, looting, and destroying property. Urges: (1) an immediate cessation to the violence in Kenya; (2) the Government of Kenya to take all necessary and lawful steps to avoid more violence in the future; (3) rapid progress toward conducting free and fair elections; and (4) the U.S. Government and the international community to work with all parties to encourage the Kenyan Government to ensure a lasting and committed transition to democracy, including an immediate review of the propriety of the time of the next elections. Recognizes President Daniel Arap Moi's response to domestic and international pressure to allow meaningful constitutional and legal electoral process reform through the current package of legislation agreed to by the ruling party and the opposition party representatives. Calls for the prodemocracy movement to remain unified in working toward implementing constitutional, statutory, and administrative reforms.</summary>
+</bill>

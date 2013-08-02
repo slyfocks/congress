@@ -1,0 +1,68 @@
+<bill session="104" type="h" number="418" updated="2013-07-14T18:47:10-04:00">
+  <state datetime="1995-12-19T10:03:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-12-19T10:03:00-05:00"/>
+  </status>
+  <introduced datetime="1995-01-04"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Arthur J. Carron, Jr.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-02-09">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-07-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-07-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-10-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-10-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1995-11-28T18:30:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 104-358.</text>
+    </action>
+    <calendar datetime="1995-11-28T18:31:00-05:00" calendar="Private" number="1">
+      <text>Placed on the Private Calendar, Calendar No. 1.</text>
+    </calendar>
+    <action datetime="1995-12-19T10:03:00-05:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-19T10:03:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1995-12-19T10:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/1995--Introduced.
+Waives time limitations with respect to a claim by a named individual for amounts due to him by the Department of the Navy for certain checks received but not negotiated by such individual.</summary>
+</bill>

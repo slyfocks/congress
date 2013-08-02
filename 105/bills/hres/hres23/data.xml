@@ -1,0 +1,50 @@
+<bill session="105" type="hr" number="23" updated="2013-07-14T18:49:33-04:00">
+  <state datetime="1997-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1997-01-07"/>
+  </status>
+  <introduced datetime="1997-01-07"/>
+  <titles>
+    <title as="introduced" type="official">Repealing rule XLIX of the Rules of the House of Representatives relating to the statutory limit on the public debt.</title>
+  </titles>
+  <sponsor id="400388"/>
+  <cosponsors>
+    <cosponsor id="400576" joined="1997-02-11"/>
+    <cosponsor id="400123" joined="1997-05-07"/>
+    <cosponsor id="400174" joined="1997-06-07"/>
+    <cosponsor id="400587" joined="1997-05-07"/>
+    <cosponsor id="400506" joined="1997-05-07"/>
+    <cosponsor id="400598" joined="1997-02-25"/>
+    <cosponsor id="400288" joined="1997-02-11"/>
+    <cosponsor id="400317" joined="1997-03-21"/>
+    <cosponsor id="400608" joined="1997-02-11"/>
+    <cosponsor id="400382" joined="1997-01-07"/>
+    <cosponsor id="400611" joined="1997-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-01-07">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+    <action datetime="1997-02-24">
+      <text>Referred to the Subcommittee on Rules and Organization of the House.</text>
+      <committee name="House Committee on Rules"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSRU01" subcommittee="Rules and Organization of the House" name="House Rules"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="hr" number="30"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Debt limit"/>
+    <term name="Economics and public finance"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislative resolutions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1997--Introduced.
+Repeals rule XLIX of the Rules of the House of Representatives relating to concurrent and joint resolutions that increase or decrease the statutory limit on the public debt.</summary>
+</bill>

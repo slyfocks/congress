@@ -1,0 +1,101 @@
+<bill session="105" type="hj" number="56" updated="2013-07-14T18:51:11-04:00">
+  <state datetime="1997-06-17T17:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-06-17T17:49:00-04:00"/>
+  </status>
+  <introduced datetime="1997-02-26"/>
+  <titles>
+    <title as="introduced" type="official">Celebrating the end of slavery in the United States.</title>
+  </titles>
+  <sponsor id="400541"/>
+  <cosponsors>
+    <cosponsor id="400550" joined="1997-03-12"/>
+    <cosponsor id="400030" joined="1997-02-26"/>
+    <cosponsor id="400548" joined="1997-03-12"/>
+    <cosponsor id="400091" joined="1997-03-19"/>
+    <cosponsor id="400101" joined="1997-03-20"/>
+    <cosponsor id="400107" joined="1997-03-12"/>
+    <cosponsor id="400123" joined="1997-03-12"/>
+    <cosponsor id="400133" joined="1997-03-19"/>
+    <cosponsor id="404139" joined="1997-03-12"/>
+    <cosponsor id="400143" joined="1997-02-26"/>
+    <cosponsor id="400199" joined="1997-05-01"/>
+    <cosponsor id="400213" joined="1997-02-26"/>
+    <cosponsor id="406284" joined="1997-02-26"/>
+    <cosponsor id="400251" joined="1997-02-26"/>
+    <cosponsor id="400597" joined="1997-02-26"/>
+    <cosponsor id="400268" joined="1997-03-12"/>
+    <cosponsor id="407817" joined="1997-03-12"/>
+    <cosponsor id="400294" joined="1997-03-19"/>
+    <cosponsor id="400329" joined="1997-03-12"/>
+    <cosponsor id="400528" joined="1997-03-12"/>
+    <cosponsor id="400358" joined="1997-03-12"/>
+    <cosponsor id="400367" joined="1997-04-15"/>
+    <cosponsor id="400385" joined="1997-02-26"/>
+    <cosponsor id="400405" joined="1997-03-12"/>
+    <cosponsor id="400435" joined="1997-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-02-26">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1997-02-28">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1997-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-06-11">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1997-06-17T15:53:00-04:00">
+      <text>Mr. Pappas moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="1997-06-17T15:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3822-3827, H3830" label="consideration"/>
+    </action>
+    <action datetime="1997-06-17T15:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1997-06-17T16:26:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="1997-06-17T17:40:00-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-06-17T17:49:00-04:00" how="roll" result="pass" roll="207" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 207).</text>
+    </vote>
+    <action datetime="1997-06-17T17:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="1997-06-18" calendar="Senate Legislative" under="General Orders" number="86">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSGO09" subcommittee="Civil Service" name="House Government Reform and Oversight"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="sj" number="11"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Black history"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="History"/>
+    <term name="Minorities"/>
+    <term name="Slavery"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1997--Introduced.
+Recognizes the celebration of the end of slavery in the United States.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="104" type="h" number="2456" updated="2012-11-01T22:44:44-05:00">
+  <state datetime="1995-10-10">REFERRED</state>
+  <status>
+    <introduced datetime="1995-10-10"/>
+  </status>
+  <introduced datetime="1995-10-10"/>
+  <titles>
+    <title as="introduced" type="short">Limited Congressional Pension Act of 1995</title>
+    <title as="introduced" type="official">To amend title 5, United States Code, to limit the number of years that a Member of Congress may participate in either the Civil Service Retirement System or the Federal Employees' Retirement System.</title>
+  </titles>
+  <sponsor id="400404"/>
+  <cosponsors>
+    <cosponsor id="400385" joined="1995-11-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-10-10">
+      <text>Referred to the Committee on House Oversight, and in addition to the Committee on Government Reform and Oversight, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-10-10">
+      <text>Referred to House Government Reform and Oversight</text>
+    </action>
+    <action datetime="1995-10-10">
+      <text>Referred to House Oversight</text>
+    </action>
+    <action datetime="1995-10-13">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Government Reform and Oversight"/>
+    </action>
+  </actions>
+  <committees>
+    <committee activity="Referral, In Committee" code="HSGO" name="House Government Reform and Oversight"/>
+    <committee activity="Referral" code="HSGO09" name="House Government Reform and Oversight" subcommittee="Civil Service"/>
+    <committee activity="Referral, In Committee" code="HSHA" name="House Oversight"/>
+  </committees>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Civil service pensions"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <summary>10/10/1995--Introduced.
+Limited Congressional Pension Act of 1995 - Amends Federal civil service law to limit to 12 years (with certain exceptions) the number of years that a Member of Congress may participate in either the Civil Service Retirement System or the Federal Employees' Retirement System.</summary>
+</bill>

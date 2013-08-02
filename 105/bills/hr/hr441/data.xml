@@ -1,0 +1,46 @@
+<bill session="105" type="h" number="441" updated="2013-07-14T18:49:53-04:00">
+  <state datetime="1997-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="1997-01-09"/>
+  </status>
+  <introduced datetime="1997-01-09"/>
+  <titles>
+    <title as="introduced" type="official">To repeal the Impoundment Control Act of 1974.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1997-01-09">
+      <text>Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1997-01-09">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="1997-01-09">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="1997-02-24">
+      <text>Referred to the Subcommittee on the Legislative and Budget Process.</text>
+      <committee name="House Rules"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSRU02" subcommittee="Legislative and Budget Process" name="House Rules"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="s" number="455"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Congress"/>
+    <term name="Congressional budget"/>
+    <term name="Congressional budget process"/>
+    <term name="Executive impoundment of appropriated funds"/>
+    <term name="Rescission of appropriated funds"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/1997--Introduced.
+Repeals the Impoundment Control Act of 1974.</summary>
+</bill>

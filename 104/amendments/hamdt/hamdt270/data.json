@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-08T13:10:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Markey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-08T14:04:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 211, 
+      "text": "On agreeing to the Markey amendment (A005) Failed by recorded vote: 162 - 261, 1 Present (Roll no. 211).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt270-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1058-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1058
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to exempt securities fraud cases involving derivatives from the bill's provisions.", 
+  "house_number": 5, 
+  "introduced_at": "1995-03-08", 
+  "number": 270, 
+  "purpose": "An amendment to exempt securities fraud cases involving derivatives from the bill's provisions. Under the amendment, such cases would continue to be considered under existing securities litigation laws.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "thomas_id": "00735", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-08T14:04:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

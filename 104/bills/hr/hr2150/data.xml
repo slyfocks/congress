@@ -1,0 +1,83 @@
+<bill session="104" type="h" number="2150" updated="2013-07-14T18:47:46-04:00">
+  <state datetime="1995-09-12T19:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-09-12T19:42:00-04:00"/>
+  </status>
+  <introduced datetime="1995-08-01"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Credit Efficiency Act of 1995</title>
+    <title as="reported to house" type="short">Small Business Credit Efficiency Act of 1995</title>
+    <title as="passed house" type="short">Small Business Credit Efficiency Act of 1995</title>
+    <title as="introduced" type="official">To amend the Small Business Act and the Small Business Investment Act of 1958 to reduce the cost to the Federal Government of guaranteeing certain loans and debentures, and for other purposes.</title>
+  </titles>
+  <sponsor id="407669"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-08-01">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="1995-08-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-08-04">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Small Business"/>
+    </calendar>
+    <action datetime="1995-09-06T18:40:00-04:00">
+      <text>Reported (Amended) by the Committee on Small Business. H. Rept. 104-239.</text>
+    </action>
+    <calendar datetime="1995-09-06T18:41:00-04:00" calendar="Union" number="130">
+      <text>Placed on the Union Calendar, Calendar No. 130.</text>
+    </calendar>
+    <action datetime="1995-09-12T12:33:00-04:00">
+      <text>Mrs. Meyers moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1995-09-12T12:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8733-8737" label="consideration"/>
+    </action>
+    <action datetime="1995-09-12T12:34:00-04:00">
+      <text>DEBATE - The House proceeded with up to forty minutes of debate.</text>
+    </action>
+    <action datetime="1995-09-12T13:03:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Poshard objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="1995-09-12T19:24:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8776"/>
+    </action>
+    <action datetime="1995-09-12T19:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-09-12T19:42:00-04:00" how="roll" result="pass" roll="653" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 405 - 0 (Roll No. 653).</text>
+    </vote>
+    <action datetime="1995-09-12T19:45:00-04:00">
+      <text>Laid on the table. See S. 895 for further action.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="supersedes" session="104" type="s" number="895"/>
+    <bill relation="unknown" session="104" type="s" number="895"/>
+  </relatedbills>
+  <subjects>
+    <term name="Small business"/>
+    <term name="Administrative fees"/>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Fees"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government lending"/>
+    <term name="Interest rates"/>
+    <term name="Law"/>
+    <term name="Loans"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/1995--Passed House amended.
+Small Business Credit Efficiency Act of 1995 - Amends the Small Business Act to increase, from four to five tenths of one percent of the outstanding principal balance of a loan guaranteed by the Small Business Administration (SBA), the amount which may be charged as a fee for loan guarantees sold on the secondary market. Decreases the level of participation by the SBA in the guarantee of general business loans made to qualified small businesses to: (1) 80 percent of the balance of the financing outstanding if such amount is less than or equal to $100,000; and (2) 75 percent of such balance if such amount is greater than $100,000. (Currently, the level is no less than 90 percent of such balance for any amount less than or equal to $155,000.) Limits the maximum authorized interest rate for a loan guaranteed under the Preferred Lenders Program to the highest rate charged for other SBA loan guarantees. Authorizes the SBA to collect from borrowers a loan guarantee fee of: (1) two percent of the outstanding loan balance for loans of less than $250,000; (2)two and a half percent for loans of $250,000 or more, but less than $500,000; and (3) three percent of such balance for loans of $500,000 or greater. (Currently, the SBA may collect a loan fee of two percent for loans of any amount.) Exempts from such fees loans repayable in one year or less. Directs the SBA to collect an additional fee to offset administrative costs of such loans. Repeals a provision authorizing lenders to retain one half of such loan guarantee fee. Amends the Small Business Investment Act of 1958 to: (1) increase to $1.25 million the maximum authorized loan that may be made to each qualifying State and local development company for use in plant acquisition, construction, conversion, and expansion; and (2) direct the SBA to collect an additional fee to offset administrative costs of such loans.</summary>
+</bill>

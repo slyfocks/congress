@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-03-04T17:58:00-05:00", 
+      "references": [], 
+      "text": "Substitute (A005) offered by Mr. Gutierrez to the Serrano amendment (A004).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-04T18:17:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Gutierrez amendment (A005) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt505-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt504-105", 
+    "amendment_type": "hamdt", 
+    "congress": 105, 
+    "number": 504
+  }, 
+  "amends_bill": {
+    "bill_id": "hr856-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 856
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Substitute amendment for the Serrano amendment (A004) sought to expand the voting eligibility criteria to be used in the referenda to be held under the bill to include Puerto Ricans who have at least one parent who was born in Puerto Rico.", 
+  "house_number": 5, 
+  "introduced_at": "1998-03-04", 
+  "number": 505, 
+  "purpose": "An amendment offered as a substitute for the Serrano amendment to provide that an individual residing outside of Puerto Rico shall be eligible to vote in the referenda held under the Act if that individual is a United States citizen because of that individual's birth in Puerto Rico, or satisfies requirements that shall be prescribed by the Electoral Commission of Puerto Rico which shall include methods and provisions to include Puerto Ricans who have at least one parent who was born in Puerto Rico, for registering and voting in absentia in referenda held under this Act; and would be eligible to vote in such referenda but for that individual's residency outside of Puerto Rico.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gutierrez, Luis V.", 
+    "state": "IL", 
+    "thomas_id": "00478", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1998-03-04T18:17:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

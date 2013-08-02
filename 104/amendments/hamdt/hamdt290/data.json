@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-10T11:02:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A014) offered by Mr. Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-10T11:44:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 227, 
+      "text": "On agreeing to the Schumer amendment (A014) Failed by recorded vote: 175 - 249 (Roll no. 227).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt290-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr956-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 956
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to \"sunset\" the provisions of the bill after five years unless the Secretary of Commerce certifies to Congress that liability insurance rates have dropped more than 10 percent (adjusted for inflation) or that extraordinary circumstances have prevented them from doing so.", 
+  "house_number": 14, 
+  "introduced_at": "1995-03-10", 
+  "number": 290, 
+  "purpose": "An amendment to terminate the substantive provisions of the bill after five years unless the Secretary of Commerce certifies to Congress that liability insurance rates have dropped more than 10 percent (adjusted for inflation) or that extraordinary circumstances have prevented them from doing so.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-10T11:44:00-05:00", 
+  "updated_at": "2013-07-17T07:50:45-04:00"
+}

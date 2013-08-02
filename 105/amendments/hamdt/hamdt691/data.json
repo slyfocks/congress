@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-06-18T18:26:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A003) offered by Mr. Thomas to the Shays amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-06-19T11:28:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Thomas amendment (A003) Failed by recorded vote: 155 - 254 (Roll No. 249).", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt691-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt690-105", 
+    "amendment_type": "hamdt", 
+    "congress": 105, 
+    "number": 690
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2183-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2183
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment to the Shays substitute amendment (A002) sought to add nonseverability language to the bill which provides that if any provision in the bill is held invalid, then the remaining provisions would be treated as invalid.", 
+  "house_number": 3, 
+  "introduced_at": "1998-06-18", 
+  "number": 691, 
+  "purpose": "An amendment to add a section requiring the nonseverability of provisions of the Act.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "1998-06-18", 
+  "updated_at": "2013-07-17T07:51:41-04:00"
+}

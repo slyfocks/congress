@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-09-19T15:20:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. Goodling to the Mink amendment (A007).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-19T15:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Goodling amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt800-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt799-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 799
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1617-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1617
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Mink amendment (A007) for description.", 
+  "house_number": 8, 
+  "introduced_at": "1995-09-19", 
+  "number": 800, 
+  "purpose": "An amendment to the Mink amendment, to specify that nothing in the amendment should be construed as mandating specific services.", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Goodling, William F.", 
+    "state": "PA", 
+    "thomas_id": "00447", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-09-19T15:21:00-04:00", 
+  "updated_at": "2013-07-17T07:50:49-04:00"
+}

@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-03-27T11:27:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A001) offered by Mr. Smith (OR).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-27T11:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (OR) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt539-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2515-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2515
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment deletes language which would have established a program for forest inventory and analysis.", 
+  "house_number": 1, 
+  "introduced_at": "1998-03-27", 
+  "number": 539, 
+  "purpose": "An amendment making technical changes in the bill.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Smith, Robert", 
+    "state": "OR", 
+    "thomas_id": "01083", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1998-03-27T11:28:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

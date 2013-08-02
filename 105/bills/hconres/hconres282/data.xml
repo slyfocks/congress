@@ -1,0 +1,45 @@
+<bill session="105" type="hc" number="282" updated="2013-07-14T18:51:22-04:00">
+  <state datetime="1998-05-22T18:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-05-22T18:08:00-04:00"/>
+  </status>
+  <introduced datetime="1998-05-22"/>
+  <titles>
+    <title as="introduced" type="official">To correct the enrollment of H.R. 2400.</title>
+  </titles>
+  <sponsor id="400374"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1998-05-22T18:07:00-04:00">
+      <text>Mr. Shuster asked unanimous consent to consider as introduced.</text>
+    </action>
+    <action datetime="1998-05-22T18:07:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H3965" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-05-22T18:08:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1998-05-22T18:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-06-02">
+      <text>Received in the Senate and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="h" number="2400"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/1998--Introduced.
+Makes technical corrections in the enrollment of H.R. 2400 (funding for highway and transportation programs).</summary>
+</bill>

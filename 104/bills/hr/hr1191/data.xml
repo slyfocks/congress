@@ -1,0 +1,72 @@
+<bill session="104" type="h" number="1191" updated="2013-07-14T18:47:27-04:00">
+  <state datetime="1995-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="1995-03-09"/>
+  </status>
+  <introduced datetime="1995-03-09"/>
+  <titles>
+    <title as="introduced" type="short">Victims of Abuse Access to Health Insurance Act</title>
+    <title as="introduced" type="official">To prohibit insurers from denying health insurance coverage or benefits or varying premiums based on the status of an individual as a victim of domestic violence, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="400245" joined="1995-12-11"/>
+    <cosponsor id="400529" joined="1995-04-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-03-09">
+      <text>Referred to the Committee on Commerce, and in addition to the Committees on the Judiciary, and Economic and Educational Opportunities, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-03-09">
+      <text>Referred to House Economic and Educational Opportunities</text>
+    </action>
+    <action datetime="1995-03-09">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1995-03-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1995-03-20">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1995-03-24">
+      <text>Referred to the Subcommittee on Employer-Employee Relations.</text>
+      <committee name="House Economic and Educational Opportunities"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Economic and Educational Opportunities" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Employer-Employee Relations" name="House Economic and Educational Opportunities"/>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="524"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Actions and defenses"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Damages"/>
+    <term name="Discrimination in insurance"/>
+    <term name="Discrimination in medical care"/>
+    <term name="Families"/>
+    <term name="Family violence"/>
+    <term name="Finance and financial sector"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Health insurance"/>
+    <term name="Injunctions"/>
+    <term name="Insurance companies"/>
+    <term name="Law"/>
+    <term name="Legal fees"/>
+    <term name="Punitive damages"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1995--Introduced.
+Victims of Abuse Access to Health Insurance Act - Prohibits health insurers from discriminating against an individual or group because the individual is or may be a victim of domestic violence. Prohibits considering a condition or injury resulting from domestic violence as a pre-existing condition. Mandates civil and criminal penalties and provides for injunctive relief and compensatory and punitive damages. Declares that, for the purposes of the McCarran-Ferguson Act, this Act specifically relates to the business of insurance.</summary>
+</bill>

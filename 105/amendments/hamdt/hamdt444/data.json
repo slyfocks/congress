@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-29T19:52:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A006) offered by Mr. Ensign.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-30T16:11:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 552, 
+      "text": "On agreeing to the Ensign amendment (A006) Failed by recorded vote: 118 - 305 (Roll no. 552).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt444-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1270-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 1270
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to require the Federal Emergency Management Agency to certify that sufficient funds have been appropriated for emergency response teams before DOE may plan for the transportation of nuclear waste.", 
+  "house_number": 6, 
+  "introduced_at": "1997-10-29", 
+  "number": 444, 
+  "purpose": "An amendment to prevent transportation of any nuclear waste until Congress has appropriated sufficient funds to ensure adequate emergency response teams along the proposed nuclear waste transportation routes.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Ensign, John", 
+    "state": "NV", 
+    "thomas_id": "00348", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-10-30T16:11:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

@@ -1,0 +1,94 @@
+<bill session="105" type="h" number="3120" updated="2013-07-14T18:50:41-04:00">
+  <state datetime="1998-02-24T15:50:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-02-24T15:50:00-05:00"/>
+  </status>
+  <introduced datetime="1998-01-28"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Post Office located at 95 West 100 South Street in Provo, Utah, as the "Howard C. Nielson Post Office Building".</title>
+  </titles>
+  <sponsor id="400059"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1998-01-28"/>
+    <cosponsor id="400577" joined="1998-02-05"/>
+    <cosponsor id="300030" joined="1998-02-05"/>
+    <cosponsor id="400110" joined="1998-01-28"/>
+    <cosponsor id="400113" joined="1998-02-05"/>
+    <cosponsor id="400128" joined="1998-02-05"/>
+    <cosponsor id="400552" joined="1998-01-28"/>
+    <cosponsor id="400226" joined="1998-02-05"/>
+    <cosponsor id="406863" joined="1998-02-24"/>
+    <cosponsor id="400267" joined="1998-02-05"/>
+    <cosponsor id="400601" joined="1998-02-05"/>
+    <cosponsor id="400330" joined="1998-02-05"/>
+    <cosponsor id="400607" joined="1998-01-28"/>
+    <cosponsor id="400367" joined="1998-01-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-01-28">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1998-02-02">
+      <text>Referred to the Subcommittee on Government Management, Information and Technology.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-02-12">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1998-02-24T15:35:00-05:00">
+      <text>Mr. McHugh moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1998-02-24T15:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H521-523" label="consideration"/>
+    </action>
+    <action datetime="1998-02-24T15:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-02-24T15:50:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-02-24T15:50:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-02-24T15:50:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-02-25">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1998-04-01">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </calendar>
+    <action datetime="1998-04-21">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Thompson without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1998-04-21" calendar="Senate Legislative" under="General Orders" number="340">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSGO12" subcommittee="Government Management, Information and Technology" name="House Government Reform and Oversight"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1998--Passed House amended.
+Designates the U.S. Post Office located at 95 West #100 South in Provo, Utah, as the Howard C. Nielson Post Office Building.</summary>
+</bill>

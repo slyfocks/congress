@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-07T21:18:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Miller (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-08T14:27:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 503, 
+      "text": "On agreeing to the Miller (CA) amendment (A005) Failed by recorded vote: 199 - 227 (Roll no. 503).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt426-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr901-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 901
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment sought to delete language that specifies that any Biosphere Reserve designation before the date of the enactment of the bill shall have no force or effect.", 
+  "house_number": 5, 
+  "introduced_at": "1997-10-07", 
+  "number": 426, 
+  "purpose": "An amendment to strike section 4 (b) from the bill.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1997-10-08T14:27:00-04:00", 
+  "updated_at": "2013-07-17T07:51:37-04:00"
+}

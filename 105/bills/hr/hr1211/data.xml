@@ -1,0 +1,67 @@
+<bill session="105" type="h" number="1211" updated="2013-07-14T18:50:06-04:00">
+  <state datetime="1997-10-07T10:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-10-07T10:06:00-04:00"/>
+  </status>
+  <introduced datetime="1997-03-20"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Global Exploration and Development Corporation, Kerr-McGee Corporation, and Kerr-McGee Chemical Corporation.</title>
+  </titles>
+  <sponsor id="400596"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1997-03-20">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-04-02">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-07-31T16:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 105-222.</text>
+    </action>
+    <calendar state="REPORTED" datetime="1997-07-31T16:20:00-04:00" calendar="Private" number="4">
+      <text>Placed on the Private Calendar, Calendar No. 4.</text>
+    </calendar>
+    <action datetime="1997-10-07T10:05:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+    </action>
+    <action datetime="1997-10-07T10:05:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-10-07T10:06:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1997-10-07T10:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-10-08">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1998-06-18">
+      <text>Committee on Judiciary. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Judiciary"/>
+    </calendar>
+    <action datetime="1998-06-19">
+      <text>Committee on Judiciary. Reported to Senate by Senator Hatch with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1998-06-19" calendar="Senate Legislative" under="General Orders" number="419">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments>
+    <amendment number="h418"/>
+  </amendments>
+  <summary>3/20/1997--Introduced.
+Directs the Secretary of the Treasury to pay, out of money not otherwise appropriated, specified sums to three named corporations in full satisfaction of their claims against the United States resulting from failure of the United States to grantor approve any lease or to allow phosphate mining in the Osceola National Forest.</summary>
+</bill>

@@ -1,0 +1,105 @@
+<bill session="104" type="h" number="3632" updated="2013-07-14T18:48:18-04:00">
+  <state datetime="1996-10-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-10-19"/>
+  </status>
+  <introduced datetime="1996-06-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to repeal the requirement for annual resident review for nursing facilities under the Medicaid program and to require resident reviews for mentally ill or mentally retarded residents when there is a significant change in physical or mental condition.</title>
+  </titles>
+  <sponsor id="400523"/>
+  <cosponsors>
+    <cosponsor id="400599" joined="1996-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-06-12">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1996-06-21">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1996-09-18">
+      <text>Subcommittee on Health and Environment Discharged.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1996-09-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-09-18">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="1996-09-23T12:31:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 104-817.</text>
+    </action>
+    <calendar datetime="1996-09-23T12:32:00-04:00" calendar="Union" number="446">
+      <text>Placed on the Union Calendar, Calendar No. 446.</text>
+    </calendar>
+    <action datetime="1996-09-28T14:10:00-04:00">
+      <text>Mr. Bilirakis asked unanimous consent to consider the bill under suspension of the rules, notwithstanding the requirement that a one hour notice be given before consideration of the bill. Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-28T14:11:00-04:00">
+      <text>Mr. Bilirakis moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1996-09-28T14:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11633-11635" label="consideration"/>
+    </action>
+    <action datetime="1996-09-28T14:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-28T14:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-28T14:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-28">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1996-10-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S12402" label="consideration"/>
+    </vote>
+    <topresident datetime="1996-10-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1996-10-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1996-10-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-10-19">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-10-19" type="public" number="104-315">
+      <text>Became Public Law No: 104-315.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="1901"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Disability evaluation"/>
+    <term name="Disabled"/>
+    <term name="Medicaid"/>
+    <term name="Mental health services"/>
+    <term name="Mentally handicapped"/>
+    <term name="Mentally ill"/>
+    <term name="Nursing homes"/>
+    <term name="Physical examinations"/>
+    <term name="Public assistance programs"/>
+    <term name="Quality of care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/1996--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to repeal the requirement for annual resident review for mentally ill and mentally retarded nursing facility residents, and instead require a review in case of a significant change in the physical or mental condition of such a resident, as well as an appropriate, prompt notification to the applicable State authority after such change.</summary>
+</bill>

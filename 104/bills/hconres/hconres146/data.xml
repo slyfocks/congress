@@ -1,0 +1,68 @@
+<bill session="104" type="hc" number="146" updated="2013-07-14T18:48:42-04:00">
+  <state datetime="1996-03-27">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1996-03-27"/>
+  </status>
+  <introduced datetime="1996-03-05"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the 1996 Special Olympics Torch Relay to be run through the Capitol Grounds.</title>
+  </titles>
+  <sponsor id="400149"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1996-03-05">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="1996-03-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-03-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation"/>
+    </calendar>
+    <action datetime="1996-03-20T15:34:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 104-487.</text>
+    </action>
+    <calendar datetime="1996-03-20T15:35:00-05:00" calendar="House" number="195">
+      <text>Placed on the House Calendar, Calendar No. 195.</text>
+    </calendar>
+    <action datetime="1996-03-26T14:05:00-05:00">
+      <text>Mr. Gilchrest moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1996-03-26T14:06:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2847-2848" label="consideration"/>
+    </action>
+    <action datetime="1996-03-26T14:06:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-03-26T14:11:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-03-26T14:11:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1996-03-27" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+      <reference ref="CR S3033" label="consideration"/>
+    </vote>
+    <action datetime="1996-03-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Disabled"/>
+    <term name="Olympic games"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1996--Introduced.
+Permits the 1996 Special Olympics Torch Relay to be run through the Capitol Grounds.</summary>
+</bill>

@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-11-16T21:22:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A001) offered by Mr. Fox.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-11-28T19:10:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 824, 
+      "text": "On agreeing to the Fox amendment (A001) Failed by recorded vote: 171 - 257 (Roll no. 824).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt902-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2564-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2564
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to prohibit registered lobbyists from giving gifts to Members, officers, and employees of Congress.", 
+  "house_number": 1, 
+  "introduced_at": "1995-11-16", 
+  "number": 902, 
+  "purpose": "An amendment, printed as amendment No. 6 in the Congressional Record of November 15, 1995, to prohibit registered lobbyists from giving gifts to Members, officers, and employees of Congress, other than gifts from friends or relatives, awards, campaign contributions, donations to legal defense funds, informational materials, honorary degrees, donations of token home-state products, bequests and inheritances, and free admission to widely-attended events.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Fox, Jon D.", 
+    "state": "PA", 
+    "thomas_id": "00406", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-11-28T19:10:00-05:00", 
+  "updated_at": "2013-07-17T07:50:52-04:00"
+}

@@ -1,0 +1,54 @@
+<bill session="105" type="h" number="679" updated="2013-07-14T18:49:57-04:00">
+  <state datetime="1997-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1997-02-11"/>
+  </status>
+  <introduced datetime="1997-02-11"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Clean Air Act to exclude beverage alcohol compounds emitted from aging warehouses from the definition of volatile organic compounds.</title>
+  </titles>
+  <sponsor id="404996"/>
+  <cosponsors>
+    <cosponsor id="300014" joined="1997-03-20"/>
+    <cosponsor id="400523" joined="1997-06-23"/>
+    <cosponsor id="400155" joined="1997-02-11"/>
+    <cosponsor id="400241" joined="1997-02-11"/>
+    <cosponsor id="400597" joined="1997-02-11"/>
+    <cosponsor id="400294" joined="1997-02-11"/>
+    <cosponsor id="400431" joined="1997-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1997-02-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E204"/>
+    </action>
+    <action state="REFERRED" datetime="1997-02-11">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1997-02-14">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="s" number="557"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agriculture and food"/>
+    <term name="Air pollution control"/>
+    <term name="Alcohol"/>
+    <term name="Alcoholic beverage industry"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Commerce"/>
+    <term name="Energy"/>
+    <term name="Storage"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1997--Introduced.
+Amends the Clean Air Act to exclude from the definition of "volatile organic compound" beverage alcohol compounds (ethanol) emitted from aging warehouses.</summary>
+</bill>

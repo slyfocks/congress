@@ -1,0 +1,70 @@
+<bill session="104" type="h" number="4012" updated="2013-07-14T18:48:26-04:00">
+  <state datetime="1996-09-18">REPORTED</state>
+  <status>
+    <unknown datetime="1996-09-18"/>
+  </status>
+  <introduced datetime="1996-08-02"/>
+  <titles>
+    <title as="introduced" type="official">To waive temporarily the Medicare enrollment composition rules for The Wellness Plan.</title>
+  </titles>
+  <sponsor id="400414"/>
+  <cosponsors>
+    <cosponsor id="400058" joined="1996-08-02"/>
+    <cosponsor id="400080" joined="1996-08-02"/>
+    <cosponsor id="400110" joined="1996-08-02"/>
+    <cosponsor id="400238" joined="1996-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-08-02">
+      <text>Referred to the Committee on Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1996-08-02">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1996-08-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="1996-08-09">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1996-09-18">
+      <text>Subcommittee on Health and Environment Discharged.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1996-09-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-09-18">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Commerce"/>
+    </calendar>
+    <action datetime="1996-09-25T22:04:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 104-845, Part I.</text>
+    </action>
+    <action datetime="1996-09-25T22:04:00-04:00">
+      <text>House Committee on Ways and Means Granted an extension for further consideration ending not later than Oct. 2, 1996.</text>
+    </action>
+    <action datetime="1996-10-02T12:47:00-04:00">
+      <text>House Committee on Ways and Means Granted an extension for further consideration ending not later than Oct. 4, 1996.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="2055"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health maintenance organizations"/>
+    <term name="Medicare"/>
+    <term name="Michigan"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1996--Introduced.
+Waives for contract periods through December 31, 1999, with respect to Comprehensive Health Services, Inc. (doing business as The Wellness Plan), the requirement under the Social Security Act (SSA) that each eligible organization with which the Secretary of Health and Human Services contracts under Medicare have, for the duration of the contract, an enrolled membership at least one-half of which consists of individuals who are not entitled to Medicare or Medicaid benefits under SSA titles XVIII and XIX, respectively.</summary>
+</bill>

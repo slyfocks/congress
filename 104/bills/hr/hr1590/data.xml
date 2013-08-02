@@ -1,0 +1,76 @@
+<bill session="104" type="h" number="1590" updated="2013-07-14T18:47:34-04:00">
+  <state datetime="1995-05-16T11:50:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="1995-05-16T11:50:00-04:00"/>
+  </status>
+  <introduced datetime="1995-05-09"/>
+  <titles>
+    <title as="introduced" type="official">To require the Trustees of the medicare trust funds to report recommendations on resolving projected financial imbalance in medicare trust funds.</title>
+  </titles>
+  <sponsor id="400567"/>
+  <cosponsors>
+    <cosponsor id="400401" joined="1995-05-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-05-09">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-05-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="1995-05-09">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1995-05-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-05-10">
+      <text>Ordered to be Reported by the Yeas and Nays: 20 - 15.</text>
+      <committee name="House Ways and Means"/>
+    </calendar>
+    <action datetime="1995-05-15T19:56:00-04:00">
+      <text>Reported by the Committee on Ways and Means. H. Rept. 104-119, Part I.</text>
+    </action>
+    <action datetime="1995-05-16T10:39:00-04:00">
+      <text>Mr. Thomas moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-05-16T10:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4968-4974" label="consideration"/>
+    </action>
+    <action datetime="1995-05-16T10:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="1995-05-16T11:50:00-04:00" how="roll" result="fail" roll="330" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 247 - 170 (Roll no. 330).</text>
+    </vote>
+    <action datetime="1995-05-16T11:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="785"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Cost control"/>
+    <term name="Economics and public finance"/>
+    <term name="Finance and financial sector"/>
+    <term name="Financial statements"/>
+    <term name="Government trust funds"/>
+    <term name="Legislation"/>
+    <term name="Medical economics"/>
+    <term name="Medicare"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/1995--Introduced.
+Requires the Board of Trustees of the Federal Hospital Insurance Trust Fund and the Board of Trustees of the Federal Supplementary Medical Insurance Trust Fund to submit recommendations to the Congress on: (1) controlling Medicare hospital insurance program costs and addressing the projected financial imbalance in the Federal Hospital Insurance Trust Fund; and (2) more effectively controlling Medicare supplementary medical insurance costs.</summary>
+</bill>

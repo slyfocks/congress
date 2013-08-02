@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-06-27T15:24:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A005) offered by Mr. Callahan to the Klug amendment (A004).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-06-27T15:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Callahan amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt463-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt462-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 462
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1868-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1868
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "See Klug amendment (A004) for description.", 
+  "house_number": 5, 
+  "introduced_at": "1995-06-27", 
+  "number": 463, 
+  "purpose": "An amendment, offered as a substitute to the Klug amendment, to cut $10 million from the funds appropriated in the bill for OPIC direct and guaranteed loans.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Callahan, Sonny", 
+    "state": "AL", 
+    "thomas_id": "00164", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-06-27T15:33:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

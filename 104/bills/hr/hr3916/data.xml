@@ -1,0 +1,102 @@
+<bill session="104" type="h" number="3916" updated="2013-07-14T18:48:25-04:00">
+  <state datetime="1996-10-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-10-09"/>
+  </status>
+  <introduced datetime="1996-07-30"/>
+  <titles>
+    <title as="introduced" type="official">To make available certain Voice of America and Radio Marti multilingual computer readable text and voice recordings.</title>
+  </titles>
+  <sponsor id="400536"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="1996-07-30"/>
+    <cosponsor id="404280" joined="1996-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1996-07-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1402"/>
+    </action>
+    <action state="REFERRED" datetime="1996-07-30">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1996-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-08-01">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1996-09-04T13:32:00-04:00">
+      <text>Mr. Gilman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1996-09-04T13:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9953-9954" label="consideration"/>
+    </action>
+    <action datetime="1996-09-04T13:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-09-04T13:37:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-09-04T13:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-09-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1996-09-25">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="1996-09-25">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Helms without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1996-09-25" calendar="Senate Legislative" under="General Orders" number="632">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="1996-09-28" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11774" label="consideration"/>
+    </vote>
+    <topresident datetime="1996-09-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1996-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1996-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-10-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-10-09" type="public" number="104-269">
+      <text>Became Public Law No: 104-269.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Colleges"/>
+    <term name="Education"/>
+    <term name="Electronic data interchange"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="International broadcasting"/>
+    <term name="International propaganda"/>
+    <term name="Language and languages"/>
+    <term name="Pennsylvania"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sound recording and reproducing"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/1996--Introduced.
+Authorizes the Director of the U.S. Information Agency to make available for five years, upon request, to the Linguistic Data Consortium of the University of Pennsylvania computer readable multilingual text and recorded speech in various languages. Requires the Consortium to reimburse the Director for expenses involved in making such material available.</summary>
+</bill>

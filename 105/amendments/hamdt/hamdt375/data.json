@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-09-24T18:35:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A002) offered by Mr. Hyde.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-09-25T13:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 443, 
+      "text": "On agreeing to the Hyde amendment (A002) Agreed to by recorded vote: 340 - 84 (Roll no. 443).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-09-30T20:29:00-04:00", 
+      "references": [], 
+      "text": "Mr. Collins demanded a separate vote on the Hyde amendment (A002).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-09-30T20:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hyde amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt375-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2267-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 2267
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment provides that any defendant who prevails in a federal prosecution will have an opportunity to recover attorney's fees and costs when a court finds that the government was not substantially justified in initiating the case.", 
+  "house_number": 2, 
+  "introduced_at": "1997-09-24", 
+  "number": 375, 
+  "purpose": "An amendment to reimburse defendants for legal expenses incurred as a result of a Justice Department prosecution that is found to be not substantially justified.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hyde, Henry J.", 
+    "state": "IL", 
+    "thomas_id": "00580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1997-09-30T20:30:00-04:00", 
+  "updated_at": "2013-07-17T07:51:37-04:00"
+}

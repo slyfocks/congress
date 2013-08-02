@@ -1,0 +1,65 @@
+<bill session="105" type="hc" number="293" updated="2013-07-14T18:51:22-04:00">
+  <state datetime="1998-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="1998-06-22"/>
+  </status>
+  <introduced datetime="1998-06-22"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress on the importance of enacting patient protection legislation.</title>
+  </titles>
+  <sponsor id="400517"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1998-06-22">
+      <text>Referred to the Committee on Commerce, and in addition to the Committees on Education and the Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1998-06-22">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1998-06-22">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="1998-06-22">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="1998-06-30">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1998-07-08">
+      <text>Referred to the Subcommittee on Employer-Employee Relations.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Employer-Employee Relations" name="House Education and the Workforce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="105" type="hc" number="291"/>
+    <bill relation="identical" session="105" type="hc" number="292"/>
+    <bill relation="identical" session="105" type="hc" number="294"/>
+    <bill relation="identical" session="105" type="hc" number="295"/>
+    <bill relation="identical" session="105" type="hc" number="296"/>
+    <bill relation="identical" session="105" type="hc" number="297"/>
+    <bill relation="identical" session="105" type="sc" number="122"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Health insurance"/>
+    <term name="Legislation"/>
+    <term name="Managed care"/>
+    <term name="Medical economics"/>
+    <term name="Patients' rights"/>
+    <term name="Physicians"/>
+    <term name="Quality of care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/1998--Introduced.
+Expresses the sense of the Congress that before adjourning sine die, the Congress should pass health care legislation that will: (1) improve the quality of managed health care plans; (2) provide for Federal enforcement of specified rights and responsibilities; and (3) ensure that doctors and patients, not health plan accountants, make medical decisions.</summary>
+</bill>

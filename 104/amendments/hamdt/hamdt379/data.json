@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-05-12T10:08:00-04:00", 
+      "references": [], 
+      "text": "Substitute (A024) offered by Mr. Bateman to the Lipinski amendment (A023).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-05-12T11:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 327, 
+      "text": "On agreeing to the Bateman amendment (A024) Failed by recorded vote: 160 - 246 (Roll no. 327).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt379-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt378-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 378
+  }, 
+  "amends_bill": {
+    "bill_id": "hr961-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 961
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment offered as a substitute to the Lipinski amendment (A023) sought to change the bill's formula for allocating sewage treatment plant construction funds. It would have retained the bill's method of allocating funds based on State population and sewage treatment needs, but would have placed caps on how much any State's allocation could increase or decrease from present funding levels, phased in over five years.", 
+  "house_number": 24, 
+  "introduced_at": "1995-05-12", 
+  "number": 379, 
+  "purpose": "An amendment, offered as a substitute to the Lipinski amendment, to change the bill's formula for allocating sewage treatment plant construction funds. The amendment would retain the bill's method of allocating funds based on state population and sewage treatment needs, but would place caps on how much any state's allocation could increase or decrease from present funding levels, phased in over five years. Funding allocations could not change more than 5% in FY 1996, 10% in FY 1997, 15% in FY 1998, and 20% in FYs 1999 and 2000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bateman, Herbert H.", 
+    "state": "VA", 
+    "thomas_id": "00064", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-05-12T11:22:00-04:00", 
+  "updated_at": "2013-07-17T07:50:47-04:00"
+}

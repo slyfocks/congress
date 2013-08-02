@@ -1,0 +1,138 @@
+<bill session="104" type="h" number="2366" updated="2013-07-14T18:47:50-04:00">
+  <state datetime="1996-10-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-10-02"/>
+  </status>
+  <introduced datetime="1995-09-19"/>
+  <titles>
+    <title as="introduced" type="official">To repeal an unnecessary medical device reporting requirement.</title>
+  </titles>
+  <sponsor id="411178"/>
+  <cosponsors>
+    <cosponsor id="400425" joined="1995-09-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-09-19">
+      <text>Referred to the Committee on Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-09-19">
+      <text>Referred to House Commerce</text>
+    </action>
+    <action datetime="1995-09-19">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="1995-09-25">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="1995-10-13">
+      <text>Referred to the Subcommittee on Health and Environment.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1995-10-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1995-10-30">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <action datetime="1995-10-31">
+      <text>Subcommittee on Health Discharged.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="1995-11-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-11-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Commerce"/>
+    </calendar>
+    <action datetime="1995-11-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <calendar datetime="1995-11-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Ways and Means"/>
+    </calendar>
+    <action datetime="1995-11-07T21:07:00-05:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 104-323, Part I.</text>
+    </action>
+    <action datetime="1995-11-07T22:00:00-05:00">
+      <text>Reported by the Committee on Ways and Means. H. Rept. 104-323, Part II.</text>
+    </action>
+    <calendar datetime="1995-11-07T22:00:00-05:00" calendar="Union" number="174">
+      <text>Placed on the Union Calendar, Calendar No. 174.</text>
+    </calendar>
+    <calendar datetime="1995-11-07T22:01:00-05:00" calendar="Corrections" number="6">
+      <text>Placed on the Corrections Calendar, Calendar No. 6.</text>
+    </calendar>
+    <action datetime="1995-11-14T10:44:00-05:00">
+      <text>Called up from the Corrections Calendar for consideration.</text>
+    </action>
+    <action datetime="1995-11-14T10:44:00-05:00">
+      <text>Considered from the Corrections Calendar.</text>
+      <reference ref="CR H12206-12212" label="consideration"/>
+    </action>
+    <action datetime="1995-11-14T10:44:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate.</text>
+    </action>
+    <action datetime="1995-11-14T11:29:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-11-14T11:29:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On passage Passed by voice vote.</text>
+    </vote>
+    <action datetime="1995-11-14T11:30:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-11-15">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1996-09-25">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="1996-09-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11329" label="consideration"/>
+    </vote>
+    <topresident datetime="1996-09-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1996-09-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1996-09-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-10-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-10-02" type="public" number="104-224">
+      <text>Became Public Law No: 104-224.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Data banks"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Heart diseases"/>
+    <term name="Medical supplies"/>
+    <term name="Medicare"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/1995--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to repeal the requirement that doctors and hospitals receiving Medicare funds report to the Secretary of Health and Human Services upon the implementation, removal, or replacement of all cardiac pacemaker devices and pacemaker leads for which Medicare makes payment.</summary>
+</bill>

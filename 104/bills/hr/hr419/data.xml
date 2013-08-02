@@ -1,0 +1,103 @@
+<bill session="104" type="h" number="419" updated="2013-07-14T18:47:10-04:00">
+  <state datetime="1996-07-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-07-24"/>
+  </status>
+  <introduced datetime="1995-01-04"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Benchmark Rail Group, Inc.</title>
+  </titles>
+  <sponsor id="300096"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-02-09">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-07-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-07-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1995-10-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-10-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1995-11-28T18:31:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 104-359.</text>
+    </action>
+    <calendar datetime="1995-11-28T18:32:00-05:00" calendar="Private" number="2">
+      <text>Placed on the Private Calendar, Calendar No. 2.</text>
+    </calendar>
+    <action datetime="1995-12-19T10:05:00-05:00">
+      <text>Considered from the Private Calendar.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-19T10:05:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="1995-12-19T10:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1996-03-15">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1996-03-15">
+      <text>Referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1996-06-13">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="1996-06-13">
+      <text>Committee on Judiciary. Reported to Senate by Senator Hatch without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1996-06-13" calendar="Senate Legislative" under="General Orders" number="436">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="1996-07-09" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="1996-07-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1996-07-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1996-07-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-07-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-07-24" type="private" number="104-1">
+      <text>Became Private Law No: 104-1.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/1995--Introduced.
+Requires the Director of the Federal Emergency Management Agency to compensate a named corporation for the emergency work and services performed by them after the Northridge earthquake.</summary>
+</bill>

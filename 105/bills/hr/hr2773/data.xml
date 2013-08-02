@@ -1,0 +1,96 @@
+<bill session="105" type="h" number="2773" updated="2013-07-14T18:50:36-04:00">
+  <state datetime="1998-02-24T16:21:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-02-24T16:21:00-05:00"/>
+  </status>
+  <introduced datetime="1997-10-30"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 3750 North Kedzie Avenue in Chicago, Illinois, as the "Daniel J. Doffyn Post Office Building".</title>
+  </titles>
+  <sponsor id="400518"/>
+  <cosponsors>
+    <cosponsor id="400082" joined="1997-10-31"/>
+    <cosponsor id="400085" joined="1997-10-31"/>
+    <cosponsor id="400093" joined="1997-10-31"/>
+    <cosponsor id="400126" joined="1997-10-31"/>
+    <cosponsor id="400581" joined="1997-10-31"/>
+    <cosponsor id="404009" joined="1997-10-31"/>
+    <cosponsor id="400163" joined="1997-10-31"/>
+    <cosponsor id="400169" joined="1997-10-31"/>
+    <cosponsor id="400192" joined="1997-10-31"/>
+    <cosponsor id="400198" joined="1997-10-31"/>
+    <cosponsor id="400228" joined="1997-10-31"/>
+    <cosponsor id="400243" joined="1997-10-31"/>
+    <cosponsor id="400252" joined="1997-10-31"/>
+    <cosponsor id="400604" joined="1997-10-31"/>
+    <cosponsor id="408839" joined="1997-10-31"/>
+    <cosponsor id="400350" joined="1997-10-31"/>
+    <cosponsor id="400373" joined="1997-10-31"/>
+    <cosponsor id="400429" joined="1997-10-31"/>
+    <cosponsor id="411947" joined="1997-10-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-10-30">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1997-11-05">
+      <text>Referred to the Subcommittee on Postal Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1998-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-02-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1998-02-24T16:13:00-05:00">
+      <text>Mr. McHugh moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-02-24T16:13:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H527-528" label="consideration"/>
+    </action>
+    <action datetime="1998-02-24T16:13:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-02-24T16:21:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-02-24T16:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-02-25">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1998-04-01">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </calendar>
+    <action datetime="1998-04-21">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Thompson without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1998-04-21" calendar="Senate Legislative" under="General Orders" number="337">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 337.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSGO11" subcommittee="Postal Service" name="House Government Reform and Oversight"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Illinois"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/1997--Introduced.
+Designates the facility of the U.S. Postal Service located at 3750 North Kedzie Avenue in Chicago, Illinois, as the Daniel J. Doffyn Post Office Building.</summary>
+</bill>

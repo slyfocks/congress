@@ -1,0 +1,74 @@
+<bill session="104" type="h" number="3735" updated="2013-07-14T18:48:21-04:00">
+  <state datetime="1996-07-29T15:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1996-07-29T15:08:00-04:00"/>
+  </status>
+  <introduced datetime="1996-06-27"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Foreign Assistance Act of 1961 to reauthorize the Development Fund for Africa under chapter 10 of part I of that Act.</title>
+  </titles>
+  <sponsor id="400023"/>
+  <cosponsors>
+    <cosponsor id="400119" joined="1996-07-24"/>
+    <cosponsor id="400130" joined="1996-07-29"/>
+    <cosponsor id="400536" joined="1996-07-10"/>
+    <cosponsor id="400170" joined="1996-06-27"/>
+    <cosponsor id="400188" joined="1996-06-27"/>
+    <cosponsor id="406082" joined="1996-06-27"/>
+    <cosponsor id="400312" joined="1996-06-27"/>
+    <cosponsor id="400344" joined="1996-06-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-06-27">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1996-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-07-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1996-07-29T14:57:00-04:00">
+      <text>Mr. Bereuter moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1996-07-29T14:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8623-8624" label="consideration"/>
+    </action>
+    <action datetime="1996-07-29T14:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-07-29T15:08:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-07-29T15:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1996-07-31">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1996-08-02">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa (Sub-Saharan)"/>
+    <term name="American economic assistance"/>
+    <term name="Authorization"/>
+    <term name="Developing countries"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="International Development Cooperation Agency"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1996--Passed House amended.
+Amends the Foreign Assistance Act of 1961 to authorize appropriations, in addition to amounts otherwise available, for FY 1997 through 1999 for the Development Fund for Africa.</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="104" type="h" number="2309" updated="2013-07-14T18:47:49-04:00">
+  <state datetime="1995-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="1995-09-12"/>
+  </status>
+  <introduced datetime="1995-09-12"/>
+  <titles>
+    <title as="introduced" type="short">Earthquake Insurance Availability Act of 1995</title>
+    <title as="introduced" type="official">To define the circumstances under which earthquake insurance requirements may be imposed by the Federal Home Loan Mortgage Corporation on a specifically targeted State or area.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="401587" joined="1995-11-09"/>
+    <cosponsor id="400057" joined="1995-11-01"/>
+    <cosponsor id="400256" joined="1995-12-20"/>
+    <cosponsor id="409228" joined="1995-11-09"/>
+    <cosponsor id="400343" joined="1995-11-01"/>
+    <cosponsor id="400425" joined="1995-11-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-09-12">
+      <text>Referred to the House Committee on Banking and Financial Services.</text>
+    </action>
+    <action datetime="1995-09-15">
+      <text>Referred to the Subcommittee on Housing and Community Opportunity.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+    <action datetime="1995-09-15">
+      <text>Referred to the Subcommittee on Capital Markets, Securities and Government Sponsored Enterprises.</text>
+      <committee name="House Committee on Banking and Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking and Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Opportunity" name="House Banking and Financial Services"/>
+    <committee activity="Referral" code="HSBA16" subcommittee="Capital Markets, Insurance and Government-Sponsored Enterprises" name="House Banking and Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="h" number="2317"/>
+    <bill relation="identical" session="104" type="s" number="1119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Earthquake insurance"/>
+    <term name="Emergency management"/>
+    <term name="Federal mandates"/>
+    <term name="Federal-state relations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Mortgage loans"/>
+    <term name="Secondary mortgage market"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/1995--Introduced.
+Earthquake Insurance Availability Act of 1995 - Amends the Federal Home Loan Mortgage Corporation Act to authorize the Federal Home Loan Mortgage Corporation to impose earthquake insurance requirements targeted to a specific State or area if, and only if, the State insurance commissioner certifies the existence of reasonable insurance capacity in the State. Delineates certification criteria for consideration by a State insurance commissioner.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="104" type="h" number="2479" updated="2013-07-14T18:47:55-04:00">
+  <state datetime="1995-10-12">REFERRED</state>
+  <status>
+    <introduced datetime="1995-10-12"/>
+  </status>
+  <introduced datetime="1995-10-12"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of James A. Strickland.</title>
+  </titles>
+  <sponsor id="409400"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-10-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1995-10-25">
+      <text>Referred to the Subcommittee on Immigration and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Legal fees"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1995--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual representing the amount paid by the individual to his attorney for services rendered in connection with attempts to obtain standby pay from the Veterans Administration for work as a radiology technologist.</summary>
+</bill>

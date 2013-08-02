@@ -1,0 +1,40 @@
+<bill session="105" type="h" number="1220" updated="2013-07-14T18:50:07-04:00">
+  <state datetime="1997-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="1997-03-21"/>
+  </status>
+  <introduced datetime="1997-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 13, United States Code, to make clear that no sampling or other statistical procedure may be used in determining the total population by States for purposes of the apportionment of Representatives in Congress.</title>
+  </titles>
+  <sponsor id="400318"/>
+  <cosponsors>
+    <cosponsor id="400171" joined="1997-06-05"/>
+    <cosponsor id="400319" joined="1997-05-14"/>
+    <cosponsor id="400365" joined="1997-06-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1997-03-21">
+      <text>Referred to the House Committee on Government Reform and Oversight.</text>
+    </action>
+    <action datetime="1997-04-01">
+      <text>Referred to the Subcommittee on National Security, International Affairs and Criminal Justice.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="National Security, International Affairs and Criminal Justice" name="House Government Reform and Oversight"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census"/>
+    <term name="Congress"/>
+    <term name="Congressional districts"/>
+    <term name="Government statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/1997--Introduced.
+Prohibits sampling or other statistical procedures from being used to determine the total population by States with respect to the decennial census for purposes of the apportionment of Representatives in the Congress among the several States.</summary>
+</bill>

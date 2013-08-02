@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-02-08T15:53:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A002) offered by Mr. Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-02-08T16:33:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 104, 
+      "text": "On agreeing to the Schumer amendment (A002) Failed by recorded vote: 149 - 282 (Roll no. 104).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt108-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr729-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 729
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to encourage States to provide experienced, competent counsel in death penalty cases at the initial trial phase.", 
+  "house_number": 2, 
+  "introduced_at": "1995-02-08", 
+  "number": 108, 
+  "purpose": "An amendment to encourage states to provide experienced, competent counsel in death penalty cases at the initial trial phase.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-02-08T16:33:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

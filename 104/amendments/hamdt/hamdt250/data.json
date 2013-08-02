@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-02T18:31:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A004) offered by Mrs. Schroeder to the Canady amendment (A001).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-02T18:54:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Schroeder amendment (A004) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt250-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": {
+    "amendment_id": "hamdt247-104", 
+    "amendment_type": "hamdt", 
+    "congress": 104, 
+    "number": 247
+  }, 
+  "amends_bill": {
+    "bill_id": "hr925-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 925
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment to the Canady substitute amendment (A001) sought to specify that the amount of compensation provided to property owners will be reduced by an amount equal to any increase in value of the property as a result of any agency action.", 
+  "house_number": 4, 
+  "introduced_at": "1995-03-02", 
+  "number": 250, 
+  "purpose": "An amendment to specify that the amount of compensation provided for in the bill for a private property \"taking\" will be reduced by an amount equal to any increase in over all value of the property as a result of any agency action.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Schroeder, Patricia", 
+    "state": "CO", 
+    "thomas_id": "01033", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-03-02T18:54:00-05:00", 
+  "updated_at": "2013-07-17T07:50:44-04:00"
+}

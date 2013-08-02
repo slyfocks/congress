@@ -1,0 +1,94 @@
+<bill session="105" type="hc" number="277" updated="2013-07-14T18:51:22-04:00">
+  <state datetime="1998-10-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1998-10-21"/>
+  </status>
+  <introduced datetime="1998-05-14"/>
+  <titles>
+    <title as="introduced" type="official">Concerning the New Tribes Mission hostage crisis.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="1998-05-14"/>
+    <cosponsor id="400055" joined="1998-05-14"/>
+    <cosponsor id="400121" joined="1998-05-22"/>
+    <cosponsor id="400144" joined="1998-05-14"/>
+    <cosponsor id="400536" joined="1998-05-14"/>
+    <cosponsor id="400588" joined="1998-05-22"/>
+    <cosponsor id="400273" joined="1998-05-14"/>
+    <cosponsor id="400320" joined="1998-05-14"/>
+    <cosponsor id="400371" joined="1998-07-22"/>
+    <cosponsor id="400435" joined="1998-05-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-05-14">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-07-21">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="1998-09-09T14:06:00-04:00">
+      <text>Mr. Gilman moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="1998-09-09T14:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7457-7459" label="consideration"/>
+    </action>
+    <action datetime="1998-09-09T14:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-09-09T14:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-09-09T14:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-09-10">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1998-10-21">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="1998-10-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S12947" label="consideration"/>
+    </vote>
+    <action datetime="1998-10-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Churches"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Colombia"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation"/>
+    <term name="Evidence (Law)"/>
+    <term name="Hostages"/>
+    <term name="Human rights"/>
+    <term name="Informers"/>
+    <term name="Kidnapping"/>
+    <term name="Latin America"/>
+    <term name="Law"/>
+    <term name="Missionaries"/>
+    <term name="Nongovernmental organizations"/>
+    <term name="Panama"/>
+    <term name="Religion"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/1998--Introduced.
+Expresses the sense of the Congress that: (1) the President and his emissaries should raise the kidnapping of Mark Rich, David Mankins, and Rick Tenenoff of the New Tribes Mission and other American victims in Colombia to all relevant foreign governments, nongovernmental organizations, and religious institutions at every opportunity until a favorable outcome is achieved; (2) the international community should encourage groups believed to have information on this case to come forward; and (3) all appropriate information obtained should be turned over in a timely basis to the New Tribes Mission crisis response team.</summary>
+</bill>

@@ -1,0 +1,1635 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-10-06", 
+      "committee": "House Committee on House Oversight", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Oversight.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-10-09", 
+      "references": [
+        {
+          "reference": "CR H8809-8810", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-12", 
+      "references": [
+        {
+          "reference": "CR E2341-2342", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13", 
+      "references": [
+        {
+          "reference": "CR E2379", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-30T20:18:00-05:00", 
+      "references": [], 
+      "text": "Mr. Thomas moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-30T20:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1748-1754", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-30T20:18:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-30T21:10:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-30T22:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1765-1766", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-30T22:33:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "83", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 166 - 246, 1 Present (Roll No. 83).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2608-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Archer, Bill", 
+      "sponsored_at": "1998-02-25", 
+      "state": "TX", 
+      "thomas_id": "26", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "28", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AL", 
+      "thomas_id": "38", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Baker, Richard H.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "LA", 
+      "thomas_id": "47", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Ballenger, Cass", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NC", 
+      "thomas_id": "50", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Barr, Bob", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "56", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Barrett, Bill", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NE", 
+      "thomas_id": "57", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bartlett, Roscoe G.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MD", 
+      "thomas_id": "60", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "62", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NH", 
+      "thomas_id": "63", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bateman, Herbert H.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "VA", 
+      "thomas_id": "64", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NE", 
+      "thomas_id": "80", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "89", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bliley, Tom", 
+      "sponsored_at": "1997-10-06", 
+      "state": "VA", 
+      "thomas_id": "97", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Boehner, John A.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OH", 
+      "thomas_id": "102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bonilla, Henry", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bono, Sonny", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "1468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bryant, Ed", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TN", 
+      "thomas_id": "141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NC", 
+      "thomas_id": "153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IN", 
+      "thomas_id": "154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Callahan, Sonny", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AL", 
+      "thomas_id": "164", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MI", 
+      "thomas_id": "166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Campbell, Tom", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Canady, Charles T.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cannon, Chris", 
+      "sponsored_at": "1997-10-06", 
+      "state": "UT", 
+      "thomas_id": "1470", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OH", 
+      "thomas_id": "186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chenoweth, Helen", 
+      "sponsored_at": "1997-10-06", 
+      "state": "ID", 
+      "thomas_id": "194", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Christensen, Jon", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NE", 
+      "thomas_id": "196", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NC", 
+      "thomas_id": "211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Coburn, Tom A.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OK", 
+      "thomas_id": "212", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Collins, Mac", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Combest, Larry", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Cook, Merrill", 
+      "sponsored_at": "1997-10-06", 
+      "state": "UT", 
+      "thomas_id": "1475", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooksey, John", 
+      "sponsored_at": "1997-10-06", 
+      "state": "LA", 
+      "thomas_id": "1476", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Crane, Philip M.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IL", 
+      "thomas_id": "249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Crapo, Mike", 
+      "sponsored_at": "1997-10-06", 
+      "state": "ID", 
+      "thomas_id": "250", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cubin, Barbara", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WY", 
+      "thomas_id": "254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Thomas M.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "VA", 
+      "thomas_id": "274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Deal, Nathan", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Dickey, Jay", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AR", 
+      "thomas_id": "295", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Doolittle, John T.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "307", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Dreier, David", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "317", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TN", 
+      "thomas_id": "322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WA", 
+      "thomas_id": "324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ehrlich, Robert L., Jr.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MD", 
+      "thomas_id": "340", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ensign, John", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NV", 
+      "thomas_id": "348", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Everett, Terry", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AL", 
+      "thomas_id": "364", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fawell, Harris W.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IL", 
+      "thomas_id": "373", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fox, Jon D.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "PA", 
+      "thomas_id": "406", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ganske, Greg", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IA", 
+      "thomas_id": "428", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Gekas, George W.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "PA", 
+      "thomas_id": "432", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NV", 
+      "thomas_id": "1485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MD", 
+      "thomas_id": "438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OH", 
+      "thomas_id": "439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gingrich, Newt", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "441", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "1997-10-06", 
+      "state": "VA", 
+      "thomas_id": "446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Goodling, William F.", 
+      "sponsored_at": "1998-02-04", 
+      "state": "PA", 
+      "thomas_id": "447", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "1997-10-06", 
+      "state": "SC", 
+      "thomas_id": "452", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Greenwood, James C.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "PA", 
+      "thomas_id": "465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gutknecht, Gil", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MN", 
+      "thomas_id": "479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hansen, James V.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "UT", 
+      "thomas_id": "498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hastert, J. Dennis", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IL", 
+      "thomas_id": "510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hastings, Doc", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WA", 
+      "thomas_id": "512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AZ", 
+      "thomas_id": "520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hefley, Joel", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CO", 
+      "thomas_id": "524", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hill, Rick", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MT", 
+      "thomas_id": "1489", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hilleary, Van", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TN", 
+      "thomas_id": "538", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hoekstra, Peter", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MI", 
+      "thomas_id": "547", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hostettler, John N.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IN", 
+      "thomas_id": "562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hulshof, Kenny C.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MO", 
+      "thomas_id": "1492", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hutchinson, Asa", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AR", 
+      "thomas_id": "1493", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IL", 
+      "thomas_id": "580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Inglis, Bob", 
+      "sponsored_at": "1997-10-06", 
+      "state": "SC", 
+      "thomas_id": "582", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Istook, Ernest J., Jr.", 
+      "sponsored_at": "1998-02-04", 
+      "state": "OK", 
+      "thomas_id": "586", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NC", 
+      "thomas_id": "612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Kasich, John R.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OH", 
+      "thomas_id": "618", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kingston, Jack", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Klug, Scott L.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WI", 
+      "thomas_id": "641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Knollenberg, Joe", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MI", 
+      "thomas_id": "642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AZ", 
+      "thomas_id": "645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Largent, Steve", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OK", 
+      "thomas_id": "664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latham, Tom", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IA", 
+      "thomas_id": "666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "1997-10-06", 
+      "state": "KY", 
+      "thomas_id": "689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Linder, John", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Livingston, Bob", 
+      "sponsored_at": "1997-10-06", 
+      "state": "LA", 
+      "thomas_id": "696", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IL", 
+      "thomas_id": "733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCrery, Jim", 
+      "sponsored_at": "1997-10-06", 
+      "state": "LA", 
+      "thomas_id": "763", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McInnis, Scott", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CO", 
+      "thomas_id": "775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McIntosh, David M.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IN", 
+      "thomas_id": "776", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Dan", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NC", 
+      "thomas_id": "849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Nethercutt, George R., Jr.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WA", 
+      "thomas_id": "860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Neumann, Mark W.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WI", 
+      "thomas_id": "861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ney, Robert W.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OH", 
+      "thomas_id": "862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Northup, Anne M.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "KY", 
+      "thomas_id": "1508", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "GA", 
+      "thomas_id": "869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Nussle, Jim", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IA", 
+      "thomas_id": "871", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Packard, Ron", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Parker, Mike", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MS", 
+      "thomas_id": "889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Paxon, Bill", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NY", 
+      "thomas_id": "901", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Peterson, John E.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "PA", 
+      "thomas_id": "1512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MS", 
+      "thomas_id": "1513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "PA", 
+      "thomas_id": "1514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Pombo, Richard W.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Porter, John Edward", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IL", 
+      "thomas_id": "923", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OH", 
+      "thomas_id": "933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MN", 
+      "thomas_id": "942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Redmond, Bill", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NM", 
+      "thomas_id": "1515", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Riggs, Frank", 
+      "sponsored_at": "1997-10-30", 
+      "state": "CA", 
+      "thomas_id": "962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Riley, Bob", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AL", 
+      "thomas_id": "1517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Rogan, James E.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "1519", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Rogers, Harold", 
+      "sponsored_at": "1997-10-06", 
+      "state": "KY", 
+      "thomas_id": "977", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CA", 
+      "thomas_id": "998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AZ", 
+      "thomas_id": "1009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scarborough, Joe", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "1025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schaefer, Dan", 
+      "sponsored_at": "1997-10-06", 
+      "state": "CO", 
+      "thomas_id": "1026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sensenbrenner,  James, Jr.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WI", 
+      "thomas_id": "1041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "1525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AZ", 
+      "thomas_id": "1043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Skeen, Joe", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NM", 
+      "thomas_id": "1063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "1075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Smith, Linda", 
+      "sponsored_at": "1997-10-06", 
+      "state": "WA", 
+      "thomas_id": "1078", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Smith, Nick", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MI", 
+      "thomas_id": "1080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Smith, Robert", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OR", 
+      "thomas_id": "1083", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Snowbarger, Vince", 
+      "sponsored_at": "1997-10-06", 
+      "state": "KS", 
+      "thomas_id": "1529", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "IN", 
+      "thomas_id": "1089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Spence, Floyd", 
+      "sponsored_at": "1997-10-06", 
+      "state": "SC", 
+      "thomas_id": "1091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "1103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "1997-10-06", 
+      "state": "AZ", 
+      "thomas_id": "1122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sununu, John E.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NH", 
+      "thomas_id": "1532", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Talent, Jim", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MO", 
+      "thomas_id": "1135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "1997-10-06", 
+      "state": "LA", 
+      "thomas_id": "1140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Taylor, Charles H.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NC", 
+      "thomas_id": "1141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TX", 
+      "thomas_id": "1155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John R.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "SD", 
+      "thomas_id": "1534", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Tiahrt, Todd", 
+      "sponsored_at": "1997-10-06", 
+      "state": "KS", 
+      "thomas_id": "1158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MI", 
+      "thomas_id": "1177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Walsh, James T.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "NY", 
+      "thomas_id": "1197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "1997-10-06", 
+      "state": "TN", 
+      "thomas_id": "1199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OK", 
+      "thomas_id": "1206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "OK", 
+      "thomas_id": "1208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "1215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "1997-10-06", 
+      "state": "KY", 
+      "thomas_id": "1222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "1997-10-06", 
+      "state": "MS", 
+      "thomas_id": "1226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Young, C.W. Bill", 
+      "sponsored_at": "1997-10-06", 
+      "state": "FL", 
+      "thomas_id": "1255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "1998-03-30T22:33:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-10-06", 
+  "number": "2608", 
+  "official_title": "To protect individuals from having money involuntarily collected and used for political activities by a corporation or labor organization.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1663-105", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Paycheck Protection Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Schaffer, Bob", 
+    "state": "CO", 
+    "thomas_id": "1524", 
+    "title": "Rep"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "1998-03-30T22:33:00-05:00", 
+  "subjects": [
+    "Bank employees", 
+    "Business and politics", 
+    "Campaign funds", 
+    "Commerce", 
+    "Corporations", 
+    "Employee rights", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Labor and employment", 
+    "Labor union finances", 
+    "Labor union political activities", 
+    "Lobbying", 
+    "Political activities", 
+    "Stockholders", 
+    "Union dues"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1997-10-06", 
+    "text": "Paycheck Protection Act - Amends the Federal Election Campaign Act of 1971 to make it unlawful, except with the separate, prior, written, voluntary authorization of each individual, for: (1) national banks or corporations to collect from or assess its stockholders or employees any dues, initiation fee, or other payment as a condition of employment if any part of such dues, fee, or payment will be used for political activities in which the national bank or corporation is engaged; and (2) labor organizations to collect from or assess its members or nonmembers any dues, fee, or other payment if any part of such dues, fee, or payment will be used for political activities in which the labor organization is engaged. States that an authorization shall remain in effect until revoked and may be revoked at any time. Requires each entity collecting from or assessing amounts from an individual with an authorization in effect to provide the individual with a statement that the individual may at any time revoke the authorization."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Paycheck Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To protect individuals from having money involuntarily collected and used for political activities by a corporation or labor organization.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2012-11-01T22:48:39-05:00"
+}

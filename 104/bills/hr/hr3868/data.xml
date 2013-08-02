@@ -1,0 +1,150 @@
+<bill session="104" type="h" number="3868" updated="2013-07-14T18:48:23-04:00">
+  <state datetime="1996-09-28">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="1996-09-28"/>
+  </status>
+  <introduced datetime="1996-07-23"/>
+  <titles>
+    <title as="introduced" type="official">To extend certain programs under the Energy Policy and Conservation Act through September 30, 1996.</title>
+  </titles>
+  <sponsor id="409618"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1996-07-23">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1996-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1996-07-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="1996-07-26T15:04:00-04:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 104-712.</text>
+    </action>
+    <calendar datetime="1996-07-26T15:04:00-04:00" calendar="Union" number="379">
+      <text>Placed on the Union Calendar, Calendar No. 379.</text>
+    </calendar>
+    <action datetime="1996-07-30T10:15:00-04:00">
+      <text>Mr. Schaefer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1996-07-30T10:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8671-8672" label="consideration"/>
+    </action>
+    <action datetime="1996-07-30T10:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1996-07-30T10:21:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1996-07-30T10:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="1996-07-31" calendar="Senate Legislative" under="General Orders" number="556">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.</text>
+    </calendar>
+    <action datetime="1996-09-28">
+      <text>Measure laid before Senate.</text>
+      <reference ref="CR S11669-11670" label="consideration"/>
+    </action>
+    <action datetime="1996-09-28">
+      <text>Amendment SP 5415 proposed by Senator Lott for Senator Murkowski.</text>
+    </action>
+    <action datetime="1996-09-28">
+      <text>Amendment SP 5415 agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="1996-09-28" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="1996-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="1888"/>
+    <bill relation="unknown" session="104" type="s" number="1888"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative procedure"/>
+    <term name="Air pollution control"/>
+    <term name="Alternative energy sources"/>
+    <term name="Alternative fuels"/>
+    <term name="Antitrust actions"/>
+    <term name="Antitrust law"/>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Automobile fuel consumption"/>
+    <term name="Coal"/>
+    <term name="Coal reserves"/>
+    <term name="Commerce"/>
+    <term name="Competition"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Continental shelf"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Justice"/>
+    <term name="Economic impact statements"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Educational policy"/>
+    <term name="Emergency management"/>
+    <term name="Energy conservation"/>
+    <term name="Energy efficiency"/>
+    <term name="Energy industries"/>
+    <term name="Energy policy"/>
+    <term name="Energy shortages"/>
+    <term name="Energy supplies"/>
+    <term name="Environmental protection"/>
+    <term name="Export controls"/>
+    <term name="Export finance"/>
+    <term name="Exports"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal aid to hospitals"/>
+    <term name="Feedstock"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign trade promotion"/>
+    <term name="Fuel allocation"/>
+    <term name="Gas in submerged lands"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government trust funds"/>
+    <term name="Health"/>
+    <term name="Housing and community development"/>
+    <term name="International affairs"/>
+    <term name="International cooperation"/>
+    <term name="Law"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Natural gas"/>
+    <term name="Natural gas reserves"/>
+    <term name="Oil and gas leases"/>
+    <term name="Petrochemicals"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum in submerged lands"/>
+    <term name="Petroleum industry"/>
+    <term name="Petroleum prices"/>
+    <term name="Petroleum reserves"/>
+    <term name="Petroleum storage"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Residential energy conservation"/>
+    <term name="Science, technology, communications"/>
+    <term name="Small business"/>
+    <term name="Strategic materials"/>
+    <term name="Technology transfer"/>
+    <term name="Transportation and public works"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5415"/>
+  </amendments>
+  <summary>9/28/1996--Passed Senate amended.
+Amends the Energy Policy and Conservation Act (EPCA) to authorize appropriations for FY 1997 for the Strategic Petroleum Reserve and for programs promoting the domestic renewable energy industry and related service industries. Revises the exclusivity requirements for international voluntary agreements to make EPCA requirements the sole procedures for implementing international emergency response provisions of such agreements, defined as the international petroleum allocation and information provisions currently covered, as well as specified additional emergency response measures. Changes from mandatory to discretionary the authority of the Attorney General to promulgate recordkeeping rules with respect to voluntary agreements and plans of action. Requires the Attorney General and the Federal Trade Commission to make competition and small business impact reports to the President and the Congress at least annually (currently, semiannually), or once every six months during an international energy supply emergency. States that the antitrust defense under EPCA shall not extend to the international allocation of petroleum products unless allocation is required by the international energy program during an international energy supply emergency. Extends from June 30, 1996, to September 30, 1997, all authorities relating to: (1) domestic energy supply availability (including the Strategic Petroleum Reserve and contracting authority for foreign-owned petroleum products); and (2) energy emergency preparedness. Authorizes appropriations for FY 1997 for: (1) State energy conservation programs and the Federal financial and technical assistance in support of such programs; (2) grants for project costs and technical assistance to schools and hospitals for implementing approved energy conservation projects; and (3) the alternative fuels truck commercial application program. (Sec. 2) Amends the Energy Conservation and Production Act to authorize appropriations for FY 1997 for the weatherization program.</summary>
+</bill>

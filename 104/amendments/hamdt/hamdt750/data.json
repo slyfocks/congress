@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-09-07T11:18:00-04:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Kasich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-07T12:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 639, 
+      "text": "On agreeing to the Kasich amendment (A005) Failed by recorded vote: 210 - 213 (Roll no. 639).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt750-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2126-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2126
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to reduce the Air Force aircraft procurement appropriation by $493 million.", 
+  "house_number": 5, 
+  "introduced_at": "1995-09-07", 
+  "number": 750, 
+  "purpose": "An amendment printed in the Congressional Record of July 28, as amendment No. 10, to strike $493 million from the Air Force Aircraft Procurement Account. The intent of the amendment is to prevent funding for new production of additional B-2 stealth bombers.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Kasich, John R.", 
+    "state": "OH", 
+    "thomas_id": "00618", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1995-09-07T12:53:00-04:00", 
+  "updated_at": "2013-07-17T07:50:48-04:00"
+}

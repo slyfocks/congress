@@ -1,0 +1,87 @@
+<bill session="105" type="h" number="4058" updated="2013-07-14T18:50:57-04:00">
+  <state datetime="1998-07-20T15:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-07-20T15:14:00-04:00"/>
+  </status>
+  <introduced datetime="1998-06-16"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 49, United States Code, to extend the aviation insurance program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400374"/>
+  <cosponsors>
+    <cosponsor id="400116" joined="1998-06-16"/>
+    <cosponsor id="400243" joined="1998-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1998-06-16">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="1998-06-18">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1998-06-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1998-06-18">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="1998-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="1998-06-25">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="1998-07-17T14:21:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 105-632.</text>
+    </action>
+    <calendar datetime="1998-07-17T14:21:00-04:00" calendar="Union" number="353">
+      <text>Placed on the Union Calendar, Calendar No. 353.</text>
+    </calendar>
+    <action datetime="1998-07-20T15:08:00-04:00">
+      <text>Mr. Duncan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1998-07-20T15:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5879-5880" label="consideration"/>
+    </action>
+    <action datetime="1998-07-20T15:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-07-20T15:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-07-20T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-07-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Actions and defenses"/>
+    <term name="Aviation insurance"/>
+    <term name="Claims"/>
+    <term name="Commerce"/>
+    <term name="Contracts"/>
+    <term name="Courts of special jurisdiction"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government liability"/>
+    <term name="Jurisdiction"/>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1998--Introduced.
+Amends Federal aviation law to revise aviation insurance requirements with respect to disputed losses to authorize an insured person to bring a civil action in the U.S. Court of Federal Claims (currently, only in U.S. district court) against the U.S. Government when: (1) (as currently) an insured loss is in dispute; or (2) the person is subrogated under a contract with the insured party to the insured party's rights against the U.S. Government; and (3) the person has paid to the insured party, with the Secretary of Transportation's approval, a covered amount for a physical damage loss. Extends the Secretary's authority to provide aviation insurance and reinsurance through FY 2003.</summary>
+</bill>

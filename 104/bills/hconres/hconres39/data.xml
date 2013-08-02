@@ -1,0 +1,64 @@
+<bill session="104" type="hc" number="39" updated="2013-07-14T18:48:38-04:00">
+  <state datetime="1995-03-14T18:23:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-03-14T18:23:00-05:00"/>
+  </status>
+  <introduced datetime="1995-03-14"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress regarding Federal disaster relief.</title>
+  </titles>
+  <sponsor id="403864"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1995-03-14"/>
+    <cosponsor id="400057" joined="1995-03-14"/>
+    <cosponsor id="400107" joined="1995-03-14"/>
+    <cosponsor id="400115" joined="1995-03-14"/>
+    <cosponsor id="300038" joined="1995-03-14"/>
+    <cosponsor id="407772" joined="1995-03-14"/>
+    <cosponsor id="400307" joined="1995-03-14"/>
+    <cosponsor id="400374" joined="1995-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-03-14">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="1995-03-14T18:15:00-05:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <action datetime="1995-03-14T18:16:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H3119-3120" label="consideration"/>
+    </action>
+    <action datetime="1995-03-14T18:16:00-05:00">
+      <text>Mr. Emerson asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-03-14T18:23:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="1995-03-14T18:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-03-15">
+      <text>Received in the Senate and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Disasters"/>
+    <term name="Commerce"/>
+    <term name="Disaster insurance"/>
+    <term name="Disaster relief"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government and business"/>
+    <term name="Government spending reductions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/1995--Introduced.
+Expresses the sense of the Congress that: (1) those living in areas at high risk to natural disasters should assume more responsibility for such risk through appropriate insurance; (2) disaster mitigation programs should be encouraged and enhanced at the State and local level; (3) insurers should create a privately funded pooling mechanism for the spreading of disaster risk; and (4) a fundamental overhaul of Federal disaster policies should be undertaken to reduce taxpayer costs and encourage more effective partnerships between the private sector and Government in anticipation of future catastrophes.</summary>
+</bill>

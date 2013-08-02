@@ -1,0 +1,112 @@
+<bill session="104" type="h" number="657" updated="2013-07-14T18:47:14-04:00">
+  <state datetime="1996-10-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1996-10-09"/>
+  </status>
+  <introduced datetime="1995-01-24"/>
+  <titles>
+    <title as="introduced" type="official">To extend the deadline under the Federal Power Act applicable to the construction of three hydroelectric projects in the State of Arkansas.</title>
+  </titles>
+  <sponsor id="300068"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-01-24">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1995-02-21">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-10-18">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-10-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-10-18">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1995-10-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-10-25">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Commerce"/>
+    </calendar>
+    <action datetime="1995-11-07T20:11:00-05:00">
+      <text>Reported by the Committee on Commerce. H. Rept. 104-315.</text>
+    </action>
+    <calendar datetime="1995-11-07T20:11:00-05:00" calendar="Union" number="166">
+      <text>Placed on the Union Calendar, Calendar No. 166.</text>
+    </calendar>
+    <action datetime="1995-11-13T15:10:00-05:00">
+      <text>Mr. Schaefer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-11-13T15:11:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12145-12146" label="consideration"/>
+    </action>
+    <action datetime="1995-11-13T15:11:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <action datetime="1995-11-13T15:11:00-05:00">
+      <text>VOTE POSTPONED - At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McKeon requested the yeas and nays. Pursuant to a previous announcement of the Chair, further proceedings were postponed.</text>
+    </action>
+    <action datetime="1995-11-13T18:05:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H12156" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-11-13T18:23:00-05:00" how="roll" result="pass" roll="789" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 789).</text>
+    </vote>
+    <action datetime="1995-11-13T18:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="1995-11-14" calendar="Senate Legislative" under="General Orders" number="238">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 238.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="1996-09-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11571" label="consideration"/>
+    </vote>
+    <topresident datetime="1996-09-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1996-09-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1996-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1996-10-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="1996-10-09" type="public" number="104-241">
+      <text>Became Public Law No: 104-241.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="104" type="s" number="549"/>
+    <bill relation="unknown" session="104" type="s" number="549"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Arkansas"/>
+    <term name="Energy policy"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/1995--Introduced.
+Authorizes the Federal Energy Regulatory Commission, upon the request of a certain licensee, to extend the time required for commencement of construction of three specified hydroelectric projects in the State of Arkansas.</summary>
+</bill>

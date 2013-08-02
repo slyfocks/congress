@@ -1,0 +1,70 @@
+<bill session="104" type="h" number="802" updated="2012-11-01T22:43:55-05:00">
+  <state datetime="1995-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="1995-02-02"/>
+  </status>
+  <introduced datetime="1995-02-02"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit payment of Federal retirement benefits, except in certain cases, to those who are not retired as defined under the Social Security Act.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1995-02-02">
+      <text>Referred to the Committee on Government Reform and Oversight, and in addition to the Committees on National Security, House Oversight, the Judiciary, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-02-02">
+      <text>Referred to House National Security</text>
+    </action>
+    <action datetime="1995-02-02">
+      <text>Referred to House Government Reform and Oversight</text>
+    </action>
+    <action datetime="1995-02-02">
+      <text>Referred to House Oversight</text>
+    </action>
+    <action datetime="1995-02-02">
+      <text>Referred to House Intelligence (Permanent Select)</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="1995-02-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="1995-02-15">
+      <text>Referred to the Subcommittee on Civil Service.</text>
+      <committee name="House Government Reform and Oversight"/>
+    </action>
+    <action datetime="1995-02-28">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House National Security"/>
+    </action>
+    <action datetime="1995-02-28">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House National Security"/>
+    </action>
+    <action datetime="1995-03-15">
+      <text>Referred to the Subcommittee on Crime.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee activity="Referral, In Committee" code="HSAS" name="House National Security"/>
+    <committee activity="Referral" code="HSAS02" name="House National Security" subcommittee="Military Personnel"/>
+    <committee activity="Referral, In Committee" code="HSGO" name="House Government Reform and Oversight"/>
+    <committee activity="Referral" code="HSGO09" name="House Government Reform and Oversight" subcommittee="Civil Service"/>
+    <committee activity="Referral, In Committee" code="HSHA" name="House Oversight"/>
+    <committee activity="Referral, In Committee" code="HLIG" name="House Intelligence (Permanent Select)"/>
+    <committee activity="Referral, In Committee" code="HSJU" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU08" name="House Judiciary" subcommittee="Crime"/>
+  </committees>
+  <subjects>
+    <term name="Federal employees"/>
+    <term name="Civil service pensions"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Retirement age"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <summary>02/02/1995--Introduced.
+Prohibits the Federal Government from paying retirement benefits to or through any person who ceases Federal employment after the year 2000, unless that person is retired as defined under the Social Security Act. Makes such prohibition inapplicable to former public safety officers (as defined under the Omnibus Crime Control and Safe Streets Act of 1968) and former members of the armed forces who have been exposed to actual combat dangers as a result of hostile activities by opposing forces.</summary>
+</bill>

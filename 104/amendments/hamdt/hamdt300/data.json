@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-03-15T19:14:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A008) offered by Mr. DeLay.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-03-15T20:08:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 242, 
+      "text": "On agreeing to the DeLay amendment (A008) Agreed to by recorded vote: 254 - 168 (Roll no. 242).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt300-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1158-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 1158
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment increases the amount rescinded from OSHA salaries and expenses by $3.5 million.", 
+  "house_number": 8, 
+  "introduced_at": "1995-03-15", 
+  "number": 300, 
+  "purpose": "An amendment to increase the amount rescinded from OSHA salaries and expenses by $3.5 million to $19.5 million. The amendment is intended to stop work on OSHA's proposed ergonomics standard.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "DeLay, Tom", 
+    "state": "TX", 
+    "thomas_id": "00282", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1995-03-15T20:08:00-05:00", 
+  "updated_at": "2013-07-17T07:50:46-04:00"
+}

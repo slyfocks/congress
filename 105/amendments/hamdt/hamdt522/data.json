@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-03-11T18:40:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A001) offered by Mr. Smith (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-03-11T18:43:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (TX) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt522-105", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr992-105", 
+    "bill_type": "hr", 
+    "congress": 105, 
+    "number": 992
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "105", 
+  "description": "Amendment clarifies that the grant of jurisdiction contained in this Act does not affect review provisions contained in other environmental laws.", 
+  "house_number": 1, 
+  "introduced_at": "1998-03-11", 
+  "number": 522, 
+  "purpose": "An amendment to specify that the grant of jurisdiction made in the bill does not extend to matters over which other Federal law has granted exclusive juridiction to one or more United States courts of appeals or district courts.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "1998-03-11T18:43:00-05:00", 
+  "updated_at": "2013-07-17T07:51:38-04:00"
+}

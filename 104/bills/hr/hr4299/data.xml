@@ -1,0 +1,59 @@
+<bill session="104" type="h" number="4299" updated="2013-07-14T18:48:33-04:00">
+  <state datetime="1996-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="1996-09-28"/>
+  </status>
+  <introduced datetime="1996-09-28"/>
+  <titles>
+    <title as="introduced" type="short">Social Security On-Line Privacy Protection Act of 1996</title>
+    <title as="introduced" type="official">To regulate the use by interactive computer services of Social Security account numbers and related personally identifiable information.</title>
+  </titles>
+  <sponsor id="400584"/>
+  <cosponsors>
+    <cosponsor id="400570" joined="1996-09-28"/>
+    <cosponsor id="400176" joined="1996-09-28"/>
+    <cosponsor id="407669" joined="1996-09-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1996-09-28">
+      <text>Referred to the House Committee on Commerce.</text>
+    </action>
+    <action datetime="1996-09-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1842"/>
+    </action>
+    <action datetime="1996-10-11">
+      <text>Referred to the Subcommittee on Telecommunications and Finance.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+    <action datetime="1996-10-11">
+      <text>Referred to the Subcommittee on Commerce, Trade, and Hazardous Materials.</text>
+      <committee name="House Committee on Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Commerce"/>
+    <committee activity="Referral" code="HSIF11" subcommittee="Commerce, Trade, and Hazardous Materials" name="House Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Information services"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Computer networks"/>
+    <term name="Consumer protection"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government operations and politics"/>
+    <term name="Identification devices"/>
+    <term name="Injunctions"/>
+    <term name="Interactive media"/>
+    <term name="Law"/>
+    <term name="Right of privacy"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1996--Introduced.
+Social Security On-Line Privacy Protection Act of 1996 - Prohibits an interactive computer service providing computer access to multiple users via modem or other means of telecommunication to the Internet or any other on-line network from disclosing to a third party an individual's social security account number or related personally identifiable information without the individual's prior informed written consent. Requires such service to permit an individual to revoke any consent at any time, upon which revocation such service shall cease disclosing such number or information to a third party. Gives the Federal Trade Commission enforcement authority under this Act.</summary>
+</bill>

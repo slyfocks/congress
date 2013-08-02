@@ -1,0 +1,49 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-02-28T18:47:00-05:00", 
+      "references": [], 
+      "text": "Amendment (A005) offered by Mr. Miller (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-02-28T20:34:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 35, 
+      "text": "On agreeing to the Miller (FL) amendment (A005) Failed by recorded vote: 208 - 217, 1 Present (Roll no. 35).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt934-104", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2854-104", 
+    "bill_type": "hr", 
+    "congress": 104, 
+    "number": 2854
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "104", 
+  "description": "Amendment sought to phase out the sugar price support program over five years.", 
+  "house_number": 5, 
+  "introduced_at": "1996-02-28", 
+  "number": 934, 
+  "purpose": "An amendment to phase out the sugar price support program over five years.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Miller, Dan", 
+    "state": "FL", 
+    "thomas_id": "00807", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "1996-02-28T20:34:00-05:00", 
+  "updated_at": "2013-07-17T07:50:52-04:00"
+}

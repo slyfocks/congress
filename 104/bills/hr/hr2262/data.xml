@@ -1,0 +1,81 @@
+<bill session="104" type="h" number="2262" updated="2013-07-14T18:47:49-04:00">
+  <state datetime="1995-12-19T17:59:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1995-12-19T17:59:00-05:00"/>
+  </status>
+  <introduced datetime="1995-09-06"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Post Office building located at 218 North Alston Street in Foley, Alabama, as the "Holk Post Office Building".</title>
+  </titles>
+  <sponsor id="400500"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="1995-09-06"/>
+    <cosponsor id="401417" joined="1995-09-06"/>
+    <cosponsor id="401854" joined="1995-09-06"/>
+    <cosponsor id="400084" joined="1995-09-06"/>
+    <cosponsor id="400127" joined="1995-09-06"/>
+    <cosponsor id="400502" joined="1995-09-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="1995-09-06">
+      <text>Referred to the House Committee on Government Reform and Oversight. for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="1995-09-08">
+      <text>Referred to the Subcommittee on Postal Service.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <action datetime="1995-12-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </action>
+    <calendar state="REPORTED" datetime="1995-12-14">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Government Reform and Oversight"/>
+    </calendar>
+    <action datetime="1995-12-19T17:57:00-05:00">
+      <text>Mr. McHugh moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1995-12-19T17:57:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15160-15161" label="consideration"/>
+    </action>
+    <action datetime="1995-12-19T17:57:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1995-12-19T17:59:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1995-12-19T17:59:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1995-12-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1996-04-18">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Governmental Affairs"/>
+    </calendar>
+    <action datetime="1996-05-23">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Stevens without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1996-05-23" calendar="Senate Legislative" under="General Orders" number="424">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 424.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform and Oversight" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSGO11" subcommittee="Postal Service" name="House Government Reform and Oversight"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Alabama"/>
+    <term name="Commemorations"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>9/6/1995--Introduced.
+Designates the United States Post Office building located at 218 North Alston Street in Foley, Alabama, as the Holk Post Office Building.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="105" type="h" number="4831" updated="2013-07-14T18:51:09-04:00">
+  <state datetime="1998-10-15T13:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1998-10-15T13:09:00-04:00"/>
+  </status>
+  <introduced datetime="1998-10-14"/>
+  <titles>
+    <title as="introduced" type="official">To temporarily reenact chapter 12 of title 11 of the United States Code.</title>
+  </titles>
+  <sponsor id="400382"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1998-10-14">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1998-10-14">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1998-10-15T12:58:00-04:00">
+      <text>Mr. Gekas moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="1998-10-15T12:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10950-10951" label="consideration"/>
+    </action>
+    <action datetime="1998-10-15T12:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1998-10-15T13:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1998-10-15T13:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1998-10-20">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Agricultural credit"/>
+    <term name="Agriculture and food"/>
+    <term name="Bankruptcy"/>
+    <term name="Debtor and creditor"/>
+    <term name="Families"/>
+    <term name="Family farms"/>
+    <term name="Farm income"/>
+    <term name="Farmers"/>
+    <term name="Law"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/1998--Passed House amended.
+Reenacts chapter 12 of the Federal Bankruptcy Code (Adjustment of Debts of a Family Farmer with Regular Annual Income) for the period beginning October 1, 1998, and ending on April 1, 1999 (thereby extending family farmer bankruptcy relief). Provides for the continuation of all cases and proceedings as if such chapter were continued in effect after April 1, 1999, including the substantive rights of parties in connection with such cases.</summary>
+</bill>

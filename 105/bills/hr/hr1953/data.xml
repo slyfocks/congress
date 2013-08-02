@@ -1,0 +1,114 @@
+<bill session="105" type="h" number="1953" updated="2013-07-14T18:50:22-04:00">
+  <state datetime="1997-07-28T16:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1997-07-28T16:14:00-04:00"/>
+  </status>
+  <introduced datetime="1997-06-18"/>
+  <titles>
+    <title as="introduced" type="official">To clarify State authority to tax compensation paid to certain employees.</title>
+  </titles>
+  <sponsor id="400544"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="1997-06-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="1997-06-19">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-06-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-06-19">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="1997-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="1997-07-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="1997-07-25T14:13:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 105-203.</text>
+    </action>
+    <calendar datetime="1997-07-25T14:14:00-04:00" calendar="Union" number="124">
+      <text>Placed on the Union Calendar, Calendar No. 124.</text>
+    </calendar>
+    <action datetime="1997-07-28T15:58:00-04:00">
+      <text>Mr. Gekas moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="1997-07-28T15:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5854-5857" label="consideration"/>
+    </action>
+    <action datetime="1997-07-28T15:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="1997-07-28T16:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="1997-07-28T16:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="1997-07-29">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1997-07-29">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1997-10-22">
+      <text>Referred jointly to the Committees on Governmental Affairs; Finance by unanimous consent.</text>
+    </action>
+    <action datetime="1997-10-24">
+      <text>Committee on Governmental Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="1997-11-05">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="105" type="h" number="865"/>
+    <bill relation="unknown" session="105" type="h" number="874"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Army posts"/>
+    <term name="Columbia River development"/>
+    <term name="Energy"/>
+    <term name="Federal employees"/>
+    <term name="Federal installations"/>
+    <term name="Government contractors"/>
+    <term name="Hydroelectric power"/>
+    <term name="Income tax"/>
+    <term name="Intergovernmental tax relations"/>
+    <term name="Kentucky"/>
+    <term name="Local taxation"/>
+    <term name="Missouri River development"/>
+    <term name="Nebraska"/>
+    <term name="Oregon"/>
+    <term name="Personal income tax"/>
+    <term name="Residence requirements"/>
+    <term name="South Dakota"/>
+    <term name="State taxation"/>
+    <term name="Taxation"/>
+    <term name="Washington State"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1300"/>
+  </amendments>
+  <summary>6/18/1997--Introduced.
+Amends Federal law to subject pay and compensation paid to an individual for personal services at Fort Campbell, Kentucky, to taxation by the State or any political subdivision thereof of which the employee is a resident. Subjects pay or compensation paid by the United States for personal services as a U.S. employee at a U.S.-owned hydroelectric facility to taxation by the State or any political subdivision of which the employee is a resident if the facility is on: (1) the Columbia River, portions of which are in Washington and Oregon; or (2) the Missouri River, portions of which are in South Dakota and Nebraska.</summary>
+</bill>
