@@ -14,6 +14,7 @@ def make_scatter(congress_num):
     extreme_index1 = members.index(most_least.most_extreme(congress_num, 10)[0])
     extreme_index2 = list(arr[extreme_index1]).index(min(arr[extreme_index1]))
     if members[extreme_index1].split(' ')[1] == 'R':
+        #change color so Democrats are blue and Republicans are red
         for i in range(len(cls)):
             if cls[i] == 0:
                 cls[i] = 1
